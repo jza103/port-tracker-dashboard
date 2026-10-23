@@ -4,7 +4,7 @@
 settings:
   # owner/repo of this dashboard. Used for "Save to GitHub" links.
   # On GitHub Actions this is filled in automatically.
-  repo: jza103/Dashboard
+  repo: jza103/port-tracker-dashboard
   # Keep news articles for this many days.
   newsDays: 120
   # A project counts as "active" if it had a commit or release this recently.

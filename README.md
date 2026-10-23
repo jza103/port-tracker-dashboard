@@ -25,7 +25,7 @@ outlets that cover the scene.
 3. **Run it once:** **Actions → Update dashboard → Run workflow**.
 
 Your dashboard is then at `https://<your-username>.github.io/<repo>/`
-(for this repo: https://jza103.github.io/Dashboard/). Bookmark it, or use "Add to Home Screen" on your phone.
+(for this repo: https://jza103.github.io/port-tracker-dashboard/). Bookmark it, or use "Add to Home Screen" on your phone.
 
 ## Adding, hiding and following projects
 

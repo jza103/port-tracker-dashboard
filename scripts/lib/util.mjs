@@ -1,6 +1,6 @@
 // Small helpers shared by the updater scripts.
 
-export const UA = 'PortTrackerDashboard/1.0 (+https://github.com/jza103/Dashboard)';
+export const UA = 'PortTrackerDashboard/1.0 (+https://github.com/jza103/port-tracker-dashboard)';
 
 export const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 
