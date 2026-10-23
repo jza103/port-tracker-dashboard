@@ -26,12 +26,13 @@ follow: []
 #   type:     decompilation | recompilation | port | source-port | reimplementation | mod | tool | emulator
 #   tags:     extra labels, e.g. [VR]
 #   links:    [{ label: Website, url: https://... }]
+#   progress: for decompilations that don't publish a number: complete, or e.g. 75
 projects:
   # --- Decompilations (source code, usually no playable build) ---
   - { repo: zeldaret/oot, name: OoT Decompilation, game: "The Legend of Zelda: Ocarina of Time", category: Nintendo 64, type: decompilation }
   - { repo: zeldaret/mm, name: MM Decompilation, game: "The Legend of Zelda: Majora's Mask", category: Nintendo 64, type: decompilation }
-  - { repo: n64decomp/sm64, name: SM64 Decompilation, game: Super Mario 64, category: Nintendo 64, type: decompilation }
-  - { repo: n64decomp/007, name: GoldenEye Decompilation, game: GoldenEye 007, category: Nintendo 64, type: decompilation }
+  - { repo: n64decomp/sm64, name: SM64 Decompilation, game: Super Mario 64, category: Nintendo 64, type: decompilation, progress: complete }
+  - { repo: n64decomp/007, name: GoldenEye Decompilation, game: GoldenEye 007, category: Nintendo 64, type: decompilation, progress: complete }
   - { repo: pmret/papermario, name: Paper Mario Decompilation, game: Paper Mario, category: Nintendo 64, type: decompilation }
   - { repo: DavidSM64/Diddy-Kong-Racing, name: DKR Decompilation, game: Diddy Kong Racing, category: Nintendo 64, type: decompilation }
   - { repo: zeldaret/tp, name: TP Decompilation, game: "The Legend of Zelda: Twilight Princess", category: GameCube, type: decompilation }
@@ -150,3 +151,10 @@ overrides:
   questports:questzdoom: { game: Doom, category: PC }
   questports:red-dead-redemption-vr: { game: Red Dead Redemption, category: Xbox 360 }
   questports:winlatorxr: { game: "WinlatorXR (Windows apps)", category: PC }
+  # Finished decompilations that don't publish a progress number.
+  pret/pokeemerald: { progress: complete, game: "Pokémon Emerald", category: Game Boy Advance }
+  pret/pokeruby: { progress: complete, game: "Pokémon Ruby & Sapphire", category: Game Boy Advance }
+  pret/pokefirered: { progress: complete, game: "Pokémon FireRed & LeafGreen", category: Game Boy Advance }
+  zeldaret/botw: { game: "The Legend of Zelda: Breath of the Wild", category: Nintendo Switch }
+  sat-r/sa2: { game: "Sonic Advance 1 & 2", category: Game Boy Advance }
+  gensokyoclub/th06: { game: "Touhou 6: Embodiment of Scarlet Devil", category: PC }

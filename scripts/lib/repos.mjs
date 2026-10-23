@@ -62,10 +62,10 @@ export function pickReleases(all, latestStable, tagPattern) {
   list.sort((a, b) => String(b.date).localeCompare(String(a.date)));
   const newest = list[0] || stable || null;
   if (!stable) stable = list.find((r) => !r.prerelease) || null;
-  return {
-    release: newest,
-    stable: stable && newest && stable.tag !== newest.tag ? stable : null,
-  };
+  const other = stable && newest && stable.tag !== newest.tag ? stable : null;
+  // A newer build with no files (e.g. a tag-only beta) is less useful than a stable one with downloads.
+  if (other && !newest.assets?.length && other.assets?.length) return { release: other, stable: newest };
+  return { release: newest, stable: other };
 }
 
 function normGithubRepo(node) {

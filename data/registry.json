@@ -563,7 +563,7 @@
    "categories": [
     "GameCube"
    ],
-   "type": "recompilation",
+   "type": "tool",
    "tags": [],
    "repo": {
     "host": "github",
@@ -633,7 +633,7 @@
    "name": "annepad",
    "game": "annepad",
    "categories": [
-    "Nintendo 64"
+    "Other"
    ],
    "type": "recompilation",
    "tags": [],
@@ -688,7 +688,7 @@
    "categories": [
     "Other"
    ],
-   "type": "port",
+   "type": "tool",
    "tags": [],
    "repo": {
     "host": "github",
@@ -760,7 +760,7 @@
    "categories": [
     "Other"
    ],
-   "type": "decompilation",
+   "type": "tool",
    "tags": [],
    "repo": {
     "host": "github",
@@ -830,9 +830,9 @@
    "name": "objdiff",
    "game": "objdiff",
    "categories": [
-    "Nintendo 64"
+    "Other"
    ],
-   "type": "decompilation",
+   "type": "tool",
    "tags": [],
    "repo": {
     "host": "github",
@@ -1024,7 +1024,7 @@
    "name": "Eternal Darkness Recomp",
    "game": "Eternal Darkness Recomp",
    "categories": [
-    "GameCube"
+    "Other"
    ],
    "type": "recompilation",
    "tags": [],
@@ -1144,9 +1144,9 @@
    "name": "decomp.wtf",
    "game": "decomp.wtf",
    "categories": [
-    "Nintendo 64"
+    "Other"
    ],
-   "type": "recompilation",
+   "type": "tool",
    "tags": [],
    "repo": {
     "host": "github",
@@ -1218,7 +1218,7 @@
    "categories": [
     "PlayStation 2"
    ],
-   "type": "recompilation",
+   "type": "port",
    "tags": [],
    "repo": {
     "host": "github",
@@ -1290,7 +1290,7 @@
    "categories": [
     "Xbox 360"
    ],
-   "type": "recompilation",
+   "type": "port",
    "tags": [],
    "repo": {
     "host": "github",
@@ -1412,7 +1412,7 @@
    "categories": [
     "Other"
    ],
-   "type": "decompilation",
+   "type": "tool",
    "tags": [],
    "repo": {
     "host": "github",
@@ -1511,7 +1511,7 @@
    "categories": [
     "Other"
    ],
-   "type": "decompilation",
+   "type": "tool",
    "tags": [],
    "repo": {
     "host": "github",
@@ -1775,7 +1775,7 @@
    "categories": [
     "PlayStation"
    ],
-   "type": "recompilation",
+   "type": "tool",
    "tags": [],
    "repo": {
     "host": "github",
@@ -1921,7 +1921,7 @@
    "name": "fifa street pc port",
    "game": "fifa street pc port",
    "categories": [
-    "Xbox 360"
+    "Other"
    ],
    "type": "recompilation",
    "tags": [],
@@ -1993,7 +1993,7 @@
    "name": "socom unzipped",
    "game": "socom unzipped",
    "categories": [
-    "PlayStation 2"
+    "Other"
    ],
    "type": "recompilation",
    "tags": [],
@@ -2286,7 +2286,7 @@
    "categories": [
     "PlayStation Portable"
    ],
-   "type": "recompilation",
+   "type": "tool",
    "tags": [],
    "repo": {
     "host": "github",
@@ -2380,13 +2380,10 @@
    "name": "frameport",
    "game": "frameport",
    "categories": [
-    "Other",
-    "VR Ports"
+    "Other"
    ],
    "type": "port",
-   "tags": [
-    "VR"
-   ],
+   "tags": [],
    "repo": {
     "host": "github",
     "path": "spoopyghosty0/frameport"
@@ -2457,7 +2454,7 @@
    "categories": [
     "Xbox"
    ],
-   "type": "recompilation",
+   "type": "tool",
    "tags": [],
    "repo": {
     "host": "github",

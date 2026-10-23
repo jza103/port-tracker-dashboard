@@ -95,7 +95,8 @@ main { max-width: 1500px; margin: 0 auto; padding: 14px 16px; }
 .hint { color: var(--muted); margin: 0 0 12px; }
 
 /* ---------- game cards ---------- */
-.grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 430px), 1fr)); gap: 14px; align-items: start; }
+.grid { display: flex; gap: 14px; align-items: flex-start; }
+.grid .col { flex: 1 1 0; min-width: 0; display: flex; flex-direction: column; gap: 14px; }
 .game { background: var(--panel); border: 1px solid var(--border); border-radius: var(--radius); box-shadow: var(--shadow); overflow: hidden; }
 .game-head { display: flex; gap: 12px; align-items: center; padding: 12px 14px 0; }
 .thumb { width: 44px; height: 44px; border-radius: 9px; object-fit: cover; background: var(--panel-2); flex: none; }
@@ -149,7 +150,15 @@ main { max-width: 1500px; margin: 0 auto; padding: 14px 16px; }
 .game-news .src { color: var(--faint); }
 
 .more-wrap { display: flex; justify-content: center; margin: 18px 0; }
-.empty { color: var(--muted); padding: 40px 10px; text-align: center; grid-column: 1 / -1; }
+.empty { color: var(--muted); padding: 40px 10px; text-align: center; flex: 1; }
+.progress { margin-top: 9px; }
+.progress-line { display: flex; flex-wrap: wrap; gap: 4px 8px; align-items: baseline; font-size: 12.5px; }
+.progress-line .muted { color: var(--muted); }
+.progress-line a { color: var(--muted); text-decoration: underline; text-decoration-color: var(--border); }
+.bar { height: 6px; border-radius: 99px; background: var(--panel-2); overflow: hidden; margin-top: 6px; }
+.bar span { display: block; height: 100%; border-radius: inherit; background: var(--warn); }
+.progress.done .bar span { background: var(--good); }
+.tag.good { color: var(--good); }
 
 /* ---------- lists ---------- */
 .list { display: flex; flex-direction: column; gap: 8px; }

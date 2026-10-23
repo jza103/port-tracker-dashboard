@@ -10,6 +10,12 @@ const CATEGORY_ORDER = [
   'PlayStation 4', 'PlayStation Portable', 'Xbox', 'Xbox 360', 'Dreamcast', 'Sega Saturn', 'Mega Drive', 'Arcade',
   'PC', 'Mobile', 'VR Ports', 'Tools & Recompilers', 'Other',
 ];
+// Extra choices under "Decomp" in the type filter: value -> [label, progress status].
+const PROGRESS_FILTERS = {
+  'decomp:complete': ['Decomp: complete', 'complete'],
+  'decomp:in-progress': ['Decomp: in progress', 'in-progress'],
+  'decomp:unknown': ['Decomp: progress not published', 'unknown'],
+};
 const TYPE_LABELS = {
   decompilation: 'Decomp', recompilation: 'Recomp', port: 'Port', 'source-port': 'Source port',
   reimplementation: 'Reimplementation', mod: 'Mod', tool: 'Tool', emulator: 'Emulator', wrapper: 'Wrapper',
@@ -207,13 +213,18 @@ function renderProjects() {
     .map(([c, n]) => `<button class="chip" data-cat="${esc(c)}" aria-pressed="${c === ui.cat}">${esc(c)}<span class="n">${n}</span></button>`).join('');
 
   const types = [...new Set(base.map((p) => p.type))].sort();
-  $('#type').innerHTML = `<option value="">All types</option>${types.map((t) => `<option value="${esc(t)}"${t === ui.type ? ' selected' : ''}>${esc(TYPE_LABELS[t] || t)}</option>`).join('')}`;
+  const opts = [['', 'All types'], ...types.map((t) => [t, TYPE_LABELS[t] || t])];
+  if (types.includes('decompilation')) {
+    const at = opts.findIndex(([v]) => v === 'decompilation') + 1;
+    opts.splice(at, 0, ...Object.entries(PROGRESS_FILTERS).map(([v, [label]]) => [v, `\u00a0\u00a0${label}`]));
+  }
+  $('#type').innerHTML = opts.map(([v, label]) => `<option value="${esc(v)}"${v === ui.type ? ' selected' : ''}>${esc(label)}</option>`).join('');
   $('#sort').value = ui.sort;
   $('#active-only').checked = ui.activeOnly;
   $('#dl-only').checked = ui.dlOnly;
 
   const filtered = base.filter((p) => (ui.cat === 'All' || p.categories.includes(ui.cat))
-    && (!ui.type || p.type === ui.type)
+    && (!ui.type || (PROGRESS_FILTERS[ui.type] ? p.progress?.status === PROGRESS_FILTERS[ui.type][1] : p.type === ui.type))
     && (!ui.activeOnly || isActive(p))
     && (!ui.dlOnly || hasDownloads(p))
     && matchesQuery(p, q));
@@ -234,17 +245,50 @@ function renderProjects() {
     stars: (a, b) => Math.max(...b.projects.map((p) => p.stars || 0)) - Math.max(...a.projects.map((p) => p.stars || 0)),
     added: (a, b) => Math.max(...b.projects.map((p) => Date.parse(p.firstSeen || 0))) - Math.max(...a.projects.map((p) => Date.parse(p.firstSeen || 0))) || latest(b) - latest(a),
     name: (a, b) => a.game.localeCompare(b.game),
+    progress: (a, b) => bestProgress(b) - bestProgress(a) || latest(b) - latest(a),
   };
   list.sort(sorters[ui.sort] || sorters.activity);
 
   $('#result-count').textContent = `${list.length} games · ${filtered.length} projects`;
   const shown = list.slice(0, ui.shown);
-  $('#games').innerHTML = shown.length
-    ? shown.map(renderGame).join('')
-    : `<div class="empty">Nothing matches. ${base.length ? 'Try clearing the filters.' : 'No projects yet: run the updater.'}</div>`;
+  if (shown.length) layoutCards(shown.map(renderGame));
+  else $('#games').innerHTML = `<div class="empty">Nothing matches. ${base.length ? 'Try clearing the filters.' : 'No projects yet: run the updater.'}</div>`;
   $('#more').hidden = list.length <= ui.shown;
   $('#more').textContent = `Show more (${list.length - ui.shown} left)`;
 }
+
+/** Highest decomp progress in a game group, for sorting (no data sorts last). */
+function bestProgress(g) {
+  return Math.max(-1, ...g.projects.map((p) => (p.progress?.status === 'complete' ? 100 : p.progress?.percent ?? -1)));
+}
+
+/** Masonry layout: each card goes into the currently shortest column, in order. */
+let lastCards = [];
+function layoutCards(cards) {
+  lastCards = cards;
+  const root = $('#games');
+  const minCol = 400;
+  const gap = 14;
+  const n = Math.max(1, Math.floor((root.clientWidth + gap) / (minCol + gap)));
+  root.innerHTML = '';
+  root.dataset.cols = n;
+  const cols = Array.from({ length: n }, () => root.appendChild(Object.assign(document.createElement('div'), { className: 'col' })));
+  const tpl = document.createElement('template');
+  for (const html of cards) {
+    tpl.innerHTML = html;
+    const shortest = cols.reduce((a, b) => (b.offsetHeight < a.offsetHeight ? b : a));
+    shortest.append(tpl.content);
+  }
+}
+let resizeTimer;
+window.addEventListener('resize', () => {
+  clearTimeout(resizeTimer);
+  resizeTimer = setTimeout(() => {
+    const root = $('#games');
+    const n = Math.max(1, Math.floor((root.clientWidth + 14) / 414));
+    if (ui.tab === 'projects' && lastCards.length && String(n) !== root.dataset.cols) layoutCards(lastCards);
+  }, 150);
+});
 
 function gameTitle(ps) {
   // Most common spelling of the game name in the group.
@@ -307,6 +351,25 @@ function renderDownloads(p) {
   return parts.join('');
 }
 
+function renderProgress(p) {
+  const pr = p.progress;
+  if (!pr) return '';
+  if (pr.status === 'unknown') {
+    return '<div class="progress unknown"><span class="tag" title="No progress tracker or badge found for this project">Progress not published</span></div>';
+  }
+  const done = pr.status === 'complete';
+  const details = [pr.data != null && `data ${pr.data}%`, pr.functions != null && `functions ${pr.functions}%`].filter(Boolean).join(' · ');
+  const label = pr.version ? `${pr.source} (${pr.version} version)` : pr.source;
+  const src = pr.url ? `<a href="${safeUrl(pr.url)}" target="_blank" rel="noopener">${esc(label)}</a>` : esc(label);
+  return `<div class="progress${done ? ' done' : ''}">
+    <div class="progress-line">
+      <span class="tag ${done ? 'good' : 'warn'}">${done ? 'Complete' : 'In progress'}</span>
+      <strong>${esc(pr.percent)}%</strong><span class="muted">${done ? 'decompiled' : 'code decompiled'}${details ? ` · ${esc(details)}` : ''} · ${src}</span>
+    </div>
+    <div class="bar" role="progressbar" aria-valuenow="${esc(pr.percent)}" aria-valuemin="0" aria-valuemax="100"><span style="width:${Math.max(0, Math.min(100, Number(pr.percent) || 0))}%"></span></div>
+  </div>`;
+}
+
 function renderProject(p, primary) {
   const act = activity(p);
   const pin = isPinned(p);
@@ -339,12 +402,13 @@ function renderProject(p, primary) {
       ${p.targets.length ? `<span>${esc(p.targets.join(', '))}</span>` : ''}
     </div>
     ${primary && p.description ? `<p class="desc">${esc(p.description)}</p>` : ''}
+    ${renderProgress(p)}
     ${rel ? `<div class="rel">
         <div class="rel-line">
           <a class="ver" href="${safeUrl(rel.url)}" target="_blank" rel="noopener">${esc(rel.name && rel.name !== rel.tag ? `${rel.tag} · ${rel.name}` : rel.tag)}</a>
           ${rel.prerelease ? '<span class="tag warn">Pre-release</span>' : ''}
           <span class="when">${esc(shortDate(rel.date))} (${esc(ago(rel.date))})</span>
-          ${p.stable ? `<a class="when" href="${safeUrl(p.stable.url)}" target="_blank" rel="noopener">Stable: ${esc(p.stable.tag)}</a>` : ''}
+          ${p.stable ? `<a class="when" href="${safeUrl(p.stable.url)}" target="_blank" rel="noopener">${Date.parse(p.stable.date) > Date.parse(rel.date) ? 'Newer build' : 'Stable'}: ${esc(p.stable.tag)}</a>` : ''}
         </div>
         ${dls ? `<div class="dls">${dls}</div>` : ''}
       </div>`

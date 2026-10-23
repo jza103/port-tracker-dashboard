@@ -15,6 +15,7 @@ import YAML from 'yaml';
 import { loadCatalog } from './lib/catalogs.mjs';
 import { fetchRepoInfo, pickReleases, searchGithub } from './lib/repos.mjs';
 import { loadNews, keywordRegex } from './lib/news.mjs';
+import { fetchProgress, manualProgress } from './lib/progress.mjs';
 import {
   parseRepoRef, parseRepoUrl, repoId, repoUrl, gameKey, guessPlatform, guessType, isVrText,
   prettyRepoName, uniq, slugify,
@@ -109,6 +110,7 @@ function manualProject(entry) {
     description: entry.description || '',
     download: entry.download ? { label: 'Download', url: entry.download } : null,
     tagPattern: entry.tagPattern,
+    progress: entry.progress,
     sources: ['manual'],
   };
 }
@@ -125,7 +127,7 @@ function discoveredProject(repo, info, from) {
     name: prettyRepoName(repo.path.split('/').pop()),
     game: prettyRepoName(repo.path.split('/').pop()),
     categories: uniq([platform || 'Other', vr ? 'VR Ports' : null]),
-    type: guessType(text),
+    type: toolRe.test(own) ? 'tool' : guessType(text),
     tags: vr ? ['VR'] : [],
     repo,
     links: [],
@@ -299,6 +301,28 @@ for (const [id, proj] of Object.entries(registry.found)) {
   if (onlyFound && !prefs.overrides?.[id]) projects.set(id, structuredClone(updated));
 }
 
+// ------------------------------------------------- 5b. decomp progress
+
+const decompPaths = new Map();
+for (const proj of projects.values()) {
+  if (proj.type !== 'decompilation' || proj.progress != null || proj.repo?.host !== 'github') continue;
+  const ri = info.get(repoKey(proj.repo));
+  if (ri && !ri.error) decompPaths.set(proj.id, ri.canonical || proj.repo.path);
+}
+const progress = await fetchProgress([...decompPaths.values()], token);
+
+/** Your setting wins, then the published numbers, then "a complete decompilation of…" in the description. */
+function decompProgress(proj, ri) {
+  if (proj.type !== 'decompilation') return null;
+  if (proj.progress != null) return manualProgress(proj.progress);
+  const found = progress.get(decompPaths.get(proj.id));
+  if (found && found.status !== 'unknown') return found;
+  const desc = `${proj.description || ''} ${ri?.description || ''}`;
+  if (/\b(complete|full|fully matching) decompilation\b/i.test(desc)) return manualProgress('complete', 'description');
+  return { status: 'unknown' };
+}
+console.log(`Progress: ${[...progress.values()].filter((p) => p.status !== 'unknown').length}/${progress.size} decompilations report progress`);
+
 // ---------------------------------------------------- 6. assemble output
 
 registry.firstSeen ||= {};
@@ -328,12 +352,20 @@ for (const proj of projects.values()) {
     links.unshift({ label: 'Website', url: ri.homepage });
   }
 
+  // decomp.dev knows the proper game name and platform: use them for projects we only found by searching.
+  const prog = decompProgress(proj, ri);
+  const guessed = !!registry.found[proj.id] && !prefs.overrides?.[proj.id] && proj.sources?.every((s) => s === 'news' || s === 'search');
+  const game = (guessed && prog?.game) || proj.game || proj.name;
+  let categories = proj.categories?.length ? [...proj.categories] : ['Other'];
+  if (guessed && prog?.platform && categories[0] === 'Other') categories[0] = prog.platform;
+  categories = uniq(categories);
+
   out.push({
     id: proj.id,
     name: proj.name,
-    game: proj.game || proj.name,
-    gameKey: gameKey(proj.game || proj.name),
-    categories: proj.categories?.length ? proj.categories : ['Other'],
+    game,
+    gameKey: gameKey(game),
+    categories,
     type: proj.type || 'port',
     tags: proj.tags || [],
     repo: proj.repo ? { ...proj.repo, url: ri?.url || repoUrl(proj.repo) } : null,
@@ -356,6 +388,7 @@ for (const proj of projects.values()) {
     archived: !!ri?.archived,
     fork: !!ri?.fork,
     lastActivity,
+    progress: prog ? (({ game: _g, platform: _p, ...rest }) => rest)(prog) : null,
     release: trimRelease(release),
     stable: trimRelease(stable),
     error: ri?.error || null,

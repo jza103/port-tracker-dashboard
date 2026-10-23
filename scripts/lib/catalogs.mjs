@@ -43,7 +43,8 @@ export function parsePortsDR(html) {
       name,
       game,
       categories: [PORTSDR_PLATFORMS[platform] || platform || 'Other'],
-      type: guessType(`${name} ${full}`),
+      // Everything in PortsDR is a playable port; it's either recompiled or built on a decomp.
+      type: guessType(`${name} ${full}`) === 'recompilation' ? 'recompilation' : 'port',
       repo,
       links: others.map((url) => ({ label: linkLabel(url), url })),
       targets: String(it.operatingSystem || '').split(',').map((s) => s.trim()).filter(Boolean),
@@ -56,7 +57,8 @@ export function parsePortsDR(html) {
 // ------------------------------------------------------------- QuestPorts
 
 const QP_TYPES = {
-  decompilation: 'decompilation',
+  // QuestPorts' "decompilation" means a VR port built on a decomp, not the decomp itself.
+  decompilation: 'port',
   source_port: 'source-port',
   engine_recreation: 'reimplementation',
   emulator: 'emulator',
