@@ -530,54 +530,6 @@
   "zwaetschge/acgc-android-port": "2026-10-23T22:25:39.434Z"
  },
  "found": {
-  "alexgaoth/awesome-reverse-engineered": {
-   "id": "alexgaoth/awesome-reverse-engineered",
-   "name": "awesome reverse engineered",
-   "game": "awesome reverse engineered",
-   "categories": [
-    "Other"
-   ],
-   "type": "decompilation",
-   "tags": [],
-   "repo": {
-    "host": "github",
-    "path": "alexgaoth/awesome-reverse-engineered"
-   },
-   "links": [],
-   "sources": [
-    "search"
-   ],
-   "discoveredFrom": {
-    "kind": "search",
-    "title": "topic:decompilation stars:>100",
-    "date": "2026-10-23T22:46:33.769Z"
-   },
-   "autoFollow": true
-  },
-  "bailo167/awesome-game-mashups": {
-   "id": "bailo167/awesome-game-mashups",
-   "name": "awesome game mashups",
-   "game": "awesome game mashups",
-   "categories": [
-    "Other"
-   ],
-   "type": "recompilation",
-   "tags": [],
-   "repo": {
-    "host": "github",
-    "path": "bailo167/awesome-game-mashups"
-   },
-   "links": [],
-   "sources": [
-    "search"
-   ],
-   "discoveredFrom": {
-    "kind": "search",
-    "title": "topic:recompilation stars:>20",
-    "date": "2026-10-23T22:46:33.769Z"
-   },
-   "autoFollow": false
-  },
   "blacklabelhq/recompone": {
    "id": "blacklabelhq/recompone",
    "name": "Recomp One",
@@ -628,30 +580,6 @@
    },
    "autoFollow": false
   },
-  "blueinterlude/awesome-recompilations": {
-   "id": "blueinterlude/awesome-recompilations",
-   "name": "awesome recompilations",
-   "game": "awesome recompilations",
-   "categories": [
-    "Nintendo 64"
-   ],
-   "type": "recompilation",
-   "tags": [],
-   "repo": {
-    "host": "github",
-    "path": "BlueInterlude/awesome-recompilations"
-   },
-   "links": [],
-   "sources": [
-    "search"
-   ],
-   "discoveredFrom": {
-    "kind": "search",
-    "title": "XenonRecomp in:readme stars:>30",
-    "date": "2026-10-23T22:46:33.769Z"
-   },
-   "autoFollow": false
-  },
   "boron853/souls-of-the-reaper": {
    "id": "boron853/souls-of-the-reaper",
    "name": "Souls of the Reaper",
@@ -681,7 +609,7 @@
    "name": "Skate3 Mobile",
    "game": "Skate3 Mobile",
    "categories": [
-    "Xbox 360"
+    "Other"
    ],
    "type": "recompilation",
    "tags": [],
@@ -700,36 +628,12 @@
    },
    "autoFollow": false
   },
-  "charlottecross1998/awesome-game-decompilations": {
-   "id": "charlottecross1998/awesome-game-decompilations",
-   "name": "awesome game decompilations",
-   "game": "awesome game decompilations",
-   "categories": [
-    "Other"
-   ],
-   "type": "recompilation",
-   "tags": [],
-   "repo": {
-    "host": "github",
-    "path": "CharlotteCross1998/awesome-game-decompilations"
-   },
-   "links": [],
-   "sources": [
-    "search"
-   ],
-   "discoveredFrom": {
-    "kind": "search",
-    "title": "topic:recompilation stars:>20",
-    "date": "2026-10-23T22:46:33.769Z"
-   },
-   "autoFollow": true
-  },
   "chrissotraidis/annepad": {
    "id": "chrissotraidis/annepad",
    "name": "annepad",
    "game": "annepad",
    "categories": [
-    "Nintendo 64"
+    "Other"
    ],
    "type": "recompilation",
    "tags": [],
@@ -782,9 +686,9 @@
    "name": "coop anything",
    "game": "coop anything",
    "categories": [
-    "Xbox 360"
+    "Other"
    ],
-   "type": "recompilation",
+   "type": "port",
    "tags": [],
    "repo": {
     "host": "github",
@@ -799,7 +703,7 @@
     "title": "XenonRecomp in:readme stars:>30",
     "date": "2026-10-23T22:46:33.769Z"
    },
-   "autoFollow": true
+   "autoFollow": false
   },
   "dahsidiabdallah/conkerbfdreloaded": {
    "id": "dahsidiabdallah/conkerbfdreloaded",
@@ -830,7 +734,7 @@
    "name": "fukami",
    "game": "fukami",
    "categories": [
-    "Xbox 360"
+    "Other"
    ],
    "type": "recompilation",
    "tags": [],
@@ -871,14 +775,14 @@
     "title": "topic:decompilation stars:>100",
     "date": "2026-10-23T22:46:33.769Z"
    },
-   "autoFollow": true
+   "autoFollow": false
   },
   "dothacktranslate/dothack-recompilation": {
    "id": "dothacktranslate/dothack-recompilation",
    "name": "dothack recompilation",
    "game": "dothack recompilation",
    "categories": [
-    "PlayStation 2"
+    "Other"
    ],
    "type": "recompilation",
    "tags": [],
@@ -921,36 +825,12 @@
    },
    "autoFollow": false
   },
-  "dryxio/reagent": {
-   "id": "dryxio/reagent",
-   "name": "reagent",
-   "game": "reagent",
-   "categories": [
-    "Other"
-   ],
-   "type": "decompilation",
-   "tags": [],
-   "repo": {
-    "host": "github",
-    "path": "Dryxio/reagent"
-   },
-   "links": [],
-   "sources": [
-    "search"
-   ],
-   "discoveredFrom": {
-    "kind": "search",
-    "title": "topic:decompilation stars:>100",
-    "date": "2026-10-23T22:46:33.769Z"
-   },
-   "autoFollow": true
-  },
   "encounter/objdiff": {
    "id": "encounter/objdiff",
    "name": "objdiff",
    "game": "objdiff",
    "categories": [
-    "GameCube"
+    "Other"
    ],
    "type": "decompilation",
    "tags": [],
@@ -967,7 +847,7 @@
     "title": "topic:decompilation stars:>100",
     "date": "2026-10-23T22:46:33.769Z"
    },
-   "autoFollow": true
+   "autoFollow": false
   },
   "eray1605/re2ds": {
    "id": "eray1605/re2ds",
@@ -1000,7 +880,7 @@
    "name": "bean Recomp",
    "game": "bean Recomp",
    "categories": [
-    "Xbox 360"
+    "Other"
    ],
    "type": "recompilation",
    "tags": [],
@@ -1024,7 +904,7 @@
    "name": "Fable2Recomp",
    "game": "Fable2Recomp",
    "categories": [
-    "Xbox 360"
+    "Other"
    ],
    "type": "recompilation",
    "tags": [],
@@ -1144,7 +1024,7 @@
    "name": "Eternal Darkness Recomp",
    "game": "Eternal Darkness Recomp",
    "categories": [
-    "GameCube"
+    "Other"
    ],
    "type": "recompilation",
    "tags": [],
@@ -1211,30 +1091,6 @@
    },
    "autoFollow": false
   },
-  "hkmodd/pcsx2-mcp": {
-   "id": "hkmodd/pcsx2-mcp",
-   "name": "PCSX2 MCP",
-   "game": "PCSX2 MCP",
-   "categories": [
-    "PlayStation 2"
-   ],
-   "type": "recompilation",
-   "tags": [],
-   "repo": {
-    "host": "github",
-    "path": "hkmodd/PCSX2-MCP"
-   },
-   "links": [],
-   "sources": [
-    "search"
-   ],
-   "discoveredFrom": {
-    "kind": "search",
-    "title": "PS2Recomp in:readme stars:>20",
-    "date": "2026-10-23T22:46:33.769Z"
-   },
-   "autoFollow": false
-  },
   "hkmodd/ps2-recomp-agent-skill": {
    "id": "hkmodd/ps2-recomp-agent-skill",
    "name": "ps2 recomp Agent SKILL",
@@ -1288,9 +1144,9 @@
    "name": "decomp.wtf",
    "game": "decomp.wtf",
    "categories": [
-    "Nintendo 64"
+    "Other"
    ],
-   "type": "recompilation",
+   "type": "decompilation",
    "tags": [],
    "repo": {
     "host": "github",
@@ -1312,7 +1168,7 @@
    "name": "band3 recomp",
    "game": "band3 recomp",
    "categories": [
-    "Xbox 360"
+    "Other"
    ],
    "type": "recompilation",
    "tags": [],
@@ -1362,7 +1218,7 @@
    "categories": [
     "PlayStation 2"
    ],
-   "type": "recompilation",
+   "type": "port",
    "tags": [],
    "repo": {
     "host": "github",
@@ -1434,7 +1290,7 @@
    "categories": [
     "Xbox 360"
    ],
-   "type": "recompilation",
+   "type": "port",
    "tags": [],
    "repo": {
     "host": "github",
@@ -1571,7 +1427,7 @@
     "title": "topic:decompilation stars:>100",
     "date": "2026-10-23T22:46:33.769Z"
    },
-   "autoFollow": true
+   "autoFollow": false
   },
   "mikesemicolond/roguesquadron64recomp": {
    "id": "mikesemicolond/roguesquadron64recomp",
@@ -1629,7 +1485,7 @@
    "name": "LARecomp",
    "game": "LARecomp",
    "categories": [
-    "Xbox 360"
+    "Other"
    ],
    "type": "recompilation",
    "tags": [],
@@ -1647,54 +1503,6 @@
     "date": "2026-10-23T22:46:33.769Z"
    },
    "autoFollow": false
-  },
-  "nbcraft-org/nbcraft": {
-   "id": "nbcraft-org/nbcraft",
-   "name": "nbcraft",
-   "game": "nbcraft",
-   "categories": [
-    "Other"
-   ],
-   "type": "decompilation",
-   "tags": [],
-   "repo": {
-    "host": "github",
-    "path": "nbcraft-org/nbcraft"
-   },
-   "links": [],
-   "sources": [
-    "search"
-   ],
-   "discoveredFrom": {
-    "kind": "search",
-    "title": "topic:decompilation stars:>100",
-    "date": "2026-10-23T22:46:33.769Z"
-   },
-   "autoFollow": true
-  },
-  "nmlgc/rec98": {
-   "id": "nmlgc/rec98",
-   "name": "Re C98",
-   "game": "Re C98",
-   "categories": [
-    "Other"
-   ],
-   "type": "decompilation",
-   "tags": [],
-   "repo": {
-    "host": "github",
-    "path": "nmlgc/ReC98"
-   },
-   "links": [],
-   "sources": [
-    "search"
-   ],
-   "discoveredFrom": {
-    "kind": "search",
-    "title": "topic:decompilation stars:>100",
-    "date": "2026-10-23T22:46:33.769Z"
-   },
-   "autoFollow": true
   },
   "noelo-lab/kuna": {
    "id": "noelo-lab/kuna",
@@ -1718,7 +1526,7 @@
     "title": "topic:decompilation stars:>100",
     "date": "2026-10-23T22:46:33.769Z"
    },
-   "autoFollow": true
+   "autoFollow": false
   },
   "norain211/doaxvb-re": {
    "id": "norain211/doaxvb-re",
@@ -1821,7 +1629,7 @@
    "name": "pokediamond",
    "game": "pokediamond",
    "categories": [
-    "Other"
+    "Nintendo DS"
    ],
    "type": "decompilation",
    "tags": [],
@@ -1845,7 +1653,7 @@
    "name": "pokeemerald",
    "game": "pokeemerald",
    "categories": [
-    "Game Boy"
+    "Game Boy Advance"
    ],
    "type": "decompilation",
    "tags": [],
@@ -1869,7 +1677,7 @@
    "name": "pokefirered",
    "game": "pokefirered",
    "categories": [
-    "Game Boy"
+    "Game Boy Advance"
    ],
    "type": "decompilation",
    "tags": [],
@@ -1893,7 +1701,7 @@
    "name": "pokeheartgold",
    "game": "pokeheartgold",
    "categories": [
-    "Other"
+    "Nintendo DS"
    ],
    "type": "decompilation",
    "tags": [],
@@ -1917,7 +1725,7 @@
    "name": "pokeplatinum",
    "game": "pokeplatinum",
    "categories": [
-    "Other"
+    "Nintendo DS"
    ],
    "type": "decompilation",
    "tags": [],
@@ -1941,7 +1749,7 @@
    "name": "pokeruby",
    "game": "pokeruby",
    "categories": [
-    "Game Boy"
+    "Game Boy Advance"
    ],
    "type": "decompilation",
    "tags": [],
@@ -1965,7 +1773,7 @@
    "name": "ps1 recomp",
    "game": "ps1 recomp",
    "categories": [
-    "PlayStation 2"
+    "PlayStation"
    ],
    "type": "recompilation",
    "tags": [],
@@ -1980,30 +1788,6 @@
    "discoveredFrom": {
     "kind": "search",
     "title": "PS2Recomp in:readme stars:>20",
-    "date": "2026-10-23T22:46:33.769Z"
-   },
-   "autoFollow": false
-  },
-  "radek-sprta/awesome-game-remakes": {
-   "id": "radek-sprta/awesome-game-remakes",
-   "name": "awesome game remakes",
-   "game": "awesome game remakes",
-   "categories": [
-    "Nintendo 64"
-   ],
-   "type": "recompilation",
-   "tags": [],
-   "repo": {
-    "host": "github",
-    "path": "radek-sprta/awesome-game-remakes"
-   },
-   "links": [],
-   "sources": [
-    "search"
-   ],
-   "discoveredFrom": {
-    "kind": "search",
-    "title": "\"N64: Recompiled\" in:readme stars:>50",
     "date": "2026-10-23T22:46:33.769Z"
    },
    "autoFollow": false
@@ -2032,36 +1816,12 @@
    },
    "autoFollow": false
   },
-  "reacher-z/awesome-rea": {
-   "id": "reacher-z/awesome-rea",
-   "name": "Awesome REA",
-   "game": "Awesome REA",
-   "categories": [
-    "Nintendo 64"
-   ],
-   "type": "recompilation",
-   "tags": [],
-   "repo": {
-    "host": "github",
-    "path": "reacher-z/Awesome-REA"
-   },
-   "links": [],
-   "sources": [
-    "search"
-   ],
-   "discoveredFrom": {
-    "kind": "search",
-    "title": "\"N64: Recompiled\" in:readme stars:>50",
-    "date": "2026-10-23T22:46:33.769Z"
-   },
-   "autoFollow": false
-  },
   "recomp-code/street-recomp-v3": {
    "id": "recomp-code/street-recomp-v3",
    "name": "street recomp v3",
    "game": "street recomp v3",
    "categories": [
-    "PlayStation 2"
+    "Other"
    ],
    "type": "recompilation",
    "tags": [],
@@ -2137,7 +1897,7 @@
    "name": "psxrecomp",
    "game": "psxrecomp",
    "categories": [
-    "Nintendo 64"
+    "PlayStation"
    ],
    "type": "recompilation",
    "tags": [],
@@ -2161,7 +1921,7 @@
    "name": "fifa street pc port",
    "game": "fifa street pc port",
    "categories": [
-    "Xbox"
+    "Other"
    ],
    "type": "recompilation",
    "tags": [],
@@ -2233,7 +1993,7 @@
    "name": "socom unzipped",
    "game": "socom unzipped",
    "categories": [
-    "PlayStation 2"
+    "Other"
    ],
    "type": "recompilation",
    "tags": [],
@@ -2251,30 +2011,6 @@
     "date": "2026-10-23T22:46:33.769Z"
    },
    "autoFollow": false
-  },
-  "sebastrion/awesome-unofficial-pc-ports": {
-   "id": "sebastrion/awesome-unofficial-pc-ports",
-   "name": "awesome unofficial pc ports",
-   "game": "awesome unofficial pc ports",
-   "categories": [
-    "Nintendo 64"
-   ],
-   "type": "recompilation",
-   "tags": [],
-   "repo": {
-    "host": "github",
-    "path": "Sebastrion/awesome-unofficial-pc-ports"
-   },
-   "links": [],
-   "sources": [
-    "search"
-   ],
-   "discoveredFrom": {
-    "kind": "search",
-    "title": "topic:recompilation stars:>20",
-    "date": "2026-10-23T22:46:33.769Z"
-   },
-   "autoFollow": true
   },
   "shdecompilations/silent-hill-decomp": {
    "id": "shdecompilations/silent-hill-decomp",
@@ -2356,7 +2092,7 @@
    "name": "sk82 recomp",
    "game": "sk82 recomp",
    "categories": [
-    "Xbox 360"
+    "Other"
    ],
    "type": "recompilation",
    "tags": [],
@@ -2404,7 +2140,7 @@
    "name": "DNZHRecomp",
    "game": "DNZHRecomp",
    "categories": [
-    "Nintendo 64"
+    "Other"
    ],
    "type": "recompilation",
    "tags": [],
@@ -2428,7 +2164,7 @@
    "name": "Mario Kart64Recomp",
    "game": "Mario Kart64Recomp",
    "categories": [
-    "Nintendo 64"
+    "Other"
    ],
    "type": "recompilation",
    "tags": [],
@@ -2452,7 +2188,7 @@
    "name": "Starfox64Recomp",
    "game": "Starfox64Recomp",
    "categories": [
-    "Nintendo 64"
+    "Other"
    ],
    "type": "recompilation",
    "tags": [],
@@ -2476,7 +2212,7 @@
    "name": "Marathon Recomp",
    "game": "Marathon Recomp",
    "categories": [
-    "Nintendo 64"
+    "Xbox 360"
    ],
    "type": "recompilation",
    "tags": [],
@@ -2524,7 +2260,7 @@
    "name": "ps3recomp",
    "game": "ps3recomp",
    "categories": [
-    "PlayStation 2"
+    "PlayStation 3"
    ],
    "type": "recompilation",
    "tags": [],
@@ -2548,7 +2284,7 @@
    "name": "psprecomp",
    "game": "psprecomp",
    "categories": [
-    "PlayStation 2"
+    "PlayStation Portable"
    ],
    "type": "recompilation",
    "tags": [],
@@ -2572,7 +2308,7 @@
    "name": "reo",
    "game": "reo",
    "categories": [
-    "PlayStation 2"
+    "Other"
    ],
    "type": "recompilation",
    "tags": [],
@@ -2644,13 +2380,10 @@
    "name": "frameport",
    "game": "frameport",
    "categories": [
-    "Other",
-    "VR Ports"
+    "Other"
    ],
    "type": "port",
-   "tags": [
-    "VR"
-   ],
+   "tags": [],
    "repo": {
     "host": "github",
     "path": "spoopyghosty0/frameport"
@@ -2690,36 +2423,12 @@
    },
    "autoFollow": false
   },
-  "submitgame/awesome-decomp-games": {
-   "id": "submitgame/awesome-decomp-games",
-   "name": "awesome decomp games",
-   "game": "awesome decomp games",
-   "categories": [
-    "Other"
-   ],
-   "type": "recompilation",
-   "tags": [],
-   "repo": {
-    "host": "github",
-    "path": "SubmitGame/awesome-decomp-games"
-   },
-   "links": [],
-   "sources": [
-    "search"
-   ],
-   "discoveredFrom": {
-    "kind": "search",
-    "title": "topic:recompilation stars:>20",
-    "date": "2026-10-23T22:46:33.769Z"
-   },
-   "autoFollow": true
-  },
   "testdriveupgrade/megadriverecomp": {
    "id": "testdriveupgrade/megadriverecomp",
    "name": "Mega Drive Recomp",
    "game": "Mega Drive Recomp",
    "categories": [
-    "PlayStation 2"
+    "Mega Drive"
    ],
    "type": "recompilation",
    "tags": [],
@@ -2810,30 +2519,6 @@
    },
    "autoFollow": false
   },
-  "vector35/binaryninja-api": {
-   "id": "vector35/binaryninja-api",
-   "name": "binaryninja api",
-   "game": "binaryninja api",
-   "categories": [
-    "Other"
-   ],
-   "type": "decompilation",
-   "tags": [],
-   "repo": {
-    "host": "github",
-    "path": "Vector35/binaryninja-api"
-   },
-   "links": [],
-   "sources": [
-    "search"
-   ],
-   "discoveredFrom": {
-    "kind": "search",
-    "title": "topic:decompilation stars:>100",
-    "date": "2026-10-23T22:46:33.769Z"
-   },
-   "autoFollow": true
-  },
   "vyanhursky/defjamffny-recomp": {
    "id": "vyanhursky/defjamffny-recomp",
    "name": "Def Jam FFNY recomp",
@@ -2863,7 +2548,7 @@
    "name": "RB2",
    "game": "RB2",
    "categories": [
-    "Xbox 360"
+    "Other"
    ],
    "type": "recompilation",
    "tags": [],
@@ -2983,7 +2668,7 @@
    "name": "Forza Motorsport 2 Re GPU",
    "game": "Forza Motorsport 2 Re GPU",
    "categories": [
-    "Xbox 360"
+    "Other"
    ],
    "type": "recompilation",
    "tags": [],
@@ -3004,23 +2689,29 @@
   }
  },
  "rejected": {
+  "alexgaoth/awesome-reverse-engineered": "2026-10-23",
   "alphanu1/sega-model1-mister": "2026-10-23",
   "ares-emulator/ares": "2026-10-23",
   "azahar-emu/azahar": "2026-10-23",
+  "bailo167/awesome-game-mashups": "2026-10-23",
   "blacklineinteractive/driveclub-port": "2026-10-23",
+  "blueinterlude/awesome-recompilations": "2026-10-23",
   "blueskydefender/depth3d": "2026-10-23",
   "boykopovar/anyps5": "2026-10-23",
   "btelwy/awesome-romhacking": "2026-10-23",
   "btest4he/ghidra-claude-toolbox": "2026-10-23",
+  "charlottecross1998/awesome-game-decompilations": "2026-10-23",
   "clownacy/clownassembler": "2026-10-23",
   "core-lib/xjar": "2026-10-23",
   "derekpascarella/pulirula-englishpatchfmtowns": "2026-10-23",
   "discostarslayer/pcsx2-reliquary": "2026-10-23",
   "dolphin-emu/dolphin": "2026-10-23",
+  "dryxio/reagent": "2026-10-23",
   "elipsitz/gamebub": "2026-10-23",
   "exxistancedc/tama-english-translation": "2026-10-23",
   "ghaleonx/ys": "2026-10-23",
   "gitlab:pepsipu/ns2jb": "2026-10-23",
+  "hkmodd/pcsx2-mcp": "2026-10-23",
   "inorirus/kyty": "2026-10-23",
   "jorge262007/fftarecomp": "2026-10-23",
   "juaniwck/mister-retroarch-save-sync": "2026-10-23",
@@ -3033,13 +2724,18 @@
   "mister-devel/marty_mister": "2026-10-23",
   "mister-devel/n64_mister": "2026-10-23",
   "mister-devel/next_mister": "2026-10-23",
+  "nbcraft-org/nbcraft": "2026-10-23",
+  "nmlgc/rec98": "2026-10-23",
   "palindromicbreadloaf/dekopon": "2026-10-23",
   "pcsx2/pcsx2": "2026-10-23",
   "probonopd/previous": "2026-10-23",
+  "radek-sprta/awesome-game-remakes": "2026-10-23",
+  "reacher-z/awesome-rea": "2026-10-23",
   "rpcs3/rpcs3": "2026-10-23",
   "rt64/rt64": "2026-10-23",
   "sandstonedev/ps2rc": "2026-10-23",
   "saneezore07/dqmj2pro_translation": "2026-10-23",
+  "sebastrion/awesome-unofficial-pc-ports": "2026-10-23",
   "shadps4-emu/shadps4": "2026-10-23",
   "sharpemu/sharpemu": "2026-10-23",
   "shiiion/dolphin": "2026-10-23",
@@ -3047,13 +2743,16 @@
   "stenzek/duckstation": "2026-10-23",
   "stevensnd/nfsmw-nx": "2026-10-23",
   "strikerx3/ymir": "2026-10-23",
+  "submitgame/awesome-decomp-games": "2026-10-23",
   "svipur/innocent-tour-english": "2026-10-23",
   "terremoth/awesome-ps2": "2026-10-23",
   "th0mk/nfsu2-web": "2026-10-23",
   "theypsilon/multidatabases_mister": "2026-10-23",
+  "vector35/binaryninja-api": "2026-10-23",
   "vita3k/vita3k": "2026-10-23",
   "waffle565/god-of-war-native-port": "2026-10-23",
   "wheremyfoodat/panda3ds": "2026-10-23",
-  "yuvi-app/doc-le-english-translation": "2026-10-23"
+  "yuvi-app/doc-le-english-translation": "2026-10-23",
+  "zoogie/smilehax-iie": "2026-10-23"
  }
 }

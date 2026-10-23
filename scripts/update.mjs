@@ -55,6 +55,19 @@ const kwRe = keywordRegex(sources.news?.keywords || ['decomp']);
 const strongRepoRe = /recomp|decomp|\b(pc|native|source|vr|quest|fan|unofficial) port\b|\bport (of|for)\b|\bported\b|re-?implementation|reimplement|reverse[- ]engineer|\b(vr|xr|openxr)\b/i;
 const weakRepoRe = /\b(port|ports|engine|remake|native)\b/i;
 const notPortRe = /emulat|\btranslation\b|fan ?translat|fpga|mister|\bcore\b|retroarch|libretro|romhack|rom hack|\bpatch(es)?\b/i;
+// Tools for making ports, not ports: suggest at most.
+const toolRe = /\btool(kit|chain|s)?\b|\bsdk\b|disassembl|decompiler\b|\bdiff(ing)?\b|binary ?ninja|ghidra|\bida\b|\bmcp\b|agent skill|\bplugin\b|\bframework\b|\blibrary\b|website|\.(me|wtf|dev)\b|leaderboard/i;
+// Link collections: never.
+const listRe = /(^|\/)awesome[-_]|\bawesome list\b|curated list|\blist of\b/i;
+
+/** 'strong' (follow automatically), 'weak' (suggest only) or 'reject'. */
+function classifyRepo(path, ri) {
+  const text = `${path} ${ri.description} ${ri.topics.join(' ')}`;
+  if (listRe.test(text) || ri.fork) return 'reject';
+  if (notPortRe.test(text)) return weakRepoRe.test(text) || strongRepoRe.test(text) ? 'weak' : 'reject';
+  if (strongRepoRe.test(text) || kwRe.test(text)) return toolRe.test(text) ? 'weak' : 'strong';
+  return weakRepoRe.test(text) ? 'weak' : 'reject';
+}
 
 // ------------------------------------------------------------------ helpers
 
@@ -102,7 +115,9 @@ function manualProject(entry) {
 
 /** A project found in an article or a search, guessed from the repo itself. */
 function discoveredProject(repo, info, from) {
-  const text = `${repo.path} ${info?.description || ''} ${(info?.topics || []).join(' ')} ${from.title || ''}`;
+  const own = `${repo.path} ${info?.description || ''} ${(info?.topics || []).join(' ')}`;
+  // An article's headline helps; a search query doesn't describe the repo.
+  const text = from.kind === 'news' ? `${own} ${from.title || ''}` : own;
   const vr = isVrText(`${repo.path} ${info?.description || ''} ${(info?.topics || []).join(' ')}`);
   const platform = guessPlatform(text);
   return {
@@ -220,6 +235,7 @@ if (searchDue && sources.discovery?.searches?.length) {
   let added = 0;
   for (const q of sources.discovery.searches) {
     try {
+      await new Promise((r) => setTimeout(r, 2500)); // stay under the search rate limit
       for (const { path: rp, info } of await searchGithub(q, token)) {
         const repo = { host: 'github', path: rp };
         const id = repoId(repo);
@@ -255,14 +271,32 @@ for (const [id, c] of candidates) {
     if (/not found/i.test(ri.error)) registry.rejected[id] = nowIso.slice(0, 10);
     continue;
   }
-  const text = `${c.repo.path} ${ri.description} ${ri.topics.join(' ')}`;
-  const strong = (strongRepoRe.test(text) || kwRe.test(text)) && !notPortRe.test(text);
-  // Emulators, translations and the like go to the Discovered tab at most.
-  if (!strong && !(weakRepoRe.test(text) && !notPortRe.test(text))) { registry.rejected[id] = nowIso.slice(0, 10); continue; }
+  const kind = classifyRepo(c.repo.path, ri);
+  if (kind === 'reject') { registry.rejected[id] = nowIso.slice(0, 10); continue; }
   const proj = discoveredProject(c.repo, ri, c.from);
-  proj.autoFollow = strong && (c.from.kind === 'news' || (ri.stars || 0) >= autoStars);
+  proj.autoFollow = kind === 'strong' && (c.from.kind === 'news' || (ri.stars || 0) >= autoStars);
   registry.found[id] = proj;
   projects.set(id, structuredClone(proj));
+}
+// Re-check earlier finds too, so improved rules clean up past mistakes.
+for (const [id, proj] of Object.entries(registry.found)) {
+  if (candidates.has(id) || followList.has(id) || !proj.repo) continue;
+  const ri = info.get(repoKey(proj.repo));
+  if (!ri || ri.error) continue;
+  // If you also added it by hand, your entry is what's shown: leave it alone.
+  const onlyFound = projects.get(id)?.sources?.every((s) => s === 'news' || s === 'search');
+  const kind = classifyRepo(proj.repo.path, ri);
+  if (kind === 'reject') {
+    delete registry.found[id];
+    registry.rejected[id] = nowIso.slice(0, 10);
+    if (onlyFound) projects.delete(id);
+    continue;
+  }
+  const fresh = discoveredProject(proj.repo, ri, proj.discoveredFrom || { kind: 'search' });
+  const updated = { ...proj, categories: fresh.categories, type: fresh.type, tags: fresh.tags,
+    autoFollow: kind === 'strong' && (proj.discoveredFrom?.kind === 'news' || (ri.stars || 0) >= autoStars) };
+  registry.found[id] = updated;
+  if (onlyFound && !prefs.overrides?.[id]) projects.set(id, structuredClone(updated));
 }
 
 // ---------------------------------------------------- 6. assemble output

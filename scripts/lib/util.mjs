@@ -149,9 +149,9 @@ const PLATFORM_RULES = [
   [/\bwii\b/i, 'Wii'],
   [/\bswitch\b/i, 'Nintendo Switch'],
   [/\b3ds\b/i, 'Nintendo 3DS'],
-  [/\bnintendo ds\b|\bnds\b/i, 'Nintendo DS'],
+  [/\bnintendo ds\b|\bnds\b|pokediamond|pokeplatinum|pokeheartgold/i, 'Nintendo DS'],
   [/\bsnes\b|super nintendo/i, 'SNES'],
-  [/\bgame ?boy advance\b|\bgba\b/i, 'Game Boy Advance'],
+  [/\bgame ?boy advance\b|\bgba\b|pokeemerald|pokefirered|pokeruby/i, 'Game Boy Advance'],
   [/\bgame ?boy\b|\bgbc?\b/i, 'Game Boy'],
   [/\bnes\b|famicom/i, 'NES'],
   [/\bps2\b|playstation 2|ps2recomp/i, 'PlayStation 2'],
@@ -169,7 +169,8 @@ const PLATFORM_RULES = [
 
 /** Best guess at the original platform from free text. */
 export function guessPlatform(text) {
-  for (const [re, name] of PLATFORM_RULES) if (re.test(text)) return name;
+  const t = String(text).replace(/[-_]+/g, ' ');
+  for (const [re, name] of PLATFORM_RULES) if (re.test(t)) return name;
   return null;
 }
 

@@ -42,7 +42,7 @@ function normRelease(r, host = 'github') {
       date: r.publishedAt || r.createdAt,
       url: r.url,
       prerelease: !!r.isPrerelease,
-      assets: (r.releaseAssets?.nodes || []).map((a) => ({
+      assets: (r.releaseAssets?.nodes || []).filter(Boolean).map((a) => ({
         name: a.name, url: a.downloadUrl, size: a.size, downloads: a.downloadCount,
       })),
     };
@@ -69,7 +69,7 @@ export function pickReleases(all, latestStable, tagPattern) {
 }
 
 function normGithubRepo(node) {
-  const releases = (node.releases?.nodes || []).filter((r) => !r.isDraft).map((r) => normRelease(r));
+  const releases = (node.releases?.nodes || []).filter((r) => r && !r.isDraft).map((r) => normRelease(r));
   return {
     canonical: node.nameWithOwner,
     url: node.url,
@@ -79,7 +79,7 @@ function normGithubRepo(node) {
     pushedAt: node.pushedAt,
     archived: node.isArchived,
     fork: node.isFork,
-    topics: (node.repositoryTopics?.nodes || []).map((n) => n.topic.name),
+    topics: (node.repositoryTopics?.nodes || []).map((n) => n?.topic?.name).filter(Boolean),
     releases,
     latestStable: normRelease(node.latestRelease),
   };
@@ -235,5 +235,5 @@ export async function searchGithub(query, token) {
   const q = `query($q: String!) { search(query: $q, type: REPOSITORY, first: 30) { nodes { ... on Repository { ${REPO_FIELDS} } } } }`;
   const json = await graphql(token, q, { q: query });
   if (json.errors && !json.data) throw new Error(json.errors[0].message);
-  return (json.data?.search?.nodes || []).filter(Boolean).map((n) => ({ path: n.nameWithOwner, info: normGithubRepo(n) }));
+  return (json.data?.search?.nodes || []).filter((n) => n?.nameWithOwner).map((n) => ({ path: n.nameWithOwner, info: normGithubRepo(n) }));
 }
