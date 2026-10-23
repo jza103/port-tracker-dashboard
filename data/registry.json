@@ -1,6 +1,7 @@
 {
  "meta": {
-  "seededAt": "2026-10-23T22:25:39.434Z"
+  "seededAt": "2026-10-23T22:25:39.434Z",
+  "lastSearchAt": "2026-10-23T22:46:33.769Z"
  },
  "firstSeen": {
   "0herculabs/hl360-forza2": "2026-10-23T22:25:39.434Z",
@@ -19,12 +20,14 @@
   "alexbeav/parasite-eve-recomp": "2026-10-23T22:25:39.434Z",
   "alexbeav/syphon-filter-2-recompiled": "2026-10-23T22:25:39.434Z",
   "alexbeav/xena-warrior-princess-recomp": "2026-10-23T22:25:39.434Z",
+  "alexgaoth/awesome-reverse-engineered": "2026-10-23T22:46:33.769Z",
   "alondero/aerogauge-recomp": "2026-10-23T22:25:39.434Z",
   "alondero/automobililamborghini-recomp": "2026-10-23T22:25:39.434Z",
   "amwatson/citravr": "2026-10-23T22:25:39.434Z",
   "arcanite24/pinyon-shift": "2026-10-23T22:25:39.434Z",
   "artfulrascal8/xrkart-64": "2026-10-23T22:25:39.434Z",
   "aureliob/banjorecomp-android": "2026-10-23T22:25:39.434Z",
+  "bailo167/awesome-game-mashups": "2026-10-23T22:46:33.769Z",
   "banjorecomp/banjorecomp": "2026-10-23T22:25:39.434Z",
   "bassquake/aliens-versus-predator-vr": "2026-10-23T22:25:39.434Z",
   "baywilly/crazy-taxi-vr-standalone": "2026-10-23T22:25:39.434Z",
@@ -39,14 +42,20 @@
   "blackandblue95/strikers-wiicompiled": "2026-10-23T22:25:39.434Z",
   "blacklabelhq/recompone": "2026-10-23T22:25:39.434Z",
   "blacklabelhq/symphonyrecomp": "2026-10-23T22:25:39.434Z",
+  "blacklineinteractive/nwiirecomp": "2026-10-23T22:46:33.769Z",
+  "blueinterlude/awesome-recompilations": "2026-10-23T22:46:33.769Z",
+  "boron853/souls-of-the-reaper": "2026-10-23T22:46:33.769Z",
   "brawmario/infinite-mario-64-ever": "2026-10-23T22:25:39.434Z",
   "bryanthaboi/gen1recomp": "2026-10-23T22:25:39.434Z",
+  "buku313/skate3-mobile": "2026-10-23T22:46:33.769Z",
   "cblock85/goldeneye64recomp": "2026-10-23T22:25:39.434Z",
   "cdlewis/snowboardkids2-recomp": "2026-10-23T22:25:39.434Z",
   "cellenseres/sssv_recomp": "2026-10-23T22:25:39.434Z",
   "cesarus85/generals-zero-hour-xr": "2026-10-23T22:25:39.434Z",
+  "charlottecross1998/awesome-game-decompilations": "2026-10-23T22:46:33.769Z",
   "chasem-dev/sms-launcher": "2026-10-23T22:25:39.434Z",
   "chocotorp/shipwright-vr": "2026-10-23T22:25:39.434Z",
+  "chrissotraidis/annepad": "2026-10-23T22:46:33.769Z",
   "chrissotraidis/ballpad": "2026-10-23T22:25:39.434Z",
   "chrissotraidis/bluewake": "2026-10-23T22:25:39.434Z",
   "chrissotraidis/kartpad": "2026-10-23T22:25:39.434Z",
@@ -56,17 +65,21 @@
   "coccofresco/triaevum": "2026-10-23T22:25:39.434Z",
   "codepdbh/nfsmw-android": "2026-10-23T22:25:39.434Z",
   "coop-deluxe/sm64coopdx": "2026-10-23T22:25:39.434Z",
+  "cranebeaker/coop-anything": "2026-10-23T22:46:33.769Z",
   "crowded-street/3sx": "2026-10-23T22:25:39.434Z",
   "ctr-tools/ctr-native": "2026-10-23T22:25:39.434Z",
   "curif/ageofjoy-2022.1": "2026-10-23T22:25:39.434Z",
   "cybersecurity/halo-ce-universal": "2026-10-23T22:25:39.434Z",
   "cybervisi0n/pokeplatinum": "2026-10-23T22:25:39.434Z",
   "dabdavis/perfect-dark-dabs-mod": "2026-10-23T22:25:39.434Z",
+  "dahsidiabdallah/conkerbfdreloaded": "2026-10-23T22:46:33.769Z",
   "danielgomesvieira2000/beetle-adventure-racing-recomp": "2026-10-23T22:25:39.434Z",
   "danielgomesvieira2000/burnout3-pc": "2026-10-23T22:25:39.434Z",
   "danielgomesvieira2000/pilotwings-64-recomp": "2026-10-23T22:25:39.434Z",
   "danielgomesvieira2000/wave-race-64-recomp": "2026-10-23T22:25:39.434Z",
+  "danisandoval/fukami": "2026-10-23T22:46:33.769Z",
   "davidsm64/diddy-kong-racing": "2026-10-23T22:25:39.434Z",
+  "decompme/decomp.me": "2026-10-23T22:46:33.769Z",
   "deivid22srk/dk64-recomp-android": "2026-10-23T22:25:39.434Z",
   "diasurgical/devilutionx": "2026-10-23T22:25:39.434Z",
   "dinosaurplanetrecomp/dino-recomp": "2026-10-23T22:25:39.434Z",
@@ -78,12 +91,15 @@
   "doldecomp/sms": "2026-10-23T22:25:39.434Z",
   "domazinus/racewave46": "2026-10-23T22:25:39.434Z",
   "dorpxp/driftdroid": "2026-10-23T22:25:39.434Z",
+  "dothacktranslate/dothack-recompilation": "2026-10-23T22:46:33.769Z",
   "dr-89/crisis-zone-vr": "2026-10-23T22:25:39.434Z",
   "dr-89/nfsu-vr": "2026-10-23T22:25:39.434Z",
   "dr-89/nfsu2-vr": "2026-10-23T22:25:39.434Z",
   "dr-89/opencmr2-vr": "2026-10-23T22:25:39.434Z",
   "dr-89/time-crisis-2-vr": "2026-10-23T22:25:39.434Z",
   "dr-89/time-crisis-vr": "2026-10-23T22:25:39.434Z",
+  "drakolordx7/killzonerecomp": "2026-10-23T22:46:33.769Z",
+  "dryxio/reagent": "2026-10-23T22:46:33.769Z",
   "dubrovskiy-yevhen-stakelogic/gothic2-vr": "2026-10-23T22:25:39.434Z",
   "dubrovskiy-yevhen-stakelogic/gt-2-pc": "2026-10-23T22:25:39.434Z",
   "dubrovskiy-yevhen-stakelogic/gta-sa-vr-quest": "2026-10-23T22:25:39.434Z",
@@ -101,6 +117,7 @@
   "elliotttate/wind-waker-recomp": "2026-10-23T22:25:39.434Z",
   "elmasas/lcs-recomp": "2026-10-23T22:25:39.434Z",
   "elprogramadorloco-arch/fuc-recomp": "2026-10-23T22:25:39.434Z",
+  "encounter/objdiff": "2026-10-23T22:46:33.769Z",
   "eray1605/re2ds": "2026-10-23T22:25:39.434Z",
   "erick194/doomiirpg-re": "2026-10-23T22:25:39.434Z",
   "erick194/doomrpg-re": "2026-10-23T22:25:39.434Z",
@@ -114,6 +131,8 @@
   "expansionpak/moderngekko": "2026-10-23T22:25:39.434Z",
   "fabioap-cpu/soulblade_recomp": "2026-10-23T22:25:39.434Z",
   "fabioap-cpu/tekken3recomp": "2026-10-23T22:25:39.434Z",
+  "fable2recomp/beanrecomp": "2026-10-23T22:46:33.769Z",
+  "fable2recomp/fable2recomp": "2026-10-23T22:46:33.769Z",
   "felipeprado0/gow3_pc": "2026-10-23T22:25:39.434Z",
   "fliperama86/cvlod_recomp": "2026-10-23T22:25:39.434Z",
   "florinp93/hells-gate-recomp": "2026-10-23T22:25:39.434Z",
@@ -124,7 +143,10 @@
   "freefrank/lostodysseyrecomp": "2026-10-23T22:25:39.434Z",
   "fulldivegames/majoras-mask-vr": "2026-10-23T22:25:39.434Z",
   "fulldivegames/sm64coopdx-vr-standalone-physics-based": "2026-10-23T22:25:39.434Z",
+  "gabrick75/fh2-recompiled": "2026-10-23T22:46:33.769Z",
+  "gamboozino/ngbrecomp": "2026-10-23T22:46:33.769Z",
   "genrythefox0/project-2099": "2026-10-23T22:25:39.434Z",
+  "gensokyoclub/th06": "2026-10-23T22:46:33.769Z",
   "getlostin/ctr-nitrofueled-pc": "2026-10-23T22:25:39.434Z",
   "gitlab:bighead.0/ladxhd_updated": "2026-10-23T22:25:39.434Z",
   "gitlab:ethan4love/psx-recomp-port": "2026-10-23T22:25:39.434Z",
@@ -134,10 +156,13 @@
   "gitlab:sonicdcer/starfox64recomp": "2026-10-23T22:25:39.434Z",
   "gnsb/ufc-3-ps4-port-linux-windows": "2026-10-23T22:25:39.434Z",
   "goliathret/edgeoftimerecomp": "2026-10-23T22:25:39.434Z",
+  "granimated/minecraftlce": "2026-10-23T22:46:33.769Z",
   "greennaugahyde/zeldawwhdrecompandroid": "2026-10-23T22:25:39.434Z",
+  "griches/eternaldarknessrecomp": "2026-10-23T22:46:33.769Z",
   "gtteancum/openxml1xbox": "2026-10-23T22:25:39.434Z",
   "gtteancum/sote-recomp": "2026-10-23T22:25:39.434Z",
   "gtteancum/spideyps1recomp": "2026-10-23T22:25:39.434Z",
+  "gtteancum/timesplitters": "2026-10-23T22:46:33.769Z",
   "gtteancum/xmen-mutant-academy-2-pc": "2026-10-23T22:25:39.434Z",
   "guimaraf/3sxw": "2026-10-23T22:25:39.434Z",
   "guimaraf/plusalpha-recomp": "2026-10-23T22:25:39.434Z",
@@ -158,14 +183,21 @@
   "hdmaniak/dishsoap": "2026-10-23T22:25:39.434Z",
   "hedge-dev/unleashedrecomp": "2026-10-23T22:25:39.434Z",
   "hedge-dev/xenonrecomp": "2026-10-23T22:25:39.434Z",
+  "henrykun55/celosia": "2026-10-23T22:46:33.769Z",
   "heromachine/alienresurrection-recompilation": "2026-10-23T22:25:39.434Z",
   "heromachine/tenchu-sa-recomp": "2026-10-23T22:25:39.434Z",
   "heurazy/fzerovr-standalone": "2026-10-23T22:25:39.434Z",
   "heurazy/wiicompiled_vr-plus": "2026-10-23T22:25:39.434Z",
   "himdo/fable-2-recomp": "2026-10-23T22:25:39.434Z",
+  "hkmodd/pcsx2-mcp": "2026-10-23T22:46:33.769Z",
+  "hkmodd/ps2-recomp-agent-skill": "2026-10-23T22:46:33.769Z",
+  "holdmysocks/mcla-recomp": "2026-10-23T22:46:33.769Z",
   "hollywoodakeem/svr07-recomp": "2026-10-23T22:25:39.434Z",
+  "i12bp8/decomp.wtf": "2026-10-23T22:46:33.769Z",
   "ichris4/dolphinxr": "2026-10-23T22:25:39.434Z",
   "igawa6/harvestmoon64recomp": "2026-10-23T22:25:39.434Z",
+  "ihatecompvir/band3_recomp": "2026-10-23T22:46:33.769Z",
+  "invinceble55-wq/estacado-the-darkness-recomp": "2026-10-23T22:46:33.769Z",
   "izzy2lost/ghostship": "2026-10-23T22:25:39.434Z",
   "izzy2lost/lighthouse": "2026-10-23T22:25:39.434Z",
   "izzy2lost/perfect_dark": "2026-10-23T22:25:39.434Z",
@@ -177,7 +209,10 @@
   "jacquesdupontd/port0r#hotd-vr": "2026-10-23T22:25:39.434Z",
   "jacquesdupontd/port0r#sega-rally-vr": "2026-10-23T22:25:39.434Z",
   "jacquesdupontd/port0r#virtua-cop-vr": "2026-10-23T22:25:39.434Z",
+  "jakeschincariol/console-skill": "2026-10-23T22:46:33.769Z",
   "jameriquiah/2ship2harkinian": "2026-10-23T22:25:39.434Z",
+  "jcsix694/def-jam-vendetta-recomp": "2026-10-23T22:46:33.769Z",
+  "jessetbh/akilauncher": "2026-10-23T22:46:33.769Z",
   "jessetbh/vpw2recomp": "2026-10-23T22:25:39.434Z",
   "jessetbh/vpw64recomp": "2026-10-23T22:25:39.434Z",
   "jessetbh/wcwnworevengerecomp": "2026-10-23T22:25:39.434Z",
@@ -193,10 +228,12 @@
   "jrickey/battleship": "2026-10-23T22:25:39.434Z",
   "jumatt/jetsetradiofuture-unleashed": "2026-10-23T22:25:39.434Z",
   "junior-jones/jungle-strike-snes-static-recomp": "2026-10-23T22:25:39.434Z",
+  "kaikoclanworth1/wwe-svr2011-pc": "2026-10-23T22:46:33.769Z",
   "kandowontu2/starfox-enhanced": "2026-10-23T22:25:39.434Z",
   "kawaiibunga/mkvdcu-recomp": "2026-10-23T22:25:39.434Z",
   "keepvaibin/nebula": "2026-10-23T22:25:39.434Z",
   "khasinski/rage-racer-pc": "2026-10-23T22:25:39.434Z",
+  "kiexster/god-of-war-recomp": "2026-10-23T22:46:33.769Z",
   "kirby1237/puyopuyoboxrecomp": "2026-10-23T22:25:39.434Z",
   "klorfmorf/goemon64recomp": "2026-10-23T22:25:39.434Z",
   "kote2345/the-simpsons-hit-and-run-vr": "2026-10-23T22:25:39.434Z",
@@ -211,7 +248,10 @@
   "liquidazir/animal-crossing-vr": "2026-10-23T22:25:39.434Z",
   "littlebitua/downpourrecomp": "2026-10-23T22:25:39.434Z",
   "littlebitua/dprecomp": "2026-10-23T22:25:39.434Z",
+  "loreanxavier/pt-pc": "2026-10-23T22:46:33.769Z",
+  "luisxl15/gta-iv-recomp-xbox-360": "2026-10-23T22:46:33.769Z",
   "m1ndcrap/sega-superstars-tennis-rematch": "2026-10-23T22:25:39.434Z",
+  "mabec-games/iss2000-recomp": "2026-10-23T22:46:33.769Z",
   "madelrandel-blip/nfsmw-recompiled": "2026-10-23T22:25:39.434Z",
   "madxbio97/sf-pc-port": "2026-10-23T22:25:39.434Z",
   "maniscat2/sm64coopdx": "2026-10-23T22:25:39.434Z",
@@ -226,7 +266,9 @@
   "maxdeadbear/restuff_inparadise": "2026-10-23T22:25:39.434Z",
   "mchughalex/skate3recomp": "2026-10-23T22:25:39.434Z",
   "megaman64recomp/megaman64recompiled": "2026-10-23T22:25:39.434Z",
+  "mg1937/asc": "2026-10-23T22:46:33.769Z",
   "mikermak/hotd2-vr": "2026-10-23T22:25:39.434Z",
+  "mikesemicolond/roguesquadron64recomp": "2026-10-23T22:46:33.769Z",
   "mikompilation/mikupan": "2026-10-23T22:25:39.434Z",
   "mircowuffwuff/super-mario-bros.-remastered-android": "2026-10-23T22:25:39.434Z",
   "mlgprorektm8/rygt": "2026-10-23T22:25:39.434Z",
@@ -253,19 +295,23 @@
   "mstan/tomba2recomp": "2026-10-23T22:25:39.434Z",
   "mstan/tombarecomp": "2026-10-23T22:25:39.434Z",
   "murkantor/project-midas": "2026-10-23T22:25:39.434Z",
+  "mzzvxm/larecomp": "2026-10-23T22:46:33.769Z",
   "n64decomp/007": "2026-10-23T22:25:39.434Z",
   "n64decomp/sm64": "2026-10-23T22:25:39.434Z",
   "n64recomp/n64recomp": "2026-10-23T22:25:39.434Z",
   "nagaa95/unleashedrecomp-nx": "2026-10-23T22:25:39.434Z",
   "nathanaela/mgcarpet-vr": "2026-10-23T22:25:39.434Z",
   "nathanialf/ico-pc": "2026-10-23T22:25:39.434Z",
+  "nbcraft-org/nbcraft": "2026-10-23T22:46:33.769Z",
   "neitey/openxwa-quest": "2026-10-23T22:25:39.434Z",
   "new-coke/strikers": "2026-10-23T22:25:39.434Z",
   "nikolaygorb/armyoftworecomp": "2026-10-23T22:25:39.434Z",
   "njh-1001/finfantacrecomp": "2026-10-23T22:25:39.434Z",
   "njh-1001/wipeout2k97xl": "2026-10-23T22:25:39.434Z",
+  "nmlgc/rec98": "2026-10-23T22:46:33.769Z",
   "noahvl/birdman64": "2026-10-23T22:25:39.434Z",
   "nobbie248/primedgun": "2026-10-23T22:25:39.434Z",
+  "noelo-lab/kuna": "2026-10-23T22:46:33.769Z",
   "norain211/doaxbv-re": "2026-10-23T22:25:39.434Z",
   "novapowers0/bloodyroar2recomp": "2026-10-23T22:25:39.434Z",
   "novapowers0/db-final-bout-recomp": "2026-10-23T22:25:39.434Z",
@@ -282,16 +328,26 @@
   "openmw/openmw": "2026-10-23T22:25:39.434Z",
   "openportroid/armyoftworecompilation": "2026-10-23T22:25:39.434Z",
   "openrct2/openrct2": "2026-10-23T22:25:39.434Z",
+  "ozordi/sanrecomp": "2026-10-23T22:46:33.769Z",
   "patchzyy/wiicompiled": "2026-10-23T22:25:39.434Z",
+  "paulcombal/mw2-recompiled": "2026-10-23T22:46:33.769Z",
   "perfect-dark-pc-port/perfect_dark": "2026-10-23T22:25:39.434Z",
   "pmret/papermario": "2026-10-23T22:25:39.434Z",
+  "portingpete/the-darkness-recomp": "2026-10-23T22:46:33.769Z",
   "portsdr:lotus-trilogy-nelumbo": "2026-10-23T22:25:39.434Z",
   "portsdr:sonic-and-the-secret-rings-project-reignition": "2026-10-23T22:25:39.434Z",
   "portsdr:spyro-the-dragon-openpete": "2026-10-23T22:25:39.434Z",
   "portsdr:super-mario-64-ds-super-mario-64-ds-pc-port": "2026-10-23T22:25:39.434Z",
   "praydog/reframework": "2026-10-23T22:25:39.434Z",
   "praydog/uevr": "2026-10-23T22:25:39.434Z",
+  "pret/pokediamond": "2026-10-23T22:46:33.769Z",
+  "pret/pokeemerald": "2026-10-23T22:46:33.769Z",
+  "pret/pokefirered": "2026-10-23T22:46:33.769Z",
+  "pret/pokeheartgold": "2026-10-23T22:46:33.769Z",
+  "pret/pokeplatinum": "2026-10-23T22:46:33.769Z",
+  "pret/pokeruby": "2026-10-23T22:46:33.769Z",
   "previouslevelgames/recharged": "2026-10-23T22:25:39.434Z",
+  "ps1recomp/ps1-recomp": "2026-10-23T22:46:33.769Z",
   "psxrestore/condemned2recomp": "2026-10-23T22:25:39.434Z",
   "questcraftplusplus/questcraft": "2026-10-23T22:25:39.434Z",
   "questports:iron-lung-vr": "2026-10-23T22:25:39.434Z",
@@ -301,6 +357,7 @@
   "questports:unreal-gold-vr": "2026-10-23T22:25:39.434Z",
   "questports:ut99-vr-quest": "2026-10-23T22:25:39.434Z",
   "qurious-pixel/smas_launcher": "2026-10-23T22:25:39.434Z",
+  "radek-sprta/awesome-game-remakes": "2026-10-23T22:46:33.769Z",
   "radzprower/super-metroid-launcher": "2026-10-23T22:25:39.434Z",
   "radzprower/zelda-3-launcher": "2026-10-23T22:25:39.434Z",
   "rainchus/chameleontwist1-jp-recomp": "2026-10-23T22:25:39.434Z",
@@ -308,11 +365,15 @@
   "rainchus/quest64-recomp": "2026-10-23T22:25:39.434Z",
   "ran-j/ps2recomp": "2026-10-23T22:25:39.434Z",
   "raposomiguel50/system-shock-android": "2026-10-23T22:25:39.434Z",
+  "raulzrrs/letsgo-recomp": "2026-10-23T22:46:33.769Z",
   "re-rac/rerac-launcher": "2026-10-23T22:25:39.434Z",
+  "reacher-z/awesome-rea": "2026-10-23T22:46:33.769Z",
+  "recomp-code/street-recomp-v3": "2026-10-23T22:46:33.769Z",
   "red-tv141/dc2-ps2recomp": "2026-10-23T22:25:39.434Z",
   "render96/render96ex": "2026-10-23T22:25:39.434Z",
   "retro-remake/consolemode_distribution": "2026-10-23T22:25:39.434Z",
   "retro-remake/superstation-sd-card-installer": "2026-10-23T22:25:39.434Z",
+  "retroportingtoolkit/psxrecomp": "2026-10-23T22:46:33.769Z",
   "revosucks/bm64recomp": "2026-10-23T22:25:39.434Z",
   "revosucks/bmherorecomp": "2026-10-23T22:25:39.434Z",
   "rexglue/rexglue-sdk": "2026-10-23T22:25:39.434Z",
@@ -327,11 +388,16 @@
   "sal063/ace-combat-5-static-recompilation": "2026-10-23T22:25:39.434Z",
   "sal063/ace-combat-x-recompilation": "2026-10-23T22:25:39.434Z",
   "samsteprojects/legend-of-legaia-recomp": "2026-10-23T22:25:39.434Z",
+  "samuelit0davila/fifa-street-pc-port": "2026-10-23T22:46:33.769Z",
   "samyost1/tmc-android": "2026-10-23T22:25:39.434Z",
   "samyost1/zelda3-android": "2026-10-23T22:25:39.434Z",
+  "sandstonedev/universal-ps2-recompiler": "2026-10-23T22:46:33.769Z",
+  "sat-r/sa2": "2026-10-23T22:46:33.769Z",
   "saulob/dragons-crown-pro-pc": "2026-10-23T22:25:39.434Z",
   "saulob/ssf2t-hd-remix-recompiled": "2026-10-23T22:25:39.434Z",
   "sciaschi/cbfd-recompiled": "2026-10-23T22:25:39.434Z",
+  "scotho/socom-unzipped": "2026-10-23T22:46:33.769Z",
+  "sebastrion/awesome-unofficial-pc-ports": "2026-10-23T22:46:33.769Z",
   "segadreamcat/victoryheatrallyvr-quest": "2026-10-23T22:25:39.434Z",
   "sergiomanzur/cvlod_recomp": "2026-10-23T22:25:39.434Z",
   "sergiomanzur/regaiden-recomp": "2026-10-23T22:25:39.434Z",
@@ -340,23 +406,41 @@
   "sgtbilko76/descent3-vr": "2026-10-23T22:25:39.434Z",
   "sgtbilko76/wipeout-rewrite-vr": "2026-10-23T22:25:39.434Z",
   "shagg88/athelas": "2026-10-23T22:25:39.434Z",
+  "shdecompilations/silent-hill-decomp": "2026-10-23T22:46:33.769Z",
   "shihabal3amri/tekken-tag-tournament-2-pc": "2026-10-23T22:25:39.434Z",
+  "shipa-2/xerenge": "2026-10-23T22:46:33.769Z",
   "silverwiregames/rechan": "2026-10-23T22:25:39.434Z",
   "simon358/ctr-native-android": "2026-10-23T22:25:39.434Z",
+  "sinan-karakaya/dq8-recompiled": "2026-10-23T22:46:33.769Z",
   "sirhalo23/ridgeracer6-recompilation": "2026-10-23T22:25:39.434Z",
+  "skate-2-team/sk82-recomp": "2026-10-23T22:46:33.769Z",
   "slickamogus/silent-hill-decomp": "2026-10-23T22:25:39.434Z",
   "sm64pc/sm64ex": "2026-10-23T22:25:39.434Z",
   "smcgames/paper-mario-recut": "2026-10-23T22:25:39.434Z",
   "snesrev/sm": "2026-10-23T22:25:39.434Z",
   "snesrev/smw": "2026-10-23T22:25:39.434Z",
   "snesrev/zelda3": "2026-10-23T22:25:39.434Z",
+  "snuri00/psp-web-recomp": "2026-10-23T22:46:33.769Z",
   "solarcookies/tip-recomp": "2026-10-23T22:25:39.434Z",
   "some-scurvy-dog/banjotooierecompiled": "2026-10-23T22:25:39.434Z",
+  "sonicdcer/dnzhrecomp": "2026-10-23T22:46:33.769Z",
+  "sonicdcer/mariokart64recomp": "2026-10-23T22:46:33.769Z",
+  "sonicdcer/starfox64recomp": "2026-10-23T22:46:33.769Z",
+  "sonicnext-dev/marathonrecomp": "2026-10-23T22:46:33.769Z",
   "soyjxck/dod3-recomp": "2026-10-23T22:25:39.434Z",
+  "sp00nznet/360tools": "2026-10-23T22:46:33.769Z",
+  "sp00nznet/ps3recomp": "2026-10-23T22:46:33.769Z",
+  "sp00nznet/psprecomp": "2026-10-23T22:46:33.769Z",
+  "sp00nznet/reo": "2026-10-23T22:46:33.769Z",
+  "spacefarergames/aloneinthedarkrehaunted": "2026-10-23T22:46:33.769Z",
+  "speedbreakerproject/speedbreaker": "2026-10-23T22:46:33.769Z",
+  "spoopyghosty0/frameport": "2026-10-23T22:46:33.769Z",
   "ssunnking/open-nectar---pikmin-decompilation-linux-port": "2026-10-23T22:25:39.434Z",
   "strider973/einhander-recompiled": "2026-10-23T22:25:39.434Z",
   "strider973/street-fighter-ex2-plus-recompiled": "2026-10-23T22:25:39.434Z",
   "strider973/strider-2-recompiled": "2026-10-23T22:25:39.434Z",
+  "subarasheese/daytona-xbla-recomp": "2026-10-23T22:46:33.769Z",
+  "submitgame/awesome-decomp-games": "2026-10-23T22:46:33.769Z",
   "sunjaycy/goldeneye-recomp": "2026-10-23T22:25:39.434Z",
   "supermedo/bloodborne_pc": "2026-10-23T22:25:39.434Z",
   "supermedo/uncharted_pc": "2026-10-23T22:25:39.434Z",
@@ -387,28 +471,35 @@
   "technicallycomputers/twistedmetal4recomp": "2026-10-23T22:25:39.434Z",
   "tekrantgaming/earthworm-jim-hd-recompiled": "2026-10-23T22:25:39.434Z",
   "tekrantgaming/king-kong-recompiled": "2026-10-23T22:25:39.434Z",
+  "testdriveupgrade/megadriverecomp": "2026-10-23T22:46:33.769Z",
   "tgp482/black-xberecomp": "2026-10-23T22:25:39.434Z",
   "tgp482/scda-xberecomp": "2026-10-23T22:25:39.434Z",
+  "tgp482/xboxxberecomp": "2026-10-23T22:46:33.769Z",
   "thatguymcd/dkr-r": "2026-10-23T22:25:39.434Z",
   "thatguymcd/rocket-r": "2026-10-23T22:25:39.434Z",
   "theboy181/drmario64_recomp_plus": "2026-10-23T22:25:39.434Z",
   "theclub654/projectcane": "2026-10-23T22:25:39.434Z",
+  "thegh0stship/battletanx-global-assault-pc-port": "2026-10-23T22:46:33.769Z",
   "themriron2/sf64-psp": "2026-10-23T22:25:39.434Z",
   "theokyr/project8recomp": "2026-10-23T22:25:39.434Z",
   "theonlyzac/sly1": "2026-10-23T22:25:39.434Z",
   "thiagolira/trouble-makers-pc-recomp": "2026-10-23T22:25:39.434Z",
+  "thiagordsfx/urban-reign-recomp": "2026-10-23T22:46:33.769Z",
   "tinsarfal/qualyx": "2026-10-23T22:25:39.434Z",
   "tinsarfal/sourcevr": "2026-10-23T22:25:39.434Z",
   "tomups/openmw-vr-quest": "2026-10-23T22:25:39.434Z",
   "troyedwardsjr/z2rs": "2026-10-23T22:25:39.434Z",
   "twilitrealm/dusklight": "2026-10-23T22:25:39.434Z",
   "unchiga/yugiohforbiddenmemoriesrecomp": "2026-10-23T22:25:39.434Z",
+  "vector35/binaryninja-api": "2026-10-23T22:46:33.769Z",
   "vistalargagames/smash-remix-vr": "2026-10-23T22:25:39.434Z",
   "vistalargagames/waverace64-questvr": "2026-10-23T22:25:39.434Z",
+  "vyanhursky/defjamffny-recomp": "2026-10-23T22:46:33.769Z",
   "whompay/saintsreborn": "2026-10-23T22:25:39.434Z",
   "winlatorxr/winlatorxr": "2026-10-23T22:25:39.434Z",
   "wipeout-phantom-edition/wipeout-phantom-edition": "2026-10-23T22:25:39.434Z",
   "wistfulhopes/dbz1": "2026-10-23T22:25:39.434Z",
+  "wistfulhopes/rb2": "2026-10-23T22:46:33.769Z",
   "wivi514/dead_rising_2_case_west_xenon_recomp": "2026-10-23T22:25:39.434Z",
   "wivi514/dead_rising_2_case_zero_xenon_recomp": "2026-10-23T22:25:39.434Z",
   "wootbeer/dinotale": "2026-10-23T22:25:39.434Z",
@@ -416,15 +507,20 @@
   "xeeynamo/sotn-decomp": "2026-10-23T22:25:39.434Z",
   "yell0wsuit/cuttherope-dx": "2026-10-23T22:25:39.434Z",
   "yestermester/thesimpsonsgamerecomp": "2026-10-23T22:25:39.434Z",
+  "yoshicrystal9/re-gh2": "2026-10-23T22:46:33.769Z",
+  "yyozcan/tobiichi-port": "2026-10-23T22:46:33.769Z",
   "z2442/oot-psp": "2026-10-23T22:25:39.434Z",
+  "z3xox/bt3-recomp": "2026-10-23T22:46:33.769Z",
   "z3xox/tenkaichi3decomp": "2026-10-23T22:25:39.434Z",
   "zelda64recomp/zelda64recomp": "2026-10-23T22:25:39.434Z",
+  "zeldaret/botw": "2026-10-23T22:46:33.769Z",
   "zeldaret/mm": "2026-10-23T22:25:39.434Z",
   "zeldaret/oot": "2026-10-23T22:25:39.434Z",
   "zeldaret/tmc": "2026-10-23T22:25:39.434Z",
   "zeldaret/tp": "2026-10-23T22:25:39.434Z",
   "zeldaret/tww": "2026-10-23T22:25:39.434Z",
   "zeldawwhdrecomp/zeldawwhdrecomp": "2026-10-23T22:25:39.434Z",
+  "zer0ducksgiven/forza-motorsport-2-regpu": "2026-10-23T22:46:33.769Z",
   "zeranemesis/marioparty4": "2026-10-23T22:25:39.434Z",
   "zloikiller/nfs3recompiled-android": "2026-10-23T22:25:39.434Z",
   "zolaware/reblue": "2026-10-23T22:25:39.434Z",
@@ -434,6 +530,54 @@
   "zwaetschge/acgc-android-port": "2026-10-23T22:25:39.434Z"
  },
  "found": {
+  "alexgaoth/awesome-reverse-engineered": {
+   "id": "alexgaoth/awesome-reverse-engineered",
+   "name": "awesome reverse engineered",
+   "game": "awesome reverse engineered",
+   "categories": [
+    "Other"
+   ],
+   "type": "decompilation",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "alexgaoth/awesome-reverse-engineered"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "topic:decompilation stars:>100",
+    "date": "2026-10-23T22:46:33.769Z"
+   },
+   "autoFollow": true
+  },
+  "bailo167/awesome-game-mashups": {
+   "id": "bailo167/awesome-game-mashups",
+   "name": "awesome game mashups",
+   "game": "awesome game mashups",
+   "categories": [
+    "Other"
+   ],
+   "type": "recompilation",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "bailo167/awesome-game-mashups"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "topic:recompilation stars:>20",
+    "date": "2026-10-23T22:46:33.769Z"
+   },
+   "autoFollow": false
+  },
   "blacklabelhq/recompone": {
    "id": "blacklabelhq/recompone",
    "name": "Recomp One",
@@ -459,6 +603,150 @@
     "date": "2026-07-05T11:00:47.000Z"
    },
    "autoFollow": true
+  },
+  "blacklineinteractive/nwiirecomp": {
+   "id": "blacklineinteractive/nwiirecomp",
+   "name": "NWii Recomp",
+   "game": "NWii Recomp",
+   "categories": [
+    "GameCube"
+   ],
+   "type": "recompilation",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "BlackLineInteractive/NWiiRecomp"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "PS2Recomp in:readme stars:>20",
+    "date": "2026-10-23T22:46:33.769Z"
+   },
+   "autoFollow": false
+  },
+  "blueinterlude/awesome-recompilations": {
+   "id": "blueinterlude/awesome-recompilations",
+   "name": "awesome recompilations",
+   "game": "awesome recompilations",
+   "categories": [
+    "Nintendo 64"
+   ],
+   "type": "recompilation",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "BlueInterlude/awesome-recompilations"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "XenonRecomp in:readme stars:>30",
+    "date": "2026-10-23T22:46:33.769Z"
+   },
+   "autoFollow": false
+  },
+  "boron853/souls-of-the-reaper": {
+   "id": "boron853/souls-of-the-reaper",
+   "name": "Souls of the Reaper",
+   "game": "Souls of the Reaper",
+   "categories": [
+    "Xbox 360"
+   ],
+   "type": "port",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "Boron853/Souls-of-the-Reaper"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "rexglue in:readme stars:>30",
+    "date": "2026-10-23T22:46:33.769Z"
+   },
+   "autoFollow": false
+  },
+  "buku313/skate3-mobile": {
+   "id": "buku313/skate3-mobile",
+   "name": "Skate3 Mobile",
+   "game": "Skate3 Mobile",
+   "categories": [
+    "Xbox 360"
+   ],
+   "type": "recompilation",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "Buku313/Skate3-Mobile"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "rexglue in:readme stars:>30",
+    "date": "2026-10-23T22:46:33.769Z"
+   },
+   "autoFollow": false
+  },
+  "charlottecross1998/awesome-game-decompilations": {
+   "id": "charlottecross1998/awesome-game-decompilations",
+   "name": "awesome game decompilations",
+   "game": "awesome game decompilations",
+   "categories": [
+    "Other"
+   ],
+   "type": "recompilation",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "CharlotteCross1998/awesome-game-decompilations"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "topic:recompilation stars:>20",
+    "date": "2026-10-23T22:46:33.769Z"
+   },
+   "autoFollow": true
+  },
+  "chrissotraidis/annepad": {
+   "id": "chrissotraidis/annepad",
+   "name": "annepad",
+   "game": "annepad",
+   "categories": [
+    "Nintendo 64"
+   ],
+   "type": "recompilation",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "chrissotraidis/annepad"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "topic:n64recomp stars:>10",
+    "date": "2026-10-23T22:46:33.769Z"
+   },
+   "autoFollow": false
   },
   "circuitlord/circuitlordvrmodinstaller": {
    "id": "circuitlord/circuitlordvrmodinstaller",
@@ -489,6 +777,198 @@
    },
    "autoFollow": true
   },
+  "cranebeaker/coop-anything": {
+   "id": "cranebeaker/coop-anything",
+   "name": "coop anything",
+   "game": "coop anything",
+   "categories": [
+    "Xbox 360"
+   ],
+   "type": "recompilation",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "cranebeaker/coop-anything"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "XenonRecomp in:readme stars:>30",
+    "date": "2026-10-23T22:46:33.769Z"
+   },
+   "autoFollow": true
+  },
+  "dahsidiabdallah/conkerbfdreloaded": {
+   "id": "dahsidiabdallah/conkerbfdreloaded",
+   "name": "Conker BFDReloaded",
+   "game": "Conker BFDReloaded",
+   "categories": [
+    "Nintendo 64"
+   ],
+   "type": "recompilation",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "DahSidiAbdallah/ConkerBFDReloaded"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "topic:n64recomp stars:>10",
+    "date": "2026-10-23T22:46:33.769Z"
+   },
+   "autoFollow": false
+  },
+  "danisandoval/fukami": {
+   "id": "danisandoval/fukami",
+   "name": "fukami",
+   "game": "fukami",
+   "categories": [
+    "Xbox 360"
+   ],
+   "type": "recompilation",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "danisandoval/fukami"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "XenonRecomp in:readme stars:>30",
+    "date": "2026-10-23T22:46:33.769Z"
+   },
+   "autoFollow": false
+  },
+  "decompme/decomp.me": {
+   "id": "decompme/decomp.me",
+   "name": "decomp.me",
+   "game": "decomp.me",
+   "categories": [
+    "Other"
+   ],
+   "type": "decompilation",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "decompme/decomp.me"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "topic:decompilation stars:>100",
+    "date": "2026-10-23T22:46:33.769Z"
+   },
+   "autoFollow": true
+  },
+  "dothacktranslate/dothack-recompilation": {
+   "id": "dothacktranslate/dothack-recompilation",
+   "name": "dothack recompilation",
+   "game": "dothack recompilation",
+   "categories": [
+    "PlayStation 2"
+   ],
+   "type": "recompilation",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "dothacktranslate/dothack-recompilation"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "PS2Recomp in:readme stars:>20",
+    "date": "2026-10-23T22:46:33.769Z"
+   },
+   "autoFollow": false
+  },
+  "drakolordx7/killzonerecomp": {
+   "id": "drakolordx7/killzonerecomp",
+   "name": "Killzone Recomp",
+   "game": "Killzone Recomp",
+   "categories": [
+    "PlayStation 2"
+   ],
+   "type": "recompilation",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "drakolordx7/KillzoneRecomp"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "PS2Recomp in:readme stars:>20",
+    "date": "2026-10-23T22:46:33.769Z"
+   },
+   "autoFollow": false
+  },
+  "dryxio/reagent": {
+   "id": "dryxio/reagent",
+   "name": "reagent",
+   "game": "reagent",
+   "categories": [
+    "Other"
+   ],
+   "type": "decompilation",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "Dryxio/reagent"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "topic:decompilation stars:>100",
+    "date": "2026-10-23T22:46:33.769Z"
+   },
+   "autoFollow": true
+  },
+  "encounter/objdiff": {
+   "id": "encounter/objdiff",
+   "name": "objdiff",
+   "game": "objdiff",
+   "categories": [
+    "GameCube"
+   ],
+   "type": "decompilation",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "encounter/objdiff"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "topic:decompilation stars:>100",
+    "date": "2026-10-23T22:46:33.769Z"
+   },
+   "autoFollow": true
+  },
   "eray1605/re2ds": {
    "id": "eray1605/re2ds",
    "name": "re2ds",
@@ -512,6 +992,1091 @@
     "url": "https://retrododo.com/resident-evil-2-is-being-ported-to-the-nintendo-ds/",
     "source": "Retro Dodo",
     "date": "2026-10-22T17:41:11.000Z"
+   },
+   "autoFollow": false
+  },
+  "fable2recomp/beanrecomp": {
+   "id": "fable2recomp/beanrecomp",
+   "name": "bean Recomp",
+   "game": "bean Recomp",
+   "categories": [
+    "Xbox 360"
+   ],
+   "type": "recompilation",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "Fable2Recomp/beanRecomp"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "XenonRecomp in:readme stars:>30",
+    "date": "2026-10-23T22:46:33.769Z"
+   },
+   "autoFollow": false
+  },
+  "fable2recomp/fable2recomp": {
+   "id": "fable2recomp/fable2recomp",
+   "name": "Fable2Recomp",
+   "game": "Fable2Recomp",
+   "categories": [
+    "Xbox 360"
+   ],
+   "type": "recompilation",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "Fable2Recomp/Fable2Recomp"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "rexglue in:readme stars:>30",
+    "date": "2026-10-23T22:46:33.769Z"
+   },
+   "autoFollow": true
+  },
+  "gabrick75/fh2-recompiled": {
+   "id": "gabrick75/fh2-recompiled",
+   "name": "fh2 recompiled",
+   "game": "fh2 recompiled",
+   "categories": [
+    "Xbox 360"
+   ],
+   "type": "recompilation",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "Gabrick75/fh2-recompiled"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "rexglue in:readme stars:>30",
+    "date": "2026-10-23T22:46:33.769Z"
+   },
+   "autoFollow": false
+  },
+  "gamboozino/ngbrecomp": {
+   "id": "gamboozino/ngbrecomp",
+   "name": "ngbrecomp",
+   "game": "ngbrecomp",
+   "categories": [
+    "Xbox"
+   ],
+   "type": "recompilation",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "gamboozino/ngbrecomp"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "topic:recompilation stars:>20",
+    "date": "2026-10-23T22:46:33.769Z"
+   },
+   "autoFollow": false
+  },
+  "gensokyoclub/th06": {
+   "id": "gensokyoclub/th06",
+   "name": "th06",
+   "game": "th06",
+   "categories": [
+    "Other"
+   ],
+   "type": "decompilation",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "GensokyoClub/th06"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "topic:decompilation stars:>100",
+    "date": "2026-10-23T22:46:33.769Z"
+   },
+   "autoFollow": true
+  },
+  "granimated/minecraftlce": {
+   "id": "granimated/minecraftlce",
+   "name": "Minecraft LCE",
+   "game": "Minecraft LCE",
+   "categories": [
+    "Other"
+   ],
+   "type": "decompilation",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "GRAnimated/MinecraftLCE"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "topic:decompilation stars:>100",
+    "date": "2026-10-23T22:46:33.769Z"
+   },
+   "autoFollow": true
+  },
+  "griches/eternaldarknessrecomp": {
+   "id": "griches/eternaldarknessrecomp",
+   "name": "Eternal Darkness Recomp",
+   "game": "Eternal Darkness Recomp",
+   "categories": [
+    "GameCube"
+   ],
+   "type": "recompilation",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "griches/EternalDarknessRecomp"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "topic:recompilation stars:>20",
+    "date": "2026-10-23T22:46:33.769Z"
+   },
+   "autoFollow": false
+  },
+  "gtteancum/timesplitters": {
+   "id": "gtteancum/timesplitters",
+   "name": "Timesplitters",
+   "game": "Timesplitters",
+   "categories": [
+    "PlayStation 2"
+   ],
+   "type": "recompilation",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "GTTeancum/Timesplitters"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "PS2Recomp in:readme stars:>20",
+    "date": "2026-10-23T22:46:33.769Z"
+   },
+   "autoFollow": false
+  },
+  "henrykun55/celosia": {
+   "id": "henrykun55/celosia",
+   "name": "celosia",
+   "game": "celosia",
+   "categories": [
+    "PlayStation 2"
+   ],
+   "type": "recompilation",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "HenryKun55/celosia"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "PS2Recomp in:readme stars:>20",
+    "date": "2026-10-23T22:46:33.769Z"
+   },
+   "autoFollow": false
+  },
+  "hkmodd/pcsx2-mcp": {
+   "id": "hkmodd/pcsx2-mcp",
+   "name": "PCSX2 MCP",
+   "game": "PCSX2 MCP",
+   "categories": [
+    "PlayStation 2"
+   ],
+   "type": "recompilation",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "hkmodd/PCSX2-MCP"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "PS2Recomp in:readme stars:>20",
+    "date": "2026-10-23T22:46:33.769Z"
+   },
+   "autoFollow": false
+  },
+  "hkmodd/ps2-recomp-agent-skill": {
+   "id": "hkmodd/ps2-recomp-agent-skill",
+   "name": "ps2 recomp Agent SKILL",
+   "game": "ps2 recomp Agent SKILL",
+   "categories": [
+    "PlayStation 2"
+   ],
+   "type": "recompilation",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "hkmodd/ps2-recomp-Agent-SKILL"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "PS2Recomp in:readme stars:>20",
+    "date": "2026-10-23T22:46:33.769Z"
+   },
+   "autoFollow": false
+  },
+  "holdmysocks/mcla-recomp": {
+   "id": "holdmysocks/mcla-recomp",
+   "name": "mcla recomp",
+   "game": "mcla recomp",
+   "categories": [
+    "Xbox 360"
+   ],
+   "type": "recompilation",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "holdmysocks/mcla-recomp"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "XenonRecomp in:readme stars:>30",
+    "date": "2026-10-23T22:46:33.769Z"
+   },
+   "autoFollow": false
+  },
+  "i12bp8/decomp.wtf": {
+   "id": "i12bp8/decomp.wtf",
+   "name": "decomp.wtf",
+   "game": "decomp.wtf",
+   "categories": [
+    "Nintendo 64"
+   ],
+   "type": "recompilation",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "i12bp8/decomp.wtf"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "topic:recompilation stars:>20",
+    "date": "2026-10-23T22:46:33.769Z"
+   },
+   "autoFollow": true
+  },
+  "ihatecompvir/band3_recomp": {
+   "id": "ihatecompvir/band3_recomp",
+   "name": "band3 recomp",
+   "game": "band3 recomp",
+   "categories": [
+    "Xbox 360"
+   ],
+   "type": "recompilation",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "ihatecompvir/band3_recomp"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "rexglue in:readme stars:>30",
+    "date": "2026-10-23T22:46:33.769Z"
+   },
+   "autoFollow": false
+  },
+  "invinceble55-wq/estacado-the-darkness-recomp": {
+   "id": "invinceble55-wq/estacado-the-darkness-recomp",
+   "name": "Estacado The Darkness Recomp",
+   "game": "Estacado The Darkness Recomp",
+   "categories": [
+    "Xbox 360"
+   ],
+   "type": "recompilation",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "invinceble55-wq/Estacado-The-Darkness-Recomp"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "XenonRecomp in:readme stars:>30",
+    "date": "2026-10-23T22:46:33.769Z"
+   },
+   "autoFollow": false
+  },
+  "jakeschincariol/console-skill": {
+   "id": "jakeschincariol/console-skill",
+   "name": "console skill",
+   "game": "console skill",
+   "categories": [
+    "PlayStation 2"
+   ],
+   "type": "recompilation",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "Jakeschincariol/console-skill"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "PS2Recomp in:readme stars:>20",
+    "date": "2026-10-23T22:46:33.769Z"
+   },
+   "autoFollow": false
+  },
+  "jcsix694/def-jam-vendetta-recomp": {
+   "id": "jcsix694/def-jam-vendetta-recomp",
+   "name": "def jam vendetta recomp",
+   "game": "def jam vendetta recomp",
+   "categories": [
+    "PlayStation 2"
+   ],
+   "type": "recompilation",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "jcsix694/def-jam-vendetta-recomp"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "PS2Recomp in:readme stars:>20",
+    "date": "2026-10-23T22:46:33.769Z"
+   },
+   "autoFollow": false
+  },
+  "jessetbh/akilauncher": {
+   "id": "jessetbh/akilauncher",
+   "name": "Aki Launcher",
+   "game": "Aki Launcher",
+   "categories": [
+    "Nintendo 64"
+   ],
+   "type": "recompilation",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "jessetbh/AkiLauncher"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "topic:n64recomp stars:>10",
+    "date": "2026-10-23T22:46:33.769Z"
+   },
+   "autoFollow": false
+  },
+  "kaikoclanworth1/wwe-svr2011-pc": {
+   "id": "kaikoclanworth1/wwe-svr2011-pc",
+   "name": "wwe svr2011 pc",
+   "game": "wwe svr2011 pc",
+   "categories": [
+    "Xbox 360"
+   ],
+   "type": "recompilation",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "KaikoClanworth1/wwe-svr2011-pc"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "rexglue in:readme stars:>30",
+    "date": "2026-10-23T22:46:33.769Z"
+   },
+   "autoFollow": false
+  },
+  "kiexster/god-of-war-recomp": {
+   "id": "kiexster/god-of-war-recomp",
+   "name": "god of war recomp",
+   "game": "god of war recomp",
+   "categories": [
+    "PlayStation 2"
+   ],
+   "type": "recompilation",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "KIexster/god-of-war-recomp"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "topic:recompilation stars:>20",
+    "date": "2026-10-23T22:46:33.769Z"
+   },
+   "autoFollow": false
+  },
+  "loreanxavier/pt-pc": {
+   "id": "loreanxavier/pt-pc",
+   "name": "pt pc",
+   "game": "pt pc",
+   "categories": [
+    "PlayStation 4"
+   ],
+   "type": "port",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "LoreanXavier/pt-pc"
+   },
+   "links": [],
+   "sources": [
+    "news"
+   ],
+   "discoveredFrom": {
+    "kind": "news",
+    "title": "Long-lost horror gaming cult classic P.T. gets a much-needed PC port",
+    "url": "https://arstechnica.com/gaming/2026/10/long-lost-horror-gaming-cult-classic-p-t-gets-a-much-needed-pc-port/",
+    "source": "Ars Technica",
+    "date": "2026-10-12T16:01:08.000Z"
+   },
+   "autoFollow": true
+  },
+  "luisxl15/gta-iv-recomp-xbox-360": {
+   "id": "luisxl15/gta-iv-recomp-xbox-360",
+   "name": "GTA IV RECOMP XBOX 360",
+   "game": "GTA IV RECOMP XBOX 360",
+   "categories": [
+    "Xbox 360"
+   ],
+   "type": "recompilation",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "luisxl15/GTA-IV-RECOMP-XBOX-360"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "rexglue in:readme stars:>30",
+    "date": "2026-10-23T22:46:33.769Z"
+   },
+   "autoFollow": false
+  },
+  "mabec-games/iss2000-recomp": {
+   "id": "mabec-games/iss2000-recomp",
+   "name": "iss2000 recomp",
+   "game": "iss2000 recomp",
+   "categories": [
+    "Nintendo 64"
+   ],
+   "type": "recompilation",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "Mabec-games/iss2000-recomp"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "topic:n64recomp stars:>10",
+    "date": "2026-10-23T22:46:33.769Z"
+   },
+   "autoFollow": false
+  },
+  "mg1937/asc": {
+   "id": "mg1937/asc",
+   "name": "ASC",
+   "game": "ASC",
+   "categories": [
+    "Other"
+   ],
+   "type": "decompilation",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "MG1937/ASC"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "topic:decompilation stars:>100",
+    "date": "2026-10-23T22:46:33.769Z"
+   },
+   "autoFollow": true
+  },
+  "mikesemicolond/roguesquadron64recomp": {
+   "id": "mikesemicolond/roguesquadron64recomp",
+   "name": "Rogue Squadron64Recomp",
+   "game": "Rogue Squadron64Recomp",
+   "categories": [
+    "Nintendo 64"
+   ],
+   "type": "recompilation",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "MikeSemicolonD/RogueSquadron64Recomp"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "topic:n64recomp stars:>10",
+    "date": "2026-10-23T22:46:33.769Z"
+   },
+   "autoFollow": false
+  },
+  "moistman42069/haloce-decompremix-vr-pc-android": {
+   "id": "moistman42069/haloce-decompremix-vr-pc-android",
+   "name": "Halo CE Decomp Remix VR PC Android",
+   "game": "Halo CE Decomp Remix VR PC Android",
+   "categories": [
+    "Other",
+    "VR Ports"
+   ],
+   "type": "decompilation",
+   "tags": [
+    "VR"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "moistman42069/HaloCE-DecompRemix-VR-PC-Android"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "topic:openxr port stars:>40",
+    "date": "2026-10-23T22:46:33.769Z"
+   },
+   "autoFollow": false
+  },
+  "mzzvxm/larecomp": {
+   "id": "mzzvxm/larecomp",
+   "name": "LARecomp",
+   "game": "LARecomp",
+   "categories": [
+    "Xbox 360"
+   ],
+   "type": "recompilation",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "mzzvxm/LARecomp"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "rexglue in:readme stars:>30",
+    "date": "2026-10-23T22:46:33.769Z"
+   },
+   "autoFollow": false
+  },
+  "nbcraft-org/nbcraft": {
+   "id": "nbcraft-org/nbcraft",
+   "name": "nbcraft",
+   "game": "nbcraft",
+   "categories": [
+    "Other"
+   ],
+   "type": "decompilation",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "nbcraft-org/nbcraft"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "topic:decompilation stars:>100",
+    "date": "2026-10-23T22:46:33.769Z"
+   },
+   "autoFollow": true
+  },
+  "nmlgc/rec98": {
+   "id": "nmlgc/rec98",
+   "name": "Re C98",
+   "game": "Re C98",
+   "categories": [
+    "Other"
+   ],
+   "type": "decompilation",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "nmlgc/ReC98"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "topic:decompilation stars:>100",
+    "date": "2026-10-23T22:46:33.769Z"
+   },
+   "autoFollow": true
+  },
+  "noelo-lab/kuna": {
+   "id": "noelo-lab/kuna",
+   "name": "kuna",
+   "game": "kuna",
+   "categories": [
+    "Other"
+   ],
+   "type": "decompilation",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "Noelo-Lab/kuna"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "topic:decompilation stars:>100",
+    "date": "2026-10-23T22:46:33.769Z"
+   },
+   "autoFollow": true
+  },
+  "norain211/doaxvb-re": {
+   "id": "norain211/doaxvb-re",
+   "name": "doaxvb re",
+   "game": "doaxvb re",
+   "categories": [
+    "Xbox"
+   ],
+   "type": "recompilation",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "NoRain211/doaxvb-re"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "topic:recompilation stars:>20",
+    "date": "2026-10-23T22:46:33.769Z"
+   },
+   "autoFollow": false
+  },
+  "ozordi/sanrecomp": {
+   "id": "ozordi/sanrecomp",
+   "name": "San Recomp",
+   "game": "San Recomp",
+   "categories": [
+    "Xbox 360"
+   ],
+   "type": "recompilation",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "OZORDI/SanRecomp"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "XenonRecomp in:readme stars:>30",
+    "date": "2026-10-23T22:46:33.769Z"
+   },
+   "autoFollow": false
+  },
+  "paulcombal/mw2-recompiled": {
+   "id": "paulcombal/mw2-recompiled",
+   "name": "mw2 recompiled",
+   "game": "mw2 recompiled",
+   "categories": [
+    "Xbox 360"
+   ],
+   "type": "recompilation",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "PaulCombal/mw2-recompiled"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "topic:recompilation stars:>20",
+    "date": "2026-10-23T22:46:33.769Z"
+   },
+   "autoFollow": false
+  },
+  "portingpete/the-darkness-recomp": {
+   "id": "portingpete/the-darkness-recomp",
+   "name": "The Darkness Recomp",
+   "game": "The Darkness Recomp",
+   "categories": [
+    "Xbox 360"
+   ],
+   "type": "recompilation",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "portingpete/The-Darkness-Recomp"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "XenonRecomp in:readme stars:>30",
+    "date": "2026-10-23T22:46:33.769Z"
+   },
+   "autoFollow": true
+  },
+  "pret/pokediamond": {
+   "id": "pret/pokediamond",
+   "name": "pokediamond",
+   "game": "pokediamond",
+   "categories": [
+    "Other"
+   ],
+   "type": "decompilation",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "pret/pokediamond"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "topic:decompilation stars:>100",
+    "date": "2026-10-23T22:46:33.769Z"
+   },
+   "autoFollow": true
+  },
+  "pret/pokeemerald": {
+   "id": "pret/pokeemerald",
+   "name": "pokeemerald",
+   "game": "pokeemerald",
+   "categories": [
+    "Game Boy"
+   ],
+   "type": "decompilation",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "pret/pokeemerald"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "topic:decompilation stars:>100",
+    "date": "2026-10-23T22:46:33.769Z"
+   },
+   "autoFollow": true
+  },
+  "pret/pokefirered": {
+   "id": "pret/pokefirered",
+   "name": "pokefirered",
+   "game": "pokefirered",
+   "categories": [
+    "Game Boy"
+   ],
+   "type": "decompilation",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "pret/pokefirered"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "topic:decompilation stars:>100",
+    "date": "2026-10-23T22:46:33.769Z"
+   },
+   "autoFollow": true
+  },
+  "pret/pokeheartgold": {
+   "id": "pret/pokeheartgold",
+   "name": "pokeheartgold",
+   "game": "pokeheartgold",
+   "categories": [
+    "Other"
+   ],
+   "type": "decompilation",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "pret/pokeheartgold"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "topic:decompilation stars:>100",
+    "date": "2026-10-23T22:46:33.769Z"
+   },
+   "autoFollow": true
+  },
+  "pret/pokeplatinum": {
+   "id": "pret/pokeplatinum",
+   "name": "pokeplatinum",
+   "game": "pokeplatinum",
+   "categories": [
+    "Other"
+   ],
+   "type": "decompilation",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "pret/pokeplatinum"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "topic:decompilation stars:>100",
+    "date": "2026-10-23T22:46:33.769Z"
+   },
+   "autoFollow": true
+  },
+  "pret/pokeruby": {
+   "id": "pret/pokeruby",
+   "name": "pokeruby",
+   "game": "pokeruby",
+   "categories": [
+    "Game Boy"
+   ],
+   "type": "decompilation",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "pret/pokeruby"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "topic:decompilation stars:>100",
+    "date": "2026-10-23T22:46:33.769Z"
+   },
+   "autoFollow": true
+  },
+  "ps1recomp/ps1-recomp": {
+   "id": "ps1recomp/ps1-recomp",
+   "name": "ps1 recomp",
+   "game": "ps1 recomp",
+   "categories": [
+    "PlayStation 2"
+   ],
+   "type": "recompilation",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "PS1Recomp/ps1-recomp"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "PS2Recomp in:readme stars:>20",
+    "date": "2026-10-23T22:46:33.769Z"
+   },
+   "autoFollow": false
+  },
+  "radek-sprta/awesome-game-remakes": {
+   "id": "radek-sprta/awesome-game-remakes",
+   "name": "awesome game remakes",
+   "game": "awesome game remakes",
+   "categories": [
+    "Nintendo 64"
+   ],
+   "type": "recompilation",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "radek-sprta/awesome-game-remakes"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "\"N64: Recompiled\" in:readme stars:>50",
+    "date": "2026-10-23T22:46:33.769Z"
+   },
+   "autoFollow": false
+  },
+  "raulzrrs/letsgo-recomp": {
+   "id": "raulzrrs/letsgo-recomp",
+   "name": "letsgo recomp",
+   "game": "letsgo recomp",
+   "categories": [
+    "Nintendo Switch"
+   ],
+   "type": "recompilation",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "raulzrrs/letsgo-recomp"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "topic:recompilation stars:>20",
+    "date": "2026-10-23T22:46:33.769Z"
+   },
+   "autoFollow": false
+  },
+  "reacher-z/awesome-rea": {
+   "id": "reacher-z/awesome-rea",
+   "name": "Awesome REA",
+   "game": "Awesome REA",
+   "categories": [
+    "Nintendo 64"
+   ],
+   "type": "recompilation",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "reacher-z/Awesome-REA"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "\"N64: Recompiled\" in:readme stars:>50",
+    "date": "2026-10-23T22:46:33.769Z"
+   },
+   "autoFollow": false
+  },
+  "recomp-code/street-recomp-v3": {
+   "id": "recomp-code/street-recomp-v3",
+   "name": "street recomp v3",
+   "game": "street recomp v3",
+   "categories": [
+    "PlayStation 2"
+   ],
+   "type": "recompilation",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "recomp-code/street-recomp-v3"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "PS2Recomp in:readme stars:>20",
+    "date": "2026-10-23T22:46:33.769Z"
    },
    "autoFollow": false
   },
@@ -566,24 +2131,903 @@
     "date": "2026-08-02T19:08:12.000Z"
    },
    "autoFollow": false
+  },
+  "retroportingtoolkit/psxrecomp": {
+   "id": "retroportingtoolkit/psxrecomp",
+   "name": "psxrecomp",
+   "game": "psxrecomp",
+   "categories": [
+    "Nintendo 64"
+   ],
+   "type": "recompilation",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "RetroPortingToolKit/psxrecomp"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "\"N64: Recompiled\" in:readme stars:>50",
+    "date": "2026-10-23T22:46:33.769Z"
+   },
+   "autoFollow": true
+  },
+  "samuelit0davila/fifa-street-pc-port": {
+   "id": "samuelit0davila/fifa-street-pc-port",
+   "name": "fifa street pc port",
+   "game": "fifa street pc port",
+   "categories": [
+    "Xbox"
+   ],
+   "type": "recompilation",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "samuelit0davila/fifa-street-pc-port"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "topic:recompilation stars:>20",
+    "date": "2026-10-23T22:46:33.769Z"
+   },
+   "autoFollow": true
+  },
+  "sandstonedev/universal-ps2-recompiler": {
+   "id": "sandstonedev/universal-ps2-recompiler",
+   "name": "universal ps2 recompiler",
+   "game": "universal ps2 recompiler",
+   "categories": [
+    "PlayStation 2"
+   ],
+   "type": "recompilation",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "SandstoneDev/universal-ps2-recompiler"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "PS2Recomp in:readme stars:>20",
+    "date": "2026-10-23T22:46:33.769Z"
+   },
+   "autoFollow": false
+  },
+  "sat-r/sa2": {
+   "id": "sat-r/sa2",
+   "name": "sa2",
+   "game": "sa2",
+   "categories": [
+    "Game Boy Advance"
+   ],
+   "type": "decompilation",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "SAT-R/sa2"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "topic:decompilation stars:>100",
+    "date": "2026-10-23T22:46:33.769Z"
+   },
+   "autoFollow": true
+  },
+  "scotho/socom-unzipped": {
+   "id": "scotho/socom-unzipped",
+   "name": "socom unzipped",
+   "game": "socom unzipped",
+   "categories": [
+    "PlayStation 2"
+   ],
+   "type": "recompilation",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "Scotho/socom-unzipped"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "PS2Recomp in:readme stars:>20",
+    "date": "2026-10-23T22:46:33.769Z"
+   },
+   "autoFollow": false
+  },
+  "sebastrion/awesome-unofficial-pc-ports": {
+   "id": "sebastrion/awesome-unofficial-pc-ports",
+   "name": "awesome unofficial pc ports",
+   "game": "awesome unofficial pc ports",
+   "categories": [
+    "Nintendo 64"
+   ],
+   "type": "recompilation",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "Sebastrion/awesome-unofficial-pc-ports"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "topic:recompilation stars:>20",
+    "date": "2026-10-23T22:46:33.769Z"
+   },
+   "autoFollow": true
+  },
+  "shdecompilations/silent-hill-decomp": {
+   "id": "shdecompilations/silent-hill-decomp",
+   "name": "silent hill decomp",
+   "game": "silent hill decomp",
+   "categories": [
+    "Other"
+   ],
+   "type": "decompilation",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "shdecompilations/silent-hill-decomp"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "topic:decompilation stars:>100",
+    "date": "2026-10-23T22:46:33.769Z"
+   },
+   "autoFollow": true
+  },
+  "shipa-2/xerenge": {
+   "id": "shipa-2/xerenge",
+   "name": "Xerenge",
+   "game": "Xerenge",
+   "categories": [
+    "Xbox 360"
+   ],
+   "type": "recompilation",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "shipa-2/Xerenge"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "XenonRecomp in:readme stars:>30",
+    "date": "2026-10-23T22:46:33.769Z"
+   },
+   "autoFollow": false
+  },
+  "sinan-karakaya/dq8-recompiled": {
+   "id": "sinan-karakaya/dq8-recompiled",
+   "name": "DQ8 Recompiled",
+   "game": "DQ8 Recompiled",
+   "categories": [
+    "PlayStation 2",
+    "VR Ports"
+   ],
+   "type": "recompilation",
+   "tags": [
+    "VR"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "Sinan-Karakaya/DQ8-Recompiled"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "PS2Recomp in:readme stars:>20",
+    "date": "2026-10-23T22:46:33.769Z"
+   },
+   "autoFollow": false
+  },
+  "skate-2-team/sk82-recomp": {
+   "id": "skate-2-team/sk82-recomp",
+   "name": "sk82 recomp",
+   "game": "sk82 recomp",
+   "categories": [
+    "Xbox 360"
+   ],
+   "type": "recompilation",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "Skate-2-Team/sk82-recomp"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "XenonRecomp in:readme stars:>30",
+    "date": "2026-10-23T22:46:33.769Z"
+   },
+   "autoFollow": false
+  },
+  "snuri00/psp-web-recomp": {
+   "id": "snuri00/psp-web-recomp",
+   "name": "psp web recomp",
+   "game": "psp web recomp",
+   "categories": [
+    "PlayStation Portable"
+   ],
+   "type": "recompilation",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "snuri00/psp-web-recomp"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "topic:recompilation stars:>20",
+    "date": "2026-10-23T22:46:33.769Z"
+   },
+   "autoFollow": true
+  },
+  "sonicdcer/dnzhrecomp": {
+   "id": "sonicdcer/dnzhrecomp",
+   "name": "DNZHRecomp",
+   "game": "DNZHRecomp",
+   "categories": [
+    "Nintendo 64"
+   ],
+   "type": "recompilation",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "sonicdcer/DNZHRecomp"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "\"N64: Recompiled\" in:readme stars:>50",
+    "date": "2026-10-23T22:46:33.769Z"
+   },
+   "autoFollow": false
+  },
+  "sonicdcer/mariokart64recomp": {
+   "id": "sonicdcer/mariokart64recomp",
+   "name": "Mario Kart64Recomp",
+   "game": "Mario Kart64Recomp",
+   "categories": [
+    "Nintendo 64"
+   ],
+   "type": "recompilation",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "sonicdcer/MarioKart64Recomp"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "\"N64: Recompiled\" in:readme stars:>50",
+    "date": "2026-10-23T22:46:33.769Z"
+   },
+   "autoFollow": true
+  },
+  "sonicdcer/starfox64recomp": {
+   "id": "sonicdcer/starfox64recomp",
+   "name": "Starfox64Recomp",
+   "game": "Starfox64Recomp",
+   "categories": [
+    "Nintendo 64"
+   ],
+   "type": "recompilation",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "sonicdcer/Starfox64Recomp"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "\"N64: Recompiled\" in:readme stars:>50",
+    "date": "2026-10-23T22:46:33.769Z"
+   },
+   "autoFollow": true
+  },
+  "sonicnext-dev/marathonrecomp": {
+   "id": "sonicnext-dev/marathonrecomp",
+   "name": "Marathon Recomp",
+   "game": "Marathon Recomp",
+   "categories": [
+    "Nintendo 64"
+   ],
+   "type": "recompilation",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "sonicnext-dev/MarathonRecomp"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "\"N64: Recompiled\" in:readme stars:>50",
+    "date": "2026-10-23T22:46:33.769Z"
+   },
+   "autoFollow": true
+  },
+  "sp00nznet/360tools": {
+   "id": "sp00nznet/360tools",
+   "name": "360tools",
+   "game": "360tools",
+   "categories": [
+    "Xbox 360"
+   ],
+   "type": "recompilation",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "sp00nznet/360tools"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "XenonRecomp in:readme stars:>30",
+    "date": "2026-10-23T22:46:33.769Z"
+   },
+   "autoFollow": false
+  },
+  "sp00nznet/ps3recomp": {
+   "id": "sp00nznet/ps3recomp",
+   "name": "ps3recomp",
+   "game": "ps3recomp",
+   "categories": [
+    "PlayStation 2"
+   ],
+   "type": "recompilation",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "sp00nznet/ps3recomp"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "PS2Recomp in:readme stars:>20",
+    "date": "2026-10-23T22:46:33.769Z"
+   },
+   "autoFollow": true
+  },
+  "sp00nznet/psprecomp": {
+   "id": "sp00nznet/psprecomp",
+   "name": "psprecomp",
+   "game": "psprecomp",
+   "categories": [
+    "PlayStation 2"
+   ],
+   "type": "recompilation",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "sp00nznet/psprecomp"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "PS2Recomp in:readme stars:>20",
+    "date": "2026-10-23T22:46:33.769Z"
+   },
+   "autoFollow": false
+  },
+  "sp00nznet/reo": {
+   "id": "sp00nznet/reo",
+   "name": "reo",
+   "game": "reo",
+   "categories": [
+    "PlayStation 2"
+   ],
+   "type": "recompilation",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "sp00nznet/reo"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "PS2Recomp in:readme stars:>20",
+    "date": "2026-10-23T22:46:33.769Z"
+   },
+   "autoFollow": false
+  },
+  "spacefarergames/aloneinthedarkrehaunted": {
+   "id": "spacefarergames/aloneinthedarkrehaunted",
+   "name": "Alone In The Dark Re Haunted",
+   "game": "Alone In The Dark Re Haunted",
+   "categories": [
+    "Other"
+   ],
+   "type": "recompilation",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "spacefarergames/AloneInTheDarkReHaunted"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "topic:recompilation stars:>20",
+    "date": "2026-10-23T22:46:33.769Z"
+   },
+   "autoFollow": false
+  },
+  "speedbreakerproject/speedbreaker": {
+   "id": "speedbreakerproject/speedbreaker",
+   "name": "speedbreaker",
+   "game": "speedbreaker",
+   "categories": [
+    "Xbox 360"
+   ],
+   "type": "recompilation",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "SpeedBreakerProject/speedbreaker"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "topic:recompilation stars:>20",
+    "date": "2026-10-23T22:46:33.769Z"
+   },
+   "autoFollow": true
+  },
+  "spoopyghosty0/frameport": {
+   "id": "spoopyghosty0/frameport",
+   "name": "frameport",
+   "game": "frameport",
+   "categories": [
+    "Other",
+    "VR Ports"
+   ],
+   "type": "port",
+   "tags": [
+    "VR"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "spoopyghosty0/frameport"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "topic:openxr port stars:>40",
+    "date": "2026-10-23T22:46:33.769Z"
+   },
+   "autoFollow": false
+  },
+  "subarasheese/daytona-xbla-recomp": {
+   "id": "subarasheese/daytona-xbla-recomp",
+   "name": "daytona xbla recomp",
+   "game": "daytona xbla recomp",
+   "categories": [
+    "Xbox 360"
+   ],
+   "type": "recompilation",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "Subarasheese/daytona-xbla-recomp"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "rexglue in:readme stars:>30",
+    "date": "2026-10-23T22:46:33.769Z"
+   },
+   "autoFollow": false
+  },
+  "submitgame/awesome-decomp-games": {
+   "id": "submitgame/awesome-decomp-games",
+   "name": "awesome decomp games",
+   "game": "awesome decomp games",
+   "categories": [
+    "Other"
+   ],
+   "type": "recompilation",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "SubmitGame/awesome-decomp-games"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "topic:recompilation stars:>20",
+    "date": "2026-10-23T22:46:33.769Z"
+   },
+   "autoFollow": true
+  },
+  "testdriveupgrade/megadriverecomp": {
+   "id": "testdriveupgrade/megadriverecomp",
+   "name": "Mega Drive Recomp",
+   "game": "Mega Drive Recomp",
+   "categories": [
+    "PlayStation 2"
+   ],
+   "type": "recompilation",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "testdriveupgrade/MegaDriveRecomp"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "PS2Recomp in:readme stars:>20",
+    "date": "2026-10-23T22:46:33.769Z"
+   },
+   "autoFollow": false
+  },
+  "tgp482/xboxxberecomp": {
+   "id": "tgp482/xboxxberecomp",
+   "name": "Xbox XBERecomp",
+   "game": "Xbox XBERecomp",
+   "categories": [
+    "Xbox"
+   ],
+   "type": "recompilation",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "TGP482/XboxXBERecomp"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "topic:recompilation stars:>20",
+    "date": "2026-10-23T22:46:33.769Z"
+   },
+   "autoFollow": false
+  },
+  "thegh0stship/battletanx-global-assault-pc-port": {
+   "id": "thegh0stship/battletanx-global-assault-pc-port",
+   "name": "Battle Tanx Global Assault PC Port",
+   "game": "Battle Tanx Global Assault PC Port",
+   "categories": [
+    "Nintendo 64"
+   ],
+   "type": "recompilation",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "TheGh0stShip/BattleTanx-Global-Assault-PC-Port"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "topic:n64recomp stars:>10",
+    "date": "2026-10-23T22:46:33.769Z"
+   },
+   "autoFollow": false
+  },
+  "thiagordsfx/urban-reign-recomp": {
+   "id": "thiagordsfx/urban-reign-recomp",
+   "name": "urban reign recomp",
+   "game": "urban reign recomp",
+   "categories": [
+    "PlayStation 2"
+   ],
+   "type": "recompilation",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "thiagordsfx/urban-reign-recomp"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "PS2Recomp in:readme stars:>20",
+    "date": "2026-10-23T22:46:33.769Z"
+   },
+   "autoFollow": false
+  },
+  "vector35/binaryninja-api": {
+   "id": "vector35/binaryninja-api",
+   "name": "binaryninja api",
+   "game": "binaryninja api",
+   "categories": [
+    "Other"
+   ],
+   "type": "decompilation",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "Vector35/binaryninja-api"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "topic:decompilation stars:>100",
+    "date": "2026-10-23T22:46:33.769Z"
+   },
+   "autoFollow": true
+  },
+  "vyanhursky/defjamffny-recomp": {
+   "id": "vyanhursky/defjamffny-recomp",
+   "name": "Def Jam FFNY recomp",
+   "game": "Def Jam FFNY recomp",
+   "categories": [
+    "Xbox"
+   ],
+   "type": "recompilation",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "vyanhursky/DefJamFFNY-recomp"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "topic:recompilation stars:>20",
+    "date": "2026-10-23T22:46:33.769Z"
+   },
+   "autoFollow": false
+  },
+  "wistfulhopes/rb2": {
+   "id": "wistfulhopes/rb2",
+   "name": "RB2",
+   "game": "RB2",
+   "categories": [
+    "Xbox 360"
+   ],
+   "type": "recompilation",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "WistfulHopes/RB2"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "rexglue in:readme stars:>30",
+    "date": "2026-10-23T22:46:33.769Z"
+   },
+   "autoFollow": false
+  },
+  "yoshicrystal9/re-gh2": {
+   "id": "yoshicrystal9/re-gh2",
+   "name": "re gh2",
+   "game": "re gh2",
+   "categories": [
+    "Xbox 360"
+   ],
+   "type": "recompilation",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "YoshiCrystal9/re-gh2"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "rexglue in:readme stars:>30",
+    "date": "2026-10-23T22:46:33.769Z"
+   },
+   "autoFollow": false
+  },
+  "yyozcan/tobiichi-port": {
+   "id": "yyozcan/tobiichi-port",
+   "name": "Tobiichi Port",
+   "game": "Tobiichi Port",
+   "categories": [
+    "PlayStation 2"
+   ],
+   "type": "recompilation",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "YYOzcan/Tobiichi-Port"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "PS2Recomp in:readme stars:>20",
+    "date": "2026-10-23T22:46:33.769Z"
+   },
+   "autoFollow": false
+  },
+  "z3xox/bt3-recomp": {
+   "id": "z3xox/bt3-recomp",
+   "name": "BT3 Recomp",
+   "game": "BT3 Recomp",
+   "categories": [
+    "PlayStation 2"
+   ],
+   "type": "recompilation",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "z3xox/BT3-Recomp"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "PS2Recomp in:readme stars:>20",
+    "date": "2026-10-23T22:46:33.769Z"
+   },
+   "autoFollow": false
+  },
+  "zeldaret/botw": {
+   "id": "zeldaret/botw",
+   "name": "botw",
+   "game": "botw",
+   "categories": [
+    "Nintendo Switch"
+   ],
+   "type": "decompilation",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "zeldaret/botw"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "topic:decompilation stars:>100",
+    "date": "2026-10-23T22:46:33.769Z"
+   },
+   "autoFollow": true
+  },
+  "zer0ducksgiven/forza-motorsport-2-regpu": {
+   "id": "zer0ducksgiven/forza-motorsport-2-regpu",
+   "name": "Forza Motorsport 2 Re GPU",
+   "game": "Forza Motorsport 2 Re GPU",
+   "categories": [
+    "Xbox 360"
+   ],
+   "type": "recompilation",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "zer0ducksgiven/Forza-Motorsport-2-ReGPU"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "XenonRecomp in:readme stars:>30",
+    "date": "2026-10-23T22:46:33.769Z"
+   },
+   "autoFollow": false
   }
  },
  "rejected": {
   "alphanu1/sega-model1-mister": "2026-10-23",
   "ares-emulator/ares": "2026-10-23",
   "azahar-emu/azahar": "2026-10-23",
+  "blacklineinteractive/driveclub-port": "2026-10-23",
+  "blueskydefender/depth3d": "2026-10-23",
   "boykopovar/anyps5": "2026-10-23",
+  "btelwy/awesome-romhacking": "2026-10-23",
   "btest4he/ghidra-claude-toolbox": "2026-10-23",
   "clownacy/clownassembler": "2026-10-23",
+  "core-lib/xjar": "2026-10-23",
   "derekpascarella/pulirula-englishpatchfmtowns": "2026-10-23",
   "discostarslayer/pcsx2-reliquary": "2026-10-23",
   "dolphin-emu/dolphin": "2026-10-23",
   "elipsitz/gamebub": "2026-10-23",
   "exxistancedc/tama-english-translation": "2026-10-23",
   "ghaleonx/ys": "2026-10-23",
+  "gitlab:pepsipu/ns2jb": "2026-10-23",
   "inorirus/kyty": "2026-10-23",
+  "jorge262007/fftarecomp": "2026-10-23",
   "juaniwck/mister-retroarch-save-sync": "2026-10-23",
+  "justxor/awesome-decomp-games-ru": "2026-10-23",
   "kytyps5/kytyps5": "2026-10-23",
+  "lightvelox/sotc-vibe-pc": "2026-10-23",
+  "mikage-emu/mikage-dev": "2026-10-23",
   "mister-devel/apple-lisa_mister": "2026-10-23",
   "mister-devel/arcade-igspgm_mister": "2026-10-23",
   "mister-devel/marty_mister": "2026-10-23",
@@ -594,15 +3038,22 @@
   "probonopd/previous": "2026-10-23",
   "rpcs3/rpcs3": "2026-10-23",
   "rt64/rt64": "2026-10-23",
+  "sandstonedev/ps2rc": "2026-10-23",
   "saneezore07/dqmj2pro_translation": "2026-10-23",
   "shadps4-emu/shadps4": "2026-10-23",
   "sharpemu/sharpemu": "2026-10-23",
   "shiiion/dolphin": "2026-10-23",
+  "sirdiabo/githublauncher": "2026-10-23",
   "stenzek/duckstation": "2026-10-23",
+  "stevensnd/nfsmw-nx": "2026-10-23",
   "strikerx3/ymir": "2026-10-23",
   "svipur/innocent-tour-english": "2026-10-23",
+  "terremoth/awesome-ps2": "2026-10-23",
+  "th0mk/nfsu2-web": "2026-10-23",
   "theypsilon/multidatabases_mister": "2026-10-23",
   "vita3k/vita3k": "2026-10-23",
+  "waffle565/god-of-war-native-port": "2026-10-23",
+  "wheremyfoodat/panda3ds": "2026-10-23",
   "yuvi-app/doc-le-english-translation": "2026-10-23"
  }
 }

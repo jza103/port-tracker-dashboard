@@ -3099,7 +3099,7 @@
   ]
  },
  "portsdr": {
-  "updatedAt": "2026-10-23T22:25:39.434Z",
+  "updatedAt": "2026-10-23T22:46:33.769Z",
   "projects": [
    {
     "id": "harbourmasters/2ship2harkinian",
@@ -3490,12 +3490,7 @@
      "host": "github",
      "path": "alondero/automobililamborghini-recomp"
     },
-    "links": [
-     {
-      "label": "example.com",
-      "url": "https://example.com/"
-     }
-    ],
+    "links": [],
     "targets": [
      "Windows",
      "Linux"
