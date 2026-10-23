@@ -633,7 +633,7 @@
    "name": "annepad",
    "game": "annepad",
    "categories": [
-    "Other"
+    "Nintendo 64"
    ],
    "type": "recompilation",
    "tags": [],
@@ -830,7 +830,7 @@
    "name": "objdiff",
    "game": "objdiff",
    "categories": [
-    "Other"
+    "Nintendo 64"
    ],
    "type": "tool",
    "tags": [],
@@ -1024,7 +1024,7 @@
    "name": "Eternal Darkness Recomp",
    "game": "Eternal Darkness Recomp",
    "categories": [
-    "Other"
+    "GameCube"
    ],
    "type": "recompilation",
    "tags": [],
@@ -1144,7 +1144,7 @@
    "name": "decomp.wtf",
    "game": "decomp.wtf",
    "categories": [
-    "Other"
+    "Nintendo 64"
    ],
    "type": "tool",
    "tags": [],
@@ -1218,7 +1218,7 @@
    "categories": [
     "PlayStation 2"
    ],
-   "type": "port",
+   "type": "recompilation",
    "tags": [],
    "repo": {
     "host": "github",
@@ -1290,7 +1290,7 @@
    "categories": [
     "Xbox 360"
    ],
-   "type": "port",
+   "type": "recompilation",
    "tags": [],
    "repo": {
     "host": "github",
@@ -1921,7 +1921,7 @@
    "name": "fifa street pc port",
    "game": "fifa street pc port",
    "categories": [
-    "Other"
+    "Xbox 360"
    ],
    "type": "recompilation",
    "tags": [],
@@ -1993,7 +1993,7 @@
    "name": "socom unzipped",
    "game": "socom unzipped",
    "categories": [
-    "Other"
+    "PlayStation 2"
    ],
    "type": "recompilation",
    "tags": [],
@@ -2380,10 +2380,13 @@
    "name": "frameport",
    "game": "frameport",
    "categories": [
-    "Other"
+    "Other",
+    "VR Ports"
    ],
    "type": "port",
-   "tags": [],
+   "tags": [
+    "VR"
+   ],
    "repo": {
     "host": "github",
     "path": "spoopyghosty0/frameport"
