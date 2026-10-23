@@ -151,10 +151,13 @@ main { max-width: 1500px; margin: 0 auto; padding: 14px 16px; }
 
 .more-wrap { display: flex; justify-content: center; margin: 18px 0; }
 .empty { color: var(--muted); padding: 40px 10px; text-align: center; flex: 1; }
-.progress { margin-top: 9px; }
+.progress { display: block; margin-top: 9px; color: inherit; border-radius: 8px; }
+a.progress { margin-left: -6px; margin-right: -6px; padding: 4px 6px 6px; }
+a.progress:hover { text-decoration: none; background: var(--panel-2); }
+a.progress:hover .src { color: var(--accent); }
+.progress-line .src { color: var(--muted); }
 .progress-line { display: flex; flex-wrap: wrap; gap: 4px 8px; align-items: baseline; font-size: 12.5px; }
 .progress-line .muted { color: var(--muted); }
-.progress-line a { color: var(--muted); text-decoration: underline; text-decoration-color: var(--border); }
 .bar { height: 6px; border-radius: 99px; background: var(--panel-2); overflow: hidden; margin-top: 6px; }
 .bar span { display: block; height: 100%; border-radius: inherit; background: var(--warn); }
 .progress.done .bar span { background: var(--good); }

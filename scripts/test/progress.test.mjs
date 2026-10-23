@@ -4,7 +4,7 @@ import { _test, manualProgress, progressFor } from '../lib/progress.mjs';
 import { pickReleases } from '../lib/repos.mjs';
 
 test('README progress claims', () => {
-  assert.deepEqual(_test.fromText('| US 1.0 | 100.0% Complete |\n| PAL | 69.02% Complete |'), { status: 'complete', percent: 100, source: 'README' });
+  assert.deepEqual(_test.fromText('| US 1.0 | 100.0% Complete |\n| PAL | 69.02% Complete |'), { status: 'complete', percent: 100, source: 'README', url: null });
   assert.equal(_test.fromText('Currently 45.5% decompiled.').percent, 45.5);
   assert.equal(_test.fromText('The game is now fully decompiled!').status, 'complete');
   assert.equal(_test.fromText('This is a decompilation of Pokémon Emerald.'), null);
@@ -31,7 +31,7 @@ test('decomp.dev report, then README badge', async () => {
     const tracked = await progressFor('a/tracked');
     assert.deepEqual([tracked.status, tracked.percent, tracked.data, tracked.source], ['in-progress', 79.74, 91.1, 'decomp.dev']);
     const badge = await progressFor('a/badge');
-    assert.deepEqual([badge.status, badge.source], ['complete', 'ex.com']);
+    assert.deepEqual([badge.status, badge.source, badge.url], ['complete', 'ex.com', 'https://github.com/a/badge#readme']);
     assert.equal((await progressFor('a/nothing')).status, 'unknown');
   } finally {
     globalThis.fetch = realFetch;
@@ -44,4 +44,13 @@ test('a stable release with files beats a newer one without', () => {
   const r = pickReleases([beta, stable], stable);
   assert.equal(r.release.tag, 'v1');
   assert.equal(r.stable.tag, 'beta');
+});
+
+test('progress links go to the page a badge points at', async () => {
+  const { badgeLink } = await import('../lib/progress.mjs');
+  const badge = 'https://img.shields.io/endpoint?url=https://ex.com/p.json';
+  assert.equal(badgeLink(`[![P][pb]][pl]\n\n[pl]: https://ex.com/progress\n[pb]: ${badge}\n`, badge), 'https://ex.com/progress');
+  assert.equal(badgeLink(`[![P](${badge})](https://ex.com/inline)`, badge), 'https://ex.com/inline');
+  assert.equal(badgeLink(`<a href="https://ex.com/html"><img src="${badge}"></a>`, badge), 'https://ex.com/html');
+  assert.equal(badgeLink(`![P](${badge})`, badge), null);
 });

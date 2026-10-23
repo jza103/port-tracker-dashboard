@@ -360,14 +360,16 @@ function renderProgress(p) {
   const done = pr.status === 'complete';
   const details = [pr.data != null && `data ${pr.data}%`, pr.functions != null && `functions ${pr.functions}%`].filter(Boolean).join(' · ');
   const label = pr.version ? `${pr.source} (${pr.version} version)` : pr.source;
-  const src = pr.url ? `<a href="${safeUrl(pr.url)}" target="_blank" rel="noopener">${esc(label)}</a>` : esc(label);
-  return `<div class="progress${done ? ' done' : ''}">
+  const src = `<span class="src">${esc(label)}${pr.url ? ' ↗' : ''}</span>`;
+  const tag = pr.url ? 'a' : 'div';
+  const link = pr.url ? ` href="${safeUrl(pr.url)}" target="_blank" rel="noopener" title="Progress from ${esc(label)}"` : '';
+  return `<${tag} class="progress${done ? ' done' : ''}"${link}>
     <div class="progress-line">
       <span class="tag ${done ? 'good' : 'warn'}">${done ? 'Complete' : 'In progress'}</span>
       <strong>${esc(pr.percent)}%</strong><span class="muted">${done ? 'decompiled' : 'code decompiled'}${details ? ` · ${esc(details)}` : ''} · ${src}</span>
     </div>
     <div class="bar" role="progressbar" aria-valuenow="${esc(pr.percent)}" aria-valuemin="0" aria-valuemax="100"><span style="width:${Math.max(0, Math.min(100, Number(pr.percent) || 0))}%"></span></div>
-  </div>`;
+  </${tag}>`;
 }
 
 function renderProject(p, primary) {

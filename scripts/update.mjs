@@ -311,14 +311,16 @@ for (const proj of projects.values()) {
 }
 const progress = await fetchProgress([...decompPaths.values()], token);
 
+const configUrl = `https://github.com/${process.env.GITHUB_REPOSITORY || settings.repo}/blob/HEAD/config/projects.yml`;
+
 /** Your setting wins, then the published numbers, then "a complete decompilation of…" in the description. */
 function decompProgress(proj, ri) {
   if (proj.type !== 'decompilation') return null;
-  if (proj.progress != null) return manualProgress(proj.progress);
+  if (proj.progress != null) return manualProgress(proj.progress, 'your config', configUrl);
   const found = progress.get(decompPaths.get(proj.id));
   if (found && found.status !== 'unknown') return found;
   const desc = `${proj.description || ''} ${ri?.description || ''}`;
-  if (/\b(complete|full|fully matching) decompilation\b/i.test(desc)) return manualProgress('complete', 'description');
+  if (/\b(complete|full|fully matching) decompilation\b/i.test(desc)) return manualProgress('complete', 'repo description', ri?.url || (proj.repo && repoUrl(proj.repo)));
   return { status: 'unknown' };
 }
 console.log(`Progress: ${[...progress.values()].filter((p) => p.status !== 'unknown').length}/${progress.size} decompilations report progress`);

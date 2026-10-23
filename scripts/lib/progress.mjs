@@ -66,6 +66,39 @@ const percentOf = (s) => {
 };
 
 /** Progress badges in a README: shields.io endpoint JSON, or decomp.dev SVG badges. */
+/**
+ * The page a README badge links to. Handles inline Markdown [![alt](badge)](page),
+ * reference-style [![alt][badge-ref]][page-ref] with "[ref]: url" lines, and HTML <a><img></a>.
+ */
+export function badgeLink(text, badgeUrl) {
+  const variants = [badgeUrl, badgeUrl.replace(/&/g, '&amp;')];
+  const refs = new Map([...text.matchAll(/^\s*\[([^\]]+)\]:\s*(\S+)/gm)].map((m) => [m[1].toLowerCase(), m[2]]));
+  const isPage = (u) => /^https?:\/\//.test(u || '');
+
+  for (const v of variants) {
+    // Inline: [![alt](badge)](page)
+    const at = text.indexOf(`(${v}`);
+    if (at >= 0) {
+      const after = text.slice(at).match(/^\([^)]*\)\]\((\S+?)\)/);
+      if (after && isPage(after[1])) return after[1];
+    }
+    // HTML: <a href="page"><img src="badge"></a>
+    const img = text.indexOf(`src="${v}`);
+    if (img >= 0) {
+      const href = text.slice(Math.max(0, img - 400), img).match(/<a[^>]+href=["'](https?:\/\/[^"']+)["'][^>]*>\s*<img[^>]*$/i);
+      if (href) return href[1].replace(/&amp;/g, '&');
+    }
+  }
+  // Reference style: find the ref name defined as the badge, then the link wrapping it.
+  for (const [name, url] of refs) {
+    if (!variants.includes(url)) continue;
+    const use = [...text.matchAll(/\[!\[[^\]]*\]\[([^\]]+)\]\]\[([^\]]+)\]/g)].find((m) => m[1].toLowerCase() === name);
+    const page = use && refs.get(use[2].toLowerCase());
+    if (isPage(page)) return page;
+  }
+  return null;
+}
+
 async function fromBadges(text, path) {
   const urls = [...text.matchAll(/https?:\/\/[^\s)"'<>\]]+/g)].map((m) => m[0].replace(/&amp;/g, '&'));
   for (const u of urls) {
@@ -75,7 +108,7 @@ async function fromBadges(text, path) {
       if (!target || !/progress|decomp|complete|match/i.test(target) || /fn_|function/i.test(target)) continue;
       const json = await getJson(target).catch(() => null);
       const p = percentOf(json?.message);
-      if (p != null) return result(p, new URL(target).hostname, { url: target });
+      if (p != null) return result(p, new URL(target).hostname, { url: badgeLink(text, u) || `https://github.com/${path}#readme` });
     }
     // A decomp.dev badge for another repo name (e.g. the project moved).
     const dd = u.match(/decomp\.dev\/([\w.-]+\/[\w.-]+?)(?:\.svg|\.json|[/?#]|$)/i);
@@ -88,12 +121,12 @@ async function fromBadges(text, path) {
 }
 
 /** A plain-text claim in the README. */
-function fromText(text) {
+function fromText(text, url = null) {
   const plain = text.replace(/<[^>]+>/g, ' ');
   const pct = plain.match(/(\d{1,3}(?:\.\d+)?)\s*%\s*(?:complete|decompiled|matched|matching|done)\b/i);
-  if (pct) return result(pct[1], 'README');
+  if (pct) return result(pct[1], 'README', { url });
   if (/\b(?:is|now|been)\s+(?:fully|100%|completely)\s+(?:decompiled|matched|matching)\b|\bdecompilation is (?:now )?complete\b|\bfully matching decompilation\b/i.test(plain)) {
-    return result(100, 'README');
+    return result(100, 'README', { url });
   }
   return null;
 }
@@ -106,7 +139,7 @@ export async function progressFor(path, token) {
     if (text) {
       const fromBadge = await fromBadges(text, path);
       if (fromBadge) return fromBadge;
-      const claim = fromText(text);
+      const claim = fromText(text, `https://github.com/${path}#readme`);
       if (claim) return claim;
     }
   } catch { /* fall through */ }
@@ -121,10 +154,10 @@ export async function fetchProgress(paths, token) {
 }
 
 /** A value set by hand in config/projects.yml: "complete" or a percentage. */
-export function manualProgress(value, source = 'your config') {
-  if (String(value).toLowerCase() === 'complete') return result(100, source);
+export function manualProgress(value, source = 'your config', url = null) {
+  if (String(value).toLowerCase() === 'complete') return result(100, source, { url });
   const p = percentOf(`${value}%`);
-  return p == null ? { status: 'unknown' } : result(p, source);
+  return p == null ? { status: 'unknown' } : result(p, source, { url });
 }
 
 export const _test = { fromText, percentOf };
