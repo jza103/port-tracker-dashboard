@@ -1,0 +1,122 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Port Tracker</title>
+  <meta name="description" content="Latest releases and download links for decompilation, recompilation and VR port projects.">
+  <meta name="theme-color" content="#0f1115">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='8' fill='%235b8cff'/%3E%3Cpath d='M9 11h14v10H9z' fill='none' stroke='white' stroke-width='2.5' stroke-linejoin='round'/%3E%3Cpath d='M13 16h6' stroke='white' stroke-width='2.5' stroke-linecap='round'/%3E%3C/svg%3E">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="top">
+    <div class="top-inner">
+      <div class="brand">
+        <h1>Port Tracker</h1>
+        <p class="sub">Decomps, recomps &amp; VR ports · <span id="updated">loading…</span></p>
+      </div>
+      <div class="top-actions">
+        <label class="search">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+          <input id="q" type="search" placeholder="Search games, projects, developers…" autocomplete="off">
+        </label>
+        <button id="add-btn" class="btn primary" type="button">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 5v14M5 12h14"/></svg><span>Add project</span>
+        </button>
+      </div>
+    </div>
+    <nav class="tabs" id="tabs" role="tablist">
+      <button role="tab" data-tab="projects">Projects <span class="count" id="c-projects"></span></button>
+      <button role="tab" data-tab="releases">Releases <span class="count" id="c-releases"></span></button>
+      <button role="tab" data-tab="news">News <span class="count" id="c-news"></span></button>
+      <button role="tab" data-tab="discovered">Discovered <span class="count" id="c-discovered"></span></button>
+      <button role="tab" data-tab="hidden">Hidden <span class="count" id="c-hidden"></span></button>
+    </nav>
+  </header>
+
+  <main id="main">
+    <section id="tab-projects" class="tab-panel">
+      <div class="filters">
+        <div class="chips" id="cats" role="group" aria-label="Category"></div>
+        <div class="filter-row">
+          <select id="type" aria-label="Project type"></select>
+          <select id="sort" aria-label="Sort">
+            <option value="activity">Recently updated</option>
+            <option value="stars">Most stars</option>
+            <option value="added">Recently added</option>
+            <option value="name">Name</option>
+          </select>
+          <label class="toggle"><input type="checkbox" id="active-only"> Active only</label>
+          <label class="toggle"><input type="checkbox" id="dl-only"> Has downloads</label>
+          <span class="result-count" id="result-count"></span>
+        </div>
+      </div>
+      <div class="grid" id="games"></div>
+      <div class="more-wrap"><button class="btn" id="more" type="button" hidden>Show more</button></div>
+    </section>
+
+    <section id="tab-releases" class="tab-panel" hidden>
+      <p class="hint">Newest releases from projects you follow, last 90 days.</p>
+      <div class="list" id="releases"></div>
+    </section>
+
+    <section id="tab-news" class="tab-panel" hidden>
+      <div class="filter-row">
+        <select id="news-source" aria-label="News source"></select>
+        <label class="toggle"><input type="checkbox" id="news-mine"> Only about tracked projects</label>
+      </div>
+      <div class="list" id="news"></div>
+    </section>
+
+    <section id="tab-discovered" class="tab-panel" hidden>
+      <div id="discovered"></div>
+    </section>
+
+    <section id="tab-hidden" class="tab-panel" hidden>
+      <p class="hint">Projects you've unfollowed. Unhide to bring them back.</p>
+      <div class="list" id="hidden-list"></div>
+    </section>
+  </main>
+
+  <footer class="foot" id="foot"></footer>
+
+  <div class="savebar" id="savebar" hidden>
+    <span id="savebar-text"></span>
+    <button class="btn" id="discard" type="button">Discard</button>
+    <button class="btn primary" id="save" type="button">Save to GitHub</button>
+  </div>
+
+  <dialog id="add-dialog">
+    <form method="dialog" id="add-form">
+      <h2>Track a project</h2>
+      <p class="hint">Paste a GitHub or GitLab repo, or any link (itch.io, website…). Leave the rest blank and it'll be guessed.</p>
+      <label>Repo or link <input name="ref" required placeholder="https://github.com/owner/repo"></label>
+      <label>Name <input name="name" placeholder="e.g. Ship of Harkinian"></label>
+      <label>Game <input name="game" list="game-list" placeholder="Projects for the same game are grouped"></label>
+      <label>Category <input name="category" list="cat-list" placeholder="e.g. Nintendo 64, PlayStation 4, VR Ports"></label>
+      <label>Type
+        <select name="type">
+          <option value="">Guess</option>
+          <option value="decompilation">Decompilation</option>
+          <option value="recompilation">Recompilation</option>
+          <option value="port">Native port</option>
+          <option value="source-port">Source port</option>
+          <option value="reimplementation">Reimplementation</option>
+          <option value="mod">Mod</option>
+          <option value="tool">Tool</option>
+        </select>
+      </label>
+      <label class="toggle"><input type="checkbox" name="vr"> VR port (also list under VR Ports)</label>
+      <datalist id="game-list"></datalist>
+      <datalist id="cat-list"></datalist>
+      <div class="dialog-actions">
+        <button class="btn" value="cancel" formnovalidate>Cancel</button>
+        <button class="btn primary" value="ok">Add</button>
+      </div>
+    </form>
+  </dialog>
+
+  <script src="app.js" type="module"></script>
+</body>
+</html>

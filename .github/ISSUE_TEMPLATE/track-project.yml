@@ -1,0 +1,39 @@
+name: Track a project
+description: Add a decomp, recomp, port or VR port to the dashboard.
+title: "[dashboard] Track project"
+body:
+  - type: input
+    id: ref
+    attributes:
+      label: Repo or link
+      description: GitHub/GitLab repo URL (or owner/repo), or any page for projects without a repo.
+      placeholder: https://github.com/owner/repo
+    validations:
+      required: true
+  - type: input
+    id: name
+    attributes:
+      label: Name
+      description: Optional. Defaults to the repo name.
+  - type: input
+    id: game
+    attributes:
+      label: Game
+      description: Optional. Projects for the same game are grouped together.
+  - type: input
+    id: category
+    attributes:
+      label: Category
+      description: Optional. Platform or group, e.g. Nintendo 64, PlayStation 4, VR Ports.
+  - type: dropdown
+    id: type
+    attributes:
+      label: Type
+      options: [Guess, decompilation, recompilation, port, source-port, reimplementation, mod, tool]
+      default: 0
+  - type: checkboxes
+    id: vr
+    attributes:
+      label: VR port
+      options:
+        - label: This is a VR port (also list it under VR Ports)

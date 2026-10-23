@@ -1,0 +1,152 @@
+# Your projects and preferences.
+#
+# You can edit this file directly on GitHub (pencil icon), or use the buttons
+# on the dashboard: they queue changes and "Save to GitHub" opens a pre-filled
+# issue that a workflow applies to this file automatically.
+#
+# Project ids are "owner/repo" for GitHub, "gitlab:owner/repo" for GitLab,
+# or "<catalog>:<slug>" for catalog entries without a repo. The id is shown
+# in each project's menu on the dashboard.
+
+# Projects you never want to see (unfollowed).
+hidden: []
+
+# Projects always shown first for their game, even if another one is more popular.
+pinned: []
+
+# Discovered projects you chose to follow (from the Discovered tab).
+follow: []
+
+# Projects to track that the catalogs don't cover. Only "repo" (or "url") is
+# required; the rest is guessed if left out.
+#   repo:     owner/repo, a GitHub/GitLab URL, or gitlab:owner/repo
+#   url:      for projects without a repo (itch.io, website, Patreon...)
+#   game:     projects with the same game are grouped together
+#   category: platform or group, e.g. "Nintendo 64", "PlayStation 4", "VR Ports"
+#   type:     decompilation | recompilation | port | source-port | reimplementation | mod | tool | emulator
+#   tags:     extra labels, e.g. [VR]
+#   links:    [{ label: Website, url: https://... }]
+projects:
+  # --- Decompilations (source code, usually no playable build) ---
+  - { repo: zeldaret/oot, name: OoT Decompilation, game: "The Legend of Zelda: Ocarina of Time", category: Nintendo 64, type: decompilation }
+  - { repo: zeldaret/mm, name: MM Decompilation, game: "The Legend of Zelda: Majora's Mask", category: Nintendo 64, type: decompilation }
+  - { repo: n64decomp/sm64, name: SM64 Decompilation, game: Super Mario 64, category: Nintendo 64, type: decompilation }
+  - { repo: n64decomp/007, name: GoldenEye Decompilation, game: GoldenEye 007, category: Nintendo 64, type: decompilation }
+  - { repo: pmret/papermario, name: Paper Mario Decompilation, game: Paper Mario, category: Nintendo 64, type: decompilation }
+  - { repo: DavidSM64/Diddy-Kong-Racing, name: DKR Decompilation, game: Diddy Kong Racing, category: Nintendo 64, type: decompilation }
+  - { repo: zeldaret/tp, name: TP Decompilation, game: "The Legend of Zelda: Twilight Princess", category: GameCube, type: decompilation }
+  - { repo: zeldaret/tww, name: TWW Decompilation, game: "The Legend of Zelda: The Wind Waker", category: GameCube, type: decompilation }
+  - { repo: doldecomp/melee, name: Melee Decompilation, game: Super Smash Bros. Melee, category: GameCube, type: decompilation }
+  - { repo: doldecomp/sms, name: Sunshine Decompilation, game: Super Mario Sunshine, category: GameCube, type: decompilation }
+  - { repo: zeldaret/tmc, name: Minish Cap Decompilation, game: "The Legend of Zelda: The Minish Cap", category: Game Boy Advance, type: decompilation }
+  - { repo: Xeeynamo/sotn-decomp, name: SOTN Decompilation, game: "Castlevania: Symphony of the Night", category: PlayStation, type: decompilation }
+  - { repo: TheOnlyZac/sly1, name: Sly 1 Decompilation, game: Sly Cooper and the Thievius Raccoonus, category: PlayStation 2, type: decompilation }
+
+  # --- Native ports not in the catalogs ---
+  - { repo: sm64pc/sm64ex, name: sm64ex, game: Super Mario 64, category: Nintendo 64, type: port }
+  - { repo: Render96/Render96ex, name: Render96ex, game: Super Mario 64, category: Nintendo 64, type: port }
+  - { repo: snesrev/zelda3, name: zelda3, game: "The Legend of Zelda: A Link to the Past", category: SNES, type: reimplementation }
+  - { repo: snesrev/smw, name: smw, game: Super Mario World, category: SNES, type: reimplementation }
+  - { repo: snesrev/sm, name: sm, game: Super Metroid, category: SNES, type: reimplementation }
+  - { repo: RSDKModding/RSDKv4-Decompilation, name: RSDKv4 Decompilation, game: "Sonic the Hedgehog & Sonic 2 (2013)", category: Mobile, type: decompilation }
+  - { repo: RSDKModding/RSDKv3-Decompilation, name: RSDKv3 Decompilation, game: Sonic CD (2011), category: Mobile, type: decompilation }
+  - { repo: RSDKModding/RSDKv5-Decompilation, name: RSDKv5 Decompilation, game: Sonic Mania, category: PC, type: decompilation }
+
+  # --- PC game reimplementations ---
+  - { repo: diasurgical/devilutionX, name: DevilutionX, game: Diablo, category: PC, type: reimplementation }
+  - { repo: alexbatalov/fallout1-ce, name: Fallout Community Edition, game: Fallout, category: PC, type: reimplementation }
+  - { repo: alexbatalov/fallout2-ce, name: Fallout 2 Community Edition, game: Fallout 2, category: PC, type: reimplementation }
+  - { repo: OpenRCT2/OpenRCT2, name: OpenRCT2, game: RollerCoaster Tycoon 2, category: PC, type: reimplementation }
+  - { repo: OpenMW/openmw, name: OpenMW, game: "The Elder Scrolls III: Morrowind", category: PC, type: reimplementation }
+
+  # --- PC VR mods ---
+  - { repo: praydog/UEVR, name: UEVR, game: UEVR (any Unreal Engine game), categories: [ PC, VR Ports ], type: mod, tags: [ VR, PCVR ] }
+  - { repo: praydog/REFramework, name: REFramework, game: REFramework (RE Engine games), categories: [ PC, VR Ports ], type: mod, tags: [ VR, PCVR ] }
+
+  # --- Recompiler toolchains (new ports usually build on these) ---
+  - { repo: N64Recomp/N64Recomp, name: N64Recomp, game: "N64: Recompiled (toolchain)", category: Tools & Recompilers, type: tool }
+  - { repo: hedge-dev/XenonRecomp, name: XenonRecomp, game: XenonRecomp (Xbox 360 toolchain), category: Tools & Recompilers, type: tool }
+  - { repo: rexglue/rexglue-sdk, name: ReXGlue SDK, game: ReXGlue (Xbox 360 toolchain), category: Tools & Recompilers, type: tool }
+  - { repo: ran-j/PS2Recomp, name: PS2Recomp, game: PS2Recomp (PS2 toolchain), category: Tools & Recompilers, type: tool }
+
+# Change details of catalog projects, by id. "category" puts a platform
+# first; "categories" replaces the list. Any field can be overridden.
+overrides:
+  # VR ports from QuestPorts: which game and original platform each one is,
+  # so they're grouped with the other projects for the same game.
+  questports:age-of-joy: { game: "AGE of Joy (arcade gallery)", category: Arcade }
+  questports:avp-vr: { game: Aliens Versus Predator, category: PC }
+  questports:animal-crossing-vr: { game: Animal Crossing, category: GameCube }
+  questports:astroquest: { game: Astro Bot Rescue Mission, category: PlayStation 4 }
+  questports:beefraiderxr: { game: Tomb Raider, category: PlayStation }
+  questports:citravr: { game: "Citra (3DS emulator)", category: Nintendo 3DS }
+  questports:crazy-taxi-vr: { game: Crazy Taxi, category: Dreamcast }
+  questports:crisis-zone-vr: { game: Crisis Zone, category: PlayStation 2 }
+  questports:csvr: { game: Counter-Strike 1.6, category: PC }
+  questports:descent-3-vr: { game: Descent 3, category: PC }
+  questports:dolphinxr: { game: "Dolphin (GameCube/Wii emulator)", category: GameCube }
+  questports:doom3quest: { game: Doom 3, category: PC }
+  questports:f-zero-x-vr: { game: F-Zero X, category: Nintendo 64 }
+  questports:galaxyquest: { game: Super Mario Galaxy, category: Wii }
+  questports:generals-zero-hour-xr: { game: "Command & Conquer: Generals – Zero Hour", category: PC }
+  questports:goldeneye-vr: { game: GoldenEye 007, category: Nintendo 64 }
+  questports:gothic2-vr: { game: Gothic II, category: PC }
+  questports:gran-turismo-2-vr: { game: Gran Turismo 2, category: PlayStation }
+  questports:gta-sa-vr-quest: { game: "Grand Theft Auto: San Andreas", category: PlayStation 2 }
+  questports:vice-city-vr-quest: { game: "Grand Theft Auto: Vice City", category: PlayStation 2 }
+  questports:halocequest: { game: "Halo: Combat Evolved", category: Xbox }
+  questports:harry-potter-vr: { game: "Harry Potter and the Sorcerer's Stone", category: PC }
+  questports:homeworld-unbound: { game: Homeworld, category: PC }
+  questports:iron-lung-vr: { game: Iron Lung, category: PC }
+  questports:lambda1vr: { game: Half-Life, category: PC }
+  questports:magic-carpet-vr: { game: Magic Carpet, category: PC }
+  questports:majoras-mask-vr: { game: "The Legend of Zelda: Majora's Mask", category: Nintendo 64 }
+  questports:metal-gear-solid-vr: { game: Metal Gear Solid, category: PlayStation }
+  questports:nfsu2-vr: { game: "Need for Speed: Underground 2", category: PC }
+  questports:nfsu-vr: { game: "Need for Speed: Underground", category: PC }
+  questports:nolf-vr: { game: No One Lives Forever, category: PC }
+  questports:opencmr2-vr: { game: Colin McRae Rally 2.0, category: PC }
+  questports:openmw-vr: { game: "The Elder Scrolls III: Morrowind", category: PC }
+  questports:openxwa-vr: { game: "Star Wars: X-Wing Alliance", category: PC }
+  questports:perfect-dark-vr: { game: Perfect Dark, category: Nintendo 64 }
+  questports:virtua-cop-vr: { game: Virtua Cop, category: Arcade }
+  questports:hotd-vr: { game: The House of the Dead, category: Arcade }
+  questports:sega-rally-vr: { game: Sega Rally Championship, category: Arcade }
+  questports:ppsspp-vr: { game: "PPSSPP (PSP emulator)", category: PlayStation Portable }
+  questports:primedgun: { game: Metroid Prime, category: GameCube }
+  questports:quake3quest: { game: Quake III Arena, category: PC }
+  questports:quakequest: { game: Quake, category: PC }
+  questports:qualyx: { game: "Half-Life: Alyx", category: PC }
+  questports:strikers-quest-mr: { game: Super Mario Strikers, category: GameCube }
+  questports:ocarina-of-time-vr: { game: "The Legend of Zelda: Ocarina of Time", category: Nintendo 64 }
+  questports:questcarnage: { game: Carmageddon, category: PC }
+  questports:questcraft: { game: Minecraft, category: PC }
+  questports:rave-racer-vr: { game: Rave Racer, category: Arcade }
+  questports:razexr: { game: "Duke Nukem 3D, Blood & Shadow Warrior", category: PC }
+  questports:road-rash-jailbreak-vr: { game: "Road Rash: Jailbreak", category: PlayStation }
+  questports:rtcwquest: { game: Return to Castle Wolfenstein, category: PC }
+  questports:sclerosis-vr: { game: "Amnesia: The Dark Descent", category: PC }
+  questports:questsam: { game: Serious Sam, category: PC }
+  questports:sm64-coop-dx-vr: { game: Super Mario 64, category: Nintendo 64 }
+  questports:smash-remix-vr: { game: Super Smash Bros, category: Nintendo 64 }
+  questports:sourcevr: { game: Half-Life 2, category: PC }
+  questports:starfox-enhanced-vr: { game: Star Fox, category: SNES }
+  questports:hotd2-vr: { game: The House of the Dead 2, category: Arcade }
+  questports:simpsonshitrun: { game: "The Simpsons: Hit & Run", category: PC }
+  questports:time-crisis-2-vr: { game: Time Crisis II, category: PlayStation 2 }
+  questports:time-crisis-vr: { game: Time Crisis, category: PlayStation }
+  questports:twilight-princess-vr: { game: "The Legend of Zelda: Twilight Princess", category: GameCube }
+  questports:unreal-gold-vr: { game: Unreal, category: PC }
+  questports:ut99-vr-quest: { game: Unreal Tournament, category: PC }
+  questports:victory-heat-rally-vr: { game: Victory Heat Rally, category: PC }
+  questports:wave-race-64-vr: { game: Wave Race 64, category: Nintendo 64 }
+  questports:wiicompiled-vr-plus: { game: Mario Kart Wii, category: Wii }
+  questports:wipeout-rewrite-vr: { game: Wipeout, category: PlayStation }
+  questports:xrkart-64: { game: Mario Kart 64, category: Nintendo 64 }
+  questports:hexen2vr: { game: Hexen II, category: PC }
+  questports:jkxr: { game: "Star Wars Jedi Knight II: Jedi Outcast", category: PC }
+  questports:preyvr: { game: "Prey (2006)", category: PC }
+  questports:quake2quest: { game: Quake II, category: PC }
+  questports:questzdoom: { game: Doom, category: PC }
+  questports:red-dead-redemption-vr: { game: Red Dead Redemption, category: Xbox 360 }
+  questports:winlatorxr: { game: "WinlatorXR (Windows apps)", category: PC }

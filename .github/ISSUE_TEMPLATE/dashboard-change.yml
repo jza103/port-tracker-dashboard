@@ -1,0 +1,14 @@
+name: Dashboard changes
+description: Created by the dashboard's "Save to GitHub" button. Just press Submit.
+title: "[dashboard] changes"
+body:
+  - type: markdown
+    attributes:
+      value: Press **Submit new issue**. A workflow applies these changes to `config/projects.yml` and closes the issue.
+  - type: textarea
+    id: changes
+    attributes:
+      label: Changes
+      render: json
+    validations:
+      required: true

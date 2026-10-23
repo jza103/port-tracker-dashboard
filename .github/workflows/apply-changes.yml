@@ -1,0 +1,66 @@
+name: Apply dashboard changes
+
+# Turns "[dashboard]" issues (from the dashboard's "Save to GitHub" button or
+# the "Track a project" form) into edits of config/projects.yml.
+on:
+  issues:
+    types: [opened]
+
+permissions:
+  contents: write
+  issues: write
+  actions: write
+
+concurrency:
+  group: dashboard-config
+  cancel-in-progress: false
+
+jobs:
+  apply:
+    # Only the repository owner can change what's tracked.
+    if: startsWith(github.event.issue.title, '[dashboard]') && github.event.issue.user.login == github.repository_owner
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+
+      - name: Update config/projects.yml
+        id: apply
+        env:
+          ISSUE_BODY: ${{ github.event.issue.body }}
+          SUMMARY_FILE: ${{ runner.temp }}/summary.md
+        run: node scripts/apply-changes.mjs
+
+      - name: Commit
+        run: |
+          git config user.name "dashboard-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add config/projects.yml
+          if ! git diff --cached --quiet; then
+            git commit -m "Apply dashboard changes from #${{ github.event.issue.number }}"
+            git pull --rebase origin "${GITHUB_REF_NAME}"
+            git push
+          fi
+
+      # Pushes made with GITHUB_TOKEN don't trigger workflows, so start the update directly.
+      - name: Rebuild dashboard
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run update.yml --ref "${GITHUB_REF_NAME}" -R "${GITHUB_REPOSITORY}"
+
+      - name: Close issue
+        if: always()
+        env:
+          GH_TOKEN: ${{ github.token }}
+          OUTCOME: ${{ steps.apply.outcome }}
+        run: |
+          if [ "$OUTCOME" = "success" ]; then
+            { echo "Applied:"; echo; cat "${{ runner.temp }}/summary.md"; echo; echo "The dashboard will refresh in a couple of minutes."; } > "${{ runner.temp }}/comment.md"
+            gh issue close "${{ github.event.issue.number }}" -R "${GITHUB_REPOSITORY}" --comment "$(cat "${{ runner.temp }}/comment.md")"
+          else
+            gh issue comment "${{ github.event.issue.number }}" -R "${GITHUB_REPOSITORY}" --body "Couldn't apply these changes. See the workflow run log: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
+          fi

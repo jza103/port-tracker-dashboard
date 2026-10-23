@@ -1,0 +1,100 @@
+# Where the dashboard gets its information. Every run of the updater
+# (every 4 hours on GitHub Actions) reads this file.
+
+settings:
+  # owner/repo of this dashboard. Used for "Save to GitHub" links.
+  # On GitHub Actions this is filled in automatically.
+  repo: jza103/Dashboard
+  # Keep news articles for this many days.
+  newsDays: 120
+  # A project counts as "active" if it had a commit or release this recently.
+  activeDays: 120
+  # Projects first seen within this many days get a NEW badge.
+  newDays: 14
+
+# Curated catalogs. Everything listed in them is followed automatically,
+# so new ports added there show up here without you doing anything.
+catalogs:
+  - id: portsdr
+    name: PortsDR
+    type: portsdr
+    url: https://portsdr.com/
+  - id: questports
+    name: QuestPorts
+    type: questports
+    url: https://questports.vercel.app/
+    category: VR Ports        # added to every project from this catalog
+
+# News outlets. Articles must match one of the keywords below (unless
+# filter: all). GitHub links found in matching articles are followed
+# automatically as new projects.
+news:
+  keywords:
+    - decomp(ilation|iled)?
+    - recomp(ilation|iled)?
+    - static recompil\w*
+    - reverse[- ]engineer\w*
+    - source port
+    - (native|unofficial|fan[- ]made|fan) (pc )?port
+    - vr (mod|conversion)
+    - (fan|unofficial|community|free)[- ]?(made )?vr
+    - (standalone|unofficial|fan|native) (vr|quest) port
+    - sidequest
+    - flat2vr
+    - team beef
+    - uevr
+    - harbour ?masters
+    - ship of harkinian
+    - 2 ?ship 2 ?harkinian
+    - "n64: ?recompiled"
+    - n64recomp
+    - xenonrecomp
+    - rexglue
+    - ps2recomp
+    - opengoal
+  feeds:
+    - { name: ReadOnlyMemo, url: "https://readonlymemo.com/rss/", filter: all }
+    - { name: Time Extension, url: "https://www.timeextension.com/feeds/latest" }
+    - { name: GamingOnLinux, url: "https://www.gamingonlinux.com/article_rss.php" }
+    - { name: UploadVR, url: "https://www.uploadvr.com/rss/" }
+    - { name: Road to VR, url: "https://www.roadtovr.com/feed/" }
+    - { name: MIXED, url: "https://mixed-news.com/en/feed/" }
+    - { name: VGC, url: "https://www.videogameschronicle.com/feed/" }
+    - { name: PC Gamer, url: "https://www.pcgamer.com/feeds.xml" }
+    - { name: Nintendo Life, url: "https://www.nintendolife.com/feeds/latest" }
+    - { name: Push Square, url: "https://www.pushsquare.com/feeds/latest" }
+    - { name: Pure Xbox, url: "https://www.purexbox.com/feeds/latest" }
+    - { name: GoNintendo, url: "https://gonintendo.com/feeds/all.xml" }
+    - { name: Ars Technica, url: "https://feeds.arstechnica.com/arstechnica/gaming" }
+    - { name: Tom's Hardware, url: "https://www.tomshardware.com/feeds/all" }
+    - { name: XDA, url: "https://www.xda-developers.com/feed/" }
+    - { name: Retro Dodo, url: "https://retrododo.com/feed/" }
+    - { name: Retro Handhelds, url: "https://retrohandhelds.gg/feed/" }
+    - { name: Hackaday, url: "https://hackaday.com/feed/" }
+    - { name: Wccftech, url: "https://wccftech.com/feed/" }
+    - { name: Rock Paper Shotgun, url: "https://www.rockpapershotgun.com/feed" }
+    - { name: Kotaku, url: "https://kotaku.com/rss" }
+    - { name: The Verge, url: "https://www.theverge.com/rss/index.xml" }
+    - name: Google News
+      url: "https://news.google.com/rss/search?q=decompilation+OR+recompilation+OR+recompiled+OR+%22PC+port%22+OR+%22VR+port%22&hl=en-US&gl=US&ceid=US:en"
+      aggregator: true        # links go through Google, so no GitHub links to find
+    # Reddit blocks most cloud servers. Uncomment if you run the updater at home.
+    # - { name: r/emulation, url: "https://www.reddit.com/r/emulation/.rss" }
+
+# GitHub searches for new projects. Results land in the "Discovered" tab;
+# repos with at least autoFollowStars stars are followed automatically.
+# Needs a GitHub token (always available on GitHub Actions).
+discovery:
+  autoFollowStars: 300
+  searches:
+    - topic:static-recompilation stars:>20
+    - topic:recompilation stars:>20
+    - topic:n64recomp stars:>10
+    - topic:decompilation stars:>100
+    - topic:pc-port stars:>50
+    - '"N64: Recompiled" in:readme stars:>50'
+    - XenonRecomp in:readme stars:>30
+    - rexglue in:readme stars:>30
+    - PS2Recomp in:readme stars:>20
+    - topic:quest topic:vr stars:>40 port
+    - topic:openxr port stars:>40

@@ -1,0 +1,18 @@
+{
+  "name": "port-tracker-dashboard",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Self-updating dashboard of decompilation, recompilation and VR port projects",
+  "type": "module",
+  "scripts": {
+    "update": "node scripts/update.mjs",
+    "serve": "node scripts/serve.mjs",
+    "start": "node scripts/update.mjs && node scripts/serve.mjs",
+    "test": "node --test scripts/test/*.test.mjs"
+  },
+  "engines": { "node": ">=20" },
+  "dependencies": {
+    "fast-xml-parser": "^4.5.0",
+    "yaml": "^2.6.0"
+  }
+}
