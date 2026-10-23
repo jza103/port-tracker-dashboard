@@ -195,3 +195,50 @@ export function prettyRepoName(name) {
 export function uniq(arr) {
   return [...new Set(arr.filter(Boolean))];
 }
+
+/**
+ * A repo's README text, or null. Uses the GitHub API when a token is given
+ * (finds any README name); otherwise tries the usual file names on the raw host.
+ */
+export async function fetchReadme(repo, token) {
+  const get = async (url, headers = {}) => {
+    try {
+      const res = await fetchWithRetry(url, { headers }, { retries: 1, timeout: 20000 });
+      return res.ok ? res.text() : null;
+    } catch {
+      return null;
+    }
+  };
+  if (repo.host === 'gitlab') {
+    for (const name of ['README.md', 'readme.md', 'README']) {
+      const text = await get(`https://gitlab.com/${repo.path}/-/raw/HEAD/${name}`);
+      if (text) return text;
+    }
+    return null;
+  }
+  if (token) {
+    const text = await get(`https://api.github.com/repos/${repo.path}/readme`, { Authorization: `bearer ${token}`, Accept: 'application/vnd.github.raw' });
+    if (text) return text;
+  }
+  for (const name of ['README.md', 'readme.md', 'Readme.md', 'README.MD', 'README']) {
+    const text = await get(`https://raw.githubusercontent.com/${repo.path}/HEAD/${name}`);
+    if (text) return text;
+  }
+  return null;
+}
+
+const DISCORD_RE = /https?:\/\/(?:www\.)?(?:discord\.gg|discord(?:app)?\.com\/invite)\/[A-Za-z0-9-]{2,}/gi;
+
+/** Discord invite links in a chunk of text, most-mentioned first. */
+export function findDiscordInvites(text) {
+  const counts = new Map();
+  for (const m of String(text || '').matchAll(DISCORD_RE)) {
+    const url = m[0].replace(/^http:/i, 'https:').replace(/discordapp\.com/i, 'discord.com');
+    counts.set(url, (counts.get(url) || 0) + 1);
+  }
+  return [...counts.entries()].sort((a, b) => b[1] - a[1]).map(([u]) => u);
+}
+
+export function isDiscordUrl(url) {
+  return /^https?:\/\/(?:www\.)?(?:discord\.gg|discord(?:app)?\.com\/invite)\//i.test(url || '');
+}

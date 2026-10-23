@@ -82,6 +82,7 @@ const icon = {
   hide: '<svg viewBox="0 0 24 24"><path d="M3 3l18 18M10.6 6.1A9.9 9.9 0 0 1 12 6c5 0 9 6 9 6a17 17 0 0 1-2.6 3.2M6.6 6.6C4.3 8.2 3 12 3 12s4 6 9 6a8.6 8.6 0 0 0 4.4-1.2M9.9 9.9a3 3 0 0 0 4.2 4.2"/></svg>',
   show: '<svg viewBox="0 0 24 24"><path d="M3 12s4-6 9-6 9 6 9 6-4 6-9 6-9-6-9-6z"/><circle cx="12" cy="12" r="3"/></svg>',
   plus: '<svg viewBox="0 0 24 24"><path d="M12 5v14M5 12h14"/></svg>',
+  discord: '<svg viewBox="0 0 24 24" class="fill"><path d="M19.3 5.3A16.6 16.6 0 0 0 15.2 4l-.5 1a15.4 15.4 0 0 0-5.4 0l-.5-1a16.6 16.6 0 0 0-4.1 1.3C2.1 9.2 1.4 13 1.7 16.7a16.7 16.7 0 0 0 5 2.6l1.1-1.7a10.8 10.8 0 0 1-1.7-.8l.4-.3a11.9 11.9 0 0 0 11 0l.4.3c-.5.3-1.1.6-1.7.8l1.1 1.7a16.6 16.6 0 0 0 5-2.6c.4-4.3-.7-8-3-11.4zM8.7 14.5c-1 0-1.8-.9-1.8-2s.8-2 1.8-2 1.8.9 1.8 2-.8 2-1.8 2zm6.6 0c-1 0-1.8-.9-1.8-2s.8-2 1.8-2 1.8.9 1.8 2-.8 2-1.8 2z"/></svg>',
   ext: '<svg viewBox="0 0 24 24"><path d="M14 4h6v6M20 4l-9 9M18 14v5a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h5"/></svg>',
 };
 
@@ -432,7 +433,9 @@ function renderProject(p, primary) {
     : dls ? `<div class="rel"><div class="dls">${dls}</div></div>`
       : `<div class="norel">${p.repo ? 'No releases yet: build from source or check the links.' : 'Downloads on the project page.'}</div>`}
     ${p.error ? `<div class="err">${esc(p.error)}</div>` : ''}
-    <div class="links">${extraLinks.map((l) => `<a href="${safeUrl(l.url)}" target="_blank" rel="noopener">${esc(l.label)}</a>`).join('')}</div>
+    <div class="links">${extraLinks.map((l) => (l.label === 'Discord'
+    ? `<a class="discord" href="${safeUrl(l.url)}" target="_blank" rel="noopener">${icon.discord}Discord</a>`
+    : `<a href="${safeUrl(l.url)}" target="_blank" rel="noopener">${esc(l.label)}</a>`)).join('')}</div>
   </div>`;
 }
 

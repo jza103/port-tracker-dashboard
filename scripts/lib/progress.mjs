@@ -4,7 +4,7 @@
 //   3. a sentence in the README such as "100.0% Complete" or "fully decompiled"
 // Projects with none of these get { status: 'unknown' }.
 
-import { fetchWithRetry, mapLimit } from './util.mjs';
+import { fetchWithRetry, mapLimit, fetchReadme } from './util.mjs';
 
 const round = (n) => Math.round(n * 100) / 100;
 const DECOMP_DEV_PLATFORMS = {
@@ -25,11 +25,6 @@ async function getJson(url) {
   try { return await res.json(); } catch { return null; }
 }
 
-async function getText(url, headers = {}) {
-  const res = await fetchWithRetry(url, { headers }, { retries: 1, timeout: 20000 });
-  return res.ok ? res.text() : null;
-}
-
 /** decomp.dev keeps serving reports for projects it already tracked. */
 async function fromDecompDev(path) {
   const data = await getJson(`https://decomp.dev/${path}.json`);
@@ -46,19 +41,6 @@ async function fromDecompDev(path) {
   });
 }
 
-async function readme(path, token) {
-  if (token) {
-    const text = await getText(`https://api.github.com/repos/${path}/readme`, {
-      Authorization: `bearer ${token}`, Accept: 'application/vnd.github.raw',
-    }).catch(() => null);
-    if (text) return text;
-  }
-  for (const name of ['README.md', 'readme.md', 'Readme.md', 'README.MD', 'README']) {
-    const text = await getText(`https://raw.githubusercontent.com/${path}/HEAD/${name}`).catch(() => null);
-    if (text) return text;
-  }
-  return null;
-}
 
 const percentOf = (s) => {
   const m = String(s || '').match(/(\d{1,3}(?:\.\d+)?)\s*%/);
@@ -135,7 +117,7 @@ export async function progressFor(path, token) {
   try {
     const dd = await fromDecompDev(path);
     if (dd) return dd;
-    const text = await readme(path, token);
+    const text = await fetchReadme({ host: 'github', path }, token);
     if (text) {
       const fromBadge = await fromBadges(text, path);
       if (fromBadge) return fromBadge;

@@ -93,3 +93,12 @@ test('feeds: RSS and Atom', () => {
   assert.ok(!kw.test('Official PC port announced'));
   assert.ok(!kw.test('decomposition'));
 });
+
+test('Discord invites', async () => {
+  const { findDiscordInvites, isDiscordUrl } = await import('../lib/util.mjs');
+  const readme = '[![Discord](https://img.shields.io/discord/1234)](https://discord.gg/AbC123) ... https://discord.gg/AbC123 and http://discordapp.com/invite/other1';
+  assert.deepEqual(findDiscordInvites(readme), ['https://discord.gg/AbC123', 'https://discord.com/invite/other1']);
+  assert.deepEqual(findDiscordInvites('https://img.shields.io/discord/1234 only a badge'), []);
+  assert.ok(isDiscordUrl('https://discord.gg/x1'));
+  assert.ok(!isDiscordUrl('https://discord.com/channels/1/2'));
+});

@@ -18,7 +18,7 @@ import { loadNews, keywordRegex } from './lib/news.mjs';
 import { fetchProgress, manualProgress } from './lib/progress.mjs';
 import {
   parseRepoRef, parseRepoUrl, repoId, repoUrl, gameKey, guessPlatform, guessType, isVrText,
-  prettyRepoName, uniq, slugify,
+  prettyRepoName, uniq, slugify, fetchReadme, findDiscordInvites, isDiscordUrl, mapLimit,
 } from './lib/util.mjs';
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
@@ -46,6 +46,8 @@ const settings = { newsDays: 120, activeDays: 120, newDays: 14, ...(sources.sett
 const registry = readJson('data/registry.json', { firstSeen: {}, found: {}, meta: {} });
 const newsArchive = readJson('data/news.json', { articles: [] });
 const catalogCache = readJson('data/catalogs.json', {});
+// Community links found in READMEs: { "host:path": { discord, checked } }, re-checked weekly.
+const linkCache = readJson('data/links.json', {});
 const errors = [];
 
 const hidden = new Set((prefs.hidden || []).map(String));
@@ -325,6 +327,30 @@ function decompProgress(proj, ri) {
 }
 console.log(`Progress: ${[...progress.values()].filter((p) => p.status !== 'unknown').length}/${progress.size} decompilations report progress`);
 
+// ------------------------------------------------- 5c. Discord links
+
+// READMEs rarely change their Discord link, so each repo is checked about once a
+// week, a limited number per run, and the result is kept in data/links.json.
+const LINK_DAYS = 7;
+const LINKS_PER_RUN = Number(process.env.LINKS_PER_RUN || 150);
+const needLinks = [];
+for (const proj of projects.values()) {
+  if (!proj.repo || (proj.links || []).some((l) => isDiscordUrl(l.url))) continue;
+  const ri = info.get(repoKey(proj.repo));
+  if (!ri || ri.error) continue;
+  const key = repoKey(proj.repo).toLowerCase();
+  const cached = linkCache[key];
+  if (!cached || now - Date.parse(cached.checked) > LINK_DAYS * DAY) needLinks.push({ key, repo: { ...proj.repo, path: ri.canonical || proj.repo.path }, homepage: ri.homepage, age: cached ? Date.parse(cached.checked) : 0 });
+}
+needLinks.sort((a, b) => a.age - b.age); // never-checked first, then oldest
+const checking = needLinks.slice(0, LINKS_PER_RUN);
+await mapLimit(checking, 8, async ({ key, repo, homepage }) => {
+  const text = await fetchReadme(repo, token);
+  const discord = isDiscordUrl(homepage) ? homepage : findDiscordInvites(text)[0] || null;
+  linkCache[key] = { discord, checked: nowIso.slice(0, 10) };
+});
+console.log(`Discord: checked ${checking.length} READMEs (${needLinks.length - checking.length} left for later runs)`);
+
 // ---------------------------------------------------- 6. assemble output
 
 registry.firstSeen ||= {};
@@ -349,10 +375,15 @@ for (const proj of projects.values()) {
   registry.firstSeen[proj.id] ||= nowIso;
   const { release, stable } = ri && !ri.error ? pickReleases(ri.releases, ri.latestStable, proj.tagPattern) : {};
   const lastActivity = [ri?.pushedAt, release?.date].filter(Boolean).sort().pop() || null;
-  const links = [...(proj.links || [])];
+  const links = (proj.links || []).map((l) => ({ ...l }));
   if (ri?.homepage && !/github\.com|gitlab\.com/.test(ri.homepage) && !links.some((l) => l.url === ri.homepage)) {
     links.unshift({ label: 'Website', url: ri.homepage });
   }
+  const discord = proj.repo && linkCache[repoKey(proj.repo).toLowerCase()]?.discord;
+  if (discord && !links.some((l) => isDiscordUrl(l.url))) links.push({ label: 'Discord', url: discord });
+  // Discord goes first among the links, wherever it came from.
+  for (const l of links) if (isDiscordUrl(l.url)) l.label = 'Discord';
+  links.sort((a, b) => isDiscordUrl(b.url) - isDiscordUrl(a.url));
 
   // decomp.dev knows the proper game name and platform: use them for projects we only found by searching.
   const prog = decompProgress(proj, ri);
@@ -474,6 +505,7 @@ writeJson('data/registry.json', {
 });
 writeJson('data/news.json', { articles: [...articles.values()].sort((x, y) => String(y.date).localeCompare(String(x.date))) });
 writeJson('data/catalogs.json', catalogCache);
+writeJson('data/links.json', Object.fromEntries(Object.entries(linkCache).sort()));
 
 const withRelease = out.filter((x) => x.release).length;
 console.log(`Done: ${out.length} projects (${withRelease} with releases), ${newsOut.length} articles, ${errors.length} warnings`);

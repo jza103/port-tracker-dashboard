@@ -135,6 +135,8 @@ main { max-width: 1500px; margin: 0 auto; padding: 14px 16px; }
 .dl.mine { border-color: var(--accent); background: var(--accent-soft); }
 .dl.ghost { color: var(--muted); font-weight: 500; }
 .links { display: flex; gap: 4px 12px; flex-wrap: wrap; margin-top: 8px; font-size: 12.5px; }
+.links a.discord { display: inline-flex; align-items: center; gap: 4px; color: #7984f5; }
+svg.fill { fill: currentColor; stroke: none; width: 14px; height: 14px; }
 .norel { color: var(--faint); font-size: 12.5px; margin-top: 8px; }
 .err { color: var(--bad); font-size: 12.5px; margin-top: 6px; }
 
