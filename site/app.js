@@ -36,6 +36,12 @@ const ui = {
 };
 const lastVisit = store.get('lastVisit', 0);
 const device = detectDevice();
+// On a Quest headset, start on VR ports that run on the headset itself. Only
+// the first time: after that the headset remembers your own filter choices.
+if (device === 'Quest' && !store.get('questDefaults', false)) {
+  Object.assign(ui, { tab: 'projects', cat: 'VR Ports', questOnly: true });
+  store.set('questDefaults', true);
+}
 
 // ------------------------------------------------------------------ utils
 
@@ -142,6 +148,13 @@ function isNew(p) {
   const first = Date.parse(p.firstSeen || 0);
   return first > seeded && Date.now() - first < (data.settings.newDays || 14) * DAY;
 }
+/** Runs standalone on a Quest: listed for Quest hardware, or a VR project that ships an APK. */
+function runsOnQuest(p) {
+  if (p.targets.some((t) => /quest/i.test(t))) return true;
+  const vr = p.categories.includes('VR Ports') || p.tags.includes('VR');
+  const apk = (u) => /\.apk(\?|$)/i.test(u || '');
+  return vr && (apk(p.download?.url) || (p.release?.assets || []).some((a) => apk(a.name)));
+}
 function hasDownloads(p) {
   return !!(p.download || p.release?.assets?.length);
 }
@@ -159,7 +172,7 @@ function score(p) {
 // ----------------------------------------------------------------- render
 
 function render() {
-  store.set('ui', { tab: ui.tab, cat: ui.cat, type: ui.type, sort: ui.sort, activeOnly: ui.activeOnly, dlOnly: ui.dlOnly, newsSource: ui.newsSource, newsMine: ui.newsMine });
+  store.set('ui', { tab: ui.tab, cat: ui.cat, type: ui.type, sort: ui.sort, activeOnly: ui.activeOnly, dlOnly: ui.dlOnly, questOnly: ui.questOnly, newsSource: ui.newsSource, newsMine: ui.newsMine });
   for (const b of document.querySelectorAll('#tabs button')) b.setAttribute('aria-selected', String(b.dataset.tab === ui.tab));
   for (const s of document.querySelectorAll('.tab-panel')) s.hidden = s.id !== `tab-${ui.tab}`;
   renderCounts();
@@ -222,11 +235,13 @@ function renderProjects() {
   $('#sort').value = ui.sort;
   $('#active-only').checked = ui.activeOnly;
   $('#dl-only').checked = ui.dlOnly;
+  $('#quest-only').checked = !!ui.questOnly;
 
   const filtered = base.filter((p) => (ui.cat === 'All' || p.categories.includes(ui.cat))
     && (!ui.type || (PROGRESS_FILTERS[ui.type] ? p.progress?.status === PROGRESS_FILTERS[ui.type][1] : p.type === ui.type))
     && (!ui.activeOnly || isActive(p))
     && (!ui.dlOnly || hasDownloads(p))
+    && (!ui.questOnly || runsOnQuest(p))
     && matchesQuery(p, q));
 
   // Group by game; best project first.
@@ -619,6 +634,7 @@ function bind() {
   $('#sort').addEventListener('change', (e) => { ui.sort = e.target.value; render(); });
   $('#active-only').addEventListener('change', (e) => { ui.activeOnly = e.target.checked; ui.shown = PAGE; render(); });
   $('#dl-only').addEventListener('change', (e) => { ui.dlOnly = e.target.checked; ui.shown = PAGE; render(); });
+  $('#quest-only').addEventListener('change', (e) => { ui.questOnly = e.target.checked; ui.shown = PAGE; render(); });
   $('#news-source').addEventListener('change', (e) => { ui.newsSource = e.target.value; render(); });
   $('#news-mine').addEventListener('change', (e) => { ui.newsMine = e.target.checked; render(); });
   $('#more').addEventListener('click', () => { ui.shown += PAGE; renderProjects(); });

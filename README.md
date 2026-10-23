@@ -16,7 +16,10 @@ outlets that cover the scene.
   Push Square, Pure Xbox, PC Gamer, VGC, Retro Dodo, Google News and more, filtered for
   decomp/recomp/port/VR-mod stories and linked to the games they mention.
 - Download buttons are labelled by platform (Windows, Linux, macOS, Quest APK…). The one matching
-  the device you're browsing on is highlighted, so it's handy to open on a Quest headset too.
+  the device you're browsing on is highlighted.
+- **On a Quest headset** the page opens on *VR Ports* with *Runs on Quest* ticked: ports built for
+  Quest hardware or shipping an APK, without PC-only VR mods. That's only the first visit; after that
+  the headset remembers whatever filters you pick.
 
 ## Turn it on (one time, ~2 minutes)
 
