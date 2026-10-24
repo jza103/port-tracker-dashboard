@@ -1,6 +1,6 @@
 {
  "questports": {
-  "updatedAt": "2026-10-23T23:22:51.943Z",
+  "updatedAt": "2026-10-24T18:51:55.727Z",
   "projects": [
    {
     "id": "curif/ageofjoy-2022.1",
@@ -846,7 +846,7 @@
      "Quest Pro"
     ],
     "download": null,
-    "catalogVersion": "v1.0.37",
+    "catalogVersion": "v1.0.41",
     "links": [
      {
       "label": "QuestPorts",

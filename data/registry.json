@@ -1,7 +1,7 @@
 {
  "meta": {
   "seededAt": "2026-10-23T22:25:39.434Z",
-  "lastSearchAt": "2026-10-23T22:46:33.769Z"
+  "lastSearchAt": "2026-10-24T18:51:55.727Z"
  },
  "firstSeen": {
   "0herculabs/hl360-forza2": "2026-10-23T22:25:39.434Z",
@@ -51,6 +51,7 @@
   "cblock85/goldeneye64recomp": "2026-10-23T22:25:39.434Z",
   "cdlewis/snowboardkids2-recomp": "2026-10-23T22:25:39.434Z",
   "cellenseres/sssv_recomp": "2026-10-23T22:25:39.434Z",
+  "centollos/switchwakerhd": "2026-10-24T18:51:55.727Z",
   "cesarus85/generals-zero-hour-xr": "2026-10-23T22:25:39.434Z",
   "charlottecross1998/awesome-game-decompilations": "2026-10-23T22:46:33.769Z",
   "chasem-dev/sms-launcher": "2026-10-23T22:25:39.434Z",
@@ -60,6 +61,7 @@
   "chrissotraidis/bluewake": "2026-10-23T22:25:39.434Z",
   "chrissotraidis/kartpad": "2026-10-23T22:25:39.434Z",
   "chrissotraidis/maskpad": "2026-10-23T22:25:39.434Z",
+  "chrissotraidis/projectreach": "2026-10-24T18:51:55.727Z",
   "chrissotraidis/sunpad": "2026-10-23T22:25:39.434Z",
   "circuitlord/circuitlordvrmodinstaller": "2026-10-23T22:25:39.434Z",
   "coccofresco/triaevum": "2026-10-23T22:25:39.434Z",
@@ -81,6 +83,7 @@
   "davidsm64/diddy-kong-racing": "2026-10-23T22:25:39.434Z",
   "decompme/decomp.me": "2026-10-23T22:46:33.769Z",
   "deivid22srk/dk64-recomp-android": "2026-10-23T22:25:39.434Z",
+  "dhaiwat10/cricket07-browser": "2026-10-24T18:51:55.727Z",
   "diasurgical/devilutionx": "2026-10-23T22:25:39.434Z",
   "dinosaurplanetrecomp/dino-recomp": "2026-10-23T22:25:39.434Z",
   "distilledorion-sketch/initial-d-arcade-stage-3-native-sh-4-recompilation-wip-": "2026-10-23T22:25:39.434Z",
@@ -107,6 +110,7 @@
   "dubrovskiy-yevhen-stakelogic/rdr1-quest": "2026-10-23T22:25:39.434Z",
   "dubrovskiy-yevhen-stakelogic/road-rash-jailbreak": "2026-10-23T22:25:39.434Z",
   "dubrovskiy-yevhen-stakelogic/vice-city-vr-quest": "2026-10-23T22:25:39.434Z",
+  "dyotson/forzahorizon1-reimagined": "2026-10-24T18:51:55.727Z",
   "eboody/castlevania-revamped-open-source-edition": "2026-10-23T22:25:39.434Z",
   "ed1z19/valkyrierecomp": "2026-10-23T22:25:39.434Z",
   "edwin2929/sma3-recomp-android.": "2026-10-23T22:25:39.434Z",
@@ -133,6 +137,7 @@
   "fabioap-cpu/tekken3recomp": "2026-10-23T22:25:39.434Z",
   "fable2recomp/beanrecomp": "2026-10-23T22:46:33.769Z",
   "fable2recomp/fable2recomp": "2026-10-23T22:46:33.769Z",
+  "faligame/lost-odyssey-hd-remaster": "2026-10-24T18:51:55.727Z",
   "felipeprado0/gow3_pc": "2026-10-23T22:25:39.434Z",
   "fliperama86/cvlod_recomp": "2026-10-23T22:25:39.434Z",
   "florinp93/hells-gate-recomp": "2026-10-23T22:25:39.434Z",
@@ -154,6 +159,7 @@
   "gitlab:sonicdcer/extremegrecomp": "2026-10-23T22:25:39.434Z",
   "gitlab:sonicdcer/mariokart64recomp": "2026-10-23T22:25:39.434Z",
   "gitlab:sonicdcer/starfox64recomp": "2026-10-23T22:25:39.434Z",
+  "gizcesi/opentricky": "2026-10-24T18:51:55.727Z",
   "gnsb/ufc-3-ps4-port-linux-windows": "2026-10-23T22:25:39.434Z",
   "goliathret/edgeoftimerecomp": "2026-10-23T22:25:39.434Z",
   "granimated/minecraftlce": "2026-10-23T22:46:33.769Z",
@@ -178,6 +184,7 @@
   "harbourmasters/spaghettikart": "2026-10-23T22:25:39.434Z",
   "harbourmasters/starship": "2026-10-23T22:25:39.434Z",
   "harvestmoon64recomp/harvestmoon64recomp": "2026-10-23T22:25:39.434Z",
+  "hayatog/gr2_pc": "2026-10-24T18:51:55.727Z",
   "hayatog/iss_pc": "2026-10-23T22:25:39.434Z",
   "hayatog/tlg_pc": "2026-10-23T22:25:39.434Z",
   "hdmaniak/dishsoap": "2026-10-23T22:25:39.434Z",
@@ -193,6 +200,7 @@
   "hkmodd/ps2-recomp-agent-skill": "2026-10-23T22:46:33.769Z",
   "holdmysocks/mcla-recomp": "2026-10-23T22:46:33.769Z",
   "hollywoodakeem/svr07-recomp": "2026-10-23T22:25:39.434Z",
+  "hossez/fifa-world-cup-2014-recompiled": "2026-10-24T18:51:55.727Z",
   "i12bp8/decomp.wtf": "2026-10-23T22:46:33.769Z",
   "ichris4/dolphinxr": "2026-10-23T22:25:39.434Z",
   "igawa6/harvestmoon64recomp": "2026-10-23T22:25:39.434Z",
@@ -212,6 +220,7 @@
   "jakeschincariol/console-skill": "2026-10-23T22:46:33.769Z",
   "jameriquiah/2ship2harkinian": "2026-10-23T22:25:39.434Z",
   "jcsix694/def-jam-vendetta-recomp": "2026-10-23T22:46:33.769Z",
+  "jedijosh920/swrots-pc": "2026-10-24T18:51:55.727Z",
   "jessetbh/akilauncher": "2026-10-23T22:46:33.769Z",
   "jessetbh/vpw2recomp": "2026-10-23T22:25:39.434Z",
   "jessetbh/vpw64recomp": "2026-10-23T22:25:39.434Z",
@@ -232,6 +241,7 @@
   "kandowontu2/starfox-enhanced": "2026-10-23T22:25:39.434Z",
   "kawaiibunga/mkvdcu-recomp": "2026-10-23T22:25:39.434Z",
   "keepvaibin/nebula": "2026-10-23T22:25:39.434Z",
+  "kh-refined/kh-refined": "2026-10-24T18:51:55.727Z",
   "khasinski/rage-racer-pc": "2026-10-23T22:25:39.434Z",
   "kiexster/god-of-war-recomp": "2026-10-23T22:46:33.769Z",
   "kirby1237/puyopuyoboxrecomp": "2026-10-23T22:25:39.434Z",
@@ -261,6 +271,7 @@
   "mariopartyrd/partyboard": "2026-10-23T22:25:39.434Z",
   "masterspike52/redahm": "2026-10-23T22:25:39.434Z",
   "masterspike52/renut": "2026-10-23T22:25:39.434Z",
+  "matiaszanolli/sega-vr-disasm": "2026-10-24T18:51:55.727Z",
   "matteo842/crashbandicoot-launcher": "2026-10-23T22:25:39.434Z",
   "maxdeadbear/naughtybear_restuff": "2026-10-23T22:25:39.434Z",
   "maxdeadbear/restuff_inparadise": "2026-10-23T22:25:39.434Z",
@@ -328,7 +339,9 @@
   "openmw/openmw": "2026-10-23T22:25:39.434Z",
   "openportroid/armyoftworecompilation": "2026-10-23T22:25:39.434Z",
   "openrct2/openrct2": "2026-10-23T22:25:39.434Z",
+  "opensmash-ultimate/windowsmash": "2026-10-24T18:51:55.727Z",
   "ozordi/sanrecomp": "2026-10-23T22:46:33.769Z",
+  "pablocpas/opencmr2": "2026-10-24T18:51:55.727Z",
   "patchzyy/wiicompiled": "2026-10-23T22:25:39.434Z",
   "paulcombal/mw2-recompiled": "2026-10-23T22:46:33.769Z",
   "perfect-dark-pc-port/perfect_dark": "2026-10-23T22:25:39.434Z",
@@ -426,6 +439,7 @@
   "sonicdcer/dnzhrecomp": "2026-10-23T22:46:33.769Z",
   "sonicdcer/mariokart64recomp": "2026-10-23T22:46:33.769Z",
   "sonicdcer/starfox64recomp": "2026-10-23T22:46:33.769Z",
+  "sonicfreak1337/sarecomp": "2026-10-24T18:51:55.727Z",
   "sonicnext-dev/marathonrecomp": "2026-10-23T22:46:33.769Z",
   "soyjxck/dod3-recomp": "2026-10-23T22:25:39.434Z",
   "sp00nznet/360tools": "2026-10-23T22:46:33.769Z",
@@ -487,6 +501,7 @@
   "thiagordsfx/urban-reign-recomp": "2026-10-23T22:46:33.769Z",
   "tinsarfal/qualyx": "2026-10-23T22:25:39.434Z",
   "tinsarfal/sourcevr": "2026-10-23T22:25:39.434Z",
+  "tmcleroy/cps2recomp": "2026-10-24T18:51:55.727Z",
   "tomups/openmw-vr-quest": "2026-10-23T22:25:39.434Z",
   "troyedwardsjr/z2rs": "2026-10-23T22:25:39.434Z",
   "twilitrealm/dusklight": "2026-10-23T22:25:39.434Z",
@@ -494,6 +509,7 @@
   "vector35/binaryninja-api": "2026-10-23T22:46:33.769Z",
   "vistalargagames/smash-remix-vr": "2026-10-23T22:25:39.434Z",
   "vistalargagames/waverace64-questvr": "2026-10-23T22:25:39.434Z",
+  "vitomiguelf/crashott-pc": "2026-10-24T18:51:55.727Z",
   "vyanhursky/defjamffny-recomp": "2026-10-23T22:46:33.769Z",
   "whompay/saintsreborn": "2026-10-23T22:25:39.434Z",
   "winlatorxr/winlatorxr": "2026-10-23T22:25:39.434Z",
@@ -503,6 +519,7 @@
   "wivi514/dead_rising_2_case_west_xenon_recomp": "2026-10-23T22:25:39.434Z",
   "wivi514/dead_rising_2_case_zero_xenon_recomp": "2026-10-23T22:25:39.434Z",
   "wootbeer/dinotale": "2026-10-23T22:25:39.434Z",
+  "wootbeer/snprecomp": "2026-10-24T18:51:55.727Z",
   "xander-haj/z3r-launcher": "2026-10-23T22:25:39.434Z",
   "xeeynamo/sotn-decomp": "2026-10-23T22:25:39.434Z",
   "yell0wsuit/cuttherope-dx": "2026-10-23T22:25:39.434Z",
@@ -628,6 +645,30 @@
    },
    "autoFollow": false
   },
+  "centollos/switchwakerhd": {
+   "id": "centollos/switchwakerhd",
+   "name": "Switch Waker HD",
+   "game": "Switch Waker HD",
+   "categories": [
+    "Wii U"
+   ],
+   "type": "recompilation",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "centollOS/SwitchWakerHD"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "topic:static-recompilation stars:>20",
+    "date": "2026-10-24T18:51:55.727Z"
+   },
+   "autoFollow": false
+  },
   "chrissotraidis/annepad": {
    "id": "chrissotraidis/annepad",
    "name": "annepad",
@@ -649,6 +690,30 @@
     "kind": "search",
     "title": "topic:n64recomp stars:>10",
     "date": "2026-10-23T22:46:33.769Z"
+   },
+   "autoFollow": false
+  },
+  "chrissotraidis/projectreach": {
+   "id": "chrissotraidis/projectreach",
+   "name": "projectreach",
+   "game": "projectreach",
+   "categories": [
+    "Xbox"
+   ],
+   "type": "recompilation",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "chrissotraidis/projectreach"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "topic:static-recompilation stars:>20",
+    "date": "2026-10-24T18:51:55.727Z"
    },
    "autoFollow": false
   },
@@ -777,6 +842,30 @@
    },
    "autoFollow": false
   },
+  "dhaiwat10/cricket07-browser": {
+   "id": "dhaiwat10/cricket07-browser",
+   "name": "cricket07 browser",
+   "game": "cricket07 browser",
+   "categories": [
+    "Other"
+   ],
+   "type": "recompilation",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "Dhaiwat10/cricket07-browser"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "topic:static-recompilation stars:>20",
+    "date": "2026-10-24T18:51:55.727Z"
+   },
+   "autoFollow": false
+  },
   "dothacktranslate/dothack-recompilation": {
    "id": "dothacktranslate/dothack-recompilation",
    "name": "dothack recompilation",
@@ -822,6 +911,30 @@
     "kind": "search",
     "title": "PS2Recomp in:readme stars:>20",
     "date": "2026-10-23T22:46:33.769Z"
+   },
+   "autoFollow": false
+  },
+  "dyotson/forzahorizon1-reimagined": {
+   "id": "dyotson/forzahorizon1-reimagined",
+   "name": "Forza Horizon1 Re Imagined",
+   "game": "Forza Horizon1 Re Imagined",
+   "categories": [
+    "Xbox 360"
+   ],
+   "type": "tool",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "Dyotson/ForzaHorizon1-ReImagined"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "topic:static-recompilation stars:>20",
+    "date": "2026-10-24T18:51:55.727Z"
    },
    "autoFollow": false
   },
@@ -923,6 +1036,30 @@
    },
    "autoFollow": true
   },
+  "faligame/lost-odyssey-hd-remaster": {
+   "id": "faligame/lost-odyssey-hd-remaster",
+   "name": "lost odyssey hd remaster",
+   "game": "lost odyssey hd remaster",
+   "categories": [
+    "Xbox 360"
+   ],
+   "type": "tool",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "faligame/lost-odyssey-hd-remaster"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "topic:pc-port stars:>50",
+    "date": "2026-10-24T18:51:55.727Z"
+   },
+   "autoFollow": false
+  },
   "gabrick75/fh2-recompiled": {
    "id": "gabrick75/fh2-recompiled",
    "name": "fh2 recompiled",
@@ -994,6 +1131,30 @@
     "date": "2026-10-23T22:46:33.769Z"
    },
    "autoFollow": true
+  },
+  "gizcesi/opentricky": {
+   "id": "gizcesi/opentricky",
+   "name": "Open Tricky",
+   "game": "Open Tricky",
+   "categories": [
+    "Xbox"
+   ],
+   "type": "recompilation",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "GiZcesi/OpenTricky"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "topic:static-recompilation stars:>20",
+    "date": "2026-10-24T18:51:55.727Z"
+   },
+   "autoFollow": false
   },
   "granimated/minecraftlce": {
    "id": "granimated/minecraftlce",
@@ -1067,6 +1228,30 @@
    },
    "autoFollow": false
   },
+  "hayatog/gr2_pc": {
+   "id": "hayatog/gr2_pc",
+   "name": "gr2 pc",
+   "game": "gr2 pc",
+   "categories": [
+    "PlayStation 4"
+   ],
+   "type": "port",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "HayatoG/gr2_pc"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "topic:pc-port stars:>50",
+    "date": "2026-10-24T18:51:55.727Z"
+   },
+   "autoFollow": false
+  },
   "henrykun55/celosia": {
    "id": "henrykun55/celosia",
    "name": "celosia",
@@ -1136,6 +1321,30 @@
     "kind": "search",
     "title": "XenonRecomp in:readme stars:>30",
     "date": "2026-10-23T22:46:33.769Z"
+   },
+   "autoFollow": false
+  },
+  "hossez/fifa-world-cup-2014-recompiled": {
+   "id": "hossez/fifa-world-cup-2014-recompiled",
+   "name": "fifa world cup 2014 recompiled",
+   "game": "fifa world cup 2014 recompiled",
+   "categories": [
+    "Xbox 360"
+   ],
+   "type": "recompilation",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "HossEz/fifa-world-cup-2014-recompiled"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "rexglue in:readme stars:>30",
+    "date": "2026-10-24T18:51:55.727Z"
    },
    "autoFollow": false
   },
@@ -1259,6 +1468,30 @@
    },
    "autoFollow": false
   },
+  "jedijosh920/swrots-pc": {
+   "id": "jedijosh920/swrots-pc",
+   "name": "SWROTS PC",
+   "game": "SWROTS PC",
+   "categories": [
+    "Xbox"
+   ],
+   "type": "port",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "jedijosh920/SWROTS-PC"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "topic:pc-port stars:>50",
+    "date": "2026-10-24T18:51:55.727Z"
+   },
+   "autoFollow": false
+  },
   "jessetbh/akilauncher": {
    "id": "jessetbh/akilauncher",
    "name": "Aki Launcher",
@@ -1304,6 +1537,30 @@
     "kind": "search",
     "title": "rexglue in:readme stars:>30",
     "date": "2026-10-23T22:46:33.769Z"
+   },
+   "autoFollow": false
+  },
+  "kh-refined/kh-refined": {
+   "id": "kh-refined/kh-refined",
+   "name": "KH Re Fined",
+   "game": "KH Re Fined",
+   "categories": [
+    "Other"
+   ],
+   "type": "port",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "KH-ReFined/KH-ReFined"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "topic:pc-port stars:>50",
+    "date": "2026-10-24T18:51:55.727Z"
    },
    "autoFollow": false
   },
@@ -1402,6 +1659,33 @@
     "kind": "search",
     "title": "topic:n64recomp stars:>10",
     "date": "2026-10-23T22:46:33.769Z"
+   },
+   "autoFollow": false
+  },
+  "matiaszanolli/sega-vr-disasm": {
+   "id": "matiaszanolli/sega-vr-disasm",
+   "name": "sega vr disasm",
+   "game": "sega vr disasm",
+   "categories": [
+    "Mega Drive",
+    "VR Ports"
+   ],
+   "type": "tool",
+   "tags": [
+    "VR"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "matiaszanolli/sega-vr-disasm"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "topic:static-recompilation stars:>20",
+    "date": "2026-10-24T18:51:55.727Z"
    },
    "autoFollow": false
   },
@@ -1552,6 +1836,30 @@
    },
    "autoFollow": false
   },
+  "opensmash-ultimate/windowsmash": {
+   "id": "opensmash-ultimate/windowsmash",
+   "name": "Window Smash",
+   "game": "Window Smash",
+   "categories": [
+    "Other"
+   ],
+   "type": "tool",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "OpenSmash-Ultimate/WindowSmash"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "topic:static-recompilation stars:>20",
+    "date": "2026-10-24T18:51:55.727Z"
+   },
+   "autoFollow": false
+  },
   "ozordi/sanrecomp": {
    "id": "ozordi/sanrecomp",
    "name": "San Recomp",
@@ -1573,6 +1881,30 @@
     "kind": "search",
     "title": "XenonRecomp in:readme stars:>30",
     "date": "2026-10-23T22:46:33.769Z"
+   },
+   "autoFollow": false
+  },
+  "pablocpas/opencmr2": {
+   "id": "pablocpas/opencmr2",
+   "name": "Open CMR2",
+   "game": "Open CMR2",
+   "categories": [
+    "Other"
+   ],
+   "type": "decompilation",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "pablocpas/OpenCMR2"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "topic:pc-port stars:>50",
+    "date": "2026-10-24T18:51:55.727Z"
    },
    "autoFollow": false
   },
@@ -2135,6 +2467,30 @@
    },
    "autoFollow": true
   },
+  "some-scurvy-dog/banjo-tooie-scurvy-dog-port": {
+   "id": "some-scurvy-dog/banjo-tooie-scurvy-dog-port",
+   "name": "banjo tooie scurvy dog port",
+   "game": "banjo tooie scurvy dog port",
+   "categories": [
+    "Nintendo 64"
+   ],
+   "type": "recompilation",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "some-scurvy-dog/banjo-tooie-scurvy-dog-port"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "topic:pc-port stars:>50",
+    "date": "2026-10-24T18:51:55.727Z"
+   },
+   "autoFollow": false
+  },
   "sonicdcer/dnzhrecomp": {
    "id": "sonicdcer/dnzhrecomp",
    "name": "DNZHRecomp",
@@ -2206,6 +2562,30 @@
     "date": "2026-10-23T22:46:33.769Z"
    },
    "autoFollow": true
+  },
+  "sonicfreak1337/sarecomp": {
+   "id": "sonicfreak1337/sarecomp",
+   "name": "SARecomp",
+   "game": "SARecomp",
+   "categories": [
+    "Other"
+   ],
+   "type": "recompilation",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "sonicfreak1337/SARecomp"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "topic:static-recompilation stars:>20",
+    "date": "2026-10-24T18:51:55.727Z"
+   },
+   "autoFollow": false
   },
   "sonicnext-dev/marathonrecomp": {
    "id": "sonicnext-dev/marathonrecomp",
@@ -2522,6 +2902,54 @@
    },
    "autoFollow": false
   },
+  "tmcleroy/cps2recomp": {
+   "id": "tmcleroy/cps2recomp",
+   "name": "cps2recomp",
+   "game": "cps2recomp",
+   "categories": [
+    "PlayStation 2"
+   ],
+   "type": "recompilation",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "tmcleroy/cps2recomp"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "topic:pc-port stars:>50",
+    "date": "2026-10-24T18:51:55.727Z"
+   },
+   "autoFollow": false
+  },
+  "vitomiguelf/crashott-pc": {
+   "id": "vitomiguelf/crashott-pc",
+   "name": "crashott pc",
+   "game": "crashott pc",
+   "categories": [
+    "Xbox 360"
+   ],
+   "type": "recompilation",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "VitoMiguelF/crashott-pc"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "XenonRecomp in:readme stars:>30",
+    "date": "2026-10-24T18:51:55.727Z"
+   },
+   "autoFollow": false
+  },
   "vyanhursky/defjamffny-recomp": {
    "id": "vyanhursky/defjamffny-recomp",
    "name": "Def Jam FFNY recomp",
@@ -2567,6 +2995,30 @@
     "kind": "search",
     "title": "rexglue in:readme stars:>30",
     "date": "2026-10-23T22:46:33.769Z"
+   },
+   "autoFollow": false
+  },
+  "wootbeer/snprecomp": {
+   "id": "wootbeer/snprecomp",
+   "name": "snprecomp",
+   "game": "snprecomp",
+   "categories": [
+    "Nintendo 64"
+   ],
+   "type": "recompilation",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "wootbeer/snprecomp"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "\"N64: Recompiled\" in:readme stars:>50",
+    "date": "2026-10-24T18:51:55.727Z"
    },
    "autoFollow": false
   },
