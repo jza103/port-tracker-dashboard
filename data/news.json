@@ -1,6 +1,30 @@
 {
  "articles": [
   {
+   "title": "RPCS3 gets faster PPU/SPU recompilation with Windows optimization, 48% on Ryzen 9 9950X3D",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSDBJUDIyT29Oek5qM3d3akdJOVA4YWdlLUhWbzF1WVdtQTBaeDZoLVB6N3VRSnVjc1ZPRlllWVMxT2EtMENGaGZKWlNsY0FCZFJyOVAyMS1fLXVfbGM1X1hBY2RPWlViaWtYbWE4bVB1YlFzZGVpUUQyYVRrSkxTM2Y1UFBoNnQtTTU2Y1BNaW01cnp0THJDQWxOZWFSWk0xaUczZ210SWJQczF0V3JEX2tNd19IUQ?oc=5",
+   "date": "2026-10-25T11:19:24.000Z",
+   "source": "Google News",
+   "outlet": "VideoCardz.com",
+   "summary": "",
+   "image": null,
+   "text": "RPCS3 gets faster PPU/SPU recompilation with Windows optimization, 48% on Ryzen 9 9950X3D - VideoCardz.com RPCS3 gets faster PPU/SPU recompilation with Windows optimization, 48% on Ryzen 9 9950X3D VideoCardz.com",
+   "repos": [],
+   "firstSeen": "2026-10-25T13:15:03.549Z"
+  },
+  {
+   "title": "Cybersecurity bounty hunter says Samsung TVs use AI to record audio and screenshots for ads",
+   "url": "https://www.tomshardware.com/tech-industry/cyber-security/hacker-finds-own-samsung-tv-collecting-scary-amounts-of-user-information-and-gets-banned-by-openai-for-cyber-abuse-tv-runs-an-ai-model-that-collects-audio-screenshots-and-plenty-of-other-user-data-for-ad-targeting",
+   "date": "2026-10-25T10:00:00.000Z",
+   "source": "Tom's Hardware",
+   "outlet": "Tom's Hardware",
+   "summary": "A hacker reverse-engineered his own Samsung TV and found alarming spying activity, including code that used connected devices' microphones to listen to users.",
+   "image": "https://cdn.mos.cms.futurecdn.net/EiDyWR9Yo8wN9DnMZqQdJ4-1920-80.jpg",
+   "text": "Cybersecurity bounty hunter says Samsung TVs use AI to record audio and screenshots for ads Reverse engineer and cybersecurity bounty hunter log4j recently found they were getting “weirdly targeted ads” on their Samsung TV and discovered privacy breaches. As they live-tweeted their discoveries, they found increasingly concerning code in the Tizen operating system, including detailed user telemetry from packet logging, audio categorization, screenshots, cross-device identification for ad tracking, and more, all designed to extract as much user information as possible to improve targeted ads. log4j posted on X that they were concerned with how specific the ads on their 2025 Samsung TV were. They decided to reverse-engineer the Tizen OS on their TV to see what it was doing—they “discovered PRIVACY HORROR,” log4j states, marking the start of subsequent posts sharing more concerning findings. i own a relatively new (2025) samsung tv.i kept getting weirdly targeted ads.i tried reversing the firmware but it was aes encrypted and no keys unless tear it apart and do uart/jtag magic.zero days it is. root shell on new samsung TVs!discovered PRIVACY HORROR. write up? https://t.co/EsxxCy1b6a October 21, 2026 The tester theorizes that Samsung TVs are so sluggish because they do a lot of post-processing of user data, including audio, screenshots, and AID (a cross-device tracking ID for ads), plus computer vision processing and models running on the TV. The hacker even found a region-specifi",
+   "repos": [],
+   "firstSeen": "2026-10-25T13:15:03.549Z"
+  },
+  {
    "title": "Claude’s Reverse Engineering Capabilities Used To Recompile Games May Have Been Quietly Nerfed",
    "url": "https://kotaku.com/claudes-reverse-engineering-capabilities-used-to-recompile-games-may-have-been-quietly-nerfed-2000749320",
    "date": "2026-10-24T16:48:26.000Z",
