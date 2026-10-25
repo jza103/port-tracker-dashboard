@@ -34,6 +34,17 @@ catalogs:
     name: PCVR Mods Hub
     type: pcvrhub
     url: https://github.com/Mr-Nlce/PCVR-Mods-Installer-Hub
+  # FPGA cores. MiSTer cores carry their update_all status: on by default
+  # (main distribution, JTCORES, Coin-Op), in an optional update_all
+  # database, or "manual install" for cores found anywhere else.
+  - id: mister
+    name: MiSTer (update_all)
+    type: mister
+    url: https://github.com/MiSTer-devel/Wiki_MiSTer/wiki/Cores
+  - id: pocket
+    name: openFPGA inventory
+    type: pocket
+    url: https://openfpga-cores-inventory.github.io/analogue-pocket/
 
 # News outlets. Articles must match one of the keywords below (unless
 # filter: all). GitHub links found in matching articles are followed
@@ -62,6 +73,15 @@ news:
     - rexglue
     - ps2recomp
     - opengoal
+    - mister ?fpga
+    - misterfpga
+    - mister (core|cores|update|updates)
+    - fpga
+    - openfpga
+    - analogue pocket
+    - update_all
+    - jotego
+    - jtcores
   # Extra keywords for YouTube channels (feeds marked video: true). VR mods
   # mostly show up on YouTube first, as "<game> in VR" videos.
   videoKeywords:
@@ -89,6 +109,7 @@ news:
     - { name: Tom's Hardware, url: "https://www.tomshardware.com/feeds/all" }
     - { name: XDA, url: "https://www.xda-developers.com/feed/" }
     - { name: Retro Dodo, url: "https://retrododo.com/feed/" }
+    - { name: RetroRGB, url: "https://www.retrorgb.com/feed" }
     - { name: Retro Handhelds, url: "https://retrohandhelds.gg/feed/" }
     - { name: Hackaday, url: "https://hackaday.com/feed/" }
     - { name: Wccftech, url: "https://wccftech.com/feed/" }
@@ -114,6 +135,9 @@ news:
     - { name: "YouTube: Under The VRadar", url: "https://www.youtube.com/feeds/videos.xml?channel_id=UCK-jMGdILnnoR4wfYyOHhqA", video: true }
     - { name: "YouTube: VR DaD", url: "https://www.youtube.com/feeds/videos.xml?channel_id=UCk3kCEYhdR6mJX1wsaYPsOw", video: true }
     - { name: "YouTube: Game Or Die", url: "https://www.youtube.com/feeds/videos.xml?channel_id=UCof_m8mEUuoqkgs3F_qzfSg", video: true }
+    # Channels that cover the whole scene (ports, recomps, MiSTer, Pocket): every video counts.
+    - { name: "YouTube: Pixel Cherry Ninja", url: "https://www.youtube.com/feeds/videos.xml?channel_id=UCEozS0uaZibXKTQSu10XgSw", video: true, filter: all }
+    - { name: "YouTube: Video Game Esoterica", url: "https://www.youtube.com/feeds/videos.xml?channel_id=UCn2pQB4jsCTLUtx2NIkCvUg", video: true, filter: all }
     # Reddit blocks most cloud servers. Uncomment if you run the updater at home.
     # - { name: r/emulation, url: "https://www.reddit.com/r/emulation/.rss" }
 
@@ -122,6 +146,7 @@ news:
 # Needs a GitHub token (always available on GitHub Actions).
 discovery:
   autoFollowStars: 300
+  autoFollowStarsFpga: 15   # FPGA cores (MiSTer / Pocket) found by search
   searches:
     - topic:static-recompilation stars:>20
     - topic:recompilation stars:>20
@@ -141,3 +166,8 @@ discovery:
     - topic:openxr mod stars:>30
     - '"static recompilation" in:description stars:>30'
     - recomp in:name stars:>40
+    - topic:mister-fpga stars:>5
+    - topic:misterfpga stars:>5
+    - _MiSTer in:name stars:>10
+    - topic:openfpga stars:>5
+    - topic:analogue-pocket stars:>5

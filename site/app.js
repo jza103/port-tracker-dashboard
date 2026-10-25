@@ -9,7 +9,7 @@ const CATEGORY_ORDER = [
   'Game Boy Advance', 'Nintendo DS', 'Nintendo 3DS', 'Virtual Boy', 'PlayStation', 'PlayStation 2', 'PlayStation 3',
   'PlayStation 4', 'PlayStation 5', 'PlayStation Portable', 'Xbox', 'Xbox 360', 'Dreamcast', 'Sega Saturn', 'Mega Drive',
   'Sega 32X', 'Game Gear', 'Philips CD-i', 'Arcade',
-  'PC', 'Mobile', 'VR Ports', 'Tools & Recompilers', 'Other',
+  'PC', 'Mobile', 'MiSTer FPGA', 'Analogue Pocket', 'VR Ports', 'Tools & Recompilers', 'Other',
 ];
 // Extra choices under "Decomp" in the type filter: value -> [label, progress status].
 const PROGRESS_FILTERS = {
@@ -19,7 +19,7 @@ const PROGRESS_FILTERS = {
 };
 const TYPE_LABELS = {
   decompilation: 'Decomp', recompilation: 'Recomp', port: 'Port', 'source-port': 'Source port',
-  reimplementation: 'Reimplementation', mod: 'Mod', tool: 'Tool', emulator: 'Emulator', wrapper: 'Wrapper',
+  reimplementation: 'Reimplementation', mod: 'Mod', tool: 'Tool', emulator: 'Emulator', wrapper: 'Wrapper', core: 'FPGA core',
 };
 
 const $ = (s) => document.querySelector(s);
@@ -32,7 +32,7 @@ let data = null;
 let byId = new Map();
 let changes = store.get('changes', { hide: [], unhide: [], pin: [], unpin: [], follow: [], add: [] });
 const ui = {
-  tab: 'projects', cat: 'All', type: '', sort: 'activity', activeOnly: false, dlOnly: false,
+  tab: 'projects', cat: 'All', type: '', sort: 'activity', ua: '', activeOnly: false, dlOnly: false,
   newsSource: '', newsMine: false, ...store.get('ui', {}), q: '', shown: PAGE,
 };
 const lastVisit = store.get('lastVisit', 0);
@@ -157,6 +157,12 @@ function runsOnQuest(p) {
   const apk = (u) => /\.apk(\?|$)/i.test(u || '');
   return vr && (apk(p.download?.url) || (p.release?.assets || []).some((a) => apk(a.name)));
 }
+/** MiSTer install method filter: 'yes' is any update_all database. */
+function matchesUpdateAll(p, want) {
+  if (!want) return true;
+  if (!p.updateAll) return false;
+  return want === 'yes' ? p.updateAll !== 'manual' : p.updateAll === want;
+}
 function hasDownloads(p) {
   return !!(p.download || p.release?.assets?.length);
 }
@@ -174,7 +180,7 @@ function score(p) {
 // ----------------------------------------------------------------- render
 
 function render() {
-  store.set('ui', { tab: ui.tab, cat: ui.cat, type: ui.type, sort: ui.sort, activeOnly: ui.activeOnly, dlOnly: ui.dlOnly, questOnly: ui.questOnly, newsSource: ui.newsSource, newsMine: ui.newsMine });
+  store.set('ui', { tab: ui.tab, cat: ui.cat, type: ui.type, sort: ui.sort, ua: ui.ua, activeOnly: ui.activeOnly, dlOnly: ui.dlOnly, questOnly: ui.questOnly, newsSource: ui.newsSource, newsMine: ui.newsMine });
   for (const b of document.querySelectorAll('#tabs button')) b.setAttribute('aria-selected', String(b.dataset.tab === ui.tab));
   for (const s of document.querySelectorAll('.tab-panel')) s.hidden = s.id !== `tab-${ui.tab}`;
   renderCounts();
@@ -235,6 +241,10 @@ function renderProjects() {
   }
   $('#type').innerHTML = opts.map(([v, label]) => `<option value="${esc(v)}"${v === ui.type ? ' selected' : ''}>${esc(label)}</option>`).join('');
   $('#sort').value = ui.sort;
+  // The update_all filter only means something for MiSTer cores.
+  const uaOn = ui.cat === 'MiSTer FPGA';
+  $('#ua').hidden = !uaOn;
+  $('#ua').value = ui.ua;
   $('#active-only').checked = ui.activeOnly;
   $('#dl-only').checked = ui.dlOnly;
   $('#quest-only').checked = !!ui.questOnly;
@@ -244,6 +254,7 @@ function renderProjects() {
     && (!ui.activeOnly || isActive(p))
     && (!ui.dlOnly || hasDownloads(p))
     && (!ui.questOnly || runsOnQuest(p))
+    && (!uaOn || matchesUpdateAll(p, ui.ua))
     && matchesQuery(p, q));
 
   // Group by game; best project first.
@@ -263,6 +274,7 @@ function renderProjects() {
     added: (a, b) => Math.max(...b.projects.map((p) => Date.parse(p.firstSeen || 0))) - Math.max(...a.projects.map((p) => Date.parse(p.firstSeen || 0))) || latest(b) - latest(a),
     name: (a, b) => a.game.localeCompare(b.game),
     progress: (a, b) => bestProgress(b) - bestProgress(a) || latest(b) - latest(a),
+    updateall: (a, b) => uaRank(b) - uaRank(a) || latest(b) - latest(a),
   };
   list.sort(sorters[ui.sort] || sorters.activity);
 
@@ -272,6 +284,11 @@ function renderProjects() {
   else $('#games').innerHTML = `<div class="empty">Nothing matches. ${base.length ? 'Try clearing the filters.' : 'No projects yet: run the updater.'}</div>`;
   $('#more').hidden = list.length <= ui.shown;
   $('#more').textContent = `Show more (${list.length - ui.shown} left)`;
+}
+
+/** update_all by default, then optional databases, then manual installs, then non-MiSTer projects. */
+function uaRank(g) {
+  return Math.max(0, ...g.projects.map((p) => ({ default: 3, optional: 2, manual: 1 })[p.updateAll] || 0));
 }
 
 /** Highest decomp progress in a game group, for sorting (no data sorts last). */
@@ -368,6 +385,13 @@ function renderDownloads(p) {
   return parts.join('');
 }
 
+function renderUpdateAll(p) {
+  if (p.updateAll === 'default') return `<span class="tag good" title="Installed by update_all (${esc(p.updateAllDb)}, on by default)">update_all</span>`;
+  if (p.updateAll === 'optional') return `<span class="tag warn" title="In update_all once you enable the ${esc(p.updateAllDb)} database in its settings">update_all: opt-in</span>`;
+  if (p.updateAll === 'manual') return '<span class="tag" title="Not in any update_all database: copy the core to your SD card yourself">Manual install</span>';
+  return '';
+}
+
 function renderProgress(p) {
   const pr = p.progress;
   if (!pr) return '';
@@ -416,6 +440,7 @@ function renderProject(p, primary) {
       <span class="tag type">${esc(TYPE_LABELS[p.type] || p.type)}</span>
       ${p.tags.includes('VR') && !p.categories.includes('VR Ports') ? '<span class="tag vr">VR</span>' : ''}
       ${p.status ? `<span class="tag">${esc(p.status)}</span>` : ''}
+      ${renderUpdateAll(p)}
       ${isNew(p) ? '<span class="tag new">NEW</span>' : ''}
       ${p.fork ? '<span class="tag">Fork</span>' : ''}
       ${p.targets.length ? `<span>${esc(p.targets.join(', '))}</span>` : ''}
@@ -636,6 +661,7 @@ function bind() {
   });
   $('#type').addEventListener('change', (e) => { ui.type = e.target.value; ui.shown = PAGE; render(); });
   $('#sort').addEventListener('change', (e) => { ui.sort = e.target.value; render(); });
+  $('#ua').addEventListener('change', (e) => { ui.ua = e.target.value; ui.shown = PAGE; render(); });
   $('#active-only').addEventListener('change', (e) => { ui.activeOnly = e.target.checked; ui.shown = PAGE; render(); });
   $('#dl-only').addEventListener('change', (e) => { ui.dlOnly = e.target.checked; ui.shown = PAGE; render(); });
   $('#quest-only').addEventListener('change', (e) => { ui.questOnly = e.target.checked; ui.shown = PAGE; render(); });

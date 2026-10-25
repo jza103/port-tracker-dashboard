@@ -47,6 +47,14 @@
             <option value="added">Recently added</option>
             <option value="name">Name</option>
             <option value="progress">Decomp progress</option>
+            <option value="updateall">In update_all first</option>
+          </select>
+          <select id="ua" aria-label="MiSTer install method" title="Whether update_all installs the core" hidden>
+            <option value="">All MiSTer cores</option>
+            <option value="yes">In update_all</option>
+            <option value="default">In update_all (on by default)</option>
+            <option value="optional">Optional update_all database</option>
+            <option value="manual">Manual install</option>
           </select>
           <label class="toggle"><input type="checkbox" id="active-only"> Active only</label>
           <label class="toggle"><input type="checkbox" id="dl-only"> Has downloads</label>

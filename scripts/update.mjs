@@ -16,6 +16,7 @@ import { loadCatalog } from './lib/catalogs.mjs';
 import { fetchRepoInfo, pickReleases, searchGithub } from './lib/repos.mjs';
 import { loadNews, keywordRegex } from './lib/news.mjs';
 import { fetchProgress, manualProgress } from './lib/progress.mjs';
+import { fpgaCategory, MISTER } from './lib/fpga.mjs';
 import {
   parseRepoRef, parseRepoUrl, repoId, repoUrl, gameKey, guessPlatform, guessType, isVrText,
   prettyRepoName, uniq, slugify, fetchReadme, findDiscordInvites, isDiscordUrl, mapLimit,
@@ -67,6 +68,8 @@ const listRe = /(^|\/)awesome[-_]|\bawesome list\b|curated list|\blist of\b/i;
 function classifyRepo(path, ri) {
   const text = `${path} ${ri.description} ${ri.topics.join(' ')}`;
   if (listRe.test(text) || ri.fork) return 'reject';
+  // FPGA cores (MiSTer, Analogue Pocket) are followed too, unlike software emulators.
+  if (fpgaCategory(text)) return toolRe.test(text) && !/_mister$/i.test(path) ? 'weak' : 'strong';
   if (notPortRe.test(text)) return weakRepoRe.test(text) || strongRepoRe.test(text) ? 'weak' : 'reject';
   if (strongRepoRe.test(text) || kwRe.test(text)) return toolRe.test(text) ? 'weak' : 'strong';
   return weakRepoRe.test(text) ? 'weak' : 'reject';
@@ -124,6 +127,14 @@ function discoveredProject(repo, info, from) {
   const text = from.kind === 'news' ? `${own} ${from.title || ''}` : own;
   const vr = isVrText(`${repo.path} ${info?.description || ''} ${(info?.topics || []).join(' ')}`);
   const platform = guessPlatform(text);
+  const fpga = fpgaCategory(own);
+  if (fpga) {
+    const name = prettyRepoName(repo.path.split('/').pop().replace(/[-_]?(mister|pocket|openfpga)$/i, '').replace(/^(openfpga|arcade)[-_]/i, ''));
+    return {
+      id: repoId(repo), name: prettyRepoName(repo.path.split('/').pop()), game: name || repo.path,
+      categories: [fpga], type: 'core', tags: ['FPGA'], repo, links: [], sources: [from.kind], discoveredFrom: from,
+    };
+  }
   return {
     id: repoId(repo),
     name: prettyRepoName(repo.path.split('/').pop()),
@@ -267,6 +278,8 @@ for (const [k, v] of preloaded) info.set(k, v);
 registry.found ||= {};
 registry.rejected ||= {};
 const autoStars = sources.discovery?.autoFollowStars ?? 300;
+// FPGA cores are a smaller scene: fewer stars are enough.
+const fpgaStars = sources.discovery?.autoFollowStarsFpga ?? 15;
 for (const [id, c] of candidates) {
   const ri = info.get(repoKey(c.repo));
   if (!ri) continue;
@@ -278,7 +291,7 @@ for (const [id, c] of candidates) {
   const kind = classifyRepo(c.repo.path, ri);
   if (kind === 'reject') { registry.rejected[id] = nowIso.slice(0, 10); continue; }
   const proj = discoveredProject(c.repo, ri, c.from);
-  proj.autoFollow = kind === 'strong' && (c.from.kind === 'news' || (ri.stars || 0) >= autoStars);
+  proj.autoFollow = kind === 'strong' && (c.from.kind === 'news' || (ri.stars || 0) >= (proj.type === 'core' ? fpgaStars : autoStars));
   registry.found[id] = proj;
   projects.set(id, structuredClone(proj));
 }
@@ -298,7 +311,7 @@ for (const [id, proj] of Object.entries(registry.found)) {
   }
   const fresh = discoveredProject(proj.repo, ri, proj.discoveredFrom || { kind: 'search' });
   const updated = { ...proj, categories: fresh.categories, type: fresh.type, tags: fresh.tags,
-    autoFollow: kind === 'strong' && (proj.discoveredFrom?.kind === 'news' || (ri.stars || 0) >= autoStars) };
+    autoFollow: kind === 'strong' && (proj.discoveredFrom?.kind === 'news' || (ri.stars || 0) >= (fresh.type === 'core' ? fpgaStars : autoStars)) };
   registry.found[id] = updated;
   if (onlyFound && !prefs.overrides?.[id]) projects.set(id, structuredClone(updated));
 }
@@ -412,6 +425,9 @@ for (const proj of projects.values()) {
     links,
     download: proj.download || null,
     catalogVersion: proj.catalogVersion || '',
+    // MiSTer cores: installed by update_all ('default' or from an 'optional' database) or by hand ('manual').
+    updateAll: proj.categories?.includes(MISTER) ? proj.updateAll || 'manual' : null,
+    updateAllDb: proj.updateAllDb || '',
     sources: proj.sources || [],
     discoveredFrom: proj.discoveredFrom || null,
     followed: !proj.sources?.every((s) => s === 'news' || s === 'search') || !!proj.autoFollow || followList.has(proj.id),

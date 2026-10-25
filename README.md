@@ -10,6 +10,12 @@ outlets that cover the scene.
   [QuestPorts](https://questports.vercel.app/) for Quest VR ports, and the
   [PCVR Mods Installer Hub](https://github.com/Mr-Nlce/PCVR-Mods-Installer-Hub) for PC VR mods of flat
   games), from GitHub links in news articles and YouTube video descriptions, and from GitHub searches.
+- **FPGA cores** for MiSTer (from the official [core list](https://github.com/MiSTer-devel/Wiki_MiSTer/wiki/Cores)
+  and the databases [update_all](https://github.com/theypsilon/Update_All_MiSTer) installs from) and for the
+  Analogue Pocket (from the [openFPGA cores inventory](https://openfpga-cores-inventory.github.io/analogue-pocket/)).
+  Every MiSTer core is labelled **update_all** (installed by default), **update_all: opt-in** (in a database
+  you can switch on in update_all's settings) or **Manual install** (found elsewhere, e.g. in news or GitHub
+  searches). In the *MiSTer FPGA* category you can filter by that, or sort with *In update_all first*.
 - **Groups every project for the same game.** The most active/popular one is shown first, other
   active ones underneath, and the rest are folded away. Pin the one you prefer, hide the ones you don't want.
 - **Categories** by original platform (Nintendo 64, PlayStation 4, Xbox 360, …) plus *VR Ports* and

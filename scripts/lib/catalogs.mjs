@@ -4,6 +4,7 @@
 import {
   fetchText, fetchJson, parseRepoUrl, parseRepoRef, repoId, guessType, guessPlatform, uniq, slugify, mapLimit,
 } from './util.mjs';
+import { loadMister, loadPocket } from './fpga.mjs';
 
 // ---------------------------------------------------------------- PortsDR
 
@@ -433,6 +434,8 @@ export async function loadCatalog(cat, previous) {
     return parseQuestPorts(ports, cat.category);
   }
   if (cat.type === 'quiver') return loadQuiver(cat, previous);
+  if (cat.type === 'mister') return loadMister(cat);
+  if (cat.type === 'pocket') return loadPocket(cat);
   if (cat.type === 'pcvrhub') {
     const base = (cat.raw || 'https://raw.githubusercontent.com/Mr-Nlce/PCVR-Mods-Installer-Hub/HEAD/Core/Modules').replace(/\/$/, '');
     const [catalog, index] = await Promise.all([
