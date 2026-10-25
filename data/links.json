@@ -2139,11 +2139,19 @@
   "discord": null,
   "checked": "2026-10-23"
  },
+ "github:mister-devel/3do_mister": {
+  "discord": null,
+  "checked": "2026-10-25"
+ },
  "github:mister-devel/acornatom_mister": {
   "discord": null,
   "checked": "2026-10-25"
  },
  "github:mister-devel/acornelectron_mister": {
+  "discord": null,
+  "checked": "2026-10-25"
+ },
+ "github:mister-devel/adventurevision_mister": {
   "discord": null,
   "checked": "2026-10-25"
  },
@@ -2195,7 +2203,303 @@
   "discord": null,
   "checked": "2026-10-25"
  },
+ "github:mister-devel/arcade-actfancer_mister": {
+  "discord": null,
+  "checked": "2026-10-25"
+ },
+ "github:mister-devel/arcade-arabian_mister": {
+  "discord": null,
+  "checked": "2026-10-25"
+ },
+ "github:mister-devel/arcade-arkanoid_mister": {
+  "discord": null,
+  "checked": "2026-10-25"
+ },
+ "github:mister-devel/arcade-asteroids_mister": {
+  "discord": null,
+  "checked": "2026-10-25"
+ },
+ "github:mister-devel/arcade-astrocade_mister": {
+  "discord": null,
+  "checked": "2026-10-25"
+ },
+ "github:mister-devel/arcade-atari-system1_mister": {
+  "discord": null,
+  "checked": "2026-10-25"
+ },
+ "github:mister-devel/arcade-atarisystem2_mister": {
+  "discord": null,
+  "checked": "2026-10-25"
+ },
+ "github:mister-devel/arcade-atetris_mister": {
+  "discord": null,
+  "checked": "2026-10-25"
+ },
+ "github:mister-devel/arcade-athena_mister": {
+  "discord": null,
+  "checked": "2026-10-25"
+ },
+ "github:mister-devel/arcade-badlands_mister": {
+  "discord": null,
+  "checked": "2026-10-25"
+ },
+ "github:mister-devel/arcade-bagman_mister": {
+  "discord": null,
+  "checked": "2026-10-25"
+ },
+ "github:mister-devel/arcade-bankpanic_mister": {
+  "discord": null,
+  "checked": "2026-10-25"
+ },
+ "github:mister-devel/arcade-batman_mister": {
+  "discord": null,
+  "checked": "2026-10-25"
+ },
+ "github:mister-devel/arcade-battlezone_mister": {
+  "discord": null,
+  "checked": "2026-10-25"
+ },
+ "github:mister-devel/arcade-berzerk_mister": {
+  "discord": null,
+  "checked": "2026-10-25"
+ },
+ "github:mister-devel/arcade-blackwidow_mister": {
+  "discord": null,
+  "checked": "2026-10-25"
+ },
+ "github:mister-devel/arcade-blasteroids_mister": {
+  "discord": null,
+  "checked": "2026-10-25"
+ },
+ "github:mister-devel/arcade-blockade_mister": {
+  "discord": null,
+  "checked": "2026-10-25"
+ },
+ "github:mister-devel/arcade-bloodbros_mister": {
+  "discord": null,
+  "checked": "2026-10-25"
+ },
+ "github:mister-devel/arcade-blueprint_mister": {
+  "discord": null,
+  "checked": "2026-10-25"
+ },
+ "github:mister-devel/arcade-bombjack_mister": {
+  "discord": null,
+  "checked": "2026-10-25"
+ },
+ "github:mister-devel/arcade-boogiewings_mister": {
+  "discord": null,
+  "checked": "2026-10-25"
+ },
+ "github:mister-devel/arcade-bosconian_mister": {
+  "discord": null,
+  "checked": "2026-10-25"
+ },
+ "github:mister-devel/arcade-breakout_mister": {
+  "discord": null,
+  "checked": "2026-10-25"
+ },
+ "github:mister-devel/arcade-bubsys_mister": {
+  "discord": null,
+  "checked": "2026-10-25"
+ },
+ "github:mister-devel/arcade-bubsysrom_mister": {
+  "discord": null,
+  "checked": "2026-10-25"
+ },
+ "github:mister-devel/arcade-burgertime_mister": {
+  "discord": null,
+  "checked": "2026-10-25"
+ },
+ "github:mister-devel/arcade-burningrubber_mister": {
+  "discord": null,
+  "checked": "2026-10-25"
+ },
+ "github:mister-devel/arcade-canyonbomber_mister": {
+  "discord": null,
+  "checked": "2026-10-25"
+ },
+ "github:mister-devel/arcade-cave_mister": {
+  "discord": null,
+  "checked": "2026-10-25"
+ },
+ "github:mister-devel/arcade-cavebanpresto_mister": {
+  "discord": null,
+  "checked": "2026-10-25"
+ },
+ "github:mister-devel/arcade-centipede_mister": {
+  "discord": null,
+  "checked": "2026-10-25"
+ },
+ "github:mister-devel/arcade-chameleon_mister": {
+  "discord": null,
+  "checked": "2026-10-25"
+ },
+ "github:mister-devel/arcade-championbaseball_mister": {
+  "discord": null,
+  "checked": "2026-10-25"
+ },
+ "github:mister-devel/arcade-chinagate_mister": {
+  "discord": null,
+  "checked": "2026-10-25"
+ },
+ "github:mister-devel/arcade-cityconnection_mister": {
+  "discord": null,
+  "checked": "2026-10-25"
+ },
+ "github:mister-devel/arcade-computerspace_mister": {
+  "discord": null,
+  "checked": "2026-10-25"
+ },
+ "github:mister-devel/arcade-congobongo_mister": {
+  "discord": null,
+  "checked": "2026-10-25"
+ },
+ "github:mister-devel/arcade-cosmicguerilla_mister": {
+  "discord": null,
+  "checked": "2026-10-25"
+ },
+ "github:mister-devel/arcade-crazyballoon_mister": {
+  "discord": null,
+  "checked": "2026-10-25"
+ },
+ "github:mister-devel/arcade-crazyclimber_mister": {
+  "discord": null,
+  "checked": "2026-10-25"
+ },
+ "github:mister-devel/arcade-crazykong_mister": {
+  "discord": null,
+  "checked": "2026-10-25"
+ },
+ "github:mister-devel/arcade-crystalcastles_mister": {
+  "discord": null,
+  "checked": "2026-10-25"
+ },
+ "github:mister-devel/arcade-darius2ninjawarriors_mister": {
+  "discord": null,
+  "checked": "2026-10-25"
+ },
+ "github:mister-devel/arcade-darius2warriorblade_mister": {
+  "discord": null,
+  "checked": "2026-10-25"
+ },
+ "github:mister-devel/arcade-darius_mister": {
+  "discord": null,
+  "checked": "2026-10-25"
+ },
+ "github:mister-devel/arcade-dcon_mister": {
+  "discord": null,
+  "checked": "2026-10-25"
+ },
+ "github:mister-devel/arcade-deco16_mister": {
+  "discord": null,
+  "checked": "2026-10-25"
+ },
+ "github:mister-devel/arcade-decocassette_mister": {
+  "discord": null,
+  "checked": "2026-10-25"
+ },
+ "github:mister-devel/arcade-defender_mister": {
+  "discord": null,
+  "checked": "2026-10-25"
+ },
+ "github:mister-devel/arcade-denjinmakai_mister": {
+  "discord": null,
+  "checked": "2026-10-25"
+ },
+ "github:mister-devel/arcade-digdug_mister": {
+  "discord": null,
+  "checked": "2026-10-25"
+ },
+ "github:mister-devel/arcade-dominos_mister": {
+  "discord": null,
+  "checked": "2026-10-25"
+ },
+ "github:mister-devel/arcade-donkeykong3_mister": {
+  "discord": null,
+  "checked": "2026-10-25"
+ },
+ "github:mister-devel/arcade-donkeykong_mister": {
+  "discord": null,
+  "checked": "2026-10-25"
+ },
+ "github:mister-devel/arcade-donkeykongjunior_mister": {
+  "discord": null,
+  "checked": "2026-10-25"
+ },
+ "github:mister-devel/arcade-dottorikun_mister": {
+  "discord": null,
+  "checked": "2026-10-25"
+ },
+ "github:mister-devel/arcade-escape_mister": {
+  "discord": null,
+  "checked": "2026-10-25"
+ },
+ "github:mister-devel/arcade-exerion_mister": {
+  "discord": null,
+  "checked": "2026-10-25"
+ },
+ "github:mister-devel/arcade-exidy2_mister": {
+  "discord": null,
+  "checked": "2026-10-25"
+ },
+ "github:mister-devel/arcade-expressraider_mister": {
+  "discord": null,
+  "checked": "2026-10-25"
+ },
+ "github:mister-devel/arcade-finalizer_mister": {
+  "discord": null,
+  "checked": "2026-10-25"
+ },
+ "github:mister-devel/arcade-foodfight_mister": {
+  "discord": null,
+  "checked": "2026-10-25"
+ },
+ "github:mister-devel/arcade-freeze_mister": {
+  "discord": null,
+  "checked": "2026-10-25"
+ },
+ "github:mister-devel/arcade-mcr1_mister": {
+  "discord": null,
+  "checked": "2026-10-25"
+ },
+ "github:mister-devel/arcade-mcr2_mister": {
+  "discord": null,
+  "checked": "2026-10-25"
+ },
+ "github:mister-devel/arcade-mcr3_mister": {
+  "discord": null,
+  "checked": "2026-10-25"
+ },
+ "github:mister-devel/arcade-mcr3mono_mister": {
+  "discord": null,
+  "checked": "2026-10-25"
+ },
+ "github:mister-devel/arcade-mcr3scroll_mister": {
+  "discord": null,
+  "checked": "2026-10-25"
+ },
+ "github:mister-devel/arcade-taitoasuka_mister": {
+  "discord": null,
+  "checked": "2026-10-25"
+ },
+ "github:mister-devel/arcadia_mister": {
+  "discord": null,
+  "checked": "2026-10-25"
+ },
  "github:mister-devel/archie_mister": {
+  "discord": null,
+  "checked": "2026-10-25"
+ },
+ "github:mister-devel/arduboy_mister": {
+  "discord": null,
+  "checked": "2026-10-25"
+ },
+ "github:mister-devel/astrocade_mister": {
+  "discord": null,
+  "checked": "2026-10-25"
+ },
+ "github:mister-devel/atari7800_mister": {
   "discord": null,
   "checked": "2026-10-25"
  },
@@ -2203,7 +2507,19 @@
   "discord": null,
   "checked": "2026-10-25"
  },
+ "github:mister-devel/atarilynx_mister": {
+  "discord": null,
+  "checked": "2026-10-25"
+ },
  "github:mister-devel/atarist_mister": {
+  "discord": null,
+  "checked": "2026-10-25"
+ },
+ "github:mister-devel/ay-3-8500-mister": {
+  "discord": null,
+  "checked": "2026-10-25"
+ },
+ "github:mister-devel/bbcbridgecompanion_mister": {
   "discord": null,
   "checked": "2026-10-25"
  },
@@ -2227,11 +2543,31 @@
   "discord": null,
   "checked": "2026-10-25"
  },
+ "github:mister-devel/casio_pv-1000_mister": {
+  "discord": null,
+  "checked": "2026-10-25"
+ },
  "github:mister-devel/casio_pv-2000_mister": {
   "discord": null,
   "checked": "2026-10-25"
  },
  "github:mister-devel/cbm-ii_mister": {
+  "discord": null,
+  "checked": "2026-10-25"
+ },
+ "github:mister-devel/cdi_mister": {
+  "discord": null,
+  "checked": "2026-10-25"
+ },
+ "github:mister-devel/channelf_mister": {
+  "discord": null,
+  "checked": "2026-10-25"
+ },
+ "github:mister-devel/chess_mister": {
+  "discord": null,
+  "checked": "2026-10-25"
+ },
+ "github:mister-devel/chip8_mister": {
   "discord": null,
   "checked": "2026-10-25"
  },
@@ -2247,7 +2583,19 @@
   "discord": null,
   "checked": "2026-10-25"
  },
+ "github:mister-devel/colecovision_mister": {
+  "discord": null,
+  "checked": "2026-10-25"
+ },
  "github:mister-devel/cray-xmp_mister": {
+  "discord": null,
+  "checked": "2026-10-25"
+ },
+ "github:mister-devel/creativision_mister": {
+  "discord": null,
+  "checked": "2026-10-25"
+ },
+ "github:mister-devel/donut_mister": {
   "discord": null,
   "checked": "2026-10-25"
  },
@@ -2263,11 +2611,55 @@
   "discord": null,
   "checked": "2026-10-25"
  },
+ "github:mister-devel/epochgalaxy2_mister": {
+  "discord": null,
+  "checked": "2026-10-25"
+ },
+ "github:mister-devel/flappybird_mister": {
+  "discord": null,
+  "checked": "2026-10-25"
+ },
  "github:mister-devel/fm-7_mister": {
   "discord": null,
   "checked": "2026-10-25"
  },
  "github:mister-devel/galaksija_mister": {
+  "discord": null,
+  "checked": "2026-10-25"
+ },
+ "github:mister-devel/gamate_mister": {
+  "discord": null,
+  "checked": "2026-10-25"
+ },
+ "github:mister-devel/gameandwatch_mister": {
+  "discord": null,
+  "checked": "2026-10-25"
+ },
+ "github:mister-devel/gameboy_mister": {
+  "discord": null,
+  "checked": "2026-10-25"
+ },
+ "github:mister-devel/gamecom_mister": {
+  "discord": null,
+  "checked": "2026-10-25"
+ },
+ "github:mister-devel/gameking_mister": {
+  "discord": null,
+  "checked": "2026-10-25"
+ },
+ "github:mister-devel/gba_mister": {
+  "discord": null,
+  "checked": "2026-10-25"
+ },
+ "github:mister-devel/gbmidi_mister": {
+  "discord": null,
+  "checked": "2026-10-25"
+ },
+ "github:mister-devel/genmidi_mister": {
+  "discord": null,
+  "checked": "2026-10-25"
+ },
+ "github:mister-devel/gnw_mister": {
   "discord": null,
   "checked": "2026-10-25"
  },
@@ -2279,7 +2671,15 @@
   "discord": null,
   "checked": "2026-10-25"
  },
+ "github:mister-devel/intv_mister": {
+  "discord": null,
+  "checked": "2026-10-25"
+ },
  "github:mister-devel/iq151_mister": {
+  "discord": null,
+  "checked": "2026-10-25"
+ },
+ "github:mister-devel/jaguar_mister": {
   "discord": null,
   "checked": "2026-10-25"
  },
@@ -2288,6 +2688,18 @@
   "checked": "2026-10-25"
  },
  "github:mister-devel/jupiter_mister": {
+  "discord": null,
+  "checked": "2026-10-25"
+ },
+ "github:mister-devel/laser310_mister": {
+  "discord": null,
+  "checked": "2026-10-25"
+ },
+ "github:mister-devel/life_mister": {
+  "discord": null,
+  "checked": "2026-10-25"
+ },
+ "github:mister-devel/loopy_mister": {
   "discord": null,
   "checked": "2026-10-25"
  },
@@ -2311,6 +2723,18 @@
   "discord": null,
   "checked": "2026-10-25"
  },
+ "github:mister-devel/marty_mister": {
+  "discord": null,
+  "checked": "2026-10-25"
+ },
+ "github:mister-devel/megacd_mister": {
+  "discord": null,
+  "checked": "2026-10-25"
+ },
+ "github:mister-devel/megadrive_mister": {
+  "discord": null,
+  "checked": "2026-10-25"
+ },
  "github:mister-devel/minimig-aga_mister": {
   "discord": null,
   "checked": "2026-10-25"
@@ -2327,7 +2751,23 @@
   "discord": null,
   "checked": "2026-10-25"
  },
+ "github:mister-devel/myvision_mister": {
+  "discord": null,
+  "checked": "2026-10-25"
+ },
+ "github:mister-devel/n64_mister": {
+  "discord": null,
+  "checked": "2026-10-25"
+ },
+ "github:mister-devel/neogeo_mister": {
+  "discord": null,
+  "checked": "2026-10-25"
+ },
  "github:mister-devel/neon_mister": {
+  "discord": null,
+  "checked": "2026-10-25"
+ },
+ "github:mister-devel/nes_mister": {
   "discord": null,
   "checked": "2026-10-25"
  },
@@ -2336,6 +2776,14 @@
   "checked": "2026-10-25"
  },
  "github:mister-devel/next_mister": {
+  "discord": null,
+  "checked": "2026-10-25"
+ },
+ "github:mister-devel/ngpc_mister": {
+  "discord": null,
+  "checked": "2026-10-25"
+ },
+ "github:mister-devel/odyssey2_mister": {
   "discord": null,
   "checked": "2026-10-25"
  },
@@ -2359,6 +2807,10 @@
   "discord": null,
   "checked": "2026-10-25"
  },
+ "github:mister-devel/pcxt-ega_mister": {
+  "discord": null,
+  "checked": "2026-10-25"
+ },
  "github:mister-devel/pcxt_mister": {
   "discord": null,
   "checked": "2026-10-25"
@@ -2375,6 +2827,18 @@
   "discord": null,
   "checked": "2026-10-25"
  },
+ "github:mister-devel/pocketstation_mister": {
+  "discord": null,
+  "checked": "2026-10-25"
+ },
+ "github:mister-devel/pokemonmini_mister": {
+  "discord": null,
+  "checked": "2026-10-25"
+ },
+ "github:mister-devel/psx_mister": {
+  "discord": null,
+  "checked": "2026-10-25"
+ },
  "github:mister-devel/ql_mister": {
   "discord": null,
   "checked": "2026-10-25"
@@ -2383,7 +2847,19 @@
   "discord": null,
   "checked": "2026-10-25"
  },
+ "github:mister-devel/s32x_mister": {
+  "discord": null,
+  "checked": "2026-10-25"
+ },
  "github:mister-devel/sam-coupe_mister": {
+  "discord": null,
+  "checked": "2026-10-25"
+ },
+ "github:mister-devel/saturn_mister": {
+  "discord": null,
+  "checked": "2026-10-25"
+ },
+ "github:mister-devel/sgb_mister": {
   "discord": null,
   "checked": "2026-10-25"
  },
@@ -2395,11 +2871,27 @@
   "discord": null,
   "checked": "2026-10-25"
  },
+ "github:mister-devel/slugcross_mister": {
+  "discord": null,
+  "checked": "2026-10-25"
+ },
+ "github:mister-devel/sms_mister": {
+  "discord": null,
+  "checked": "2026-10-25"
+ },
+ "github:mister-devel/snes_mister": {
+  "discord": null,
+  "checked": "2026-10-25"
+ },
  "github:mister-devel/sordm5_mister": {
   "discord": null,
   "checked": "2026-10-25"
  },
  "github:mister-devel/specialist_mister": {
+  "discord": null,
+  "checked": "2026-10-25"
+ },
+ "github:mister-devel/studioii_mister": {
   "discord": null,
   "checked": "2026-10-25"
  },
@@ -2415,7 +2907,27 @@
   "discord": null,
   "checked": "2026-10-25"
  },
+ "github:mister-devel/super_vision_8000_mister": {
+  "discord": null,
+  "checked": "2026-10-25"
+ },
+ "github:mister-devel/superacan_mister": {
+  "discord": null,
+  "checked": "2026-10-25"
+ },
+ "github:mister-devel/supercassettevision_mister": {
+  "discord": null,
+  "checked": "2026-10-25"
+ },
+ "github:mister-devel/supervision_mister": {
+  "discord": null,
+  "checked": "2026-10-25"
+ },
  "github:mister-devel/svi328_mister": {
+  "discord": null,
+  "checked": "2026-10-25"
+ },
+ "github:mister-devel/tamagotchi_mister": {
   "discord": null,
   "checked": "2026-10-25"
  },
@@ -2427,7 +2939,51 @@
   "discord": null,
   "checked": "2026-10-25"
  },
+ "github:mister-devel/ti-99_4a_mister": {
+  "discord": null,
+  "checked": "2026-10-25"
+ },
+ "github:mister-devel/tk2000_mister": {
+  "discord": null,
+  "checked": "2026-10-25"
+ },
+ "github:mister-devel/tomyscramble_mister": {
+  "discord": null,
+  "checked": "2026-10-25"
+ },
+ "github:mister-devel/tomytutor_mister": {
+  "discord": null,
+  "checked": "2026-10-25"
+ },
+ "github:mister-devel/trs-80_mister": {
+  "discord": null,
+  "checked": "2026-10-25"
+ },
+ "github:mister-devel/tsconf_mister": {
+  "discord": null,
+  "checked": "2026-10-25"
+ },
+ "github:mister-devel/turbografx16_mister": {
+  "discord": null,
+  "checked": "2026-10-25"
+ },
  "github:mister-devel/uk101_mister": {
+  "discord": null,
+  "checked": "2026-10-25"
+ },
+ "github:mister-devel/uknc_mister": {
+  "discord": null,
+  "checked": "2026-10-25"
+ },
+ "github:mister-devel/vc4000_mister": {
+  "discord": null,
+  "checked": "2026-10-25"
+ },
+ "github:mister-devel/vector-06c_mister": {
+  "discord": null,
+  "checked": "2026-10-25"
+ },
+ "github:mister-devel/vectrex_mister": {
   "discord": null,
   "checked": "2026-10-25"
  },
@@ -2435,7 +2991,31 @@
   "discord": null,
   "checked": "2026-10-25"
  },
+ "github:mister-devel/virtualboy_mister": {
+  "discord": null,
+  "checked": "2026-10-25"
+ },
+ "github:mister-devel/vt52_mister": {
+  "discord": null,
+  "checked": "2026-10-25"
+ },
+ "github:mister-devel/wonderswan_mister": {
+  "discord": null,
+  "checked": "2026-10-25"
+ },
  "github:mister-devel/x68000_mister": {
+  "discord": null,
+  "checked": "2026-10-25"
+ },
+ "github:mister-devel/zx-spectrum_mister": {
+  "discord": null,
+  "checked": "2026-10-25"
+ },
+ "github:mister-devel/zx81_mister": {
+  "discord": null,
+  "checked": "2026-10-25"
+ },
+ "github:mister-devel/zxnext_mister": {
   "discord": null,
   "checked": "2026-10-25"
  },
