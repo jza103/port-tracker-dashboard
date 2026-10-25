@@ -7,7 +7,8 @@ const PAGE = 60;
 const CATEGORY_ORDER = [
   'Nintendo 64', 'GameCube', 'Wii', 'Wii U', 'Nintendo Switch', 'SNES', 'NES', 'Game Boy', 'Game Boy Color',
   'Game Boy Advance', 'Nintendo DS', 'Nintendo 3DS', 'Virtual Boy', 'PlayStation', 'PlayStation 2', 'PlayStation 3',
-  'PlayStation 4', 'PlayStation Portable', 'Xbox', 'Xbox 360', 'Dreamcast', 'Sega Saturn', 'Mega Drive', 'Arcade',
+  'PlayStation 4', 'PlayStation 5', 'PlayStation Portable', 'Xbox', 'Xbox 360', 'Dreamcast', 'Sega Saturn', 'Mega Drive',
+  'Sega 32X', 'Game Gear', 'Philips CD-i', 'Arcade',
   'PC', 'Mobile', 'VR Ports', 'Tools & Recompilers', 'Other',
 ];
 // Extra choices under "Decomp" in the type filter: value -> [label, progress status].

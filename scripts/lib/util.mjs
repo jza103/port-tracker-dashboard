@@ -109,8 +109,8 @@ export function gameKey(game) {
     .replace(/\[[^\]]*\]/g, ' ')
     .replace(/&/g, ' and ')
     .replace(/^the\s+/, '')
-    .replace(/[^a-z0-9]+/g, ' ')
-    .trim();
+    // No spaces either, so "Spider-Man", "Spiderman" and "Spider Man" are one game.
+    .replace(/[^a-z0-9]+/g, '');
 }
 
 export function slugify(s) {

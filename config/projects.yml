@@ -63,6 +63,11 @@ projects:
   # --- PC VR mods ---
   - { repo: praydog/UEVR, name: UEVR, game: UEVR (any Unreal Engine game), categories: [ PC, VR Ports ], type: mod, tags: [ VR, PCVR ] }
   - { repo: praydog/REFramework, name: REFramework, game: REFramework (RE Engine games), categories: [ PC, VR Ports ], type: mod, tags: [ VR, PCVR ] }
+  - { repo: chortdev/DeadSpace2VR, name: DeadSpace2VR, game: Dead Space 2, categories: [ PC, VR Ports ], type: mod, tags: [ VR ] }
+
+  # --- Dead Space 2 (Xbox 360) ---
+  - { repo: bifftannen1/Dead-Space-2-Recomp, name: Dead Space 2 Recomp, game: Dead Space 2, category: Xbox 360, type: recompilation }
+  - { repo: VasilkovND/ds2-nx, name: ds2-nx (Nintendo Switch), game: Dead Space 2, category: Xbox 360, type: port }
 
   # --- Recompiler toolchains (new ports usually build on these) ---
   - { repo: N64Recomp/N64Recomp, name: N64Recomp, game: "N64: Recompiled (toolchain)", category: Tools & Recompilers, type: tool }

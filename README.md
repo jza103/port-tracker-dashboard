@@ -5,16 +5,19 @@ latest releases with direct download buttons, grouped by game and platform, plus
 outlets that cover the scene.
 
 - **Updates itself every 4 hours** on GitHub Actions and publishes to GitHub Pages (free for public repos).
-- **Finds new projects automatically** from two curated catalogs ([PortsDR](https://portsdr.com/)
-  for decomps/recomps, [QuestPorts](https://questports.vercel.app/) for Quest VR ports), from GitHub
-  links in news articles, and from GitHub searches.
+- **Finds new projects automatically** from four curated catalogs ([PortsDR](https://portsdr.com/)
+  and [Quiver Launcher](https://quiverlauncher.com/) for decomps/recomps/native ports,
+  [QuestPorts](https://questports.vercel.app/) for Quest VR ports, and the
+  [PCVR Mods Installer Hub](https://github.com/Mr-Nlce/PCVR-Mods-Installer-Hub) for PC VR mods of flat
+  games), from GitHub links in news articles and YouTube video descriptions, and from GitHub searches.
 - **Groups every project for the same game.** The most active/popular one is shown first, other
   active ones underneath, and the rest are folded away. Pin the one you prefer, hide the ones you don't want.
 - **Categories** by original platform (Nintendo 64, PlayStation 4, Xbox 360, …) plus *VR Ports* and
   *Tools & Recompilers*. VR ports appear both under VR Ports and under their game's platform.
 - **News** from ReadOnlyMemo, Time Extension, UploadVR, Road to VR, GamingOnLinux, Nintendo Life,
-  Push Square, Pure Xbox, PC Gamer, VGC, Retro Dodo, Google News and more, filtered for
-  decomp/recomp/port/VR-mod stories and linked to the games they mention.
+  Push Square, Pure Xbox, PC Gamer, VGC, Retro Dodo, Google News and more, plus YouTube channels
+  that cover flat-to-VR mods (Beardo Benjo, FastLawyer, NotAGameAddict, Gamertag VR, Flat2VR…),
+  filtered for decomp/recomp/port/VR-mod stories and linked to the games they mention.
 - Download buttons are labelled by platform (Windows, Linux, macOS, Quest APK…). The one matching
   the device you're browsing on is highlighted.
 - **On a Quest headset** the page opens on *VR Ports* with *Runs on Quest* ticked: ports built for
@@ -45,7 +48,8 @@ Your dashboard is then at `https://<your-username>.github.io/<repo>/`
 - [`config/projects.yml`](config/projects.yml) holds your hidden/pinned/followed lists, projects
   you add by hand, and overrides (e.g. fix a game name or category).
 - [`config/sources.yml`](config/sources.yml) holds the catalogs, news feeds, news keywords and
-  GitHub searches. Add an RSS feed there to follow another outlet.
+  GitHub searches. Add an RSS feed there to follow another outlet, or a YouTube channel with
+  `https://www.youtube.com/feeds/videos.xml?channel_id=UC…` and `video: true`.
 
 Every project's id is `owner/repo` for GitHub, `gitlab:owner/repo` for GitLab, or
 `<catalog>:<slug>` for catalog entries without a repo.

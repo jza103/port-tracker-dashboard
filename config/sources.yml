@@ -24,6 +24,16 @@ catalogs:
     type: questports
     url: https://questports.vercel.app/
     category: VR Ports        # added to every project from this catalog
+  - id: quiver
+    name: Quiver Launcher
+    type: quiver
+    url: https://quiverlauncher.com/
+  # PC VR mods for flat games (UEVR profiles, R.E.A.L., standalone mods...),
+  # read from the catalog file of the PCVR Mods Installer Hub.
+  - id: pcvrhub
+    name: PCVR Mods Hub
+    type: pcvrhub
+    url: https://github.com/Mr-Nlce/PCVR-Mods-Installer-Hub
 
 # News outlets. Articles must match one of the keywords below (unless
 # filter: all). GitHub links found in matching articles are followed
@@ -52,6 +62,16 @@ news:
     - rexglue
     - ps2recomp
     - opengoal
+  # Extra keywords for YouTube channels (feeds marked video: true). VR mods
+  # mostly show up on YouTube first, as "<game> in VR" videos.
+  videoKeywords:
+    - in (full |true |native |proper |real )?(6dof )?vr
+    - (to|into|for) vr
+    - vr (mods?|ports?|patch|conversion|version|update|support)
+    - r\.?e\.?a\.?l\.? ?vr
+    - luke ross
+    - praydog
+    - openxr
   feeds:
     - { name: ReadOnlyMemo, url: "https://readonlymemo.com/rss/", filter: all }
     - { name: Time Extension, url: "https://www.timeextension.com/feeds/latest" }
@@ -78,6 +98,22 @@ news:
     - name: Google News
       url: "https://news.google.com/rss/search?q=decompilation+OR+recompilation+OR+recompiled+OR+%22PC+port%22+OR+%22VR+port%22&hl=en-US&gl=US&ceid=US:en"
       aggregator: true        # links go through Google, so no GitHub links to find
+    # YouTube channels that cover flat-to-VR mods (the ones the PCVR Mods Hub links to most).
+    # Add one with its channel id: https://www.youtube.com/feeds/videos.xml?channel_id=UC...
+    - { name: "YouTube: FastLawyer", url: "https://www.youtube.com/feeds/videos.xml?channel_id=UCNHn42ncYuWLuHlTx3rbtaw", video: true }
+    - { name: "YouTube: NotAGameAddict", url: "https://www.youtube.com/feeds/videos.xml?channel_id=UCNcBH2GInq1H85Jak7fAE2w", video: true }
+    - { name: "YouTube: Astien", url: "https://www.youtube.com/feeds/videos.xml?channel_id=UCUfTOy3vodznuznvS42KVTw", video: true }
+    - { name: "YouTube: Beardo Benjo", url: "https://www.youtube.com/feeds/videos.xml?channel_id=UCSzUG-hFZgaKpYA6w2WS8sQ", video: true }
+    - { name: "YouTube: Paradise Decay", url: "https://www.youtube.com/feeds/videos.xml?channel_id=UCFuXMN42K2upumQHKiWZ_aQ", video: true }
+    - { name: "YouTube: Gamertag VR", url: "https://www.youtube.com/feeds/videos.xml?channel_id=UCnrAvt4i_2WV3yEKWyEUMlg", video: true }
+    - { name: "YouTube: Flat2VR", url: "https://www.youtube.com/feeds/videos.xml?channel_id=UCV672VVSOW1SpW_sxXUsAkA", video: true }
+    - { name: "YouTube: ReaperzVR", url: "https://www.youtube.com/feeds/videos.xml?channel_id=UCiLnS16tuURIvKDpABz_WwQ", video: true }
+    - { name: "YouTube: TheReclusiveGamer", url: "https://www.youtube.com/feeds/videos.xml?channel_id=UCyFTZ02NqU2Wf_PYxZurgXg", video: true }
+    - { name: "YouTube: VRified Games", url: "https://www.youtube.com/feeds/videos.xml?channel_id=UC980GIIFgzq2ebNtLgTZSEA", video: true }
+    - { name: "YouTube: LunchAndVR", url: "https://www.youtube.com/feeds/videos.xml?channel_id=UC8tplOWtG6qp1KUId07rFNw", video: true }
+    - { name: "YouTube: Under The VRadar", url: "https://www.youtube.com/feeds/videos.xml?channel_id=UCK-jMGdILnnoR4wfYyOHhqA", video: true }
+    - { name: "YouTube: VR DaD", url: "https://www.youtube.com/feeds/videos.xml?channel_id=UCk3kCEYhdR6mJX1wsaYPsOw", video: true }
+    - { name: "YouTube: Game Or Die", url: "https://www.youtube.com/feeds/videos.xml?channel_id=UCof_m8mEUuoqkgs3F_qzfSg", video: true }
     # Reddit blocks most cloud servers. Uncomment if you run the updater at home.
     # - { name: r/emulation, url: "https://www.reddit.com/r/emulation/.rss" }
 
@@ -98,3 +134,10 @@ discovery:
     - PS2Recomp in:readme stars:>20
     - topic:quest topic:vr stars:>40 port
     - topic:openxr port stars:>40
+    - topic:vr-mod stars:>15
+    - topic:uevr stars:>15
+    - topic:flat2vr stars:>10
+    - '"VR mod" in:description stars:>30'
+    - topic:openxr mod stars:>30
+    - '"static recompilation" in:description stars:>30'
+    - recomp in:name stars:>40

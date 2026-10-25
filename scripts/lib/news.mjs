@@ -32,7 +32,9 @@ export function parseFeed(xml) {
   const items = Array.isArray(rawItems) ? rawItems : [rawItems];
   return items.map((it) => {
     const content = txt(it['content:encoded']) || txt(it.content) || '';
-    const summary = txt(it.description) || txt(it.summary) || '';
+    // YouTube keeps the description and thumbnail under <media:group>.
+    const media = it['media:group'] || {};
+    const summary = txt(it.description) || txt(it.summary) || txt(media['media:description']) || '';
     const date = txt(it.pubDate) || txt(it.published) || txt(it.updated) || txt(it['dc:date']);
     const parsed = Date.parse(date);
     return {
@@ -42,7 +44,7 @@ export function parseFeed(xml) {
       summary: stripHtml(summary).slice(0, 400),
       html: content || summary,
       outlet: txt(it.source) || '',
-      image: it['media:content']?.['@_url'] || it['media:thumbnail']?.['@_url'] || it.enclosure?.['@_url'] || null,
+      image: it['media:content']?.['@_url'] || it['media:thumbnail']?.['@_url'] || media['media:thumbnail']?.['@_url'] || it.enclosure?.['@_url'] || null,
     };
   }).filter((a) => a.title && a.url);
 }
@@ -73,10 +75,14 @@ export async function loadNews(newsCfg, knownUrls) {
     try {
       const xml = await fetchText(feed.url, { headers: { Accept: 'application/rss+xml, application/atom+xml, application/xml, text/xml, */*' } });
       const items = parseFeed(xml);
+      // Video channels (video: true) also match videoKeywords, e.g. "in VR";
+      // any feed can add its own keywords too.
+      const extra = [...(feed.keywords || []), ...(feed.video ? newsCfg.videoKeywords || [] : [])];
+      const feedKw = extra.length ? keywordRegex(extra) : null;
       let kept = 0;
       for (const a of items) {
         const text = `${a.title} ${stripHtml(a.html).slice(0, 3000)}`;
-        if (feed.filter !== 'all' && !kw.test(text)) continue;
+        if (feed.filter !== 'all' && !kw.test(text) && !feedKw?.test(text)) continue;
         kept++;
         // Google News titles end in " - Outlet".
         if (feed.aggregator && a.outlet && a.title.endsWith(` - ${a.outlet}`)) a.title = a.title.slice(0, -(a.outlet.length + 3));
@@ -98,7 +104,8 @@ export async function loadNews(newsCfg, knownUrls) {
   });
 
   // For new articles, open the page itself to find repo links the feed left out.
-  const fresh = articles.filter((a) => !a.aggregator && !knownUrls.has(a.url)).slice(0, 30);
+  // Video pages are skipped: their feed already has the whole description.
+  const fresh = articles.filter((a) => !a.aggregator && !knownUrls.has(a.url) && !/youtube\.com|youtu\.be/i.test(a.url)).slice(0, 30);
   await mapLimit(fresh, 5, async (a) => {
     try {
       const html = await fetchText(a.url, {}, { retries: 1, timeout: 20000 });

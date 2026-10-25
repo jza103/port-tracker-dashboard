@@ -147,7 +147,7 @@ const catalogStatus = [];
 
 const catalogResults = await Promise.all((sources.catalogs || []).map(async (cat) => {
   try {
-    const list = await loadCatalog(cat);
+    const list = await loadCatalog(cat, catalogCache[cat.id]?.projects);
     const unchanged = JSON.stringify(catalogCache[cat.id]?.projects) === JSON.stringify(list);
     catalogCache[cat.id] = { updatedAt: unchanged ? catalogCache[cat.id].updatedAt : nowIso, projects: list };
     catalogStatus.push({ name: cat.name, url: cat.url, ok: true, count: list.length });
@@ -361,7 +361,8 @@ const byCanonical = new Map();
 const out = [];
 for (const proj of projects.values()) {
   const ri = proj.repo ? info.get(repoKey(proj.repo)) : null;
-  if (ri && !ri.error && ri.canonical && !proj.tagPattern) {
+  // Ids with "#" are one game of a repo that serves several (UEVR, shared release repos): keep each.
+  if (ri && !ri.error && ri.canonical && !proj.tagPattern && !proj.id.includes('#')) {
     // Renamed/moved repos can show up under two names: keep one.
     const canon = `${proj.repo.host}:${ri.canonical.toLowerCase()}`;
     const dupe = byCanonical.get(canon);
@@ -374,7 +375,8 @@ for (const proj of projects.values()) {
 
   registry.firstSeen[proj.id] ||= nowIso;
   const { release, stable } = ri && !ri.error ? pickReleases(ri.releases, ri.latestStable, proj.tagPattern) : {};
-  const lastActivity = [ri?.pushedAt, release?.date].filter(Boolean).sort().pop() || null;
+  // Catalogs without a repo may still say when the mod last had a release.
+  const lastActivity = [ri?.pushedAt, release?.date, proj.catalogDate].filter(Boolean).sort().pop() || null;
   const links = (proj.links || []).map((l) => ({ ...l }));
   if (ri?.homepage && !/github\.com|gitlab\.com/.test(ri.homepage) && !links.some((l) => l.url === ri.homepage)) {
     links.unshift({ label: 'Website', url: ri.homepage });
