@@ -24343,7 +24343,7 @@
   ]
  },
  "quiver": {
-  "updatedAt": "2026-10-25T15:56:57.670Z",
+  "updatedAt": "2026-10-25T16:05:25.452Z",
   "projects": [
    {
     "id": "1oom-fork/1oom",
@@ -27989,7 +27989,8 @@
     "description": "Darkwatch: Darker Edition is a Windows PC port of the Xbox game Darkwatch with native Direct3D 12 rendering and optional restored HD menus.",
     "developer": "linkssy2",
     "targets": [
-     "Windows"
+     "Windows",
+     "Linux"
     ],
     "catalogVersion": "v0.5.5",
     "links": [
