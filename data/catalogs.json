@@ -10199,7 +10199,7 @@
   ]
  },
  "pcvrhub": {
-  "updatedAt": "2026-10-25T15:36:27.479Z",
+  "updatedAt": "2026-10-25T19:08:26.092Z",
   "projects": [
    {
     "id": "gameordie007/a-kingdom-for-keflings-vr",
@@ -10433,13 +10433,13 @@
      "VR"
     ],
     "repo": null,
-    "description": "Sclerosis v1.8.16 · motion controls · itch.io download required",
+    "description": "Sclerosis v1.10.7 · motion controls · itch.io download required",
     "developer": "CreaTeam",
     "status": "",
     "targets": [
      "PC VR"
     ],
-    "catalogVersion": "v1.8.16",
+    "catalogVersion": "v1.10.7",
     "catalogDate": "",
     "links": [
      {
@@ -11688,6 +11688,48 @@
      }
     ],
     "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/205100/library_600x900.jpg",
+    "sources": [
+     "pcvrhub"
+    ]
+   },
+   {
+    "id": "thecosmictangerine-cloud/dishonored-2-vr",
+    "aliases": [
+     "pcvrhub:dishonored-2-vr"
+    ],
+    "name": "Dishonored 2 VR",
+    "game": "Dishonored 2",
+    "categories": [
+     "PC",
+     "VR Ports"
+    ],
+    "type": "mod",
+    "tags": [
+     "VR"
+    ],
+    "repo": {
+     "host": "github",
+     "path": "thecosmictangerine-cloud/dishonored-2-vr"
+    },
+    "description": "Dishonored 2 VR · motion controls · Steam 1.77.9.0; OpenXR",
+    "developer": "The Cosmic Tangerine",
+    "status": "In development",
+    "targets": [
+     "PC VR"
+    ],
+    "catalogVersion": "",
+    "catalogDate": "2026-10-19",
+    "links": [
+     {
+      "label": "Video",
+      "url": "https://youtu.be/29cmGRrJEmU?t=29"
+     },
+     {
+      "label": "PCVR Hub",
+      "url": "https://github.com/Mr-Nlce/PCVR-Mods-Installer-Hub"
+     }
+    ],
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/403640/library_600x900.jpg",
     "sources": [
      "pcvrhub"
     ]
@@ -13224,7 +13266,7 @@
      "host": "github",
      "path": "Mavic-Pro/SpecOpsTheLineVR"
     },
-    "description": "SpecOpsVR · motion controls · Steam build only; SteamVR",
+    "description": "SpecOpsVR · motion controls · Steam only; OpenXR/SteamVR",
     "developer": "Mavic-Pro",
     "status": "In development",
     "targets": [
@@ -17569,6 +17611,90 @@
     ]
    },
    {
+    "id": "nikamigaming-create/brutallegendvr",
+    "aliases": [
+     "pcvrhub:brutal-legend-vr"
+    ],
+    "name": "Brütal Legend VR",
+    "game": "Brütal Legend",
+    "categories": [
+     "PC",
+     "VR Ports"
+    ],
+    "type": "mod",
+    "tags": [
+     "VR"
+    ],
+    "repo": {
+     "host": "github",
+     "path": "nikamigaming-create/BrutalLegendVR"
+    },
+    "description": "BrutalLegendVR · motion controls · Steam build only; OpenXR",
+    "developer": "Nikami",
+    "status": "In development",
+    "targets": [
+     "PC VR"
+    ],
+    "catalogVersion": "",
+    "catalogDate": "",
+    "links": [
+     {
+      "label": "Video",
+      "url": "https://youtu.be/gIHLtacF2LU?t=312"
+     },
+     {
+      "label": "PCVR Hub",
+      "url": "https://github.com/Mr-Nlce/PCVR-Mods-Installer-Hub"
+     }
+    ],
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/225260/library_600x900.jpg",
+    "sources": [
+     "pcvrhub"
+    ]
+   },
+   {
+    "id": "braxusx/farcry2vr",
+    "aliases": [
+     "pcvrhub:far-cry-2-vr"
+    ],
+    "name": "Far Cry 2 VR",
+    "game": "Far Cry 2",
+    "categories": [
+     "PC",
+     "VR Ports"
+    ],
+    "type": "mod",
+    "tags": [
+     "VR"
+    ],
+    "repo": {
+     "host": "github",
+     "path": "Braxusx/FarCry2VR"
+    },
+    "description": "FarCry2VR · motion controls · Steam/GOG; DirectX 10",
+    "developer": "Braxus",
+    "status": "",
+    "targets": [
+     "PC VR"
+    ],
+    "catalogVersion": "",
+    "catalogDate": "2026-10-22",
+    "links": [
+     {
+      "label": "Video",
+      "url": "https://youtu.be/A6KRiAZvj8I?t=7"
+     },
+     {
+      "label": "PCVR Hub",
+      "url": "https://github.com/Mr-Nlce/PCVR-Mods-Installer-Hub"
+     }
+    ],
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/19900/library_600x900.jpg",
+    "sources": [
+     "pcvrhub"
+    ]
+   },
+   {
     "id": "gameordie007/forsaken-vr",
     "aliases": [
      "pcvrhub:forsaken-vr"
@@ -17606,6 +17732,430 @@
      }
     ],
     "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/668980/library_600x900.jpg",
+    "sources": [
+     "pcvrhub"
+    ]
+   },
+   {
+    "id": "rubocopter/call_of_juarez_vr",
+    "aliases": [
+     "pcvrhub:call-of-juarez-vr"
+    ],
+    "name": "Call of Juarez VR",
+    "game": "Call of Juarez",
+    "categories": [
+     "PC",
+     "VR Ports"
+    ],
+    "type": "mod",
+    "tags": [
+     "VR"
+    ],
+    "repo": {
+     "host": "github",
+     "path": "rubocopter/call_of_juarez_vr"
+    },
+    "description": "CoJ VR · motion controls · Steam D3D9 only; SteamVR",
+    "developer": "rubocopter",
+    "status": "In development",
+    "targets": [
+     "PC VR"
+    ],
+    "catalogVersion": "",
+    "catalogDate": "",
+    "links": [
+     {
+      "label": "Video",
+      "url": "https://www.youtube.com/watch?v=LPieKcmw3-k"
+     },
+     {
+      "label": "PCVR Hub",
+      "url": "https://github.com/Mr-Nlce/PCVR-Mods-Installer-Hub"
+     }
+    ],
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/3020/library_600x900.jpg",
+    "sources": [
+     "pcvrhub"
+    ]
+   },
+   {
+    "id": "lovemakerz/dungeon-keeper-2-vr-mod",
+    "aliases": [
+     "pcvrhub:dungeon-keeper-2-vr"
+    ],
+    "name": "Dungeon Keeper 2 VR",
+    "game": "Dungeon Keeper 2",
+    "categories": [
+     "PC",
+     "VR Ports"
+    ],
+    "type": "mod",
+    "tags": [
+     "VR"
+    ],
+    "repo": {
+     "host": "github",
+     "path": "lovemakerz/Dungeon-Keeper-2-VR-MOD"
+    },
+    "description": "DK2VR · motion controls · Original game v1.70; OpenXR",
+    "developer": "LoVeMaKeRz",
+    "status": "",
+    "targets": [
+     "PC VR"
+    ],
+    "catalogVersion": "",
+    "catalogDate": "",
+    "links": [
+     {
+      "label": "Video",
+      "url": "https://youtu.be/0tBOKbF9qJE?t=58"
+     },
+     {
+      "label": "PCVR Hub",
+      "url": "https://github.com/Mr-Nlce/PCVR-Mods-Installer-Hub"
+     }
+    ],
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/2616460/library_600x900.jpg",
+    "sources": [
+     "pcvrhub"
+    ]
+   },
+   {
+    "id": "lambda-gab/cod1-vr",
+    "aliases": [
+     "pcvrhub:call-of-duty-2003-vr"
+    ],
+    "name": "Call of Duty (2003) VR",
+    "game": "Call of Duty",
+    "categories": [
+     "PC",
+     "VR Ports"
+    ],
+    "type": "mod",
+    "tags": [
+     "VR"
+    ],
+    "repo": {
+     "host": "github",
+     "path": "lambda-gab/cod1-vr"
+    },
+    "description": "CoD VR · motion controls · Solo v1.5; 32-bit OpenXR",
+    "developer": "lambda-gab",
+    "status": "In development",
+    "targets": [
+     "PC VR"
+    ],
+    "catalogVersion": "",
+    "catalogDate": "2026-10-22",
+    "links": [
+     {
+      "label": "Video",
+      "url": "https://youtu.be/_xm2VC8xaXM?t=2"
+     },
+     {
+      "label": "PCVR Hub",
+      "url": "https://github.com/Mr-Nlce/PCVR-Mods-Installer-Hub"
+     }
+    ],
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/2620/library_600x900.jpg",
+    "sources": [
+     "pcvrhub"
+    ]
+   },
+   {
+    "id": "aeka0/overlord",
+    "aliases": [
+     "pcvrhub:modern-warfare-2-campaign-remastered-vr"
+    ],
+    "name": "Call of Duty: Modern Warfare 2 Campaign Remastered VR",
+    "game": "Call of Duty: ModernnWarfare 2 Remastered",
+    "categories": [
+     "PC",
+     "VR Ports"
+    ],
+    "type": "mod",
+    "tags": [
+     "VR"
+    ],
+    "repo": {
+     "host": "github",
+     "path": "Aeka0/Overlord"
+    },
+    "description": "Overlord · motion controls · Battle.net campaign; OpenXR",
+    "developer": "Aeka0",
+    "status": "In development",
+    "targets": [
+     "PC VR"
+    ],
+    "catalogVersion": "",
+    "catalogDate": "2026-10-13",
+    "links": [
+     {
+      "label": "Video",
+      "url": "https://youtu.be/poRsUu-4n1I?t=10"
+     },
+     {
+      "label": "PCVR Hub",
+      "url": "https://github.com/Mr-Nlce/PCVR-Mods-Installer-Hub"
+     }
+    ],
+    "image": null,
+    "sources": [
+     "pcvrhub"
+    ]
+   },
+   {
+    "id": "king-ej/rustler-vr",
+    "aliases": [
+     "pcvrhub:rustler-vr"
+    ],
+    "name": "Rustler VR",
+    "game": "Rustler",
+    "categories": [
+     "PC",
+     "VR Ports"
+    ],
+    "type": "mod",
+    "tags": [
+     "VR"
+    ],
+    "repo": {
+     "host": "github",
+     "path": "King-EJ/Rustler-VR"
+    },
+    "description": "Rustler VR · motion controls · Official download; OpenXR",
+    "developer": "King-EJ",
+    "status": "In development",
+    "targets": [
+     "PC VR"
+    ],
+    "catalogVersion": "",
+    "catalogDate": "",
+    "links": [
+     {
+      "label": "Video",
+      "url": "https://www.youtube.com/watch?v=ydHB8gqxOds"
+     },
+     {
+      "label": "PCVR Hub",
+      "url": "https://github.com/Mr-Nlce/PCVR-Mods-Installer-Hub"
+     }
+    ],
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/844260/library_600x900.jpg",
+    "sources": [
+     "pcvrhub"
+    ]
+   },
+   {
+    "id": "momotori01/enshrouded-vr-mod",
+    "aliases": [
+     "pcvrhub:enshrouded-vr"
+    ],
+    "name": "Enshrouded VR",
+    "game": "Enshrouded",
+    "categories": [
+     "PC",
+     "VR Ports"
+    ],
+    "type": "mod",
+    "tags": [
+     "VR"
+    ],
+    "repo": {
+     "host": "github",
+     "path": "momotori01/ENSHROUDED-VR-MOD"
+    },
+    "description": "Enshrouded VR (launcher-update) · motion controls · Steam, OpenXR",
+    "developer": "momotori01",
+    "status": "In development",
+    "targets": [
+     "PC VR"
+    ],
+    "catalogVersion": "",
+    "catalogDate": "2026-10-22",
+    "links": [
+     {
+      "label": "Video",
+      "url": "https://www.youtube.com/watch?v=my_yKx7H3IU"
+     },
+     {
+      "label": "PCVR Hub",
+      "url": "https://github.com/Mr-Nlce/PCVR-Mods-Installer-Hub"
+     }
+    ],
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1203620/library_600x900.jpg",
+    "sources": [
+     "pcvrhub"
+    ]
+   },
+   {
+    "id": "atrblizzard/vtmb-vr",
+    "aliases": [
+     "pcvrhub:vampire-bloodlines-vr"
+    ],
+    "name": "Vampire: The Masquerade - Bloodlines VR",
+    "game": "Vampire: MasqueradenBloodlines",
+    "categories": [
+     "PC",
+     "VR Ports"
+    ],
+    "type": "mod",
+    "tags": [
+     "VR"
+    ],
+    "repo": {
+     "host": "github",
+     "path": "atrblizzard/vtmb-vr"
+    },
+    "description": "Bloodlines VR · motion controls · WIP; Unofficial Patch 11.5",
+    "developer": "atrblizzard",
+    "status": "In development",
+    "targets": [
+     "PC VR"
+    ],
+    "catalogVersion": "",
+    "catalogDate": "2026-10-22",
+    "links": [
+     {
+      "label": "vtmbvr.atrblizzard.com",
+      "url": "https://vtmbvr.atrblizzard.com/"
+     },
+     {
+      "label": "Video",
+      "url": "https://www.youtube.com/watch?v=Y_I8SJB4ISU"
+     },
+     {
+      "label": "PCVR Hub",
+      "url": "https://github.com/Mr-Nlce/PCVR-Mods-Installer-Hub"
+     }
+    ],
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/2600/library_600x900.jpg",
+    "sources": [
+     "pcvrhub"
+    ]
+   },
+   {
+    "id": "segadreamcat/vampirehuntersvr",
+    "aliases": [
+     "pcvrhub:vampire-hunters-vr"
+    ],
+    "name": "Vampire Hunters VR",
+    "game": "Vampire Hunters",
+    "categories": [
+     "PC",
+     "VR Ports"
+    ],
+    "type": "mod",
+    "tags": [
+     "VR"
+    ],
+    "repo": {
+     "host": "github",
+     "path": "segadreamcat/VampireHuntersVR"
+    },
+    "description": "Vampire Hunters VR · motion controls · Steam, OpenVR",
+    "developer": "segadreamcat",
+    "status": "In development",
+    "targets": [
+     "PC VR"
+    ],
+    "catalogVersion": "",
+    "catalogDate": "2026-10-22",
+    "links": [
+     {
+      "label": "Video",
+      "url": "https://www.youtube.com/watch?v=RhngOA8oRsI"
+     },
+     {
+      "label": "PCVR Hub",
+      "url": "https://github.com/Mr-Nlce/PCVR-Mods-Installer-Hub"
+     }
+    ],
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/2206270/library_600x900.jpg",
+    "sources": [
+     "pcvrhub"
+    ]
+   },
+   {
+    "id": "andreystashev/hitman-blood-money-vr-showcase",
+    "aliases": [
+     "pcvrhub:hitman-blood-money-vr"
+    ],
+    "name": "Hitman: Blood Money VR",
+    "game": "Hitman: Blood Money",
+    "categories": [
+     "PC",
+     "VR Ports"
+    ],
+    "type": "mod",
+    "tags": [
+     "VR"
+    ],
+    "repo": {
+     "host": "github",
+     "path": "andreystashev/hitman-blood-money-vr-showcase"
+    },
+    "description": "Blood Money VR · motion controls · Alpha; separate VR runtime",
+    "developer": "andreystashev",
+    "status": "In development",
+    "targets": [
+     "PC VR"
+    ],
+    "catalogVersion": "",
+    "catalogDate": "2026-10-22",
+    "links": [
+     {
+      "label": "Video",
+      "url": "https://youtu.be/SqO7tFqEDGA?t=24"
+     },
+     {
+      "label": "PCVR Hub",
+      "url": "https://github.com/Mr-Nlce/PCVR-Mods-Installer-Hub"
+     }
+    ],
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/6860/library_600x900.jpg",
+    "sources": [
+     "pcvrhub"
+    ]
+   },
+   {
+    "id": "sqofer/mirror-s-edge-catalyst-vr",
+    "aliases": [
+     "pcvrhub:mirrors-edge-catalyst-vr"
+    ],
+    "name": "Mirror's Edge Catalyst VR",
+    "game": "Mirror's Edge Catalyst",
+    "categories": [
+     "PC",
+     "VR Ports"
+    ],
+    "type": "mod",
+    "tags": [
+     "VR"
+    ],
+    "repo": {
+     "host": "github",
+     "path": "sqofer/Mirror-s-Edge-Catalyst-VR"
+    },
+    "description": "Catalyst VR · gamepad · Gamepad; exact game build",
+    "developer": "sqofer",
+    "status": "In development",
+    "targets": [
+     "PC VR"
+    ],
+    "catalogVersion": "",
+    "catalogDate": "",
+    "links": [
+     {
+      "label": "Video",
+      "url": "https://youtu.be/oV-Qh79J0Sc?t=5"
+     },
+     {
+      "label": "PCVR Hub",
+      "url": "https://github.com/Mr-Nlce/PCVR-Mods-Installer-Hub"
+     }
+    ],
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1233570/library_600x900.jpg",
     "sources": [
      "pcvrhub"
     ]
@@ -17686,7 +18236,7 @@
      },
      {
       "label": "Video",
-      "url": "https://youtu.be/0RpTykaCVNQ?t=2789"
+      "url": "https://www.youtube.com/watch?v=Lx8D8wnEiyE"
      },
      {
       "label": "PCVR Hub",
@@ -18980,7 +19530,7 @@
     "links": [
      {
       "label": "Patreon",
-      "url": "https://www.patreon.com/LukeRoss"
+      "url": "https://www.patreon.com/realvr"
      },
      {
       "label": "Video",
@@ -19335,6 +19885,250 @@
      }
     ],
     "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1462040/library_600x900.jpg",
+    "sources": [
+     "pcvrhub"
+    ]
+   },
+   {
+    "id": "drowhunter/codiesvr#grid-2019-vr",
+    "aliases": [
+     "pcvrhub:grid-2019-vr"
+    ],
+    "name": "GRID (2019) VR",
+    "game": "GRID (2019)",
+    "categories": [
+     "PC",
+     "VR Ports"
+    ],
+    "type": "mod",
+    "tags": [
+     "VR"
+    ],
+    "repo": {
+     "host": "github",
+     "path": "drowhunter/CodiesVR"
+    },
+    "description": "CodiesVR · gamepad · Steam DX12; cockpit VR",
+    "developer": "drowhunter",
+    "status": "",
+    "targets": [
+     "PC VR"
+    ],
+    "catalogVersion": "",
+    "catalogDate": "2026-10-15",
+    "links": [
+     {
+      "label": "Video",
+      "url": "https://youtu.be/aMSJbJNCI8s?t=64"
+     },
+     {
+      "label": "PCVR Hub",
+      "url": "https://github.com/Mr-Nlce/PCVR-Mods-Installer-Hub"
+     }
+    ],
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/703860/library_600x900.jpg",
+    "sources": [
+     "pcvrhub"
+    ]
+   },
+   {
+    "id": "drowhunter/codiesvr#grid-legends-vr",
+    "aliases": [
+     "pcvrhub:grid-legends-vr"
+    ],
+    "name": "GRID Legends VR",
+    "game": "GRID Legends",
+    "categories": [
+     "PC",
+     "VR Ports"
+    ],
+    "type": "mod",
+    "tags": [
+     "VR"
+    ],
+    "repo": {
+     "host": "github",
+     "path": "drowhunter/CodiesVR"
+    },
+    "description": "CodiesVR · gamepad · Steam / EA; cockpit VR",
+    "developer": "drowhunter",
+    "status": "",
+    "targets": [
+     "PC VR"
+    ],
+    "catalogVersion": "",
+    "catalogDate": "2026-10-21",
+    "links": [
+     {
+      "label": "Video",
+      "url": "https://youtu.be/0qrRPZz_6jI?t=89"
+     },
+     {
+      "label": "PCVR Hub",
+      "url": "https://github.com/Mr-Nlce/PCVR-Mods-Installer-Hub"
+     }
+    ],
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1307710/library_600x900.jpg",
+    "sources": [
+     "pcvrhub"
+    ]
+   },
+   {
+    "id": "drowhunter/codiesvr#dirt-4-vr",
+    "aliases": [
+     "pcvrhub:dirt-4-vr"
+    ],
+    "name": "DiRT 4 VR",
+    "game": "DiRT 4",
+    "categories": [
+     "PC",
+     "VR Ports"
+    ],
+    "type": "mod",
+    "tags": [
+     "VR"
+    ],
+    "repo": {
+     "host": "github",
+     "path": "drowhunter/CodiesVR"
+    },
+    "description": "CodiesVR · gamepad · Steam; rally cockpit VR",
+    "developer": "drowhunter",
+    "status": "In development",
+    "targets": [
+     "PC VR"
+    ],
+    "catalogVersion": "",
+    "catalogDate": "2026-10-15",
+    "links": [
+     {
+      "label": "Video",
+      "url": "https://youtu.be/APjg4B4Lhuk?t=30"
+     },
+     {
+      "label": "PCVR Hub",
+      "url": "https://github.com/Mr-Nlce/PCVR-Mods-Installer-Hub"
+     }
+    ],
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/421020/library_600x900.jpg",
+    "sources": [
+     "pcvrhub"
+    ]
+   },
+   {
+    "id": "grayhorizon-mod/forza-horizon-vr#forza-horizon-4-grayhorizon-vr",
+    "aliases": [
+     "pcvrhub:forza-horizon-4-grayhorizon-vr"
+    ],
+    "name": "Forza Horizon 4 VR - GrayHorizon",
+    "game": "Forza Horizon 4",
+    "categories": [
+     "PC",
+     "VR Ports"
+    ],
+    "type": "mod",
+    "tags": [
+     "VR"
+    ],
+    "repo": {
+     "host": "github",
+     "path": "GrayHorizon-mod/Forza-Horizon-VR"
+    },
+    "description": "GrayHorizon · gamepad · Cockpit VR; tester wanted",
+    "developer": "GrayHorizon",
+    "status": "",
+    "targets": [
+     "PC VR"
+    ],
+    "catalogVersion": "",
+    "catalogDate": "2026-10-22",
+    "links": [
+     {
+      "label": "Video",
+      "url": "https://youtu.be/jfiIcK8s7xE?t=135"
+     },
+     {
+      "label": "PCVR Hub",
+      "url": "https://github.com/Mr-Nlce/PCVR-Mods-Installer-Hub"
+     }
+    ],
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1293830/library_600x900.jpg",
+    "sources": [
+     "pcvrhub"
+    ]
+   },
+   {
+    "id": "grayhorizon-mod/forza-horizon-vr#forza-horizon-5-grayhorizon-vr",
+    "aliases": [
+     "pcvrhub:forza-horizon-5-grayhorizon-vr"
+    ],
+    "name": "Forza Horizon 5 VR - GrayHorizon",
+    "game": "Forza Horizon 5",
+    "categories": [
+     "PC",
+     "VR Ports"
+    ],
+    "type": "mod",
+    "tags": [
+     "VR"
+    ],
+    "repo": {
+     "host": "github",
+     "path": "GrayHorizon-mod/Forza-Horizon-VR"
+    },
+    "description": "GrayHorizon · gamepad · Cockpit VR; tester wanted",
+    "developer": "GrayHorizon",
+    "status": "",
+    "targets": [
+     "PC VR"
+    ],
+    "catalogVersion": "",
+    "catalogDate": "2026-10-22",
+    "links": [
+     {
+      "label": "PCVR Hub",
+      "url": "https://github.com/Mr-Nlce/PCVR-Mods-Installer-Hub"
+     }
+    ],
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1551360/library_600x900.jpg",
+    "sources": [
+     "pcvrhub"
+    ]
+   },
+   {
+    "id": "grayhorizon-mod/forza-horizon-vr#forza-horizon-6-grayhorizon-vr",
+    "aliases": [
+     "pcvrhub:forza-horizon-6-grayhorizon-vr"
+    ],
+    "name": "Forza Horizon 6 VR - GrayHorizon",
+    "game": "Forza Horizon 6",
+    "categories": [
+     "PC",
+     "VR Ports"
+    ],
+    "type": "mod",
+    "tags": [
+     "VR"
+    ],
+    "repo": {
+     "host": "github",
+     "path": "GrayHorizon-mod/Forza-Horizon-VR"
+    },
+    "description": "GrayHorizon · gamepad · Cockpit VR; tester wanted",
+    "developer": "GrayHorizon",
+    "status": "",
+    "targets": [
+     "PC VR"
+    ],
+    "catalogVersion": "",
+    "catalogDate": "2026-10-22",
+    "links": [
+     {
+      "label": "PCVR Hub",
+      "url": "https://github.com/Mr-Nlce/PCVR-Mods-Installer-Hub"
+     }
+    ],
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/2483190/library_600x900.jpg",
     "sources": [
      "pcvrhub"
     ]
@@ -20913,7 +21707,7 @@
     ]
    },
    {
-    "id": "pcvrhub:outlast-vr",
+    "id": "strikezonevr-hub/outlastvr",
     "aliases": [
      "pcvrhub:outlast-vr"
     ],
@@ -20927,10 +21721,13 @@
     "tags": [
      "VR"
     ],
-    "repo": null,
-    "description": "Halcyon + Insanity Engine · motion controls or gamepad · Two mods, switchable",
-    "developer": "Halcyon / T-Diamond",
-    "status": "",
+    "repo": {
+     "host": "github",
+     "path": "StrikeZoneVR-hub/OutlastVR"
+    },
+    "description": "3 VR mods · motion controls or gamepad · Three mods, switchable",
+    "developer": "Halcyon / T-Diamond / StrikeZoneVR",
+    "status": "In development",
     "targets": [
      "PC VR"
     ],
@@ -22557,7 +23354,7 @@
      "VR"
     ],
     "repo": null,
-    "description": "Unmourned_VR v1.0.0 · Discord login required",
+    "description": "Unmourned_VR v1.0.0 · Legacy; saved ZIP required",
     "developer": "Astienth",
     "status": "",
     "targets": [
@@ -23811,13 +24608,13 @@
      "VR"
     ],
     "repo": null,
-    "description": "RE4VR 2.1.5 (one setup) · motion controls · Fresh Steam install required",
+    "description": "RE4VR 2.1.6 (one setup) · motion controls · Fresh Steam install required",
     "developer": "praydog + Talemann",
     "status": "",
     "targets": [
      "PC VR"
     ],
-    "catalogVersion": "2.1.5",
+    "catalogVersion": "2.1.6",
     "catalogDate": "",
     "links": [
      {
@@ -23826,7 +24623,7 @@
      },
      {
       "label": "biohazardvr.com",
-      "url": "https://biohazardvr.com/downloads/click.php?id=RE4VR_2.1.5_Setup.exe"
+      "url": "https://biohazardvr.com/downloads/click.php?id=RE4VR_2.1.6_Setup.exe"
      },
      {
       "label": "Video",
@@ -24343,7 +25140,7 @@
   ]
  },
  "quiver": {
-  "updatedAt": "2026-10-25T16:05:25.452Z",
+  "updatedAt": "2026-10-25T19:08:26.092Z",
   "projects": [
    {
     "id": "1oom-fork/1oom",
@@ -26249,7 +27046,7 @@
     "targets": [
      "Linux"
     ],
-    "catalogVersion": "test-issue25-2",
+    "catalogVersion": "0.51-linux.17",
     "links": [
      {
       "label": "Quiver",
@@ -26406,7 +27203,7 @@
      "path": "blue-nebula/base"
     },
     "description": "Blue Nebula is a fast-paced shooter featuring a unique parkour system. It is a fork of Red Eclipse and is free/libre open-source software.",
-    "developer": "blue-nebula",
+    "developer": "Blue Nebula",
     "targets": [
      "macOS",
      "Windows",
@@ -27598,7 +28395,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "v0.6.1",
+    "catalogVersion": "v0.6.2",
     "links": [
      {
       "label": "Quiver",
@@ -27992,7 +28789,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "v0.5.5",
+    "catalogVersion": "v0.6",
     "links": [
      {
       "label": "Quiver",
@@ -30548,7 +31345,7 @@
     "targets": [
      "Android"
     ],
-    "catalogVersion": "v0.0.4-delta",
+    "catalogVersion": "v0.0.4-epsilon",
     "links": [
      {
       "label": "Quiver",
@@ -32827,7 +33624,7 @@
      "Android",
      "Linux"
     ],
-    "catalogVersion": "test-vulkan-73a4a85",
+    "catalogVersion": "v0.5.0",
     "links": [
      {
       "label": "Quiver",
@@ -37284,7 +38081,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v2.0-pre5",
+    "catalogVersion": "v2.0-pre17",
     "links": [
      {
       "label": "Quiver",
@@ -38843,12 +39640,8 @@
     },
     "description": "Sky Recomp is a native PC port of The Legend of Zelda Skyward Sword HD that runs at 60 FPS with Vulkan graphics and an in-game settings menu.",
     "developer": "Apolinario-coder",
-    "targets": [
-     "Windows",
-     "Linux",
-     "macOS"
-    ],
-    "catalogVersion": "v2.0.0",
+    "targets": [],
+    "catalogVersion": "v2.0.1",
     "links": [
      {
       "label": "Quiver",
@@ -39667,7 +40460,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "v0.2.0",
+    "catalogVersion": "v0.2.1",
     "links": [
      {
       "label": "Quiver",
@@ -40336,7 +41129,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v2.2.8",
+    "catalogVersion": "v2.2.9",
     "links": [
      {
       "label": "Quiver",
@@ -41225,7 +42018,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v1.01",
+    "catalogVersion": "v1.1",
     "links": [
      {
       "label": "Quiver",
@@ -42113,7 +42906,8 @@
     "description": "Urban Chaos Riot Response Burner Edition is a PC port of Urban Chaos: Riot Response with PC rendering and input improvements.",
     "developer": "linkssy2",
     "targets": [
-     "Windows"
+     "Windows",
+     "Linux"
     ],
     "catalogVersion": "v0.07.5",
     "links": [
@@ -43363,7 +44157,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v1.6.1",
+    "catalogVersion": "v1.7.0",
     "links": [
      {
       "label": "Quiver",
