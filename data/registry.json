@@ -1,15 +1,33 @@
 {
  "meta": {
   "seededAt": "2026-10-23T22:25:39.434Z",
-  "lastSearchAt": "2026-10-24T18:51:55.727Z"
+  "lastSearchAt": "2026-10-25T15:36:27.479Z"
  },
  "firstSeen": {
   "0herculabs/hl360-forza2": "2026-10-23T22:25:39.434Z",
   "0herculabs/hl360-forza3": "2026-10-23T22:25:39.434Z",
+  "0herculabs/hl360-forza4": "2026-10-25T15:36:27.479Z",
+  "0x1f9f1/open1560": "2026-10-25T15:36:27.479Z",
+  "1nputs/gunstars": "2026-10-25T15:36:27.479Z",
+  "1nputs/ninety-four": "2026-10-25T15:36:27.479Z",
+  "1oom-fork/1oom": "2026-10-25T15:36:27.479Z",
+  "21suspect/scrap-mechanic-native-vr": "2026-10-25T15:36:27.479Z",
   "999sian/melee-pc": "2026-10-23T22:25:39.434Z",
   "999sian/tmc": "2026-10-23T22:25:39.434Z",
+  "abdelmoumendeghbouche/wipeout_pc": "2026-10-25T15:36:27.479Z",
+  "abilliontokens/bustinout-recomp": "2026-10-25T15:36:27.479Z",
+  "abilliontokens/sims1-recomp": "2026-10-25T15:36:27.479Z",
+  "abilliontokens/sims2-recomp": "2026-10-25T15:36:27.479Z",
+  "abilliontokens/urbz-recomp": "2026-10-25T15:36:27.479Z",
+  "abyss-c0re/vrmod-module-master": "2026-10-25T15:36:27.479Z",
+  "acdlite/recompose": "2026-10-25T15:36:27.479Z",
+  "adore11s/beyond-two-souls-vr-mod": "2026-10-25T15:36:27.479Z",
+  "adore11s/god-of-war-vr-mod": "2026-10-25T15:36:27.479Z",
+  "aeka0/overlord": "2026-10-25T15:36:27.479Z",
+  "aikatore/recvx-enhanced-port": "2026-10-25T15:36:27.479Z",
   "ajncsystem/shadowofthecolossus-pc": "2026-10-23T22:25:39.434Z",
   "akratch/goldenballoon": "2026-10-23T22:25:39.434Z",
+  "alariq/mc2": "2026-10-25T15:36:27.479Z",
   "alex-letux/perfect_dark_vr": "2026-10-23T22:25:39.434Z",
   "alex-nax/relith": "2026-10-23T22:25:39.434Z",
   "alexbatalov/fallout1-ce": "2026-10-23T22:25:39.434Z",
@@ -20,42 +38,124 @@
   "alexbeav/parasite-eve-recomp": "2026-10-23T22:25:39.434Z",
   "alexbeav/syphon-filter-2-recompiled": "2026-10-23T22:25:39.434Z",
   "alexbeav/xena-warrior-princess-recomp": "2026-10-23T22:25:39.434Z",
+  "alexbeavs-ps1-ports/alien-resurrection-recomp": "2026-10-25T15:36:27.479Z",
+  "alexbeavs-ps1-ports/alone-in-the-dark-the-new-nightmare-recomp": "2026-10-25T15:36:27.479Z",
+  "alexbeavs-ps1-ports/alundra-recomp": "2026-10-25T15:36:27.479Z",
+  "alexbeavs-ps1-ports/apocalypse-recomp": "2026-10-25T15:36:27.479Z",
+  "alexbeavs-ps1-ports/crash-bandicoot-3-warped-recomp": "2026-10-25T15:36:27.479Z",
+  "alexbeavs-ps1-ports/diablo-recomp": "2026-10-25T15:36:27.479Z",
+  "alexbeavs-ps1-ports/dino-crisis-2-recomp": "2026-10-25T15:36:27.479Z",
+  "alexbeavs-ps1-ports/dino-crisis-recomp": "2026-10-25T15:36:27.479Z",
+  "alexbeavs-ps1-ports/final-fantasy-ix-recomp": "2026-10-25T15:36:27.479Z",
+  "alexbeavs-ps1-ports/final-fantasy-viii-recomp": "2026-10-25T15:36:27.479Z",
+  "alexbeavs-ps1-ports/mega-man-legends-recomp": "2026-10-25T15:36:27.479Z",
+  "alexbeavs-ps1-ports/metal-gear-solid-recomp": "2026-10-25T15:36:27.479Z",
+  "alexbeavs-ps1-ports/resident-evil-3-recomp": "2026-10-25T15:36:27.479Z",
+  "alexbeavs-ps1-ports/suikoden-ii-recomp": "2026-10-25T15:36:27.479Z",
+  "alexbeavs-ps1-ports/suikoden-recomp": "2026-10-25T15:36:27.479Z",
   "alexgaoth/awesome-reverse-engineered": "2026-10-23T22:46:33.769Z",
+  "alextreumer/balatrovrmod": "2026-10-25T15:36:27.479Z",
+  "alistert/openjazz": "2026-10-25T15:36:27.479Z",
+  "aliveteam/alive_reversing": "2026-10-25T15:36:27.479Z",
   "alondero/aerogauge-recomp": "2026-10-23T22:25:39.434Z",
   "alondero/automobililamborghini-recomp": "2026-10-23T22:25:39.434Z",
   "amwatson/citravr": "2026-10-23T22:25:39.434Z",
+  "andrey04o/peakvr": "2026-10-25T15:36:27.479Z",
+  "andreyvelsk/com.mobilerpgpack.phone": "2026-10-25T15:36:27.479Z",
+  "android-xr-bridge/axrb": "2026-10-25T15:36:27.479Z",
+  "andyvand/opentyrian2000": "2026-10-25T15:36:27.479Z",
+  "apancik/abuse_2025": "2026-10-25T15:36:27.479Z",
+  "apolinario-coder/skyrecomp": "2026-10-25T15:36:27.479Z",
+  "arcanite24/gb-recompiled": "2026-10-25T15:36:27.479Z",
   "arcanite24/pinyon-shift": "2026-10-23T22:25:39.434Z",
+  "ares-emulator/ares": "2026-10-25T15:36:27.479Z",
   "artfulrascal8/xrkart-64": "2026-10-23T22:25:39.434Z",
+  "arx/arxlibertatis": "2026-10-25T15:36:27.479Z",
+  "astienth/circuit_superstars_vr_bhaptics": "2026-10-25T15:36:27.479Z",
+  "astienth/cloudpunk-vr#cloudpunk-city-of-ghosts-vr": "2026-10-25T15:36:27.479Z",
+  "astienth/cloudpunk-vr#cloudpunk-vr": "2026-10-25T15:36:27.479Z",
+  "astienth/driftwood_vr_bhaptics": "2026-10-25T15:36:27.479Z",
+  "astienth/gunfire-reborn-bhaptics": "2026-10-25T15:36:27.479Z",
+  "astienth/panzer_dragoon_remake_vr_bhaptics_provolver": "2026-10-25T15:36:27.479Z",
+  "astienvr/bomb_rush_cyberfunk_vr": "2026-10-25T15:36:27.479Z",
+  "astienvr/road_redemption_vr_bhaptics": "2026-10-25T15:36:27.479Z",
+  "atmudia/srvr": "2026-10-25T15:36:27.479Z",
   "aureliob/banjorecomp-android": "2026-10-23T22:25:39.434Z",
+  "awakenchan/lanternengine": "2026-10-25T15:36:27.479Z",
+  "ayozetr/bloodborne_linux": "2026-10-25T15:36:27.479Z",
   "bailo167/awesome-game-mashups": "2026-10-23T22:46:33.769Z",
   "banjorecomp/banjorecomp": "2026-10-23T22:25:39.434Z",
   "bassquake/aliens-versus-predator-vr": "2026-10-23T22:25:39.434Z",
+  "bateau01/soma-vr": "2026-10-25T15:36:27.479Z",
   "baywilly/crazy-taxi-vr-standalone": "2026-10-23T22:25:39.434Z",
   "baywilly/metal-gear-solid-vr-standalone": "2026-10-23T22:25:39.434Z",
+  "bc160201983/medievil_2019_pc_port": "2026-10-25T15:36:27.479Z",
+  "bc160201983/uncharted-the-nathan-drake-collection-pc-port": "2026-10-25T15:36:27.479Z",
+  "bearstonem/d2r-pcvr": "2026-10-25T15:36:27.479Z",
   "bearstonem/homeworld": "2026-10-23T22:25:39.434Z",
   "beatrixzy/pgr4-recomp": "2026-10-23T22:25:39.434Z",
+  "beren5556/w40krt_vr": "2026-10-25T15:36:27.479Z",
+  "bertibertig/amped2-recomp": "2026-10-25T15:36:27.479Z",
+  "bertibertig/ssx3-recomp": "2026-10-25T15:36:27.479Z",
+  "betotron/maxpayne2vr-release": "2026-10-25T15:36:27.479Z",
+  "bgyss/switchrecomp": "2026-10-25T15:36:27.479Z",
+  "bibendovsky/bstone": "2026-10-25T15:36:27.479Z",
+  "bifftannen1/dead-space-2-recomp": "2026-10-25T15:36:27.479Z",
   "bigmak94/astroquest": "2026-10-23T22:25:39.434Z",
   "bigmak94/galaxyquest": "2026-10-23T22:25:39.434Z",
   "birabittoh/eternalsonatareprise": "2026-10-23T22:25:39.434Z",
   "birabittoh/kameorepowered": "2026-10-23T22:25:39.434Z",
   "birabittoh/nocturnerecomp": "2026-10-23T22:25:39.434Z",
+  "bitsandbreakpoints/d-psx-pc-recomp": "2026-10-25T15:36:27.479Z",
   "blackandblue95/strikers-wiicompiled": "2026-10-23T22:25:39.434Z",
+  "blacklabelhq/medievilrecomp": "2026-10-25T15:36:27.479Z",
   "blacklabelhq/recompone": "2026-10-23T22:25:39.434Z",
   "blacklabelhq/symphonyrecomp": "2026-10-23T22:25:39.434Z",
   "blacklineinteractive/nwiirecomp": "2026-10-23T22:46:33.769Z",
+  "blah64/vostok-vr-mod": "2026-10-25T15:36:27.479Z",
+  "bldbrne-vr/bldbrne-vr": "2026-10-25T15:36:27.479Z",
+  "blizz127/brave-fencer-musashi-decomp-port": "2026-10-25T15:36:27.479Z",
+  "blizz127/parasite-eve-decomp-port": "2026-10-25T15:36:27.479Z",
+  "blizz127/xenogears-decomp-port": "2026-10-25T15:36:27.479Z",
+  "blowntobytes/ror2vrmod": "2026-10-25T15:36:27.479Z",
+  "bluddy/rails": "2026-10-25T15:36:27.479Z",
+  "blue-nebula/base": "2026-10-25T15:36:27.479Z",
   "blueinterlude/awesome-recompilations": "2026-10-23T22:46:33.769Z",
+  "bodbdearg/psydoom": "2026-10-25T15:36:27.479Z",
   "boron853/souls-of-the-reaper": "2026-10-23T22:46:33.769Z",
+  "bountyhunterkanden/secondhunt": "2026-10-25T15:36:27.479Z",
+  "brandonmousseau/vhvr-mod": "2026-10-25T15:36:27.479Z",
   "brawmario/infinite-mario-64-ever": "2026-10-23T22:25:39.434Z",
+  "braxusx/farcry2vr": "2026-10-25T15:36:27.479Z",
+  "brobert-in-aus/darktide-vr": "2026-10-25T15:36:27.479Z",
   "bryanthaboi/gen1recomp": "2026-10-23T22:25:39.434Z",
+  "bryanthaboi/gen1recomp-mod-index": "2026-10-25T15:36:27.479Z",
+  "bryantmh/rush2recompiled": "2026-10-25T15:36:27.479Z",
+  "btfighter/super-mario-world-remastered-plus": "2026-10-25T15:36:27.479Z",
   "buku313/skate3-mobile": "2026-10-23T22:46:33.769Z",
+  "bvschaik/julius": "2026-10-25T15:36:27.479Z",
+  "bw1-vr/bw1-vr": "2026-10-25T15:36:27.479Z",
+  "c7-game/openciv3": "2026-10-25T15:36:27.479Z",
+  "cactusvrstudios/alpinefactionvr": "2026-10-25T15:36:27.479Z",
+  "cactusvrstudios/kharvox": "2026-10-25T15:36:27.479Z",
+  "cactusvrstudios/kharvox-argent": "2026-10-25T15:36:27.479Z",
+  "caiuscodes/goldeneye-007-xbla-pc-recomp": "2026-10-25T15:36:27.479Z",
+  "capridog/spaceranger": "2026-10-25T15:36:27.479Z",
+  "carriex/recomp": "2026-10-25T15:36:27.479Z",
+  "cassnadra/initialdpsponpc": "2026-10-25T15:36:27.479Z",
+  "castletroy28/xiii-vr": "2026-10-25T15:36:27.479Z",
+  "catmidori/gogoackman1recomp": "2026-10-25T15:36:27.479Z",
   "cblock85/goldeneye64recomp": "2026-10-23T22:25:39.434Z",
+  "cdlewis/snowboardkids-recomp": "2026-10-25T15:36:27.479Z",
   "cdlewis/snowboardkids2-recomp": "2026-10-23T22:25:39.434Z",
   "cellenseres/sssv_recomp": "2026-10-23T22:25:39.434Z",
   "centollos/switchwakerhd": "2026-10-24T18:51:55.727Z",
   "cesarus85/generals-zero-hour-xr": "2026-10-23T22:25:39.434Z",
+  "cesarus85/ringfall-mjolnir-vr": "2026-10-25T15:36:27.479Z",
   "charlottecross1998/awesome-game-decompilations": "2026-10-23T22:46:33.769Z",
   "chasem-dev/sms-launcher": "2026-10-23T22:25:39.434Z",
   "chocotorp/shipwright-vr": "2026-10-23T22:25:39.434Z",
+  "chortdev/deadspace2vr": "2026-10-25T15:36:27.479Z",
   "chrissotraidis/annepad": "2026-10-23T22:46:33.769Z",
   "chrissotraidis/ballpad": "2026-10-23T22:25:39.434Z",
   "chrissotraidis/bluewake": "2026-10-23T22:25:39.434Z",
@@ -63,14 +163,30 @@
   "chrissotraidis/maskpad": "2026-10-23T22:25:39.434Z",
   "chrissotraidis/projectreach": "2026-10-24T18:51:55.727Z",
   "chrissotraidis/sunpad": "2026-10-23T22:25:39.434Z",
+  "circuitlord/circuitlordvrmodinstaller#big-walk-vr": "2026-10-25T15:36:27.479Z",
+  "circuitlord/circuitlordvrmodinstaller#titanfall-2-vr": "2026-10-25T15:36:27.479Z",
   "circuitlord/circuitlordvrmodinstaller": "2026-10-23T22:25:39.434Z",
+  "citrongames/dora64": "2026-10-25T15:36:27.479Z",
+  "citrongames/dora64-3": "2026-10-25T15:36:27.479Z",
+  "clergyman0013/arizona-vamp-recomp": "2026-10-25T15:36:27.479Z",
+  "clickingmaster/ssrecomp": "2026-10-25T15:36:27.479Z",
+  "cmpayc/arxlibertatisvr": "2026-10-25T15:36:27.479Z",
   "coccofresco/triaevum": "2026-10-23T22:25:39.434Z",
   "codepdbh/nfsmw-android": "2026-10-23T22:25:39.434Z",
+  "commanderkeen83/doom-3-bfg-vr": "2026-10-25T15:36:27.479Z",
+  "cookingwithsimon/skate1recompiled": "2026-10-25T15:36:27.479Z",
+  "cookingwithsimon/skate2recompiled": "2026-10-25T15:36:27.479Z",
   "coop-deluxe/sm64coopdx": "2026-10-23T22:25:39.434Z",
+  "corsixth/corsixth": "2026-10-25T15:36:27.479Z",
+  "craigshaw/fzerorecomp": "2026-10-25T15:36:27.479Z",
   "cranebeaker/coop-anything": "2026-10-23T22:46:33.769Z",
+  "crazyriddler/finesthourremastered": "2026-10-25T15:36:27.479Z",
+  "crementif/botw-bettervr": "2026-10-25T15:36:27.479Z",
   "crowded-street/3sx": "2026-10-23T22:25:39.434Z",
   "ctr-tools/ctr-native": "2026-10-23T22:25:39.434Z",
   "curif/ageofjoy-2022.1": "2026-10-23T22:25:39.434Z",
+  "cybensis/spt-vr": "2026-10-25T15:36:27.479Z",
+  "cybensis/tormentedsoulsvr": "2026-10-25T15:36:27.479Z",
   "cybersecurity/halo-ce-universal": "2026-10-23T22:25:39.434Z",
   "cybervisi0n/pokeplatinum": "2026-10-23T22:25:39.434Z",
   "dabdavis/perfect-dark-dabs-mod": "2026-10-23T22:25:39.434Z",
@@ -79,92 +195,180 @@
   "danielgomesvieira2000/burnout3-pc": "2026-10-23T22:25:39.434Z",
   "danielgomesvieira2000/pilotwings-64-recomp": "2026-10-23T22:25:39.434Z",
   "danielgomesvieira2000/wave-race-64-recomp": "2026-10-23T22:25:39.434Z",
+  "danilopaulinodasilva/kof98recomp": "2026-10-25T15:36:27.479Z",
   "danisandoval/fukami": "2026-10-23T22:46:33.769Z",
+  "dankzonestudios/cv64recomp": "2026-10-25T15:36:27.479Z",
+  "dannyowelch/deception-recomp": "2026-10-25T15:36:27.479Z",
+  "darhkfox/busterbustsloose": "2026-10-25T15:36:27.479Z",
+  "dariulone/cyberpunk-vr-port": "2026-10-25T15:36:27.479Z",
   "davidsm64/diddy-kong-racing": "2026-10-23T22:25:39.434Z",
+  "daxcess/cwvr": "2026-10-25T15:36:27.479Z",
+  "daxcess/repoxr": "2026-10-25T15:36:27.479Z",
+  "deadinside28/bloodborne_pc": "2026-10-25T15:36:27.479Z",
+  "decompals/ido-static-recomp": "2026-10-25T15:36:27.479Z",
   "decompme/decomp.me": "2026-10-23T22:46:33.769Z",
   "deivid22srk/dk64-recomp-android": "2026-10-23T22:25:39.434Z",
+  "derrickgold/ar-recomp": "2026-10-25T15:36:27.479Z",
+  "destroyjevski/supermario3dworld-vr": "2026-10-25T15:36:27.479Z",
+  "dethrace-labs/dethrace": "2026-10-25T15:36:27.479Z",
+  "df4l/fnvvr": "2026-10-25T15:36:27.479Z",
   "dhaiwat10/cricket07-browser": "2026-10-24T18:51:55.727Z",
+  "dhewm/dhewm3": "2026-10-25T15:36:27.479Z",
   "diasurgical/devilutionx": "2026-10-23T22:25:39.434Z",
+  "diegodedios/alienrerecomp": "2026-10-25T15:36:27.479Z",
   "dinosaurplanetrecomp/dino-recomp": "2026-10-23T22:25:39.434Z",
+  "disonomouss/rdrvr": "2026-10-25T15:36:27.479Z",
   "distilledorion-sketch/initial-d-arcade-stage-3-native-sh-4-recompilation-wip-": "2026-10-23T22:25:39.434Z",
   "djultra64/blocksphere": "2026-10-23T22:25:39.434Z",
+  "djultra64/clayfighter64": "2026-10-25T15:36:27.479Z",
   "djultra64/power-dozer": "2026-10-23T22:25:39.434Z",
+  "dkfans/keeperfx": "2026-10-25T15:36:27.479Z",
   "doc-haz/infinite-undiscovery-recomp": "2026-10-23T22:25:39.434Z",
   "doldecomp/melee": "2026-10-23T22:25:39.434Z",
   "doldecomp/sms": "2026-10-23T22:25:39.434Z",
   "domazinus/racewave46": "2026-10-23T22:25:39.434Z",
   "dorpxp/driftdroid": "2026-10-23T22:25:39.434Z",
+  "dortamur/satisfactory-uevr-enhancements": "2026-10-25T15:36:27.479Z",
   "dothacktranslate/dothack-recompilation": "2026-10-23T22:46:33.769Z",
+  "doukutsu-rs/doukutsu-rs": "2026-10-25T15:36:27.479Z",
   "dr-89/crisis-zone-vr": "2026-10-23T22:25:39.434Z",
+  "dr-89/fear-vr": "2026-10-25T15:36:27.479Z",
   "dr-89/nfsu-vr": "2026-10-23T22:25:39.434Z",
   "dr-89/nfsu2-vr": "2026-10-23T22:25:39.434Z",
   "dr-89/opencmr2-vr": "2026-10-23T22:25:39.434Z",
   "dr-89/time-crisis-2-vr": "2026-10-23T22:25:39.434Z",
   "dr-89/time-crisis-vr": "2026-10-23T22:25:39.434Z",
   "drakolordx7/killzonerecomp": "2026-10-23T22:46:33.769Z",
+  "drizztdourden08/relic-of-the-past": "2026-10-25T15:36:27.479Z",
+  "drummingbird1/gow-psp-recomp": "2026-10-25T15:36:27.479Z",
   "dryxio/reagent": "2026-10-23T22:46:33.769Z",
+  "dsprtn/gtfo_vr_plugin": "2026-10-25T15:36:27.479Z",
   "dubrovskiy-yevhen-stakelogic/gothic2-vr": "2026-10-23T22:25:39.434Z",
   "dubrovskiy-yevhen-stakelogic/gt-2-pc": "2026-10-23T22:25:39.434Z",
   "dubrovskiy-yevhen-stakelogic/gta-sa-vr-quest": "2026-10-23T22:25:39.434Z",
   "dubrovskiy-yevhen-stakelogic/harry-potter-vr": "2026-10-23T22:25:39.434Z",
   "dubrovskiy-yevhen-stakelogic/rdr1-quest": "2026-10-23T22:25:39.434Z",
   "dubrovskiy-yevhen-stakelogic/road-rash-jailbreak": "2026-10-23T22:25:39.434Z",
+  "dubrovskiy-yevhen-stakelogic/vice-city-vr": "2026-10-25T15:36:27.479Z",
   "dubrovskiy-yevhen-stakelogic/vice-city-vr-quest": "2026-10-23T22:25:39.434Z",
+  "dudux42/freedomunbound": "2026-10-25T15:36:27.479Z",
   "dyotson/forzahorizon1-reimagined": "2026-10-24T18:51:55.727Z",
+  "dyzz/srw64-recomp": "2026-10-25T15:36:27.479Z",
+  "dzakyraf/pes2017-recomp": "2026-10-25T15:36:27.479Z",
+  "eandis/sdoj-recomp": "2026-10-25T15:36:27.479Z",
   "eboody/castlevania-revamped-open-source-edition": "2026-10-23T22:25:39.434Z",
   "ed1z19/valkyrierecomp": "2026-10-23T22:25:39.434Z",
   "edwin2929/sma3-recomp-android.": "2026-10-23T22:25:39.434Z",
+  "efraim2704/bladeofdarknessvr": "2026-10-25T15:36:27.479Z",
+  "egerion/open-atomic-bomberman-97": "2026-10-25T15:36:27.479Z",
   "ekspym/tekken6-native-online": "2026-10-23T22:25:39.434Z",
+  "elasota/aerofoil": "2026-10-25T15:36:27.479Z",
+  "elliotttate/bombermanrecomp": "2026-10-25T15:36:27.479Z",
   "elliotttate/dkc1recomp": "2026-10-23T22:25:39.434Z",
   "elliotttate/dkc2recomp": "2026-10-23T22:25:39.434Z",
   "elliotttate/dkc3recomp": "2026-10-23T22:25:39.434Z",
+  "elliotttate/wave-race-64-recomp": "2026-10-25T15:36:27.479Z",
   "elliotttate/wind-waker-recomp": "2026-10-23T22:25:39.434Z",
   "elmasas/lcs-recomp": "2026-10-23T22:25:39.434Z",
   "elprogramadorloco-arch/fuc-recomp": "2026-10-23T22:25:39.434Z",
+  "elprogramadorloco-arch/jim2-recomp": "2026-10-25T15:36:27.479Z",
+  "elraro/atomic-bomberman": "2026-10-25T15:36:27.479Z",
+  "elspeththepict/s1forever": "2026-10-25T15:36:27.479Z",
+  "elyosh/opentie": "2026-10-25T15:36:27.479Z",
+  "elyosh/openxvt": "2026-10-25T15:36:27.479Z",
+  "elyosh/openxw": "2026-10-25T15:36:27.479Z",
+  "elyosh/openxwa": "2026-10-25T15:36:27.479Z",
+  "emawind84/selacovr": "2026-10-25T15:36:27.479Z",
   "encounter/objdiff": "2026-10-23T22:46:33.769Z",
+  "endprodukt/cannonball-dx": "2026-10-25T15:36:27.479Z",
+  "enrique-paulino/dualscreendex": "2026-10-25T15:36:27.479Z",
   "eray1605/re2ds": "2026-10-23T22:25:39.434Z",
   "erick194/doomiirpg-re": "2026-10-23T22:25:39.434Z",
   "erick194/doomrpg-re": "2026-10-23T22:25:39.434Z",
   "erick194/wolfensteinrpg-re": "2026-10-23T22:25:39.434Z",
+  "erreib/pure-recomp": "2026-10-25T15:36:27.479Z",
   "estebanpdn/legend-of-doom-3ds": "2026-10-23T22:25:39.434Z",
   "estebanpdn/mario-kart-64-3ds": "2026-10-23T22:25:39.434Z",
   "estebanpdn/zelda-alttp-3ds": "2026-10-23T22:25:39.434Z",
   "estebanpdn/zelda-tmc-3ds": "2026-10-23T22:25:39.434Z",
   "etroimcasso/kirpich": "2026-10-23T22:25:39.434Z",
   "eukaryot/sonic3air": "2026-10-23T22:25:39.434Z",
+  "eusth/vookaraylee": "2026-10-25T15:36:27.479Z",
+  "exok/celeste64": "2026-10-25T15:36:27.479Z",
   "expansionpak/moderngekko": "2026-10-23T22:25:39.434Z",
   "fabioap-cpu/soulblade_recomp": "2026-10-23T22:25:39.434Z",
   "fabioap-cpu/tekken3recomp": "2026-10-23T22:25:39.434Z",
   "fable2recomp/beanrecomp": "2026-10-23T22:46:33.769Z",
   "fable2recomp/fable2recomp": "2026-10-23T22:46:33.769Z",
   "faligame/lost-odyssey-hd-remaster": "2026-10-24T18:51:55.727Z",
+  "farmerarmor/deusexhrvr": "2026-10-25T15:36:27.479Z",
+  "farmerarmor/kcd1vr": "2026-10-25T15:36:27.479Z",
+  "farmerarmor/thiefvr": "2026-10-25T15:36:27.479Z",
+  "fataldecomp/roller": "2026-10-25T15:36:27.479Z",
   "felipeprado0/gow3_pc": "2026-10-23T22:25:39.434Z",
+  "fgsfds/buildlauncher": "2026-10-25T15:36:27.479Z",
+  "fholger/alanwake_vr": "2026-10-25T15:36:27.479Z",
+  "fholger/crysis_vrmod": "2026-10-25T15:36:27.479Z",
+  "fholger/farcry_vrmod": "2026-10-25T15:36:27.479Z",
+  "fholger/thedarkmodvr": "2026-10-25T15:36:27.479Z",
+  "firejumper93/ghostreconwildlandsvr": "2026-10-25T15:36:27.479Z",
+  "firstpersonksp/kerbal-vr": "2026-10-25T15:36:27.479Z",
+  "fleetingheart/ksre": "2026-10-25T15:36:27.479Z",
   "fliperama86/cvlod_recomp": "2026-10-23T22:25:39.434Z",
   "florinp93/hells-gate-recomp": "2026-10-23T22:25:39.434Z",
   "florinp93/xmd-recompiled": "2026-10-23T22:25:39.434Z",
   "fluffyquack/rexglue-exit": "2026-10-23T22:25:39.434Z",
+  "fluorescenthallucinogen/painkiller-vr-mod": "2026-10-25T15:36:27.479Z",
   "flyngmt/acgc-pc-port": "2026-10-23T22:25:39.434Z",
+  "fragglet/sdl-sopwith": "2026-10-25T15:36:27.479Z",
   "frankhun88453/cod3recomp": "2026-10-23T22:25:39.434Z",
   "freefrank/lostodysseyrecomp": "2026-10-23T22:25:39.434Z",
   "fulldivegames/majoras-mask-vr": "2026-10-23T22:25:39.434Z",
   "fulldivegames/sm64coopdx-vr-standalone-physics-based": "2026-10-23T22:25:39.434Z",
   "gabrick75/fh2-recompiled": "2026-10-23T22:46:33.769Z",
+  "gabrielnnk/bigodao": "2026-10-25T15:36:27.479Z",
   "gamboozino/ngbrecomp": "2026-10-23T22:46:33.769Z",
+  "gameordie007/a-kingdom-for-keflings-vr": "2026-10-25T15:36:27.479Z",
+  "gameordie007/descent-1-and-2-vr#descent-2-vr": "2026-10-25T15:36:27.479Z",
+  "gameordie007/descent-1-and-2-vr#descent-vr": "2026-10-25T15:36:27.479Z",
+  "gameordie007/descent-1-and-2-vr": "2026-10-25T15:36:27.479Z",
+  "gameordie007/forsaken-vr": "2026-10-25T15:36:27.479Z",
+  "gameordie007/prey-2006-vr": "2026-10-25T15:36:27.479Z",
+  "gameordie007/quake-ii-pcvr": "2026-10-25T15:36:27.479Z",
+  "gameordie007/razexr-pcvr#blood-vr": "2026-10-25T15:36:27.479Z",
+  "gameordie007/razexr-pcvr#duke-nukem-3d-vr": "2026-10-25T15:36:27.479Z",
+  "gameordie007/razexr-pcvr#nam-vr": "2026-10-25T15:36:27.479Z",
+  "gameordie007/razexr-pcvr#powerslave-exhumed-vr": "2026-10-25T15:36:27.479Z",
+  "gameordie007/razexr-pcvr#redneck-rampage-vr": "2026-10-25T15:36:27.479Z",
+  "gameordie007/razexr-pcvr#shadow-warrior-vr": "2026-10-25T15:36:27.479Z",
+  "gameordie007/razexr-pcvr#wwii-gi-vr": "2026-10-25T15:36:27.479Z",
+  "gameordie007/star-wars-episode-i-racer-pcvr": "2026-10-25T15:36:27.479Z",
+  "gborgogno/a3vr-arma3": "2026-10-25T15:36:27.479Z",
+  "geno55/wg3d-recomp": "2026-10-25T15:36:27.479Z",
   "genrythefox0/project-2099": "2026-10-23T22:25:39.434Z",
   "gensokyoclub/th06": "2026-10-23T22:46:33.769Z",
   "getlostin/ctr-nitrofueled-pc": "2026-10-23T22:25:39.434Z",
   "gitlab:bighead.0/ladxhd_updated": "2026-10-23T22:25:39.434Z",
   "gitlab:ethan4love/psx-recomp-port": "2026-10-23T22:25:39.434Z",
+  "gitlab:re-volt/rvgl-launcher": "2026-10-25T15:36:27.479Z",
   "gitlab:sonicdcer/dnzhrecomp": "2026-10-23T22:25:39.434Z",
   "gitlab:sonicdcer/extremegrecomp": "2026-10-23T22:25:39.434Z",
   "gitlab:sonicdcer/mariokart64recomp": "2026-10-23T22:25:39.434Z",
   "gitlab:sonicdcer/starfox64recomp": "2026-10-23T22:25:39.434Z",
   "gizcesi/opentricky": "2026-10-24T18:51:55.727Z",
+  "gjc9620/gears-vr": "2026-10-25T15:36:27.479Z",
+  "glitchtest51/miside_vr": "2026-10-25T15:36:27.479Z",
   "gnsb/ufc-3-ps4-port-linux-windows": "2026-10-23T22:25:39.434Z",
   "goliathret/edgeoftimerecomp": "2026-10-23T22:25:39.434Z",
+  "gonzorro/generalsvr": "2026-10-25T15:36:27.479Z",
+  "goodshepherd23/baroque-saturnrecomp": "2026-10-25T15:36:27.479Z",
+  "goodshepherd23/galerians-recompiled": "2026-10-25T15:36:27.479Z",
+  "goodshepherd23/hellnight-recompiled": "2026-10-25T15:36:27.479Z",
+  "goodshepherd23/jetmoto2-recomp": "2026-10-25T15:36:27.479Z",
   "granimated/minecraftlce": "2026-10-23T22:46:33.769Z",
   "greennaugahyde/zeldawwhdrecompandroid": "2026-10-23T22:25:39.434Z",
   "griches/eternaldarknessrecomp": "2026-10-23T22:46:33.769Z",
+  "gtteancum/openjam": "2026-10-25T15:36:27.479Z",
   "gtteancum/openxml1xbox": "2026-10-23T22:25:39.434Z",
   "gtteancum/sote-recomp": "2026-10-23T22:25:39.434Z",
   "gtteancum/spideyps1recomp": "2026-10-23T22:25:39.434Z",
@@ -188,39 +392,81 @@
   "hayatog/iss_pc": "2026-10-23T22:25:39.434Z",
   "hayatog/tlg_pc": "2026-10-23T22:25:39.434Z",
   "hdmaniak/dishsoap": "2026-10-23T22:25:39.434Z",
+  "headsplosion/lost-world-supermodel-pcvr": "2026-10-25T15:36:27.479Z",
   "hedge-dev/unleashedrecomp": "2026-10-23T22:25:39.434Z",
   "hedge-dev/xenonrecomp": "2026-10-23T22:25:39.434Z",
+  "hedge-dev/xenosrecomp": "2026-10-25T15:36:27.479Z",
   "henrykun55/celosia": "2026-10-23T22:46:33.769Z",
+  "hero88go/melee-unlocked": "2026-10-25T15:36:27.479Z",
   "heromachine/alienresurrection-recompilation": "2026-10-23T22:25:39.434Z",
+  "heromachine/breakdown-recompilation": "2026-10-25T15:36:27.479Z",
+  "heromachine/burnout-recompilation": "2026-10-25T15:36:27.479Z",
   "heromachine/tenchu-sa-recomp": "2026-10-23T22:25:39.434Z",
   "heurazy/fzerovr-standalone": "2026-10-23T22:25:39.434Z",
+  "heurazy/hytalevrinjector-mod": "2026-10-25T15:36:27.479Z",
   "heurazy/wiicompiled_vr-plus": "2026-10-23T22:25:39.434Z",
+  "hh79/gzdoomvr#doom-2-vr": "2026-10-25T15:36:27.479Z",
+  "hh79/gzdoomvr#doom-vr": "2026-10-25T15:36:27.479Z",
+  "hh79/gzdoomvr#heretic-vr": "2026-10-25T15:36:27.479Z",
+  "hh79/gzdoomvr#hexen-vr": "2026-10-25T15:36:27.479Z",
+  "hh79/gzdoomvr#strife-vr": "2026-10-25T15:36:27.479Z",
   "himdo/fable-2-recomp": "2026-10-23T22:25:39.434Z",
   "hkmodd/pcsx2-mcp": "2026-10-23T22:46:33.769Z",
   "hkmodd/ps2-recomp-agent-skill": "2026-10-23T22:46:33.769Z",
+  "hochgeschwindigkeitsrennfahrer/black-mesa-vr": "2026-10-25T15:36:27.479Z",
+  "hochgeschwindigkeitsrennfahrer/grand-theft-auto-iv-vr-mod": "2026-10-25T15:36:27.479Z",
   "holdmysocks/mcla-recomp": "2026-10-23T22:46:33.769Z",
   "hollywoodakeem/svr07-recomp": "2026-10-23T22:25:39.434Z",
+  "hookmanuk/rpcs3": "2026-10-25T15:36:27.479Z",
+  "hopeaero/mlbpowerpros2008recomp": "2026-10-25T15:36:27.479Z",
   "hossez/fifa-world-cup-2014-recompiled": "2026-10-24T18:51:55.727Z",
+  "howesjamie5-code/milesvr": "2026-10-25T15:36:27.479Z",
+  "humbletim/firestorm-gha": "2026-10-25T15:36:27.479Z",
   "i12bp8/decomp.wtf": "2026-10-23T22:46:33.769Z",
+  "icedomega13/houseofthedead2vrog": "2026-10-25T15:36:27.479Z",
   "ichris4/dolphinxr": "2026-10-23T22:25:39.434Z",
+  "ichris4/wiicompiled_vr": "2026-10-25T15:36:27.479Z",
+  "iexplosiverage/dbz-burst-limit-recompiled": "2026-10-25T15:36:27.479Z",
+  "igawa6/dualsouls": "2026-10-25T15:36:27.479Z",
   "igawa6/harvestmoon64recomp": "2026-10-23T22:25:39.434Z",
   "ihatecompvir/band3_recomp": "2026-10-23T22:46:33.769Z",
+  "iirg4x/mp6-native-port": "2026-10-25T15:36:27.479Z",
+  "ilyamez/spidyvr": "2026-10-25T15:36:27.479Z",
+  "infernosupernova/novr": "2026-10-25T15:36:27.479Z",
+  "inliner495/bblit-remaster": "2026-10-25T15:36:27.479Z",
+  "insanitybringer/piccuengine": "2026-10-25T15:36:27.479Z",
+  "interkarma/daggerfall-unity": "2026-10-25T15:36:27.479Z",
   "invinceble55-wq/estacado-the-darkness-recomp": "2026-10-23T22:46:33.769Z",
+  "ipowertech/sonsvr_mod": "2026-10-25T15:36:27.479Z",
+  "iron-jay/banjo_tooie_xbla_recomp": "2026-10-25T15:36:27.479Z",
+  "isledecomp/isle-portable": "2026-10-25T15:36:27.479Z",
+  "itsbybanshee/wwe2k14-pc": "2026-10-25T15:36:27.479Z",
   "izzy2lost/ghostship": "2026-10-23T22:25:39.434Z",
   "izzy2lost/lighthouse": "2026-10-23T22:25:39.434Z",
   "izzy2lost/perfect_dark": "2026-10-23T22:25:39.434Z",
   "izzy2lost/spaghettikart": "2026-10-23T22:25:39.434Z",
   "izzy2lost/starship": "2026-10-23T22:25:39.434Z",
   "jackandbeans/snap64recomp": "2026-10-23T22:25:39.434Z",
+  "jackgllghr/bigmission-recomp": "2026-10-25T15:36:27.479Z",
   "jackpoison-prog/ringout": "2026-10-23T22:25:39.434Z",
   "jackpriceburns/foxhollow": "2026-10-23T22:25:39.434Z",
+  "jacoders/openjk": "2026-10-25T15:36:27.479Z",
   "jacquesdupontd/port0r#hotd-vr": "2026-10-23T22:25:39.434Z",
   "jacquesdupontd/port0r#sega-rally-vr": "2026-10-23T22:25:39.434Z",
   "jacquesdupontd/port0r#virtua-cop-vr": "2026-10-23T22:25:39.434Z",
+  "jacquesdupontd/port0r": "2026-10-25T15:36:27.479Z",
   "jakeschincariol/console-skill": "2026-10-23T22:46:33.769Z",
+  "jakobkhansen/silksongandroid": "2026-10-25T15:36:27.479Z",
   "jameriquiah/2ship2harkinian": "2026-10-23T22:25:39.434Z",
+  "james2doyle/ffta-recomp": "2026-10-25T15:36:27.479Z",
+  "jay-day/rmg-k": "2026-10-25T15:36:27.479Z",
+  "jaybiggsgmg/bfvr-battlefield-1942-vr-mod": "2026-10-25T15:36:27.479Z",
+  "jbusfield/submersedvr_bz": "2026-10-25T15:36:27.479Z",
   "jcsix694/def-jam-vendetta-recomp": "2026-10-23T22:46:33.769Z",
+  "jedeyesniv-art/pacman-ce-pc-recomp": "2026-10-25T15:36:27.479Z",
   "jedijosh920/swrots-pc": "2026-10-24T18:51:55.727Z",
+  "jeffmeador/flower_vr#flower-vr": "2026-10-25T15:36:27.479Z",
+  "jeffmeador/flower_vr#journey-vr": "2026-10-25T15:36:27.479Z",
   "jessetbh/akilauncher": "2026-10-23T22:46:33.769Z",
   "jessetbh/vpw2recomp": "2026-10-23T22:25:39.434Z",
   "jessetbh/vpw64recomp": "2026-10-23T22:25:39.434Z",
@@ -228,70 +474,178 @@
   "jessetbh/wcwvsnwoworldtourrecomp": "2026-10-23T22:25:39.434Z",
   "jessetbh/wwfnomercyrecomp": "2026-10-23T22:25:39.434Z",
   "jessetbh/wwfwrestlemania2000recomp": "2026-10-23T22:25:39.434Z",
+  "jessicanataliagta/psprecomp": "2026-10-25T15:36:27.479Z",
+  "jgrennison/openttd-patches": "2026-10-25T15:36:27.479Z",
   "jhdev2006/super-mario-bros.-remastered-public": "2026-10-23T22:25:39.434Z",
+  "jhdev2006/super-mario-world-remastered-public": "2026-10-25T15:36:27.479Z",
+  "jiink/trackmaniaforeveropenxr#trackmania-nations-forever": "2026-10-25T15:36:27.479Z",
+  "jiink/trackmaniaforeveropenxr#trackmania-united-forever": "2026-10-25T15:36:27.479Z",
+  "jjmhalew/woodyre": "2026-10-25T15:36:27.479Z",
   "jkdansereau/goldeneye-pc-port": "2026-10-23T22:25:39.434Z",
   "joeyaw/tpvr": "2026-10-23T22:25:39.434Z",
+  "johnnieb333/oracle-recompiled": "2026-10-25T15:36:27.479Z",
+  "jonathandc64/ffcceot-recomp": "2026-10-25T15:36:27.479Z",
+  "jorge262007/fftarecomp": "2026-10-25T15:36:27.479Z",
+  "jorjbarbosa/broken-bond-recomp": "2026-10-25T15:36:27.479Z",
   "jorjbarbosa/naruto-rise-recomp": "2026-10-23T22:25:39.434Z",
   "josiahg2502-glitch/mother3recomp": "2026-10-23T22:25:39.434Z",
   "josiahg2502-glitch/newsuperpaperbros": "2026-10-23T22:25:39.434Z",
+  "jplakon/callofduty4_vr": "2026-10-25T15:36:27.479Z",
+  "jrbudda/vivecraft_110": "2026-10-25T15:36:27.479Z",
+  "jrbudda/vivecraft_111": "2026-10-25T15:36:27.479Z",
+  "jrbudda/vivecraft_112": "2026-10-25T15:36:27.479Z",
+  "jrbudda/vivecraft_113": "2026-10-25T15:36:27.479Z",
+  "jrbudda/vivecraft_114": "2026-10-25T15:36:27.479Z",
+  "jrbudda/vivecraft_115": "2026-10-25T15:36:27.479Z",
+  "jrbudda/vivecraft_116": "2026-10-25T15:36:27.479Z",
+  "jrbudda/vivecraft_118": "2026-10-25T15:36:27.479Z",
+  "jrbudda/vivecraft_119": "2026-10-25T15:36:27.479Z",
+  "jrbudda/vivecraft_spigot_extensions": "2026-10-25T15:36:27.479Z",
+  "jrdevo/ets2-ats-dlaa-dlss-injection-mod": "2026-10-25T15:36:27.479Z",
   "jrickey/battleship": "2026-10-23T22:25:39.434Z",
   "jumatt/jetsetradiofuture-unleashed": "2026-10-23T22:25:39.434Z",
+  "junglejuz/batman-arkham-knight-vr": "2026-10-25T15:36:27.479Z",
+  "junglejuz/sekiro-vr": "2026-10-25T15:36:27.479Z",
+  "junior-jones/adventure-island-ii-nes-static-recomp": "2026-10-25T15:36:27.479Z",
   "junior-jones/jungle-strike-snes-static-recomp": "2026-10-23T22:25:39.434Z",
+  "jval1972/rad-x": "2026-10-25T15:36:27.479Z",
+  "k0nl/b2recomp": "2026-10-25T15:36:27.479Z",
+  "k4zmu2a/spacecadetpinball": "2026-10-25T15:36:27.479Z",
+  "kaikoclanworth1/buffy-chaos-bleeds-pc": "2026-10-25T15:36:27.479Z",
   "kaikoclanworth1/wwe-svr2011-pc": "2026-10-23T22:46:33.769Z",
   "kandowontu2/starfox-enhanced": "2026-10-23T22:25:39.434Z",
+  "kandowontu2/urbanrecomp": "2026-10-25T15:36:27.479Z",
   "kawaiibunga/mkvdcu-recomp": "2026-10-23T22:25:39.434Z",
   "keepvaibin/nebula": "2026-10-23T22:25:39.434Z",
+  "keriew/augustus": "2026-10-25T15:36:27.479Z",
+  "keton/ace-combat-uevr": "2026-10-25T15:36:27.479Z",
+  "keton/chihuahua": "2026-10-25T15:36:27.479Z",
+  "keton/pacific-drive-uevr": "2026-10-25T15:36:27.479Z",
+  "kevinfoley/herculan": "2026-10-25T15:36:27.479Z",
+  "keyou91/l4d2vr": "2026-10-25T15:36:27.479Z",
   "kh-refined/kh-refined": "2026-10-24T18:51:55.727Z",
   "khasinski/rage-racer-pc": "2026-10-23T22:25:39.434Z",
   "kiexster/god-of-war-recomp": "2026-10-23T22:46:33.769Z",
+  "king-ej/blood-west-vr": "2026-10-25T15:36:27.479Z",
+  "king-ej/devotion-vr-mod": "2026-10-25T15:36:27.479Z",
+  "king-ej/high-entropy-challenges-vr": "2026-10-25T15:36:27.479Z",
+  "king-ej/penguin-colony-vr": "2026-10-25T15:36:27.479Z",
+  "king-ej/the-mortuary-assistant-vr": "2026-10-25T15:36:27.479Z",
+  "king-ej/twisted-tower-vr-mod": "2026-10-25T15:36:27.479Z",
+  "kirby-letsgo/oracles-decomp": "2026-10-25T15:36:27.479Z",
+  "kirby1237/parappatherapperrecomp": "2026-10-25T15:36:27.479Z",
   "kirby1237/puyopuyoboxrecomp": "2026-10-23T22:25:39.434Z",
   "klorfmorf/goemon64recomp": "2026-10-23T22:25:39.434Z",
+  "knossosnet/knossos.net": "2026-10-25T15:36:27.479Z",
+  "koenhendriks/ssx3-recomp": "2026-10-25T15:36:27.479Z",
   "kote2345/the-simpsons-hit-and-run-vr": "2026-10-23T22:25:39.434Z",
+  "kraftmacandchee/mercenaries-recompiled": "2026-10-25T15:36:27.479Z",
+  "kumapauz/project-reignition": "2026-10-25T15:36:27.479Z",
+  "kvasir94/killing-floor-2-vr": "2026-10-25T15:36:27.479Z",
+  "kwstasg/unreal-revived": "2026-10-25T15:36:27.479Z",
+  "kyanite-rock/descendersvrmod": "2026-10-25T15:36:27.479Z",
+  "kyanite-rock/white_knuckle_vr": "2026-10-25T15:36:27.479Z",
   "lancesweatpants/strikers-quest-mr": "2026-10-23T22:25:39.434Z",
+  "lancommander/tonywasaproskater": "2026-10-25T15:36:27.479Z",
+  "laughtt/bloodborne-vr": "2026-10-25T15:36:27.479Z",
+  "leanndroguedes/re3-19feb21": "2026-10-25T15:36:27.479Z",
   "legend-of-dragoon-modding/severed-chains": "2026-10-23T22:25:39.434Z",
+  "leithsilver/mgsm": "2026-10-25T15:36:27.479Z",
   "lesca-191204/killzone-shadowfall-pc": "2026-10-23T22:25:39.434Z",
+  "lethal-guitar/rigelengine": "2026-10-25T15:36:27.479Z",
+  "letmein-vr/hellraiser_uevr": "2026-10-25T15:36:27.479Z",
+  "letsgosportsteam/mirrors-edge-vr-mod": "2026-10-25T15:36:27.479Z",
+  "letsgosportsteam/singularity-vr-mod": "2026-10-25T15:36:27.479Z",
+  "levigaming1248/myfriendlyneighborhoodvr": "2026-10-25T15:36:27.479Z",
+  "lfarroco/ogre-battle-64-recomp": "2026-10-25T15:36:27.479Z",
   "linkssy2/darkwatchdarkeredition": "2026-10-23T22:25:39.434Z",
   "linkssy2/roadrash64recompiled": "2026-10-23T22:25:39.434Z",
+  "linkssy2/urbanchaosriotresponseburneredition": "2026-10-25T15:36:27.479Z",
   "linkzenic/2ship2harkinian-android": "2026-10-23T22:25:39.434Z",
   "linkzenic/shipwright-android": "2026-10-23T22:25:39.434Z",
   "linkzenic/zelda64recomp-android": "2026-10-23T22:25:39.434Z",
   "liquidazir/animal-crossing-vr": "2026-10-23T22:25:39.434Z",
   "littlebitua/downpourrecomp": "2026-10-23T22:25:39.434Z",
   "littlebitua/dprecomp": "2026-10-23T22:25:39.434Z",
+  "livingfray/halocevr": "2026-10-25T15:36:27.479Z",
+  "livingfray/hellsingervr": "2026-10-25T15:36:27.479Z",
+  "lodilorenzo/cybermage-darklight-re-awakening": "2026-10-25T15:36:27.479Z",
+  "lokiusv/daggerfall-unity-vr": "2026-10-25T15:36:27.479Z",
   "loreanxavier/pt-pc": "2026-10-23T22:46:33.769Z",
+  "lorendb/kaon": "2026-10-25T15:36:27.479Z",
+  "lostartefacts/trx": "2026-10-25T15:36:27.479Z",
   "luisxl15/gta-iv-recomp-xbox-360": "2026-10-23T22:46:33.769Z",
+  "luisxl15/strikers-android-port": "2026-10-25T15:36:27.479Z",
+  "lukeross00/nolf2-real-mod": "2026-10-25T15:36:27.479Z",
+  "lxe97/ugvr-idolsofash": "2026-10-25T15:36:27.479Z",
+  "m-x-d/heretic2r": "2026-10-25T15:36:27.479Z",
   "m1ndcrap/sega-superstars-tennis-rematch": "2026-10-23T22:25:39.434Z",
   "mabec-games/iss2000-recomp": "2026-10-23T22:46:33.769Z",
   "madelrandel-blip/nfsmw-recompiled": "2026-10-23T22:25:39.434Z",
+  "madsbuvi/openmw": "2026-10-25T15:36:27.479Z",
   "madxbio97/sf-pc-port": "2026-10-23T22:25:39.434Z",
+  "mahmoud-mess/tekken6-recomp": "2026-10-25T15:36:27.479Z",
   "maniscat2/sm64coopdx": "2026-10-23T22:25:39.434Z",
   "maranone/carnage": "2026-10-23T22:25:39.434Z",
   "maranone/questsam": "2026-10-23T22:25:39.434Z",
   "mariopartyrd/marioparty4": "2026-10-23T22:25:39.434Z",
   "mariopartyrd/partyboard": "2026-10-23T22:25:39.434Z",
+  "mastersellz/bl1gotyvr": "2026-10-25T15:36:27.479Z",
   "masterspike52/redahm": "2026-10-23T22:25:39.434Z",
   "masterspike52/renut": "2026-10-23T22:25:39.434Z",
   "matiaszanolli/sega-vr-disasm": "2026-10-24T18:51:55.727Z",
+  "matskarlsson/wreckfest2vr": "2026-10-25T15:36:27.479Z",
   "matteo842/crashbandicoot-launcher": "2026-10-23T22:25:39.434Z",
+  "matymeatboy/rekhcom": "2026-10-25T15:36:27.479Z",
+  "mauriciosuporte/superbomberman5snesrecomp": "2026-10-25T15:36:27.479Z",
+  "mavic-pro/specopsthelinevr": "2026-10-25T15:36:27.479Z",
   "maxdeadbear/naughtybear_restuff": "2026-10-23T22:25:39.434Z",
   "maxdeadbear/restuff_inparadise": "2026-10-23T22:25:39.434Z",
+  "maxmakesmods/half-life-vr": "2026-10-25T15:36:27.479Z",
+  "mcassador/valormortisvr": "2026-10-25T15:36:27.479Z",
+  "mcfredward/gloomhavenvr": "2026-10-25T15:36:27.479Z",
   "mchughalex/skate3recomp": "2026-10-23T22:25:39.434Z",
+  "mcxr-org/mcxr": "2026-10-25T15:36:27.479Z",
+  "mdomangue26/thebigs2": "2026-10-25T15:36:27.479Z",
+  "mechakotik/tails-adventure": "2026-10-25T15:36:27.479Z",
   "megaman64recomp/megaman64recompiled": "2026-10-23T22:25:39.434Z",
+  "meteo-dream/mf-community-edition": "2026-10-25T15:36:27.479Z",
   "mg1937/asc": "2026-10-23T22:46:33.769Z",
+  "mgba-emu/mgba": "2026-10-25T15:36:27.479Z",
+  "mgrz18/sdlpop-android": "2026-10-25T15:36:27.479Z",
   "mikermak/hotd2-vr": "2026-10-23T22:25:39.434Z",
   "mikesemicolond/roguesquadron64recomp": "2026-10-23T22:46:33.769Z",
   "mikompilation/mikupan": "2026-10-23T22:25:39.434Z",
   "mircowuffwuff/super-mario-bros.-remastered-android": "2026-10-23T22:25:39.434Z",
   "mlgprorektm8/rygt": "2026-10-23T22:25:39.434Z",
+  "mohamad-balouza/bioshock-vr#bioshock-2-remastered": "2026-10-25T15:36:27.479Z",
+  "mohamad-balouza/bioshock-vr#bioshock-infinite-vr": "2026-10-25T15:36:27.479Z",
+  "mohamad-balouza/bioshock-vr#bioshock-remastered": "2026-10-25T15:36:27.479Z",
   "moistman42069/haloce-quest-vr": "2026-10-23T22:25:39.434Z",
+  "moistman42069/mccvr-halo-build": "2026-10-25T15:36:27.479Z",
+  "momotori01/earth-defense-force-6-vr-mod": "2026-10-25T15:36:27.479Z",
+  "monkellie/tf2vr-linux": "2026-10-25T15:36:27.479Z",
+  "monscriser/hydrothunderport": "2026-10-25T15:36:27.479Z",
+  "monscriser/ufc3mons": "2026-10-25T15:36:27.479Z",
+  "morsgames/moonchildfe": "2026-10-25T15:36:27.479Z",
+  "mortify7612/rallisportchallenge2-decomp": "2026-10-25T15:36:27.479Z",
+  "moshferatu/zombies-ate-my-neighbors-pc-port": "2026-10-25T15:36:27.479Z",
   "motor-dev/nfs-recompiled": "2026-10-23T22:25:39.434Z",
+  "mr-finster/stunts-hd": "2026-10-25T15:36:27.479Z",
+  "mr-finster/vf1-recomp": "2026-10-25T15:36:27.479Z",
+  "mr-finster/vf2-recomp": "2026-10-25T15:36:27.479Z",
+  "mr-finster/vf3-recomp": "2026-10-25T15:36:27.479Z",
   "mrsco/goldeneye-vr": "2026-10-23T22:25:39.434Z",
+  "mrsuss60/bloodborne_pc_windows_port": "2026-10-25T15:36:27.479Z",
   "mstan/apeescaperecomp": "2026-10-23T22:25:39.434Z",
   "mstan/battlearenatoshindenrecomp": "2026-10-23T22:25:39.434Z",
   "mstan/dragonballzbuusfuryrecomp": "2026-10-23T22:25:39.434Z",
+  "mstan/dragonballzlegacyofgokuiirecomp": "2026-10-25T15:36:27.479Z",
+  "mstan/drmarionesrecomp": "2026-10-25T15:36:27.479Z",
   "mstan/emeraldrecomp": "2026-10-23T22:25:39.434Z",
   "mstan/fireredleafgreenrecomp": "2026-10-23T22:25:39.434Z",
   "mstan/fzerosnesrecomp": "2026-10-23T22:25:39.434Z",
+  "mstan/legendofzeldanesrecomp": "2026-10-25T15:36:27.479Z",
   "mstan/mariokartsupercircuitrecomp": "2026-10-23T22:25:39.434Z",
   "mstan/mariotennisvirtualboyrecomp": "2026-10-23T22:25:39.434Z",
   "mstan/megamanx2recomp": "2026-10-23T22:25:39.434Z",
@@ -299,60 +653,287 @@
   "mstan/megamanx5recomp": "2026-10-23T22:25:39.434Z",
   "mstan/megamanx6recomp": "2026-10-23T22:25:39.434Z",
   "mstan/megamanxsnesrecomp": "2026-10-23T22:25:39.434Z",
+  "mstan/megamanzerorecomp": "2026-10-25T15:36:27.479Z",
   "mstan/metroidprimehuntersrecomp": "2026-10-23T22:25:39.434Z",
+  "mstan/pokemonstadiumrecomp": "2026-10-25T15:36:27.479Z",
   "mstan/rubysapphirerecomp": "2026-10-23T22:25:39.434Z",
+  "mstan/sonicthehedgehog2recomp": "2026-10-25T15:36:27.479Z",
+  "mstan/supermarioadvance2recomp": "2026-10-25T15:36:27.479Z",
+  "mstan/supermarioadvance4recomp": "2026-10-25T15:36:27.479Z",
+  "mstan/supermariorpgrecomp": "2026-10-25T15:36:27.479Z",
   "mstan/supermarioworldrecomp": "2026-10-23T22:25:39.434Z",
   "mstan/supermetroidrecomp": "2026-10-23T22:25:39.434Z",
+  "mstan/tetrisgbrecomp": "2026-10-25T15:36:27.479Z",
   "mstan/tomba2recomp": "2026-10-23T22:25:39.434Z",
   "mstan/tombarecomp": "2026-10-23T22:25:39.434Z",
+  "mstan/wariowaretwistedrecomp": "2026-10-25T15:36:27.479Z",
+  "mstan/yoshinesrecomp": "2026-10-25T15:36:27.479Z",
+  "mstan/yoshiscookierecomp": "2026-10-25T15:36:27.479Z",
+  "mstan/zeldaalttpsnesrecomp": "2026-10-25T15:36:27.479Z",
+  "mstan/zeroracersvirtualboyrecomp": "2026-10-25T15:36:27.479Z",
   "murkantor/project-midas": "2026-10-23T22:25:39.434Z",
+  "mutars/anvilengine2vr#assassin-s-creed-mirage-vr": "2026-10-25T15:36:27.479Z",
+  "mutars/anvilengine2vr#assassin-s-creed-odyssey-vr": "2026-10-25T15:36:27.479Z",
+  "mutars/anvilengine2vr#assassin-s-creed-valhalla-vr": "2026-10-25T15:36:27.479Z",
+  "mutars/starfield2vr": "2026-10-25T15:36:27.479Z",
   "mzzvxm/larecomp": "2026-10-23T22:46:33.769Z",
   "n64decomp/007": "2026-10-23T22:25:39.434Z",
   "n64decomp/sm64": "2026-10-23T22:25:39.434Z",
+  "n64hub/perfect-dark-recomp": "2026-10-25T15:36:27.479Z",
+  "n64hub/rush-2049-recomp": "2026-10-25T15:36:27.479Z",
+  "n64hub/super-mario-64-recomp": "2026-10-25T15:36:27.479Z",
   "n64recomp/n64recomp": "2026-10-23T22:25:39.434Z",
   "nagaa95/unleashedrecomp-nx": "2026-10-23T22:25:39.434Z",
+  "naragorn/obvr": "2026-10-25T15:36:27.479Z",
   "nathanaela/mgcarpet-vr": "2026-10-23T22:25:39.434Z",
   "nathanialf/ico-pc": "2026-10-23T22:25:39.434Z",
+  "natpoh/diablo2-vr-port": "2026-10-25T15:36:27.479Z",
   "nbcraft-org/nbcraft": "2026-10-23T22:46:33.769Z",
+  "nebriv/vtolvr-tacviewlogger": "2026-10-25T15:36:27.479Z",
   "neitey/openxwa-quest": "2026-10-23T22:25:39.434Z",
+  "neuralf/rea-virtua-cop-2-vr": "2026-10-25T15:36:27.479Z",
+  "neuromancer/wc1-re": "2026-10-25T15:36:27.479Z",
+  "nevercookfirst/dimensionsrecomp": "2026-10-25T15:36:27.479Z",
   "new-coke/strikers": "2026-10-23T22:25:39.434Z",
+  "nhaar/waddle-forever": "2026-10-25T15:36:27.479Z",
+  "nicolasaubinet/virtual-rock-galactic": "2026-10-25T15:36:27.479Z",
+  "nikamigaming-create/mgs5vr": "2026-10-25T15:36:27.479Z",
   "nikolaygorb/armyoftworecomp": "2026-10-23T22:25:39.434Z",
   "njh-1001/finfantacrecomp": "2026-10-23T22:25:39.434Z",
+  "njh-1001/sexyparorecomp": "2026-10-25T15:36:27.479Z",
   "njh-1001/wipeout2k97xl": "2026-10-23T22:25:39.434Z",
   "nmlgc/rec98": "2026-10-23T22:46:33.769Z",
+  "nmlgc/ssg": "2026-10-25T15:36:27.479Z",
+  "no6969el/gevr": "2026-10-25T15:36:27.479Z",
   "noahvl/birdman64": "2026-10-23T22:25:39.434Z",
   "nobbie248/primedgun": "2026-10-23T22:25:39.434Z",
   "noelo-lab/kuna": "2026-10-23T22:46:33.769Z",
   "norain211/doaxbv-re": "2026-10-23T22:25:39.434Z",
+  "notgodlikeuwu/silent-hill-3-vr-mod": "2026-10-25T15:36:27.479Z",
+  "notlooky/bannerlordvr": "2026-10-25T15:36:27.479Z",
   "novapowers0/bloodyroar2recomp": "2026-10-23T22:25:39.434Z",
   "novapowers0/db-final-bout-recomp": "2026-10-23T22:25:39.434Z",
   "novapowers0/dbz-budokai-3-hd-collection": "2026-10-23T22:25:39.434Z",
+  "nsmbu-recomp/nsmbu-recomp": "2026-10-25T15:36:27.479Z",
+  "nvdemu/apeescaperecomp-macwindowslinux": "2026-10-25T15:36:27.479Z",
+  "nycolazs/windwakerhd-android-plus": "2026-10-25T15:36:27.479Z",
   "oaleex/mojorecomp": "2026-10-23T22:25:39.434Z",
   "oaleex/shaolinmonksrecomp": "2026-10-23T22:25:39.434Z",
   "obaidr1/hercules-recompiled": "2026-10-23T22:25:39.434Z",
+  "odrannnn/metroidprimeport": "2026-10-25T15:36:27.479Z",
+  "oduis/uevrdeluxe": "2026-10-25T15:36:27.479Z",
   "ogdanimal/goemon64recomp-android": "2026-10-23T22:25:39.434Z",
+  "ogdanimal/hybridheaven-recomp": "2026-10-25T15:36:27.479Z",
+  "ogdanimal/skiesofarcadialegends-recomp": "2026-10-25T15:36:27.479Z",
+  "okabintaro/submersedvr": "2026-10-25T15:36:27.479Z",
+  "omegakatana92/battle-arena-toshinden-gb-recomp": "2026-10-25T15:36:27.479Z",
   "omegakatana92/gundam-seed-battle-assault-recomp": "2026-10-23T22:25:39.434Z",
   "omegakatana92/kirby-dream-land-recomp": "2026-10-23T22:25:39.434Z",
+  "omegakatana92/kirby-pinball-land-recomp": "2026-10-25T15:36:27.479Z",
   "omegakatana92/samuai-shodown-warriors-rage-recomp": "2026-10-23T22:25:39.434Z",
+  "omegakatana92/super-mario-land-3-wario-land-recomp-": "2026-10-25T15:36:27.479Z",
+  "omf2097/openomf": "2026-10-25T15:36:27.479Z",
+  "onetin84/wet-reality-xr-pws1": "2026-10-25T15:36:27.479Z",
+  "onetin84/wet-reality-xr-pws2": "2026-10-25T15:36:27.479Z",
+  "oofz/vrmod-releases#forza-horizon-5-vr": "2026-10-25T15:36:27.479Z",
+  "oofz/vrmod-releases#forza-horizon-6-vr": "2026-10-25T15:36:27.479Z",
+  "open-annihilation/open-annihilation": "2026-10-25T15:36:27.479Z",
   "open-goal/launcher": "2026-10-23T22:25:39.434Z",
+  "openapoc/openapoc": "2026-10-25T15:36:27.479Z",
   "opendriver2/redriver2": "2026-10-23T22:25:39.434Z",
+  "openloco/openloco": "2026-10-25T15:36:27.479Z",
+  "openmoh/openmohaa": "2026-10-25T15:36:27.479Z",
   "openmw/openmw": "2026-10-23T22:25:39.434Z",
+  "openport-labs/galaxy-android": "2026-10-25T15:36:27.479Z",
   "openportroid/armyoftworecompilation": "2026-10-23T22:25:39.434Z",
+  "openra/openra": "2026-10-25T15:36:27.479Z",
   "openrct2/openrct2": "2026-10-23T22:25:39.434Z",
+  "opensc2k/opensc2k": "2026-10-25T15:36:27.479Z",
+  "opensmash-ultimate/ssbu-recomp": "2026-10-25T15:36:27.479Z",
   "opensmash-ultimate/windowsmash": "2026-10-24T18:51:55.727Z",
+  "opentyrian/opentyrian": "2026-10-25T15:36:27.479Z",
+  "opokxeno/xenogears-recomp": "2026-10-25T15:36:27.479Z",
+  "oussama268/shadowofthecolossus-pc": "2026-10-25T15:36:27.479Z",
+  "overkilllabs3/dc-ps5": "2026-10-25T15:36:27.479Z",
+  "overkilllabs3/driveclub-recomp": "2026-10-25T15:36:27.479Z",
+  "overkilllabs3/gears-judgement-recomp": "2026-10-25T15:36:27.479Z",
+  "overkilllabs3/sos-ps5": "2026-10-25T15:36:27.479Z",
+  "overkilllabs3/vice-city-stories-recomp": "2026-10-25T15:36:27.479Z",
   "ozordi/sanrecomp": "2026-10-23T22:46:33.769Z",
   "pablocpas/opencmr2": "2026-10-24T18:51:55.727Z",
+  "parkerallan/doa3-recomp": "2026-10-25T15:36:27.479Z",
   "patchzyy/wiicompiled": "2026-10-23T22:25:39.434Z",
   "paulcombal/mw2-recompiled": "2026-10-23T22:46:33.769Z",
+  "pcvrhub:7-days-to-die-vr": "2026-10-25T15:36:27.479Z",
+  "pcvrhub:alien-isolation-vr": "2026-10-25T15:36:27.479Z",
+  "pcvrhub:amnesia-vr": "2026-10-25T15:36:27.479Z",
+  "pcvrhub:anomaly-gamma": "2026-10-25T15:36:27.479Z",
+  "pcvrhub:anomaly-vr": "2026-10-25T15:36:27.479Z",
+  "pcvrhub:another-crab-s-treasure": "2026-10-25T15:36:27.479Z",
+  "pcvrhub:art-of-rally-vr": "2026-10-25T15:36:27.479Z",
+  "pcvrhub:ashes-2063-vr": "2026-10-25T15:36:27.479Z",
+  "pcvrhub:astrodogs-vr": "2026-10-25T15:36:27.479Z",
+  "pcvrhub:atomic-heart-vr": "2026-10-25T15:36:27.479Z",
+  "pcvrhub:avatar-frontiers-of-pandora-vr": "2026-10-25T15:36:27.479Z",
+  "pcvrhub:black-mesa-source-vr": "2026-10-25T15:36:27.479Z",
+  "pcvrhub:dark-souls-ii-motion-vr": "2026-10-25T15:36:27.479Z",
+  "pcvrhub:dark-souls-ii-vr": "2026-10-25T15:36:27.479Z",
+  "pcvrhub:dark-souls-iii-vr": "2026-10-25T15:36:27.479Z",
+  "pcvrhub:dark-souls-remastered": "2026-10-25T15:36:27.479Z",
+  "pcvrhub:days-gone-vr": "2026-10-25T15:36:27.479Z",
+  "pcvrhub:death-stranding-vr": "2026-10-25T15:36:27.479Z",
+  "pcvrhub:decimate-drive-vr": "2026-10-25T15:36:27.479Z",
+  "pcvrhub:deep-rock-galactic-vr": "2026-10-25T15:36:27.479Z",
+  "pcvrhub:dinkum-vr": "2026-10-25T15:36:27.479Z",
+  "pcvrhub:dino-trauma-vr": "2026-10-25T15:36:27.479Z",
+  "pcvrhub:dolphin-vr-redux": "2026-10-25T15:36:27.479Z",
+  "pcvrhub:doom-eternal-vr": "2026-10-25T15:36:27.479Z",
+  "pcvrhub:dusk-hd-dlc-vr": "2026-10-25T15:36:27.479Z",
+  "pcvrhub:echo-generation-2-vr": "2026-10-25T15:36:27.479Z",
+  "pcvrhub:elden-ring-motion-controls": "2026-10-25T15:36:27.479Z",
+  "pcvrhub:elden-ring-real-vr": "2026-10-25T15:36:27.479Z",
+  "pcvrhub:elderborn-vr": "2026-10-25T15:36:27.479Z",
+  "pcvrhub:fallout-4-vr": "2026-10-25T15:36:27.479Z",
+  "pcvrhub:far-cry-4-vr": "2026-10-25T15:36:27.479Z",
+  "pcvrhub:far-cry-5-vr": "2026-10-25T15:36:27.479Z",
+  "pcvrhub:far-cry-6-vr": "2026-10-25T15:36:27.479Z",
+  "pcvrhub:far-cry-new-dawn-vr": "2026-10-25T15:36:27.479Z",
+  "pcvrhub:far-cry-primal-vr": "2026-10-25T15:36:27.479Z",
+  "pcvrhub:ff-vii-rebirth-vr": "2026-10-25T15:36:27.479Z",
+  "pcvrhub:ff-vii-remake-vr": "2026-10-25T15:36:27.479Z",
+  "pcvrhub:firewatch-vr": "2026-10-25T15:36:27.479Z",
+  "pcvrhub:ghost-of-tsushima-vr": "2026-10-25T15:36:27.479Z",
+  "pcvrhub:ghostwire-tokyo-vr": "2026-10-25T15:36:27.479Z",
+  "pcvrhub:grounded-vr": "2026-10-25T15:36:27.479Z",
+  "pcvrhub:half-life-2-vr": "2026-10-25T15:36:27.479Z",
+  "pcvrhub:half-life-vr": "2026-10-25T15:36:27.479Z",
+  "pcvrhub:hexen-ii-vr": "2026-10-25T15:36:27.479Z",
+  "pcvrhub:high-on-life-vr": "2026-10-25T15:36:27.479Z",
+  "pcvrhub:hl2-vr-ep-one": "2026-10-25T15:36:27.479Z",
+  "pcvrhub:hl2-vr-ep-two": "2026-10-25T15:36:27.479Z",
+  "pcvrhub:hogwarts-legacy-vr": "2026-10-25T15:36:27.479Z",
+  "pcvrhub:hollow-knight-silksong": "2026-10-25T15:36:27.479Z",
+  "pcvrhub:hollow-knight-vr": "2026-10-25T15:36:27.479Z",
+  "pcvrhub:horizon-chase-turbo": "2026-10-25T15:36:27.479Z",
+  "pcvrhub:horizon-forbidden-west-vr": "2026-10-25T15:36:27.479Z",
+  "pcvrhub:horizon-zero-dawn-remastered-vr": "2026-10-25T15:36:27.479Z",
+  "pcvrhub:horizon-zero-dawn-vr": "2026-10-25T15:36:27.479Z",
+  "pcvrhub:house-of-the-dead-2-remake-vr": "2026-10-25T15:36:27.479Z",
+  "pcvrhub:house-of-the-dead-remake-vr": "2026-10-25T15:36:27.479Z",
+  "pcvrhub:how-to-fish-xr": "2026-10-25T15:36:27.479Z",
+  "pcvrhub:hypogea-vr": "2026-10-25T15:36:27.479Z",
+  "pcvrhub:i-can-gun-vr": "2026-10-25T15:36:27.479Z",
+  "pcvrhub:indiana-jones-great-circle-vr": "2026-10-25T15:36:27.479Z",
+  "pcvrhub:iron-lung-vr": "2026-10-25T15:36:27.479Z",
+  "pcvrhub:kingdom-come-deliverance-ii-vr": "2026-10-25T15:36:27.479Z",
+  "pcvrhub:lethal-company-vr": "2026-10-25T15:36:27.479Z",
+  "pcvrhub:lunacid-vr": "2026-10-25T15:36:27.479Z",
+  "pcvrhub:lunistice-vr": "2026-10-25T15:36:27.479Z",
+  "pcvrhub:mage-arena-vr": "2026-10-25T15:36:27.479Z",
+  "pcvrhub:mass-effect-1-le-vr": "2026-10-25T15:36:27.479Z",
+  "pcvrhub:mass-effect-2-le-vr": "2026-10-25T15:36:27.479Z",
+  "pcvrhub:mass-effect-3-le-vr": "2026-10-25T15:36:27.479Z",
+  "pcvrhub:mirage-feathers-vr": "2026-10-25T15:36:27.479Z",
+  "pcvrhub:moros-protocol-vr": "2026-10-25T15:36:27.479Z",
+  "pcvrhub:moto-rush-reborn-vr": "2026-10-25T15:36:27.479Z",
+  "pcvrhub:mouse-p-i-for-hire-vr": "2026-10-25T15:36:27.479Z",
+  "pcvrhub:muck-vr": "2026-10-25T15:36:27.479Z",
+  "pcvrhub:neon-white-vr": "2026-10-25T15:36:27.479Z",
+  "pcvrhub:new-star-gp-vr": "2026-10-25T15:36:27.479Z",
+  "pcvrhub:outbound-vr": "2026-10-25T15:36:27.479Z",
+  "pcvrhub:outer-wilds-vr": "2026-10-25T15:36:27.479Z",
+  "pcvrhub:outlast-vr": "2026-10-25T15:36:27.479Z",
+  "pcvrhub:outward-de-vr": "2026-10-25T15:36:27.479Z",
+  "pcvrhub:paperklay-vr": "2026-10-25T15:36:27.479Z",
+  "pcvrhub:paranoia-place-vr": "2026-10-25T15:36:27.479Z",
+  "pcvrhub:portal-2-community-edition-vr": "2026-10-25T15:36:27.479Z",
+  "pcvrhub:project-zomboid-vr": "2026-10-25T15:36:27.479Z",
+  "pcvrhub:quake-3-vr": "2026-10-25T15:36:27.479Z",
+  "pcvrhub:raft-vr": "2026-10-25T15:36:27.479Z",
+  "pcvrhub:ratchet-clank-vr": "2026-10-25T15:36:27.479Z",
+  "pcvrhub:re-requiem-vr": "2026-10-25T15:36:27.479Z",
+  "pcvrhub:re-village-vr": "2026-10-25T15:36:27.479Z",
+  "pcvrhub:ready-or-not-vr": "2026-10-25T15:36:27.479Z",
+  "pcvrhub:rebel-galaxy-vr": "2026-10-25T15:36:27.479Z",
+  "pcvrhub:receiver-2-vr": "2026-10-25T15:36:27.479Z",
+  "pcvrhub:resident-evil-2r-vr": "2026-10-25T15:36:27.479Z",
+  "pcvrhub:resident-evil-3r-vr": "2026-10-25T15:36:27.479Z",
+  "pcvrhub:resident-evil-4r-vr": "2026-10-25T15:36:27.479Z",
+  "pcvrhub:resident-evil-7-vr": "2026-10-25T15:36:27.479Z",
+  "pcvrhub:retrowave-2-vr": "2026-10-25T15:36:27.479Z",
+  "pcvrhub:richard-burns-rally-vr": "2026-10-25T15:36:27.479Z",
+  "pcvrhub:rogue-flight-vr": "2026-10-25T15:36:27.479Z",
+  "pcvrhub:saints-row-the-third-vr": "2026-10-25T15:36:27.479Z",
+  "pcvrhub:sayonara-wild-hearts": "2026-10-25T15:36:27.479Z",
+  "pcvrhub:shipbreaker-vr": "2026-10-25T15:36:27.479Z",
+  "pcvrhub:silent-hill-vr": "2026-10-25T15:36:27.479Z",
+  "pcvrhub:skate-story-vr": "2026-10-25T15:36:27.479Z",
+  "pcvrhub:skyrim-vr": "2026-10-25T15:36:27.479Z",
+  "pcvrhub:slyders-vr": "2026-10-25T15:36:27.479Z",
+  "pcvrhub:sonic-p-06-vr": "2026-10-25T15:36:27.479Z",
+  "pcvrhub:spiderman-2-vr": "2026-10-25T15:36:27.479Z",
+  "pcvrhub:spiderman-miles-morales-vr": "2026-10-25T15:36:27.479Z",
+  "pcvrhub:spiderman-remastered": "2026-10-25T15:36:27.479Z",
+  "pcvrhub:stanley-parable-vr": "2026-10-25T15:36:27.479Z",
+  "pcvrhub:star-racer-vr": "2026-10-25T15:36:27.479Z",
+  "pcvrhub:star-trucker-vr": "2026-10-25T15:36:27.479Z",
+  "pcvrhub:star-wars-outlaws-vr": "2026-10-25T15:36:27.479Z",
+  "pcvrhub:star-wars-x-wing-vr": "2026-10-25T15:36:27.479Z",
+  "pcvrhub:stardew-valley-vr": "2026-10-25T15:36:27.479Z",
+  "pcvrhub:stray-vr": "2026-10-25T15:36:27.479Z",
+  "pcvrhub:streetdog-bmx-vr": "2026-10-25T15:36:27.479Z",
+  "pcvrhub:sunrise-gp-vr": "2026-10-25T15:36:27.479Z",
+  "pcvrhub:the-witness": "2026-10-25T15:36:27.479Z",
+  "pcvrhub:tinykin-vr": "2026-10-25T15:36:27.479Z",
+  "pcvrhub:tlou-part-i-vr": "2026-10-25T15:36:27.479Z",
+  "pcvrhub:tlou-part-ii-vr": "2026-10-25T15:36:27.479Z",
+  "pcvrhub:total-chaos-vr": "2026-10-25T15:36:27.479Z",
+  "pcvrhub:tribes-2-vr": "2026-10-25T15:36:27.479Z",
+  "pcvrhub:trombone-champ-vr": "2026-10-25T15:36:27.479Z",
+  "pcvrhub:uncharted-legacy-of-thieves-vr": "2026-10-25T15:36:27.479Z",
+  "pcvrhub:unmourned-vr": "2026-10-25T15:36:27.479Z",
+  "pcvrhub:vivecraft": "2026-10-25T15:36:27.479Z",
+  "pcvrhub:watch-dogs-2-vr": "2026-10-25T15:36:27.479Z",
+  "pcvrhub:watch-dogs-legion-vr": "2026-10-25T15:36:27.479Z",
+  "pcvrhub:watch-dogs-vr": "2026-10-25T15:36:27.479Z",
+  "pcvrhub:wolfenstein-3d-vr": "2026-10-25T15:36:27.479Z",
+  "peanutsofdoom/supermetroidplus": "2026-10-25T15:36:27.479Z",
+  "peiikai/lasrecomp": "2026-10-25T15:36:27.479Z",
   "perfect-dark-pc-port/perfect_dark": "2026-10-23T22:25:39.434Z",
+  "petarov/alleycat.exe": "2026-10-25T15:36:27.479Z",
+  "petarov/saboteur2": "2026-10-25T15:36:27.479Z",
+  "pigmassacre/neodriftenhanced": "2026-10-25T15:36:27.479Z",
+  "pinkmilkproductions/vrmaker": "2026-10-25T15:36:27.479Z",
+  "pk-c/awayvr": "2026-10-25T15:36:27.479Z",
+  "pk-c/witchnobetavr": "2026-10-25T15:36:27.479Z",
+  "pluventi/teardown-vr": "2026-10-25T15:36:27.479Z",
   "pmret/papermario": "2026-10-23T22:25:39.434Z",
+  "pocmo/recompose": "2026-10-25T15:36:27.479Z",
+  "pokamilktea/virtuaracingdeluxeenhanced": "2026-10-25T15:36:27.479Z",
   "portingpete/the-darkness-recomp": "2026-10-23T22:46:33.769Z",
   "portsdr:lotus-trilogy-nelumbo": "2026-10-23T22:25:39.434Z",
   "portsdr:sonic-and-the-secret-rings-project-reignition": "2026-10-23T22:25:39.434Z",
   "portsdr:spyro-the-dragon-openpete": "2026-10-23T22:25:39.434Z",
   "portsdr:super-mario-64-ds-super-mario-64-ds-pc-port": "2026-10-23T22:25:39.434Z",
+  "potiondweller/azure-dreams-hd-recompilation": "2026-10-25T15:36:27.479Z",
+  "praydog/ff7r-uevr": "2026-10-25T15:36:27.479Z",
+  "praydog/reframework#apollo-justice-ace-attorney-trilogy-vr": "2026-10-25T15:36:27.479Z",
+  "praydog/reframework#devil-may-cry-5-vr": "2026-10-25T15:36:27.479Z",
+  "praydog/reframework#dragon-s-dogma-2-vr": "2026-10-25T15:36:27.479Z",
+  "praydog/reframework#ghosts-n-goblins-resurrection-vr": "2026-10-25T15:36:27.479Z",
+  "praydog/reframework#kunitsu-gami-path-of-the-goddess-vr": "2026-10-25T15:36:27.479Z",
+  "praydog/reframework#mega-man-star-force-legacy-vr": "2026-10-25T15:36:27.479Z",
+  "praydog/reframework#monster-hunter-rise-vr": "2026-10-25T15:36:27.479Z",
+  "praydog/reframework#monster-hunter-stories-3-vr": "2026-10-25T15:36:27.479Z",
+  "praydog/reframework#monster-hunter-wilds": "2026-10-25T15:36:27.479Z",
+  "praydog/reframework#onimusha-2-vr": "2026-10-25T15:36:27.479Z",
+  "praydog/reframework#pragmata-vr": "2026-10-25T15:36:27.479Z",
+  "praydog/reframework#street-fighter-6-vr": "2026-10-25T15:36:27.479Z",
   "praydog/reframework": "2026-10-23T22:25:39.434Z",
+  "praydog/sh2r-uevr": "2026-10-25T15:36:27.479Z",
   "praydog/uevr": "2026-10-23T22:25:39.434Z",
+  "praydog/uevr-nightly": "2026-10-25T15:36:27.479Z",
+  "presidentraptor/ace-combat-04-pc-port": "2026-10-25T15:36:27.479Z",
   "pret/pokediamond": "2026-10-23T22:46:33.769Z",
   "pret/pokeemerald": "2026-10-23T22:46:33.769Z",
   "pret/pokefirered": "2026-10-23T22:46:33.769Z",
@@ -360,8 +941,13 @@
   "pret/pokeplatinum": "2026-10-23T22:46:33.769Z",
   "pret/pokeruby": "2026-10-23T22:46:33.769Z",
   "previouslevelgames/recharged": "2026-10-23T22:25:39.434Z",
+  "prismaticshape/dramaticshapevr": "2026-10-25T15:36:27.479Z",
+  "projectmimer/wovr": "2026-10-25T15:36:27.479Z",
+  "promethendev/wwe13-recomp": "2026-10-25T15:36:27.479Z",
   "ps1recomp/ps1-recomp": "2026-10-23T22:46:33.769Z",
   "psxrestore/condemned2recomp": "2026-10-23T22:25:39.434Z",
+  "pyrdacor/ambermoon.net": "2026-10-25T15:36:27.479Z",
+  "pyrdacor/freeserf.net": "2026-10-25T15:36:27.479Z",
   "questcraftplusplus/questcraft": "2026-10-23T22:25:39.434Z",
   "questports:iron-lung-vr": "2026-10-23T22:25:39.434Z",
   "questports:ppsspp-vr": "2026-10-23T22:25:39.434Z",
@@ -373,44 +959,91 @@
   "radek-sprta/awesome-game-remakes": "2026-10-23T22:46:33.769Z",
   "radzprower/super-metroid-launcher": "2026-10-23T22:25:39.434Z",
   "radzprower/zelda-3-launcher": "2026-10-23T22:25:39.434Z",
+  "rages4calm/earthbound-companion": "2026-10-25T15:36:27.479Z",
+  "rages4calm/lagoonsnesrecomp": "2026-10-25T15:36:27.479Z",
+  "raicuparta/nomai-vr": "2026-10-25T15:36:27.479Z",
+  "raicuparta/rai-pal": "2026-10-25T15:36:27.479Z",
+  "raicuparta/two-forks-vr": "2026-10-25T15:36:27.479Z",
+  "raicuparta/uuvr": "2026-10-25T15:36:27.479Z",
   "rainchus/chameleontwist1-jp-recomp": "2026-10-23T22:25:39.434Z",
   "rainchus/donkey-kong-64-recompiled": "2026-10-23T22:25:39.434Z",
   "rainchus/quest64-recomp": "2026-10-23T22:25:39.434Z",
+  "ramichaaben8/fifa_world_cup_2010_pc_port": "2026-10-25T15:36:27.479Z",
   "ran-j/ps2recomp": "2026-10-23T22:25:39.434Z",
   "raposomiguel50/system-shock-android": "2026-10-23T22:25:39.434Z",
   "raulzrrs/letsgo-recomp": "2026-10-23T22:46:33.769Z",
+  "rayrod-tv/banjokazooie-vr": "2026-10-25T15:36:27.479Z",
+  "rayrod-tv/mvrh#diddy-kong-racing-vr": "2026-10-25T15:36:27.479Z",
+  "rayrod-tv/mvrh#f-zero-x-vr": "2026-10-25T15:36:27.479Z",
+  "rayrod-tv/mvrh#mario-kart-64-vr": "2026-10-25T15:36:27.479Z",
+  "rayrod-tv/mvrh#super-mario-64-vr": "2026-10-25T15:36:27.479Z",
+  "rayrod-tv/ringracers-vr": "2026-10-25T15:36:27.479Z",
+  "rayrod-tv/srb2-vr": "2026-10-25T15:36:27.479Z",
+  "rayrod-tv/starfox64-vr": "2026-10-25T15:36:27.479Z",
   "re-rac/rerac-launcher": "2026-10-23T22:25:39.434Z",
   "reacher-z/awesome-rea": "2026-10-23T22:46:33.769Z",
   "recomp-code/street-recomp-v3": "2026-10-23T22:46:33.769Z",
   "red-tv141/dc2-ps2recomp": "2026-10-23T22:25:39.434Z",
+  "redeclipse/base": "2026-10-25T15:36:27.479Z",
+  "reflectionhle/reflectionhle": "2026-10-25T15:36:27.479Z",
   "render96/render96ex": "2026-10-23T22:25:39.434Z",
   "retro-remake/consolemode_distribution": "2026-10-23T22:25:39.434Z",
   "retro-remake/superstation-sd-card-installer": "2026-10-23T22:25:39.434Z",
   "retroportingtoolkit/psxrecomp": "2026-10-23T22:46:33.769Z",
+  "retroreplay82/legendary-wings-nes-to-pc": "2026-10-25T15:36:27.479Z",
+  "revivedx/savagewindrecomp": "2026-10-25T15:36:27.479Z",
   "revosucks/bm64recomp": "2026-10-23T22:25:39.434Z",
   "revosucks/bmherorecomp": "2026-10-23T22:25:39.434Z",
+  "rexdex/recompiler": "2026-10-25T15:36:27.479Z",
   "rexglue/rexglue-sdk": "2026-10-23T22:25:39.434Z",
   "rinnegatamante/crash-team-racing-high-octane": "2026-10-23T22:25:39.434Z",
   "rinnegatamante/lighthouse": "2026-10-23T22:25:39.434Z",
+  "riotashley81-jpg/vagrantstory_recomp": "2026-10-25T15:36:27.479Z",
+  "ripleyxlr8/atlantis-native": "2026-10-25T15:36:27.479Z",
+  "riseio/twipe_00sheven": "2026-10-25T15:36:27.479Z",
   "rob646464/luigis-mansion-pc-port": "2026-10-23T22:25:39.434Z",
+  "roman215/weltall": "2026-10-25T15:36:27.479Z",
+  "romaonthego/recomposeviewcontroller": "2026-10-25T15:36:27.479Z",
   "ronniecloud/re-wor": "2026-10-23T22:25:39.434Z",
+  "rotmill/dino-crisis-modern-edition": "2026-10-25T15:36:27.479Z",
+  "rototrobot/sin-episodes-vr-port": "2026-10-25T15:36:27.479Z",
+  "rototrobot/tomb-raider-legend-vr-port": "2026-10-25T15:36:27.479Z",
   "rsdkmodding/rsdkv3-decompilation": "2026-10-23T22:25:39.434Z",
   "rsdkmodding/rsdkv4-decompilation": "2026-10-23T22:25:39.434Z",
   "rsdkmodding/rsdkv5-decompilation": "2026-10-23T22:25:39.434Z",
+  "rubocopter/penumbra_vr_framework#penumbra-black-plague-vr": "2026-10-25T15:36:27.479Z",
+  "rubocopter/penumbra_vr_framework#penumbra-overture-vr": "2026-10-25T15:36:27.479Z",
+  "rubocopter/penumbra_vr_framework#penumbra-requiem-vr": "2026-10-25T15:36:27.479Z",
+  "ryancraighead/worldwarvr-releases": "2026-10-25T15:36:27.479Z",
+  "ryderclanky/botw-native": "2026-10-25T15:36:27.479Z",
+  "ryu7w7/octr-nitrofueled-pc": "2026-10-25T15:36:27.479Z",
+  "saikava/flatout2-vr": "2026-10-25T15:36:27.479Z",
   "sal063/ac6_recomp": "2026-10-23T22:25:39.434Z",
+  "sal063/ace-combat-3-static-recompilation": "2026-10-25T15:36:27.479Z",
   "sal063/ace-combat-5-static-recompilation": "2026-10-23T22:25:39.434Z",
   "sal063/ace-combat-x-recompilation": "2026-10-23T22:25:39.434Z",
+  "samioan/rac-j2me-remastered": "2026-10-25T15:36:27.479Z",
   "samsteprojects/legend-of-legaia-recomp": "2026-10-23T22:25:39.434Z",
   "samuelit0davila/fifa-street-pc-port": "2026-10-23T22:46:33.769Z",
   "samyost1/tmc-android": "2026-10-23T22:25:39.434Z",
   "samyost1/zelda3-android": "2026-10-23T22:25:39.434Z",
   "sandstonedev/universal-ps2-recompiler": "2026-10-23T22:46:33.769Z",
+  "sangushellz/gta-vrv-patcher": "2026-10-25T15:36:27.479Z",
   "sat-r/sa2": "2026-10-23T22:46:33.769Z",
+  "saulob/crackdown-xbox360-recompiled": "2026-10-25T15:36:27.479Z",
   "saulob/dragons-crown-pro-pc": "2026-10-23T22:25:39.434Z",
+  "saulob/geometry-wars-retro-evolved-2-recompiled": "2026-10-25T15:36:27.479Z",
+  "saulob/hard-corps-uprising-recompiled": "2026-10-25T15:36:27.479Z",
   "saulob/ssf2t-hd-remix-recompiled": "2026-10-23T22:25:39.434Z",
   "sciaschi/cbfd-recompiled": "2026-10-23T22:25:39.434Z",
   "scotho/socom-unzipped": "2026-10-23T22:46:33.769Z",
+  "sd805/l4d2vr": "2026-10-25T15:36:27.479Z",
+  "sdlpal/sdlpal": "2026-10-25T15:36:27.479Z",
+  "sdw-community/sheep-dog-n-wolf-rewooled": "2026-10-25T15:36:27.479Z",
   "sebastrion/awesome-unofficial-pc-ports": "2026-10-23T22:46:33.769Z",
+  "secretsquirrel/recomposer": "2026-10-25T15:36:27.479Z",
+  "segadreamcat/overthehillvr": "2026-10-25T15:36:27.479Z",
+  "segadreamcat/vampirehuntersvr": "2026-10-25T15:36:27.479Z",
   "segadreamcat/victoryheatrallyvr-quest": "2026-10-23T22:25:39.434Z",
   "sergiomanzur/cvlod_recomp": "2026-10-23T22:25:39.434Z",
   "sergiomanzur/regaiden-recomp": "2026-10-23T22:25:39.434Z",
@@ -418,21 +1051,31 @@
   "sezero/uhexen2": "2026-10-23T22:25:39.434Z",
   "sgtbilko76/descent3-vr": "2026-10-23T22:25:39.434Z",
   "sgtbilko76/wipeout-rewrite-vr": "2026-10-23T22:25:39.434Z",
+  "shadowbrian/7dfps": "2026-10-25T15:36:27.479Z",
   "shagg88/athelas": "2026-10-23T22:25:39.434Z",
+  "shaneomac1337/wwe-allstars-recomp": "2026-10-25T15:36:27.479Z",
   "shdecompilations/silent-hill-decomp": "2026-10-23T22:46:33.769Z",
+  "shiffo0/mgs2-pcvr": "2026-10-25T15:36:27.479Z",
   "shihabal3amri/tekken-tag-tournament-2-pc": "2026-10-23T22:25:39.434Z",
+  "shinywindow/shipwright-vr": "2026-10-25T15:36:27.479Z",
   "shipa-2/xerenge": "2026-10-23T22:46:33.769Z",
   "silverwiregames/rechan": "2026-10-23T22:25:39.434Z",
   "simon358/ctr-native-android": "2026-10-23T22:25:39.434Z",
+  "simplysnake/grimdawn_mod": "2026-10-25T15:36:27.479Z",
   "sinan-karakaya/dq8-recompiled": "2026-10-23T22:46:33.769Z",
+  "sirdankz/undead-neighbor-eaters-droid": "2026-10-25T15:36:27.479Z",
   "sirhalo23/ridgeracer6-recompilation": "2026-10-23T22:25:39.434Z",
   "skate-2-team/sk82-recomp": "2026-10-23T22:46:33.769Z",
+  "slaveofido/blastcorps-recomp": "2026-10-25T15:36:27.479Z",
+  "slex2jf/stritoraige": "2026-10-25T15:36:27.479Z",
   "slickamogus/silent-hill-decomp": "2026-10-23T22:25:39.434Z",
+  "slippygetbackhere/strike-gunner-stg-recomp": "2026-10-25T15:36:27.479Z",
   "sm64pc/sm64ex": "2026-10-23T22:25:39.434Z",
   "smcgames/paper-mario-recut": "2026-10-23T22:25:39.434Z",
   "snesrev/sm": "2026-10-23T22:25:39.434Z",
   "snesrev/smw": "2026-10-23T22:25:39.434Z",
   "snesrev/zelda3": "2026-10-23T22:25:39.434Z",
+  "snuri00/ps2-web-recomp": "2026-10-25T15:36:27.479Z",
   "snuri00/psp-web-recomp": "2026-10-23T22:46:33.769Z",
   "solarcookies/tip-recomp": "2026-10-23T22:25:39.434Z",
   "some-scurvy-dog/banjotooierecompiled": "2026-10-23T22:25:39.434Z",
@@ -441,28 +1084,48 @@
   "sonicdcer/starfox64recomp": "2026-10-23T22:46:33.769Z",
   "sonicfreak1337/sarecomp": "2026-10-24T18:51:55.727Z",
   "sonicnext-dev/marathonrecomp": "2026-10-23T22:46:33.769Z",
+  "sonsegajp/hwder": "2026-10-25T15:36:27.479Z",
   "soyjxck/dod3-recomp": "2026-10-23T22:25:39.434Z",
   "sp00nznet/360tools": "2026-10-23T22:46:33.769Z",
   "sp00nznet/ps3recomp": "2026-10-23T22:46:33.769Z",
   "sp00nznet/psprecomp": "2026-10-23T22:46:33.769Z",
   "sp00nznet/reo": "2026-10-23T22:46:33.769Z",
   "spacefarergames/aloneinthedarkrehaunted": "2026-10-23T22:46:33.769Z",
+  "spacestate1/namco22-decompile": "2026-10-25T15:36:27.479Z",
+  "spark198rus/black-pc": "2026-10-25T15:36:27.479Z",
   "speedbreakerproject/speedbreaker": "2026-10-23T22:46:33.769Z",
+  "spencer0187/portal2vr-roomscale": "2026-10-25T15:36:27.479Z",
+  "spicywonda/castlevania-chronicles-recomp": "2026-10-25T15:36:27.479Z",
   "spoopyghosty0/frameport": "2026-10-23T22:46:33.769Z",
+  "sqofer/wreackfest-vr": "2026-10-25T15:36:27.479Z",
+  "squaresweets/vrtrakill_fraud": "2026-10-25T15:36:27.479Z",
   "ssunnking/open-nectar---pikmin-decompilation-linux-port": "2026-10-23T22:25:39.434Z",
+  "ssunnking/zeldawwhdrecompandroid---enhanced": "2026-10-25T15:36:27.479Z",
+  "stanriders/ks-summersclover": "2026-10-25T15:36:27.479Z",
+  "startupandhold/3on3arcaderecomp": "2026-10-25T15:36:27.479Z",
   "strider973/einhander-recompiled": "2026-10-23T22:25:39.434Z",
   "strider973/street-fighter-ex2-plus-recompiled": "2026-10-23T22:25:39.434Z",
   "strider973/strider-2-recompiled": "2026-10-23T22:25:39.434Z",
+  "strikezonevr-hub/outlast2vr": "2026-10-25T15:36:27.479Z",
+  "strparagor/painkiller-overdose-vr": "2026-10-25T15:36:27.479Z",
+  "styd051/doom64-ex-plus-enhanced": "2026-10-25T15:36:27.479Z",
   "subarasheese/daytona-xbla-recomp": "2026-10-23T22:46:33.769Z",
   "submitgame/awesome-decomp-games": "2026-10-23T22:46:33.769Z",
   "sunjaycy/goldeneye-recomp": "2026-10-23T22:25:39.434Z",
   "supermedo/bloodborne_pc": "2026-10-23T22:25:39.434Z",
+  "supermedo/prince-of-persia-2-windows": "2026-10-25T15:36:27.479Z",
   "supermedo/uncharted_pc": "2026-10-23T22:25:39.434Z",
   "supermedo/wet-recomp": "2026-10-23T22:25:39.434Z",
+  "swordfish90/lemuroid": "2026-10-25T15:36:27.479Z",
+  "taisei-project/taisei": "2026-10-25T15:36:27.479Z",
+  "tdrrmk2/uhexen2-tweaked": "2026-10-25T15:36:27.479Z",
   "team-beef-studios/beefraiderxr": "2026-10-23T22:25:39.434Z",
+  "team-beef-studios/bendyvr": "2026-10-25T15:36:27.479Z",
   "team-beef-studios/csvr": "2026-10-23T22:25:39.434Z",
   "team-beef-studios/doom3quest": "2026-10-23T22:25:39.434Z",
   "team-beef-studios/ioq3quest": "2026-10-23T22:25:39.434Z",
+  "team-beef-studios/jkxr#jedi-knight-jedi-academy-vr": "2026-10-25T15:36:27.479Z",
+  "team-beef-studios/jkxr#jedi-knight-jedi-outcast-vr": "2026-10-25T15:36:27.479Z",
   "team-beef-studios/jkxr": "2026-10-23T22:25:39.434Z",
   "team-beef-studios/lambda1vr": "2026-10-23T22:25:39.434Z",
   "team-beef-studios/preyvr": "2026-10-23T22:25:39.434Z",
@@ -470,8 +1133,10 @@
   "team-beef-studios/quakequest": "2026-10-23T22:25:39.434Z",
   "team-beef-studios/questzdoom": "2026-10-23T22:25:39.434Z",
   "team-beef-studios/razexr": "2026-10-23T22:25:39.434Z",
+  "team-beef-studios/realrtcwxr": "2026-10-25T15:36:27.479Z",
   "team-beef-studios/rtcwquest": "2026-10-23T22:25:39.434Z",
   "teamgdb/yakumo": "2026-10-23T22:25:39.434Z",
+  "teamwheelwizard/wheelwizard": "2026-10-25T15:36:27.479Z",
   "technicallycomputers/bomberman-fantasy-race-recomp": "2026-10-23T22:25:39.434Z",
   "technicallycomputers/bomberman-world-recomp": "2026-10-23T22:25:39.434Z",
   "technicallycomputers/bombermanpartyeditionrecomp": "2026-10-23T22:25:39.434Z",
@@ -483,52 +1148,124 @@
   "technicallycomputers/star-wars---episode-i---jedi-power-battles-recomp": "2026-10-23T22:25:39.434Z",
   "technicallycomputers/street-fighter-alpha-3-recomp": "2026-10-23T22:25:39.434Z",
   "technicallycomputers/twistedmetal4recomp": "2026-10-23T22:25:39.434Z",
+  "teddybear082/crueltysquadvr-modloader": "2026-10-25T15:36:27.479Z",
+  "tekrantgaming/digdug-native": "2026-10-25T15:36:27.479Z",
   "tekrantgaming/earthworm-jim-hd-recompiled": "2026-10-23T22:25:39.434Z",
   "tekrantgaming/king-kong-recompiled": "2026-10-23T22:25:39.434Z",
+  "tekrantgaming/outpost-kaloki-x-recompiled": "2026-10-25T15:36:27.479Z",
+  "tekrantgaming/point-blank-recompiled": "2026-10-25T15:36:27.479Z",
+  "tekrantgaming/simpsons-wrestling-recompiled": "2026-10-25T15:36:27.479Z",
+  "tekrantgaming/south-park-tenormans-revenge-recompiled": "2026-10-25T15:36:27.479Z",
+  "tekrantgaming/south-park-tower-defense-recompiled": "2026-10-25T15:36:27.479Z",
+  "tensai30/judgmentvr_1.1": "2026-10-25T15:36:27.479Z",
+  "tensai30/shenmuevr-downloads": "2026-10-25T15:36:27.479Z",
   "testdriveupgrade/megadriverecomp": "2026-10-23T22:46:33.769Z",
+  "tgacquin/mm3d-dekui": "2026-10-25T15:36:27.479Z",
   "tgp482/black-xberecomp": "2026-10-23T22:25:39.434Z",
   "tgp482/scda-xberecomp": "2026-10-23T22:25:39.434Z",
   "tgp482/xboxxberecomp": "2026-10-23T22:46:33.769Z",
   "thatguymcd/dkr-r": "2026-10-23T22:25:39.434Z",
+  "thatguymcd/glover-r": "2026-10-25T15:36:27.479Z",
   "thatguymcd/rocket-r": "2026-10-23T22:25:39.434Z",
   "theboy181/drmario64_recomp_plus": "2026-10-23T22:25:39.434Z",
+  "thebradshaw/topgear-pc": "2026-10-25T15:36:27.479Z",
   "theclub654/projectcane": "2026-10-23T22:25:39.434Z",
+  "thecosmictangerine-cloud/dishonored-2-vr": "2026-10-25T15:36:27.479Z",
+  "thefixinhixon/ultracombo": "2026-10-25T15:36:27.479Z",
+  "theforceengine/theforceengine": "2026-10-25T15:36:27.479Z",
+  "thefreemike31/fear-vr": "2026-10-25T15:36:27.479Z",
   "thegh0stship/battletanx-global-assault-pc-port": "2026-10-23T22:46:33.769Z",
   "themriron2/sf64-psp": "2026-10-23T22:25:39.434Z",
+  "themuffinator/openq4": "2026-10-25T15:36:27.479Z",
   "theokyr/project8recomp": "2026-10-23T22:25:39.434Z",
   "theonlyzac/sly1": "2026-10-23T22:25:39.434Z",
+  "therunaway5/phase-distorter": "2026-10-25T15:36:27.479Z",
+  "thewill2002/fallout3vr": "2026-10-25T15:36:27.479Z",
+  "thextech/thextech": "2026-10-25T15:36:27.479Z",
   "thiagolira/trouble-makers-pc-recomp": "2026-10-23T22:25:39.434Z",
   "thiagordsfx/urban-reign-recomp": "2026-10-23T22:46:33.769Z",
+  "thibautbus/top": "2026-10-25T15:36:27.479Z",
+  "tig3rmast3r/witcher3-vr": "2026-10-25T15:36:27.479Z",
+  "timftw21/burnout2-recompilation": "2026-10-25T15:36:27.479Z",
+  "timguin-87/snowrunner-vr": "2026-10-25T15:36:27.479Z",
   "tinsarfal/qualyx": "2026-10-23T22:25:39.434Z",
   "tinsarfal/sourcevr": "2026-10-23T22:25:39.434Z",
+  "tk22-26/jetforcegemini-recomp": "2026-10-25T15:36:27.479Z",
   "tmcleroy/cps2recomp": "2026-10-24T18:51:55.727Z",
+  "toffelskater/x4_vr": "2026-10-25T15:36:27.479Z",
   "tomups/openmw-vr-quest": "2026-10-23T22:25:39.434Z",
+  "tools81/link-faces-of-evil-static-recomp": "2026-10-25T15:36:27.479Z",
+  "tools81/mutant-rampage-bodyslam-static-recomp": "2026-10-25T15:36:27.479Z",
+  "tools81/nfl-head-coach-09-static-recomp": "2026-10-25T15:36:27.479Z",
+  "tools81/zelda-wand-of-gamelon-static-recomp": "2026-10-25T15:36:27.479Z",
+  "trevtv/dawnvr": "2026-10-25T15:36:27.479Z",
   "troyedwardsjr/z2rs": "2026-10-23T22:25:39.434Z",
+  "tvall43/metal-arms-pc-port": "2026-10-25T15:36:27.479Z",
   "twilitrealm/dusklight": "2026-10-23T22:25:39.434Z",
+  "tx00100xt/serioussamclassic": "2026-10-25T15:36:27.479Z",
+  "ultimabear/openchaos": "2026-10-25T15:36:27.479Z",
+  "unchiga/yu-gi-oh-forbidden-memories-recompiled": "2026-10-25T15:36:27.479Z",
   "unchiga/yugiohforbiddenmemoriesrecomp": "2026-10-23T22:25:39.434Z",
+  "underdecoded/gen2recomped": "2026-10-25T15:36:27.479Z",
+  "uzdoom/uzdoom": "2026-10-25T15:36:27.479Z",
+  "vaas993/thehuntercotw-vr": "2026-10-25T15:36:27.479Z",
+  "vasilkovnd/ds2-nx": "2026-10-25T15:36:27.479Z",
+  "vcmi/vcmi": "2026-10-25T15:36:27.479Z",
   "vector35/binaryninja-api": "2026-10-23T22:46:33.769Z",
+  "vibecodekun/shantaerecomp": "2026-10-25T15:36:27.479Z",
+  "vidanox/banjotooierecompiled": "2026-10-25T15:36:27.479Z",
+  "vincecrusty/turokvr": "2026-10-25T15:36:27.479Z",
+  "vinceip/fci-recomp": "2026-10-25T15:36:27.479Z",
   "vistalargagames/smash-remix-vr": "2026-10-23T22:25:39.434Z",
   "vistalargagames/waverace64-questvr": "2026-10-23T22:25:39.434Z",
   "vitomiguelf/crashott-pc": "2026-10-24T18:51:55.727Z",
+  "vittorioromeo/quakevr": "2026-10-25T15:36:27.479Z",
+  "voicedrew11/verdite2": "2026-10-25T15:36:27.479Z",
+  "voicedrew11/verdite3": "2026-10-25T15:36:27.479Z",
+  "vr-stereo-hub/bioshock-trilogy-vr": "2026-10-25T15:36:27.479Z",
+  "vr-stereo-hub/dishonored-vr": "2026-10-25T15:36:27.479Z",
   "vyanhursky/defjamffny-recomp": "2026-10-23T22:46:33.769Z",
+  "wargus/war1gus": "2026-10-25T15:36:27.479Z",
+  "wargus/wargus": "2026-10-25T15:36:27.479Z",
+  "wesleyluk90/ffxiv-vr": "2026-10-25T15:36:27.479Z",
+  "whompay/infamousreborn": "2026-10-25T15:36:27.479Z",
   "whompay/saintsreborn": "2026-10-23T22:25:39.434Z",
   "winlatorxr/winlatorxr": "2026-10-23T22:25:39.434Z",
   "wipeout-phantom-edition/wipeout-phantom-edition": "2026-10-23T22:25:39.434Z",
   "wistfulhopes/dbz1": "2026-10-23T22:25:39.434Z",
   "wistfulhopes/rb2": "2026-10-23T22:46:33.769Z",
+  "witherblitz/nsmb-wii-multiplayer-recompilation": "2026-10-25T15:36:27.479Z",
   "wivi514/dead_rising_2_case_west_xenon_recomp": "2026-10-23T22:25:39.434Z",
   "wivi514/dead_rising_2_case_zero_xenon_recomp": "2026-10-23T22:25:39.434Z",
+  "wootbeer/btgarecomp": "2026-10-25T15:36:27.479Z",
+  "wootbeer/btrecomp": "2026-10-25T15:36:27.479Z",
+  "wootbeer/bzrecomp": "2026-10-25T15:36:27.479Z",
   "wootbeer/dinotale": "2026-10-23T22:25:39.434Z",
+  "wootbeer/jillandroid": "2026-10-25T15:36:27.479Z",
+  "wootbeer/paxdino": "2026-10-25T15:36:27.479Z",
   "wootbeer/snprecomp": "2026-10-24T18:51:55.727Z",
+  "wouterpleizier/albavr": "2026-10-25T15:36:27.479Z",
+  "xander-haj/z3r": "2026-10-25T15:36:27.479Z",
   "xander-haj/z3r-launcher": "2026-10-23T22:25:39.434Z",
   "xeeynamo/sotn-decomp": "2026-10-23T22:25:39.434Z",
+  "xen-42/dredgevr": "2026-10-25T15:36:27.479Z",
+  "xenira/techtonicavr": "2026-10-25T15:36:27.479Z",
+  "xenophobentx/takedawn": "2026-10-25T15:36:27.479Z",
+  "xgcmodding/platinum": "2026-10-25T15:36:27.479Z",
+  "y0oshi/lain-psx-decompiled": "2026-10-25T15:36:27.479Z",
   "yell0wsuit/cuttherope-dx": "2026-10-23T22:25:39.434Z",
   "yestermester/thesimpsonsgamerecomp": "2026-10-23T22:25:39.434Z",
+  "yokimitsuro/khdays-port": "2026-10-25T15:36:27.479Z",
   "yoshicrystal9/re-gh2": "2026-10-23T22:46:33.769Z",
+  "youkaicountry/yknytt": "2026-10-25T15:36:27.479Z",
+  "yuutatsubasa/chaotixrecompiled": "2026-10-25T15:36:27.479Z",
+  "yuutatsubasa/free-riders-recompiled": "2026-10-25T15:36:27.479Z",
   "yyozcan/tobiichi-port": "2026-10-23T22:46:33.769Z",
   "z2442/oot-psp": "2026-10-23T22:25:39.434Z",
   "z3xox/bt3-recomp": "2026-10-23T22:46:33.769Z",
   "z3xox/tenkaichi3decomp": "2026-10-23T22:25:39.434Z",
+  "zaps166/nfsiise": "2026-10-25T15:36:27.479Z",
+  "zdoom/gzdoom": "2026-10-25T15:36:27.479Z",
   "zelda64recomp/zelda64recomp": "2026-10-23T22:25:39.434Z",
   "zeldaret/botw": "2026-10-23T22:46:33.769Z",
   "zeldaret/mm": "2026-10-23T22:25:39.434Z",
@@ -539,6 +1276,7 @@
   "zeldawwhdrecomp/zeldawwhdrecomp": "2026-10-23T22:25:39.434Z",
   "zer0ducksgiven/forza-motorsport-2-regpu": "2026-10-23T22:46:33.769Z",
   "zeranemesis/marioparty4": "2026-10-23T22:25:39.434Z",
+  "zinexda/sonic-r-android": "2026-10-25T15:36:27.479Z",
   "zloikiller/nfs3recompiled-android": "2026-10-23T22:25:39.434Z",
   "zolaware/reblue": "2026-10-23T22:25:39.434Z",
   "zoomieszaggy/space-channel-5": "2026-10-23T22:25:39.434Z",
@@ -547,6 +1285,223 @@
   "zwaetschge/acgc-android-port": "2026-10-23T22:25:39.434Z"
  },
  "found": {
+  "acdlite/recompose": {
+   "id": "acdlite/recompose",
+   "name": "recompose",
+   "game": "recompose",
+   "categories": [
+    "Other"
+   ],
+   "type": "recompilation",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "acdlite/recompose"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "recomp in:name stars:>40",
+    "date": "2026-10-25T15:36:27.479Z"
+   },
+   "autoFollow": true
+  },
+  "adore11s/god-of-war-vr-mod": {
+   "id": "adore11s/god-of-war-vr-mod",
+   "name": "God of War VR Mod",
+   "game": "God of War VR Mod",
+   "categories": [
+    "PlayStation",
+    "VR Ports"
+   ],
+   "type": "port",
+   "tags": [
+    "VR"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "adore11s/God-of-War-VR-Mod"
+   },
+   "links": [],
+   "sources": [
+    "news"
+   ],
+   "discoveredFrom": {
+    "kind": "news",
+    "title": "Modders do what Sony PlayStation CAN'T do! - NEW God Of War VR Mod (W.I.P)",
+    "url": "https://www.youtube.com/watch?v=7A6ZVYrBZsI",
+    "source": "YouTube: Paradise Decay",
+    "date": "2026-10-19T17:00:06.000Z"
+   },
+   "autoFollow": true
+  },
+  "aeka0/overlord": {
+   "id": "aeka0/overlord",
+   "name": "Overlord",
+   "game": "Overlord",
+   "categories": [
+    "Other",
+    "VR Ports"
+   ],
+   "type": "port",
+   "tags": [
+    "VR"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "Aeka0/Overlord"
+   },
+   "links": [],
+   "sources": [
+    "news"
+   ],
+   "discoveredFrom": {
+    "kind": "news",
+    "title": "Modern Warfare 2 VR Feels Like a AAA VR Game",
+    "url": "https://www.youtube.com/watch?v=poRsUu-4n1I",
+    "source": "YouTube: Beardo Benjo",
+    "date": "2026-10-07T16:01:58.000Z"
+   },
+   "autoFollow": true
+  },
+  "alextreumer/balatrovrmod": {
+   "id": "alextreumer/balatrovrmod",
+   "name": "Balatro VRMod",
+   "game": "Balatro VRMod",
+   "categories": [
+    "Other",
+    "VR Ports"
+   ],
+   "type": "port",
+   "tags": [
+    "VR"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "alextreumer/BalatroVRMod"
+   },
+   "links": [],
+   "sources": [
+    "news"
+   ],
+   "discoveredFrom": {
+    "kind": "news",
+    "title": "Balatro VR Performance / New VR Mod with Motion Controls / Meta Quest 3 + RTX 4080 Super",
+    "url": "https://www.youtube.com/watch?v=RgkfDyy8bQs",
+    "source": "YouTube: NotAGameAddict",
+    "date": "2026-10-25T01:14:49.000Z"
+   },
+   "autoFollow": true
+  },
+  "android-xr-bridge/axrb": {
+   "id": "android-xr-bridge/axrb",
+   "name": "AXRB",
+   "game": "AXRB",
+   "categories": [
+    "Other",
+    "VR Ports"
+   ],
+   "type": "port",
+   "tags": [
+    "VR"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "Android-XR-Bridge/AXRB"
+   },
+   "links": [],
+   "sources": [
+    "news"
+   ],
+   "discoveredFrom": {
+    "kind": "news",
+    "title": "Steam Frame Can Play Quest Exclusives!",
+    "url": "https://www.youtube.com/watch?v=q0_SOsS732o",
+    "source": "YouTube: Beardo Benjo",
+    "date": "2026-10-09T16:00:16.000Z"
+   },
+   "autoFollow": true
+  },
+  "arcanite24/gb-recompiled": {
+   "id": "arcanite24/gb-recompiled",
+   "name": "gb recompiled",
+   "game": "gb recompiled",
+   "categories": [
+    "Game Boy"
+   ],
+   "type": "recompilation",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "arcanite24/gb-recompiled"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "recomp in:name stars:>40",
+    "date": "2026-10-25T15:36:27.479Z"
+   },
+   "autoFollow": true
+  },
+  "bearstonem/d2r-pcvr": {
+   "id": "bearstonem/d2r-pcvr",
+   "name": "d2r pcvr",
+   "game": "d2r pcvr",
+   "categories": [
+    "Other",
+    "VR Ports"
+   ],
+   "type": "port",
+   "tags": [
+    "VR"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "bearstonem/d2r-pcvr"
+   },
+   "links": [],
+   "sources": [
+    "news"
+   ],
+   "discoveredFrom": {
+    "kind": "news",
+    "title": "Diablo 2 Resurrected VR Mod! - \"It's INCREDIBLE!\"",
+    "url": "https://www.youtube.com/watch?v=dqZavo4rAXg",
+    "source": "YouTube: Paradise Decay",
+    "date": "2026-10-18T15:30:08.000Z"
+   },
+   "autoFollow": true
+  },
+  "bgyss/switchrecomp": {
+   "id": "bgyss/switchrecomp",
+   "name": "Switch Recomp",
+   "game": "Switch Recomp",
+   "categories": [
+    "Nintendo Switch"
+   ],
+   "type": "recompilation",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "bgyss/SwitchRecomp"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "\"static recompilation\" in:description stars:>30",
+    "date": "2026-10-25T15:36:27.479Z"
+   },
+   "autoFollow": false
+  },
   "blacklabelhq/recompone": {
    "id": "blacklabelhq/recompone",
    "name": "Recomp One",
@@ -597,6 +1552,33 @@
    },
    "autoFollow": false
   },
+  "bldbrne-vr/bldbrne-vr": {
+   "id": "bldbrne-vr/bldbrne-vr",
+   "name": "bldbrne vr",
+   "game": "bldbrne vr",
+   "categories": [
+    "Other",
+    "VR Ports"
+   ],
+   "type": "port",
+   "tags": [
+    "VR"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "bldbrne-vr/bldbrne-vr"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "\"VR mod\" in:description stars:>30",
+    "date": "2026-10-25T15:36:27.479Z"
+   },
+   "autoFollow": false
+  },
   "boron853/souls-of-the-reaper": {
    "id": "boron853/souls-of-the-reaper",
    "name": "Souls of the Reaper",
@@ -618,6 +1600,56 @@
     "kind": "search",
     "title": "rexglue in:readme stars:>30",
     "date": "2026-10-23T22:46:33.769Z"
+   },
+   "autoFollow": false
+  },
+  "braxusx/farcry2vr": {
+   "id": "braxusx/farcry2vr",
+   "name": "Far Cry2VR",
+   "game": "Far Cry2VR",
+   "categories": [
+    "Other"
+   ],
+   "type": "port",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "Braxusx/FarCry2VR"
+   },
+   "links": [],
+   "sources": [
+    "news"
+   ],
+   "discoveredFrom": {
+    "kind": "news",
+    "title": "Far Cry 2 VR Performance / New VR Mod with 6DOF Motion Controls / Meta Quest 3 + RTX 4080 Super",
+    "url": "https://www.youtube.com/watch?v=9kPQB1_rBks",
+    "source": "YouTube: NotAGameAddict",
+    "date": "2026-10-22T23:36:07.000Z"
+   },
+   "autoFollow": false
+  },
+  "bryanthaboi/gen1recomp-mod-index": {
+   "id": "bryanthaboi/gen1recomp-mod-index",
+   "name": "gen1recomp mod index",
+   "game": "gen1recomp mod index",
+   "categories": [
+    "Other"
+   ],
+   "type": "recompilation",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "bryanthaboi/gen1recomp-mod-index"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "recomp in:name stars:>40",
+    "date": "2026-10-25T15:36:27.479Z"
    },
    "autoFollow": false
   },
@@ -645,6 +1677,59 @@
    },
    "autoFollow": false
   },
+  "bw1-vr/bw1-vr": {
+   "id": "bw1-vr/bw1-vr",
+   "name": "BW1 VR",
+   "game": "BW1 VR",
+   "categories": [
+    "Other",
+    "VR Ports"
+   ],
+   "type": "port",
+   "tags": [
+    "VR"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "BW1-VR/BW1-VR"
+   },
+   "links": [],
+   "sources": [
+    "news"
+   ],
+   "discoveredFrom": {
+    "kind": "news",
+    "title": "Black & White (2001) VR Performance / New VR Mod with 6DOF Motion Controls / Quest 3 + RTX 4080 S",
+    "url": "https://www.youtube.com/watch?v=lJnD3jDzF1U",
+    "source": "YouTube: NotAGameAddict",
+    "date": "2026-10-24T14:00:18.000Z"
+   },
+   "autoFollow": true
+  },
+  "carriex/recomp": {
+   "id": "carriex/recomp",
+   "name": "recomp",
+   "game": "recomp",
+   "categories": [
+    "Other"
+   ],
+   "type": "recompilation",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "carriex/recomp"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "recomp in:name stars:>40",
+    "date": "2026-10-25T15:36:27.479Z"
+   },
+   "autoFollow": false
+  },
   "centollos/switchwakerhd": {
    "id": "centollos/switchwakerhd",
    "name": "Switch Waker HD",
@@ -668,6 +1753,35 @@
     "date": "2026-10-24T18:51:55.727Z"
    },
    "autoFollow": false
+  },
+  "cesarus85/ringfall-mjolnir-vr": {
+   "id": "cesarus85/ringfall-mjolnir-vr",
+   "name": "ringfall mjolnir vr",
+   "game": "ringfall mjolnir vr",
+   "categories": [
+    "Other",
+    "VR Ports"
+   ],
+   "type": "port",
+   "tags": [
+    "VR"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "Cesarus85/ringfall-mjolnir-vr"
+   },
+   "links": [],
+   "sources": [
+    "news"
+   ],
+   "discoveredFrom": {
+    "kind": "news",
+    "title": "The Most Exciting Thing Happening on Quest 3 Right Now...",
+    "url": "https://www.youtube.com/watch?v=0R36sf-Tomw",
+    "source": "YouTube: Gamertag VR",
+    "date": "2026-10-18T16:43:50.000Z"
+   },
+   "autoFollow": true
   },
   "chrissotraidis/annepad": {
    "id": "chrissotraidis/annepad",
@@ -818,6 +1932,30 @@
    },
    "autoFollow": false
   },
+  "decompals/ido-static-recomp": {
+   "id": "decompals/ido-static-recomp",
+   "name": "ido static recomp",
+   "game": "ido static recomp",
+   "categories": [
+    "Other"
+   ],
+   "type": "recompilation",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "decompals/ido-static-recomp"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "\"static recompilation\" in:description stars:>30",
+    "date": "2026-10-25T15:36:27.479Z"
+   },
+   "autoFollow": false
+  },
   "decompme/decomp.me": {
    "id": "decompme/decomp.me",
    "name": "decomp.me",
@@ -866,6 +2004,32 @@
    },
    "autoFollow": false
   },
+  "dortamur/satisfactory-uevr-enhancements": {
+   "id": "dortamur/satisfactory-uevr-enhancements",
+   "name": "satisfactory uevr enhancements",
+   "game": "satisfactory uevr enhancements",
+   "categories": [
+    "Other"
+   ],
+   "type": "port",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "dortamur/satisfactory-uevr-enhancements"
+   },
+   "links": [],
+   "sources": [
+    "news"
+   ],
+   "discoveredFrom": {
+    "kind": "news",
+    "title": "FICSIT APPROVED: Satisfactory 1.2 now works in VR",
+    "url": "https://www.youtube.com/watch?v=44AdID_43Rc",
+    "source": "YouTube: Under The VRadar",
+    "date": "2026-07-26T18:00:23.000Z"
+   },
+   "autoFollow": true
+  },
   "dothacktranslate/dothack-recompilation": {
    "id": "dothacktranslate/dothack-recompilation",
    "name": "dothack recompilation",
@@ -887,6 +2051,33 @@
     "kind": "search",
     "title": "PS2Recomp in:readme stars:>20",
     "date": "2026-10-23T22:46:33.769Z"
+   },
+   "autoFollow": false
+  },
+  "dr-89/fear-vr": {
+   "id": "dr-89/fear-vr",
+   "name": "fear vr",
+   "game": "fear vr",
+   "categories": [
+    "Other",
+    "VR Ports"
+   ],
+   "type": "port",
+   "tags": [
+    "VR"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "DR-89/fear-vr"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "topic:openxr mod stars:>30",
+    "date": "2026-10-25T15:36:27.479Z"
    },
    "autoFollow": false
   },
@@ -914,6 +2105,30 @@
    },
    "autoFollow": false
   },
+  "drummingbird1/gow-psp-recomp": {
+   "id": "drummingbird1/gow-psp-recomp",
+   "name": "gow psp recomp",
+   "game": "gow psp recomp",
+   "categories": [
+    "PlayStation Portable"
+   ],
+   "type": "recompilation",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "DrummingBird1/gow-psp-recomp"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "topic:pc-port stars:>50",
+    "date": "2026-10-25T15:36:27.479Z"
+   },
+   "autoFollow": false
+  },
   "dyotson/forzahorizon1-reimagined": {
    "id": "dyotson/forzahorizon1-reimagined",
    "name": "Forza Horizon1 Re Imagined",
@@ -935,6 +2150,30 @@
     "kind": "search",
     "title": "topic:static-recompilation stars:>20",
     "date": "2026-10-24T18:51:55.727Z"
+   },
+   "autoFollow": false
+  },
+  "dzakyraf/pes2017-recomp": {
+   "id": "dzakyraf/pes2017-recomp",
+   "name": "pes2017 recomp",
+   "game": "pes2017 recomp",
+   "categories": [
+    "Other"
+   ],
+   "type": "recompilation",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "dzakyraf/pes2017-recomp"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "XenonRecomp in:readme stars:>30",
+    "date": "2026-10-25T15:36:27.479Z"
    },
    "autoFollow": false
   },
@@ -1108,6 +2347,35 @@
    },
    "autoFollow": false
   },
+  "gameordie007/descent-1-and-2-vr": {
+   "id": "gameordie007/descent-1-and-2-vr",
+   "name": "Descent 1 and 2 VR",
+   "game": "Descent 1 and 2 VR",
+   "categories": [
+    "Other",
+    "VR Ports"
+   ],
+   "type": "port",
+   "tags": [
+    "VR"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "GameOrDie007/Descent-1-and-2-VR"
+   },
+   "links": [],
+   "sources": [
+    "news"
+   ],
+   "discoveredFrom": {
+    "kind": "news",
+    "title": "Descent in VR Just Got WAY Better",
+    "url": "https://www.youtube.com/watch?v=JQkiFOKlkl4",
+    "source": "YouTube: Game Or Die",
+    "date": "2026-10-23T22:25:54.000Z"
+   },
+   "autoFollow": true
+  },
   "gensokyoclub/th06": {
    "id": "gensokyoclub/th06",
    "name": "th06",
@@ -1155,6 +2423,35 @@
     "date": "2026-10-24T18:51:55.727Z"
    },
    "autoFollow": false
+  },
+  "gjc9620/gears-vr": {
+   "id": "gjc9620/gears-vr",
+   "name": "gears vr",
+   "game": "gears vr",
+   "categories": [
+    "Other",
+    "VR Ports"
+   ],
+   "type": "port",
+   "tags": [
+    "VR"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "gjc9620/gears-vr"
+   },
+   "links": [],
+   "sources": [
+    "news"
+   ],
+   "discoveredFrom": {
+    "kind": "news",
+    "title": "I Didn’t Think Gears of War Would Ever Be a Possibility Until Now…Am I Surprised Though?Not Really.",
+    "url": "https://www.youtube.com/watch?v=vnjV5pgHbzs",
+    "source": "YouTube: TheReclusiveGamer",
+    "date": "2026-10-23T21:05:59.000Z"
+   },
+   "autoFollow": true
   },
   "granimated/minecraftlce": {
    "id": "granimated/minecraftlce",
@@ -1249,6 +2546,59 @@
     "kind": "search",
     "title": "topic:pc-port stars:>50",
     "date": "2026-10-24T18:51:55.727Z"
+   },
+   "autoFollow": false
+  },
+  "headsplosion/lost-world-supermodel-pcvr": {
+   "id": "headsplosion/lost-world-supermodel-pcvr",
+   "name": "lost world supermodel pcvr",
+   "game": "lost world supermodel pcvr",
+   "categories": [
+    "Other",
+    "VR Ports"
+   ],
+   "type": "port",
+   "tags": [
+    "VR"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "headsplosion/lost-world-supermodel-pcvr"
+   },
+   "links": [],
+   "sources": [
+    "news"
+   ],
+   "discoveredFrom": {
+    "kind": "news",
+    "title": "Jurassic Park: The Lost World (1997) PC VR / New VR Mod with Stereo 3D - Motion Controllers / PCVR",
+    "url": "https://www.youtube.com/watch?v=3MvyGpjPfPE",
+    "source": "YouTube: NotAGameAddict",
+    "date": "2026-10-23T20:31:45.000Z"
+   },
+   "autoFollow": true
+  },
+  "hedge-dev/xenosrecomp": {
+   "id": "hedge-dev/xenosrecomp",
+   "name": "Xenos Recomp",
+   "game": "Xenos Recomp",
+   "categories": [
+    "Xbox 360"
+   ],
+   "type": "tool",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "hedge-dev/XenosRecomp"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "recomp in:name stars:>40",
+    "date": "2026-10-25T15:36:27.479Z"
    },
    "autoFollow": false
   },
@@ -1348,6 +2698,62 @@
    },
    "autoFollow": false
   },
+  "howesjamie5-code/milesvr": {
+   "id": "howesjamie5-code/milesvr",
+   "name": "Miles VR",
+   "game": "Miles VR",
+   "categories": [
+    "Other",
+    "VR Ports"
+   ],
+   "type": "port",
+   "tags": [
+    "VR"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "howesjamie5-code/MilesVR"
+   },
+   "links": [],
+   "sources": [
+    "news"
+   ],
+   "discoveredFrom": {
+    "kind": "news",
+    "title": "Spider-Man Miles Morales VR is out! (Alpha)",
+    "url": "https://www.youtube.com/watch?v=3QjIXODB1LM",
+    "source": "YouTube: LunchAndVR",
+    "date": "2026-10-23T14:51:29.000Z"
+   },
+   "autoFollow": true
+  },
+  "humbletim/firestorm-gha": {
+   "id": "humbletim/firestorm-gha",
+   "name": "firestorm gha",
+   "game": "firestorm gha",
+   "categories": [
+    "Other",
+    "VR Ports"
+   ],
+   "type": "port",
+   "tags": [
+    "VR"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "humbletim/firestorm-gha"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "\"VR mod\" in:description stars:>30",
+    "date": "2026-10-25T15:36:27.479Z"
+   },
+   "autoFollow": false
+  },
   "i12bp8/decomp.wtf": {
    "id": "i12bp8/decomp.wtf",
    "name": "decomp.wtf",
@@ -1417,6 +2823,35 @@
     "kind": "search",
     "title": "XenonRecomp in:readme stars:>30",
     "date": "2026-10-23T22:46:33.769Z"
+   },
+   "autoFollow": false
+  },
+  "jacquesdupontd/port0r": {
+   "id": "jacquesdupontd/port0r",
+   "name": "port0r",
+   "game": "port0r",
+   "categories": [
+    "Nintendo Switch",
+    "VR Ports"
+   ],
+   "type": "tool",
+   "tags": [
+    "VR"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "jacquesdupontd/port0r"
+   },
+   "links": [],
+   "sources": [
+    "news"
+   ],
+   "discoveredFrom": {
+    "kind": "news",
+    "title": "The Most Exciting Thing Happening on Quest 3 Right Now...",
+    "url": "https://www.youtube.com/watch?v=0R36sf-Tomw",
+    "source": "YouTube: Gamertag VR",
+    "date": "2026-10-18T16:43:50.000Z"
    },
    "autoFollow": false
   },
@@ -1516,6 +2951,385 @@
    },
    "autoFollow": false
   },
+  "jessicanataliagta/psprecomp": {
+   "id": "jessicanataliagta/psprecomp",
+   "name": "PSPRecomp",
+   "game": "PSPRecomp",
+   "categories": [
+    "PlayStation Portable"
+   ],
+   "type": "tool",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "jessicanataliagta/PSPRecomp"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "\"static recompilation\" in:description stars:>30",
+    "date": "2026-10-25T15:36:27.479Z"
+   },
+   "autoFollow": false
+  },
+  "jrbudda/vivecraft_110": {
+   "id": "jrbudda/vivecraft_110",
+   "name": "Vivecraft 110",
+   "game": "Vivecraft 110",
+   "categories": [
+    "Other",
+    "VR Ports"
+   ],
+   "type": "port",
+   "tags": [
+    "VR"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "jrbudda/Vivecraft_110"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "\"VR mod\" in:description stars:>30",
+    "date": "2026-10-25T15:36:27.479Z"
+   },
+   "autoFollow": false
+  },
+  "jrbudda/vivecraft_111": {
+   "id": "jrbudda/vivecraft_111",
+   "name": "Vivecraft 111",
+   "game": "Vivecraft 111",
+   "categories": [
+    "Other",
+    "VR Ports"
+   ],
+   "type": "port",
+   "tags": [
+    "VR"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "jrbudda/Vivecraft_111"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "\"VR mod\" in:description stars:>30",
+    "date": "2026-10-25T15:36:27.479Z"
+   },
+   "autoFollow": false
+  },
+  "jrbudda/vivecraft_112": {
+   "id": "jrbudda/vivecraft_112",
+   "name": "Vivecraft 112",
+   "game": "Vivecraft 112",
+   "categories": [
+    "Other",
+    "VR Ports"
+   ],
+   "type": "port",
+   "tags": [
+    "VR"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "jrbudda/Vivecraft_112"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "\"VR mod\" in:description stars:>30",
+    "date": "2026-10-25T15:36:27.479Z"
+   },
+   "autoFollow": false
+  },
+  "jrbudda/vivecraft_113": {
+   "id": "jrbudda/vivecraft_113",
+   "name": "Vivecraft 113",
+   "game": "Vivecraft 113",
+   "categories": [
+    "Other",
+    "VR Ports"
+   ],
+   "type": "port",
+   "tags": [
+    "VR"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "jrbudda/Vivecraft_113"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "\"VR mod\" in:description stars:>30",
+    "date": "2026-10-25T15:36:27.479Z"
+   },
+   "autoFollow": false
+  },
+  "jrbudda/vivecraft_114": {
+   "id": "jrbudda/vivecraft_114",
+   "name": "Vivecraft 114",
+   "game": "Vivecraft 114",
+   "categories": [
+    "Other",
+    "VR Ports"
+   ],
+   "type": "port",
+   "tags": [
+    "VR"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "jrbudda/Vivecraft_114"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "\"VR mod\" in:description stars:>30",
+    "date": "2026-10-25T15:36:27.479Z"
+   },
+   "autoFollow": false
+  },
+  "jrbudda/vivecraft_115": {
+   "id": "jrbudda/vivecraft_115",
+   "name": "Vivecraft 115",
+   "game": "Vivecraft 115",
+   "categories": [
+    "Other",
+    "VR Ports"
+   ],
+   "type": "port",
+   "tags": [
+    "VR"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "jrbudda/Vivecraft_115"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "\"VR mod\" in:description stars:>30",
+    "date": "2026-10-25T15:36:27.479Z"
+   },
+   "autoFollow": false
+  },
+  "jrbudda/vivecraft_116": {
+   "id": "jrbudda/vivecraft_116",
+   "name": "Vivecraft 116",
+   "game": "Vivecraft 116",
+   "categories": [
+    "Other",
+    "VR Ports"
+   ],
+   "type": "port",
+   "tags": [
+    "VR"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "jrbudda/Vivecraft_116"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "\"VR mod\" in:description stars:>30",
+    "date": "2026-10-25T15:36:27.479Z"
+   },
+   "autoFollow": false
+  },
+  "jrbudda/vivecraft_118": {
+   "id": "jrbudda/vivecraft_118",
+   "name": "Vivecraft 118",
+   "game": "Vivecraft 118",
+   "categories": [
+    "Other",
+    "VR Ports"
+   ],
+   "type": "port",
+   "tags": [
+    "VR"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "jrbudda/Vivecraft_118"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "\"VR mod\" in:description stars:>30",
+    "date": "2026-10-25T15:36:27.479Z"
+   },
+   "autoFollow": false
+  },
+  "jrbudda/vivecraft_119": {
+   "id": "jrbudda/vivecraft_119",
+   "name": "Vivecraft 119",
+   "game": "Vivecraft 119",
+   "categories": [
+    "Other",
+    "VR Ports"
+   ],
+   "type": "port",
+   "tags": [
+    "VR"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "jrbudda/Vivecraft_119"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "\"VR mod\" in:description stars:>30",
+    "date": "2026-10-25T15:36:27.479Z"
+   },
+   "autoFollow": false
+  },
+  "jrbudda/vivecraft_spigot_extensions": {
+   "id": "jrbudda/vivecraft_spigot_extensions",
+   "name": "Vivecraft Spigot Extensions",
+   "game": "Vivecraft Spigot Extensions",
+   "categories": [
+    "Other",
+    "VR Ports"
+   ],
+   "type": "tool",
+   "tags": [
+    "VR"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "jrbudda/Vivecraft_Spigot_Extensions"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "\"VR mod\" in:description stars:>30",
+    "date": "2026-10-25T15:36:27.479Z"
+   },
+   "autoFollow": false
+  },
+  "jrdevo/ets2-ats-dlaa-dlss-injection-mod": {
+   "id": "jrdevo/ets2-ats-dlaa-dlss-injection-mod",
+   "name": "ETS2 ATS DLAA DLSS Injection Mod",
+   "game": "ETS2 ATS DLAA DLSS Injection Mod",
+   "categories": [
+    "Other",
+    "VR Ports"
+   ],
+   "type": "port",
+   "tags": [
+    "VR"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "JRDevo/ETS2-ATS-DLAA-DLSS-Injection-Mod"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "topic:openxr mod stars:>30",
+    "date": "2026-10-25T15:36:27.479Z"
+   },
+   "autoFollow": false
+  },
+  "junglejuz/batman-arkham-knight-vr": {
+   "id": "junglejuz/batman-arkham-knight-vr",
+   "name": "Batman Arkham Knight VR",
+   "game": "Batman Arkham Knight VR",
+   "categories": [
+    "Other",
+    "VR Ports"
+   ],
+   "type": "port",
+   "tags": [
+    "VR"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "junglejuz/Batman-Arkham-Knight-VR"
+   },
+   "links": [],
+   "sources": [
+    "news"
+   ],
+   "discoveredFrom": {
+    "kind": "news",
+    "title": "I Just Can't Stop Playing This Game...It Was WAY AHEAD of It's Time",
+    "url": "https://www.youtube.com/watch?v=-hY0v37Lfrk",
+    "source": "YouTube: TheReclusiveGamer",
+    "date": "2026-10-07T20:16:31.000Z"
+   },
+   "autoFollow": true
+  },
+  "junglejuz/sekiro-vr": {
+   "id": "junglejuz/sekiro-vr",
+   "name": "Sekiro VR",
+   "game": "Sekiro VR",
+   "categories": [
+    "Other",
+    "VR Ports"
+   ],
+   "type": "port",
+   "tags": [
+    "VR"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "junglejuz/Sekiro-VR"
+   },
+   "links": [],
+   "sources": [
+    "news"
+   ],
+   "discoveredFrom": {
+    "kind": "news",
+    "title": "A Wetdream in the Form of Yet ANOTHER Flat to VR Conversion has just Came...Out(pun intended)",
+    "url": "https://www.youtube.com/watch?v=7cDSscRgIuc",
+    "source": "YouTube: TheReclusiveGamer",
+    "date": "2026-10-16T15:27:33.000Z"
+   },
+   "autoFollow": true
+  },
   "kaikoclanworth1/wwe-svr2011-pc": {
    "id": "kaikoclanworth1/wwe-svr2011-pc",
    "name": "wwe svr2011 pc",
@@ -1537,6 +3351,87 @@
     "kind": "search",
     "title": "rexglue in:readme stars:>30",
     "date": "2026-10-23T22:46:33.769Z"
+   },
+   "autoFollow": false
+  },
+  "keton/ace-combat-uevr": {
+   "id": "keton/ace-combat-uevr",
+   "name": "ace combat uevr",
+   "game": "ace combat uevr",
+   "categories": [
+    "Other",
+    "VR Ports"
+   ],
+   "type": "tool",
+   "tags": [
+    "VR"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "keton/ace-combat-uevr"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "topic:uevr stars:>15",
+    "date": "2026-10-25T15:36:27.479Z"
+   },
+   "autoFollow": false
+  },
+  "keton/chihuahua": {
+   "id": "keton/chihuahua",
+   "name": "chihuahua",
+   "game": "chihuahua",
+   "categories": [
+    "Other",
+    "VR Ports"
+   ],
+   "type": "port",
+   "tags": [
+    "VR"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "keton/chihuahua"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "topic:uevr stars:>15",
+    "date": "2026-10-25T15:36:27.479Z"
+   },
+   "autoFollow": false
+  },
+  "keton/pacific-drive-uevr": {
+   "id": "keton/pacific-drive-uevr",
+   "name": "pacific drive uevr",
+   "game": "pacific drive uevr",
+   "categories": [
+    "Other",
+    "VR Ports"
+   ],
+   "type": "tool",
+   "tags": [
+    "VR"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "keton/pacific-drive-uevr"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "topic:uevr stars:>15",
+    "date": "2026-10-25T15:36:27.479Z"
    },
    "autoFollow": false
   },
@@ -1588,6 +3483,209 @@
    },
    "autoFollow": false
   },
+  "king-ej/blood-west-vr": {
+   "id": "king-ej/blood-west-vr",
+   "name": "Blood West VR",
+   "game": "Blood West VR",
+   "categories": [
+    "Other",
+    "VR Ports"
+   ],
+   "type": "port",
+   "tags": [
+    "VR"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "King-EJ/Blood-West-VR"
+   },
+   "links": [],
+   "sources": [
+    "news"
+   ],
+   "discoveredFrom": {
+    "kind": "news",
+    "title": "Blood West VR Performance / New VR Mod with 6DOF Motion Controls / Quest 3 + RTX 4080 Super",
+    "url": "https://www.youtube.com/watch?v=tUe3wmanhSQ",
+    "source": "YouTube: NotAGameAddict",
+    "date": "2026-10-23T14:00:03.000Z"
+   },
+   "autoFollow": true
+  },
+  "king-ej/devotion-vr-mod": {
+   "id": "king-ej/devotion-vr-mod",
+   "name": "Devotion VR Mod",
+   "game": "Devotion VR Mod",
+   "categories": [
+    "Other",
+    "VR Ports"
+   ],
+   "type": "port",
+   "tags": [
+    "VR"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "King-EJ/Devotion-VR-Mod"
+   },
+   "links": [],
+   "sources": [
+    "news"
+   ],
+   "discoveredFrom": {
+    "kind": "news",
+    "title": "The Cancelled Horror Game - Devotion VR Mod - Native Stereo, Head-Tracking, 6DOF Motion Control Hand",
+    "url": "https://www.youtube.com/watch?v=g3zz2_5nKI8",
+    "source": "YouTube: FastLawyer",
+    "date": "2026-10-20T07:51:34.000Z"
+   },
+   "autoFollow": true
+  },
+  "king-ej/penguin-colony-vr": {
+   "id": "king-ej/penguin-colony-vr",
+   "name": "Penguin Colony VR",
+   "game": "Penguin Colony VR",
+   "categories": [
+    "Other",
+    "VR Ports"
+   ],
+   "type": "port",
+   "tags": [
+    "VR"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "King-EJ/Penguin-Colony-VR"
+   },
+   "links": [],
+   "sources": [
+    "news"
+   ],
+   "discoveredFrom": {
+    "kind": "news",
+    "title": "Become a Penguin in Antarctica in Penguin Colony VR Mod - Native Stereo, Head-Tracking, First-Person",
+    "url": "https://www.youtube.com/watch?v=v3_NWlZ6fFg",
+    "source": "YouTube: FastLawyer",
+    "date": "2026-10-25T01:25:13.000Z"
+   },
+   "autoFollow": true
+  },
+  "king-ej/the-mortuary-assistant-vr": {
+   "id": "king-ej/the-mortuary-assistant-vr",
+   "name": "The Mortuary Assistant VR",
+   "game": "The Mortuary Assistant VR",
+   "categories": [
+    "Other",
+    "VR Ports"
+   ],
+   "type": "port",
+   "tags": [
+    "VR"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "King-EJ/The-Mortuary-Assistant-VR"
+   },
+   "links": [],
+   "sources": [
+    "news"
+   ],
+   "discoveredFrom": {
+    "kind": "news",
+    "title": "The Mortuary Assistant VR Mod - Native Stereo, Head-Tracking, Motion Controlled Hands",
+    "url": "https://www.youtube.com/watch?v=vP3vQ4J3s98",
+    "source": "YouTube: FastLawyer",
+    "date": "2026-10-23T05:26:14.000Z"
+   },
+   "autoFollow": true
+  },
+  "king-ej/twisted-tower-vr-mod": {
+   "id": "king-ej/twisted-tower-vr-mod",
+   "name": "Twisted Tower VR Mod",
+   "game": "Twisted Tower VR Mod",
+   "categories": [
+    "Other",
+    "VR Ports"
+   ],
+   "type": "port",
+   "tags": [
+    "VR"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "King-EJ/Twisted-Tower-VR-Mod"
+   },
+   "links": [],
+   "sources": [
+    "news"
+   ],
+   "discoveredFrom": {
+    "kind": "news",
+    "title": "INCREDIBLE Twisted Tower VR Mod! #6Dof #MotionControls #RoomScale",
+    "url": "https://www.youtube.com/watch?v=QBGkrqb1IG4",
+    "source": "YouTube: Paradise Decay",
+    "date": "2026-10-15T19:45:10.000Z"
+   },
+   "autoFollow": true
+  },
+  "laughtt/bloodborne-vr": {
+   "id": "laughtt/bloodborne-vr",
+   "name": "bloodborne vr",
+   "game": "bloodborne vr",
+   "categories": [
+    "Other",
+    "VR Ports"
+   ],
+   "type": "port",
+   "tags": [
+    "VR"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "laughtt/bloodborne-vr"
+   },
+   "links": [],
+   "sources": [
+    "news"
+   ],
+   "discoveredFrom": {
+    "kind": "news",
+    "title": "Bloodborne VR is Actually Happening!",
+    "url": "https://www.youtube.com/watch?v=oE-o1MewoEc",
+    "source": "YouTube: Beardo Benjo",
+    "date": "2026-10-12T17:09:47.000Z"
+   },
+   "autoFollow": true
+  },
+  "letmein-vr/hellraiser_uevr": {
+   "id": "letmein-vr/hellraiser_uevr",
+   "name": "HELLRAISER UEVR",
+   "game": "HELLRAISER UEVR",
+   "categories": [
+    "Other",
+    "VR Ports"
+   ],
+   "type": "port",
+   "tags": [
+    "VR"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "letmein-vr/HELLRAISER_UEVR"
+   },
+   "links": [],
+   "sources": [
+    "news"
+   ],
+   "discoveredFrom": {
+    "kind": "news",
+    "title": "Hellraiser Revival UEVR",
+    "url": "https://www.youtube.com/watch?v=1LWN9k1QzJU",
+    "source": "YouTube: VRified Games",
+    "date": "2026-10-13T15:24:27.000Z"
+   },
+   "autoFollow": true
+  },
   "loreanxavier/pt-pc": {
    "id": "loreanxavier/pt-pc",
    "name": "pt pc",
@@ -1613,6 +3711,33 @@
     "date": "2026-10-12T16:01:08.000Z"
    },
    "autoFollow": true
+  },
+  "lorendb/kaon": {
+   "id": "lorendb/kaon",
+   "name": "kaon",
+   "game": "kaon",
+   "categories": [
+    "Other",
+    "VR Ports"
+   ],
+   "type": "port",
+   "tags": [
+    "VR"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "LorenDB/kaon"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "topic:uevr stars:>15",
+    "date": "2026-10-25T15:36:27.479Z"
+   },
+   "autoFollow": false
   },
   "luisxl15/gta-iv-recomp-xbox-360": {
    "id": "luisxl15/gta-iv-recomp-xbox-360",
@@ -1689,6 +3814,118 @@
    },
    "autoFollow": false
   },
+  "matskarlsson/wreckfest2vr": {
+   "id": "matskarlsson/wreckfest2vr",
+   "name": "Wreckfest2VR",
+   "game": "Wreckfest2VR",
+   "categories": [
+    "Other",
+    "VR Ports"
+   ],
+   "type": "port",
+   "tags": [
+    "VR"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "MatsKarlsson/Wreckfest2VR"
+   },
+   "links": [],
+   "sources": [
+    "news"
+   ],
+   "discoveredFrom": {
+    "kind": "news",
+    "title": "Get Behind The Wheel & Feel The Impact of Every Crash in Wreckfest 2 VR Mod",
+    "url": "https://www.youtube.com/watch?v=B8o2Ad7T_yE",
+    "source": "YouTube: FastLawyer",
+    "date": "2026-10-24T05:41:59.000Z"
+   },
+   "autoFollow": true
+  },
+  "maxmakesmods/half-life-vr": {
+   "id": "maxmakesmods/half-life-vr",
+   "name": "Half Life VR",
+   "game": "Half Life VR",
+   "categories": [
+    "Other",
+    "VR Ports"
+   ],
+   "type": "port",
+   "tags": [
+    "VR"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "maxmakesmods/Half-Life-VR"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "\"VR mod\" in:description stars:>30",
+    "date": "2026-10-25T15:36:27.479Z"
+   },
+   "autoFollow": false
+  },
+  "mcassador/valormortisvr": {
+   "id": "mcassador/valormortisvr",
+   "name": "Valor Mortis VR",
+   "game": "Valor Mortis VR",
+   "categories": [
+    "Other",
+    "VR Ports"
+   ],
+   "type": "port",
+   "tags": [
+    "VR"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "MCassador/ValorMortisVR"
+   },
+   "links": [],
+   "sources": [
+    "news"
+   ],
+   "discoveredFrom": {
+    "kind": "news",
+    "title": "Valor Mortis VR Mod Impressions, but is it better than UEVR?",
+    "url": "https://www.youtube.com/watch?v=LYvaZfXg36M",
+    "source": "YouTube: Paradise Decay",
+    "date": "2026-10-22T21:45:08.000Z"
+   },
+   "autoFollow": true
+  },
+  "mcxr-org/mcxr": {
+   "id": "mcxr-org/mcxr",
+   "name": "MCXR",
+   "game": "MCXR",
+   "categories": [
+    "Other",
+    "VR Ports"
+   ],
+   "type": "port",
+   "tags": [
+    "VR"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "mcxr-org/MCXR"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "topic:openxr mod stars:>30",
+    "date": "2026-10-25T15:36:27.479Z"
+   },
+   "autoFollow": true
+  },
   "mg1937/asc": {
    "id": "mg1937/asc",
    "name": "ASC",
@@ -1764,6 +4001,33 @@
    },
    "autoFollow": false
   },
+  "monkellie/tf2vr-linux": {
+   "id": "monkellie/tf2vr-linux",
+   "name": "tf2vr linux",
+   "game": "tf2vr linux",
+   "categories": [
+    "Other",
+    "VR Ports"
+   ],
+   "type": "port",
+   "tags": [
+    "VR"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "Monkellie/tf2vr-linux"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "topic:openxr mod stars:>30",
+    "date": "2026-10-25T15:36:27.479Z"
+   },
+   "autoFollow": false
+  },
   "mzzvxm/larecomp": {
    "id": "mzzvxm/larecomp",
    "name": "LARecomp",
@@ -1785,6 +4049,60 @@
     "kind": "search",
     "title": "rexglue in:readme stars:>30",
     "date": "2026-10-23T22:46:33.769Z"
+   },
+   "autoFollow": false
+  },
+  "nebriv/vtolvr-tacviewlogger": {
+   "id": "nebriv/vtolvr-tacviewlogger",
+   "name": "VTOLVR Tacview Logger",
+   "game": "VTOLVR Tacview Logger",
+   "categories": [
+    "Other",
+    "VR Ports"
+   ],
+   "type": "port",
+   "tags": [
+    "VR"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "nebriv/VTOLVR-TacviewLogger"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "\"VR mod\" in:description stars:>30",
+    "date": "2026-10-25T15:36:27.479Z"
+   },
+   "autoFollow": false
+  },
+  "nicolasaubinet/virtual-rock-galactic": {
+   "id": "nicolasaubinet/virtual-rock-galactic",
+   "name": "virtual rock galactic",
+   "game": "virtual rock galactic",
+   "categories": [
+    "Other",
+    "VR Ports"
+   ],
+   "type": "port",
+   "tags": [
+    "VR"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "NicolasAubinet/virtual-rock-galactic"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "\"VR mod\" in:description stars:>30",
+    "date": "2026-10-25T15:36:27.479Z"
    },
    "autoFollow": false
   },
@@ -1836,6 +4154,30 @@
    },
    "autoFollow": false
   },
+  "opensmash-ultimate/ssbu-recomp": {
+   "id": "opensmash-ultimate/ssbu-recomp",
+   "name": "ssbu recomp",
+   "game": "ssbu recomp",
+   "categories": [
+    "Other"
+   ],
+   "type": "tool",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "OpenSmash-Ultimate/ssbu-recomp"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "\"static recompilation\" in:description stars:>30",
+    "date": "2026-10-25T15:36:27.479Z"
+   },
+   "autoFollow": false
+  },
   "opensmash-ultimate/windowsmash": {
    "id": "opensmash-ultimate/windowsmash",
    "name": "Window Smash",
@@ -1857,6 +4199,30 @@
     "kind": "search",
     "title": "topic:static-recompilation stars:>20",
     "date": "2026-10-24T18:51:55.727Z"
+   },
+   "autoFollow": false
+  },
+  "opokxeno/xenogears-recomp": {
+   "id": "opokxeno/xenogears-recomp",
+   "name": "xenogears recomp",
+   "game": "xenogears recomp",
+   "categories": [
+    "Other"
+   ],
+   "type": "recompilation",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "OpokXeno/xenogears-recomp"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "\"static recompilation\" in:description stars:>30",
+    "date": "2026-10-25T15:36:27.479Z"
    },
    "autoFollow": false
   },
@@ -1932,6 +4298,30 @@
    },
    "autoFollow": false
   },
+  "pocmo/recompose": {
+   "id": "pocmo/recompose",
+   "name": "recompose",
+   "game": "recompose",
+   "categories": [
+    "Other"
+   ],
+   "type": "tool",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "pocmo/recompose"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "recomp in:name stars:>40",
+    "date": "2026-10-25T15:36:27.479Z"
+   },
+   "autoFollow": false
+  },
   "portingpete/the-darkness-recomp": {
    "id": "portingpete/the-darkness-recomp",
    "name": "The Darkness Recomp",
@@ -1953,6 +4343,80 @@
     "kind": "search",
     "title": "XenonRecomp in:readme stars:>30",
     "date": "2026-10-23T22:46:33.769Z"
+   },
+   "autoFollow": true
+  },
+  "praydog/ff7r-uevr": {
+   "id": "praydog/ff7r-uevr",
+   "name": "FF7R UEVR",
+   "game": "FF7R UEVR",
+   "categories": [
+    "Other"
+   ],
+   "type": "port",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "praydog/FF7R-UEVR"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "topic:uevr stars:>15",
+    "date": "2026-10-25T15:36:27.479Z"
+   },
+   "autoFollow": false
+  },
+  "praydog/sh2r-uevr": {
+   "id": "praydog/sh2r-uevr",
+   "name": "SH2R UEVR",
+   "game": "SH2R UEVR",
+   "categories": [
+    "Other"
+   ],
+   "type": "port",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "praydog/SH2R-UEVR"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "topic:uevr stars:>15",
+    "date": "2026-10-25T15:36:27.479Z"
+   },
+   "autoFollow": false
+  },
+  "praydog/uevr-nightly": {
+   "id": "praydog/uevr-nightly",
+   "name": "UEVR nightly",
+   "game": "UEVR nightly",
+   "categories": [
+    "Other"
+   ],
+   "type": "port",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "praydog/UEVR-nightly"
+   },
+   "links": [],
+   "sources": [
+    "news"
+   ],
+   "discoveredFrom": {
+    "kind": "news",
+    "title": "Valor Mortis VR Mod Impressions, but is it better than UEVR?",
+    "url": "https://www.youtube.com/watch?v=LYvaZfXg36M",
+    "source": "YouTube: Paradise Decay",
+    "date": "2026-10-22T21:45:08.000Z"
    },
    "autoFollow": true
   },
@@ -2124,6 +4588,87 @@
    },
    "autoFollow": false
   },
+  "raicuparta/nomai-vr": {
+   "id": "raicuparta/nomai-vr",
+   "name": "nomai vr",
+   "game": "nomai vr",
+   "categories": [
+    "Other",
+    "VR Ports"
+   ],
+   "type": "port",
+   "tags": [
+    "VR"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "Raicuparta/nomai-vr"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "\"VR mod\" in:description stars:>30",
+    "date": "2026-10-25T15:36:27.479Z"
+   },
+   "autoFollow": true
+  },
+  "raicuparta/two-forks-vr": {
+   "id": "raicuparta/two-forks-vr",
+   "name": "two forks vr",
+   "game": "two forks vr",
+   "categories": [
+    "Other",
+    "VR Ports"
+   ],
+   "type": "port",
+   "tags": [
+    "VR"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "Raicuparta/two-forks-vr"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "\"VR mod\" in:description stars:>30",
+    "date": "2026-10-25T15:36:27.479Z"
+   },
+   "autoFollow": false
+  },
+  "raicuparta/uuvr": {
+   "id": "raicuparta/uuvr",
+   "name": "uuvr",
+   "game": "uuvr",
+   "categories": [
+    "Other",
+    "VR Ports"
+   ],
+   "type": "port",
+   "tags": [
+    "VR"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "Raicuparta/uuvr"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "\"VR mod\" in:description stars:>30",
+    "date": "2026-10-25T15:36:27.479Z"
+   },
+   "autoFollow": false
+  },
   "raulzrrs/letsgo-recomp": {
    "id": "raulzrrs/letsgo-recomp",
    "name": "letsgo recomp",
@@ -2248,6 +4793,136 @@
    },
    "autoFollow": true
   },
+  "rexdex/recompiler": {
+   "id": "rexdex/recompiler",
+   "name": "recompiler",
+   "game": "recompiler",
+   "categories": [
+    "Other"
+   ],
+   "type": "recompilation",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "rexdex/recompiler"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "recomp in:name stars:>40",
+    "date": "2026-10-25T15:36:27.479Z"
+   },
+   "autoFollow": true
+  },
+  "romaonthego/recomposeviewcontroller": {
+   "id": "romaonthego/recomposeviewcontroller",
+   "name": "RECompose View Controller",
+   "game": "RECompose View Controller",
+   "categories": [
+    "Other"
+   ],
+   "type": "recompilation",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "romaonthego/REComposeViewController"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "recomp in:name stars:>40",
+    "date": "2026-10-25T15:36:27.479Z"
+   },
+   "autoFollow": true
+  },
+  "rototrobot/tomb-raider-legend-vr-port": {
+   "id": "rototrobot/tomb-raider-legend-vr-port",
+   "name": "Tomb Raider Legend VR Port",
+   "game": "Tomb Raider Legend VR Port",
+   "categories": [
+    "Other",
+    "VR Ports"
+   ],
+   "type": "port",
+   "tags": [
+    "VR"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "RototRobot/Tomb-Raider-Legend-VR-Port"
+   },
+   "links": [],
+   "sources": [
+    "news"
+   ],
+   "discoveredFrom": {
+    "kind": "news",
+    "title": "Tomb Raider Legend VR now has Physics 👀",
+    "url": "https://www.youtube.com/watch?v=rMCWsPeEMRA",
+    "source": "YouTube: LunchAndVR",
+    "date": "2026-10-25T15:30:25.000Z"
+   },
+   "autoFollow": true
+  },
+  "ryderclanky/botw-native": {
+   "id": "ryderclanky/botw-native",
+   "name": "Bot W Native",
+   "game": "Bot W Native",
+   "categories": [
+    "Wii U"
+   ],
+   "type": "recompilation",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "ryderclanky/BotW-Native"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "topic:static-recompilation stars:>20",
+    "date": "2026-10-25T15:36:27.479Z"
+   },
+   "autoFollow": false
+  },
+  "saikava/flatout2-vr": {
+   "id": "saikava/flatout2-vr",
+   "name": "flatout2 vr",
+   "game": "flatout2 vr",
+   "categories": [
+    "Other",
+    "VR Ports"
+   ],
+   "type": "port",
+   "tags": [
+    "VR"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "Saikava/flatout2-vr"
+   },
+   "links": [],
+   "sources": [
+    "news"
+   ],
+   "discoveredFrom": {
+    "kind": "news",
+    "title": "FlatOut 2 VR + Logitech G29 Steering Wheel Performance / New VR Mod / Meta Quest 3 + RTX 4080 Super",
+    "url": "https://www.youtube.com/watch?v=nEwPOAV10WQ",
+    "source": "YouTube: NotAGameAddict",
+    "date": "2026-10-22T22:07:09.000Z"
+   },
+   "autoFollow": true
+  },
   "samuelit0davila/fifa-street-pc-port": {
    "id": "samuelit0davila/fifa-street-pc-port",
    "name": "fifa street pc port",
@@ -2344,6 +5019,115 @@
    },
    "autoFollow": false
   },
+  "sd805/l4d2vr": {
+   "id": "sd805/l4d2vr",
+   "name": "l4d2vr",
+   "game": "l4d2vr",
+   "categories": [
+    "Other",
+    "VR Ports"
+   ],
+   "type": "port",
+   "tags": [
+    "VR"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "sd805/l4d2vr"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "\"VR mod\" in:description stars:>30",
+    "date": "2026-10-25T15:36:27.479Z"
+   },
+   "autoFollow": true
+  },
+  "secretsquirrel/recomposer": {
+   "id": "secretsquirrel/recomposer",
+   "name": "recomposer",
+   "game": "recomposer",
+   "categories": [
+    "Other"
+   ],
+   "type": "recompilation",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "secretsquirrel/recomposer"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "recomp in:name stars:>40",
+    "date": "2026-10-25T15:36:27.479Z"
+   },
+   "autoFollow": false
+  },
+  "segadreamcat/overthehillvr": {
+   "id": "segadreamcat/overthehillvr",
+   "name": "overthehillvr",
+   "game": "overthehillvr",
+   "categories": [
+    "Other",
+    "VR Ports"
+   ],
+   "type": "port",
+   "tags": [
+    "VR"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "segadreamcat/overthehillvr"
+   },
+   "links": [],
+   "sources": [
+    "news"
+   ],
+   "discoveredFrom": {
+    "kind": "news",
+    "title": "over the hill VR + Logitech G29 Performance / New VR Mod with Cockpit View / Quest 3 + RTX 4080 S",
+    "url": "https://www.youtube.com/watch?v=LOG9nY0o0Xw",
+    "source": "YouTube: NotAGameAddict",
+    "date": "2026-10-24T21:15:48.000Z"
+   },
+   "autoFollow": true
+  },
+  "segadreamcat/vampirehuntersvr": {
+   "id": "segadreamcat/vampirehuntersvr",
+   "name": "Vampire Hunters VR",
+   "game": "Vampire Hunters VR",
+   "categories": [
+    "Other",
+    "VR Ports"
+   ],
+   "type": "port",
+   "tags": [
+    "VR"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "segadreamcat/VampireHuntersVR"
+   },
+   "links": [],
+   "sources": [
+    "news"
+   ],
+   "discoveredFrom": {
+    "kind": "news",
+    "title": "Vampire Hunters VR Mod - Full VR with head tracking + 6DOF Weapons",
+    "url": "https://www.youtube.com/watch?v=_pcpuUD7iQE",
+    "source": "YouTube: FastLawyer",
+    "date": "2026-10-22T02:41:17.000Z"
+   },
+   "autoFollow": true
+  },
   "shdecompilations/silent-hill-decomp": {
    "id": "shdecompilations/silent-hill-decomp",
    "name": "silent hill decomp",
@@ -2365,6 +5149,35 @@
     "kind": "search",
     "title": "topic:decompilation stars:>100",
     "date": "2026-10-23T22:46:33.769Z"
+   },
+   "autoFollow": true
+  },
+  "shiffo0/mgs2-pcvr": {
+   "id": "shiffo0/mgs2-pcvr",
+   "name": "MGS2 PCVR",
+   "game": "MGS2 PCVR",
+   "categories": [
+    "Other",
+    "VR Ports"
+   ],
+   "type": "port",
+   "tags": [
+    "VR"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "Shiffo0/MGS2-PCVR"
+   },
+   "links": [],
+   "sources": [
+    "news"
+   ],
+   "discoveredFrom": {
+    "kind": "news",
+    "title": "Metal Gear Solid 2 VR Mod First Impressions",
+    "url": "https://www.youtube.com/watch?v=dX5b2245Ykw",
+    "source": "YouTube: VRified Games",
+    "date": "2026-09-28T15:32:37.000Z"
    },
    "autoFollow": true
   },
@@ -2391,6 +5204,35 @@
     "date": "2026-10-23T22:46:33.769Z"
    },
    "autoFollow": false
+  },
+  "simplysnake/grimdawn_mod": {
+   "id": "simplysnake/grimdawn_mod",
+   "name": "Grim Dawn mod",
+   "game": "Grim Dawn mod",
+   "categories": [
+    "Other",
+    "VR Ports"
+   ],
+   "type": "port",
+   "tags": [
+    "VR"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "simplysnake/GrimDawn_mod"
+   },
+   "links": [],
+   "sources": [
+    "news"
+   ],
+   "discoveredFrom": {
+    "kind": "news",
+    "title": "Grim Dawn VR Performance / New VR Mod with True Stereo / Meta Quest 3 + RTX 4080 Super",
+    "url": "https://www.youtube.com/watch?v=eU3D8PxJsSk",
+    "source": "YouTube: NotAGameAddict",
+    "date": "2026-10-25T00:29:14.000Z"
+   },
+   "autoFollow": true
   },
   "sinan-karakaya/dq8-recompiled": {
    "id": "sinan-karakaya/dq8-recompiled",
@@ -2442,6 +5284,30 @@
     "date": "2026-10-23T22:46:33.769Z"
    },
    "autoFollow": false
+  },
+  "snuri00/ps2-web-recomp": {
+   "id": "snuri00/ps2-web-recomp",
+   "name": "ps2 web recomp",
+   "game": "ps2 web recomp",
+   "categories": [
+    "PlayStation 2"
+   ],
+   "type": "recompilation",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "snuri00/ps2-web-recomp"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "\"static recompilation\" in:description stars:>30",
+    "date": "2026-10-25T15:36:27.479Z"
+   },
+   "autoFollow": true
   },
   "snuri00/psp-web-recomp": {
    "id": "snuri00/psp-web-recomp",
@@ -2782,6 +5648,35 @@
    },
    "autoFollow": false
   },
+  "sqofer/wreackfest-vr": {
+   "id": "sqofer/wreackfest-vr",
+   "name": "WREACKFEST VR",
+   "game": "WREACKFEST VR",
+   "categories": [
+    "Other",
+    "VR Ports"
+   ],
+   "type": "port",
+   "tags": [
+    "VR"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "sqofer/WREACKFEST-VR"
+   },
+   "links": [],
+   "sources": [
+    "news"
+   ],
+   "discoveredFrom": {
+    "kind": "news",
+    "title": "Wreckfest VR + Logitech G29 Performance / New Fantastic VR Mod / Quest 3 + RTX 4080 Super",
+    "url": "https://www.youtube.com/watch?v=NCDf8C0_T2U",
+    "source": "YouTube: NotAGameAddict",
+    "date": "2026-10-24T19:21:40.000Z"
+   },
+   "autoFollow": true
+  },
   "subarasheese/daytona-xbla-recomp": {
    "id": "subarasheese/daytona-xbla-recomp",
    "name": "daytona xbla recomp",
@@ -2853,6 +5748,35 @@
     "date": "2026-10-23T22:46:33.769Z"
    },
    "autoFollow": false
+  },
+  "thecosmictangerine-cloud/dishonored-2-vr": {
+   "id": "thecosmictangerine-cloud/dishonored-2-vr",
+   "name": "dishonored 2 vr",
+   "game": "dishonored 2 vr",
+   "categories": [
+    "Other",
+    "VR Ports"
+   ],
+   "type": "port",
+   "tags": [
+    "VR"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "thecosmictangerine-cloud/dishonored-2-vr"
+   },
+   "links": [],
+   "sources": [
+    "news"
+   ],
+   "discoveredFrom": {
+    "kind": "news",
+    "title": "Dishonored 2 VR Performance / New VR Mod with 6DOF Motion Controls / Meta Quest 3 + RTX 4080 Super",
+    "url": "https://www.youtube.com/watch?v=29cmGRrJEmU",
+    "source": "YouTube: NotAGameAddict",
+    "date": "2026-10-23T08:29:29.000Z"
+   },
+   "autoFollow": true
   },
   "thegh0stship/battletanx-global-assault-pc-port": {
    "id": "thegh0stship/battletanx-global-assault-pc-port",
@@ -2926,6 +5850,30 @@
    },
    "autoFollow": false
   },
+  "underdecoded/gen2recomped": {
+   "id": "underdecoded/gen2recomped",
+   "name": "Gen2Recomped",
+   "game": "Gen2Recomped",
+   "categories": [
+    "Other"
+   ],
+   "type": "recompilation",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "UNDERdecoded/Gen2Recomped"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "recomp in:name stars:>40",
+    "date": "2026-10-25T15:36:27.479Z"
+   },
+   "autoFollow": true
+  },
   "vitomiguelf/crashott-pc": {
    "id": "vitomiguelf/crashott-pc",
    "name": "crashott pc",
@@ -2947,6 +5895,33 @@
     "kind": "search",
     "title": "XenonRecomp in:readme stars:>30",
     "date": "2026-10-24T18:51:55.727Z"
+   },
+   "autoFollow": false
+  },
+  "vr-stereo-hub/bioshock-trilogy-vr": {
+   "id": "vr-stereo-hub/bioshock-trilogy-vr",
+   "name": "bioshock trilogy vr",
+   "game": "bioshock trilogy vr",
+   "categories": [
+    "Other",
+    "VR Ports"
+   ],
+   "type": "port",
+   "tags": [
+    "VR"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "VR-Stereo-Hub/bioshock-trilogy-vr"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "\"VR mod\" in:description stars:>30",
+    "date": "2026-10-25T15:36:27.479Z"
    },
    "autoFollow": false
   },
@@ -3149,6 +6124,7 @@
   "ares-emulator/ares": "2026-10-23",
   "azahar-emu/azahar": "2026-10-23",
   "bailo167/awesome-game-mashups": "2026-10-23",
+  "bigmanlucavr/bo1vr": "2026-10-25",
   "blacklineinteractive/driveclub-port": "2026-10-23",
   "blueinterlude/awesome-recompilations": "2026-10-23",
   "blueskydefender/depth3d": "2026-10-23",
@@ -3160,14 +6136,17 @@
   "core-lib/xjar": "2026-10-23",
   "derekpascarella/pulirula-englishpatchfmtowns": "2026-10-23",
   "discostarslayer/pcsx2-reliquary": "2026-10-23",
+  "djules75/ofxr-bridge": "2026-10-25",
   "dolphin-emu/dolphin": "2026-10-23",
   "dryxio/reagent": "2026-10-23",
   "elipsitz/gamebub": "2026-10-23",
   "exxistancedc/tama-english-translation": "2026-10-23",
+  "fever308/eday-steam-direct-launcher": "2026-10-25",
   "ghaleonx/ys": "2026-10-23",
   "gitlab:pepsipu/ns2jb": "2026-10-23",
   "hkmodd/pcsx2-mcp": "2026-10-23",
   "inorirus/kyty": "2026-10-23",
+  "joeyhodge/uevr": "2026-10-25",
   "jorge262007/fftarecomp": "2026-10-23",
   "juaniwck/mister-retroarch-save-sync": "2026-10-23",
   "justxor/awesome-decomp-games-ru": "2026-10-23",
@@ -3179,6 +6158,8 @@
   "mister-devel/marty_mister": "2026-10-23",
   "mister-devel/n64_mister": "2026-10-23",
   "mister-devel/next_mister": "2026-10-23",
+  "mr-nlce/pcvr-mods-installer-hub": "2026-10-25",
+  "mutars/anvilengine2vr": "2026-10-25",
   "nbcraft-org/nbcraft": "2026-10-23",
   "nmlgc/rec98": "2026-10-23",
   "palindromicbreadloaf/dekopon": "2026-10-23",
@@ -3195,6 +6176,7 @@
   "sharpemu/sharpemu": "2026-10-23",
   "shiiion/dolphin": "2026-10-23",
   "sirdiabo/githublauncher": "2026-10-23",
+  "stanleymov/doom-ring": "2026-10-25",
   "stenzek/duckstation": "2026-10-23",
   "stevensnd/nfsmw-nx": "2026-10-23",
   "strikerx3/ymir": "2026-10-23",
@@ -3207,6 +6189,7 @@
   "vita3k/vita3k": "2026-10-23",
   "waffle565/god-of-war-native-port": "2026-10-23",
   "wheremyfoodat/panda3ds": "2026-10-23",
+  "x360ce/x360ce": "2026-10-25",
   "yuvi-app/doc-le-english-translation": "2026-10-23",
   "zoogie/smilehax-iie": "2026-10-23"
  }
