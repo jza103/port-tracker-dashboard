@@ -75,6 +75,42 @@
   "discord": null,
   "checked": "2026-10-25"
  },
+ "github:agg23/fpga-gameandwatch": {
+  "discord": null,
+  "checked": "2026-10-26"
+ },
+ "github:agg23/fpga-tamagotchi": {
+  "discord": null,
+  "checked": "2026-10-26"
+ },
+ "github:agg23/openfpga-arduboy": {
+  "discord": null,
+  "checked": "2026-10-26"
+ },
+ "github:agg23/openfpga-nes": {
+  "discord": null,
+  "checked": "2026-10-26"
+ },
+ "github:agg23/openfpga-pcengine": {
+  "discord": null,
+  "checked": "2026-10-26"
+ },
+ "github:agg23/openfpga-pokemonmini": {
+  "discord": null,
+  "checked": "2026-10-26"
+ },
+ "github:agg23/openfpga-pong": {
+  "discord": null,
+  "checked": "2026-10-26"
+ },
+ "github:agg23/openfpga-snes": {
+  "discord": null,
+  "checked": "2026-10-26"
+ },
+ "github:agg23/openfpga-wonderswan": {
+  "discord": null,
+  "checked": "2026-10-26"
+ },
  "github:aikatore/recvx-enhanced-port": {
   "discord": "https://discord.gg/ZpDn46yv2",
   "checked": "2026-10-25"
@@ -86,6 +122,10 @@
  "github:ajncsystem/shadowofthecolossus-pc": {
   "discord": null,
   "checked": "2026-10-23"
+ },
+ "github:akoaysigod/pocket_psx_core": {
+  "discord": null,
+  "checked": "2026-10-26"
  },
  "github:akratch/goldenballoon": {
   "discord": "https://discord.gg/xfjEEHx5X9",
@@ -199,6 +239,10 @@
   "discord": null,
   "checked": "2026-10-25"
  },
+ "github:alfatreze/tau-alpha": {
+  "discord": null,
+  "checked": "2026-10-26"
+ },
  "github:alistert/openjazz": {
   "discord": null,
   "checked": "2026-10-25"
@@ -235,6 +279,22 @@
   "discord": null,
   "checked": "2026-10-25"
  },
+ "github:antongale/arcade-exerion": {
+  "discord": null,
+  "checked": "2026-10-26"
+ },
+ "github:antongale/arcade-performan": {
+  "discord": null,
+  "checked": "2026-10-26"
+ },
+ "github:antongale/arcade-slapfight": {
+  "discord": null,
+  "checked": "2026-10-26"
+ },
+ "github:antongale/arcade-taitosj": {
+  "discord": null,
+  "checked": "2026-10-26"
+ },
  "github:apancik/abuse_2025": {
   "discord": null,
   "checked": "2026-10-25"
@@ -250,6 +310,10 @@
  "github:ares-emulator/ares": {
   "discord": "https://discord.com/invite/gz2quhk2kv",
   "checked": "2026-10-25"
+ },
+ "github:armyofgnomes/analogue-pocket-32x": {
+  "discord": null,
+  "checked": "2026-10-26"
  },
  "github:artfulrascal8/xrkart-64": {
   "discord": null,
@@ -295,17 +359,41 @@
   "discord": null,
   "checked": "2026-10-25"
  },
+ "github:augustinwinter/openfpga-macross2": {
+  "discord": null,
+  "checked": "2026-10-26"
+ },
+ "github:augustinwinter/openfpga-nmk16": {
+  "discord": null,
+  "checked": "2026-10-26"
+ },
+ "github:augustinwinter/openfpga-tron": {
+  "discord": null,
+  "checked": "2026-10-26"
+ },
  "github:aureliob/banjorecomp-android": {
   "discord": null,
   "checked": "2026-10-23"
+ },
+ "github:auricom79/openfpga-openice": {
+  "discord": null,
+  "checked": "2026-10-26"
  },
  "github:awakenchan/lanternengine": {
   "discord": "https://discord.gg/d3Uv3Cfr5x",
   "checked": "2026-10-25"
  },
+ "github:awesomedolphin/openfpga-spaceinvaders": {
+  "discord": null,
+  "checked": "2026-10-26"
+ },
  "github:ayozetr/bloodborne_linux": {
   "discord": null,
   "checked": "2026-10-25"
+ },
+ "github:bananawifi/openfpga-game-boy-printer": {
+  "discord": null,
+  "checked": "2026-10-26"
  },
  "github:banjorecomp/banjorecomp": {
   "discord": "https://discord.gg/AWZThJ4dPf",
@@ -471,6 +559,14 @@
   "discord": null,
   "checked": "2026-10-25"
  },
+ "github:budude2/openfpga-atarilynx": {
+  "discord": null,
+  "checked": "2026-10-26"
+ },
+ "github:budude2/openfpga-gbc": {
+  "discord": null,
+  "checked": "2026-10-26"
+ },
  "github:buku313/skate3-mobile": {
   "discord": null,
   "checked": "2026-10-23"
@@ -587,6 +683,14 @@
   "discord": null,
   "checked": "2026-10-25"
  },
+ "github:cjchand/openfpga-mattel-football": {
+  "discord": null,
+  "checked": "2026-10-26"
+ },
+ "github:cjchand/openfpga-mattel-football-ii": {
+  "discord": null,
+  "checked": "2026-10-26"
+ },
  "github:clergyman0013/arizona-vamp-recomp": {
   "discord": null,
   "checked": "2026-10-25"
@@ -608,6 +712,10 @@
   "checked": "2026-10-23"
  },
  "github:coin-opcollection/distribution-misterfpga": {
+  "discord": null,
+  "checked": "2026-10-26"
+ },
+ "github:coin-opcollection/distribution-openfpga": {
   "discord": null,
   "checked": "2026-10-26"
  },
@@ -699,6 +807,10 @@
   "discord": null,
   "checked": "2026-10-23"
  },
+ "github:danifunker/maclc_pocket": {
+  "discord": null,
+  "checked": "2026-10-26"
+ },
  "github:danilopaulinodasilva/kof98recomp": {
   "discord": null,
   "checked": "2026-10-25"
@@ -711,6 +823,18 @@
   "discord": null,
   "checked": "2026-10-25"
  },
+ "github:danmorelle/openfpga-astrocade": {
+  "discord": null,
+  "checked": "2026-10-26"
+ },
+ "github:danmorelle/openfpga-atari5200": {
+  "discord": null,
+  "checked": "2026-10-26"
+ },
+ "github:danmorelle/openfpga-vc4000": {
+  "discord": null,
+  "checked": "2026-10-26"
+ },
  "github:dannyowelch/deception-recomp": {
   "discord": null,
   "checked": "2026-10-25"
@@ -722,6 +846,10 @@
  "github:dariulone/cyberpunk-vr-port": {
   "discord": null,
   "checked": "2026-10-25"
+ },
+ "github:dave18/openfpga_zx-spectrum": {
+  "discord": null,
+  "checked": "2026-10-26"
  },
  "github:davidsm64/diddy-kong-racing": {
   "discord": null,
@@ -1055,6 +1183,10 @@
   "discord": null,
   "checked": "2026-10-25"
  },
+ "github:essemyth/openfpga-nibbler": {
+  "discord": null,
+  "checked": "2026-10-26"
+ },
  "github:estebanpdn/legend-of-doom-3ds": {
   "discord": "https://discord.gg/BjbzfRYpV",
   "checked": "2026-10-23"
@@ -1191,6 +1323,10 @@
   "discord": null,
   "checked": "2026-10-23"
  },
+ "github:frazilpop/cave-68000-pocket": {
+  "discord": null,
+  "checked": "2026-10-26"
+ },
  "github:freefrank/lostodysseyrecomp": {
   "discord": "https://discord.gg/z2yPct6z2w",
   "checked": "2026-10-23"
@@ -1303,6 +1439,10 @@
   "discord": null,
   "checked": "2026-10-25"
  },
+ "github:gpzi994/chiskit": {
+  "discord": null,
+  "checked": "2026-10-26"
+ },
  "github:granimated/minecraftlce": {
   "discord": "https://discord.gg/DEuS3feXED",
   "checked": "2026-10-23"
@@ -1343,6 +1483,10 @@
   "discord": null,
   "checked": "2026-10-23"
  },
+ "github:guardiansoul/openfpga-playstation": {
+  "discord": null,
+  "checked": "2026-10-26"
+ },
  "github:guimaraf/3sxw": {
   "discord": "https://discord.gg/azVkHsYXNd",
   "checked": "2026-10-23"
@@ -1354,6 +1498,10 @@
  "github:gumpolas/tootawersrecomp": {
   "discord": null,
   "checked": "2026-10-23"
+ },
+ "github:gx400-friends/gx400-bin": {
+  "discord": null,
+  "checked": "2026-10-26"
  },
  "github:gzh0821/pvzg_site": {
   "discord": null,
@@ -1394,6 +1542,38 @@
  "github:harbourmasters/starship": {
   "discord": null,
   "checked": "2026-10-23"
+ },
+ "github:harpmudd/harpmudd.berzerk": {
+  "discord": null,
+  "checked": "2026-10-26"
+ },
+ "github:harpmudd/harpmudd.mp3player": {
+  "discord": null,
+  "checked": "2026-10-26"
+ },
+ "github:harpmudd/harpmudd.mpatrol": {
+  "discord": null,
+  "checked": "2026-10-26"
+ },
+ "github:harpmudd/harpmudd.popeye": {
+  "discord": null,
+  "checked": "2026-10-26"
+ },
+ "github:harpmudd/harpmudd.ringking": {
+  "discord": null,
+  "checked": "2026-10-26"
+ },
+ "github:harpmudd/harpmudd.shollow": {
+  "discord": null,
+  "checked": "2026-10-26"
+ },
+ "github:harpmudd/harpmudd.tapper": {
+  "discord": null,
+  "checked": "2026-10-26"
+ },
+ "github:harpmudd/harpmudd.zaxxon": {
+  "discord": null,
+  "checked": "2026-10-26"
  },
  "github:harvestmoon64recomp/harvestmoon64recomp": {
   "discord": "https://discord.gg/AWZThJ4dPf",
@@ -1498,6 +1678,10 @@
  "github:hossez/fifa-world-cup-2014-recompiled": {
   "discord": null,
   "checked": "2026-10-24"
+ },
+ "github:htheb/dstroy-analoguepocket": {
+  "discord": null,
+  "checked": "2026-10-26"
  },
  "github:i12bp8/decomp.wtf": {
   "discord": null,
@@ -1790,6 +1974,10 @@
  "github:k0nl/b2recomp": {
   "discord": null,
   "checked": "2026-10-25"
+ },
+ "github:k3v-68/k3v-gba": {
+  "discord": null,
+  "checked": "2026-10-26"
  },
  "github:k4zmu2a/spacecadetpinball": {
   "discord": null,
@@ -2123,6 +2311,18 @@
   "discord": null,
   "checked": "2026-10-23"
  },
+ "github:mazamars312/analogue-amiga": {
+  "discord": null,
+  "checked": "2026-10-26"
+ },
+ "github:mazamars312/analogue_pocket_neogeo": {
+  "discord": null,
+  "checked": "2026-10-26"
+ },
+ "github:mazamars312/openfpga-pcengine-cd": {
+  "discord": null,
+  "checked": "2026-10-26"
+ },
  "github:mcfredward/gloomhavenvr": {
   "discord": null,
   "checked": "2026-10-25"
@@ -2130,6 +2330,14 @@
  "github:mchughalex/skate3recomp": {
   "discord": null,
   "checked": "2026-10-23"
+ },
+ "github:mcnast13/namcosystem11-pocket": {
+  "discord": null,
+  "checked": "2026-10-26"
+ },
+ "github:mcnast13/openfpga_dragon32": {
+  "discord": null,
+  "checked": "2026-10-26"
  },
  "github:mdomangue26/thebigs2": {
   "discord": null,
@@ -2158,6 +2366,10 @@
  "github:mgrz18/sdlpop-android": {
   "discord": null,
   "checked": "2026-10-25"
+ },
+ "github:miasmark/openfpga-7800": {
+  "discord": null,
+  "checked": "2026-10-26"
  },
  "github:mikermak/hotd2-vr": {
   "discord": null,
@@ -3643,6 +3855,10 @@
   "discord": null,
   "checked": "2026-10-25"
  },
+ "github:morgan-vieira/openfpga-rallyx": {
+  "discord": null,
+  "checked": "2026-10-26"
+ },
  "github:morsgames/moonchildfe": {
   "discord": null,
   "checked": "2026-10-25"
@@ -3999,6 +4215,10 @@
   "discord": null,
   "checked": "2026-10-23"
  },
+ "github:obsidian-dot-dev/pockettyrian": {
+  "discord": null,
+  "checked": "2026-10-26"
+ },
  "github:odrannnn/metroidprimeport": {
   "discord": null,
   "checked": "2026-10-25"
@@ -4082,6 +4302,62 @@
  "github:opendriver2/redriver2": {
   "discord": null,
   "checked": "2026-10-23"
+ },
+ "github:openfpgaos/doom": {
+  "discord": null,
+  "checked": "2026-10-26"
+ },
+ "github:openfpgaos/duke3d": {
+  "discord": null,
+  "checked": "2026-10-26"
+ },
+ "github:openfpgaos/quake": {
+  "discord": null,
+  "checked": "2026-10-26"
+ },
+ "github:openfpgaos/scummvm": {
+  "discord": null,
+  "checked": "2026-10-26"
+ },
+ "github:opengateware/arcade-bankp": {
+  "discord": null,
+  "checked": "2026-10-26"
+ },
+ "github:opengateware/arcade-congo": {
+  "discord": null,
+  "checked": "2026-10-26"
+ },
+ "github:opengateware/arcade-digdug": {
+  "discord": null,
+  "checked": "2026-10-26"
+ },
+ "github:opengateware/arcade-galaga": {
+  "discord": null,
+  "checked": "2026-10-26"
+ },
+ "github:opengateware/arcade-gberet": {
+  "discord": null,
+  "checked": "2026-10-26"
+ },
+ "github:opengateware/arcade-irem_m72": {
+  "discord": null,
+  "checked": "2026-10-26"
+ },
+ "github:opengateware/arcade-pooyan": {
+  "discord": null,
+  "checked": "2026-10-26"
+ },
+ "github:opengateware/arcade-xevious": {
+  "discord": null,
+  "checked": "2026-10-26"
+ },
+ "github:opengateware/computer-msx": {
+  "discord": null,
+  "checked": "2026-10-26"
+ },
+ "github:opengateware/console-supervision": {
+  "discord": null,
+  "checked": "2026-10-26"
  },
  "github:openloco/openloco": {
   "discord": "https://discord.gg/vEuNRHD",
@@ -4186,6 +4462,10 @@
  "github:petarov/saboteur2": {
   "discord": null,
   "checked": "2026-10-25"
+ },
+ "github:picocomputer/rp6502": {
+  "discord": null,
+  "checked": "2026-10-26"
  },
  "github:pigmassacre/neodriftenhanced": {
   "discord": null,
@@ -4422,6 +4702,66 @@
  "github:riseio/twipe_00sheven": {
   "discord": null,
   "checked": "2026-10-25"
+ },
+ "github:rndmnkiii/analogizer-amiga": {
+  "discord": null,
+  "checked": "2026-10-26"
+ },
+ "github:rndmnkiii/analogizer-openfpga-atarilynx": {
+  "discord": null,
+  "checked": "2026-10-26"
+ },
+ "github:rndmnkiii/analogizer-pocket-alpha-mission": {
+  "discord": null,
+  "checked": "2026-10-26"
+ },
+ "github:rndmnkiii/analogizer_arcade-slapfight": {
+  "discord": null,
+  "checked": "2026-10-26"
+ },
+ "github:rndmnkiii/analogizer_mazamars312_neogeo_0.8.1": {
+  "discord": null,
+  "checked": "2026-10-26"
+ },
+ "github:rndmnkiii/analogizer_openfpga-gbc": {
+  "discord": null,
+  "checked": "2026-10-26"
+ },
+ "github:rndmnkiii/analogizer_openfpga-pcengine": {
+  "discord": null,
+  "checked": "2026-10-26"
+ },
+ "github:rndmnkiii/analogizer_openfpga-xaindsleena": {
+  "discord": null,
+  "checked": "2026-10-26"
+ },
+ "github:rndmnkiii/arcade-irem_m72_analogizer": {
+  "discord": null,
+  "checked": "2026-10-26"
+ },
+ "github:rndmnkiii/miraxpocket": {
+  "discord": null,
+  "checked": "2026-10-26"
+ },
+ "github:rndmnkiii/modplayer_openfpgaos": {
+  "discord": null,
+  "checked": "2026-10-26"
+ },
+ "github:rndmnkiii/openfpga-nes-analogizer": {
+  "discord": null,
+  "checked": "2026-10-26"
+ },
+ "github:rndmnkiii/openfpga-pcengine-cd_analogizer": {
+  "discord": null,
+  "checked": "2026-10-26"
+ },
+ "github:rndmnkiii/openfpga-snes-analogizer": {
+  "discord": null,
+  "checked": "2026-10-26"
+ },
+ "github:rndmnkiii/pocketalphamission": {
+  "discord": null,
+  "checked": "2026-10-26"
  },
  "github:rob646464/luigis-mansion-pc-port": {
   "discord": null,
@@ -4747,6 +5087,10 @@
   "discord": null,
   "checked": "2026-10-23"
  },
+ "github:spacemen3/pdp-1": {
+  "discord": null,
+  "checked": "2026-10-26"
+ },
  "github:spacestate1/namco22-decompile": {
   "discord": null,
   "checked": "2026-10-25"
@@ -4766,6 +5110,98 @@
  "github:spicywonda/castlevania-chronicles-recomp": {
   "discord": null,
   "checked": "2026-10-25"
+ },
+ "github:spiritualized1997/openfpga-2600": {
+  "discord": null,
+  "checked": "2026-10-26"
+ },
+ "github:spiritualized1997/openfpga-7800": {
+  "discord": null,
+  "checked": "2026-10-26"
+ },
+ "github:spiritualized1997/openfpga-adventure-vision": {
+  "discord": null,
+  "checked": "2026-10-26"
+ },
+ "github:spiritualized1997/openfpga-arcadia": {
+  "discord": null,
+  "checked": "2026-10-26"
+ },
+ "github:spiritualized1997/openfpga-channel-f": {
+  "discord": null,
+  "checked": "2026-10-26"
+ },
+ "github:spiritualized1997/openfpga-coleco": {
+  "discord": null,
+  "checked": "2026-10-26"
+ },
+ "github:spiritualized1997/openfpga-creativision": {
+  "discord": null,
+  "checked": "2026-10-26"
+ },
+ "github:spiritualized1997/openfpga-gamate": {
+  "discord": null,
+  "checked": "2026-10-26"
+ },
+ "github:spiritualized1997/openfpga-game-king": {
+  "discord": null,
+  "checked": "2026-10-26"
+ },
+ "github:spiritualized1997/openfpga-gb-gbc": {
+  "discord": null,
+  "checked": "2026-10-26"
+ },
+ "github:spiritualized1997/openfpga-gba": {
+  "discord": null,
+  "checked": "2026-10-26"
+ },
+ "github:spiritualized1997/openfpga-genesis": {
+  "discord": null,
+  "checked": "2026-10-26"
+ },
+ "github:spiritualized1997/openfpga-gg": {
+  "discord": null,
+  "checked": "2026-10-26"
+ },
+ "github:spiritualized1997/openfpga-intellivision": {
+  "discord": null,
+  "checked": "2026-10-26"
+ },
+ "github:spiritualized1997/openfpga-megaduck": {
+  "discord": null,
+  "checked": "2026-10-26"
+ },
+ "github:spiritualized1997/openfpga-nes": {
+  "discord": null,
+  "checked": "2026-10-26"
+ },
+ "github:spiritualized1997/openfpga-odyssey-2": {
+  "discord": null,
+  "checked": "2026-10-26"
+ },
+ "github:spiritualized1997/openfpga-sg1000": {
+  "discord": null,
+  "checked": "2026-10-26"
+ },
+ "github:spiritualized1997/openfpga-sms": {
+  "discord": null,
+  "checked": "2026-10-26"
+ },
+ "github:spiritualized1997/openfpga-studio-2": {
+  "discord": null,
+  "checked": "2026-10-26"
+ },
+ "github:spiritualized1997/openfpga-super-gb": {
+  "discord": null,
+  "checked": "2026-10-26"
+ },
+ "github:spiritualized1997/openfpga-supervision": {
+  "discord": null,
+  "checked": "2026-10-26"
+ },
+ "github:spiritualized1997/openfpga-videobrain": {
+  "discord": null,
+  "checked": "2026-10-26"
  },
  "github:spoopyghosty0/frameport": {
   "discord": null,
@@ -5063,6 +5499,10 @@
   "discord": null,
   "checked": "2026-10-25"
  },
+ "github:thediscordian/openfpga-pacman": {
+  "discord": null,
+  "checked": "2026-10-26"
+ },
  "github:thefixinhixon/ultracombo": {
   "discord": null,
   "checked": "2026-10-25"
@@ -5078,6 +5518,14 @@
  "github:thegh0stship/battletanx-global-assault-pc-port": {
   "discord": null,
   "checked": "2026-10-23"
+ },
+ "github:thejesusfish/dual-ram-console-cores": {
+  "discord": null,
+  "checked": "2026-10-26"
+ },
+ "github:thekoalakoa/paprium-pocket": {
+  "discord": null,
+  "checked": "2026-10-26"
  },
  "github:themriron2/sf64-psp": {
   "discord": "https://discord.gg/bePrj9W",

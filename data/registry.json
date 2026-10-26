@@ -1,7 +1,7 @@
 {
  "meta": {
   "seededAt": "2026-10-25T14:56:57.670Z",
-  "lastSearchAt": "2026-10-25T15:36:27.479Z"
+  "lastSearchAt": "2026-10-26T15:18:29.150Z"
  },
  "firstSeen": {
   "0c0de/splatterhouse-decomp": "2026-10-25T15:56:57.670Z",
@@ -25,15 +25,19 @@
   "adore11s/beyond-two-souls-vr-mod": "2026-10-25T15:36:27.479Z",
   "adore11s/god-of-war-vr-mod": "2026-10-25T15:36:27.479Z",
   "aeka0/overlord": "2026-10-25T15:36:27.479Z",
+  "agg23/analogue-pocket-image-process": "2026-10-26T15:18:29.150Z",
+  "agg23/analogue-pocket-utils": "2026-10-26T15:18:29.150Z",
   "agg23/fpga-gameandwatch": "2026-10-25T15:56:57.670Z",
   "agg23/fpga-tamagotchi": "2026-10-25T15:56:57.670Z",
   "agg23/openfpga-arduboy": "2026-10-25T15:56:57.670Z",
+  "agg23/openfpga-chip32-sim": "2026-10-26T15:18:29.150Z",
   "agg23/openfpga-nes": "2026-10-25T15:56:57.670Z",
   "agg23/openfpga-pcengine": "2026-10-25T15:56:57.670Z",
   "agg23/openfpga-pokemonmini": "2026-10-25T15:56:57.670Z",
   "agg23/openfpga-pong": "2026-10-25T15:56:57.670Z",
   "agg23/openfpga-snes": "2026-10-25T15:56:57.670Z",
   "agg23/openfpga-wonderswan": "2026-10-25T15:56:57.670Z",
+  "agg23/sdram-controller": "2026-10-26T15:18:29.150Z",
   "aikatore/recvx-enhanced-port": "2026-10-25T15:36:27.479Z",
   "ajgowans/alt-cores": "2026-10-25T15:56:57.670Z",
   "ajncsystem/shadowofthecolossus-pc": "2026-10-23T22:25:39.434Z",
@@ -113,8 +117,10 @@
   "banjorecomp/banjorecomp": "2026-10-23T22:25:39.434Z",
   "bassquake/aliens-versus-predator-vr": "2026-10-23T22:25:39.434Z",
   "bateau01/soma-vr": "2026-10-25T15:36:27.479Z",
+  "baxysquare/mister_kun": "2026-10-26T15:18:29.150Z",
   "baywilly/crazy-taxi-vr-standalone": "2026-10-23T22:25:39.434Z",
   "baywilly/metal-gear-solid-vr-standalone": "2026-10-23T22:25:39.434Z",
+  "bbbbbr/gameboy_button_test": "2026-10-26T15:18:29.150Z",
   "bc160201983/medievil_2019_pc_port": "2026-10-25T15:36:27.479Z",
   "bc160201983/uncharted-the-nathan-drake-collection-pc-port": "2026-10-25T15:36:27.479Z",
   "bearstonem/d2r-pcvr": "2026-10-25T15:36:27.479Z",
@@ -170,9 +176,11 @@
   "cactusvrstudios/kharvox-argent": "2026-10-25T15:36:27.479Z",
   "caiuscodes/goldeneye-007-xbla-pc-recomp": "2026-10-25T15:36:27.479Z",
   "capridog/spaceranger": "2026-10-25T15:36:27.479Z",
+  "carmiker/lithogen": "2026-10-26T15:18:29.150Z",
   "carriex/recomp": "2026-10-25T15:36:27.479Z",
   "cassnadra/initialdpsponpc": "2026-10-25T15:36:27.479Z",
   "castletroy28/xiii-vr": "2026-10-25T15:36:27.479Z",
+  "catallo/misterclaw": "2026-10-26T15:18:29.150Z",
   "catmidori/gogoackman1recomp": "2026-10-25T15:36:27.479Z",
   "cblock85/goldeneye64recomp": "2026-10-23T22:25:39.434Z",
   "cdlewis/snowboardkids-recomp": "2026-10-25T15:36:27.479Z",
@@ -257,11 +265,13 @@
   "coin-opcollection/distribution-openfpga#pram0d-totalcarnage": "2026-10-25T15:56:57.670Z",
   "coin-opcollection/distribution-openfpga#pram0d-trog": "2026-10-25T15:56:57.670Z",
   "coin-opcollection/distribution-openfpga#pram0d-wrestlefest": "2026-10-25T15:56:57.670Z",
+  "coin-opcollection/distribution-openfpga": "2026-10-26T15:18:29.150Z",
   "commanderkeen83/doom-3-bfg-vr": "2026-10-25T15:36:27.479Z",
   "cookingwithsimon/skate1recompiled": "2026-10-25T15:36:27.479Z",
   "cookingwithsimon/skate2recompiled": "2026-10-25T15:36:27.479Z",
   "coop-deluxe/sm64coopdx": "2026-10-23T22:25:39.434Z",
   "corsixth/corsixth": "2026-10-25T15:36:27.479Z",
+  "cosmickatamari/game-populator": "2026-10-26T15:18:29.150Z",
   "craigshaw/fzerorecomp": "2026-10-25T15:36:27.479Z",
   "cranebeaker/coop-anything": "2026-10-23T22:46:33.769Z",
   "crazyriddler/finesthourremastered": "2026-10-25T15:36:27.479Z",
@@ -291,12 +301,20 @@
   "dariulone/cyberpunk-vr-port": "2026-10-25T15:36:27.479Z",
   "dave18/memtest_pocket": "2026-10-25T15:56:57.670Z",
   "dave18/openfpga_zx-spectrum": "2026-10-25T15:56:57.670Z",
+  "davewongillies/mister-syncthing": "2026-10-26T15:18:29.150Z",
+  "davewongillies/mister-tailscale": "2026-10-26T15:18:29.150Z",
+  "davewongillies/mister-update_stv": "2026-10-26T15:18:29.150Z",
   "davidsm64/diddy-kong-racing": "2026-10-23T22:25:39.434Z",
   "daxcess/cwvr": "2026-10-25T15:36:27.479Z",
   "daxcess/repoxr": "2026-10-25T15:36:27.479Z",
   "deadinside28/bloodborne_pc": "2026-10-25T15:36:27.479Z",
   "decompals/ido-static-recomp": "2026-10-25T15:36:27.479Z",
   "decompme/decomp.me": "2026-10-23T22:46:33.769Z",
+  "decoryah/arcade-gaiapolis_mister": "2026-10-26T15:18:29.150Z",
+  "decoryah/arcade-igspgm2_mister": "2026-10-26T15:18:29.150Z",
+  "decoryah/arcade-jackiechan_mister": "2026-10-26T15:18:29.150Z",
+  "decoryah/arcade-magicalcatadventure_nostradamus_mister": "2026-10-26T15:18:29.150Z",
+  "decoryah/arcade-monstermaulers_mister": "2026-10-26T15:18:29.150Z",
   "defgenx/openfpga-atarist#defgenx-atari-st": "2026-10-25T15:56:57.670Z",
   "defgenx/openfpga-atarist#defgenx-atarist": "2026-10-25T15:56:57.670Z",
   "deivid22srk/dk64-recomp-android": "2026-10-23T22:25:39.434Z",
@@ -356,12 +374,15 @@
   "dubrovskiy-yevhen-stakelogic/vice-city-vr-quest": "2026-10-23T22:25:39.434Z",
   "dudux42/freedomunbound": "2026-10-25T15:36:27.479Z",
   "dyotson/forzahorizon1-reimagined": "2026-10-24T18:51:55.727Z",
+  "dyreschlock/pocket-extras": "2026-10-26T15:18:29.150Z",
+  "dyreschlock/pocket-platform-images": "2026-10-26T15:18:29.150Z",
   "dyzz/srw64-recomp": "2026-10-25T15:36:27.479Z",
   "dzakyraf/pes2017-recomp": "2026-10-25T15:36:27.479Z",
   "eandis/sdoj-recomp": "2026-10-25T15:36:27.479Z",
   "eboody/castlevania-revamped-open-source-edition": "2026-10-23T22:25:39.434Z",
   "ed1z19/valkyrierecomp": "2026-10-23T22:25:39.434Z",
   "edwin2929/sma3-recomp-android.": "2026-10-23T22:25:39.434Z",
+  "efabless/clear_old": "2026-10-26T15:18:29.150Z",
   "efraim2704/bladeofdarknessvr": "2026-10-25T15:36:27.479Z",
   "egerion/open-atomic-bomberman-97": "2026-10-25T15:36:27.479Z",
   "ekspym/tekken6-native-online": "2026-10-23T22:25:39.434Z",
@@ -376,6 +397,7 @@
   "elprogramadorloco-arch/fuc-recomp": "2026-10-23T22:25:39.434Z",
   "elprogramadorloco-arch/jim2-recomp": "2026-10-25T15:36:27.479Z",
   "elraro/atomic-bomberman": "2026-10-25T15:36:27.479Z",
+  "elripalda/recompstore": "2026-10-26T15:18:29.150Z",
   "elspeththepict/s1forever": "2026-10-25T15:36:27.479Z",
   "elyosh/opentie": "2026-10-25T15:36:27.479Z",
   "elyosh/openxvt": "2026-10-25T15:36:27.479Z",
@@ -384,6 +406,7 @@
   "emawind84/selacovr": "2026-10-25T15:36:27.479Z",
   "encounter/objdiff": "2026-10-23T22:46:33.769Z",
   "endprodukt/cannonball-dx": "2026-10-25T15:36:27.479Z",
+  "enfstudios/mister-companion-macos": "2026-10-26T15:18:29.150Z",
   "enrique-paulino/dualscreendex": "2026-10-25T15:36:27.479Z",
   "eray1605/re2ds": "2026-10-23T22:25:39.434Z",
   "erick194/doomiirpg-re": "2026-10-23T22:25:39.434Z",
@@ -398,6 +421,8 @@
   "ericlewis/openfpga-spacerace": "2026-10-25T15:56:57.670Z",
   "ericlewis/openfpga-superbreakout": "2026-10-25T15:56:57.670Z",
   "erreib/pure-recomp": "2026-10-25T15:36:27.479Z",
+  "espiox/jts16_complete": "2026-10-26T15:18:29.150Z",
+  "espiox/pocket-betas": "2026-10-26T15:18:29.150Z",
   "essemyth/openfpga-nibbler": "2026-10-25T15:56:57.670Z",
   "estebanpdn/legend-of-doom-3ds": "2026-10-23T22:25:39.434Z",
   "estebanpdn/mario-kart-64-3ds": "2026-10-23T22:25:39.434Z",
@@ -437,10 +462,12 @@
   "fluffyquack/rexglue-exit": "2026-10-23T22:25:39.434Z",
   "fluorescenthallucinogen/painkiller-vr-mod": "2026-10-25T15:36:27.479Z",
   "flyngmt/acgc-pc-port": "2026-10-23T22:25:39.434Z",
+  "fogleman/misterqueen": "2026-10-26T15:18:29.150Z",
   "fragglet/sdl-sopwith": "2026-10-25T15:36:27.479Z",
   "frankhun88453/cod3recomp": "2026-10-23T22:25:39.434Z",
   "frazilpop/cave-68000-pocket#frazilpop-cave-68000": "2026-10-25T15:56:57.670Z",
   "frazilpop/great-1000-miles-rally-pocket": "2026-10-25T15:56:57.670Z",
+  "frederickk/pocketmidilink": "2026-10-26T15:18:29.150Z",
   "freefrank/lostodysseyrecomp": "2026-10-23T22:25:39.434Z",
   "fulgernet/repop": "2026-10-26T05:01:17.002Z",
   "fulldivegames/majoras-mask-vr": "2026-10-23T22:25:39.434Z",
@@ -468,6 +495,7 @@
   "genrythefox0/project-2099": "2026-10-23T22:25:39.434Z",
   "gensokyoclub/th06": "2026-10-23T22:46:33.769Z",
   "getlostin/ctr-nitrofueled-pc": "2026-10-23T22:25:39.434Z",
+  "giancarloerra/degauss": "2026-10-26T15:18:29.150Z",
   "gitlab:bighead.0/ladxhd_updated": "2026-10-23T22:25:39.434Z",
   "gitlab:ethan4love/psx-recomp-port": "2026-10-23T22:25:39.434Z",
   "gitlab:re-volt/rvgl-launcher": "2026-10-25T15:36:27.479Z",
@@ -545,6 +573,7 @@
   "hh79/gzdoomvr#hexen-vr": "2026-10-25T15:36:27.479Z",
   "hh79/gzdoomvr#strife-vr": "2026-10-25T15:36:27.479Z",
   "himdo/fable-2-recomp": "2026-10-23T22:25:39.434Z",
+  "hinph/crystal-fantasy": "2026-10-26T15:18:29.150Z",
   "hkmodd/pcsx2-mcp": "2026-10-23T22:46:33.769Z",
   "hkmodd/ps2-recomp-agent-skill": "2026-10-23T22:46:33.769Z",
   "hochgeschwindigkeitsrennfahrer/black-mesa-vr": "2026-10-25T15:36:27.479Z",
@@ -555,6 +584,9 @@
   "hopeaero/mlbpowerpros2008recomp": "2026-10-25T15:36:27.479Z",
   "hossez/fifa-world-cup-2014-recompiled": "2026-10-24T18:51:55.727Z",
   "howesjamie5-code/milesvr": "2026-10-25T15:36:27.479Z",
+  "hrvach/edsac": "2026-10-26T15:18:29.150Z",
+  "hrvach/fpg1": "2026-10-26T15:18:29.150Z",
+  "hrvach/life_mister": "2026-10-26T15:18:29.150Z",
   "htheb/dstroy-analoguepocket": "2026-10-25T15:56:57.670Z",
   "humbletim/firestorm-gha": "2026-10-25T15:36:27.479Z",
   "i12bp8/decomp.wtf": "2026-10-23T22:46:33.769Z",
@@ -568,6 +600,8 @@
   "igawa6/harvestmoon64recomp": "2026-10-23T22:25:39.434Z",
   "ihatecompvir/band3_recomp": "2026-10-23T22:46:33.769Z",
   "iirg4x/mp6-native-port": "2026-10-25T15:36:27.479Z",
+  "ika-musume/hs3": "2026-10-26T15:18:29.150Z",
+  "ika-musume/mistersh3test-cv1k": "2026-10-26T15:18:29.150Z",
   "ilyamez/spidyvr": "2026-10-25T15:36:27.479Z",
   "infernosupernova/novr": "2026-10-25T15:36:27.479Z",
   "inliner495/bblit-remaster": "2026-10-25T15:36:27.479Z",
@@ -580,6 +614,7 @@
   "iron-jay/banjo_tooie_xbla_recomp": "2026-10-25T15:36:27.479Z",
   "isledecomp/isle-portable": "2026-10-25T15:36:27.479Z",
   "itsbybanshee/wwe2k14-pc": "2026-10-25T15:36:27.479Z",
+  "itsdanik/dethrace_mister": "2026-10-26T15:18:29.150Z",
   "izzy2lost/ghostship": "2026-10-23T22:25:39.434Z",
   "izzy2lost/lighthouse": "2026-10-23T22:25:39.434Z",
   "izzy2lost/perfect_dark": "2026-10-23T22:25:39.434Z",
@@ -590,6 +625,7 @@
   "jackpoison-prog/ringout": "2026-10-23T22:25:39.434Z",
   "jackpriceburns/foxhollow": "2026-10-23T22:25:39.434Z",
   "jacoders/openjk": "2026-10-25T15:36:27.479Z",
+  "jacquesdriessen/mister-mandelbrot": "2026-10-26T15:18:29.150Z",
   "jacquesdupontd/port0r#hotd-vr": "2026-10-23T22:25:39.434Z",
   "jacquesdupontd/port0r#sega-rally-vr": "2026-10-23T22:25:39.434Z",
   "jacquesdupontd/port0r#virtua-cop-vr": "2026-10-23T22:25:39.434Z",
@@ -621,6 +657,7 @@
   "jhdev2006/super-mario-world-remastered-public": "2026-10-25T15:36:27.479Z",
   "jiink/trackmaniaforeveropenxr#trackmania-nations-forever": "2026-10-25T15:36:27.479Z",
   "jiink/trackmaniaforeveropenxr#trackmania-united-forever": "2026-10-25T15:36:27.479Z",
+  "jjmhalew/rampagere": "2026-10-26T15:18:29.150Z",
   "jjmhalew/woodyre": "2026-10-25T15:36:27.479Z",
   "jkdansereau/goldeneye-pc-port": "2026-10-23T22:25:39.434Z",
   "joeyaw/tpvr": "2026-10-23T22:25:39.434Z",
@@ -744,12 +781,16 @@
   "k0nl/b2recomp": "2026-10-25T15:36:27.479Z",
   "k3v-68/k3v-gba": "2026-10-25T15:56:57.670Z",
   "k4zmu2a/spacecadetpinball": "2026-10-25T15:36:27.479Z",
+  "kabukiflux/jamma_2player_xbox360": "2026-10-26T15:18:29.150Z",
+  "kabukiflux/midi4mister": "2026-10-26T15:18:29.150Z",
   "kaikoclanworth1/buffy-chaos-bleeds-pc": "2026-10-25T15:36:27.479Z",
   "kaikoclanworth1/wwe-svr2011-pc": "2026-10-23T22:46:33.769Z",
   "kandowontu2/starfox-enhanced": "2026-10-23T22:25:39.434Z",
   "kandowontu2/urbanrecomp": "2026-10-25T15:36:27.479Z",
   "kathoc/brickboy-dmg-fpgacore": "2026-10-25T15:56:57.670Z",
   "kawaiibunga/mkvdcu-recomp": "2026-10-23T22:25:39.434Z",
+  "kconger/mister_tty2epaper": "2026-10-26T15:18:29.150Z",
+  "kconger/mister_web2rgbmatrix": "2026-10-26T15:18:29.150Z",
   "keepvaibin/nebula": "2026-10-23T22:25:39.434Z",
   "keriew/augustus": "2026-10-25T15:36:27.479Z",
   "keton/ace-combat-uevr": "2026-10-25T15:36:27.479Z",
@@ -777,6 +818,7 @@
   "kraftmacandchee/mercenaries-recompiled": "2026-10-25T15:36:27.479Z",
   "kroy-the-rabbit/openfpga-carttools": "2026-10-25T15:56:57.670Z",
   "kumapauz/project-reignition": "2026-10-25T15:36:27.479Z",
+  "kuraeow/ultratears": "2026-10-26T15:18:29.150Z",
   "kvasir94/killing-floor-2-vr": "2026-10-25T15:36:27.479Z",
   "kwstasg/unreal-revived": "2026-10-25T15:36:27.479Z",
   "kyanite-rock/descendersvrmod": "2026-10-25T15:36:27.479Z",
@@ -830,10 +872,12 @@
   "mariopartyrd/marioparty4": "2026-10-23T22:25:39.434Z",
   "mariopartyrd/partyboard": "2026-10-23T22:25:39.434Z",
   "markus-zzz/myc64-pocket": "2026-10-25T15:56:57.670Z",
+  "masterllgod/naruto-storm-generations-port-nativo": "2026-10-26T15:18:29.150Z",
   "mastersellz/bl1gotyvr": "2026-10-25T15:36:27.479Z",
   "masterspike52/redahm": "2026-10-23T22:25:39.434Z",
   "masterspike52/renut": "2026-10-23T22:25:39.434Z",
   "matiaszanolli/sega-vr-disasm": "2026-10-24T18:51:55.727Z",
+  "matijaerceg/misterzine": "2026-10-26T15:18:29.150Z",
   "matskarlsson/wreckfest2vr": "2026-10-25T15:36:27.479Z",
   "matteo842/crashbandicoot-launcher": "2026-10-23T22:25:39.434Z",
   "matymeatboy/rekhcom": "2026-10-25T15:36:27.479Z",
@@ -1120,6 +1164,7 @@
   "mister-devel/colecovision_mister": "2026-10-25T15:56:57.670Z",
   "mister-devel/cray-xmp_mister": "2026-10-25T15:56:57.670Z",
   "mister-devel/creativision_mister": "2026-10-25T15:56:57.670Z",
+  "mister-devel/distribution_mister": "2026-10-26T15:18:29.150Z",
   "mister-devel/donut_mister": "2026-10-25T15:56:57.670Z",
   "mister-devel/edsac_mister": "2026-10-25T15:56:57.670Z",
   "mister-devel/eg2000_mister": "2026-10-25T15:56:57.670Z",
@@ -1132,13 +1177,17 @@
   "mister-devel/gameandwatch_mister": "2026-10-25T15:56:57.670Z",
   "mister-devel/gameboy_mister#game-boy-game-boy-color": "2026-10-25T15:56:57.670Z",
   "mister-devel/gameboy_mister#gameboy2p": "2026-10-25T15:56:57.670Z",
+  "mister-devel/gameboy_mister": "2026-10-26T15:18:29.150Z",
   "mister-devel/gamecom_mister": "2026-10-25T15:56:57.670Z",
   "mister-devel/gameking_mister": "2026-10-25T15:56:57.670Z",
   "mister-devel/gba_mister#game-boy-advance": "2026-10-25T15:56:57.670Z",
   "mister-devel/gba_mister#gba2p": "2026-10-25T15:56:57.670Z",
+  "mister-devel/gba_mister": "2026-10-26T15:18:29.150Z",
   "mister-devel/gbmidi_mister": "2026-10-25T15:56:57.670Z",
+  "mister-devel/genesis_mister": "2026-10-26T15:18:29.150Z",
   "mister-devel/genmidi_mister": "2026-10-25T15:56:57.670Z",
   "mister-devel/gnw_mister": "2026-10-25T15:56:57.670Z",
+  "mister-devel/hardware_mister": "2026-10-26T15:18:29.150Z",
   "mister-devel/homelab-mister": "2026-10-25T15:56:57.670Z",
   "mister-devel/inputtest_mister": "2026-10-25T15:56:57.670Z",
   "mister-devel/interact_mister": "2026-10-25T15:56:57.670Z",
@@ -1156,12 +1205,15 @@
   "mister-devel/macquadra800_mister": "2026-10-25T15:56:57.670Z",
   "mister-devel/macse30_mister#apple-macintosh-iicx": "2026-10-25T15:56:57.670Z",
   "mister-devel/macse30_mister#apple-macintosh-se-30": "2026-10-25T15:56:57.670Z",
+  "mister-devel/main_mister": "2026-10-26T15:18:29.150Z",
   "mister-devel/marty_mister": "2026-10-25T15:56:57.670Z",
   "mister-devel/megacd_mister": "2026-10-25T15:56:57.670Z",
   "mister-devel/megadrive_mister": "2026-10-25T15:56:57.670Z",
   "mister-devel/memtest_mister": "2026-10-25T15:56:57.670Z",
+  "mister-devel/menu_mister": "2026-10-26T15:18:29.150Z",
   "mister-devel/minimig-aga_mister": "2026-10-25T15:56:57.670Z",
   "mister-devel/misterlaggy_mister": "2026-10-25T15:56:57.670Z",
+  "mister-devel/mkdocs_mister": "2026-10-26T15:18:29.150Z",
   "mister-devel/msx1_mister": "2026-10-25T15:56:57.670Z",
   "mister-devel/msx_mister": "2026-10-25T15:56:57.670Z",
   "mister-devel/multicomp_mister": "2026-10-25T15:56:57.670Z",
@@ -1194,6 +1246,8 @@
   "mister-devel/sam-coupe_mister": "2026-10-25T15:56:57.670Z",
   "mister-devel/saturn_mister#sega-saturn": "2026-10-25T15:56:57.670Z",
   "mister-devel/saturn_mister#sega-st-v": "2026-10-25T15:56:57.670Z",
+  "mister-devel/saturn_mister": "2026-10-26T15:18:29.150Z",
+  "mister-devel/scripts_mister": "2026-10-26T15:18:29.150Z",
   "mister-devel/sgb_mister": "2026-10-25T15:56:57.670Z",
   "mister-devel/sgiindy_mister": "2026-10-25T15:56:57.670Z",
   "mister-devel/sharpmz_mister": "2026-10-25T15:56:57.670Z",
@@ -1201,6 +1255,7 @@
   "mister-devel/sms_mister#gamegear2p": "2026-10-25T15:56:57.670Z",
   "mister-devel/sms_mister#sega-master-system-game-gear": "2026-10-25T15:56:57.670Z",
   "mister-devel/sms_mister#sega-system-e": "2026-10-25T15:56:57.670Z",
+  "mister-devel/sms_mister": "2026-10-26T15:18:29.150Z",
   "mister-devel/snes_mister": "2026-10-25T15:56:57.670Z",
   "mister-devel/sordm5_mister": "2026-10-25T15:56:57.670Z",
   "mister-devel/specialist_mister": "2026-10-25T15:56:57.670Z",
@@ -1216,6 +1271,7 @@
   "mister-devel/tamagotchi_mister": "2026-10-25T15:56:57.670Z",
   "mister-devel/tandy1000_mister": "2026-10-25T15:56:57.670Z",
   "mister-devel/tatungeinstein_mister": "2026-10-25T15:56:57.670Z",
+  "mister-devel/template_mister": "2026-10-26T15:18:29.150Z",
   "mister-devel/ti-99_4a_mister": "2026-10-25T15:56:57.670Z",
   "mister-devel/tk2000_mister": "2026-10-25T15:56:57.670Z",
   "mister-devel/tomyscramble_mister": "2026-10-25T15:56:57.670Z",
@@ -1237,6 +1293,8 @@
   "mister-devel/zx81_mister": "2026-10-25T15:56:57.670Z",
   "mister-devel/zxnext_mister": "2026-10-25T15:56:57.670Z",
   "mister-llapi/llapi_folder_mister": "2026-10-25T15:56:57.670Z",
+  "misterarch/pkgbuilds": "2026-10-26T15:18:29.150Z",
+  "misterorganize/mister_frontier": "2026-10-26T15:18:29.150Z",
   "mlgprorektm8/rygt": "2026-10-23T22:25:39.434Z",
   "mmmax4/openfpga-asterix": "2026-10-25T15:56:57.670Z",
   "mmmax4/openfpga-konami-pregx": "2026-10-25T15:56:57.670Z",
@@ -1317,6 +1375,7 @@
   "nbcraft-org/nbcraft": "2026-10-23T22:46:33.769Z",
   "nebriv/vtolvr-tacviewlogger": "2026-10-25T15:36:27.479Z",
   "negenii/openjazz_pocket": "2026-10-25T15:56:57.670Z",
+  "neil-morrison44/pocket-sync": "2026-10-26T15:18:29.150Z",
   "neitey/openxwa-quest": "2026-10-23T22:25:39.434Z",
   "neoge/pocket-mp3": "2026-10-25T15:56:57.670Z",
   "neuralf/rea-virtua-cop-2-vr": "2026-10-25T15:36:27.479Z",
@@ -1339,6 +1398,7 @@
   "noahvl/birdman64": "2026-10-23T22:25:39.434Z",
   "nobbie248/primedgun": "2026-10-23T22:25:39.434Z",
   "noelo-lab/kuna": "2026-10-23T22:46:33.769Z",
+  "norain211/doa2u-re": "2026-10-26T15:18:29.150Z",
   "norain211/doaxbv-re": "2026-10-23T22:25:39.434Z",
   "notgodlikeuwu/silent-hill-3-vr-mod": "2026-10-25T15:36:27.479Z",
   "notlooky/bannerlordvr": "2026-10-25T15:36:27.479Z",
@@ -1352,6 +1412,8 @@
   "oaleex/mojorecomp": "2026-10-23T22:25:39.434Z",
   "oaleex/shaolinmonksrecomp": "2026-10-23T22:25:39.434Z",
   "obaidr1/hercules-recompiled": "2026-10-23T22:25:39.434Z",
+  "obijuan/ctif-madrid-2018-fpgas-libres": "2026-10-26T15:18:29.150Z",
+  "obijuan/open-fpga-verilog-tutorial": "2026-10-26T15:18:29.150Z",
   "obsidian-dot-dev/openfpga-asteroidsdeluxe": "2026-10-25T15:56:57.670Z",
   "obsidian-dot-dev/openfpga-atarisystem1": "2026-10-25T15:56:57.670Z",
   "obsidian-dot-dev/openfpga-bagman": "2026-10-25T15:56:57.670Z",
@@ -1387,6 +1449,11 @@
   "oofz/vrmod-releases#forza-horizon-5-vr": "2026-10-25T15:36:27.479Z",
   "oofz/vrmod-releases#forza-horizon-6-vr": "2026-10-25T15:36:27.479Z",
   "open-annihilation/open-annihilation": "2026-10-25T15:36:27.479Z",
+  "open-fpga/bass-chip32": "2026-10-26T15:18:29.150Z",
+  "open-fpga/core-example-basicchip32": "2026-10-26T15:18:29.150Z",
+  "open-fpga/core-example-interact": "2026-10-26T15:18:29.150Z",
+  "open-fpga/core-example-kbmouse-targetdata": "2026-10-26T15:18:29.150Z",
+  "open-fpga/core-template": "2026-10-26T15:18:29.150Z",
   "open-goal/launcher": "2026-10-23T22:25:39.434Z",
   "openapoc/openapoc": "2026-10-25T15:36:27.479Z",
   "opendriver2/redriver2": "2026-10-23T22:25:39.434Z",
@@ -1637,8 +1704,10 @@
   "prismaticshape/dramaticshapevr": "2026-10-25T15:36:27.479Z",
   "projectmimer/wovr": "2026-10-25T15:36:27.479Z",
   "promethendev/wwe13-recomp": "2026-10-25T15:36:27.479Z",
+  "proshoumma/mister-poster": "2026-10-26T15:18:29.150Z",
   "ps1recomp/ps1-recomp": "2026-10-23T22:46:33.769Z",
   "psxrestore/condemned2recomp": "2026-10-23T22:25:39.434Z",
+  "puddingstudio/mister-toasty-squadron": "2026-10-26T15:18:29.150Z",
   "pyrdacor/ambermoon.net": "2026-10-25T15:36:27.479Z",
   "pyrdacor/freeserf.net": "2026-10-25T15:36:27.479Z",
   "questcraftplusplus/questcraft": "2026-10-23T22:25:39.434Z",
@@ -1682,6 +1751,7 @@
   "render96/render96ex": "2026-10-23T22:25:39.434Z",
   "retro-remake/consolemode_distribution": "2026-10-23T22:25:39.434Z",
   "retro-remake/superstation-sd-card-installer": "2026-10-23T22:25:39.434Z",
+  "retronas/retronas": "2026-10-26T15:18:29.150Z",
   "retroportingtoolkit/psxrecomp": "2026-10-23T22:46:33.769Z",
   "retroreplay82/legendary-wings-nes-to-pc": "2026-10-25T15:36:27.479Z",
   "revivedx/savagewindrecomp": "2026-10-25T15:36:27.479Z",
@@ -1694,6 +1764,7 @@
   "riotashley81-jpg/vagrantstory_recomp": "2026-10-25T15:36:27.479Z",
   "ripleyxlr8/atlantis-native": "2026-10-25T15:36:27.479Z",
   "riseio/twipe_00sheven": "2026-10-25T15:36:27.479Z",
+  "rmonic79/arcade-darius_mister": "2026-10-26T15:18:29.150Z",
   "rndmnkiii/analogizer-amiga": "2026-10-25T15:56:57.670Z",
   "rndmnkiii/analogizer-openfpga-atarilynx": "2026-10-25T15:56:57.670Z",
   "rndmnkiii/analogizer-openfpga-atarisystem1": "2026-10-25T15:56:57.670Z",
@@ -1776,6 +1847,7 @@
   "shihabal3amri/tekken-tag-tournament-2-pc": "2026-10-23T22:25:39.434Z",
   "shinywindow/shipwright-vr": "2026-10-25T15:36:27.479Z",
   "shipa-2/xerenge": "2026-10-23T22:46:33.769Z",
+  "shontaware/fpga_design_fabric_architecture": "2026-10-26T15:18:29.150Z",
   "silverwiregames/rechan": "2026-10-23T22:25:39.434Z",
   "simon358/ctr-native-android": "2026-10-23T22:25:39.434Z",
   "simplysnake/grimdawn_mod": "2026-10-25T15:36:27.479Z",
@@ -1802,6 +1874,7 @@
   "sonicdcer/starfox64recomp": "2026-10-23T22:46:33.769Z",
   "sonicfreak1337/sarecomp": "2026-10-24T18:51:55.727Z",
   "sonicnext-dev/marathonrecomp": "2026-10-23T22:46:33.769Z",
+  "sonik-br/retrozordadapter": "2026-10-26T15:18:29.150Z",
   "sonsegajp/hwder": "2026-10-25T15:36:27.479Z",
   "soyjxck/dod3-recomp": "2026-10-23T22:25:39.434Z",
   "sp00nznet/360tools": "2026-10-23T22:46:33.769Z",
@@ -1839,6 +1912,7 @@
   "spiritualized1997/openfpga-super-gb": "2026-10-25T15:56:57.670Z",
   "spiritualized1997/openfpga-supervision": "2026-10-25T15:56:57.670Z",
   "spiritualized1997/openfpga-videobrain": "2026-10-25T15:56:57.670Z",
+  "splashdev88/nds4mister": "2026-10-26T15:18:29.150Z",
   "spoonelli/atari-dual-68k#spoonelli-eprom": "2026-10-25T15:56:57.670Z",
   "spoonelli/atari-dual-68k#spoonelli-guts": "2026-10-25T15:56:57.670Z",
   "spoonelli/atari-dual-68k#spoonelli-klaxp": "2026-10-25T15:56:57.670Z",
@@ -1866,6 +1940,7 @@
   "supermedo/uncharted_pc": "2026-10-23T22:25:39.434Z",
   "supermedo/wet-recomp": "2026-10-23T22:25:39.434Z",
   "swordfish90/lemuroid": "2026-10-25T15:36:27.479Z",
+  "sy2002/mister2mega65": "2026-10-26T15:18:29.150Z",
   "taisei-project/taisei": "2026-10-25T15:36:27.479Z",
   "tdrrmk2/uhexen2-tweaked": "2026-10-25T15:36:27.479Z",
   "team-beef-studios/beefraiderxr": "2026-10-23T22:25:39.434Z",
@@ -1927,14 +2002,17 @@
   "thegh0stship/battletanx-global-assault-pc-port": "2026-10-23T22:46:33.769Z",
   "thejesusfish/dual-ram-console-cores": "2026-10-25T15:56:57.670Z",
   "thekoalakoa/paprium-pocket": "2026-10-25T15:56:57.670Z",
+  "thekoalakoa/paprium_mister": "2026-10-26T15:18:29.150Z",
   "themriron2/sf64-psp": "2026-10-23T22:25:39.434Z",
   "themuffinator/openq4": "2026-10-25T15:36:27.479Z",
   "theokyr/project8recomp": "2026-10-23T22:25:39.434Z",
   "theonlyzac/sly1": "2026-10-23T22:25:39.434Z",
   "therunaway5/phase-distorter": "2026-10-25T15:36:27.479Z",
+  "theshaneobrien/mister-disc-drive-support": "2026-10-26T15:18:29.150Z",
   "thewill2002/fallout3vr": "2026-10-25T15:36:27.479Z",
   "thextech/thextech": "2026-10-25T15:36:27.479Z",
   "theypsilon/retroachievementsdb_mister": "2026-10-25T15:56:57.670Z",
+  "theypsilon/update_all_mister": "2026-10-26T15:18:29.150Z",
   "thiagolira/trouble-makers-pc-recomp": "2026-10-23T22:25:39.434Z",
   "thiagordsfx/urban-reign-recomp": "2026-10-23T22:46:33.769Z",
   "thibautbus/top": "2026-10-25T15:36:27.479Z",
@@ -1954,6 +2032,7 @@
   "tools81/zelda-wand-of-gamelon-static-recomp": "2026-10-25T15:36:27.479Z",
   "tortugaveloz/mirlo64": "2026-10-25T15:56:57.670Z",
   "trevtv/dawnvr": "2026-10-25T15:36:27.479Z",
+  "treyturner/analogue-pocket-patches": "2026-10-26T15:18:29.150Z",
   "troyedwardsjr/z2rs": "2026-10-23T22:25:39.434Z",
   "tsalvo/openfpga-varvara": "2026-10-25T15:56:57.670Z",
   "tvall43/metal-arms-pc-port": "2026-10-25T15:36:27.479Z",
@@ -1968,6 +2047,8 @@
   "vasilkovnd/ds2-nx": "2026-10-25T15:36:27.479Z",
   "vcmi/vcmi": "2026-10-25T15:36:27.479Z",
   "vector35/binaryninja-api": "2026-10-23T22:46:33.769Z",
+  "venice1200/mister_snac2iec": "2026-10-26T15:18:29.150Z",
+  "venice1200/mister_tty2oled": "2026-10-26T15:18:29.150Z",
   "vibecodekun/shantaerecomp": "2026-10-25T15:36:27.479Z",
   "vidanox/banjotooierecompiled": "2026-10-25T15:36:27.479Z",
   "vincecrusty/turokvr": "2026-10-25T15:36:27.479Z",
@@ -1976,6 +2057,7 @@
   "vistalargagames/waverace64-questvr": "2026-10-23T22:25:39.434Z",
   "vitomiguelf/crashott-pc": "2026-10-24T18:51:55.727Z",
   "vittorioromeo/quakevr": "2026-10-25T15:36:27.479Z",
+  "vnnc1/gow-native-pc": "2026-10-26T15:18:29.150Z",
   "voicedrew11/verdite2": "2026-10-25T15:36:27.479Z",
   "voicedrew11/verdite3": "2026-10-25T15:36:27.479Z",
   "vr-stereo-hub/bioshock-trilogy-vr": "2026-10-25T15:36:27.479Z",
@@ -2152,6 +2234,110 @@
    },
    "autoFollow": true
   },
+  "agg23/analogue-pocket-image-process": {
+   "id": "agg23/analogue-pocket-image-process",
+   "name": "Analogue Pocket Image Process",
+   "game": "Analogue Pocket Image Process",
+   "categories": [
+    "Analogue Pocket"
+   ],
+   "type": "core",
+   "tags": [
+    "FPGA"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "agg23/Analogue-Pocket-Image-Process"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "topic:openfpga stars:>5",
+    "date": "2026-10-26T15:18:29.150Z"
+   },
+   "autoFollow": true
+  },
+  "agg23/analogue-pocket-utils": {
+   "id": "agg23/analogue-pocket-utils",
+   "name": "analogue pocket utils",
+   "game": "analogue pocket utils",
+   "categories": [
+    "Analogue Pocket"
+   ],
+   "type": "core",
+   "tags": [
+    "FPGA"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "agg23/analogue-pocket-utils"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "topic:openfpga stars:>5",
+    "date": "2026-10-26T15:18:29.150Z"
+   },
+   "autoFollow": true
+  },
+  "agg23/openfpga-chip32-sim": {
+   "id": "agg23/openfpga-chip32-sim",
+   "name": "openfpga chip32 sim",
+   "game": "chip32 sim",
+   "categories": [
+    "Analogue Pocket"
+   ],
+   "type": "core",
+   "tags": [
+    "FPGA"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "agg23/openfpga-chip32-sim"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "topic:openfpga stars:>5",
+    "date": "2026-10-26T15:18:29.150Z"
+   },
+   "autoFollow": false
+  },
+  "agg23/sdram-controller": {
+   "id": "agg23/sdram-controller",
+   "name": "sdram controller",
+   "game": "sdram controller",
+   "categories": [
+    "MiSTer FPGA"
+   ],
+   "type": "core",
+   "tags": [
+    "FPGA"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "agg23/sdram-controller"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "topic:misterfpga stars:>5",
+    "date": "2026-10-26T15:18:29.150Z"
+   },
+   "autoFollow": false
+  },
   "alextreumer/balatrovrmod": {
    "id": "alextreumer/balatrovrmod",
    "name": "Balatro VRMod",
@@ -2233,6 +2419,58 @@
     "date": "2026-10-25T15:36:27.479Z"
    },
    "autoFollow": true
+  },
+  "baxysquare/mister_kun": {
+   "id": "baxysquare/mister_kun",
+   "name": "mister kun",
+   "game": "mister kun",
+   "categories": [
+    "MiSTer FPGA"
+   ],
+   "type": "core",
+   "tags": [
+    "FPGA"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "baxysquare/mister_kun"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "topic:misterfpga stars:>5",
+    "date": "2026-10-26T15:18:29.150Z"
+   },
+   "autoFollow": true
+  },
+  "bbbbbr/gameboy_button_test": {
+   "id": "bbbbbr/gameboy_button_test",
+   "name": "gameboy button test",
+   "game": "gameboy button test",
+   "categories": [
+    "Analogue Pocket"
+   ],
+   "type": "core",
+   "tags": [
+    "FPGA"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "bbbbbr/gameboy_button_test"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "topic:analogue-pocket stars:>5",
+    "date": "2026-10-26T15:18:29.150Z"
+   },
+   "autoFollow": false
   },
   "bearstonem/d2r-pcvr": {
    "id": "bearstonem/d2r-pcvr",
@@ -2491,6 +2729,32 @@
    },
    "autoFollow": true
   },
+  "carmiker/lithogen": {
+   "id": "carmiker/lithogen",
+   "name": "lithogen",
+   "game": "lithogen",
+   "categories": [
+    "MiSTer FPGA"
+   ],
+   "type": "core",
+   "tags": [
+    "FPGA"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "carmiker/lithogen"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "topic:mister-fpga stars:>5",
+    "date": "2026-10-26T15:18:29.150Z"
+   },
+   "autoFollow": false
+  },
   "carriex/recomp": {
    "id": "carriex/recomp",
    "name": "recomp",
@@ -2512,6 +2776,32 @@
     "kind": "search",
     "title": "recomp in:name stars:>40",
     "date": "2026-10-25T15:36:27.479Z"
+   },
+   "autoFollow": false
+  },
+  "catallo/misterclaw": {
+   "id": "catallo/misterclaw",
+   "name": "misterclaw",
+   "game": "misterclaw",
+   "categories": [
+    "MiSTer FPGA"
+   ],
+   "type": "core",
+   "tags": [
+    "FPGA"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "catallo/misterclaw"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "topic:mister-fpga stars:>5",
+    "date": "2026-10-26T15:18:29.150Z"
    },
    "autoFollow": false
   },
@@ -2645,6 +2935,58 @@
    },
    "autoFollow": true
   },
+  "coin-opcollection/distribution-openfpga": {
+   "id": "coin-opcollection/distribution-openfpga",
+   "name": "Distribution Open FPGA",
+   "game": "Distribution",
+   "categories": [
+    "Analogue Pocket"
+   ],
+   "type": "core",
+   "tags": [
+    "FPGA"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "Coin-OpCollection/Distribution-OpenFPGA"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "topic:openfpga stars:>5",
+    "date": "2026-10-26T15:18:29.150Z"
+   },
+   "autoFollow": true
+  },
+  "cosmickatamari/game-populator": {
+   "id": "cosmickatamari/game-populator",
+   "name": "game populator",
+   "game": "game populator",
+   "categories": [
+    "MiSTer FPGA"
+   ],
+   "type": "core",
+   "tags": [
+    "FPGA"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "cosmickatamari/game-populator"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "topic:misterfpga stars:>5",
+    "date": "2026-10-26T15:18:29.150Z"
+   },
+   "autoFollow": false
+  },
   "cranebeaker/coop-anything": {
    "id": "cranebeaker/coop-anything",
    "name": "coop anything",
@@ -2717,6 +3059,84 @@
    },
    "autoFollow": false
   },
+  "davewongillies/mister-syncthing": {
+   "id": "davewongillies/mister-syncthing",
+   "name": "Mi STer syncthing",
+   "game": "Mi STer syncthing",
+   "categories": [
+    "MiSTer FPGA"
+   ],
+   "type": "core",
+   "tags": [
+    "FPGA"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "davewongillies/MiSTer-syncthing"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "topic:misterfpga stars:>5",
+    "date": "2026-10-26T15:18:29.150Z"
+   },
+   "autoFollow": true
+  },
+  "davewongillies/mister-tailscale": {
+   "id": "davewongillies/mister-tailscale",
+   "name": "Mi STer tailscale",
+   "game": "Mi STer tailscale",
+   "categories": [
+    "MiSTer FPGA"
+   ],
+   "type": "core",
+   "tags": [
+    "FPGA"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "davewongillies/MiSTer-tailscale"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "topic:misterfpga stars:>5",
+    "date": "2026-10-26T15:18:29.150Z"
+   },
+   "autoFollow": false
+  },
+  "davewongillies/mister-update_stv": {
+   "id": "davewongillies/mister-update_stv",
+   "name": "MISTer update stv",
+   "game": "MISTer update stv",
+   "categories": [
+    "MiSTer FPGA"
+   ],
+   "type": "core",
+   "tags": [
+    "FPGA"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "davewongillies/MISTer-update_stv"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "topic:misterfpga stars:>5",
+    "date": "2026-10-26T15:18:29.150Z"
+   },
+   "autoFollow": false
+  },
   "decompals/ido-static-recomp": {
    "id": "decompals/ido-static-recomp",
    "name": "ido static recomp",
@@ -2762,6 +3182,136 @@
     "kind": "search",
     "title": "topic:decompilation stars:>100",
     "date": "2026-10-23T22:46:33.769Z"
+   },
+   "autoFollow": false
+  },
+  "decoryah/arcade-gaiapolis_mister": {
+   "id": "decoryah/arcade-gaiapolis_mister",
+   "name": "Arcade Gaiapolis Mi STer",
+   "game": "Gaiapolis",
+   "categories": [
+    "MiSTer FPGA"
+   ],
+   "type": "core",
+   "tags": [
+    "FPGA"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "decoryah/Arcade-Gaiapolis_MiSTer"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "topic:mister-fpga stars:>5",
+    "date": "2026-10-26T15:18:29.150Z"
+   },
+   "autoFollow": false
+  },
+  "decoryah/arcade-igspgm2_mister": {
+   "id": "decoryah/arcade-igspgm2_mister",
+   "name": "Arcade IGSPGM2 Mi STer",
+   "game": "IGSPGM2",
+   "categories": [
+    "MiSTer FPGA"
+   ],
+   "type": "core",
+   "tags": [
+    "FPGA"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "decoryah/Arcade-IGSPGM2_MiSTer"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "topic:mister-fpga stars:>5",
+    "date": "2026-10-26T15:18:29.150Z"
+   },
+   "autoFollow": false
+  },
+  "decoryah/arcade-jackiechan_mister": {
+   "id": "decoryah/arcade-jackiechan_mister",
+   "name": "Arcade Jackie Chan Mi STer",
+   "game": "Jackie Chan",
+   "categories": [
+    "MiSTer FPGA"
+   ],
+   "type": "core",
+   "tags": [
+    "FPGA"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "decoryah/Arcade-JackieChan_MiSTer"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "topic:mister-fpga stars:>5",
+    "date": "2026-10-26T15:18:29.150Z"
+   },
+   "autoFollow": false
+  },
+  "decoryah/arcade-magicalcatadventure_nostradamus_mister": {
+   "id": "decoryah/arcade-magicalcatadventure_nostradamus_mister",
+   "name": "Arcade Magical Cat Adventure Nostradamus Mi STer",
+   "game": "Magical Cat Adventure Nostradamus",
+   "categories": [
+    "MiSTer FPGA"
+   ],
+   "type": "core",
+   "tags": [
+    "FPGA"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "decoryah/Arcade-MagicalCatAdventure_Nostradamus_MiSTer"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "topic:mister-fpga stars:>5",
+    "date": "2026-10-26T15:18:29.150Z"
+   },
+   "autoFollow": false
+  },
+  "decoryah/arcade-monstermaulers_mister": {
+   "id": "decoryah/arcade-monstermaulers_mister",
+   "name": "Arcade Monster Maulers Mi STer",
+   "game": "Monster Maulers",
+   "categories": [
+    "MiSTer FPGA"
+   ],
+   "type": "core",
+   "tags": [
+    "FPGA"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "decoryah/Arcade-MonsterMaulers_MiSTer"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "topic:mister-fpga stars:>5",
+    "date": "2026-10-26T15:18:29.150Z"
    },
    "autoFollow": false
   },
@@ -2938,6 +3488,58 @@
    },
    "autoFollow": false
   },
+  "dyreschlock/pocket-extras": {
+   "id": "dyreschlock/pocket-extras",
+   "name": "pocket extras",
+   "game": "pocket extras",
+   "categories": [
+    "Analogue Pocket"
+   ],
+   "type": "core",
+   "tags": [
+    "FPGA"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "dyreschlock/pocket-extras"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "topic:analogue-pocket stars:>5",
+    "date": "2026-10-26T15:18:29.150Z"
+   },
+   "autoFollow": true
+  },
+  "dyreschlock/pocket-platform-images": {
+   "id": "dyreschlock/pocket-platform-images",
+   "name": "pocket platform images",
+   "game": "pocket platform images",
+   "categories": [
+    "Analogue Pocket"
+   ],
+   "type": "core",
+   "tags": [
+    "FPGA"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "dyreschlock/pocket-platform-images"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "topic:analogue-pocket stars:>5",
+    "date": "2026-10-26T15:18:29.150Z"
+   },
+   "autoFollow": true
+  },
   "dzakyraf/pes2017-recomp": {
    "id": "dzakyraf/pes2017-recomp",
    "name": "pes2017 recomp",
@@ -2962,6 +3564,56 @@
    },
    "autoFollow": false
   },
+  "efabless/clear_old": {
+   "id": "efabless/clear_old",
+   "name": "clear old",
+   "game": "clear old",
+   "categories": [
+    "Analogue Pocket"
+   ],
+   "type": "core",
+   "tags": [
+    "FPGA"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "efabless/clear_old"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "topic:openfpga stars:>5",
+    "date": "2026-10-26T15:18:29.150Z"
+   },
+   "autoFollow": false
+  },
+  "elripalda/recompstore": {
+   "id": "elripalda/recompstore",
+   "name": "Recomp Store",
+   "game": "Recomp Store",
+   "categories": [
+    "Other"
+   ],
+   "type": "tool",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "elripalda/RecompStore"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "topic:static-recompilation stars:>20",
+    "date": "2026-10-26T15:18:29.150Z"
+   },
+   "autoFollow": false
+  },
   "encounter/objdiff": {
    "id": "encounter/objdiff",
    "name": "objdiff",
@@ -2983,6 +3635,32 @@
     "kind": "search",
     "title": "topic:decompilation stars:>100",
     "date": "2026-10-23T22:46:33.769Z"
+   },
+   "autoFollow": false
+  },
+  "enfstudios/mister-companion-macos": {
+   "id": "enfstudios/mister-companion-macos",
+   "name": "mister companion macos",
+   "game": "mister companion macos",
+   "categories": [
+    "MiSTer FPGA"
+   ],
+   "type": "core",
+   "tags": [
+    "FPGA"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "ENFStudios/mister-companion-macos"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "topic:mister-fpga stars:>5",
+    "date": "2026-10-26T15:18:29.150Z"
    },
    "autoFollow": false
   },
@@ -3011,6 +3689,58 @@
     "date": "2026-10-22T17:41:11.000Z"
    },
    "autoFollow": false
+  },
+  "espiox/jts16_complete": {
+   "id": "espiox/jts16_complete",
+   "name": "jts16 complete",
+   "game": "jts16 complete",
+   "categories": [
+    "Analogue Pocket"
+   ],
+   "type": "core",
+   "tags": [
+    "FPGA"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "espiox/jts16_complete"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "topic:openfpga stars:>5",
+    "date": "2026-10-26T15:18:29.150Z"
+   },
+   "autoFollow": false
+  },
+  "espiox/pocket-betas": {
+   "id": "espiox/pocket-betas",
+   "name": "pocket betas",
+   "game": "pocket betas",
+   "categories": [
+    "Analogue Pocket"
+   ],
+   "type": "core",
+   "tags": [
+    "FPGA"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "espiox/pocket-betas"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "topic:openfpga stars:>5",
+    "date": "2026-10-26T15:18:29.150Z"
+   },
+   "autoFollow": true
   },
   "fable2recomp/beanrecomp": {
    "id": "fable2recomp/beanrecomp",
@@ -3113,6 +3843,80 @@
    },
    "autoFollow": true
   },
+  "fh1-reimagined/forzahorizon1-reimagined": {
+   "id": "fh1-reimagined/forzahorizon1-reimagined",
+   "name": "Forza Horizon1 Re Imagined",
+   "game": "Forza Horizon1 Re Imagined",
+   "categories": [
+    "Xbox 360"
+   ],
+   "type": "tool",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "FH1-ReImagined/ForzaHorizon1-ReImagined"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "topic:static-recompilation stars:>20",
+    "date": "2026-10-26T15:18:29.150Z"
+   },
+   "autoFollow": false
+  },
+  "fogleman/misterqueen": {
+   "id": "fogleman/misterqueen",
+   "name": "Mister Queen",
+   "game": "Mister Queen",
+   "categories": [
+    "Other"
+   ],
+   "type": "port",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "fogleman/MisterQueen"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "_MiSTer in:name stars:>10",
+    "date": "2026-10-26T15:18:29.150Z"
+   },
+   "autoFollow": false
+  },
+  "frederickk/pocketmidilink": {
+   "id": "frederickk/pocketmidilink",
+   "name": "Pocket Midi Link",
+   "game": "Pocket Midi Link",
+   "categories": [
+    "Analogue Pocket"
+   ],
+   "type": "core",
+   "tags": [
+    "FPGA"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "frederickk/PocketMidiLink"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "topic:analogue-pocket stars:>5",
+    "date": "2026-10-26T15:18:29.150Z"
+   },
+   "autoFollow": true
+  },
   "gabrick75/fh2-recompiled": {
    "id": "gabrick75/fh2-recompiled",
    "name": "fh2 recompiled",
@@ -3211,6 +4015,32 @@
     "kind": "search",
     "title": "topic:decompilation stars:>100",
     "date": "2026-10-23T22:46:33.769Z"
+   },
+   "autoFollow": true
+  },
+  "giancarloerra/degauss": {
+   "id": "giancarloerra/degauss",
+   "name": "Degauss",
+   "game": "Degauss",
+   "categories": [
+    "MiSTer FPGA"
+   ],
+   "type": "core",
+   "tags": [
+    "FPGA"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "giancarloerra/Degauss"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "topic:mister-fpga stars:>5",
+    "date": "2026-10-26T15:18:29.150Z"
    },
    "autoFollow": true
   },
@@ -3440,6 +4270,32 @@
    },
    "autoFollow": false
   },
+  "hinph/crystal-fantasy": {
+   "id": "hinph/crystal-fantasy",
+   "name": "CRys Tal Fantasy",
+   "game": "CRys Tal Fantasy",
+   "categories": [
+    "MiSTer FPGA"
+   ],
+   "type": "core",
+   "tags": [
+    "FPGA"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "Hinph/CRysTal-Fantasy"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "topic:mister-fpga stars:>5",
+    "date": "2026-10-26T15:18:29.150Z"
+   },
+   "autoFollow": false
+  },
   "hkmodd/ps2-recomp-agent-skill": {
    "id": "hkmodd/ps2-recomp-agent-skill",
    "name": "ps2 recomp Agent SKILL",
@@ -3541,6 +4397,84 @@
    },
    "autoFollow": true
   },
+  "hrvach/edsac": {
+   "id": "hrvach/edsac",
+   "name": "EDSAC",
+   "game": "EDSAC",
+   "categories": [
+    "MiSTer FPGA"
+   ],
+   "type": "core",
+   "tags": [
+    "FPGA"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "hrvach/EDSAC"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "topic:misterfpga stars:>5",
+    "date": "2026-10-26T15:18:29.150Z"
+   },
+   "autoFollow": true
+  },
+  "hrvach/fpg1": {
+   "id": "hrvach/fpg1",
+   "name": "fpg1",
+   "game": "fpg1",
+   "categories": [
+    "MiSTer FPGA"
+   ],
+   "type": "core",
+   "tags": [
+    "FPGA"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "hrvach/fpg1"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "topic:misterfpga stars:>5",
+    "date": "2026-10-26T15:18:29.150Z"
+   },
+   "autoFollow": true
+  },
+  "hrvach/life_mister": {
+   "id": "hrvach/life_mister",
+   "name": "Life Mi STer",
+   "game": "Life",
+   "categories": [
+    "MiSTer FPGA"
+   ],
+   "type": "core",
+   "tags": [
+    "FPGA"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "hrvach/Life_MiSTer"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "topic:misterfpga stars:>5",
+    "date": "2026-10-26T15:18:29.150Z"
+   },
+   "autoFollow": true
+  },
   "humbletim/firestorm-gha": {
    "id": "humbletim/firestorm-gha",
    "name": "firestorm gha",
@@ -3616,6 +4550,58 @@
    },
    "autoFollow": false
   },
+  "ika-musume/hs3": {
+   "id": "ika-musume/hs3",
+   "name": "HS3",
+   "game": "HS3",
+   "categories": [
+    "MiSTer FPGA"
+   ],
+   "type": "core",
+   "tags": [
+    "FPGA"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "ika-musume/HS3"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "topic:mister-fpga stars:>5",
+    "date": "2026-10-26T15:18:29.150Z"
+   },
+   "autoFollow": false
+  },
+  "ika-musume/mistersh3test-cv1k": {
+   "id": "ika-musume/mistersh3test-cv1k",
+   "name": "Mi STer SH3Test CV1k",
+   "game": "Mi STer SH3Test CV1k",
+   "categories": [
+    "MiSTer FPGA"
+   ],
+   "type": "core",
+   "tags": [
+    "FPGA"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "ika-musume/MiSTerSH3Test-CV1k"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "topic:mister-fpga stars:>5",
+    "date": "2026-10-26T15:18:29.150Z"
+   },
+   "autoFollow": false
+  },
   "invinceble55-wq/estacado-the-darkness-recomp": {
    "id": "invinceble55-wq/estacado-the-darkness-recomp",
    "name": "Estacado The Darkness Recomp",
@@ -3637,6 +4623,58 @@
     "kind": "search",
     "title": "XenonRecomp in:readme stars:>30",
     "date": "2026-10-23T22:46:33.769Z"
+   },
+   "autoFollow": false
+  },
+  "itsdanik/dethrace_mister": {
+   "id": "itsdanik/dethrace_mister",
+   "name": "Dethrace Mi STer",
+   "game": "Dethrace",
+   "categories": [
+    "MiSTer FPGA"
+   ],
+   "type": "core",
+   "tags": [
+    "FPGA"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "ItsDanik/Dethrace_MiSTer"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "topic:mister-fpga stars:>5",
+    "date": "2026-10-26T15:18:29.150Z"
+   },
+   "autoFollow": false
+  },
+  "jacquesdriessen/mister-mandelbrot": {
+   "id": "jacquesdriessen/mister-mandelbrot",
+   "name": "Mi STer mandelbrot",
+   "game": "Mi STer mandelbrot",
+   "categories": [
+    "MiSTer FPGA"
+   ],
+   "type": "core",
+   "tags": [
+    "FPGA"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "jacquesdriessen/MiSTer-mandelbrot"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "topic:misterfpga stars:>5",
+    "date": "2026-10-26T15:18:29.150Z"
    },
    "autoFollow": false
   },
@@ -3786,6 +4824,30 @@
     "kind": "search",
     "title": "\"static recompilation\" in:description stars:>30",
     "date": "2026-10-25T15:36:27.479Z"
+   },
+   "autoFollow": false
+  },
+  "jjmhalew/rampagere": {
+   "id": "jjmhalew/rampagere",
+   "name": "Rampage RE",
+   "game": "Rampage RE",
+   "categories": [
+    "Nintendo Switch"
+   ],
+   "type": "port",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "jjmhalew/RampageRE"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "PS2Recomp in:readme stars:>20",
+    "date": "2026-10-26T15:18:29.150Z"
    },
    "autoFollow": false
   },
@@ -4144,6 +5206,58 @@
    },
    "autoFollow": true
   },
+  "kabukiflux/jamma_2player_xbox360": {
+   "id": "kabukiflux/jamma_2player_xbox360",
+   "name": "JAMMA 2player xbox360",
+   "game": "JAMMA 2player xbox360",
+   "categories": [
+    "MiSTer FPGA"
+   ],
+   "type": "core",
+   "tags": [
+    "FPGA"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "KabukiFlux/JAMMA_2player_xbox360"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "topic:misterfpga stars:>5",
+    "date": "2026-10-26T15:18:29.150Z"
+   },
+   "autoFollow": true
+  },
+  "kabukiflux/midi4mister": {
+   "id": "kabukiflux/midi4mister",
+   "name": "MIDI4Mi STer",
+   "game": "MIDI4",
+   "categories": [
+    "MiSTer FPGA"
+   ],
+   "type": "core",
+   "tags": [
+    "FPGA"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "KabukiFlux/MIDI4MiSTer"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "topic:misterfpga stars:>5",
+    "date": "2026-10-26T15:18:29.150Z"
+   },
+   "autoFollow": false
+  },
   "kaikoclanworth1/wwe-svr2011-pc": {
    "id": "kaikoclanworth1/wwe-svr2011-pc",
    "name": "wwe svr2011 pc",
@@ -4167,6 +5281,58 @@
     "date": "2026-10-23T22:46:33.769Z"
    },
    "autoFollow": false
+  },
+  "kconger/mister_tty2epaper": {
+   "id": "kconger/mister_tty2epaper",
+   "name": "Mi STer tty2epaper",
+   "game": "Mi STer tty2epaper",
+   "categories": [
+    "MiSTer FPGA"
+   ],
+   "type": "core",
+   "tags": [
+    "FPGA"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "kconger/MiSTer_tty2epaper"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "topic:misterfpga stars:>5",
+    "date": "2026-10-26T15:18:29.150Z"
+   },
+   "autoFollow": false
+  },
+  "kconger/mister_web2rgbmatrix": {
+   "id": "kconger/mister_web2rgbmatrix",
+   "name": "Mi STer web2rgbmatrix",
+   "game": "Mi STer web2rgbmatrix",
+   "categories": [
+    "MiSTer FPGA"
+   ],
+   "type": "core",
+   "tags": [
+    "FPGA"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "kconger/MiSTer_web2rgbmatrix"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "topic:misterfpga stars:>5",
+    "date": "2026-10-26T15:18:29.150Z"
+   },
+   "autoFollow": true
   },
   "keton/ace-combat-uevr": {
    "id": "keton/ace-combat-uevr",
@@ -4442,6 +5608,30 @@
    },
    "autoFollow": true
   },
+  "kuraeow/ultratears": {
+   "id": "kuraeow/ultratears",
+   "name": "ultratears",
+   "game": "ultratears",
+   "categories": [
+    "Other"
+   ],
+   "type": "recompilation",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "kuraeow/ultratears"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "topic:static-recompilation stars:>20",
+    "date": "2026-10-26T15:18:29.150Z"
+   },
+   "autoFollow": false
+  },
   "laughtt/bloodborne-vr": {
    "id": "laughtt/bloodborne-vr",
    "name": "bloodborne vr",
@@ -4627,6 +5817,30 @@
    },
    "autoFollow": false
   },
+  "masterllgod/naruto-storm-generations-port-nativo": {
+   "id": "masterllgod/naruto-storm-generations-port-nativo",
+   "name": "naruto storm generations port nativo",
+   "game": "naruto storm generations port nativo",
+   "categories": [
+    "Xbox 360"
+   ],
+   "type": "recompilation",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "Masterllgod/naruto-storm-generations-port-nativo"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "XenonRecomp in:readme stars:>30",
+    "date": "2026-10-26T15:18:29.150Z"
+   },
+   "autoFollow": false
+  },
   "matiaszanolli/sega-vr-disasm": {
    "id": "matiaszanolli/sega-vr-disasm",
    "name": "sega vr disasm",
@@ -4653,6 +5867,32 @@
     "date": "2026-10-24T18:51:55.727Z"
    },
    "autoFollow": false
+  },
+  "matijaerceg/misterzine": {
+   "id": "matijaerceg/misterzine",
+   "name": "misterzine",
+   "game": "misterzine",
+   "categories": [
+    "MiSTer FPGA"
+   ],
+   "type": "core",
+   "tags": [
+    "FPGA"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "matijaerceg/misterzine"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "topic:mister-fpga stars:>5",
+    "date": "2026-10-26T15:18:29.150Z"
+   },
+   "autoFollow": true
   },
   "matskarlsson/wreckfest2vr": {
    "id": "matskarlsson/wreckfest2vr",
@@ -4814,6 +6054,370 @@
    },
    "autoFollow": false
   },
+  "mister-devel/distribution_mister": {
+   "id": "mister-devel/distribution_mister",
+   "name": "Distribution Mi STer",
+   "game": "Distribution",
+   "categories": [
+    "MiSTer FPGA"
+   ],
+   "type": "core",
+   "tags": [
+    "FPGA"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "MiSTer-devel/Distribution_MiSTer"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "_MiSTer in:name stars:>10",
+    "date": "2026-10-26T15:18:29.150Z"
+   },
+   "autoFollow": true
+  },
+  "mister-devel/gameboy_mister": {
+   "id": "mister-devel/gameboy_mister",
+   "name": "Gameboy Mi STer",
+   "game": "Gameboy",
+   "categories": [
+    "MiSTer FPGA"
+   ],
+   "type": "core",
+   "tags": [
+    "FPGA"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "MiSTer-devel/Gameboy_MiSTer"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "_MiSTer in:name stars:>10",
+    "date": "2026-10-26T15:18:29.150Z"
+   },
+   "autoFollow": true
+  },
+  "mister-devel/gba_mister": {
+   "id": "mister-devel/gba_mister",
+   "name": "GBA Mi STer",
+   "game": "GBA",
+   "categories": [
+    "MiSTer FPGA"
+   ],
+   "type": "core",
+   "tags": [
+    "FPGA"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "MiSTer-devel/GBA_MiSTer"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "_MiSTer in:name stars:>10",
+    "date": "2026-10-26T15:18:29.150Z"
+   },
+   "autoFollow": true
+  },
+  "mister-devel/genesis_mister": {
+   "id": "mister-devel/genesis_mister",
+   "name": "Genesis Mi STer",
+   "game": "Genesis",
+   "categories": [
+    "MiSTer FPGA"
+   ],
+   "type": "core",
+   "tags": [
+    "FPGA"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "MiSTer-devel/Genesis_MiSTer"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "_MiSTer in:name stars:>10",
+    "date": "2026-10-26T15:18:29.150Z"
+   },
+   "autoFollow": true
+  },
+  "mister-devel/hardware_mister": {
+   "id": "mister-devel/hardware_mister",
+   "name": "Hardware Mi STer",
+   "game": "Hardware",
+   "categories": [
+    "MiSTer FPGA"
+   ],
+   "type": "core",
+   "tags": [
+    "FPGA"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "MiSTer-devel/Hardware_MiSTer"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "_MiSTer in:name stars:>10",
+    "date": "2026-10-26T15:18:29.150Z"
+   },
+   "autoFollow": true
+  },
+  "mister-devel/main_mister": {
+   "id": "mister-devel/main_mister",
+   "name": "Main Mi STer",
+   "game": "Main",
+   "categories": [
+    "MiSTer FPGA"
+   ],
+   "type": "core",
+   "tags": [
+    "FPGA"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "MiSTer-devel/Main_MiSTer"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "_MiSTer in:name stars:>10",
+    "date": "2026-10-26T15:18:29.150Z"
+   },
+   "autoFollow": true
+  },
+  "mister-devel/menu_mister": {
+   "id": "mister-devel/menu_mister",
+   "name": "Menu Mi STer",
+   "game": "Menu",
+   "categories": [
+    "MiSTer FPGA"
+   ],
+   "type": "core",
+   "tags": [
+    "FPGA"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "MiSTer-devel/Menu_MiSTer"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "_MiSTer in:name stars:>10",
+    "date": "2026-10-26T15:18:29.150Z"
+   },
+   "autoFollow": true
+  },
+  "mister-devel/mkdocs_mister": {
+   "id": "mister-devel/mkdocs_mister",
+   "name": "Mk Docs Mi STer",
+   "game": "Mk Docs",
+   "categories": [
+    "MiSTer FPGA"
+   ],
+   "type": "core",
+   "tags": [
+    "FPGA"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "MiSTer-devel/MkDocs_MiSTer"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "_MiSTer in:name stars:>10",
+    "date": "2026-10-26T15:18:29.150Z"
+   },
+   "autoFollow": true
+  },
+  "mister-devel/saturn_mister": {
+   "id": "mister-devel/saturn_mister",
+   "name": "Saturn Mi STer",
+   "game": "Saturn",
+   "categories": [
+    "MiSTer FPGA"
+   ],
+   "type": "core",
+   "tags": [
+    "FPGA"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "MiSTer-devel/Saturn_MiSTer"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "_MiSTer in:name stars:>10",
+    "date": "2026-10-26T15:18:29.150Z"
+   },
+   "autoFollow": true
+  },
+  "mister-devel/scripts_mister": {
+   "id": "mister-devel/scripts_mister",
+   "name": "Scripts Mi STer",
+   "game": "Scripts",
+   "categories": [
+    "MiSTer FPGA"
+   ],
+   "type": "core",
+   "tags": [
+    "FPGA"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "MiSTer-devel/Scripts_MiSTer"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "_MiSTer in:name stars:>10",
+    "date": "2026-10-26T15:18:29.150Z"
+   },
+   "autoFollow": true
+  },
+  "mister-devel/sms_mister": {
+   "id": "mister-devel/sms_mister",
+   "name": "SMS Mi STer",
+   "game": "SMS",
+   "categories": [
+    "MiSTer FPGA"
+   ],
+   "type": "core",
+   "tags": [
+    "FPGA"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "MiSTer-devel/SMS_MiSTer"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "_MiSTer in:name stars:>10",
+    "date": "2026-10-26T15:18:29.150Z"
+   },
+   "autoFollow": true
+  },
+  "mister-devel/template_mister": {
+   "id": "mister-devel/template_mister",
+   "name": "Template Mi STer",
+   "game": "Template",
+   "categories": [
+    "MiSTer FPGA"
+   ],
+   "type": "core",
+   "tags": [
+    "FPGA"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "MiSTer-devel/Template_MiSTer"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "_MiSTer in:name stars:>10",
+    "date": "2026-10-26T15:18:29.150Z"
+   },
+   "autoFollow": true
+  },
+  "misterarch/pkgbuilds": {
+   "id": "misterarch/pkgbuilds",
+   "name": "PKGBUILDs",
+   "game": "PKGBUILDs",
+   "categories": [
+    "MiSTer FPGA"
+   ],
+   "type": "core",
+   "tags": [
+    "FPGA"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "MiSTerArch/PKGBUILDs"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "topic:misterfpga stars:>5",
+    "date": "2026-10-26T15:18:29.150Z"
+   },
+   "autoFollow": true
+  },
+  "misterorganize/mister_frontier": {
+   "id": "misterorganize/mister_frontier",
+   "name": "Mi STer Frontier",
+   "game": "Mi STer Frontier",
+   "categories": [
+    "MiSTer FPGA"
+   ],
+   "type": "core",
+   "tags": [
+    "FPGA"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "MiSTerOrganize/MiSTer_Frontier"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "topic:mister-fpga stars:>5",
+    "date": "2026-10-26T15:18:29.150Z"
+   },
+   "autoFollow": false
+  },
   "moistman42069/haloce-decompremix-vr-pc-android": {
    "id": "moistman42069/haloce-decompremix-vr-pc-android",
    "name": "Halo CE Decomp Remix VR PC Android",
@@ -4919,6 +6523,32 @@
    },
    "autoFollow": false
   },
+  "neil-morrison44/pocket-sync": {
+   "id": "neil-morrison44/pocket-sync",
+   "name": "pocket sync",
+   "game": "pocket sync",
+   "categories": [
+    "Analogue Pocket"
+   ],
+   "type": "core",
+   "tags": [
+    "FPGA"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "neil-morrison44/pocket-sync"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "topic:analogue-pocket stars:>5",
+    "date": "2026-10-26T15:18:29.150Z"
+   },
+   "autoFollow": false
+  },
   "nicolasaubinet/virtual-rock-galactic": {
    "id": "nicolasaubinet/virtual-rock-galactic",
    "name": "virtual rock galactic",
@@ -4970,6 +6600,32 @@
    },
    "autoFollow": false
   },
+  "norain211/doa2u-re": {
+   "id": "norain211/doa2u-re",
+   "name": "doa2u re",
+   "game": "doa2u re",
+   "categories": [
+    "Xbox"
+   ],
+   "type": "recompilation",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "NoRain211/doa2u-re"
+   },
+   "links": [],
+   "sources": [
+    "news"
+   ],
+   "discoveredFrom": {
+    "kind": "news",
+    "title": "Dead or Alive 2 Ultimate Recomp Out Now! More Xbox Recomps",
+    "url": "https://www.youtube.com/watch?v=FDuSsjbghR0",
+    "source": "YouTube: Video Game Esoterica",
+    "date": "2026-10-26T12:30:36.000Z"
+   },
+   "autoFollow": true
+  },
   "norain211/doaxvb-re": {
    "id": "norain211/doaxvb-re",
    "name": "doaxvb re",
@@ -4993,6 +6649,212 @@
     "date": "2026-10-23T22:46:33.769Z"
    },
    "autoFollow": false
+  },
+  "oaleex/openshao": {
+   "id": "oaleex/openshao",
+   "name": "Open Shao",
+   "game": "Open Shao",
+   "categories": [
+    "Xbox"
+   ],
+   "type": "recompilation",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "OAleex/OpenShao"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "\"static recompilation\" in:description stars:>30",
+    "date": "2026-10-26T15:18:29.150Z"
+   },
+   "autoFollow": false
+  },
+  "obijuan/ctif-madrid-2018-fpgas-libres": {
+   "id": "obijuan/ctif-madrid-2018-fpgas-libres",
+   "name": "CTIF Madrid 2018 FPGAs Libres",
+   "game": "CTIF Madrid 2018 FPGAs Libres",
+   "categories": [
+    "Analogue Pocket"
+   ],
+   "type": "core",
+   "tags": [
+    "FPGA"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "Obijuan/CTIF-Madrid-2018-FPGAs-Libres"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "topic:openfpga stars:>5",
+    "date": "2026-10-26T15:18:29.150Z"
+   },
+   "autoFollow": false
+  },
+  "obijuan/open-fpga-verilog-tutorial": {
+   "id": "obijuan/open-fpga-verilog-tutorial",
+   "name": "open fpga verilog tutorial",
+   "game": "open fpga verilog tutorial",
+   "categories": [
+    "Analogue Pocket"
+   ],
+   "type": "core",
+   "tags": [
+    "FPGA"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "Obijuan/open-fpga-verilog-tutorial"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "topic:openfpga stars:>5",
+    "date": "2026-10-26T15:18:29.150Z"
+   },
+   "autoFollow": false
+  },
+  "open-fpga/bass-chip32": {
+   "id": "open-fpga/bass-chip32",
+   "name": "bass chip32",
+   "game": "bass chip32",
+   "categories": [
+    "Analogue Pocket"
+   ],
+   "type": "core",
+   "tags": [
+    "FPGA"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "open-fpga/bass-chip32"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "topic:openfpga stars:>5",
+    "date": "2026-10-26T15:18:29.150Z"
+   },
+   "autoFollow": false
+  },
+  "open-fpga/core-example-basicchip32": {
+   "id": "open-fpga/core-example-basicchip32",
+   "name": "core example basicchip32",
+   "game": "core example basicchip32",
+   "categories": [
+    "Analogue Pocket"
+   ],
+   "type": "core",
+   "tags": [
+    "FPGA"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "open-fpga/core-example-basicchip32"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "topic:openfpga stars:>5",
+    "date": "2026-10-26T15:18:29.150Z"
+   },
+   "autoFollow": false
+  },
+  "open-fpga/core-example-interact": {
+   "id": "open-fpga/core-example-interact",
+   "name": "core example interact",
+   "game": "core example interact",
+   "categories": [
+    "Analogue Pocket"
+   ],
+   "type": "core",
+   "tags": [
+    "FPGA"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "open-fpga/core-example-interact"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "topic:openfpga stars:>5",
+    "date": "2026-10-26T15:18:29.150Z"
+   },
+   "autoFollow": false
+  },
+  "open-fpga/core-example-kbmouse-targetdata": {
+   "id": "open-fpga/core-example-kbmouse-targetdata",
+   "name": "core example kbmouse targetdata",
+   "game": "core example kbmouse targetdata",
+   "categories": [
+    "Analogue Pocket"
+   ],
+   "type": "core",
+   "tags": [
+    "FPGA"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "open-fpga/core-example-kbmouse-targetdata"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "topic:openfpga stars:>5",
+    "date": "2026-10-26T15:18:29.150Z"
+   },
+   "autoFollow": false
+  },
+  "open-fpga/core-template": {
+   "id": "open-fpga/core-template",
+   "name": "core template",
+   "game": "core template",
+   "categories": [
+    "Analogue Pocket"
+   ],
+   "type": "core",
+   "tags": [
+    "FPGA"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "open-fpga/core-template"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "topic:openfpga stars:>5",
+    "date": "2026-10-26T15:18:29.150Z"
+   },
+   "autoFollow": true
   },
   "opensmash-ultimate/ssbu-recomp": {
    "id": "opensmash-ultimate/ssbu-recomp",
@@ -5404,6 +7266,30 @@
    },
    "autoFollow": true
   },
+  "proshoumma/mister-poster": {
+   "id": "proshoumma/mister-poster",
+   "name": "Mister Poster",
+   "game": "Mister Poster",
+   "categories": [
+    "Other"
+   ],
+   "type": "port",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "proshoumma/Mister-Poster"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "_MiSTer in:name stars:>10",
+    "date": "2026-10-26T15:18:29.150Z"
+   },
+   "autoFollow": false
+  },
   "ps1recomp/ps1-recomp": {
    "id": "ps1recomp/ps1-recomp",
    "name": "ps1 recomp",
@@ -5425,6 +7311,32 @@
     "kind": "search",
     "title": "PS2Recomp in:readme stars:>20",
     "date": "2026-10-23T22:46:33.769Z"
+   },
+   "autoFollow": false
+  },
+  "puddingstudio/mister-toasty-squadron": {
+   "id": "puddingstudio/mister-toasty-squadron",
+   "name": "Mi STer Toasty Squadron",
+   "game": "Mi STer Toasty Squadron",
+   "categories": [
+    "MiSTer FPGA"
+   ],
+   "type": "core",
+   "tags": [
+    "FPGA"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "puddingstudio/MiSTer-Toasty-Squadron"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "topic:misterfpga stars:>5",
+    "date": "2026-10-26T15:18:29.150Z"
    },
    "autoFollow": false
   },
@@ -5609,6 +7521,32 @@
    },
    "autoFollow": false
   },
+  "retronas/retronas": {
+   "id": "retronas/retronas",
+   "name": "retronas",
+   "game": "retronas",
+   "categories": [
+    "MiSTer FPGA"
+   ],
+   "type": "core",
+   "tags": [
+    "FPGA"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "retronas/retronas"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "topic:misterfpga stars:>5",
+    "date": "2026-10-26T15:18:29.150Z"
+   },
+   "autoFollow": true
+  },
   "retroportingtoolkit/psxrecomp": {
    "id": "retroportingtoolkit/psxrecomp",
    "name": "psxrecomp",
@@ -5654,6 +7592,32 @@
     "kind": "search",
     "title": "recomp in:name stars:>40",
     "date": "2026-10-25T15:36:27.479Z"
+   },
+   "autoFollow": true
+  },
+  "rmonic79/arcade-darius_mister": {
+   "id": "rmonic79/arcade-darius_mister",
+   "name": "Arcade Darius Mi STer",
+   "game": "Darius",
+   "categories": [
+    "MiSTer FPGA"
+   ],
+   "type": "core",
+   "tags": [
+    "FPGA"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "rmonic79/Arcade-Darius_MiSTer"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "topic:mister-fpga stars:>5",
+    "date": "2026-10-26T15:18:29.150Z"
    },
    "autoFollow": true
   },
@@ -6045,6 +8009,32 @@
    },
    "autoFollow": false
   },
+  "shontaware/fpga_design_fabric_architecture": {
+   "id": "shontaware/fpga_design_fabric_architecture",
+   "name": "FPGA Design Fabric Architecture",
+   "game": "FPGA Design Fabric Architecture",
+   "categories": [
+    "Analogue Pocket"
+   ],
+   "type": "core",
+   "tags": [
+    "FPGA"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "ShonTaware/FPGA_Design_Fabric_Architecture"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "topic:openfpga stars:>5",
+    "date": "2026-10-26T15:18:29.150Z"
+   },
+   "autoFollow": false
+  },
   "simplysnake/grimdawn_mod": {
    "id": "simplysnake/grimdawn_mod",
    "name": "Grim Dawn mod",
@@ -6317,6 +8307,32 @@
    },
    "autoFollow": true
   },
+  "sonik-br/retrozordadapter": {
+   "id": "sonik-br/retrozordadapter",
+   "name": "Retro Zord Adapter",
+   "game": "Retro Zord Adapter",
+   "categories": [
+    "MiSTer FPGA"
+   ],
+   "type": "core",
+   "tags": [
+    "FPGA"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "sonik-br/RetroZordAdapter"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "topic:misterfpga stars:>5",
+    "date": "2026-10-26T15:18:29.150Z"
+   },
+   "autoFollow": true
+  },
   "sp00nznet/360tools": {
    "id": "sp00nznet/360tools",
    "name": "360tools",
@@ -6461,6 +8477,32 @@
    },
    "autoFollow": true
   },
+  "splashdev88/nds4mister": {
+   "id": "splashdev88/nds4mister",
+   "name": "NDS4Mi STer",
+   "game": "NDS4",
+   "categories": [
+    "MiSTer FPGA"
+   ],
+   "type": "core",
+   "tags": [
+    "FPGA"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "SplashDev88/NDS4MiSTer"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "topic:mister-fpga stars:>5",
+    "date": "2026-10-26T15:18:29.150Z"
+   },
+   "autoFollow": true
+  },
   "spoopyghosty0/frameport": {
    "id": "spoopyghosty0/frameport",
    "name": "frameport",
@@ -6538,6 +8580,32 @@
     "kind": "search",
     "title": "rexglue in:readme stars:>30",
     "date": "2026-10-23T22:46:33.769Z"
+   },
+   "autoFollow": false
+  },
+  "sy2002/mister2mega65": {
+   "id": "sy2002/mister2mega65",
+   "name": "Mi STer2MEGA65",
+   "game": "Mi STer2MEGA65",
+   "categories": [
+    "MiSTer FPGA"
+   ],
+   "type": "core",
+   "tags": [
+    "FPGA"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "sy2002/MiSTer2MEGA65"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "topic:misterfpga stars:>5",
+    "date": "2026-10-26T15:18:29.150Z"
    },
    "autoFollow": false
   },
@@ -6642,6 +8710,84 @@
    },
    "autoFollow": false
   },
+  "thekoalakoa/paprium_mister": {
+   "id": "thekoalakoa/paprium_mister",
+   "name": "Paprium Mi STer",
+   "game": "Paprium",
+   "categories": [
+    "MiSTer FPGA"
+   ],
+   "type": "core",
+   "tags": [
+    "FPGA"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "thekoalakoa/Paprium_MiSTer"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "topic:mister-fpga stars:>5",
+    "date": "2026-10-26T15:18:29.150Z"
+   },
+   "autoFollow": false
+  },
+  "theshaneobrien/mister-disc-drive-support": {
+   "id": "theshaneobrien/mister-disc-drive-support",
+   "name": "mister disc drive support",
+   "game": "mister disc drive support",
+   "categories": [
+    "MiSTer FPGA"
+   ],
+   "type": "core",
+   "tags": [
+    "FPGA"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "theshaneobrien/mister-disc-drive-support"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "topic:misterfpga stars:>5",
+    "date": "2026-10-26T15:18:29.150Z"
+   },
+   "autoFollow": true
+  },
+  "theypsilon/update_all_mister": {
+   "id": "theypsilon/update_all_mister",
+   "name": "Update All Mi STer",
+   "game": "Update All",
+   "categories": [
+    "MiSTer FPGA"
+   ],
+   "type": "core",
+   "tags": [
+    "FPGA"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "theypsilon/Update_All_MiSTer"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "_MiSTer in:name stars:>10",
+    "date": "2026-10-26T15:18:29.150Z"
+   },
+   "autoFollow": true
+  },
   "thiagordsfx/urban-reign-recomp": {
    "id": "thiagordsfx/urban-reign-recomp",
    "name": "urban reign recomp",
@@ -6690,6 +8836,32 @@
    },
    "autoFollow": false
   },
+  "treyturner/analogue-pocket-patches": {
+   "id": "treyturner/analogue-pocket-patches",
+   "name": "analogue pocket patches",
+   "game": "analogue pocket patches",
+   "categories": [
+    "Analogue Pocket"
+   ],
+   "type": "core",
+   "tags": [
+    "FPGA"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "treyturner/analogue-pocket-patches"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "topic:analogue-pocket stars:>5",
+    "date": "2026-10-26T15:18:29.150Z"
+   },
+   "autoFollow": true
+  },
   "underdecoded/gen2recomped": {
    "id": "underdecoded/gen2recomped",
    "name": "Gen2Recomped",
@@ -6714,6 +8886,58 @@
    },
    "autoFollow": true
   },
+  "venice1200/mister_snac2iec": {
+   "id": "venice1200/mister_snac2iec",
+   "name": "Mi STer SNAC2IEC",
+   "game": "Mi STer SNAC2IEC",
+   "categories": [
+    "MiSTer FPGA"
+   ],
+   "type": "core",
+   "tags": [
+    "FPGA"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "venice1200/MiSTer_SNAC2IEC"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "topic:misterfpga stars:>5",
+    "date": "2026-10-26T15:18:29.150Z"
+   },
+   "autoFollow": true
+  },
+  "venice1200/mister_tty2oled": {
+   "id": "venice1200/mister_tty2oled",
+   "name": "Mi STer tty2oled",
+   "game": "Mi STer tty2oled",
+   "categories": [
+    "MiSTer FPGA"
+   ],
+   "type": "core",
+   "tags": [
+    "FPGA"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "venice1200/MiSTer_tty2oled"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "topic:misterfpga stars:>5",
+    "date": "2026-10-26T15:18:29.150Z"
+   },
+   "autoFollow": true
+  },
   "vitomiguelf/crashott-pc": {
    "id": "vitomiguelf/crashott-pc",
    "name": "crashott pc",
@@ -6735,6 +8959,30 @@
     "kind": "search",
     "title": "XenonRecomp in:readme stars:>30",
     "date": "2026-10-24T18:51:55.727Z"
+   },
+   "autoFollow": false
+  },
+  "vnnc1/gow-native-pc": {
+   "id": "vnnc1/gow-native-pc",
+   "name": "gow native pc",
+   "game": "gow native pc",
+   "categories": [
+    "Other"
+   ],
+   "type": "port",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "Vnnc1/gow-native-pc"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "PS2Recomp in:readme stars:>20",
+    "date": "2026-10-26T15:18:29.150Z"
    },
    "autoFollow": false
   },
@@ -6961,6 +9209,7 @@
  "rejected": {
   "alexgaoth/awesome-reverse-engineered": "2026-10-23",
   "alphanu1/sega-model1-mister": "2026-10-23",
+  "ansiwen/dualjoy": "2026-10-26",
   "ares-emulator/ares": "2026-10-23",
   "azahar-emu/azahar": "2026-10-23",
   "bailo167/awesome-game-mashups": "2026-10-23",
@@ -6980,11 +9229,14 @@
   "dolphin-emu/dolphin": "2026-10-23",
   "dryxio/reagent": "2026-10-23",
   "elipsitz/gamebub": "2026-10-23",
+  "emmercm/igir": "2026-10-26",
+  "euan-forrester/save-file-converter": "2026-10-26",
   "exxistancedc/tama-english-translation": "2026-10-23",
   "fever308/eday-steam-direct-launcher": "2026-10-25",
   "ghaleonx/ys": "2026-10-23",
   "gitlab:pepsipu/ns2jb": "2026-10-23",
   "hkmodd/pcsx2-mcp": "2026-10-23",
+  "hollie/misterhouse": "2026-10-26",
   "inorirus/kyty": "2026-10-23",
   "joeyhodge/uevr": "2026-10-25",
   "jorge262007/fftarecomp": "2026-10-23",
@@ -6992,16 +9244,21 @@
   "justxor/awesome-decomp-games-ru": "2026-10-23",
   "kytyps5/kytyps5": "2026-10-23",
   "lightvelox/sotc-vibe-pc": "2026-10-23",
+  "marty-suzuki/misterfusion": "2026-10-26",
   "mikage-emu/mikage-dev": "2026-10-23",
   "mister-devel/apple-lisa_mister": "2026-10-23",
   "mister-devel/arcade-igspgm_mister": "2026-10-23",
   "mister-devel/marty_mister": "2026-10-23",
   "mister-devel/n64_mister": "2026-10-23",
   "mister-devel/next_mister": "2026-10-23",
+  "mister-hope/mister-hope.github.io": "2026-10-26",
+  "mister-hope/physics": "2026-10-26",
+  "misterorganize/mister_organize": "2026-10-26",
   "mr-nlce/pcvr-mods-installer-hub": "2026-10-25",
   "mutars/anvilengine2vr": "2026-10-25",
   "nbcraft-org/nbcraft": "2026-10-23",
   "nmlgc/rec98": "2026-10-23",
+  "obalfour/flooder": "2026-10-26",
   "palindromicbreadloaf/dekopon": "2026-10-23",
   "pcsx2/pcsx2": "2026-10-23",
   "probonopd/previous": "2026-10-23",
@@ -7016,6 +9273,7 @@
   "sharpemu/sharpemu": "2026-10-23",
   "shiiion/dolphin": "2026-10-23",
   "sirdiabo/githublauncher": "2026-10-23",
+  "slaveofido/blastcorps": "2026-10-26",
   "stanleymov/doom-ring": "2026-10-25",
   "stenzek/duckstation": "2026-10-23",
   "stevensnd/nfsmw-nx": "2026-10-23",
@@ -7026,6 +9284,7 @@
   "tgeorgiadis/quiver-launcher": "2026-10-25",
   "th0mk/nfsu2-web": "2026-10-23",
   "theypsilon/multidatabases_mister": "2026-10-23",
+  "throatymumbo/nespc": "2026-10-26",
   "vector35/binaryninja-api": "2026-10-23",
   "vita3k/vita3k": "2026-10-23",
   "waffle565/god-of-war-native-port": "2026-10-23",
