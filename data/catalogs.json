@@ -25140,8 +25140,41 @@
   ]
  },
  "quiver": {
-  "updatedAt": "2026-10-26T15:18:29.150Z",
+  "updatedAt": "2026-10-26T21:06:11.803Z",
   "projects": [
+   {
+    "id": "thebradshaw/1080-snowboarding-decomp",
+    "aliases": [
+     "quiver:1080-snowboarding-decomp"
+    ],
+    "name": "1080 Snowboarding: Recompiled",
+    "game": "1080° Snowboarding",
+    "categories": [
+     "Nintendo 64"
+    ],
+    "type": "recompilation",
+    "repo": {
+     "host": "github",
+     "path": "thebradshaw/1080-Snowboarding-decomp"
+    },
+    "description": "1080 Snowboarding: Recompiled is a native PC port of the Nintendo 64 snowboarding game.",
+    "developer": "Vibe Slop Studios",
+    "targets": [
+     "Windows",
+     "Linux"
+    ],
+    "catalogVersion": "",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/1080-snowboarding-decomp"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/0620eda93d00f0dca03b1473d7e5d0f5.png",
+    "sources": [
+     "quiver"
+    ]
+   },
    {
     "id": "1oom-fork/1oom",
     "aliases": [
@@ -29024,7 +29057,7 @@
      "macOS",
      "Windows"
     ],
-    "catalogVersion": "v0.12.0",
+    "catalogVersion": "v0.12.1",
     "links": [
      {
       "label": "Quiver",
@@ -30813,7 +30846,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.2.1",
+    "catalogVersion": "v0.2.2",
     "links": [
      {
       "label": "Quiver",
@@ -30947,7 +30980,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v1.0.2",
+    "catalogVersion": "v1.0.3",
     "links": [
      {
       "label": "Quiver",
@@ -31446,7 +31479,7 @@
      "Windows",
      "iOS"
     ],
-    "catalogVersion": "v0.3.96",
+    "catalogVersion": "v0.3.97",
     "links": [
      {
       "label": "Quiver",
@@ -33426,11 +33459,11 @@
     "description": "LAS Recomp is a native port of The Legend of Zelda Link's Awakening for Windows, macOS and Linux that supports unlocked aspect ratios and randomizer seeds.",
     "developer": "peiikai",
     "targets": [
-     "Windows",
+     "Linux",
      "macOS",
-     "Linux"
+     "Windows"
     ],
-    "catalogVersion": "test-337-cfg-1",
+    "catalogVersion": "test-deck-overlap-2",
     "links": [
      {
       "label": "Quiver",
@@ -33791,7 +33824,7 @@
      "Android",
      "Linux"
     ],
-    "catalogVersion": "v0.5.0",
+    "catalogVersion": "v0.5.1",
     "links": [
      {
       "label": "Quiver",
@@ -34321,7 +34354,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v1.0.11-4p-spike.1",
+    "catalogVersion": "v1.0.12",
     "links": [
      {
       "label": "Quiver",
@@ -34653,7 +34686,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "R136",
+    "catalogVersion": "R139",
     "links": [
      {
       "label": "Quiver",
@@ -35284,7 +35317,7 @@
      "Linux",
      "macOS"
     ],
-    "catalogVersion": "v0.9.31",
+    "catalogVersion": "v0.9.33",
     "links": [
      {
       "label": "Quiver",
@@ -35679,7 +35712,7 @@
     "description": "OpenCE is a port of Halo: Combat Evolved to Windows, Linux and Android that supports multiplayer across all platforms.",
     "developer": "OpenCommunityEdition",
     "targets": [],
-    "catalogVersion": "build-288",
+    "catalogVersion": "build-289",
     "links": [
      {
       "label": "Quiver",
@@ -36891,7 +36924,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v0.1.5",
+    "catalogVersion": "v0.1.6",
     "links": [
      {
       "label": "Quiver",
@@ -37393,6 +37426,38 @@
      }
     ],
     "image": "https://cdn2.steamgriddb.com/grid/406a620413833a4fc470b8c05d2a08ac.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
+    "id": "gitlab:ztpeditor/project-amp",
+    "aliases": [
+     "quiver:amplitude-project-amp"
+    ],
+    "name": "Project AMP",
+    "game": "Amplitude",
+    "categories": [
+     "PlayStation 2"
+    ],
+    "type": "recompilation",
+    "repo": {
+     "host": "gitlab",
+     "path": "ztpeditor/project-amp"
+    },
+    "description": "Project Amp is a native Windows port of Amplitude for PlayStation 2, featuring higher resolutions, wider aspect ratios, and online play.",
+    "developer": "GameSecret",
+    "targets": [
+     "Windows"
+    ],
+    "catalogVersion": "v1.0.1",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/amplitude-project-amp"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/b26fb9f185cf4b67d53809784199653b.png",
     "sources": [
      "quiver"
     ]
@@ -38048,7 +38113,7 @@
      "macOS",
      "Windows"
     ],
-    "catalogVersion": "test-pr74-bbb212fe8fcc",
+    "catalogVersion": "test-pr74-077546d5298f",
     "links": [
      {
       "label": "Quiver",
@@ -38450,7 +38515,7 @@
      "Android",
      "Windows"
     ],
-    "catalogVersion": "reSOTv0.3.3",
+    "catalogVersion": "reSOTv0.3.4",
     "links": [
      {
       "label": "Quiver",
@@ -39244,7 +39309,8 @@
     "description": "Sega Superstars Tennis ReMatch brings Sega Superstars Tennis to PC.",
     "developer": "m1ndcrap",
     "targets": [
-     "Windows"
+     "Windows",
+     "Linux"
     ],
     "catalogVersion": "v0.6.1",
     "links": [
@@ -39936,7 +40002,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v0.1.64",
+    "catalogVersion": "v0.1.65",
     "links": [
      {
       "label": "Quiver",
@@ -40726,7 +40792,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v0.2.0",
+    "catalogVersion": "v0.3.0",
     "links": [
      {
       "label": "Quiver",
@@ -41160,7 +41226,7 @@
      "macOS",
      "Windows"
     ],
-    "catalogVersion": "v1.3.0",
+    "catalogVersion": "v1.9.9",
     "links": [
      {
       "label": "Quiver",
@@ -42184,7 +42250,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v0.1.38.7",
+    "catalogVersion": "v0.1.38.8",
     "links": [
      {
       "label": "Quiver",
@@ -42233,7 +42299,7 @@
     "aliases": [
      "quiver:the-bigs-2-the-bigs-2-rexglue"
     ],
-    "name": "The Bigs 2 ReXGlue",
+    "name": "The Bigs 2 Recompiled",
     "game": "The Bigs 2",
     "categories": [
      "Xbox 360"
@@ -42243,7 +42309,7 @@
      "host": "github",
      "path": "mdomangue26/thebigs2"
     },
-    "description": "The Bigs 2 ReXGlue is a Linux port of The Bigs 2 that offers an experimental 60 fps unlock and keyboard controls.",
+    "description": "The Bigs 2 Recompiled is a Linux port of The Bigs 2 that offers an experimental 60 fps unlock and keyboard controls.",
     "developer": "Michael Domangue",
     "targets": [
      "Linux",
@@ -42580,7 +42646,7 @@
     "targets": [
      "Android"
     ],
-    "catalogVersion": "v0.9.6",
+    "catalogVersion": "v0.9.7",
     "links": [
      {
       "label": "Quiver",
@@ -42613,7 +42679,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v0.3.0",
+    "catalogVersion": "v0.3.2",
     "links": [
      {
       "label": "Quiver",
@@ -43441,7 +43507,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "v0.5.1",
+    "catalogVersion": "v0.5.2",
     "links": [
      {
       "label": "Quiver",
@@ -44260,7 +44326,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "windows-v0.2.19",
+    "catalogVersion": "windows-v0.2.23",
     "links": [
      {
       "label": "Quiver",
@@ -45004,7 +45070,7 @@
      "quiver:the-legend-of-zelda-the-wand-of-gamelon-zelda-wand-of-gamelon-static-recomp"
     ],
     "name": "Zelda: Wand of Gamelon Static Recomp",
-    "game": "The Legend of Zelda: The Wand of Gamelon",
+    "game": "Zelda: The Wand of Gamelon",
     "categories": [
      "Philips CD-i"
     ],
@@ -59279,7 +59345,7 @@
   ]
  },
  "pocket": {
-  "updatedAt": "2026-10-26T15:18:29.150Z",
+  "updatedAt": "2026-10-26T21:06:11.803Z",
   "projects": [
    {
     "id": "gpzi994/chiskit",
@@ -65164,6 +65230,45 @@
     ]
    },
    {
+    "id": "defgenx/openfpga-c64",
+    "aliases": [
+     "pocket:defgenx-c64"
+    ],
+    "name": "defgenx.C64 (Pocket)",
+    "game": "Commodore 64",
+    "categories": [
+     "Analogue Pocket"
+    ],
+    "type": "core",
+    "tags": [
+     "FPGA"
+    ],
+    "repo": {
+     "host": "github",
+     "path": "defgenx/openfpga-C64"
+    },
+    "description": "openFPGA computer core · Commodore 1982",
+    "developer": "defgenx",
+    "targets": [
+     "Analogue Pocket"
+    ],
+    "catalogVersion": "0.2.2",
+    "catalogDate": "2026-10-21",
+    "download": {
+     "label": "Pocket 0.2.2",
+     "url": "https://github.com/defgenx/openfpga-C64/releases/download/v0.2.2/defgenx.C64.zip"
+    },
+    "links": [
+     {
+      "label": "openFPGA inventory",
+      "url": "https://openfpga-cores-inventory.github.io/analogue-pocket/"
+     }
+    ],
+    "sources": [
+     "pocket"
+    ]
+   },
+   {
     "id": "desaster/openfpga-pcxt",
     "aliases": [
      "pocket:desaster-pcxt"
@@ -69752,7 +69857,7 @@
      "host": "github",
      "path": "markus-zzz/myc64-pocket"
     },
-    "description": "openFPGA computer core · Commodore International 1982",
+    "description": "openFPGA computer core · Commodore 1982",
     "developer": "markus-zzz",
     "targets": [
      "Analogue Pocket"
@@ -73159,11 +73264,11 @@
     "targets": [
      "Analogue Pocket"
     ],
-    "catalogVersion": "0.4",
-    "catalogDate": "2026-10-23",
+    "catalogVersion": "0.5",
+    "catalogDate": "2026-10-26",
     "download": {
-     "label": "Pocket 0.4",
-     "url": "https://github.com/tortugaveloz/MIRLO64/releases/download/v0.4/tortuga.Mirlo64_0.4.zip"
+     "label": "Pocket 0.5",
+     "url": "https://github.com/tortugaveloz/MIRLO64/releases/download/v0.5/tortuga.Mirlo64_0.5.zip"
     },
     "links": [
      {

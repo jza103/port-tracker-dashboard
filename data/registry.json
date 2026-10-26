@@ -94,6 +94,7 @@
   "armyofgnomes/analogue-pocket-32x": "2026-10-25T15:56:57.670Z",
   "artfulrascal8/xrkart-64": "2026-10-23T22:25:39.434Z",
   "arx/arxlibertatis": "2026-10-25T15:36:27.479Z",
+  "ashenvr/deadrisingvr": "2026-10-26T21:06:11.803Z",
   "astienth/circuit_superstars_vr_bhaptics": "2026-10-25T15:36:27.479Z",
   "astienth/cloudpunk-vr#cloudpunk-city-of-ghosts-vr": "2026-10-25T15:36:27.479Z",
   "astienth/cloudpunk-vr#cloudpunk-vr": "2026-10-25T15:36:27.479Z",
@@ -317,6 +318,7 @@
   "decoryah/arcade-monstermaulers_mister": "2026-10-26T15:18:29.150Z",
   "defgenx/openfpga-atarist#defgenx-atari-st": "2026-10-25T15:56:57.670Z",
   "defgenx/openfpga-atarist#defgenx-atarist": "2026-10-25T15:56:57.670Z",
+  "defgenx/openfpga-c64": "2026-10-26T21:06:11.803Z",
   "deivid22srk/dk64-recomp-android": "2026-10-23T22:25:39.434Z",
   "derrickgold/ar-recomp": "2026-10-25T15:36:27.479Z",
   "desaster/openfpga-pcxt": "2026-10-25T15:56:57.670Z",
@@ -503,6 +505,7 @@
   "gitlab:sonicdcer/extremegrecomp": "2026-10-23T22:25:39.434Z",
   "gitlab:sonicdcer/mariokart64recomp": "2026-10-23T22:25:39.434Z",
   "gitlab:sonicdcer/starfox64recomp": "2026-10-23T22:25:39.434Z",
+  "gitlab:ztpeditor/project-amp": "2026-10-26T21:06:11.803Z",
   "gizcesi/opentricky": "2026-10-24T18:51:55.727Z",
   "gjc9620/gears-vr": "2026-10-25T15:36:27.479Z",
   "glitchtest51/miside_vr": "2026-10-25T15:36:27.479Z",
@@ -1992,6 +1995,7 @@
   "thatguymcd/glover-r": "2026-10-25T15:36:27.479Z",
   "thatguymcd/rocket-r": "2026-10-23T22:25:39.434Z",
   "theboy181/drmario64_recomp_plus": "2026-10-23T22:25:39.434Z",
+  "thebradshaw/1080-snowboarding-decomp": "2026-10-26T21:06:11.803Z",
   "thebradshaw/topgear-pc": "2026-10-25T15:36:27.479Z",
   "theclub654/projectcane": "2026-10-23T22:25:39.434Z",
   "thecosmictangerine-cloud/dishonored-2-vr": "2026-10-25T15:36:27.479Z",
@@ -2417,6 +2421,35 @@
     "kind": "search",
     "title": "recomp in:name stars:>40",
     "date": "2026-10-25T15:36:27.479Z"
+   },
+   "autoFollow": true
+  },
+  "ashenvr/deadrisingvr": {
+   "id": "ashenvr/deadrisingvr",
+   "name": "Dead Rising VR",
+   "game": "Dead Rising VR",
+   "categories": [
+    "Other",
+    "VR Ports"
+   ],
+   "type": "port",
+   "tags": [
+    "VR"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "AshenVR/DeadRisingVR"
+   },
+   "links": [],
+   "sources": [
+    "news"
+   ],
+   "discoveredFrom": {
+    "kind": "news",
+    "title": "Dead Rising VR Is Finally a Reality... Almost!",
+    "url": "https://www.youtube.com/watch?v=bZ1PzzPtugo",
+    "source": "YouTube: Beardo Benjo",
+    "date": "2026-10-26T18:01:59.000Z"
    },
    "autoFollow": true
   },
