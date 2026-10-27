@@ -25595,7 +25595,7 @@
   ]
  },
  "quiver": {
-  "updatedAt": "2026-10-27T14:45:45.436Z",
+  "updatedAt": "2026-10-27T20:48:40.902Z",
   "projects": [
    {
     "id": "tgp482/007frwl-xberecomp",
@@ -25780,7 +25780,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.3",
+    "catalogVersion": "v0.4",
     "links": [
      {
       "label": "Quiver",
@@ -26644,7 +26644,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v0.5.2",
+    "catalogVersion": "v0.5.3",
     "links": [
      {
       "label": "Quiver",
@@ -27729,7 +27729,7 @@
     "targets": [
      "Linux"
     ],
-    "catalogVersion": "test-issue30-1",
+    "catalogVersion": "test-issue30-3",
     "links": [
      {
       "label": "Quiver",
@@ -29083,7 +29083,7 @@
      "macOS",
      "Windows"
     ],
-    "catalogVersion": "v0.4.0-beta.6",
+    "catalogVersion": "v0.4.0-beta.7",
     "links": [
      {
       "label": "Quiver",
@@ -29677,7 +29677,7 @@
      "macOS",
      "Windows"
     ],
-    "catalogVersion": "v0.12.1",
+    "catalogVersion": "v0.12.2",
     "links": [
      {
       "label": "Quiver",
@@ -30246,7 +30246,7 @@
      "Android",
      "iOS"
     ],
-    "catalogVersion": "Version1.0.11",
+    "catalogVersion": "Version1.0.12",
     "links": [
      {
       "label": "Quiver",
@@ -30672,7 +30672,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v0.7.2-alpha",
+    "catalogVersion": "v0.7.3-alpha",
     "links": [
      {
       "label": "Quiver",
@@ -31895,7 +31895,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v0.8.9",
+    "catalogVersion": "v0.9.1",
     "links": [
      {
       "label": "Quiver",
@@ -31963,7 +31963,7 @@
      "iOS",
      "macOS"
     ],
-    "catalogVersion": "v0.10.35",
+    "catalogVersion": "v0.10.36",
     "links": [
      {
       "label": "Quiver",
@@ -32197,7 +32197,7 @@
     "targets": [
      "Android"
     ],
-    "catalogVersion": "v0.0.4a",
+    "catalogVersion": "v0.0.4b",
     "links": [
      {
       "label": "Quiver",
@@ -33683,7 +33683,7 @@
      "Windows",
      "Android"
     ],
-    "catalogVersion": "v0.5.8",
+    "catalogVersion": "v0.5.9",
     "links": [
      {
       "label": "Quiver",
@@ -33783,7 +33783,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v0.3.1-beta.2",
+    "catalogVersion": "v0.3.1-beta.3",
     "links": [
      {
       "label": "Quiver",
@@ -34247,7 +34247,7 @@
      "macOS",
      "Windows"
     ],
-    "catalogVersion": "test-356-haze",
+    "catalogVersion": "test-356-haze-2",
     "links": [
      {
       "label": "Quiver",
@@ -34375,7 +34375,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v1.9.4",
+    "catalogVersion": "v1.9.5",
     "links": [
      {
       "label": "Quiver",
@@ -34568,7 +34568,7 @@
      "path": "luanti-org/luanti"
     },
     "description": "Luanti (formerly known as Minetest) is a community-driven, free and open-source voxel game engine, available on Windows, MacOS and Android.",
-    "developer": "luanti-org",
+    "developer": "Luanti",
     "targets": [
      "Android",
      "Windows",
@@ -35199,7 +35199,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v2.3.3",
+    "catalogVersion": "v2.3.6",
     "links": [
      {
       "label": "Quiver",
@@ -35330,7 +35330,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v1.3.2-alpha",
+    "catalogVersion": "v1.3.3-alpha",
     "links": [
      {
       "label": "Quiver",
@@ -35629,7 +35629,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v0.7.9-alpha",
+    "catalogVersion": "v0.7.11-alpha",
     "links": [
      {
       "label": "Quiver",
@@ -36153,10 +36153,11 @@
      "host": "github",
      "path": "josiahg2502-glitch/NewSuperPaperBros"
     },
-    "description": "New Super Paper Bros. is a native PC port of Super Paper Mario that supports up to 4K resolution and 120 fps frame interpolation.",
+    "description": "New Super Paper Bros. is a native PC port of Super Paper Mario for Windows and Linux that supports up to 4K resolution and 120 fps frame interpolation.",
     "developer": "josiahg2502-glitch",
     "targets": [
-     "Windows"
+     "Windows",
+     "Linux"
     ],
     "catalogVersion": "v1.0.4",
     "links": [
@@ -36190,7 +36191,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.7.0",
+    "catalogVersion": "v0.7.1",
     "links": [
      {
       "label": "Quiver",
@@ -36293,7 +36294,7 @@
      "Linux",
      "macOS"
     ],
-    "catalogVersion": "v0.9.36",
+    "catalogVersion": "v0.9.37",
     "links": [
      {
       "label": "Quiver",
@@ -36688,7 +36689,7 @@
     "description": "OpenCE is a port of Halo: Combat Evolved to Windows, Linux and Android that supports multiplayer across all platforms.",
     "developer": "OpenCommunityEdition",
     "targets": [],
-    "catalogVersion": "build-301",
+    "catalogVersion": "build-309",
     "links": [
      {
       "label": "Quiver",
@@ -38329,7 +38330,7 @@
      "macOS",
      "Windows"
     ],
-    "catalogVersion": "0.2",
+    "catalogVersion": "0.3",
     "links": [
      {
       "label": "Quiver",
@@ -39089,7 +39090,7 @@
      "macOS",
      "Windows"
     ],
-    "catalogVersion": "test-pr74-b4c21dbf897e",
+    "catalogVersion": "test-pr74-184e52faea3e",
     "links": [
      {
       "label": "Quiver",
@@ -39289,7 +39290,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v2.0",
+    "catalogVersion": "v2.1-test360",
     "links": [
      {
       "label": "Quiver",
@@ -39357,7 +39358,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "beta12",
+    "catalogVersion": "beta13",
     "links": [
      {
       "label": "Quiver",
@@ -39790,7 +39791,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v2.3.0",
+    "catalogVersion": "v2.3.1",
     "links": [
      {
       "label": "Quiver",
@@ -41077,7 +41078,11 @@
     },
     "description": "Sky Recomp is a native PC port of The Legend of Zelda Skyward Sword HD that runs at 60 FPS with Vulkan graphics and an in-game settings menu.",
     "developer": "Apolinario-coder",
-    "targets": [],
+    "targets": [
+     "Windows",
+     "macOS",
+     "Linux"
+    ],
     "catalogVersion": "v2.0.2",
     "links": [
      {
@@ -41573,7 +41578,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.9.0",
+    "catalogVersion": "v0.9.1",
     "links": [
      {
       "label": "Quiver",
@@ -43557,7 +43562,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.1.7",
+    "catalogVersion": "v0.1.8",
     "links": [
      {
       "label": "Quiver",
@@ -43622,7 +43627,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "v2026.10.24-1a130dd",
+    "catalogVersion": "v2026.10.27-4825a99",
     "links": [
      {
       "label": "Quiver",
@@ -43689,7 +43694,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "windows-v0.7.8",
+    "catalogVersion": "windows-v0.7.9",
     "links": [
      {
       "label": "Quiver",
@@ -43954,7 +43959,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v0.23.0-alpha",
+    "catalogVersion": "v0.24.0-alpha",
     "links": [
      {
       "label": "Quiver",
@@ -44288,7 +44293,7 @@
      "macOS",
      "Windows"
     ],
-    "catalogVersion": "v1.0.65",
+    "catalogVersion": "v1.0.71",
     "links": [
      {
       "label": "Quiver",
@@ -45834,7 +45839,7 @@
      "Android",
      "Windows"
     ],
-    "catalogVersion": "v2.1.5",
+    "catalogVersion": "v2.1.4.1",
     "links": [
      {
       "label": "Quiver",
@@ -46528,7 +46533,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.1.0",
+    "catalogVersion": "v0.1.1",
     "links": [
      {
       "label": "Quiver",
@@ -46609,7 +46614,7 @@
   ]
  },
  "mister": {
-  "updatedAt": "2026-10-27T14:45:45.436Z",
+  "updatedAt": "2026-10-27T20:48:40.902Z",
   "projects": [
    {
     "id": "mister-devel/archie_mister",
@@ -46637,7 +46642,7 @@
     "catalogDate": "2026-06-03",
     "download": {
      "label": "Core 2026-06-03",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Computer/Archie_20260603.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Computer/Archie_20260603.rbf"
     },
     "links": [
      {
@@ -46675,7 +46680,7 @@
     "catalogDate": "2025-10-01",
     "download": {
      "label": "Core 2025-10-01",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Computer/AcornAtom_20251001.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Computer/AcornAtom_20251001.rbf"
     },
     "links": [
      {
@@ -46713,7 +46718,7 @@
     "catalogDate": "2025-09-30",
     "download": {
      "label": "Core 2025-09-30",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Computer/AcornElectron_20250930.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Computer/AcornElectron_20250930.rbf"
     },
     "links": [
      {
@@ -46751,7 +46756,7 @@
     "catalogDate": "2021-01-16",
     "download": {
      "label": "Core 2021-01-16",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Computer/AliceMC10_20210116.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Computer/AliceMC10_20210116.rbf"
     },
     "links": [
      {
@@ -46789,7 +46794,7 @@
     "catalogDate": "2024-12-30",
     "download": {
      "label": "Core 2024-12-30",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Computer/Altair8800_20241230.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Computer/Altair8800_20241230.rbf"
     },
     "links": [
      {
@@ -46827,7 +46832,7 @@
     "catalogDate": "2026-06-03",
     "download": {
      "label": "Core 2026-06-03",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Computer/Amstrad_20260603.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Computer/Amstrad_20260603.rbf"
     },
     "links": [
      {
@@ -46865,7 +46870,7 @@
     "catalogDate": "2026-10-25",
     "download": {
      "label": "Core 2026-10-25",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Computer/Amstrad-PCW_20261025.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Computer/Amstrad-PCW_20261025.rbf"
     },
     "links": [
      {
@@ -46903,7 +46908,7 @@
     "catalogDate": "2026-06-03",
     "download": {
      "label": "Core 2026-06-03",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Computer/ao486_20260603.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Computer/ao486_20260603.rbf"
     },
     "links": [
      {
@@ -46941,7 +46946,7 @@
     "catalogDate": "2026-06-03",
     "download": {
      "label": "Core 2026-06-03",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Computer/Apogee_20260603.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Computer/Apogee_20260603.rbf"
     },
     "links": [
      {
@@ -46979,7 +46984,7 @@
     "catalogDate": "2025-10-01",
     "download": {
      "label": "Core 2025-10-01",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Computer/Apple-I_20251001.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Computer/Apple-I_20251001.rbf"
     },
     "links": [
      {
@@ -47017,7 +47022,7 @@
     "catalogDate": "2026-10-13",
     "download": {
      "label": "Core 2026-10-13",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Computer/Apple-II_20261013.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Computer/Apple-II_20261013.rbf"
     },
     "links": [
      {
@@ -47055,7 +47060,7 @@
     "catalogDate": "2026-07-12",
     "download": {
      "label": "Core 2026-07-12",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Computer/Apple-IIgs_20260712.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Computer/Apple-IIgs_20260712.rbf"
     },
     "links": [
      {
@@ -47093,7 +47098,7 @@
     "catalogDate": "2026-10-24",
     "download": {
      "label": "Core 2026-10-24",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Computer/Apple-III_20261024.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Computer/Apple-III_20261024.rbf"
     },
     "links": [
      {
@@ -47131,7 +47136,7 @@
     "catalogDate": "2026-07-21",
     "download": {
      "label": "Core 2026-07-21",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Computer/Apple-Lisa_20260721.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Computer/Apple-Lisa_20260721.rbf"
     },
     "links": [
      {
@@ -47169,7 +47174,7 @@
     "catalogDate": "2026-10-24",
     "download": {
      "label": "Core 2026-10-24",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Computer/MacSE30_20261024.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Computer/MacSE30_20261024.rbf"
     },
     "links": [
      {
@@ -47207,7 +47212,7 @@
     "catalogDate": "2026-06-03",
     "download": {
      "label": "Core 2026-06-03",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Computer/MacPlus_20260603.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Computer/MacPlus_20260603.rbf"
     },
     "links": [
      {
@@ -47245,7 +47250,7 @@
     "catalogDate": "2026-09-20",
     "download": {
      "label": "Core 2026-09-20",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Computer/MacLC_20260920.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Computer/MacLC_20260920.rbf"
     },
     "links": [
      {
@@ -47283,7 +47288,7 @@
     "catalogDate": "2026-10-24",
     "download": {
      "label": "Core 2026-10-24",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Computer/MacSE30_20261024.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Computer/MacSE30_20261024.rbf"
     },
     "links": [
      {
@@ -47321,7 +47326,7 @@
     "catalogDate": "2026-10-02",
     "download": {
      "label": "Core 2026-10-02",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Computer/MacQuadra800_20261002.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Computer/MacQuadra800_20261002.rbf"
     },
     "links": [
      {
@@ -47359,7 +47364,7 @@
     "catalogDate": "2026-08-23",
     "download": {
      "label": "Core 2026-08-23",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Computer/Atari800_20260823.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Computer/Atari800_20260823.rbf"
     },
     "links": [
      {
@@ -47397,7 +47402,7 @@
     "catalogDate": "2026-06-03",
     "download": {
      "label": "Core 2026-06-03",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Computer/AtariST_20260603.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Computer/AtariST_20260603.rbf"
     },
     "links": [
      {
@@ -47435,7 +47440,7 @@
     "catalogDate": "2025-07-17",
     "download": {
      "label": "Core 2025-07-17",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Computer/RX78_20250717.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Computer/RX78_20250717.rbf"
     },
     "links": [
      {
@@ -47473,7 +47478,7 @@
     "catalogDate": "2026-06-03",
     "download": {
      "label": "Core 2026-06-03",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Computer/BBCMicro_20260603.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Computer/BBCMicro_20260603.rbf"
     },
     "links": [
      {
@@ -47511,7 +47516,7 @@
     "catalogDate": "2025-09-07",
     "download": {
      "label": "Core 2025-09-07",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Computer/Lynx48_20250907.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Computer/Lynx48_20250907.rbf"
     },
     "links": [
      {
@@ -47549,7 +47554,7 @@
     "catalogDate": "2025-06-22",
     "download": {
      "label": "Core 2025-06-22",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Computer/Casio_PV-2000_20250622.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Computer/Casio_PV-2000_20250622.rbf"
     },
     "links": [
      {
@@ -47587,7 +47592,7 @@
     "catalogDate": "2026-09-22",
     "download": {
      "label": "Core 2026-09-22",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Computer/ColecoAdam_20260922.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Computer/ColecoAdam_20260922.rbf"
     },
     "links": [
      {
@@ -47625,7 +47630,7 @@
     "catalogDate": "2025-03-12",
     "download": {
      "label": "Core 2025-03-12",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Computer/CoCo2_20250312.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Computer/CoCo2_20250312.rbf"
     },
     "links": [
      {
@@ -47663,7 +47668,7 @@
     "catalogDate": "2026-09-27",
     "download": {
      "label": "Core 2026-09-27",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Computer/CoCo3_20260927.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Computer/CoCo3_20260927.rbf"
     },
     "links": [
      {
@@ -47701,7 +47706,7 @@
     "catalogDate": "2022-09-30",
     "download": {
      "label": "Core 2022-09-30",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Computer/eg2000_20220930.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Computer/eg2000_20220930.rbf"
     },
     "links": [
      {
@@ -47739,7 +47744,7 @@
     "catalogDate": "2026-06-03",
     "download": {
      "label": "Core 2026-06-03",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Computer/C16_20260603.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Computer/C16_20260603.rbf"
     },
     "links": [
      {
@@ -47777,7 +47782,7 @@
     "catalogDate": "2026-08-23",
     "download": {
      "label": "Core 2026-08-23",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Computer/C64_20260823.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Computer/C64_20260823.rbf"
     },
     "links": [
      {
@@ -47815,7 +47820,7 @@
     "catalogDate": "2026-08-30",
     "download": {
      "label": "Core 2026-08-30",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Computer/C128_20260830.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Computer/C128_20260830.rbf"
     },
     "links": [
      {
@@ -47888,7 +47893,7 @@
     "catalogDate": "2026-09-06",
     "download": {
      "label": "Core 2026-09-06",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Computer/CBM-II_20260906.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Computer/CBM-II_20260906.rbf"
     },
     "links": [
      {
@@ -47926,7 +47931,7 @@
     "catalogDate": "2026-06-03",
     "download": {
      "label": "Core 2026-06-03",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Computer/PET2001_20260603.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Computer/PET2001_20260603.rbf"
     },
     "links": [
      {
@@ -47964,7 +47969,7 @@
     "catalogDate": "2026-06-03",
     "download": {
      "label": "Core 2026-06-03",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Computer/VIC20_20260603.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Computer/VIC20_20260603.rbf"
     },
     "links": [
      {
@@ -48002,7 +48007,7 @@
     "catalogDate": "2026-08-01",
     "download": {
      "label": "Core 2026-08-01",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Computer/UK101_20260801.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Computer/UK101_20260801.rbf"
     },
     "links": [
      {
@@ -48040,7 +48045,7 @@
     "catalogDate": "2026-10-25",
     "download": {
      "label": "Core 2026-10-25",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Computer/Cray-XMP_20261025.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Computer/Cray-XMP_20261025.rbf"
     },
     "links": [
      {
@@ -48078,7 +48083,7 @@
     "catalogDate": "2026-07-02",
     "download": {
      "label": "Core 2026-07-02",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Computer/PDP1_20260702.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Computer/PDP1_20260702.rbf"
     },
     "links": [
      {
@@ -48116,7 +48121,7 @@
     "catalogDate": "2025-09-04",
     "download": {
      "label": "Core 2025-09-04",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Computer/EDSAC_20250904.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Computer/EDSAC_20250904.rbf"
     },
     "links": [
      {
@@ -48154,7 +48159,7 @@
     "catalogDate": "2025-11-25",
     "download": {
      "label": "Core 2025-11-25",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Computer/Enterprise_20251125.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Computer/Enterprise_20251125.rbf"
     },
     "links": [
      {
@@ -48192,7 +48197,7 @@
     "catalogDate": "2026-06-03",
     "download": {
      "label": "Core 2026-06-03",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Computer/BK0011M_20260603.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Computer/BK0011M_20260603.rbf"
     },
     "links": [
      {
@@ -48230,7 +48235,7 @@
     "catalogDate": "2026-09-26",
     "download": {
      "label": "Core 2026-09-26",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Computer/FM-7_20260926.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Computer/FM-7_20260926.rbf"
     },
     "links": [
      {
@@ -48268,7 +48273,7 @@
     "catalogDate": "2025-10-07",
     "download": {
      "label": "Core 2025-10-07",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Computer/Galaksija_20251007.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Computer/Galaksija_20251007.rbf"
     },
     "links": [
      {
@@ -48306,7 +48311,7 @@
     "catalogDate": "2025-09-06",
     "download": {
      "label": "Core 2025-09-06",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Computer/Homelab_20250906.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Computer/Homelab_20250906.rbf"
     },
     "links": [
      {
@@ -48344,7 +48349,7 @@
     "catalogDate": "2026-10-12",
     "download": {
      "label": "Core 2026-10-12",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Computer/PCXT_20261012.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Computer/PCXT_20261012.rbf"
     },
     "links": [
      {
@@ -48382,7 +48387,7 @@
     "catalogDate": "2025-10-05",
     "download": {
      "label": "Core 2025-10-05",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Computer/Interact_20251005.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Computer/Interact_20251005.rbf"
     },
     "links": [
      {
@@ -48420,7 +48425,7 @@
     "catalogDate": "2025-12-19",
     "download": {
      "label": "Core 2025-12-19",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Computer/IQ151_20251219.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Computer/IQ151_20251219.rbf"
     },
     "links": [
      {
@@ -48458,7 +48463,7 @@
     "catalogDate": "2026-06-03",
     "download": {
      "label": "Core 2026-06-03",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Computer/Jupiter_20260603.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Computer/Jupiter_20260603.rbf"
     },
     "links": [
      {
@@ -48496,7 +48501,7 @@
     "catalogDate": "2026-06-03",
     "download": {
      "label": "Core 2026-06-03",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Computer/Aquarius_20260603.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Computer/Aquarius_20260603.rbf"
     },
     "links": [
      {
@@ -48534,7 +48539,7 @@
     "catalogDate": "2025-01-08",
     "download": {
      "label": "Core 2025-01-08",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Computer/MSX1_20250108.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Computer/MSX1_20250108.rbf"
     },
     "links": [
      {
@@ -48572,7 +48577,7 @@
     "catalogDate": "2026-06-03",
     "download": {
      "label": "Core 2026-06-03",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Computer/MSX_20260603.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Computer/MSX_20260603.rbf"
     },
     "links": [
      {
@@ -48610,7 +48615,7 @@
     "catalogDate": "2026-08-09",
     "download": {
      "label": "Core 2026-08-09",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Computer/MultiComp_20260809.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Computer/MultiComp_20260809.rbf"
     },
     "links": [
      {
@@ -48648,7 +48653,7 @@
     "catalogDate": "2026-08-01",
     "download": {
      "label": "Core 2026-08-01",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Computer/JR100_20260801.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Computer/JR100_20260801.rbf"
     },
     "links": [
      {
@@ -48686,7 +48691,7 @@
     "catalogDate": "2026-10-20",
     "download": {
      "label": "Core 2026-10-20",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Computer/PC88_20261020.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Computer/PC88_20261020.rbf"
     },
     "links": [
      {
@@ -48724,7 +48729,7 @@
     "catalogDate": "2026-09-24",
     "download": {
      "label": "Core 2026-09-24",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Computer/NeXT_20260924.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Computer/NeXT_20260924.rbf"
     },
     "links": [
      {
@@ -48762,7 +48767,7 @@
     "catalogDate": "2026-10-10",
     "download": {
      "label": "Core 2026-10-10",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Computer/NeXT-Color_20261010.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Computer/NeXT-Color_20261010.rbf"
     },
     "links": [
      {
@@ -48800,7 +48805,7 @@
     "catalogDate": "2025-12-19",
     "download": {
      "label": "Core 2025-12-19",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Computer/PMD85_20251219.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Computer/PMD85_20251219.rbf"
     },
     "links": [
      {
@@ -48838,7 +48843,7 @@
     "catalogDate": "2025-12-19",
     "download": {
      "label": "Core 2025-12-19",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Computer/Ondra_SPO186_20251219.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Computer/Ondra_SPO186_20251219.rbf"
     },
     "links": [
      {
@@ -48876,7 +48881,7 @@
     "catalogDate": "2024-07-29",
     "download": {
      "label": "Core 2024-07-29",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Computer/ORAO_20240729.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Computer/ORAO_20240729.rbf"
     },
     "links": [
      {
@@ -48914,7 +48919,7 @@
     "catalogDate": "2026-06-03",
     "download": {
      "label": "Core 2026-06-03",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Computer/Oric_20260603.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Computer/Oric_20260603.rbf"
     },
     "links": [
      {
@@ -48952,7 +48957,7 @@
     "catalogDate": "2026-06-03",
     "download": {
      "label": "Core 2026-06-03",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Computer/SAMCoupe_20260603.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Computer/SAMCoupe_20260603.rbf"
     },
     "links": [
      {
@@ -48990,7 +48995,7 @@
     "catalogDate": "2026-10-24",
     "download": {
      "label": "Core 2026-10-24",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Computer/SharpMZ_20261024.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Computer/SharpMZ_20261024.rbf"
     },
     "links": [
      {
@@ -49028,7 +49033,7 @@
     "catalogDate": "2026-08-23",
     "download": {
      "label": "Core 2026-08-23",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Computer/X68000_20260823.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Computer/X68000_20260823.rbf"
     },
     "links": [
      {
@@ -49066,7 +49071,7 @@
     "catalogDate": "2026-09-28",
     "download": {
      "label": "Core 2026-09-28",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Computer/SGIIndy_20260928.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Computer/SGIIndy_20260928.rbf"
     },
     "links": [
      {
@@ -49104,7 +49109,7 @@
     "catalogDate": "2026-06-03",
     "download": {
      "label": "Core 2026-06-03",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Computer/QL_20260603.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Computer/QL_20260603.rbf"
     },
     "links": [
      {
@@ -49142,7 +49147,7 @@
     "catalogDate": "2025-09-03",
     "download": {
      "label": "Core 2025-09-03",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Computer/SordM5_20250903.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Computer/SordM5_20250903.rbf"
     },
     "links": [
      {
@@ -49180,7 +49185,7 @@
     "catalogDate": "2026-10-25",
     "download": {
      "label": "Core 2026-10-25",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Computer/Neon_20261025.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Computer/Neon_20261025.rbf"
     },
     "links": [
      {
@@ -49218,7 +49223,7 @@
     "catalogDate": "2026-06-03",
     "download": {
      "label": "Core 2026-06-03",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Computer/Specialist_20260603.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Computer/Specialist_20260603.rbf"
     },
     "links": [
      {
@@ -49256,7 +49261,7 @@
     "catalogDate": "2024-10-16",
     "download": {
      "label": "Core 2024-10-16",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Computer/Svi328_20241016.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Computer/Svi328_20241016.rbf"
     },
     "links": [
      {
@@ -49294,7 +49299,7 @@
     "catalogDate": "2026-10-22",
     "download": {
      "label": "Core 2026-10-22",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Computer/Sun-2_20261022.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Computer/Sun-2_20261022.rbf"
     },
     "links": [
      {
@@ -49332,7 +49337,7 @@
     "catalogDate": "2026-10-24",
     "download": {
      "label": "Core 2026-10-24",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Computer/Sun-3_20261024.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Computer/Sun-3_20261024.rbf"
     },
     "links": [
      {
@@ -49370,7 +49375,7 @@
     "catalogDate": "2026-10-19",
     "download": {
      "label": "Core 2026-10-19",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Computer/SunSparcStation20_20261019.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Computer/SunSparcStation20_20261019.rbf"
     },
     "links": [
      {
@@ -49408,7 +49413,7 @@
     "catalogDate": "2026-03-12",
     "download": {
      "label": "Core 2026-03-12",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Computer/Tandy1000_20260312.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Computer/Tandy1000_20260312.rbf"
     },
     "links": [
      {
@@ -49446,7 +49451,7 @@
     "catalogDate": "2026-03-13",
     "download": {
      "label": "Core 2026-03-13",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Computer/PCjr_20260313.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Computer/PCjr_20260313.rbf"
     },
     "links": [
      {
@@ -49484,7 +49489,7 @@
     "catalogDate": "2025-09-07",
     "download": {
      "label": "Core 2025-09-07",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Computer/TatungEinstein_20250907.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Computer/TatungEinstein_20250907.rbf"
     },
     "links": [
      {
@@ -49522,7 +49527,7 @@
     "catalogDate": "2025-12-03",
     "download": {
      "label": "Core 2025-12-03",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Computer/Ti994a_20251203.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Computer/Ti994a_20251203.rbf"
     },
     "links": [
      {
@@ -49560,7 +49565,7 @@
     "catalogDate": "2025-11-24",
     "download": {
      "label": "Core 2025-11-24",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Computer/TK2000_20251124.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Computer/TK2000_20251124.rbf"
     },
     "links": [
      {
@@ -49598,7 +49603,7 @@
     "catalogDate": "2025-06-22",
     "download": {
      "label": "Core 2025-06-22",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Computer/TomyTutor_20250622.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Computer/TomyTutor_20250622.rbf"
     },
     "links": [
      {
@@ -49636,7 +49641,7 @@
     "catalogDate": "2025-12-09",
     "download": {
      "label": "Core 2025-12-09",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Computer/TRS-80_20251209.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Computer/TRS-80_20251209.rbf"
     },
     "links": [
      {
@@ -49674,7 +49679,7 @@
     "catalogDate": "2026-06-03",
     "download": {
      "label": "Core 2026-06-03",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Computer/TSConf_20260603.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Computer/TSConf_20260603.rbf"
     },
     "links": [
      {
@@ -49712,7 +49717,7 @@
     "catalogDate": "2026-10-25",
     "download": {
      "label": "Core 2026-10-25",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Computer/UKNC_20261025.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Computer/UKNC_20261025.rbf"
     },
     "links": [
      {
@@ -49750,7 +49755,7 @@
     "catalogDate": "2026-06-03",
     "download": {
      "label": "Core 2026-06-03",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Computer/Vector-06C_20260603.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Computer/Vector-06C_20260603.rbf"
     },
     "links": [
      {
@@ -49788,7 +49793,7 @@
     "catalogDate": "2024-11-20",
     "download": {
      "label": "Core 2024-11-20",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Computer/VT52_20241120.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Computer/VT52_20241120.rbf"
     },
     "links": [
      {
@@ -49826,7 +49831,7 @@
     "catalogDate": "2025-09-07",
     "download": {
      "label": "Core 2025-09-07",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Computer/Laser310_20250907.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Computer/Laser310_20250907.rbf"
     },
     "links": [
      {
@@ -49864,7 +49869,7 @@
     "catalogDate": "2026-08-23",
     "download": {
      "label": "Core 2026-08-23",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Computer/ZX-Spectrum_20260823.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Computer/ZX-Spectrum_20260823.rbf"
     },
     "links": [
      {
@@ -49902,7 +49907,7 @@
     "catalogDate": "2026-06-03",
     "download": {
      "label": "Core 2026-06-03",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Computer/ZXNext_20260603.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Computer/ZXNext_20260603.rbf"
     },
     "links": [
      {
@@ -49940,7 +49945,7 @@
     "catalogDate": "2026-06-03",
     "download": {
      "label": "Core 2026-06-03",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Computer/ZX81_20260603.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Computer/ZX81_20260603.rbf"
     },
     "links": [
      {
@@ -49978,7 +49983,7 @@
     "catalogDate": "2026-08-30",
     "download": {
      "label": "Core 2026-08-30",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Computer/PCXT-EGA_20260830.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Computer/PCXT-EGA_20260830.rbf"
     },
     "links": [
      {
@@ -50016,7 +50021,7 @@
     "catalogDate": "2026-07-17",
     "download": {
      "label": "Core 2026-07-17",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Console/3DO_20260717.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Console/3DO_20260717.rbf"
     },
     "links": [
      {
@@ -50054,7 +50059,7 @@
     "catalogDate": "2026-03-22",
     "download": {
      "label": "Core 2026-03-22",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Console/AdventureVision_20260322.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Console/AdventureVision_20260322.rbf"
     },
     "links": [
      {
@@ -50092,7 +50097,7 @@
     "catalogDate": "2026-08-23",
     "download": {
      "label": "Core 2026-08-23",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Computer/Atari800_20260823.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Computer/Atari800_20260823.rbf"
     },
     "links": [
      {
@@ -50130,7 +50135,7 @@
     "catalogDate": "2026-05-30",
     "download": {
      "label": "Core 2026-05-30",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Console/Atari7800_20260530.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Console/Atari7800_20260530.rbf"
     },
     "links": [
      {
@@ -50168,7 +50173,7 @@
     "catalogDate": "2026-08-11",
     "download": {
      "label": "Core 2026-08-11",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Console/Jaguar_20260811.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Console/Jaguar_20260811.rbf"
     },
     "links": [
      {
@@ -50206,7 +50211,7 @@
     "catalogDate": "2026-01-29",
     "download": {
      "label": "Core 2026-01-29",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Console/AtariLynx_20260129.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Console/AtariLynx_20260129.rbf"
     },
     "links": [
      {
@@ -50244,7 +50249,7 @@
     "catalogDate": "2026-01-29",
     "download": {
      "label": "Core 2026-01-29",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Console/AtariLynx_20260129.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Console/AtariLynx_20260129.rbf"
     },
     "links": [
      {
@@ -50282,7 +50287,7 @@
     "catalogDate": "2026-08-23",
     "download": {
      "label": "Core 2026-08-23",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Console/AY-3-8500_20260823.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Console/AY-3-8500_20260823.rbf"
     },
     "links": [
      {
@@ -50320,7 +50325,7 @@
     "catalogDate": "2026-06-03",
     "download": {
      "label": "Core 2026-06-03",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Console/Astrocade_20260603.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Console/Astrocade_20260603.rbf"
     },
     "links": [
      {
@@ -50358,7 +50363,7 @@
     "catalogDate": "2025-06-22",
     "download": {
      "label": "Core 2025-06-22",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Console/Super_Vision_8000_20250622.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Console/Super_Vision_8000_20250622.rbf"
     },
     "links": [
      {
@@ -50396,7 +50401,7 @@
     "catalogDate": "2025-01-01",
     "download": {
      "label": "Core 2025-01-01",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Console/BBCBridgeCompanion_20250101.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Console/BBCBridgeCompanion_20250101.rbf"
     },
     "links": [
      {
@@ -50434,7 +50439,7 @@
     "catalogDate": "2025-06-22",
     "download": {
      "label": "Core 2025-06-22",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Console/Casio_PV-1000_20250622.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Console/Casio_PV-1000_20250622.rbf"
     },
     "links": [
      {
@@ -50472,7 +50477,7 @@
     "catalogDate": "2026-06-03",
     "download": {
      "label": "Core 2026-06-03",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Console/ColecoVision_20260603.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Console/ColecoVision_20260603.rbf"
     },
     "links": [
      {
@@ -50510,7 +50515,7 @@
     "catalogDate": "2026-08-16",
     "download": {
      "label": "Core 2026-08-16",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Console/Arcadia_20260816.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Console/Arcadia_20260816.rbf"
     },
     "links": [
      {
@@ -50548,7 +50553,7 @@
     "catalogDate": "2025-09-06",
     "download": {
      "label": "Core 2025-09-06",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Console/SCV_20250906.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Console/SCV_20250906.rbf"
     },
     "links": [
      {
@@ -50586,7 +50591,7 @@
     "catalogDate": "2025-09-07",
     "download": {
      "label": "Core 2025-09-07",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Console/ChannelF_20250907.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Console/ChannelF_20250907.rbf"
     },
     "links": [
      {
@@ -50624,7 +50629,7 @@
     "catalogDate": "2026-09-29",
     "download": {
      "label": "Core 2026-09-29",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Console/Marty_20260929.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Console/Marty_20260929.rbf"
     },
     "links": [
      {
@@ -50662,7 +50667,7 @@
     "catalogDate": "2026-05-30",
     "download": {
      "label": "Core 2026-05-30",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Console/Gamate_20260530.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Console/Gamate_20260530.rbf"
     },
     "links": [
      {
@@ -50700,7 +50705,7 @@
     "catalogDate": "2025-07-17",
     "download": {
      "label": "Core 2025-07-17",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Console/GnW_20250717.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Console/GnW_20250717.rbf"
     },
     "links": [
      {
@@ -50738,7 +50743,7 @@
     "catalogDate": "2026-08-14",
     "download": {
      "label": "Core 2026-08-14",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Console/GameAndWatch_20260814.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Console/GameAndWatch_20260814.rbf"
     },
     "links": [
      {
@@ -50776,7 +50781,7 @@
     "catalogDate": "2026-06-03",
     "download": {
      "label": "Core 2026-06-03",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Console/Gameboy_20260603.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Console/Gameboy_20260603.rbf"
     },
     "links": [
      {
@@ -50814,7 +50819,7 @@
     "catalogDate": "2025-06-21",
     "download": {
      "label": "Core 2025-06-21",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Console/Gameboy2P_20250621.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Console/Gameboy2P_20250621.rbf"
     },
     "links": [
      {
@@ -50852,7 +50857,7 @@
     "catalogDate": "2026-05-30",
     "download": {
      "label": "Core 2026-05-30",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Console/GBA_20260530.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Console/GBA_20260530.rbf"
     },
     "links": [
      {
@@ -50890,7 +50895,7 @@
     "catalogDate": "2025-09-16",
     "download": {
      "label": "Core 2025-09-16",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Console/GBA2P_20250916.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Console/GBA2P_20250916.rbf"
     },
     "links": [
      {
@@ -50928,7 +50933,7 @@
     "catalogDate": "2026-09-03",
     "download": {
      "label": "Core 2026-09-03",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Console/GameKing_20260903.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Console/GameKing_20260903.rbf"
     },
     "links": [
      {
@@ -50966,7 +50971,7 @@
     "catalogDate": "2026-09-03",
     "download": {
      "label": "Core 2026-09-03",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Console/GameCom_20260903.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Console/GameCom_20260903.rbf"
     },
     "links": [
      {
@@ -51004,7 +51009,7 @@
     "catalogDate": "2026-10-01",
     "download": {
      "label": "Core 2026-10-01",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Console/Intellivision_20261001.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Console/Intellivision_20261001.rbf"
     },
     "links": [
      {
@@ -51042,7 +51047,7 @@
     "catalogDate": "2025-09-07",
     "download": {
      "label": "Core 2025-09-07",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Console/VC4000_20250907.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Console/VC4000_20250907.rbf"
     },
     "links": [
      {
@@ -51080,7 +51085,7 @@
     "catalogDate": "2026-10-02",
     "download": {
      "label": "Core 2026-10-02",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Console/Loopy_20261002.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Console/Loopy_20261002.rbf"
     },
     "links": [
      {
@@ -51118,7 +51123,7 @@
     "catalogDate": "2025-07-17",
     "download": {
      "label": "Core 2025-07-17",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Console/Odyssey2_20250717.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Console/Odyssey2_20250717.rbf"
     },
     "links": [
      {
@@ -51156,7 +51161,7 @@
     "catalogDate": "2026-06-03",
     "download": {
      "label": "Core 2026-06-03",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Console/NeoGeo_20260603.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Console/NeoGeo_20260603.rbf"
     },
     "links": [
      {
@@ -51194,7 +51199,7 @@
     "catalogDate": "2026-08-24",
     "download": {
      "label": "Core 2026-08-24",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Console/NGPC_20260824.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Console/NGPC_20260824.rbf"
     },
     "links": [
      {
@@ -51232,7 +51237,7 @@
     "catalogDate": "2026-07-26",
     "download": {
      "label": "Core 2026-07-26",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Console/N64_20260726.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Console/N64_20260726.rbf"
     },
     "links": [
      {
@@ -51270,7 +51275,7 @@
     "catalogDate": "2026-08-23",
     "download": {
      "label": "Core 2026-08-23",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Console/NES_20260823.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Console/NES_20260823.rbf"
     },
     "links": [
      {
@@ -51308,7 +51313,7 @@
     "catalogDate": "2025-06-22",
     "download": {
      "label": "Core 2025-06-22",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Console/MyVision_20250622.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Console/MyVision_20250622.rbf"
     },
     "links": [
      {
@@ -51346,7 +51351,7 @@
     "catalogDate": "2026-05-02",
     "download": {
      "label": "Core 2026-05-02",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Console/CDi_20260502.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Console/CDi_20260502.rbf"
     },
     "links": [
      {
@@ -51384,7 +51389,7 @@
     "catalogDate": "2026-08-07",
     "download": {
      "label": "Core 2026-08-07",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Console/PSX_20260807.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Console/PSX_20260807.rbf"
     },
     "links": [
      {
@@ -51422,7 +51427,7 @@
     "catalogDate": "2026-09-03",
     "download": {
      "label": "Core 2026-09-03",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Console/PocketStation_20260903.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Console/PocketStation_20260903.rbf"
     },
     "links": [
      {
@@ -51460,7 +51465,7 @@
     "catalogDate": "2025-09-03",
     "download": {
      "label": "Core 2025-09-03",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Console/PokemonMini_20250903.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Console/PokemonMini_20250903.rbf"
     },
     "links": [
      {
@@ -51498,7 +51503,7 @@
     "catalogDate": "2026-06-03",
     "download": {
      "label": "Core 2026-06-03",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Console/S32X_20260603.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Console/S32X_20260603.rbf"
     },
     "links": [
      {
@@ -51536,7 +51541,7 @@
     "catalogDate": "2026-06-03",
     "download": {
      "label": "Core 2026-06-03",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Console/MegaCD_20260603.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Console/MegaCD_20260603.rbf"
     },
     "links": [
      {
@@ -51574,7 +51579,7 @@
     "catalogDate": "2026-08-23",
     "download": {
      "label": "Core 2026-08-23",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/SMS_20260823.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/SMS_20260823.rbf"
     },
     "links": [
      {
@@ -51612,7 +51617,7 @@
     "catalogDate": "2026-05-26",
     "download": {
      "label": "Core 2026-05-26",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Console/GameGear2P_20260526.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Console/GameGear2P_20260526.rbf"
     },
     "links": [
      {
@@ -51650,7 +51655,7 @@
     "catalogDate": "2026-06-03",
     "download": {
      "label": "Core 2026-06-03",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Console/MegaDrive_20260603.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Console/MegaDrive_20260603.rbf"
     },
     "links": [
      {
@@ -51688,7 +51693,7 @@
     "catalogDate": "2025-10-03",
     "download": {
      "label": "Core 2025-10-03",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Console/Saturn_20251003.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Console/Saturn_20251003.rbf"
     },
     "links": [
      {
@@ -51726,7 +51731,7 @@
     "catalogDate": "2026-10-16",
     "download": {
      "label": "Core 2026-10-16",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Console/Studio-II_20261016.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Console/Studio-II_20261016.rbf"
     },
     "links": [
      {
@@ -51764,7 +51769,7 @@
     "catalogDate": "2026-09-11",
     "download": {
      "label": "Core 2026-09-11",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Console/SuperAcan_20260911.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Console/SuperAcan_20260911.rbf"
     },
     "links": [
      {
@@ -51802,7 +51807,7 @@
     "catalogDate": "2026-08-02",
     "download": {
      "label": "Core 2026-08-02",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Console/SGB_20260802.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Console/SGB_20260802.rbf"
     },
     "links": [
      {
@@ -51840,7 +51845,7 @@
     "catalogDate": "2026-08-23",
     "download": {
      "label": "Core 2026-08-23",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Console/SNES_20260823.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Console/SNES_20260823.rbf"
     },
     "links": [
      {
@@ -51878,7 +51883,7 @@
     "catalogDate": "2026-06-03",
     "download": {
      "label": "Core 2026-06-03",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Console/TurboGrafx16_20260603.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Console/TurboGrafx16_20260603.rbf"
     },
     "links": [
      {
@@ -51916,7 +51921,7 @@
     "catalogDate": "2026-10-18",
     "download": {
      "label": "Core 2026-10-18",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Console/Vectrex_20261018.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Console/Vectrex_20261018.rbf"
     },
     "links": [
      {
@@ -51954,7 +51959,7 @@
     "catalogDate": "2026-08-04",
     "download": {
      "label": "Core 2026-08-04",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Console/VirtualBoy_20260804.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Console/VirtualBoy_20260804.rbf"
     },
     "links": [
      {
@@ -51992,7 +51997,7 @@
     "catalogDate": "2026-03-03",
     "download": {
      "label": "Core 2026-03-03",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Console/CreatiVision_20260303.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Console/CreatiVision_20260303.rbf"
     },
     "links": [
      {
@@ -52030,7 +52035,7 @@
     "catalogDate": "2025-07-08",
     "download": {
      "label": "Core 2025-07-08",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Console/SuperVision_20250708.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Console/SuperVision_20250708.rbf"
     },
     "links": [
      {
@@ -52068,7 +52073,7 @@
     "catalogDate": "2026-01-29",
     "download": {
      "label": "Core 2026-01-29",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Console/WonderSwan_20260129.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Console/WonderSwan_20260129.rbf"
     },
     "links": [
      {
@@ -52106,7 +52111,7 @@
     "catalogDate": "2026-08-23",
     "download": {
      "label": "Core 2026-08-23",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Other/Arduboy_20260823.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Other/Arduboy_20260823.rbf"
     },
     "links": [
      {
@@ -52144,7 +52149,7 @@
     "catalogDate": "2024-04-10",
     "download": {
      "label": "Core 2024-04-10",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Other/Chess_20240410.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Other/Chess_20240410.rbf"
     },
     "links": [
      {
@@ -52182,7 +52187,7 @@
     "catalogDate": "2025-09-05",
     "download": {
      "label": "Core 2025-09-05",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Other/Chip8_20250905.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Other/Chip8_20250905.rbf"
     },
     "links": [
      {
@@ -52220,7 +52225,7 @@
     "catalogDate": "2025-02-17",
     "download": {
      "label": "Core 2025-02-17",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Other/Donut_20250217.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Other/Donut_20250217.rbf"
     },
     "links": [
      {
@@ -52258,7 +52263,7 @@
     "catalogDate": "2024-08-11",
     "download": {
      "label": "Core 2024-08-11",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Other/GBMidi_20240811.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Other/GBMidi_20240811.rbf"
     },
     "links": [
      {
@@ -52296,7 +52301,7 @@
     "catalogDate": "2024-08-17",
     "download": {
      "label": "Core 2024-08-17",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Other/GenMidi_20240817.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Other/GenMidi_20240817.rbf"
     },
     "links": [
      {
@@ -52334,7 +52339,7 @@
     "catalogDate": "2026-05-29",
     "download": {
      "label": "Core 2026-05-29",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Other/EpochGalaxyII_20260529.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Other/EpochGalaxyII_20260529.rbf"
     },
     "links": [
      {
@@ -52372,7 +52377,7 @@
     "catalogDate": "2025-07-08",
     "download": {
      "label": "Core 2025-07-08",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Other/FlappyBird_20250708.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Other/FlappyBird_20250708.rbf"
     },
     "links": [
      {
@@ -52410,7 +52415,7 @@
     "catalogDate": "2026-07-02",
     "download": {
      "label": "Core 2026-07-02",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Other/GameOfLife_20260702.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Other/GameOfLife_20260702.rbf"
     },
     "links": [
      {
@@ -52448,7 +52453,7 @@
     "catalogDate": "2024-07-27",
     "download": {
      "label": "Core 2024-07-27",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Other/SlugCross_20240727.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Other/SlugCross_20240727.rbf"
     },
     "links": [
      {
@@ -52486,7 +52491,7 @@
     "catalogDate": "2026-05-15",
     "download": {
      "label": "Core 2026-05-15",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Other/Tamagotchi_20260515.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Other/Tamagotchi_20260515.rbf"
     },
     "links": [
      {
@@ -52524,7 +52529,7 @@
     "catalogDate": "2025-08-23",
     "download": {
      "label": "Core 2025-08-23",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Other/TomyScramble_20250823.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Other/TomyScramble_20250823.rbf"
     },
     "links": [
      {
@@ -52562,7 +52567,7 @@
     "catalogDate": "2026-09-17",
     "download": {
      "label": "Core 2026-09-17",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/Aleck64_20260917.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/Aleck64_20260917.rbf"
     },
     "links": [
      {
@@ -52600,7 +52605,7 @@
     "catalogDate": "2026-10-25",
     "download": {
      "label": "Core 2026-10-25",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/Arabian_20261025.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/Arabian_20261025.rbf"
     },
     "links": [
      {
@@ -52638,7 +52643,7 @@
     "catalogDate": "2024-05-25",
     "download": {
      "label": "Core 2024-05-25",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/Arkanoid_20240525.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/Arkanoid_20240525.rbf"
     },
     "links": [
      {
@@ -52676,7 +52681,7 @@
     "catalogDate": "2026-07-08",
     "download": {
      "label": "Core 2026-07-08",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/ActFancer_20260708.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/ActFancer_20260708.rbf"
     },
     "links": [
      {
@@ -52714,7 +52719,7 @@
     "catalogDate": "2026-08-10",
     "download": {
      "label": "Core 2026-08-10",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/Asteroids_20260810.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/Asteroids_20260810.rbf"
     },
     "links": [
      {
@@ -52752,7 +52757,7 @@
     "catalogDate": "2026-09-24",
     "download": {
      "label": "Core 2026-09-24",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/TaitoAsuka_20260924.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/TaitoAsuka_20260924.rbf"
     },
     "links": [
      {
@@ -52860,7 +52865,7 @@
     "catalogDate": "2024-05-25",
     "download": {
      "label": "Core 2024-05-25",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/AtariTetris_20240525.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/AtariTetris_20240525.rbf"
     },
     "links": [
      {
@@ -52898,7 +52903,7 @@
     "catalogDate": "2024-05-25",
     "download": {
      "label": "Core 2024-05-25",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/Athena_20240525.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/Athena_20240525.rbf"
     },
     "links": [
      {
@@ -52936,7 +52941,7 @@
     "catalogDate": "2026-10-16",
     "download": {
      "label": "Core 2026-10-16",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/Badlands_20261016.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/Badlands_20261016.rbf"
     },
     "links": [
      {
@@ -52974,7 +52979,7 @@
     "catalogDate": "2026-07-13",
     "download": {
      "label": "Core 2026-07-13",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/Bagman_20260713.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/Bagman_20260713.rbf"
     },
     "links": [
      {
@@ -53012,7 +53017,7 @@
     "catalogDate": "2026-06-03",
     "download": {
      "label": "Core 2026-06-03",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Console/Astrocade_20260603.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Console/Astrocade_20260603.rbf"
     },
     "links": [
      {
@@ -53050,7 +53055,7 @@
     "catalogDate": "2026-04-18",
     "download": {
      "label": "Core 2026-04-18",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/MCR1_20260418.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/MCR1_20260418.rbf"
     },
     "links": [
      {
@@ -53088,7 +53093,7 @@
     "catalogDate": "2026-04-18",
     "download": {
      "label": "Core 2026-04-18",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/MCR2_20260418.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/MCR2_20260418.rbf"
     },
     "links": [
      {
@@ -53126,7 +53131,7 @@
     "catalogDate": "2026-04-17",
     "download": {
      "label": "Core 2026-04-17",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/MCR3_20260417.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/MCR3_20260417.rbf"
     },
     "links": [
      {
@@ -53164,7 +53169,7 @@
     "catalogDate": "2024-05-25",
     "download": {
      "label": "Core 2024-05-25",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/MCR3Mono_20240525.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/MCR3Mono_20240525.rbf"
     },
     "links": [
      {
@@ -53202,7 +53207,7 @@
     "catalogDate": "2024-05-25",
     "download": {
      "label": "Core 2024-05-25",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/MCR3Scroll_20240525.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/MCR3Scroll_20240525.rbf"
     },
     "links": [
      {
@@ -53240,7 +53245,7 @@
     "catalogDate": "2024-05-25",
     "download": {
      "label": "Core 2024-05-25",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/BankPanic_20240525.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/BankPanic_20240525.rbf"
     },
     "links": [
      {
@@ -53278,7 +53283,7 @@
     "catalogDate": "2026-10-16",
     "download": {
      "label": "Core 2026-10-16",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/Batman_20261016.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/Batman_20261016.rbf"
     },
     "links": [
      {
@@ -53316,7 +53321,7 @@
     "catalogDate": "2024-05-25",
     "download": {
      "label": "Core 2024-05-25",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/BattleZone_20240525.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/BattleZone_20240525.rbf"
     },
     "links": [
      {
@@ -53354,7 +53359,7 @@
     "catalogDate": "2024-07-14",
     "download": {
      "label": "Core 2024-07-14",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/Berzerk_20240714.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/Berzerk_20240714.rbf"
     },
     "links": [
      {
@@ -53392,7 +53397,7 @@
     "catalogDate": "2026-07-17",
     "download": {
      "label": "Core 2026-07-17",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/BlackWidow_20260717.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/BlackWidow_20260717.rbf"
     },
     "links": [
      {
@@ -53430,7 +53435,7 @@
     "catalogDate": "2026-10-16",
     "download": {
      "label": "Core 2026-10-16",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/Blasteroids_20261016.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/Blasteroids_20261016.rbf"
     },
     "links": [
      {
@@ -53468,7 +53473,7 @@
     "catalogDate": "2025-01-05",
     "download": {
      "label": "Core 2025-01-05",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/Blockade_20250105.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/Blockade_20250105.rbf"
     },
     "links": [
      {
@@ -53506,7 +53511,7 @@
     "catalogDate": "2026-06-09",
     "download": {
      "label": "Core 2026-06-09",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/BloodBros_20260609.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/BloodBros_20260609.rbf"
     },
     "links": [
      {
@@ -53544,7 +53549,7 @@
     "catalogDate": "2026-10-25",
     "download": {
      "label": "Core 2026-10-25",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/BluePrint_20261025.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/BluePrint_20261025.rbf"
     },
     "links": [
      {
@@ -53582,7 +53587,7 @@
     "catalogDate": "2024-08-04",
     "download": {
      "label": "Core 2024-08-04",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/BombJack_20240804.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/BombJack_20240804.rbf"
     },
     "links": [
      {
@@ -53620,7 +53625,7 @@
     "catalogDate": "2026-09-25",
     "download": {
      "label": "Core 2026-09-25",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/BoogieWings_20260925.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/BoogieWings_20260925.rbf"
     },
     "links": [
      {
@@ -53658,7 +53663,7 @@
     "catalogDate": "2024-05-25",
     "download": {
      "label": "Core 2024-05-25",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/Bosconian_20240525.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/Bosconian_20240525.rbf"
     },
     "links": [
      {
@@ -53696,7 +53701,7 @@
     "catalogDate": "2026-07-14",
     "download": {
      "label": "Core 2026-07-14",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/Breakout_20260714.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/Breakout_20260714.rbf"
     },
     "links": [
      {
@@ -53734,7 +53739,7 @@
     "catalogDate": "2025-01-07",
     "download": {
      "label": "Core 2025-01-07",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/BubSys_20250107.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/BubSys_20250107.rbf"
     },
     "links": [
      {
@@ -53772,7 +53777,7 @@
     "catalogDate": "2025-01-07",
     "download": {
      "label": "Core 2025-01-07",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/BubSysROM_20250107.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/BubSysROM_20250107.rbf"
     },
     "links": [
      {
@@ -53810,7 +53815,7 @@
     "catalogDate": "2024-05-25",
     "download": {
      "label": "Core 2024-05-25",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/BurgerTime_20240525.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/BurgerTime_20240525.rbf"
     },
     "links": [
      {
@@ -53848,7 +53853,7 @@
     "catalogDate": "2026-07-13",
     "download": {
      "label": "Core 2026-07-13",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/BurningRubber_20260713.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/BurningRubber_20260713.rbf"
     },
     "links": [
      {
@@ -53886,7 +53891,7 @@
     "catalogDate": "2024-05-25",
     "download": {
      "label": "Core 2024-05-25",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/CanyonBomber_20240525.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/CanyonBomber_20240525.rbf"
     },
     "links": [
      {
@@ -53924,7 +53929,7 @@
     "catalogDate": "2026-08-25",
     "download": {
      "label": "Core 2026-08-25",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/Cave_20260825.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/Cave_20260825.rbf"
     },
     "links": [
      {
@@ -53962,7 +53967,7 @@
     "catalogDate": "2026-08-25",
     "download": {
      "label": "Core 2026-08-25",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/CaveBanpresto_20260825.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/CaveBanpresto_20260825.rbf"
     },
     "links": [
      {
@@ -54000,7 +54005,7 @@
     "catalogDate": "2024-05-25",
     "download": {
      "label": "Core 2024-05-25",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/Centipede_20240525.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/Centipede_20240525.rbf"
     },
     "links": [
      {
@@ -54038,7 +54043,7 @@
     "catalogDate": "2024-05-25",
     "download": {
      "label": "Core 2024-05-25",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/Chameleon_20240525.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/Chameleon_20240525.rbf"
     },
     "links": [
      {
@@ -54076,7 +54081,7 @@
     "catalogDate": "2026-10-25",
     "download": {
      "label": "Core 2026-10-25",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/ChampionBaseball_20261025.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/ChampionBaseball_20261025.rbf"
     },
     "links": [
      {
@@ -54114,7 +54119,7 @@
     "catalogDate": "2026-05-06",
     "download": {
      "label": "Core 2026-05-06",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/ChinaGate_20260506.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/ChinaGate_20260506.rbf"
     },
     "links": [
      {
@@ -54152,7 +54157,7 @@
     "catalogDate": "2026-05-03",
     "download": {
      "label": "Core 2026-05-03",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/CityConnection_20260503.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/CityConnection_20260503.rbf"
     },
     "links": [
      {
@@ -54190,7 +54195,7 @@
     "catalogDate": "2024-05-25",
     "download": {
      "label": "Core 2024-05-25",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/ComputerSpace_20240525.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/ComputerSpace_20240525.rbf"
     },
     "links": [
      {
@@ -54228,7 +54233,7 @@
     "catalogDate": "2024-05-25",
     "download": {
      "label": "Core 2024-05-25",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/CongoBongo_20240525.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/CongoBongo_20240525.rbf"
     },
     "links": [
      {
@@ -54266,7 +54271,7 @@
     "catalogDate": "2025-11-27",
     "download": {
      "label": "Core 2025-11-27",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/CosmicGuerilla_20251127.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/CosmicGuerilla_20251127.rbf"
     },
     "links": [
      {
@@ -54304,7 +54309,7 @@
     "catalogDate": "2025-11-27",
     "download": {
      "label": "Core 2025-11-27",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/CrazyBalloon_20251127.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/CrazyBalloon_20251127.rbf"
     },
     "links": [
      {
@@ -54342,7 +54347,7 @@
     "catalogDate": "2026-05-20",
     "download": {
      "label": "Core 2026-05-20",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/CrazyClimber_20260520.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/CrazyClimber_20260520.rbf"
     },
     "links": [
      {
@@ -54380,7 +54385,7 @@
     "catalogDate": "2024-05-26",
     "download": {
      "label": "Core 2024-05-26",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/CrazyKong_20240526.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/CrazyKong_20240526.rbf"
     },
     "links": [
      {
@@ -54418,7 +54423,7 @@
     "catalogDate": "2024-05-26",
     "download": {
      "label": "Core 2024-05-26",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/CrystalCastles_20240526.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/CrystalCastles_20240526.rbf"
     },
     "links": [
      {
@@ -54456,7 +54461,7 @@
     "catalogDate": "2026-05-30",
     "download": {
      "label": "Core 2026-05-30",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/DCon_20260530.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/DCon_20260530.rbf"
     },
     "links": [
      {
@@ -54494,7 +54499,7 @@
     "catalogDate": "2026-07-30",
     "download": {
      "label": "Core 2026-07-30",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/Darius_20260730.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/Darius_20260730.rbf"
     },
     "links": [
      {
@@ -54532,7 +54537,7 @@
     "catalogDate": "2026-05-23",
     "download": {
      "label": "Core 2026-05-23",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/Darius2NinjaWarriors_20260523.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/Darius2NinjaWarriors_20260523.rbf"
     },
     "links": [
      {
@@ -54570,7 +54575,7 @@
     "catalogDate": "2026-06-19",
     "download": {
      "label": "Core 2026-06-19",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/Darius2WarriorBlade_20260619.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/Darius2WarriorBlade_20260619.rbf"
     },
     "links": [
      {
@@ -54608,7 +54613,7 @@
     "catalogDate": "2026-08-26",
     "download": {
      "label": "Core 2026-08-26",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/Deco16_20260826.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/Deco16_20260826.rbf"
     },
     "links": [
      {
@@ -54646,7 +54651,7 @@
     "catalogDate": "2026-10-25",
     "download": {
      "label": "Core 2026-10-25",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/DECOCassette_20261025.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/DECOCassette_20261025.rbf"
     },
     "links": [
      {
@@ -54684,7 +54689,7 @@
     "catalogDate": "2026-07-14",
     "download": {
      "label": "Core 2026-07-14",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/Defender_20260714.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/Defender_20260714.rbf"
     },
     "links": [
      {
@@ -54722,7 +54727,7 @@
     "catalogDate": "2026-08-19",
     "download": {
      "label": "Core 2026-08-19",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/DenjinMakai_20260819.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/DenjinMakai_20260819.rbf"
     },
     "links": [
      {
@@ -54760,7 +54765,7 @@
     "catalogDate": "2024-05-26",
     "download": {
      "label": "Core 2024-05-26",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/DigDug_20240526.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/DigDug_20240526.rbf"
     },
     "links": [
      {
@@ -54798,7 +54803,7 @@
     "catalogDate": "2024-05-26",
     "download": {
      "label": "Core 2024-05-26",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/Dominos_20240526.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/Dominos_20240526.rbf"
     },
     "links": [
      {
@@ -54836,7 +54841,7 @@
     "catalogDate": "2024-05-26",
     "download": {
      "label": "Core 2024-05-26",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/DonkeyKong_20240526.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/DonkeyKong_20240526.rbf"
     },
     "links": [
      {
@@ -54874,7 +54879,7 @@
     "catalogDate": "2024-05-26",
     "download": {
      "label": "Core 2024-05-26",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/DonkeyKong3_20240526.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/DonkeyKong3_20240526.rbf"
     },
     "links": [
      {
@@ -54912,7 +54917,7 @@
     "catalogDate": "2024-05-26",
     "download": {
      "label": "Core 2024-05-26",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/DonkeyKongJunior_20240526.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/DonkeyKongJunior_20240526.rbf"
     },
     "links": [
      {
@@ -54950,7 +54955,7 @@
     "catalogDate": "2025-01-05",
     "download": {
      "label": "Core 2025-01-05",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/DottoriKun_20250105.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/DottoriKun_20250105.rbf"
     },
     "links": [
      {
@@ -54988,7 +54993,7 @@
     "catalogDate": "2026-10-19",
     "download": {
      "label": "Core 2026-10-19",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/Escape_20261019.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/Escape_20261019.rbf"
     },
     "links": [
      {
@@ -55026,7 +55031,7 @@
     "catalogDate": "2024-09-14",
     "download": {
      "label": "Core 2024-09-14",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/Exerion_20240914.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/Exerion_20240914.rbf"
     },
     "links": [
      {
@@ -55064,7 +55069,7 @@
     "catalogDate": "2024-05-26",
     "download": {
      "label": "Core 2024-05-26",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/Exidy2_20240526.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/Exidy2_20240526.rbf"
     },
     "links": [
      {
@@ -55102,7 +55107,7 @@
     "catalogDate": "2024-05-26",
     "download": {
      "label": "Core 2024-05-26",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/ExpressRaider_20240526.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/ExpressRaider_20240526.rbf"
     },
     "links": [
      {
@@ -55140,7 +55145,7 @@
     "catalogDate": "2024-05-26",
     "download": {
      "label": "Core 2024-05-26",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/Finalizer_20240526.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/Finalizer_20240526.rbf"
     },
     "links": [
      {
@@ -55178,7 +55183,7 @@
     "catalogDate": "2024-05-26",
     "download": {
      "label": "Core 2024-05-26",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/FoodFight_20240526.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/FoodFight_20240526.rbf"
     },
     "links": [
      {
@@ -55216,7 +55221,7 @@
     "catalogDate": "2024-05-26",
     "download": {
      "label": "Core 2024-05-26",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/freeze_20240526.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/freeze_20240526.rbf"
     },
     "links": [
      {
@@ -55254,7 +55259,7 @@
     "catalogDate": "2024-05-26",
     "download": {
      "label": "Core 2024-05-26",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/Frenzy_20240526.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/Frenzy_20240526.rbf"
     },
     "links": [
      {
@@ -55292,7 +55297,7 @@
     "catalogDate": "2026-09-16",
     "download": {
      "label": "Core 2026-09-16",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/Fuuki_20260916.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/Fuuki_20260916.rbf"
     },
     "links": [
      {
@@ -55330,7 +55335,7 @@
     "catalogDate": "2024-05-26",
     "download": {
      "label": "Core 2024-05-26",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/Galaga_20240526.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/Galaga_20240526.rbf"
     },
     "links": [
      {
@@ -55368,7 +55373,7 @@
     "catalogDate": "2024-05-26",
     "download": {
      "label": "Core 2024-05-26",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/Galaxian_20240526.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/Galaxian_20240526.rbf"
     },
     "links": [
      {
@@ -55406,7 +55411,7 @@
     "catalogDate": "2024-05-26",
     "download": {
      "label": "Core 2024-05-26",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/Galivan_20240526.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/Galivan_20240526.rbf"
     },
     "links": [
      {
@@ -55444,7 +55449,7 @@
     "catalogDate": "2026-08-07",
     "download": {
      "label": "Core 2026-08-07",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/Gaplus_20260807.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/Gaplus_20260807.rbf"
     },
     "links": [
      {
@@ -55482,7 +55487,7 @@
     "catalogDate": "2025-04-25",
     "download": {
      "label": "Core 2025-04-25",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/Gauntlet_20250425.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/Gauntlet_20250425.rbf"
     },
     "links": [
      {
@@ -55520,7 +55525,7 @@
     "catalogDate": "2026-08-08",
     "download": {
      "label": "Core 2026-08-08",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/Godzilla_20260808.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/Godzilla_20260808.rbf"
     },
     "links": [
      {
@@ -55558,7 +55563,7 @@
     "catalogDate": "2026-10-05",
     "download": {
      "label": "Core 2026-10-05",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/Guardians_20261005.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/Guardians_20261005.rbf"
     },
     "links": [
      {
@@ -55596,7 +55601,7 @@
     "catalogDate": "2026-09-18",
     "download": {
      "label": "Core 2026-09-18",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/GulfWarII_20260918.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/GulfWarII_20260918.rbf"
     },
     "links": [
      {
@@ -55634,7 +55639,7 @@
     "catalogDate": "2024-05-26",
     "download": {
      "label": "Core 2024-05-26",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/Gyruss_20240526.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/Gyruss_20240526.rbf"
     },
     "links": [
      {
@@ -55672,7 +55677,7 @@
     "catalogDate": "2026-07-15",
     "download": {
      "label": "Core 2026-07-15",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/HeatedBarrel_20260715.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/HeatedBarrel_20260715.rbf"
     },
     "links": [
      {
@@ -55745,7 +55750,7 @@
     "catalogDate": "2026-08-23",
     "download": {
      "label": "Core 2026-08-23",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/IGSPGM_20260823.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/IGSPGM_20260823.rbf"
     },
     "links": [
      {
@@ -55783,7 +55788,7 @@
     "catalogDate": "2026-07-14",
     "download": {
      "label": "Core 2026-07-14",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/IkariWarriors_20260714.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/IkariWarriors_20260714.rbf"
     },
     "links": [
      {
@@ -55821,7 +55826,7 @@
     "catalogDate": "2026-01-04",
     "download": {
      "label": "Core 2026-01-04",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/Inferno_20260104.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/Inferno_20260104.rbf"
     },
     "links": [
      {
@@ -55859,7 +55864,7 @@
     "catalogDate": "2024-05-27",
     "download": {
      "label": "Core 2024-05-27",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/IremM62_20240527.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/IremM62_20240527.rbf"
     },
     "links": [
      {
@@ -55897,7 +55902,7 @@
     "catalogDate": "2026-08-24",
     "download": {
      "label": "Core 2026-08-24",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/IremM72_20260824.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/IremM72_20260824.rbf"
     },
     "links": [
      {
@@ -55935,7 +55940,7 @@
     "catalogDate": "2024-11-07",
     "download": {
      "label": "Core 2024-11-07",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/IremM90_20241107.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/IremM90_20241107.rbf"
     },
     "links": [
      {
@@ -55973,7 +55978,7 @@
     "catalogDate": "2025-02-22",
     "download": {
      "label": "Core 2025-02-22",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/IremM92_20250222.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/IremM92_20250222.rbf"
     },
     "links": [
      {
@@ -56011,7 +56016,7 @@
     "catalogDate": "2024-05-19",
     "download": {
      "label": "Core 2024-05-19",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/IremM107_20240519.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/IremM107_20240519.rbf"
     },
     "links": [
      {
@@ -56049,7 +56054,7 @@
     "catalogDate": "2024-05-27",
     "download": {
      "label": "Core 2024-05-27",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/IronHorse_20240527.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/IronHorse_20240527.rbf"
     },
     "links": [
      {
@@ -56087,7 +56092,7 @@
     "catalogDate": "2024-05-27",
     "download": {
      "label": "Core 2024-05-27",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/Jackal_20240527.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/Jackal_20240527.rbf"
     },
     "links": [
      {
@@ -56125,7 +56130,7 @@
     "catalogDate": "2024-05-27",
     "download": {
      "label": "Core 2024-05-27",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/Jailbreak_20240527.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/Jailbreak_20240527.rbf"
     },
     "links": [
      {
@@ -56163,7 +56168,7 @@
     "catalogDate": "2026-01-04",
     "download": {
      "label": "Core 2026-01-04",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/Joust2_20260104.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/Joust2_20260104.rbf"
     },
     "links": [
      {
@@ -56201,7 +56206,7 @@
     "catalogDate": "2026-10-25",
     "download": {
      "label": "Core 2026-10-25",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/JunoFirst_20261025.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/JunoFirst_20261025.rbf"
     },
     "links": [
      {
@@ -56239,7 +56244,7 @@
     "catalogDate": "2026-10-25",
     "download": {
      "label": "Core 2026-10-25",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/Kangaroo_20261025.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/Kangaroo_20261025.rbf"
     },
     "links": [
      {
@@ -56277,7 +56282,7 @@
     "catalogDate": "2024-07-30",
     "download": {
      "label": "Core 2024-07-30",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/KickAndRun_20240730.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/KickAndRun_20240730.rbf"
     },
     "links": [
      {
@@ -56315,7 +56320,7 @@
     "catalogDate": "2026-10-17",
     "download": {
      "label": "Core 2026-10-17",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/Klax_20261017.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/Klax_20261017.rbf"
     },
     "links": [
      {
@@ -56353,7 +56358,7 @@
     "catalogDate": "2026-10-25",
     "download": {
      "label": "Core 2026-10-25",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/Kyugo_20261025.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/Kyugo_20261025.rbf"
     },
     "links": [
      {
@@ -56391,7 +56396,7 @@
     "catalogDate": "2024-05-29",
     "download": {
      "label": "Core 2024-05-29",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/LadyBug_20240529.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/LadyBug_20240529.rbf"
     },
     "links": [
      {
@@ -56429,7 +56434,7 @@
     "catalogDate": "2026-10-25",
     "download": {
      "label": "Core 2026-10-25",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/LaserdiscGames_20261025.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/LaserdiscGames_20261025.rbf"
     },
     "links": [
      {
@@ -56467,7 +56472,7 @@
     "catalogDate": "2026-07-15",
     "download": {
      "label": "Core 2026-07-15",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/Legionnaire_20260715.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/Legionnaire_20260715.rbf"
     },
     "links": [
      {
@@ -56505,7 +56510,7 @@
     "catalogDate": "2026-10-03",
     "download": {
      "label": "Core 2026-10-03",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/Leland_20261003.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/Leland_20261003.rbf"
     },
     "links": [
      {
@@ -56543,7 +56548,7 @@
     "catalogDate": "2026-07-30",
     "download": {
      "label": "Core 2026-07-30",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/MajorHavoc_20260730.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/MajorHavoc_20260730.rbf"
     },
     "links": [
      {
@@ -56581,7 +56586,7 @@
     "catalogDate": "2026-09-04",
     "download": {
      "label": "Core 2026-09-04",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/MarbleMadness2_20260904.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/MarbleMadness2_20260904.rbf"
     },
     "links": [
      {
@@ -56619,7 +56624,7 @@
     "catalogDate": "2024-08-02",
     "download": {
      "label": "Core 2024-08-02",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/MarioBros_20240802.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/MarioBros_20240802.rbf"
     },
     "links": [
      {
@@ -56657,7 +56662,7 @@
     "catalogDate": "2024-05-30",
     "download": {
      "label": "Core 2024-05-30",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/MissileCommand_20240530.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/MissileCommand_20240530.rbf"
     },
     "links": [
      {
@@ -56695,7 +56700,7 @@
     "catalogDate": "2026-09-11",
     "download": {
      "label": "Core 2026-09-11",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/MoonPatrol_20260911.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/MoonPatrol_20260911.rbf"
     },
     "links": [
      {
@@ -56733,7 +56738,7 @@
     "catalogDate": "2024-05-30",
     "download": {
      "label": "Core 2024-05-30",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/MrDo_20240530.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/MrDo_20240530.rbf"
     },
     "links": [
      {
@@ -56771,7 +56776,7 @@
     "catalogDate": "2024-05-30",
     "download": {
      "label": "Core 2024-05-30",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/MrJong_20240530.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/MrJong_20240530.rbf"
     },
     "links": [
      {
@@ -56809,7 +56814,7 @@
     "catalogDate": "2024-05-30",
     "download": {
      "label": "Core 2024-05-30",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/MysticMarathon_20240530.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/MysticMarathon_20240530.rbf"
     },
     "links": [
      {
@@ -56847,7 +56852,7 @@
     "catalogDate": "2026-07-14",
     "download": {
      "label": "Core 2026-07-14",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/NaughtyBoy_20260714.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/NaughtyBoy_20260714.rbf"
     },
     "links": [
      {
@@ -56885,7 +56890,7 @@
     "catalogDate": "2026-09-01",
     "download": {
      "label": "Core 2026-09-01",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/NightSlashers_20260901.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/NightSlashers_20260901.rbf"
     },
     "links": [
      {
@@ -56923,7 +56928,7 @@
     "catalogDate": "2024-05-30",
     "download": {
      "label": "Core 2024-05-30",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/NinjaKun_20240530.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/NinjaKun_20240530.rbf"
     },
     "links": [
      {
@@ -56961,7 +56966,7 @@
     "catalogDate": "2026-10-16",
     "download": {
      "label": "Core 2026-10-16",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/OffTheWall_20261016.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/OffTheWall_20261016.rbf"
     },
     "links": [
      {
@@ -56999,7 +57004,7 @@
     "catalogDate": "2026-06-25",
     "download": {
      "label": "Core 2026-06-25",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/Pacman_20260625.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/Pacman_20260625.rbf"
     },
     "links": [
      {
@@ -57037,7 +57042,7 @@
     "catalogDate": "2024-05-30",
     "download": {
      "label": "Core 2024-05-30",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/Pengo_20240530.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/Pengo_20240530.rbf"
     },
     "links": [
      {
@@ -57075,7 +57080,7 @@
     "catalogDate": "2024-05-31",
     "download": {
      "label": "Core 2024-05-31",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/PenguinKunWars_20240531.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/PenguinKunWars_20240531.rbf"
     },
     "links": [
      {
@@ -57113,7 +57118,7 @@
     "catalogDate": "2026-07-14",
     "download": {
      "label": "Core 2026-07-14",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/Performan_20260714.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/Performan_20260714.rbf"
     },
     "links": [
      {
@@ -57151,7 +57156,7 @@
     "catalogDate": "2024-06-01",
     "download": {
      "label": "Core 2024-06-01",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/Phoenix_20240601.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/Phoenix_20240601.rbf"
     },
     "links": [
      {
@@ -57189,7 +57194,7 @@
     "catalogDate": "2026-08-19",
     "download": {
      "label": "Core 2026-08-19",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/PinballAction_20260819.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/PinballAction_20260819.rbf"
     },
     "links": [
      {
@@ -57227,7 +57232,7 @@
     "catalogDate": "2024-06-01",
     "download": {
      "label": "Core 2024-06-01",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/Pleiads_20240601.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/Pleiads_20240601.rbf"
     },
     "links": [
      {
@@ -57265,7 +57270,7 @@
     "catalogDate": "2026-10-25",
     "download": {
      "label": "Core 2026-10-25",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/PolePosition_20261025.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/PolePosition_20261025.rbf"
     },
     "links": [
      {
@@ -57303,7 +57308,7 @@
     "catalogDate": "2024-06-01",
     "download": {
      "label": "Core 2024-06-01",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/PolyPlay_20240601.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/PolyPlay_20240601.rbf"
     },
     "links": [
      {
@@ -57341,7 +57346,7 @@
     "catalogDate": "2024-06-01",
     "download": {
      "label": "Core 2024-06-01",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/Pong_20240601.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/Pong_20240601.rbf"
     },
     "links": [
      {
@@ -57379,7 +57384,7 @@
     "catalogDate": "2026-07-10",
     "download": {
      "label": "Core 2026-07-10",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/Pooyan_20260710.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/Pooyan_20260710.rbf"
     },
     "links": [
      {
@@ -57417,7 +57422,7 @@
     "catalogDate": "2024-06-01",
     "download": {
      "label": "Core 2024-06-01",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/Popeye_20240601.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/Popeye_20240601.rbf"
     },
     "links": [
      {
@@ -57455,7 +57460,7 @@
     "catalogDate": "2026-10-02",
     "download": {
      "label": "Core 2026-10-02",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/PrimalRage_20261002.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/PrimalRage_20261002.rbf"
     },
     "links": [
      {
@@ -57493,7 +57498,7 @@
     "catalogDate": "2024-08-27",
     "download": {
      "label": "Core 2024-08-27",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/Psychic5_20240827.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/Psychic5_20240827.rbf"
     },
     "links": [
      {
@@ -57531,7 +57536,7 @@
     "catalogDate": "2026-09-26",
     "download": {
      "label": "Core 2026-09-26",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/Psikyo_20260926.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/Psikyo_20260926.rbf"
     },
     "links": [
      {
@@ -57569,7 +57574,7 @@
     "catalogDate": "2026-08-17",
     "download": {
      "label": "Core 2026-08-17",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/PsikyoSH2_20260817.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/PsikyoSH2_20260817.rbf"
     },
     "links": [
      {
@@ -57607,7 +57612,7 @@
     "catalogDate": "2026-07-15",
     "download": {
      "label": "Core 2026-07-15",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/QBert_20260715.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/QBert_20260715.rbf"
     },
     "links": [
      {
@@ -57645,7 +57650,7 @@
     "catalogDate": "2026-10-25",
     "download": {
      "label": "Core 2026-10-25",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/Qix_20261025.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/Qix_20261025.rbf"
     },
     "links": [
      {
@@ -57683,7 +57688,7 @@
     "catalogDate": "2026-08-23",
     "download": {
      "label": "Core 2026-08-23",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/Raiden_20260823.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/Raiden_20260823.rbf"
     },
     "links": [
      {
@@ -57721,7 +57726,7 @@
     "catalogDate": "2026-08-25",
     "download": {
      "label": "Core 2026-08-25",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/Raiden2_20260825.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/Raiden2_20260825.rbf"
     },
     "links": [
      {
@@ -57759,7 +57764,7 @@
     "catalogDate": "2026-08-25",
     "download": {
      "label": "Core 2026-08-25",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/Raiden2_20260825.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/Raiden2_20260825.rbf"
     },
     "links": [
      {
@@ -57797,7 +57802,7 @@
     "catalogDate": "2026-05-31",
     "download": {
      "label": "Core 2026-05-31",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/RallyX_20260531.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/RallyX_20260531.rbf"
     },
     "links": [
      {
@@ -57835,7 +57840,7 @@
     "catalogDate": "2026-10-16",
     "download": {
      "label": "Core 2026-10-16",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/Rampart_20261016.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/Rampart_20261016.rbf"
     },
     "links": [
      {
@@ -57873,7 +57878,7 @@
     "catalogDate": "2026-10-16",
     "download": {
      "label": "Core 2026-10-16",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/ReliefPitcher_20261016.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/ReliefPitcher_20261016.rbf"
     },
     "links": [
      {
@@ -57911,7 +57916,7 @@
     "catalogDate": "2026-09-03",
     "download": {
      "label": "Core 2026-09-03",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/RingKing_20260903.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/RingKing_20260903.rbf"
     },
     "links": [
      {
@@ -57949,7 +57954,7 @@
     "catalogDate": "2024-06-02",
     "download": {
      "label": "Core 2024-06-02",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/RiverPatrol_20240602.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/RiverPatrol_20240602.rbf"
     },
     "links": [
      {
@@ -57987,7 +57992,7 @@
     "catalogDate": "2026-10-03",
     "download": {
      "label": "Core 2026-10-03",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/Robotron_20261003.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/Robotron_20261003.rbf"
     },
     "links": [
      {
@@ -58060,7 +58065,7 @@
     "catalogDate": "2026-08-28",
     "download": {
      "label": "Core 2026-08-28",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/Salamander_20260828.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/Salamander_20260828.rbf"
     },
     "links": [
      {
@@ -58098,7 +58103,7 @@
     "catalogDate": "2024-06-02",
     "download": {
      "label": "Core 2024-06-02",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/ScooterShooter_20240602.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/ScooterShooter_20240602.rbf"
     },
     "links": [
      {
@@ -58136,7 +58141,7 @@
     "catalogDate": "2026-10-24",
     "download": {
      "label": "Core 2026-10-24",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/Scramble_20261024.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/Scramble_20261024.rbf"
     },
     "links": [
      {
@@ -58209,7 +58214,7 @@
     "catalogDate": "2026-08-09",
     "download": {
      "label": "Core 2026-08-09",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/SDGundamRainbow_20260809.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/SDGundamRainbow_20260809.rbf"
     },
     "links": [
      {
@@ -58247,7 +58252,7 @@
     "catalogDate": "2024-06-02",
     "download": {
      "label": "Core 2024-06-02",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/SegaVICZ80_20240602.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/SegaVICZ80_20240602.rbf"
     },
     "links": [
      {
@@ -58285,7 +58290,7 @@
     "catalogDate": "2026-09-08",
     "download": {
      "label": "Core 2026-09-08",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/SegaG80V_20260908.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/SegaG80V_20260908.rbf"
     },
     "links": [
      {
@@ -58323,7 +58328,7 @@
     "catalogDate": "2025-10-03",
     "download": {
      "label": "Core 2025-10-03",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Console/Saturn_20251003.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Console/Saturn_20251003.rbf"
     },
     "links": [
      {
@@ -58361,7 +58366,7 @@
     "catalogDate": "2026-07-14",
     "download": {
      "label": "Core 2026-07-14",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/SEGASYS1_20260714.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/SEGASYS1_20260714.rbf"
     },
     "links": [
      {
@@ -58399,7 +58404,7 @@
     "catalogDate": "2026-08-23",
     "download": {
      "label": "Core 2026-08-23",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/SMS_20260823.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/SMS_20260823.rbf"
     },
     "links": [
      {
@@ -58437,7 +58442,7 @@
     "catalogDate": "2026-10-02",
     "download": {
      "label": "Core 2026-10-02",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/SegaVCO_20261002.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/SegaVCO_20261002.rbf"
     },
     "links": [
      {
@@ -58475,7 +58480,7 @@
     "catalogDate": "2026-10-04",
     "download": {
      "label": "Core 2026-10-04",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/SegaXBoard_20261004.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/SegaXBoard_20261004.rbf"
     },
     "links": [
      {
@@ -58513,7 +58518,7 @@
     "catalogDate": "2026-10-16",
     "download": {
      "label": "Core 2026-10-16",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/Shuuz_20261016.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/Shuuz_20261016.rbf"
     },
     "links": [
      {
@@ -58551,7 +58556,7 @@
     "catalogDate": "2024-06-02",
     "download": {
      "label": "Core 2024-06-02",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/SilverLand_20240602.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/SilverLand_20240602.rbf"
     },
     "links": [
      {
@@ -58589,7 +58594,7 @@
     "catalogDate": "2026-10-17",
     "download": {
      "label": "Core 2026-10-17",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/SkullXBones_20261017.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/SkullXBones_20261017.rbf"
     },
     "links": [
      {
@@ -58627,7 +58632,7 @@
     "catalogDate": "2026-06-08",
     "download": {
      "label": "Core 2026-06-08",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/SkySmasher_20260608.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/SkySmasher_20260608.rbf"
     },
     "links": [
      {
@@ -58665,7 +58670,7 @@
     "catalogDate": "2026-10-25",
     "download": {
      "label": "Core 2026-10-25",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/SNK6502_20261025.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/SNK6502_20261025.rbf"
     },
     "links": [
      {
@@ -58703,7 +58708,7 @@
     "catalogDate": "2026-01-09",
     "download": {
      "label": "Core 2026-01-09",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/SNK_TripleZ80_20260109.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/SNK_TripleZ80_20260109.rbf"
     },
     "links": [
      {
@@ -58741,7 +58746,7 @@
     "catalogDate": "2026-07-13",
     "download": {
      "label": "Core 2026-07-13",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/SlapFight_20260713.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/SlapFight_20260713.rbf"
     },
     "links": [
      {
@@ -58779,7 +58784,7 @@
     "catalogDate": "2024-05-27",
     "download": {
      "label": "Core 2024-05-27",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/SolomonsKey_20240527.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/SolomonsKey_20240527.rbf"
     },
     "links": [
      {
@@ -58817,7 +58822,7 @@
     "catalogDate": "2024-05-27",
     "download": {
      "label": "Core 2024-05-27",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/Sonson_20240527.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/Sonson_20240527.rbf"
     },
     "links": [
      {
@@ -58855,7 +58860,7 @@
     "catalogDate": "2026-06-17",
     "download": {
      "label": "Core 2026-06-17",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/SpaceFirebird_20260617.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/SpaceFirebird_20260617.rbf"
     },
     "links": [
      {
@@ -58893,7 +58898,7 @@
     "catalogDate": "2026-06-22",
     "download": {
      "label": "Core 2026-06-22",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/SpaceInvaders_20260622.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/SpaceInvaders_20260622.rbf"
     },
     "links": [
      {
@@ -58931,7 +58936,7 @@
     "catalogDate": "2024-05-27",
     "download": {
      "label": "Core 2024-05-27",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/SpaceRace_20240527.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/SpaceRace_20240527.rbf"
     },
     "links": [
      {
@@ -58969,7 +58974,7 @@
     "catalogDate": "2024-05-27",
     "download": {
      "label": "Core 2024-05-27",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/Sprint1_20240527.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/Sprint1_20240527.rbf"
     },
     "links": [
      {
@@ -59007,7 +59012,7 @@
     "catalogDate": "2024-05-27",
     "download": {
      "label": "Core 2024-05-27",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/Sprint2_20240527.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/Sprint2_20240527.rbf"
     },
     "links": [
      {
@@ -59045,7 +59050,7 @@
     "catalogDate": "2026-10-15",
     "download": {
      "label": "Core 2026-10-15",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/StarCastle_20261015.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/StarCastle_20261015.rbf"
     },
     "links": [
      {
@@ -59083,7 +59088,7 @@
     "catalogDate": "2026-08-16",
     "download": {
      "label": "Core 2026-08-16",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/StarWars_20260816.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/StarWars_20260816.rbf"
     },
     "links": [
      {
@@ -59121,7 +59126,7 @@
     "catalogDate": "2026-04-18",
     "download": {
      "label": "Core 2026-04-18",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/Starforce_20260418.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/Starforce_20260418.rbf"
     },
     "links": [
      {
@@ -59159,7 +59164,7 @@
     "catalogDate": "2024-05-27",
     "download": {
      "label": "Core 2024-05-27",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/Subs_20240527.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/Subs_20240527.rbf"
     },
     "links": [
      {
@@ -59197,7 +59202,7 @@
     "catalogDate": "2024-05-25",
     "download": {
      "label": "Core 2024-05-25",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/SuperBreakout_20240525.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/SuperBreakout_20240525.rbf"
     },
     "links": [
      {
@@ -59235,7 +59240,7 @@
     "catalogDate": "2024-06-16",
     "download": {
      "label": "Core 2024-06-16",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/SuprLoco_20240616.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/SuprLoco_20240616.rbf"
     },
     "links": [
      {
@@ -59308,7 +59313,7 @@
     "catalogDate": "2025-10-27",
     "download": {
      "label": "Core 2025-10-27",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/TaitoF2_20251027.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/TaitoF2_20251027.rbf"
     },
     "links": [
      {
@@ -59346,7 +59351,7 @@
     "catalogDate": "2026-10-12",
     "download": {
      "label": "Core 2026-10-12",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/Tank_20261012.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/Tank_20261012.rbf"
     },
     "links": [
      {
@@ -59384,7 +59389,7 @@
     "catalogDate": "2026-10-05",
     "download": {
      "label": "Core 2026-10-05",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/TankBattalion_20261005.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/TankBattalion_20261005.rbf"
     },
     "links": [
      {
@@ -59422,7 +59427,7 @@
     "catalogDate": "2026-03-07",
     "download": {
      "label": "Core 2026-03-07",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/Tecmo_20260307.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/Tecmo_20260307.rbf"
     },
     "links": [
      {
@@ -59460,7 +59465,7 @@
     "catalogDate": "2026-07-20",
     "download": {
      "label": "Core 2026-07-20",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/Tempest_20260720.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/Tempest_20260720.rbf"
     },
     "links": [
      {
@@ -59498,7 +59503,7 @@
     "catalogDate": "2024-05-25",
     "download": {
      "label": "Core 2024-05-25",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/TIAMC1_20240525.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/TIAMC1_20240525.rbf"
     },
     "links": [
      {
@@ -59536,7 +59541,7 @@
     "catalogDate": "2024-05-25",
     "download": {
      "label": "Core 2024-05-25",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/TimePilot_20240525.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/TimePilot_20240525.rbf"
     },
     "links": [
      {
@@ -59574,7 +59579,7 @@
     "catalogDate": "2024-06-04",
     "download": {
      "label": "Core 2024-06-04",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/TimePilot84_20240604.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/TimePilot84_20240604.rbf"
     },
     "links": [
      {
@@ -59612,7 +59617,7 @@
     "catalogDate": "2024-05-25",
     "download": {
      "label": "Core 2024-05-25",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/Druaga_20240525.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/Druaga_20240525.rbf"
     },
     "links": [
      {
@@ -59650,7 +59655,7 @@
     "catalogDate": "2024-06-15",
     "download": {
      "label": "Core 2024-06-15",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/TNKIII_20240615.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/TNKIII_20240615.rbf"
     },
     "links": [
      {
@@ -59688,7 +59693,7 @@
     "catalogDate": "2026-10-17",
     "download": {
      "label": "Core 2026-10-17",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/Toobin_20261017.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/Toobin_20261017.rbf"
     },
     "links": [
      {
@@ -59726,7 +59731,7 @@
     "catalogDate": "2024-05-25",
     "download": {
      "label": "Core 2024-05-25",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/TraverseUSA_20240525.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/TraverseUSA_20240525.rbf"
     },
     "links": [
      {
@@ -59764,7 +59769,7 @@
     "catalogDate": "2026-07-08",
     "download": {
      "label": "Core 2026-07-08",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/TrioThePunch_20260708.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/TrioThePunch_20260708.rbf"
     },
     "links": [
      {
@@ -59802,7 +59807,7 @@
     "catalogDate": "2024-04-10",
     "download": {
      "label": "Core 2024-04-10",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/TropicalAngel_20240410.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/TropicalAngel_20240410.rbf"
     },
     "links": [
      {
@@ -59840,7 +59845,7 @@
     "catalogDate": "2024-05-25",
     "download": {
      "label": "Core 2024-05-25",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/TurkeyShoot_20240525.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/TurkeyShoot_20240525.rbf"
     },
     "links": [
      {
@@ -59878,7 +59883,7 @@
     "catalogDate": "2026-10-25",
     "download": {
      "label": "Core 2026-10-25",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/Tutankham_20261025.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/Tutankham_20261025.rbf"
     },
     "links": [
      {
@@ -59916,7 +59921,7 @@
     "catalogDate": "2024-05-25",
     "download": {
      "label": "Core 2024-05-25",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/Ultratank_20240525.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/Ultratank_20240525.rbf"
     },
     "links": [
      {
@@ -59954,7 +59959,7 @@
     "catalogDate": "2024-12-17",
     "download": {
      "label": "Core 2024-12-17",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/Cosmic_20241217.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/Cosmic_20241217.rbf"
     },
     "links": [
      {
@@ -59992,7 +59997,7 @@
     "catalogDate": "2026-10-25",
     "download": {
      "label": "Core 2026-10-25",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/UPLFramebuffer_20261025.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/UPLFramebuffer_20261025.rbf"
     },
     "links": [
      {
@@ -60030,7 +60035,7 @@
     "catalogDate": "2026-10-25",
     "download": {
      "label": "Core 2026-10-25",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/Vastar_20261025.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/Vastar_20261025.rbf"
     },
     "links": [
      {
@@ -60068,7 +60073,7 @@
     "catalogDate": "2024-05-25",
     "download": {
      "label": "Core 2024-05-25",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/VBall_20240525.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/VBall_20240525.rbf"
     },
     "links": [
      {
@@ -60106,7 +60111,7 @@
     "catalogDate": "2026-10-05",
     "download": {
      "label": "Core 2026-10-05",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/Victory_20261005.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/Victory_20261005.rbf"
     },
     "links": [
      {
@@ -60144,7 +60149,7 @@
     "catalogDate": "2026-10-17",
     "download": {
      "label": "Core 2026-10-17",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/Vindicators_20261017.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/Vindicators_20261017.rbf"
     },
     "links": [
      {
@@ -60182,7 +60187,7 @@
     "catalogDate": "2025-01-23",
     "download": {
      "label": "Core 2025-01-23",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/XSleena_20250123.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/XSleena_20250123.rbf"
     },
     "links": [
      {
@@ -60220,7 +60225,7 @@
     "catalogDate": "2024-05-25",
     "download": {
      "label": "Core 2024-05-25",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/Xevious_20240525.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/Xevious_20240525.rbf"
     },
     "links": [
      {
@@ -60258,7 +60263,7 @@
     "catalogDate": "2026-10-17",
     "download": {
      "label": "Core 2026-10-17",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/Xybots_20261017.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/Xybots_20261017.rbf"
     },
     "links": [
      {
@@ -60296,7 +60301,7 @@
     "catalogDate": "2024-05-25",
     "download": {
      "label": "Core 2024-05-25",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/Zaxxon_20240525.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/Zaxxon_20240525.rbf"
     },
     "links": [
      {
@@ -60334,7 +60339,7 @@
     "catalogDate": "2026-07-10",
     "download": {
      "label": "Core 2026-07-10",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Arcade/cores/ZigZag_20260710.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Arcade/cores/ZigZag_20260710.rbf"
     },
     "links": [
      {
@@ -60372,7 +60377,7 @@
     "catalogDate": "2021-01-30",
     "download": {
      "label": "Core 2021-01-30",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Utility/memtest_20210130.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Utility/memtest_20210130.rbf"
     },
     "links": [
      {
@@ -60410,7 +60415,7 @@
     "catalogDate": "2025-06-19",
     "download": {
      "label": "Core 2025-06-19",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Utility/ADCTest_20250619.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Utility/ADCTest_20250619.rbf"
     },
     "links": [
      {
@@ -60448,7 +60453,7 @@
     "catalogDate": "2026-08-10",
     "download": {
      "label": "Core 2026-08-10",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Utility/InputTest_20260810.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Utility/InputTest_20260810.rbf"
     },
     "links": [
      {
@@ -60486,7 +60491,7 @@
     "catalogDate": "2024-11-13",
     "download": {
      "label": "Core 2024-11-13",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/eb8b98b378d460cbf0086e614732477cac0295e4/_Utility/MiSTerLaggy_20241113.rbf"
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/2a1a84e971269caadbd4c4c1e22d68a2e2da09ab/_Utility/MiSTerLaggy_20241113.rbf"
     },
     "links": [
      {
@@ -60724,7 +60729,7 @@
   ]
  },
  "pocket": {
-  "updatedAt": "2026-10-27T14:45:45.436Z",
+  "updatedAt": "2026-10-27T20:48:40.902Z",
   "projects": [
    {
     "id": "gpzi994/chiskit",
@@ -60988,6 +60993,45 @@
     "download": {
      "label": "Pocket 1.0.0",
      "url": "https://github.com/essemyth/openfpga-nibbler/releases/download/v1.0.0/Essemyth.Nibbler_1.0.0_2026-10-22.zip"
+    },
+    "links": [
+     {
+      "label": "openFPGA inventory",
+      "url": "https://openfpga-cores-inventory.github.io/analogue-pocket/"
+     }
+    ],
+    "sources": [
+     "pocket"
+    ]
+   },
+   {
+    "id": "toby01019/openfpga-c64-mister",
+    "aliases": [
+     "pocket:experimental-c64mister"
+    ],
+    "name": "Experimental.C64MiSTer (Pocket)",
+    "game": "C64 MiSTer Alpha",
+    "categories": [
+     "Analogue Pocket"
+    ],
+    "type": "core",
+    "tags": [
+     "FPGA"
+    ],
+    "repo": {
+     "host": "github",
+     "path": "toby01019/openFPGA-C64-MiSTer"
+    },
+    "description": "openFPGA computer core · Commodore International 1982",
+    "developer": "Experimental",
+    "targets": [
+     "Analogue Pocket"
+    ],
+    "catalogVersion": "0.5.1-alpha",
+    "catalogDate": "2026-10-26",
+    "download": {
+     "label": "Pocket 0.5.1-alpha",
+     "url": "https://github.com/toby01019/openFPGA-C64-MiSTer/releases/download/v0.5.1-alpha/C64-Pocket-0.5.1-Test-SD-EN.zip"
     },
     "links": [
      {
@@ -61921,6 +61965,45 @@
     "download": {
      "label": "Pocket 1.5.6",
      "url": "https://github.com/vieira-fpga/openFPGA-RallyX/releases/download/v1.5.6/MorganVieira.Rally-X_1.5.6_2026-10-09.zip"
+    },
+    "links": [
+     {
+      "label": "openFPGA inventory",
+      "url": "https://openfpga-cores-inventory.github.io/analogue-pocket/"
+     }
+    ],
+    "sources": [
+     "pocket"
+    ]
+   },
+   {
+    "id": "newsdee/openfpga-apple2e",
+    "aliases": [
+     "pocket:newsdee-apple2e"
+    ],
+    "name": "Newsdee.Apple2e (Pocket)",
+    "game": "Apple IIe",
+    "categories": [
+     "Analogue Pocket"
+    ],
+    "type": "core",
+    "tags": [
+     "FPGA"
+    ],
+    "repo": {
+     "host": "github",
+     "path": "Newsdee/openfpga-apple2e"
+    },
+    "description": "openFPGA computer core · Apple 1979",
+    "developer": "Newsdee",
+    "targets": [
+     "Analogue Pocket"
+    ],
+    "catalogVersion": "0.2.5",
+    "catalogDate": "2026-10-25",
+    "download": {
+     "label": "Pocket 0.2.5",
+     "url": "https://github.com/Newsdee/openfpga-apple2e/releases/download/0.2.5/Apple2e_Pocket_0.2.5.zip"
     },
     "links": [
      {
