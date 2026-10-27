@@ -1,6 +1,110 @@
 {
  "articles": [
   {
+   "title": "The Legend of Zelda: Twilight Princess VR / Quest Standalone VR Mod with 6DOF Motion Controls",
+   "url": "https://www.youtube.com/watch?v=lyam86_qXHM",
+   "date": "2026-10-27T13:00:33.000Z",
+   "source": "YouTube: NotAGameAddict",
+   "outlet": "YouTube: NotAGameAddict",
+   "summary": "00:00 - VR gameplay 09:37 - VR settings TPVR - https://github.com/JoeyAW/TPVR",
+   "image": "https://i1.ytimg.com/vi/lyam86_qXHM/hqdefault.jpg",
+   "text": "The Legend of Zelda: Twilight Princess VR / Quest Standalone VR Mod with 6DOF Motion Controls 00:00 - VR gameplay 09:37 - VR settings TPVR - https://github.com/JoeyAW/TPVR",
+   "repos": [
+    "github:JoeyAW/TPVR"
+   ],
+   "firstSeen": "2026-10-27T14:45:45.436Z"
+  },
+  {
+   "title": "How to Avoid AI SLOP on Your MiSTer FPGA DE10-Nano - Stay Safe!",
+   "url": "https://www.youtube.com/watch?v=uSMX7FAWXl0",
+   "date": "2026-10-27T13:00:03.000Z",
+   "source": "YouTube: Pixel Cherry Ninja",
+   "outlet": "YouTube: Pixel Cherry Ninja",
+   "summary": "Ways to Support the Channel (some affiliate links) EARLY ACCESS TO NEWS VIDEOS AND OTHER EXCLUSIVES https://www.youtube.com/channel/UCEozS0uaZibXKTQSu10XgSw/join https://www.patreon.com/PixelCherryNinja Buy a FightBox R10-Pro Arcade Stick with Trackball & Spinner USE CODE \"PixelCherryNinja\" for 10% OFF https://fightboxarcade.com/collections/best-sellers/products/fightbox-r10-pro-arcade-fight-stick",
+   "image": "https://i2.ytimg.com/vi/uSMX7FAWXl0/hqdefault.jpg",
+   "text": "How to Avoid AI SLOP on Your MiSTer FPGA DE10-Nano - Stay Safe! Ways to Support the Channel (some affiliate links) EARLY ACCESS TO NEWS VIDEOS AND OTHER EXCLUSIVES https://www.youtube.com/channel/UCEozS0uaZibXKTQSu10XgSw/join https://www.patreon.com/PixelCherryNinja Buy a FightBox R10-Pro Arcade Stick with Trackball & Spinner USE CODE \"PixelCherryNinja\" for 10% OFF https://fightboxarcade.com/collections/best-sellers/products/fightbox-r10-pro-arcade-fight-stick-with-trackball-spinner-retro-game-controller-for-pc-ps3-switch Buy a Octopus TR Fightstick https://www.trfightstick.com/?ref=PCN Click link then use code \"PCN\" for $25 Off Buy a Morph2K https://www.pixelfx.co/product-page/morph-2k-analog-video-scaler?ref=PCN Buy a Zaparoo product (10% off) https://shop.zaparoo.com/discount/PixelCherryNinja or just enter code \"PixelCherryNinja\" Join the Pixel Cherry Ninja Gaming Discord https://discord.gg/5W9pCy2nXa DO NOT USE THE SOURCES LINKED IN THIS DISCORD POST https://discord.com/channels/1166475109477920878/1190931492986171452/1563590413510508676 Want to avoid AI-generated slop when using your MiSTer FPGA DE10-Nano? In this guide, I cover practical ways to assess projects, code, downloads and development claims before trusting or installing them on your MiSTer setup. AI tools can be useful in software development, but not every AI-generated project is reliable, accurate or properly tested. Learn why checking original sources, reviewing project documentation, looking for independen",
+   "repos": [],
+   "firstSeen": "2026-10-27T14:45:45.436Z"
+  },
+  {
+   "title": "F-Zero GX Recomp Out NOW! An Interesting WIP GameCube Recomp",
+   "url": "https://www.youtube.com/watch?v=RNRqDJQE1Cg",
+   "date": "2026-10-27T12:45:09.000Z",
+   "source": "YouTube: Video Game Esoterica",
+   "outlet": "YouTube: Video Game Esoterica",
+   "summary": "SUPPORT THE CHANNEL : http://www.patreon.com/VideoGameEsoterica A new F-Zero GX recomp is out now, leveraging recompiled PPC code with bits of Dolphin to make a very interesting F-Zero GX PC port of sorts! Directly after the Luigi's Mansion recomp too! The Legend of Zelda: Twilight Princess PC port may have been the GameCube decomp that started the GameCube PC port trend...but now it's an F Zero G",
+   "image": "https://i3.ytimg.com/vi/RNRqDJQE1Cg/hqdefault.jpg",
+   "text": "F-Zero GX Recomp Out NOW! An Interesting WIP GameCube Recomp SUPPORT THE CHANNEL : http://www.patreon.com/VideoGameEsoterica A new F-Zero GX recomp is out now, leveraging recompiled PPC code with bits of Dolphin to make a very interesting F-Zero GX PC port of sorts! Directly after the Luigi's Mansion recomp too! The Legend of Zelda: Twilight Princess PC port may have been the GameCube decomp that started the GameCube PC port trend...but now it's an F Zero GX Recomp with a ton of enhancements, mod support, full online netplay and more! More Nintendo PC ports? More GameCube recomps? yes please! Check it out: https://github.com/Mabec-games/F-ZERO-GLINUX Questions? Comments? Just leave them below and I will do my best to answer each and every one of them! http://www.patreon.com/VideoGameEsoterica VGE",
+   "repos": [
+    "github:Mabec-games/F-ZERO-GLINUX"
+   ],
+   "firstSeen": "2026-10-27T14:45:45.436Z"
+  },
+  {
+   "title": "You Can Now Wirelessly Download Games To The ModRetro Chromatic",
+   "url": "https://retrododo.com/you-can-now-wirelessly-download-games-to-the-modretro-chromatic/",
+   "date": "2026-10-27T12:29:19.000Z",
+   "source": "Retro Dodo",
+   "outlet": "Retro Dodo",
+   "summary": "🤝 Like our website? Support us as an independent publisher by tipping , joining our paid community or checking out our accessories brand GAMENOOK ! The Chromatic has been fully unlocked, and it's been done by a wizard called David Walter. David knows he's a wizard; that'",
+   "image": "https://storage.ghost.io/c/58/fd/58fdc82a-ad84-44e2-ad58-166d1b419bc4/content/images/2026/10/shinyrelaywifi.jpg",
+   "text": "You Can Now Wirelessly Download Games To The ModRetro Chromatic 🤝 Like our website? Support us as an independent publisher by tipping , joining our paid community or checking out our accessories brand GAMENOOK ! The Chromatic has been fully unlocked, and it's been done by a wizard called David Walter. David knows he's a wizard; that's why the profile icon for his ShinyGen X account has a pointy hat and a big beard. And what he's done for the Chromatic is pure magic. You can now wirelessly download games to the handheld over WiFi with Shiny Gen installed, storing them to the Tetris Cartridge, the Chromatic's Flash Storage or RAM, or an SD card. Yes, this is real and not some kind of pipe dream. As well as allowing you to play multiplayer online without a link cable and being able to write games to your Tetris Card using USB, you can now download games via WiFi, opening up a whole new set of possibilities and, dare I say it, tipping it over the edge when it comes to being more favourable than the Analogue Pocket Chromatic fully unlocked (read 🧵): 🛜 Wirelessly download games to the @modretro Chromatic over Wifi to the: - chromatic flash storage ‼️ - chromatic RAM - sd card - Tetris cart Install firmware, upload your game, then download from the chromatic. Live demo: — David Walter (Shiny Gen) (@davidpwalter) October 26, 2026 According to David, the Chromatic has a few MB of flash storage that is meant for firmware, but there's some room left for storing games on it. It means ",
+   "repos": [],
+   "firstSeen": "2026-10-27T14:45:45.436Z"
+  },
+  {
+   "title": "Security Researcher Claims Samsung Smart TVs Use AI To Monitor Audio, Screenshots, and Viewing Habits For Targeted Ads",
+   "url": "https://wccftech.com/security-researcher-claims-samsung-smart-tvs-use-ai-to-monitor-audio-screenshots-and-viewing-habits-for-targeted-ads/",
+   "date": "2026-10-27T10:36:08.000Z",
+   "source": "Wccftech",
+   "outlet": "Wccftech",
+   "summary": "A cybersecurity researcher and reverse engineer known as log4j on X has raised serious privacy concerns about Samsung's Smart TVs, claiming to have uncovered extensive user-tracking capabilities within the company's Tizen operating system, including audio monitoring, screenshot analysis, and AI-powered behavioral profiling designed to improve targeted advertising. The investigation began after the",
+   "image": "https://cdn.wccftech.com/wp-content/uploads/2026/10/FI-22-1456x1092.jpg",
+   "text": "Security Researcher Claims Samsung Smart TVs Use AI To Monitor Audio, Screenshots, and Viewing Habits For Targeted Ads A cybersecurity researcher and reverse engineer known as log4j on X has raised serious privacy concerns about Samsung's Smart TVs, claiming to have uncovered extensive user-tracking capabilities within the company's Tizen operating system, including audio monitoring, screenshot analysis, and AI-powered behavioral profiling designed to improve targeted advertising. The investigation began after the researcher noticed unusually personalized advertisements appearing on a Samsung TV purchased in 2025. Attempting to reverse-engineer its firmware proved difficult due to AES encryption, prompting the researcher to exploit previously unknown vulnerabilities to obtain root access to the device. According to Tom's Hardware, the subsequent investigation reportedly uncovered [&hellip;] Read full article at https://wccftech.com/security-researcher-claims-samsung-smart-tvs-use-ai-to-monitor-audio-screenshots-and-viewing-habits-for-targeted-ads/",
+   "repos": [],
+   "firstSeen": "2026-10-27T14:45:45.436Z"
+  },
+  {
+   "title": "Hitman: Contracts VR Performance - First Person / New VR Mod with 6DOF Motion Controls / PCVR",
+   "url": "https://www.youtube.com/watch?v=uFUh52hvxfU",
+   "date": "2026-10-27T09:50:26.000Z",
+   "source": "YouTube: NotAGameAddict",
+   "outlet": "YouTube: NotAGameAddict",
+   "summary": "Hitman: Contracts VR mod made by Andreystashev - https://github.com/andreystashev/hitman-contracts-vr-showcase Hitman: Contracts - https://store.steampowered.com/app/247430/Hitman_Contracts/",
+   "image": "https://i2.ytimg.com/vi/uFUh52hvxfU/hqdefault.jpg",
+   "text": "Hitman: Contracts VR Performance - First Person / New VR Mod with 6DOF Motion Controls / PCVR Hitman: Contracts VR mod made by Andreystashev - https://github.com/andreystashev/hitman-contracts-vr-showcase Hitman: Contracts - https://store.steampowered.com/app/247430/Hitman_Contracts/",
+   "repos": [
+    "github:andreystashev/hitman-contracts-vr-showcase"
+   ],
+   "firstSeen": "2026-10-27T14:45:45.436Z"
+  },
+  {
+   "title": "Among the Sleep VR Mod - 1st / 3rd Person POV, Native Stereo, Head-Tracking, Motion Controlled Hands",
+   "url": "https://www.youtube.com/watch?v=Srr0I0xUv4Q",
+   "date": "2026-10-27T06:40:34.000Z",
+   "source": "YouTube: FastLawyer",
+   "outlet": "YouTube: FastLawyer",
+   "summary": "I bought this game! Among the Sleep - Enhanced Edition can now be played in VR with the latest FREE VR mod from KingEJ. Among the Sleep is a horror adventure game where you play as a small child trapped in a weird nightmare where you go looking for your mom. Played on the Meta Quest 3 using Virtual Desktop on my RTX 5090. You can purchase game on Steam here: https://store.steampowered.com/app/2506",
+   "image": "https://i4.ytimg.com/vi/Srr0I0xUv4Q/hqdefault.jpg",
+   "text": "Among the Sleep VR Mod - 1st / 3rd Person POV, Native Stereo, Head-Tracking, Motion Controlled Hands I bought this game! Among the Sleep - Enhanced Edition can now be played in VR with the latest FREE VR mod from KingEJ. Among the Sleep is a horror adventure game where you play as a small child trapped in a weird nightmare where you go looking for your mom. Played on the Meta Quest 3 using Virtual Desktop on my RTX 5090. You can purchase game on Steam here: https://store.steampowered.com/app/250620/Among_the_Sleep_Enhanced_Edition/ Thank you again King EJ! FREE VR Mod download here: https://github.com/King-EJ/Among-the-Sleep-VR",
+   "repos": [
+    "github:King-EJ/Among-the-Sleep-VR"
+   ],
+   "firstSeen": "2026-10-27T14:45:45.436Z"
+  },
+  {
+   "title": "Goldeneye 007 VR Multiplayer with BOTS!",
+   "url": "https://www.youtube.com/watch?v=oDDO14LEm34",
+   "date": "2026-10-27T03:54:52.000Z",
+   "source": "YouTube: Game Or Die",
+   "outlet": "YouTube: Game Or Die",
+   "summary": "#Goldeneye #VR #PCVR #Gaming #RetroGaming Join me as I playtest my new Goldeneye 007 VR Port!",
+   "image": "https://i4.ytimg.com/vi/oDDO14LEm34/hqdefault.jpg",
+   "text": "Goldeneye 007 VR Multiplayer with BOTS! #Goldeneye #VR #PCVR #Gaming #RetroGaming Join me as I playtest my new Goldeneye 007 VR Port!",
+   "repos": [],
+   "firstSeen": "2026-10-27T14:45:45.436Z"
+  },
+  {
    "title": "The Lost World: Jurassic Park Arcade Gets Unofficial PC Port, Featuring Ray Tracing, New Weather, DLAA, and New Game Modes",
    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOb1NZRUtiV2JEdDdRQXBteTNXMXBMb245LUN2a2JZcVB0N0drUC1weFZXVW56bXY3eDBvRHJHVVE0dHl5NzdpN0FQN0dWTi1FMlBIYThxZXR1eFpZWmVEME81RGprM242czRCVUxaUFQ2cmswbHJZMWs2dzJJdE11YzlFeVQ4NWY0OFgwVzNHRUJQLVFGT09KaFA0X2VTMG9fZy02bGNxRnFXbXJ3VjRTUC1JVFVsUGQzN3JhOFRWQTVQMnN3c2syTU53WlROcFhpVmwteUcweUpGdmNZZ0RHYVhocw?oc=5",
    "date": "2026-10-27T01:19:00.000Z",
@@ -11,6 +115,18 @@
    "text": "The Lost World: Jurassic Park Arcade Gets Unofficial PC Port, Featuring Ray Tracing, New Weather, DLAA, and New Game Modes - DSOGaming The Lost World: Jurassic Park Arcade Gets Unofficial PC Port, Featuring Ray Tracing, New Weather, DLAA, and New Game Modes DSOGaming",
    "repos": [],
    "firstSeen": "2026-10-27T05:17:56.999Z"
+  },
+  {
+   "title": "Panzer Dragoon Saga Recomp Out NOW! Saturn Recomps Are Real",
+   "url": "https://www.youtube.com/watch?v=j8KwDhoNqmM",
+   "date": "2026-10-27T01:00:30.000Z",
+   "source": "YouTube: Video Game Esoterica",
+   "outlet": "YouTube: Video Game Esoterica",
+   "summary": "SUPPORT THE CHANNEL : http://www.patreon.com/VideoGameEsoterica I told you Sega recomps were about to happen and now we have a Panzer Dragoon Saga recomp out now! From the makers of the Saturn emulator Yaba Sanshiro! We have N64 Recomps and N64 PC ports, PS1 recomps and PS1 PC ports and Xbox 360 recomps...so why is Sega left out of the retro gaming recomp party! Well as of today...it's not! We hav",
+   "image": "https://i3.ytimg.com/vi/j8KwDhoNqmM/hqdefault.jpg",
+   "text": "Panzer Dragoon Saga Recomp Out NOW! Saturn Recomps Are Real SUPPORT THE CHANNEL : http://www.patreon.com/VideoGameEsoterica I told you Sega recomps were about to happen and now we have a Panzer Dragoon Saga recomp out now! From the makers of the Saturn emulator Yaba Sanshiro! We have N64 Recomps and N64 PC ports, PS1 recomps and PS1 PC ports and Xbox 360 recomps...so why is Sega left out of the retro gaming recomp party! Well as of today...it's not! We have a beta Initial D Arcade Stage 3 recomp...which makes this a NAOMI 2 recomp NOT a Dreamcast recomp...but considering it's all the same Dreamcast hardware nuclear family that means Dreamcast PC ports are now possible...starting with an Initial D recomp! and now with an experimental Space Channel 5 recomp (which isn't worth playing but as a proof of concept...its quite something! Check it out here: https://www.yabasanshiro.com/pds-recompile Questions? Comments? Just leave them below and I will do my best to answer each and every one of them! http://www.patreon.com/VideoGameEsoterica You can follow us at IG : ChicagoGameCollector , or join our Discord Server : https://discord.gg/6uFNZmHs8",
+   "repos": [],
+   "firstSeen": "2026-10-27T14:45:45.436Z"
   },
   {
    "title": "They FINALLY Did it! - Dead Space 2 VR Mod / Motion Controls / 6Dof / Room Scale",
@@ -25,6 +141,18 @@
     "github:chortdev/DeadSpace2VR"
    ],
    "firstSeen": "2026-10-27T05:17:56.999Z"
+  },
+  {
+   "title": "PS3 Emulation Gets BIG Updates! RPCS3 Hits a Major Milestone",
+   "url": "https://www.youtube.com/watch?v=zvLvt8OdC6I",
+   "date": "2026-10-26T21:00:05.000Z",
+   "source": "YouTube: Video Game Esoterica",
+   "outlet": "YouTube: Video Game Esoterica",
+   "summary": "SUPPORT THE CHANNEL : http://www.patreon.com/VideoGameEsoterica RPCS3 just hit a milestone with 80% of the PS3 library being able to be emulated...along with new PS3 games emulating and speed improvements! PS3 emulation cannot be stopped! RPCS3 just got a major update and now over 75% of the PS3 library can be emulated in June and now there is a big RPCS3 update to improve MORE games in October! H",
+   "image": "https://i3.ytimg.com/vi/zvLvt8OdC6I/hqdefault.jpg",
+   "text": "PS3 Emulation Gets BIG Updates! RPCS3 Hits a Major Milestone SUPPORT THE CHANNEL : http://www.patreon.com/VideoGameEsoterica RPCS3 just hit a milestone with 80% of the PS3 library being able to be emulated...along with new PS3 games emulating and speed improvements! PS3 emulation cannot be stopped! RPCS3 just got a major update and now over 75% of the PS3 library can be emulated in June and now there is a big RPCS3 update to improve MORE games in October! How time flies! Sure its not a PS3 recomp video...but retro gaming emulation is my true love too! and if you want to know how to emulate PS3 or need an RPCS3 guide / RPCS3 tutorial...check the playlists! or for Best RPCS3 Settings Questions? Comments? Just leave them below and I will do my best to answer each and every one of them! http://www.patreon.com/VideoGameEsoterica You can follow us at IG : ChicagoGameCollector , or join our Discord Server : https://discord.gg/7FmPAb2gnd VGE",
+   "repos": [],
+   "firstSeen": "2026-10-27T14:45:45.436Z"
   },
   {
    "title": "Diablo II is a VR First Person Game Now",
@@ -221,6 +349,18 @@
    "text": "Legendary PC Game Diablo Has Been Ported To The Game Boy Advance 🤝 Like our website? Support us as an independent publisher by tipping , joining our paid community or checking out our accessories brand GAMENOOK ! Get ready to feel a bit old; Diablo has been out for 30 years. I know, I don't like being the bearer of bad news, but there it is. It released 30 years ago on December 31st, 1996. I don't know whether we knew how much of an influential game it would be back then (I was six and thinking about Power Rangers, so I certainly didn't), but it's one of the most important PC games of our generation and one that, over the years, the Dodo team have spent far too much time on. The GBA released 25 years ago. 2001 seems like such a long time ago (to be fair, it is). I loved my GBA with a passion, and my modded GBA SP with our old Retro Dodo logo is still going strong in my office. And now it has a new game thanks to an unofficial fan port bringing the PC classic to Ninty's iconic handheld. Although I'd recommend using the GBA SP AGS-101 so you don't have to mess around with that stupid wormlight - I hate that thing with a passion! Credit: Bangoo With a tagline of 'hell fits in your pocket', this complete Diablo 1 remake for the GBA promises all of the action of the PC game with 4-player co-op, 16 floors, and 3 classes to pick from. Character sheets, quick spell slots, quest logs, and menus have all been reworked to fit on the GBA. The graphics don't look too dissimilar, too; ok,",
    "repos": [],
    "firstSeen": "2026-10-26T15:18:29.150Z"
+  },
+  {
+   "title": "'I Hope This Wonderful Game Lives On Forever' - Panzer Dragoon Saga Gets PC 'Recomp' from the Dev Behind Yaba Sanshiro",
+   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQZ3c0Q3BHWkc4d2QxbmkwX1oyaldaUlJtWTA5NlZLZWFXM25mcklmUU13b0VURjJIaUlBV2M4NjJJeU5lbGNnbkFSWHRYc3BoU2lkUDRRbUhXejB6aTM0SE5IMWF6d1ZCbm9KNlVGeDdOVnA0WFVoejcyTWtlQ3hhS2FpOWFYQ0ZReUU0TXRrajRDTXJsdEhZaWU5ZUNqanhTM25BN2c3S0E5MG9CUHBUWDF5ZGlzUlREamJSV0xkcFBLcUZOM1FyNk1IblVFaVJUNGttbU5VSXExb2RPM3V5VjROVVBJS25DajNJ?oc=5",
+   "date": "2026-10-26T10:28:35.000Z",
+   "source": "Google News",
+   "outlet": "Time Extension",
+   "summary": "",
+   "image": null,
+   "text": "'I Hope This Wonderful Game Lives On Forever' - Panzer Dragoon Saga Gets PC 'Recomp' from the Dev Behind Yaba Sanshiro - Time Extension 'I Hope This Wonderful Game Lives On Forever' - Panzer Dragoon Saga Gets PC 'Recomp' from the Dev Behind Yaba Sanshiro Time Extension",
+   "repos": [],
+   "firstSeen": "2026-10-27T14:45:45.436Z"
   },
   {
    "title": "'I Hope This Wonderful Game Lives On Forever' - Panzer Dragoon Saga Gets PC 'Recomp' from the Dev Behind Yaba Sanshiro",
@@ -650,14 +790,14 @@
    "firstSeen": "2026-10-25T15:56:57.670Z"
   },
   {
-   "title": "Balatro in VR - Mod now available!",
+   "title": "Balatro in VR: Mod Release!",
    "url": "https://www.youtube.com/watch?v=jdWvll1mY_0",
    "date": "2026-10-24T17:00:33.000Z",
    "source": "YouTube: Under The VRadar",
    "outlet": "YouTube: Under The VRadar",
    "summary": "One and a half years after my Proof of Concept Video of \"How Balatro in VR would look like\" i finally was able to create something shareable. Its a fully working Mod to play Balatro in VR using Lovely and Steamodded GET THE MOD HERE: https://github.com/alextreumer/BalatroVRMod Its a PCVR Mod, but a Beta Tester was able to run it nativley on SteamFrame, there is the Source Code and Godot Project on",
    "image": "https://i3.ytimg.com/vi/jdWvll1mY_0/hqdefault.jpg",
-   "text": "Balatro in VR - Mod now available! One and a half years after my Proof of Concept Video of \"How Balatro in VR would look like\" i finally was able to create something shareable. Its a fully working Mod to play Balatro in VR using Lovely and Steamodded GET THE MOD HERE: https://github.com/alextreumer/BalatroVRMod Its a PCVR Mod, but a Beta Tester was able to run it nativley on SteamFrame, there is the Source Code and Godot Project on Github to compile it to ARM. For Passthrough and Hand Interaction Virtual Deskop is needed! Theme Music used from Luke Pickman: ♠ Balatro Theme -- https://www.youtube.com/watch?v=Kx0jTGd7urs 🎵 Cover by Luke Pickman -- https://www.youtube.com/InstrumentManiac And Yes, its made with the Help of Claude, my old self made UnityProject had hard coded Scripts right within Balatro.exe, without the help of Claude for the Bridge this project simply wouldn't be possible.",
+   "text": "Balatro in VR: Mod Release! One and a half years after my Proof of Concept Video of \"How Balatro in VR would look like\" i finally was able to create something shareable. Its a fully working Mod to play Balatro in VR using Lovely and Steamodded GET THE MOD HERE: https://github.com/alextreumer/BalatroVRMod Its a PCVR Mod, but a Beta Tester was able to run it nativley on SteamFrame, there is the Source Code and Godot Project on Github to compile it to ARM. For Passthrough and Hand Interaction Virtual Deskop is needed! Theme Music used from Luke Pickman: ♠ Balatro Theme -- https://www.youtube.com/watch?v=Kx0jTGd7urs 🎵 Cover by Luke Pickman -- https://www.youtube.com/InstrumentManiac And Yes, its made with the Help of Claude, my old self made UnityProject had hard coded Scripts right within Balatro.exe, without the help of Claude for the Bridge this project simply wouldn't be possible.",
    "repos": [
     "github:alextreumer/BalatroVRMod"
    ],
@@ -1062,14 +1202,14 @@
    "firstSeen": "2026-10-23T22:25:39.434Z"
   },
   {
-   "title": "Spider-Man Miles Morales VR is out! (Alpha)",
+   "title": "Spider-Man Miles Morales VR is out (Alpha)",
    "url": "https://www.youtube.com/watch?v=3QjIXODB1LM",
    "date": "2026-10-23T14:51:29.000Z",
    "source": "YouTube: LunchAndVR",
    "outlet": "YouTube: LunchAndVR",
    "summary": "The Spider-Man Miles Morales VR Mod is released in a very early alpha build, I tested it. It works, but it needs a lot more work before I would consider it ready to play. Swinging feels very rudimentary, doesn't really feel like real web physics unlike Blade & Sorcery or Spider Lair. However, it is pretty cool to be in the Spider-Man games in VR. Give it more time to cook. To get the Spider-Verse ",
    "image": "https://i4.ytimg.com/vi/3QjIXODB1LM/hqdefault.jpg",
-   "text": "Spider-Man Miles Morales VR is out! (Alpha) The Spider-Man Miles Morales VR Mod is released in a very early alpha build, I tested it. It works, but it needs a lot more work before I would consider it ready to play. Swinging feels very rudimentary, doesn't really feel like real web physics unlike Blade & Sorcery or Spider Lair. However, it is pretty cool to be in the Spider-Man games in VR. Give it more time to cook. To get the Spider-Verse look, in game, select the Spider-Verse suit, and the two suit effects related to Spider-Verse to get the full look. Miles Morales Mod here by howejamie5: https://github.com/howesjamie5-code/MilesVR Played on Quest 3, Virtual Desktop Ultra 90hz PC: 4090 13900K Music: Spiderverse Soundalike Music (Royalty Free) by Kara Lewis _ Thanks for coming! Appreciate you dropping by here, you're a cool person. If you want to stay around, I do all things VR & gaming related. (lunch included) Lunch's Discounts/affiliates here: https://linktr.ee/lunchandvr On this LunchAndVR YouTube Channel you'll always find the latest VR gameplay, PCVR mods, and honest virtual reality hardware reviews across the best headsets like the Meta Quest 3, Meta Quest 3S, Pimax Crystal Super, Steam Frame, and PSVR2. We dive deep into flat-to-VR modding using Praydog's UEVR injector, OpenXR, and custom 6DOF conversions for massive games like Spider-Man Miles Morales VR, Cyberpunk 2077 VR, Titanfall 2 VR, Bodycam VR, DOOM VR, Gunman Contracts, Resident Evil, Mount & Blade II: Banne",
+   "text": "Spider-Man Miles Morales VR is out (Alpha) The Spider-Man Miles Morales VR Mod is released in a very early alpha build, I tested it. It works, but it needs a lot more work before I would consider it ready to play. Swinging feels very rudimentary, doesn't really feel like real web physics unlike Blade & Sorcery or Spider Lair. However, it is pretty cool to be in the Spider-Man games in VR. Give it more time to cook. To get the Spider-Verse look, in game, select the Spider-Verse suit, and the two suit effects related to Spider-Verse to get the full look. Miles Morales Mod here by howejamie5: https://github.com/howesjamie5-code/MilesVR Played on Quest 3, Virtual Desktop Ultra 90hz PC: 4090 13900K Music: Spiderverse Soundalike Music (Royalty Free) by Kara Lewis _ Thanks for coming! Appreciate you dropping by here, you're a cool person. If you want to stay around, I do all things VR & gaming related. (lunch included) Lunch's Discounts/affiliates here: https://linktr.ee/lunchandvr On this LunchAndVR YouTube Channel you'll always find the latest VR gameplay, PCVR mods, and honest virtual reality hardware reviews across the best headsets like the Meta Quest 3, Meta Quest 3S, Pimax Crystal Super, Steam Frame, and PSVR2. We dive deep into flat-to-VR modding using Praydog's UEVR injector, OpenXR, and custom 6DOF conversions for massive games like Spider-Man Miles Morales VR, Cyberpunk 2077 VR, Titanfall 2 VR, Bodycam VR, DOOM VR, Gunman Contracts, Resident Evil, Mount & Blade II: Banner",
    "repos": [
     "github:howesjamie5-code/MilesVR"
    ],
@@ -2650,14 +2790,14 @@
    "firstSeen": "2026-10-25T15:36:27.479Z"
   },
   {
-   "title": "A Massive Decompilation Community Is Shutting Down, Thanks to the Deluge of AI Decomps and Ports",
+   "title": "Decomp.dev, a Massive Decompilation Community, Is Shutting Down After the Deluge of AI Game Decomps and Ports",
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTHdHU2ExcWNTZG41djhLYXhPQWxGUHk2cUlOOUU2c3BpTTBMdjE3RGpRdlJBbTMwNDdtN01IeTJwUGhlNXJjZzVHSWtnZExnNTFMb2pncUEyMW5pbHZ3VF9uUi1MbUdKNWROWGxqZ1QzcDFFTG1vSVJVRkM4eGVzNVhnckV0cW81VGQ0SkVOZUxOTTJIZnVBc2dseTMzWWc4WXBURDRYV1poVWxaemptZUFTWnBhMnJGOGtQVHM1VE1tQQ?oc=5",
    "date": "2026-10-15T07:00:00.000Z",
    "source": "Google News",
    "outlet": "IGN",
    "summary": "",
    "image": null,
-   "text": "A Massive Decompilation Community Is Shutting Down, Thanks to the Deluge of AI Decomps and Ports - IGN A Massive Decompilation Community Is Shutting Down, Thanks to the Deluge of AI Decomps and Ports IGN",
+   "text": "Decomp.dev, a Massive Decompilation Community, Is Shutting Down After the Deluge of AI Game Decomps and Ports - IGN Decomp.dev, a Massive Decompilation Community, Is Shutting Down After the Deluge of AI Game Decomps and Ports IGN",
    "repos": [],
    "firstSeen": "2026-10-23T22:25:39.434Z"
   },
@@ -3664,6 +3804,18 @@
    "text": "Zelda and Banjo PC port devs slam new vibe-coded Banjo-Tooie recompilation: \"Throwing AI at it is just disrespectful\" - GamesRadar+ Zelda and Banjo PC port devs slam new vibe-coded Banjo-Tooie recompilation: \"Throwing AI at it is just disrespectful\" GamesRadar+",
    "repos": [],
    "firstSeen": "2026-10-23T22:31:18.891Z"
+  },
+  {
+   "title": "Zelda and Banjo Recompiled dev slams the slew of poor-quality “slopcomps” recompilations by vibecoders that “completely fail to reach the same level of quality”",
+   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxObkNDckRxcVU3ZzhjblBJdDlEQ1RnWEl1Z0FWUHdpRGVkZDRpeFdJUzJybndwXzlGTC1iR0VPZVlmYlgtNGE3LXZUeXhaMGVmenNYY0FVM2NWZGpITUV6Mm04TmVua2p1QmlZM2poV0p4dnJSaVpFLWRqcU1RZnIyMWxMbFNGY3lwYlJudVFpRHN6MXd4akx6YXR1RFVLSUNZSVZZWDBWbGI4OGl4RzhuNFpGZmNFaWFMVlRES3lYV2NPQzdaLWgyTTJieUdXZ1hqeVV4cEsxTUlJVVAta3JsSXB3UUVLaU1laUFNdjF3?oc=5",
+   "date": "2026-10-02T07:00:00.000Z",
+   "source": "Google News",
+   "outlet": "FRVR",
+   "summary": "",
+   "image": null,
+   "text": "Zelda and Banjo Recompiled dev slams the slew of poor-quality “slopcomps” recompilations by vibecoders that “completely fail to reach the same level of quality” - FRVR Zelda and Banjo Recompiled dev slams the slew of poor-quality “slopcomps” recompilations by vibecoders that “completely fail to reach the same level of quality” FRVR",
+   "repos": [],
+   "firstSeen": "2026-10-27T14:45:45.436Z"
   },
   {
    "title": "DOOM Eternal VR Is Here... Mods Have Changed VR Forever!",
