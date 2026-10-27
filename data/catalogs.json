@@ -1,7 +1,50 @@
 {
  "questports": {
-  "updatedAt": "2026-10-26T15:18:29.150Z",
+  "updatedAt": "2026-10-27T05:17:56.999Z",
   "projects": [
+   {
+    "id": "f1nal-b0ss/18-wheeler-decomp",
+    "aliases": [
+     "questports:18-wheeler-vr"
+    ],
+    "name": "18 Wheeler: American Pro Trucker VR",
+    "game": "18 Wheeler: American Pro Trucker",
+    "categories": [
+     "VR Ports"
+    ],
+    "type": "emulator",
+    "tags": [
+     "VR"
+    ],
+    "repo": {
+     "host": "github",
+     "path": "f1nal-b0ss/18-wheeler-decomp"
+    },
+    "description": "Sega AM2's 2001 Dreamcast arcade trucker 18 Wheeler: American Pro Trucker in standalone 6DoF VR on Meta Quest, built on the hotd2-vr Flycast OpenXR engine: sit in a 3D big-rig cab, steer with the stick or a virtual wheel, pull the air horn by raising your hand, and feel diesel, gear-shift and crash haptics. Bring your own USA disc.",
+    "developer": "f1nal-b0ss",
+    "status": "Playable beta",
+    "targets": [
+     "Quest 2",
+     "Quest Pro",
+     "Quest 3",
+     "Quest 3S"
+    ],
+    "download": {
+     "label": "Download v0.1.0",
+     "url": "https://github.com/f1nal-b0ss/18-wheeler-decomp/releases/download/v0.1.0/18wheeler-vr.apk"
+    },
+    "catalogVersion": "v0.1.0",
+    "links": [
+     {
+      "label": "QuestPorts",
+      "url": "https://questports.vercel.app/ports/18-wheeler-vr"
+     }
+    ],
+    "image": "https://questports-media.questports.workers.dev/covers/18-wheeler-vr.png?v=4",
+    "sources": [
+     "questports"
+    ]
+   },
    {
     "id": "curif/ageofjoy-2022.1",
     "aliases": [
@@ -38,7 +81,7 @@
       "url": "https://questports.vercel.app/ports/age-of-joy"
      }
     ],
-    "image": "https://questports-media.questports.workers.dev/covers/age-of-joy.png?v=3",
+    "image": "https://questports-media.questports.workers.dev/covers/age-of-joy.png?v=4",
     "sources": [
      "questports"
     ]
@@ -78,7 +121,7 @@
       "url": "https://questports.vercel.app/ports/avp-vr"
      }
     ],
-    "image": "https://questports-media.questports.workers.dev/covers/avp_vr.jpg?v=3",
+    "image": "https://questports-media.questports.workers.dev/covers/avp_vr.jpg?v=4",
     "sources": [
      "questports"
     ]
@@ -118,7 +161,48 @@
       "url": "https://questports.vercel.app/ports/animal-crossing-vr"
      }
     ],
-    "image": "https://questports-media.questports.workers.dev/covers/animal-crossing-vr.png?v=3",
+    "image": "https://questports-media.questports.workers.dev/covers/animal-crossing-vr.png?v=4",
+    "sources": [
+     "questports"
+    ]
+   },
+   {
+    "id": "cmpayc/arxlibertatisvr",
+    "aliases": [
+     "questports:arx-libertatis-vr"
+    ],
+    "name": "Arx Libertatis VR (Arx Fatalis)",
+    "game": "Arx Fatalis",
+    "categories": [
+     "VR Ports"
+    ],
+    "type": "source-port",
+    "tags": [
+     "VR"
+    ],
+    "repo": {
+     "host": "github",
+     "path": "cmpayc/ArxLibertatisVR"
+    },
+    "description": "Arkane's 2002 PC RPG Arx Fatalis in full VR, built on the open-source Arx Libertatis, with an experimental native Quest 3 build: full body, real sword swings, physical shield blocks, a hand-drawn bow, runes drawn in the air to cast spells, and eating or paying with your hands. Bring your own game data.",
+    "developer": "cmpayc",
+    "status": "Playable beta",
+    "targets": [
+     "Quest 3",
+     "Quest 3S"
+    ],
+    "download": {
+     "label": "Download vr-v0.2.1",
+     "url": "https://github.com/cmpayc/ArxLibertatisVR/releases/download/vr-v0.2.1/ArxLibertatisVR-0.2.1-android-arm64.apk"
+    },
+    "catalogVersion": "vr-v0.2.1",
+    "links": [
+     {
+      "label": "QuestPorts",
+      "url": "https://questports.vercel.app/ports/arx-libertatis-vr"
+     }
+    ],
+    "image": "https://questports-media.questports.workers.dev/covers/arx-libertatis-vr.png?v=4",
     "sources": [
      "questports"
     ]
@@ -151,7 +235,7 @@
     ],
     "download": {
      "label": "Download v0.23",
-     "url": "https://github.com/bigmak94/AstroQuest/releases/download/v0.22/AstroQuest-0.22-Quest3.apk"
+     "url": "https://github.com/bigmak94/AstroQuest/releases/download/v0.23/AstroQuest-0.23-Quest3.apk"
     },
     "catalogVersion": "v0.23",
     "links": [
@@ -160,7 +244,7 @@
       "url": "https://questports.vercel.app/ports/astroquest"
      }
     ],
-    "image": "https://questports-media.questports.workers.dev/covers/astroquest.jpg?v=3",
+    "image": "https://questports-media.questports.workers.dev/covers/astroquest.jpg?v=4",
     "sources": [
      "questports"
     ]
@@ -200,7 +284,47 @@
       "url": "https://questports.vercel.app/ports/beefraiderxr"
      }
     ],
-    "image": "https://questports-media.questports.workers.dev/covers/beefraiderxr.jpg?v=3",
+    "image": "https://questports-media.questports.workers.dev/covers/beefraiderxr.jpg?v=4",
+    "sources": [
+     "questports"
+    ]
+   },
+   {
+    "id": "vistalargagames/bomberman-hero-quest-3-vr-standalone",
+    "aliases": [
+     "questports:bomberman-hero-vr"
+    ],
+    "name": "Bomberman Hero VR",
+    "game": "Bomberman Hero",
+    "categories": [
+     "VR Ports"
+    ],
+    "type": "port",
+    "tags": [
+     "VR"
+    ],
+    "repo": {
+     "host": "github",
+     "path": "VistaLargaGames/Bomberman-Hero-Quest-3-VR-Standalone"
+    },
+    "description": "Hudson Soft's 1998 N64 platformer Bomberman Hero running natively on Meta Quest 3 as a standalone port of the PC recompilation (Bomberman Hero: Recompiled + N64Recomp + RT64): head-tracked stereo 3D and a switchable first-person view. Pick your own NA v1.0 ROM in the app.",
+    "developer": "VistaLargaGames",
+    "status": "Playable beta",
+    "targets": [
+     "Quest 3"
+    ],
+    "download": {
+     "label": "Download n64 (APK 0.8.5)",
+     "url": "https://github.com/VistaLargaGames/Bomberman-Hero-Quest-3-VR-Standalone/releases/download/n64/BombermanHeroQuest3.apk"
+    },
+    "catalogVersion": "n64 (APK 0.8.5)",
+    "links": [
+     {
+      "label": "QuestPorts",
+      "url": "https://questports.vercel.app/ports/bomberman-hero-vr"
+     }
+    ],
+    "image": "https://questports-media.questports.workers.dev/covers/bomberman-hero-vr.png?v=4",
     "sources": [
      "questports"
     ]
@@ -240,7 +364,7 @@
       "url": "https://questports.vercel.app/ports/citravr"
      }
     ],
-    "image": "https://questports-media.questports.workers.dev/covers/citravr.jpg?v=3",
+    "image": "https://questports-media.questports.workers.dev/covers/citravr.jpg?v=4",
     "sources": [
      "questports"
     ]
@@ -280,7 +404,7 @@
       "url": "https://questports.vercel.app/ports/crazy-taxi-vr"
      }
     ],
-    "image": "https://questports-media.questports.workers.dev/covers/crazy-taxi-vr.png?v=3",
+    "image": "https://questports-media.questports.workers.dev/covers/crazy-taxi-vr.png?v=4",
     "sources": [
      "questports"
     ]
@@ -310,17 +434,17 @@
      "Quest 3"
     ],
     "download": {
-     "label": "Download v0.1.4",
-     "url": "https://github.com/DR-89/crisis-zone-vr/releases/download/v0.1.4/CrisisZoneVR-v0.1.4-quest3.apk"
+     "label": "Download v0.1.7",
+     "url": "https://github.com/DR-89/crisis-zone-vr/releases/download/v0.1.7/CrisisZoneVR-v0.1.7-quest3.apk"
     },
-    "catalogVersion": "v0.1.4",
+    "catalogVersion": "v0.1.7",
     "links": [
      {
       "label": "QuestPorts",
       "url": "https://questports.vercel.app/ports/crisis-zone-vr"
      }
     ],
-    "image": "https://questports-media.questports.workers.dev/covers/crisis-zone-vr.png?v=3",
+    "image": "https://questports-media.questports.workers.dev/covers/crisis-zone-vr.png?v=4",
     "sources": [
      "questports"
     ]
@@ -360,7 +484,87 @@
       "url": "https://questports.vercel.app/ports/csvr"
      }
     ],
-    "image": "https://questports-media.questports.workers.dev/covers/csvr.jpg?v=3",
+    "image": "https://questports-media.questports.workers.dev/covers/csvr.jpg?v=4",
+    "sources": [
+     "questports"
+    ]
+   },
+   {
+    "id": "sgtbilko76/ctr-turbocharged-vr",
+    "aliases": [
+     "questports:ctr-turbocharged-vr"
+    ],
+    "name": "CTR Turbocharged VR (Crash Team Racing)",
+    "game": "Crash Team Racing",
+    "categories": [
+     "VR Ports"
+    ],
+    "type": "port",
+    "tags": [
+     "VR"
+    ],
+    "repo": {
+     "host": "github",
+     "path": "SgtBilko76/CTR-Turbocharged-VR"
+    },
+    "description": "Naughty Dog's 1999 PlayStation kart racer Crash Team Racing running natively on Meta Quest, built on the CTR: Turbocharged source port (based on the ctr-native decompilation) with a GLES renderer and an OpenXR layer: races and the Adventure hub in real stereo 3D around you with head tracking, menus on a large virtual screen. Bring your own NTSC-U disc.",
+    "developer": "SgtBilko76",
+    "status": "Playable beta",
+    "targets": [
+     "Quest 3"
+    ],
+    "download": {
+     "label": "Download v0.1.0",
+     "url": "https://github.com/SgtBilko76/CTR-Turbocharged-VR/releases/download/v0.1.0/CTR-Turbocharged-VR-v0.1.0.apk"
+    },
+    "catalogVersion": "v0.1.0",
+    "links": [
+     {
+      "label": "QuestPorts",
+      "url": "https://questports.vercel.app/ports/ctr-turbocharged-vr"
+     }
+    ],
+    "image": "https://questports-media.questports.workers.dev/covers/ctr-turbocharged-vr.png?v=4",
+    "sources": [
+     "questports"
+    ]
+   },
+   {
+    "id": "gameordie007/descent-1-and-2-vr",
+    "aliases": [
+     "questports:descent-1-2-vr"
+    ],
+    "name": "Descent 1 & 2 VR",
+    "game": "Descent 1 & 2",
+    "categories": [
+     "VR Ports"
+    ],
+    "type": "source-port",
+    "tags": [
+     "VR"
+    ],
+    "repo": {
+     "host": "github",
+     "path": "GameOrDie007/Descent-1-and-2-VR"
+    },
+    "description": "Parallax's Descent and Descent II in VR, standalone on Meta Quest 3, built on the DXX-Redux source port: full stereo 6DoF flight with head or controller aiming, Modern 3D or Classic cockpits, head steering, motion flying, World size scaling and the game's manual as a book in your hand. Bring your own PC copies.",
+    "developer": "Game Or Die (GameOrDie007)",
+    "status": "Playable beta",
+    "targets": [
+     "Quest 3"
+    ],
+    "download": {
+     "label": "Download v1.2.1",
+     "url": "https://github.com/GameOrDie007/Descent-1-and-2-VR/releases/download/v1.2.1/Descent-1-and-2-VR-1.2.1-Quest.zip"
+    },
+    "catalogVersion": "v1.2.1",
+    "links": [
+     {
+      "label": "QuestPorts",
+      "url": "https://questports.vercel.app/ports/descent-1-2-vr"
+     }
+    ],
+    "image": "https://questports-media.questports.workers.dev/covers/descent-1-2-vr.jpg?v=4",
     "sources": [
      "questports"
     ]
@@ -400,7 +604,7 @@
       "url": "https://questports.vercel.app/ports/descent-3-vr"
      }
     ],
-    "image": "https://questports-media.questports.workers.dev/covers/descent-3-vr.jpg?v=3",
+    "image": "https://questports-media.questports.workers.dev/covers/descent-3-vr.jpg?v=4",
     "sources": [
      "questports"
     ]
@@ -443,7 +647,7 @@
       "url": "https://questports.vercel.app/ports/dolphinxr"
      }
     ],
-    "image": "https://questports-media.questports.workers.dev/covers/dolphinxr.png?v=3",
+    "image": "https://questports-media.questports.workers.dev/covers/dolphinxr.png?v=4",
     "sources": [
      "questports"
     ]
@@ -483,7 +687,7 @@
       "url": "https://questports.vercel.app/ports/doom3quest"
      }
     ],
-    "image": "https://questports-media.questports.workers.dev/covers/doom3quest.jpg?v=3",
+    "image": "https://questports-media.questports.workers.dev/covers/doom3quest.jpg?v=4",
     "sources": [
      "questports"
     ]
@@ -523,7 +727,7 @@
       "url": "https://questports.vercel.app/ports/f-zero-x-vr"
      }
     ],
-    "image": "https://questports-media.questports.workers.dev/covers/f-zero-x-vr.jpg?v=3",
+    "image": "https://questports-media.questports.workers.dev/covers/f-zero-x-vr.jpg?v=4",
     "sources": [
      "questports"
     ]
@@ -566,7 +770,7 @@
       "url": "https://questports.vercel.app/ports/galaxyquest"
      }
     ],
-    "image": "https://questports-media.questports.workers.dev/covers/galaxyquest.jpg?v=3",
+    "image": "https://questports-media.questports.workers.dev/covers/galaxyquest.jpg?v=4",
     "sources": [
      "questports"
     ]
@@ -606,7 +810,7 @@
       "url": "https://questports.vercel.app/ports/generals-zero-hour-xr"
      }
     ],
-    "image": "https://questports-media.questports.workers.dev/covers/generals-zero-hour-xr.png?v=3",
+    "image": "https://questports-media.questports.workers.dev/covers/generals-zero-hour-xr.png?v=4",
     "sources": [
      "questports"
     ]
@@ -640,7 +844,7 @@
     ],
     "download": {
      "label": "Download v0.5.13",
-     "url": "https://github.com/MrSco/goldeneye-vr/releases/download/v0.5.10/GoldenEye-VR-v0.5.10.apk"
+     "url": "https://github.com/MrSco/goldeneye-vr/releases/download/v0.5.13/GoldenEye-VR-v0.5.13.apk"
     },
     "catalogVersion": "v0.5.13",
     "links": [
@@ -649,7 +853,7 @@
       "url": "https://questports.vercel.app/ports/goldeneye-vr"
      }
     ],
-    "image": "https://questports-media.questports.workers.dev/covers/goldeneye-vr.jpg?v=3",
+    "image": "https://questports-media.questports.workers.dev/covers/goldeneye-vr.jpg?v=4",
     "sources": [
      "questports"
     ]
@@ -691,7 +895,7 @@
       "url": "https://questports.vercel.app/ports/gothic2-vr"
      }
     ],
-    "image": "https://questports-media.questports.workers.dev/covers/gothic2_vr.jpg?v=3",
+    "image": "https://questports-media.questports.workers.dev/covers/gothic2_vr.jpg?v=4",
     "sources": [
      "questports"
     ]
@@ -733,7 +937,7 @@
       "url": "https://questports.vercel.app/ports/gran-turismo-2-vr"
      }
     ],
-    "image": "https://questports-media.questports.workers.dev/covers/gran_turismo_2_vr.jpg?v=3",
+    "image": "https://questports-media.questports.workers.dev/covers/gran_turismo_2_vr.jpg?v=4",
     "sources": [
      "questports"
     ]
@@ -773,7 +977,7 @@
       "url": "https://questports.vercel.app/ports/gta-sa-vr-quest"
      }
     ],
-    "image": "https://questports-media.questports.workers.dev/covers/gtasa_vr.jpg?v=3",
+    "image": "https://questports-media.questports.workers.dev/covers/gtasa_vr.jpg?v=4",
     "sources": [
      "questports"
     ]
@@ -813,7 +1017,7 @@
       "url": "https://questports.vercel.app/ports/vice-city-vr-quest"
      }
     ],
-    "image": "https://questports-media.questports.workers.dev/covers/vicecity_vr.jpg?v=3",
+    "image": "https://questports-media.questports.workers.dev/covers/vicecity_vr.jpg?v=4",
     "sources": [
      "questports"
     ]
@@ -853,7 +1057,7 @@
       "url": "https://questports.vercel.app/ports/halocequest"
      }
     ],
-    "image": "https://questports-media.questports.workers.dev/covers/halocequest.jpg?v=3",
+    "image": "https://questports-media.questports.workers.dev/covers/halocequest.jpg?v=4",
     "sources": [
      "questports"
     ]
@@ -895,7 +1099,7 @@
       "url": "https://questports.vercel.app/ports/harry-potter-vr"
      }
     ],
-    "image": "https://questports-media.questports.workers.dev/covers/harry_potter_vr.jpg?v=3",
+    "image": "https://questports-media.questports.workers.dev/covers/harry_potter_vr.jpg?v=4",
     "sources": [
      "questports"
     ]
@@ -935,7 +1139,7 @@
       "url": "https://questports.vercel.app/ports/homeworld-unbound"
      }
     ],
-    "image": "https://questports-media.questports.workers.dev/covers/homeworld-unbound.jpg?v=3",
+    "image": "https://questports-media.questports.workers.dev/covers/homeworld-unbound.jpg?v=4",
     "sources": [
      "questports"
     ]
@@ -976,7 +1180,7 @@
       "url": "https://questports.vercel.app/ports/iron-lung-vr"
      }
     ],
-    "image": "https://questports-media.questports.workers.dev/covers/iron_lung_vr.jpg?v=3",
+    "image": "https://questports-media.questports.workers.dev/covers/iron_lung_vr.jpg?v=4",
     "sources": [
      "questports"
     ]
@@ -1016,7 +1220,7 @@
       "url": "https://questports.vercel.app/ports/lambda1vr"
      }
     ],
-    "image": "https://questports-media.questports.workers.dev/covers/lambda1vr.jpg?v=3",
+    "image": "https://questports-media.questports.workers.dev/covers/lambda1vr.jpg?v=4",
     "sources": [
      "questports"
     ]
@@ -1057,7 +1261,7 @@
       "url": "https://questports.vercel.app/ports/magic-carpet-vr"
      }
     ],
-    "image": "https://questports-media.questports.workers.dev/covers/magic-carpet-vr.jpg?v=3",
+    "image": "https://questports-media.questports.workers.dev/covers/magic-carpet-vr.jpg?v=4",
     "sources": [
      "questports"
     ]
@@ -1097,7 +1301,134 @@
       "url": "https://questports.vercel.app/ports/majoras-mask-vr"
      }
     ],
-    "image": "https://questports-media.questports.workers.dev/covers/majoras-mask-vr.png?v=3",
+    "image": "https://questports-media.questports.workers.dev/covers/majoras-mask-vr.png?v=4",
+    "sources": [
+     "questports"
+    ]
+   },
+   {
+    "id": "zeranemesis/marioparty4",
+    "aliases": [
+     "questports:mario-party-4-partyboard"
+    ],
+    "name": "Mario Party 4 PartyBoard (Mario Party 4 MR)",
+    "game": "Mario Party 4 MR",
+    "categories": [
+     "VR Ports"
+    ],
+    "type": "port",
+    "tags": [
+     "VR"
+    ],
+    "repo": {
+     "host": "github",
+     "path": "zeranemesis/Marioparty4"
+    },
+    "description": "Nintendo and Hudson's 2002 GameCube party game Mario Party 4 as a native mixed reality port on Meta Quest, built on the game's decompilation (not an emulator): the boards stand on your real table as an experimental stereo 3D diorama, anchored to your room scan, played with the Touch controllers. Bring your own USA or European disc.",
+    "developer": "zeranemesis (PartyBoard)",
+    "status": "Playable beta",
+    "targets": [
+     "Quest 3",
+     "Quest 3S",
+     "Quest 2",
+     "Quest Pro"
+    ],
+    "download": {
+     "label": "Download v0.20.0",
+     "url": "https://github.com/zeranemesis/Marioparty4/releases/download/v0.20.0/PartyBoard-v0.20.0-quest-arm64-v8a.apk"
+    },
+    "catalogVersion": "v0.20.0",
+    "links": [
+     {
+      "label": "QuestPorts",
+      "url": "https://questports.vercel.app/ports/mario-party-4-partyboard"
+     }
+    ],
+    "image": "https://questports-media.questports.workers.dev/covers/mario-party-4-partyboard.png?v=4",
+    "sources": [
+     "questports"
+    ]
+   },
+   {
+    "id": "questports:max-payne-vr",
+    "aliases": [
+     "questports:max-payne-vr"
+    ],
+    "name": "Max Payne VR: Nightmare Edition",
+    "game": "Max Payne : Nightmare Edition",
+    "categories": [
+     "VR Ports"
+    ],
+    "type": "wrapper",
+    "tags": [
+     "VR"
+    ],
+    "repo": null,
+    "description": "Remedy's 2001 PC classic Max Payne in first-person standalone VR on Meta Quest, built as a VR wrapper around Rockstar's Max Payne Mobile 1.7 (64-bit): 6DoF motion controls, dual-wielding, Bullet Time, body holsters, physical melee and bare-hand punches, with optional hand tracking. Bring your own Max Payne Mobile 1.7 APK and OBB.",
+    "developer": "HaveliSkywalker",
+    "status": "Playable beta",
+    "targets": [
+     "Quest 2",
+     "Quest Pro",
+     "Quest 3",
+     "Quest 3S"
+    ],
+    "download": null,
+    "catalogVersion": "v0.9.1",
+    "links": [
+     {
+      "label": "drive.google.com",
+      "url": "https://drive.google.com/file/d/1a-c8HGKg9zLv__blFpQPgO1qpU-qCXNy/view"
+     },
+     {
+      "label": "QuestPorts",
+      "url": "https://questports.vercel.app/ports/max-payne-vr"
+     }
+    ],
+    "image": "https://questports-media.questports.workers.dev/covers/max-payne-vr.jpg?v=4",
+    "sources": [
+     "questports"
+    ]
+   },
+   {
+    "id": "randygil/megaman64recompiledvr",
+    "aliases": [
+     "questports:mega-man-64-vr"
+    ],
+    "name": "Mega Man 64 VR",
+    "game": "Mega Man 64",
+    "categories": [
+     "VR Ports"
+    ],
+    "type": "port",
+    "tags": [
+     "VR"
+    ],
+    "repo": {
+     "host": "github",
+     "path": "randygil/MegaMan64RecompiledVR"
+    },
+    "description": "Capcom's 2001 N64 game Mega Man 64 (Mega Man Legends) in first-person VR, standalone on Meta Quest, built on Mega Man 64: Recompiled: the buster on your left hand and the special weapon on your right, shots fly where you point, and you look around with the headset. Bring your own US ROM.",
+    "developer": "randygil",
+    "status": "Playable beta",
+    "targets": [
+     "Quest 2",
+     "Quest 3",
+     "Quest 3S",
+     "Quest Pro"
+    ],
+    "download": {
+     "label": "Download v0.9.1-vr1",
+     "url": "https://github.com/randygil/MegaMan64RecompiledVR/releases/download/v0.9.1-vr1/MegaMan64RecompiledVR-Quest.apk"
+    },
+    "catalogVersion": "v0.9.1-vr1",
+    "links": [
+     {
+      "label": "QuestPorts",
+      "url": "https://questports.vercel.app/ports/mega-man-64-vr"
+     }
+    ],
+    "image": "https://questports-media.questports.workers.dev/covers/mega-man-64-vr.png?v=4",
     "sources": [
      "questports"
     ]
@@ -1140,7 +1471,7 @@
       "url": "https://questports.vercel.app/ports/metal-gear-solid-vr"
      }
     ],
-    "image": "https://questports-media.questports.workers.dev/covers/metal-gear-solid-vr.jpg?v=3",
+    "image": "https://questports-media.questports.workers.dev/covers/metal-gear-solid-vr.jpg?v=4",
     "sources": [
      "questports"
     ]
@@ -1180,7 +1511,7 @@
       "url": "https://questports.vercel.app/ports/nfsu2-vr"
      }
     ],
-    "image": "https://questports-media.questports.workers.dev/covers/nfsu2-vr.png?v=3",
+    "image": "https://questports-media.questports.workers.dev/covers/nfsu2-vr.png?v=4",
     "sources": [
      "questports"
     ]
@@ -1220,7 +1551,7 @@
       "url": "https://questports.vercel.app/ports/nfsu-vr"
      }
     ],
-    "image": "https://questports-media.questports.workers.dev/covers/nfsu-vr.png?v=3",
+    "image": "https://questports-media.questports.workers.dev/covers/nfsu-vr.png?v=4",
     "sources": [
      "questports"
     ]
@@ -1262,7 +1593,48 @@
       "url": "https://questports.vercel.app/ports/nolf-vr"
      }
     ],
-    "image": "https://questports-media.questports.workers.dev/covers/nolf-vr.png?v=3",
+    "image": "https://questports-media.questports.workers.dev/covers/nolf-vr.png?v=4",
+    "sources": [
+     "questports"
+    ]
+   },
+   {
+    "id": "gibranfelix/oot-vr",
+    "aliases": [
+     "questports:ocarina-of-time-vr"
+    ],
+    "name": "Ocarina of Time VR (oot-vr)",
+    "game": "Ocarina of Time",
+    "categories": [
+     "VR Ports"
+    ],
+    "type": "port",
+    "tags": [
+     "VR"
+    ],
+    "repo": {
+     "host": "github",
+     "path": "gibranfelix/oot-vr"
+    },
+    "description": "Nintendo's 1998 N64 classic The Legend of Zelda: Ocarina of Time in first person, native on Meta Quest, built on Ship of Harkinian and Shipwright-VR: swing the sword and Megaton Hammer, block with the shield, aim the bow and hookshot, and throw bombs and the boomerang with your arm. In-headset setup, updates and mods, plus Explore, Boss Rush and Arena modes. Bring your own N64 or GameCube dump.",
+    "developer": "gibranfelix",
+    "status": "Playable beta",
+    "targets": [
+     "Quest 3",
+     "Quest 3S"
+    ],
+    "download": {
+     "label": "Download v0.9.4-beta",
+     "url": "https://github.com/gibranfelix/oot-vr/releases/download/v0.9.4-beta/oot-vr-v0.9.4-beta.apk"
+    },
+    "catalogVersion": "v0.9.4-beta",
+    "links": [
+     {
+      "label": "QuestPorts",
+      "url": "https://questports.vercel.app/ports/ocarina-of-time-vr"
+     }
+    ],
+    "image": "https://questports-media.questports.workers.dev/covers/ocarina-of-time-vr.png?v=4",
     "sources": [
      "questports"
     ]
@@ -1302,7 +1674,7 @@
       "url": "https://questports.vercel.app/ports/opencmr2-vr"
      }
     ],
-    "image": "https://questports-media.questports.workers.dev/covers/opencmr2-vr.png?v=3",
+    "image": "https://questports-media.questports.workers.dev/covers/opencmr2-vr.png?v=4",
     "sources": [
      "questports"
     ]
@@ -1345,7 +1717,7 @@
       "url": "https://questports.vercel.app/ports/openmw-vr"
      }
     ],
-    "image": "https://questports-media.questports.workers.dev/covers/openmw-vr.png?v=3",
+    "image": "https://questports-media.questports.workers.dev/covers/openmw-vr.png?v=4",
     "sources": [
      "questports"
     ]
@@ -1376,17 +1748,17 @@
      "Quest 3S"
     ],
     "download": {
-     "label": "Download v1.0.0",
-     "url": "https://github.com/neitey/OpenXWA-Quest/releases/download/v1.0.0/OpenXWA-Quest-1.0.0.zip"
+     "label": "Download v1.0.1",
+     "url": "https://github.com/neitey/OpenXWA-Quest/releases/download/v1.0.1/OpenXWA-Quest-1.0.1.zip"
     },
-    "catalogVersion": "v1.0.0",
+    "catalogVersion": "v1.0.1",
     "links": [
      {
       "label": "QuestPorts",
       "url": "https://questports.vercel.app/ports/openxwa-vr"
      }
     ],
-    "image": "https://questports-media.questports.workers.dev/covers/openxwa-vr.jpg?v=3",
+    "image": "https://questports-media.questports.workers.dev/covers/openxwa-vr.jpg?v=4",
     "sources": [
      "questports"
     ]
@@ -1426,7 +1798,7 @@
       "url": "https://questports.vercel.app/ports/perfect-dark-vr"
      }
     ],
-    "image": "https://questports-media.questports.workers.dev/covers/perfect_dark_vr.jpg?v=3",
+    "image": "https://questports-media.questports.workers.dev/covers/perfect_dark_vr.jpg?v=4",
     "sources": [
      "questports"
     ]
@@ -1457,17 +1829,99 @@
      "Quest 3"
     ],
     "download": {
-     "label": "Download vcop-v0.2.2",
-     "url": "https://github.com/jacquesdupontd/port0r/releases/download/vcop-v0.2.2/Port0r-CopVR-v0.2.2-quest3.apk"
+     "label": "Download vcop-v0.2.3",
+     "url": "https://github.com/jacquesdupontd/port0r/releases/download/vcop-v0.2.3/Port0r-CopVR-v0.2.3-quest3.apk"
     },
-    "catalogVersion": "vcop-v0.2.2",
+    "catalogVersion": "vcop-v0.2.3",
     "links": [
      {
       "label": "QuestPorts",
       "url": "https://questports.vercel.app/ports/virtua-cop-vr"
      }
     ],
-    "image": "https://questports-media.questports.workers.dev/covers/virtua-cop-vr.png?v=3",
+    "image": "https://questports-media.questports.workers.dev/covers/virtua-cop-vr.png?v=4",
+    "sources": [
+     "questports"
+    ]
+   },
+   {
+    "id": "jacquesdupontd/port0r#daytona-usa-vr",
+    "aliases": [
+     "questports:daytona-usa-vr"
+    ],
+    "name": "Port0r: Daytona USA VR (Daytona USA)",
+    "game": "Daytona USA",
+    "categories": [
+     "VR Ports"
+    ],
+    "type": "emulator",
+    "tags": [
+     "VR"
+    ],
+    "repo": {
+     "host": "github",
+     "path": "jacquesdupontd/port0r"
+    },
+    "tagPattern": "^daytona-v?\\d",
+    "description": "Daytona USA (1994 arcade, Sega Model 2) in true stereoscopic 3D at real scale, standalone on Meta Quest 3. Built on MAME with Port0r's renderer that redraws every polygon for each eye: the arcade's camera views, Logitech wheel support over USB-C, the cabinet's own settings and an online leaderboard.",
+    "developer": "jacquesdupontd (Port0r)",
+    "status": "Playable beta",
+    "targets": [
+     "Quest 3"
+    ],
+    "download": {
+     "label": "Download daytona-v0.1.8",
+     "url": "https://github.com/jacquesdupontd/port0r/releases/download/daytona-v0.1.8/Port0r-DaytonaUSAVR-v0.1.8-quest3.apk"
+    },
+    "catalogVersion": "daytona-v0.1.8",
+    "links": [
+     {
+      "label": "QuestPorts",
+      "url": "https://questports.vercel.app/ports/daytona-usa-vr"
+     }
+    ],
+    "image": "https://questports-media.questports.workers.dev/covers/daytona-usa-vr.png?v=4",
+    "sources": [
+     "questports"
+    ]
+   },
+   {
+    "id": "jacquesdupontd/port0r#dirt-dash-vr",
+    "aliases": [
+     "questports:dirt-dash-vr"
+    ],
+    "name": "Port0r: Dirt Dash VR (Dirt Dash)",
+    "game": "Dirt Dash",
+    "categories": [
+     "VR Ports"
+    ],
+    "type": "emulator",
+    "tags": [
+     "VR"
+    ],
+    "repo": {
+     "host": "github",
+     "path": "jacquesdupontd/port0r"
+    },
+    "tagPattern": "^dirtdash-v?\\d",
+    "description": "Dirt Dash (1995 arcade, Namco System Super 22) in true stereoscopic 3D, standalone on Meta Quest 3. Built on MAME with Port0r's renderer that redraws every polygon for each eye: off-road racing through city streets, forests and hills, with rumble on every hit and a 72, 90 or 120 Hz refresh rate.",
+    "developer": "jacquesdupontd (Port0r)",
+    "status": "Playable beta",
+    "targets": [
+     "Quest 3"
+    ],
+    "download": {
+     "label": "Download dirtdash-v0.1.4",
+     "url": "https://github.com/jacquesdupontd/port0r/releases/download/dirtdash-v0.1.4/Port0r-DirtDashVR-v0.1.4-quest3.apk"
+    },
+    "catalogVersion": "dirtdash-v0.1.4",
+    "links": [
+     {
+      "label": "QuestPorts",
+      "url": "https://questports.vercel.app/ports/dirt-dash-vr"
+     }
+    ],
+    "image": "https://questports-media.questports.workers.dev/covers/dirt-dash-vr.png?v=4",
     "sources": [
      "questports"
     ]
@@ -1498,17 +1952,17 @@
      "Quest 3"
     ],
     "download": {
-     "label": "Download hotd-v0.1.1",
-     "url": "https://github.com/jacquesdupontd/port0r/releases/download/hotd-v0.1.1/Port0r-HouseOfTheDeadVR-v0.1.1-quest3.apk"
+     "label": "Download hotd-v0.1.2",
+     "url": "https://github.com/jacquesdupontd/port0r/releases/download/hotd-v0.1.2/Port0r-HouseOfTheDeadVR-v0.1.2-quest3.apk"
     },
-    "catalogVersion": "hotd-v0.1.1",
+    "catalogVersion": "hotd-v0.1.2",
     "links": [
      {
       "label": "QuestPorts",
       "url": "https://questports.vercel.app/ports/hotd-vr"
      }
     ],
-    "image": "https://questports-media.questports.workers.dev/covers/hotd-vr.png?v=3",
+    "image": "https://questports-media.questports.workers.dev/covers/hotd-vr.png?v=4",
     "sources": [
      "questports"
     ]
@@ -1539,17 +1993,17 @@
      "Quest 3"
     ],
     "download": {
-     "label": "Download v0.2.6",
-     "url": "https://github.com/jacquesdupontd/port0r/releases/download/v0.2.6/Port0r-RallyVR-v0.2.6-quest3.apk"
+     "label": "Download v0.2.7",
+     "url": "https://github.com/jacquesdupontd/port0r/releases/download/v0.2.7/Port0r-RallyVR-v0.2.7-quest3.apk"
     },
-    "catalogVersion": "v0.2.6",
+    "catalogVersion": "v0.2.7",
     "links": [
      {
       "label": "QuestPorts",
       "url": "https://questports.vercel.app/ports/sega-rally-vr"
      }
     ],
-    "image": "https://questports-media.questports.workers.dev/covers/sega-rally-vr.png?v=3",
+    "image": "https://questports-media.questports.workers.dev/covers/sega-rally-vr.png?v=4",
     "sources": [
      "questports"
     ]
@@ -1593,7 +2047,7 @@
       "url": "https://questports.vercel.app/ports/ppsspp-vr"
      }
     ],
-    "image": "https://questports-media.questports.workers.dev/covers/ppsspp-vr.jpg?v=3",
+    "image": "https://questports-media.questports.workers.dev/covers/ppsspp-vr.jpg?v=4",
     "sources": [
      "questports"
     ]
@@ -1636,7 +2090,7 @@
       "url": "https://questports.vercel.app/ports/primedgun"
      }
     ],
-    "image": "https://questports-media.questports.workers.dev/covers/primedgun.jpg?v=3",
+    "image": "https://questports-media.questports.workers.dev/covers/primedgun.jpg?v=4",
     "sources": [
      "questports"
     ]
@@ -1676,7 +2130,7 @@
       "url": "https://questports.vercel.app/ports/quake3quest"
      }
     ],
-    "image": "https://questports-media.questports.workers.dev/covers/quake3quest.png?v=3",
+    "image": "https://questports-media.questports.workers.dev/covers/quake3quest.png?v=4",
     "sources": [
      "questports"
     ]
@@ -1716,7 +2170,7 @@
       "url": "https://questports.vercel.app/ports/quakequest"
      }
     ],
-    "image": "https://questports-media.questports.workers.dev/covers/quakequest.jpg?v=3",
+    "image": "https://questports-media.questports.workers.dev/covers/quakequest.jpg?v=4",
     "sources": [
      "questports"
     ]
@@ -1756,7 +2210,7 @@
       "url": "https://questports.vercel.app/ports/qualyx"
      }
     ],
-    "image": "https://questports-media.questports.workers.dev/covers/qualyx.jpg?v=3",
+    "image": "https://questports-media.questports.workers.dev/covers/qualyx.jpg?v=4",
     "sources": [
      "questports"
     ]
@@ -1786,57 +2240,17 @@
      "Quest 3"
     ],
     "download": {
-     "label": "Download v0.1.12-alpha1",
-     "url": "https://github.com/LanceSweatpants/Strikers-Quest-MR/releases/download/v0.1.12-alpha1/QuestStrikers-alpha1.12.apk"
+     "label": "Download v0.1.13-alpha1",
+     "url": "https://github.com/LanceSweatpants/Strikers-Quest-MR/releases/download/v0.1.13-alpha1/QuestStrikers-alpha1.13.apk"
     },
-    "catalogVersion": "v0.1.12-alpha1",
+    "catalogVersion": "v0.1.13-alpha1",
     "links": [
      {
       "label": "QuestPorts",
       "url": "https://questports.vercel.app/ports/strikers-quest-mr"
      }
     ],
-    "image": "https://questports-media.questports.workers.dev/covers/strikers-quest-mr.jpg?v=3",
-    "sources": [
-     "questports"
-    ]
-   },
-   {
-    "id": "chocotorp/shipwright-vr",
-    "aliases": [
-     "questports:ocarina-of-time-vr"
-    ],
-    "name": "Quest 3: OOT (Ocarina of Time VR, Shipwright-VR)",
-    "game": "3: OOT",
-    "categories": [
-     "VR Ports"
-    ],
-    "type": "port",
-    "tags": [
-     "VR"
-    ],
-    "repo": {
-     "host": "github",
-     "path": "ChocoTorp/Shipwright-VR"
-    },
-    "description": "The Legend of Zelda: Ocarina of Time fully playable in first-person VR, standalone on Meta Quest 3. A Quest port of Ship of Harkinian VR with real motion controls: swing the sword, raise the shield, draw the bow with both hands. 72 fps even in Hyrule Field. Bring your own ROM.",
-    "developer": "ChocoTorp",
-    "status": "Released",
-    "targets": [
-     "Quest 3"
-    ],
-    "download": {
-     "label": "Download v1.3",
-     "url": "https://github.com/ChocoTorp/Shipwright-VR/releases/download/v1.3/Quest3-OOT-v1.3.apk"
-    },
-    "catalogVersion": "v1.3",
-    "links": [
-     {
-      "label": "QuestPorts",
-      "url": "https://questports.vercel.app/ports/ocarina-of-time-vr"
-     }
-    ],
-    "image": "https://questports-media.questports.workers.dev/covers/ocarina-of-time-vr.png?v=3",
+    "image": "https://questports-media.questports.workers.dev/covers/strikers-quest-mr.jpg?v=4",
     "sources": [
      "questports"
     ]
@@ -1879,7 +2293,7 @@
       "url": "https://questports.vercel.app/ports/questcarnage"
      }
     ],
-    "image": "https://questports-media.questports.workers.dev/covers/questcarnage.jpg?v=3",
+    "image": "https://questports-media.questports.workers.dev/covers/questcarnage.jpg?v=4",
     "sources": [
      "questports"
     ]
@@ -1919,7 +2333,7 @@
       "url": "https://questports.vercel.app/ports/questcraft"
      }
     ],
-    "image": "https://questports-media.questports.workers.dev/covers/questcraft.jpg?v=3",
+    "image": "https://questports-media.questports.workers.dev/covers/questcraft.jpg?v=4",
     "sources": [
      "questports"
     ]
@@ -1960,7 +2374,7 @@
       "url": "https://questports.vercel.app/ports/rave-racer-vr"
      }
     ],
-    "image": "https://questports-media.questports.workers.dev/covers/rave-racer-vr.png?v=3",
+    "image": "https://questports-media.questports.workers.dev/covers/rave-racer-vr.png?v=4",
     "sources": [
      "questports"
     ]
@@ -2000,7 +2414,7 @@
       "url": "https://questports.vercel.app/ports/razexr"
      }
     ],
-    "image": "https://questports-media.questports.workers.dev/covers/razexr.jpg?v=3",
+    "image": "https://questports-media.questports.workers.dev/covers/razexr.jpg?v=4",
     "sources": [
      "questports"
     ]
@@ -2042,7 +2456,7 @@
       "url": "https://questports.vercel.app/ports/road-rash-jailbreak-vr"
      }
     ],
-    "image": "https://questports-media.questports.workers.dev/covers/road_rash_jailbreak_vr.jpg?v=3",
+    "image": "https://questports-media.questports.workers.dev/covers/road_rash_jailbreak_vr.jpg?v=4",
     "sources": [
      "questports"
     ]
@@ -2082,7 +2496,7 @@
       "url": "https://questports.vercel.app/ports/rtcwquest"
      }
     ],
-    "image": "https://questports-media.questports.workers.dev/covers/rtcwquest.jpg?v=3",
+    "image": "https://questports-media.questports.workers.dev/covers/rtcwquest.jpg?v=4",
     "sources": [
      "questports"
     ]
@@ -2121,7 +2535,7 @@
       "url": "https://questports.vercel.app/ports/sclerosis-vr"
      }
     ],
-    "image": "https://questports-media.questports.workers.dev/covers/sclerosis-vr.png?v=3",
+    "image": "https://questports-media.questports.workers.dev/covers/sclerosis-vr.png?v=4",
     "sources": [
      "questports"
     ]
@@ -2161,7 +2575,7 @@
       "url": "https://questports.vercel.app/ports/questsam"
      }
     ],
-    "image": "https://questports-media.questports.workers.dev/covers/questsam.jpg?v=3",
+    "image": "https://questports-media.questports.workers.dev/covers/questsam.jpg?v=4",
     "sources": [
      "questports"
     ]
@@ -2191,17 +2605,17 @@
      "Quest 3"
     ],
     "download": {
-     "label": "Download v0.9.21",
-     "url": "https://github.com/fulldivegames/sm64coopdx-VR-Standalone-Physics-based/releases/download/v0.9.21/SM64-Co-Op-DX-VR-Quest-v0.9.21.apk"
+     "label": "Download v0.9.25",
+     "url": "https://github.com/fulldivegames/sm64coopdx-VR-Standalone-Physics-based/releases/download/v0.9.25/SM64-Co-Op-DX-VR-Quest-v0.9.25.apk"
     },
-    "catalogVersion": "v0.9.21",
+    "catalogVersion": "v0.9.25",
     "links": [
      {
       "label": "QuestPorts",
       "url": "https://questports.vercel.app/ports/sm64-coop-dx-vr"
      }
     ],
-    "image": "https://questports-media.questports.workers.dev/covers/sm64-coop-dx-vr.png?v=3",
+    "image": "https://questports-media.questports.workers.dev/covers/sm64-coop-dx-vr.png?v=4",
     "sources": [
      "questports"
     ]
@@ -2242,7 +2656,7 @@
       "url": "https://questports.vercel.app/ports/smash-remix-vr"
      }
     ],
-    "image": "https://questports-media.questports.workers.dev/covers/smash-remix-vr.png?v=3",
+    "image": "https://questports-media.questports.workers.dev/covers/smash-remix-vr.png?v=4",
     "sources": [
      "questports"
     ]
@@ -2282,7 +2696,7 @@
       "url": "https://questports.vercel.app/ports/sourcevr"
      }
     ],
-    "image": "https://questports-media.questports.workers.dev/covers/sourcevr.jpg?v=3",
+    "image": "https://questports-media.questports.workers.dev/covers/sourcevr.jpg?v=4",
     "sources": [
      "questports"
     ]
@@ -2312,17 +2726,17 @@
      "Quest 3"
     ],
     "download": {
-     "label": "Download v0.0.8.7",
-     "url": "https://github.com/kandowontu2/starfox-enhanced/releases/download/v0.0.8.7/StarFoxEnhanced-0.0.8.7-quest-arm64.zip"
+     "label": "Download v0.0.8.8.1",
+     "url": "https://github.com/kandowontu2/starfox-enhanced/releases/download/v0.0.8.8.1/StarFoxEnhanced-0.0.8.8.1-quest-arm64.zip"
     },
-    "catalogVersion": "v0.0.8.7",
+    "catalogVersion": "v0.0.8.8.1",
     "links": [
      {
       "label": "QuestPorts",
       "url": "https://questports.vercel.app/ports/starfox-enhanced-vr"
      }
     ],
-    "image": "https://questports-media.questports.workers.dev/covers/starfox-enhanced-vr.png?v=3",
+    "image": "https://questports-media.questports.workers.dev/covers/starfox-enhanced-vr.png?v=4",
     "sources": [
      "questports"
     ]
@@ -2363,7 +2777,7 @@
       "url": "https://questports.vercel.app/ports/hotd2-vr"
      }
     ],
-    "image": "https://questports-media.questports.workers.dev/covers/hotd2-vr.png?v=3",
+    "image": "https://questports-media.questports.workers.dev/covers/hotd2-vr.png?v=4",
     "sources": [
      "questports"
     ]
@@ -2403,7 +2817,7 @@
       "url": "https://questports.vercel.app/ports/simpsonshitrun"
      }
     ],
-    "image": "https://questports-media.questports.workers.dev/covers/simpsonshitrun.jpg?v=3",
+    "image": "https://questports-media.questports.workers.dev/covers/simpsonshitrun.jpg?v=4",
     "sources": [
      "questports"
     ]
@@ -2433,17 +2847,17 @@
      "Quest 3"
     ],
     "download": {
-     "label": "Download v0.3.0",
-     "url": "https://github.com/DR-89/time-crisis-2-vr/releases/download/v0.3.0/TimeCrisis2VR-v0.3.0-quest3.apk"
+     "label": "Download v0.3.3",
+     "url": "https://github.com/DR-89/time-crisis-2-vr/releases/download/v0.3.3/TimeCrisis2VR-v0.3.3-quest3.apk"
     },
-    "catalogVersion": "v0.3.0",
+    "catalogVersion": "v0.3.3",
     "links": [
      {
       "label": "QuestPorts",
       "url": "https://questports.vercel.app/ports/time-crisis-2-vr"
      }
     ],
-    "image": "https://questports-media.questports.workers.dev/covers/time-crisis-2-vr.png?v=3",
+    "image": "https://questports-media.questports.workers.dev/covers/time-crisis-2-vr.png?v=4",
     "sources": [
      "questports"
     ]
@@ -2482,7 +2896,7 @@
       "url": "https://questports.vercel.app/ports/time-crisis-vr"
      }
     ],
-    "image": "https://questports-media.questports.workers.dev/covers/time-crisis-vr.jpg?v=3",
+    "image": "https://questports-media.questports.workers.dev/covers/time-crisis-vr.jpg?v=4",
     "sources": [
      "questports"
     ]
@@ -2522,7 +2936,7 @@
       "url": "https://questports.vercel.app/ports/twilight-princess-vr"
      }
     ],
-    "image": "https://questports-media.questports.workers.dev/covers/twilight-princess-vr.png?v=3",
+    "image": "https://questports-media.questports.workers.dev/covers/twilight-princess-vr.png?v=4",
     "sources": [
      "questports"
     ]
@@ -2562,7 +2976,7 @@
       "url": "https://questports.vercel.app/ports/unreal-gold-vr"
      }
     ],
-    "image": "https://questports-media.questports.workers.dev/covers/unreal-gold-vr.png?v=3",
+    "image": "https://questports-media.questports.workers.dev/covers/unreal-gold-vr.png?v=4",
     "sources": [
      "questports"
     ]
@@ -2606,7 +3020,7 @@
       "url": "https://questports.vercel.app/ports/ut99-vr-quest"
      }
     ],
-    "image": "https://questports-media.questports.workers.dev/covers/ut99vr.png?v=3",
+    "image": "https://questports-media.questports.workers.dev/covers/ut99vr.png?v=4",
     "sources": [
      "questports"
     ]
@@ -2649,7 +3063,7 @@
       "url": "https://questports.vercel.app/ports/victory-heat-rally-vr"
      }
     ],
-    "image": "https://questports-media.questports.workers.dev/covers/victory-heat-rally-vr.jpg?v=3",
+    "image": "https://questports-media.questports.workers.dev/covers/victory-heat-rally-vr.jpg?v=4",
     "sources": [
      "questports"
     ]
@@ -2690,7 +3104,7 @@
       "url": "https://questports.vercel.app/ports/wave-race-64-vr"
      }
     ],
-    "image": "https://questports-media.questports.workers.dev/covers/wave-race-64-vr.png?v=3",
+    "image": "https://questports-media.questports.workers.dev/covers/wave-race-64-vr.png?v=4",
     "sources": [
      "questports"
     ]
@@ -2730,7 +3144,7 @@
       "url": "https://questports.vercel.app/ports/wiicompiled-vr-plus"
      }
     ],
-    "image": "https://questports-media.questports.workers.dev/covers/wiicompiled-vr-plus.png?v=3",
+    "image": "https://questports-media.questports.workers.dev/covers/wiicompiled-vr-plus.png?v=4",
     "sources": [
      "questports"
     ]
@@ -2773,7 +3187,48 @@
       "url": "https://questports.vercel.app/ports/wipeout-rewrite-vr"
      }
     ],
-    "image": "https://questports-media.questports.workers.dev/covers/wipeout-rewrite-vr.png?v=3",
+    "image": "https://questports-media.questports.workers.dev/covers/wipeout-rewrite-vr.png?v=4",
+    "sources": [
+     "questports"
+    ]
+   },
+   {
+    "id": "rhythmerc/xelee",
+    "aliases": [
+     "questports:xelee"
+    ],
+    "name": "Xelee (Super Smash Bros. Melee MR)",
+    "game": "Super Smash Bros. Melee MR",
+    "categories": [
+     "VR Ports"
+    ],
+    "type": "port",
+    "tags": [
+     "VR"
+    ],
+    "repo": {
+     "host": "github",
+     "path": "rhythmerc/xelee"
+    },
+    "description": "Nintendo's 2001 GameCube fighter Super Smash Bros. Melee as a mixed reality game on Meta Quest 3, built on the melee-pc decompilation port: fighters and stages float in your room, placed and scaled with your hands, with full Slippi online play, Touch or gamepad controls, spatial audio and room-matched lighting. Bring your own NTSC-U 1.02 disc.",
+    "developer": "rhythmerc",
+    "status": "Playable beta",
+    "targets": [
+     "Quest 3",
+     "Quest 3S"
+    ],
+    "download": {
+     "label": "Download v0.2.0-beta",
+     "url": "https://github.com/rhythmerc/xelee/releases/download/v0.2.0-beta/Xelee-Quest-arm64.apk"
+    },
+    "catalogVersion": "v0.2.0-beta",
+    "links": [
+     {
+      "label": "QuestPorts",
+      "url": "https://questports.vercel.app/ports/xelee"
+     }
+    ],
+    "image": "https://questports-media.questports.workers.dev/covers/xelee.png?v=4",
     "sources": [
      "questports"
     ]
@@ -2814,7 +3269,7 @@
       "url": "https://questports.vercel.app/ports/xrkart-64"
      }
     ],
-    "image": "https://questports-media.questports.workers.dev/covers/xrkart-64.png?v=3",
+    "image": "https://questports-media.questports.workers.dev/covers/xrkart-64.png?v=4",
     "sources": [
      "questports"
     ]
@@ -2854,7 +3309,7 @@
       "url": "https://questports.vercel.app/ports/hexen2vr"
      }
     ],
-    "image": "https://questports-media.questports.workers.dev/covers/hexen2vr.jpg?v=3",
+    "image": "https://questports-media.questports.workers.dev/covers/hexen2vr.jpg?v=4",
     "sources": [
      "questports"
     ]
@@ -2894,7 +3349,7 @@
       "url": "https://questports.vercel.app/ports/jkxr"
      }
     ],
-    "image": "https://questports-media.questports.workers.dev/covers/jkxr.jpg?v=3",
+    "image": "https://questports-media.questports.workers.dev/covers/jkxr.jpg?v=4",
     "sources": [
      "questports"
     ]
@@ -2933,7 +3388,7 @@
       "url": "https://questports.vercel.app/ports/preyvr"
      }
     ],
-    "image": "https://questports-media.questports.workers.dev/covers/preyvr.jpg?v=3",
+    "image": "https://questports-media.questports.workers.dev/covers/preyvr.jpg?v=4",
     "sources": [
      "questports"
     ]
@@ -2973,7 +3428,7 @@
       "url": "https://questports.vercel.app/ports/quake2quest"
      }
     ],
-    "image": "https://questports-media.questports.workers.dev/covers/quake2quest.jpg?v=3",
+    "image": "https://questports-media.questports.workers.dev/covers/quake2quest.jpg?v=4",
     "sources": [
      "questports"
     ]
@@ -3013,7 +3468,7 @@
       "url": "https://questports.vercel.app/ports/questzdoom"
      }
     ],
-    "image": "https://questports-media.questports.workers.dev/covers/questzdoom.jpg?v=3",
+    "image": "https://questports-media.questports.workers.dev/covers/questzdoom.jpg?v=4",
     "sources": [
      "questports"
     ]
@@ -3051,7 +3506,7 @@
       "url": "https://questports.vercel.app/ports/red-dead-redemption-vr"
      }
     ],
-    "image": "https://questports-media.questports.workers.dev/covers/red-dead-redemption-vr.png?v=3",
+    "image": "https://questports-media.questports.workers.dev/covers/red-dead-redemption-vr.png?v=4",
     "sources": [
      "questports"
     ]
@@ -3091,7 +3546,7 @@
       "url": "https://questports.vercel.app/ports/winlatorxr"
      }
     ],
-    "image": "https://questports-media.questports.workers.dev/covers/winlatorxr.jpg?v=3",
+    "image": "https://questports-media.questports.workers.dev/covers/winlatorxr.jpg?v=4",
     "sources": [
      "questports"
     ]
@@ -25140,7 +25595,7 @@
   ]
  },
  "quiver": {
-  "updatedAt": "2026-10-26T21:06:11.803Z",
+  "updatedAt": "2026-10-27T05:17:56.999Z",
   "projects": [
    {
     "id": "thebradshaw/1080-snowboarding-decomp",
@@ -25163,7 +25618,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "",
+    "catalogVersion": "1.0",
     "links": [
      {
       "label": "Quiver",
@@ -25684,6 +26139,7 @@
     "developer": "elasota",
     "targets": [
      "Android",
+     "macOS",
      "Windows"
     ],
     "catalogVersion": "1.1.7",
@@ -25720,7 +26176,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v0.6.2",
+    "catalogVersion": "v0.7.0",
     "links": [
      {
       "label": "Quiver",
@@ -26256,7 +26712,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "1.6.0",
+    "catalogVersion": "1.6.1",
     "links": [
      {
       "label": "Quiver",
@@ -26392,7 +26848,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v0.10.0",
+    "catalogVersion": "v0.10.1",
     "links": [
      {
       "label": "Quiver",
@@ -27046,7 +27502,7 @@
      "macOS",
      "Windows"
     ],
-    "catalogVersion": "1.0.0",
+    "catalogVersion": "1.0.1",
     "links": [
      {
       "label": "Quiver",
@@ -27111,7 +27567,7 @@
     "targets": [
      "Linux"
     ],
-    "catalogVersion": "0.51-linux.17",
+    "catalogVersion": "test-issue30-1",
     "links": [
      {
       "label": "Quiver",
@@ -27208,7 +27664,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.7.0",
+    "catalogVersion": "v0.7.1",
     "links": [
      {
       "label": "Quiver",
@@ -27866,7 +28322,9 @@
     },
     "description": "Burnout 2: Point of Impact — Static Recompilation is a Windows, Linux, and macOS port of the original Xbox game with enhancements like unlimited frame rates and custom resolutions.",
     "developer": "timftw21",
-    "targets": [],
+    "targets": [
+     "Windows"
+    ],
     "catalogVersion": "v1.9",
     "links": [
      {
@@ -28328,7 +28786,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "0.4.0",
+    "catalogVersion": "0.5.0",
     "links": [
      {
       "label": "Quiver",
@@ -28890,7 +29348,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "v0.6",
+    "catalogVersion": "v0.6.1",
     "links": [
      {
       "label": "Quiver",
@@ -29457,7 +29915,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "0.1.6",
+    "catalogVersion": "0.1.7",
     "links": [
      {
       "label": "Quiver",
@@ -30846,7 +31304,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.2.2",
+    "catalogVersion": "v0.2.3",
     "links": [
      {
       "label": "Quiver",
@@ -31209,7 +31667,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v0.1.36",
+    "catalogVersion": "v0.2.0",
     "links": [
      {
       "label": "Quiver",
@@ -32005,7 +32463,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "windows-v2.8.0-intel-test2",
+    "catalogVersion": "windows-v2.8.0-intel-test4",
     "links": [
      {
       "label": "Quiver",
@@ -32173,7 +32631,7 @@
      "macOS",
      "Windows"
     ],
-    "catalogVersion": "v0.1.6",
+    "catalogVersion": "v0.1.7",
     "links": [
      {
       "label": "Quiver",
@@ -32535,7 +32993,7 @@
      "macOS",
      "iOS"
     ],
-    "catalogVersion": "v0.9.1",
+    "catalogVersion": "v0.9.2",
     "links": [
      {
       "label": "Quiver",
@@ -32899,7 +33357,7 @@
      "Windows",
      "Android"
     ],
-    "catalogVersion": "v0.5.7",
+    "catalogVersion": "v0.5.8",
     "links": [
      {
       "label": "Quiver",
@@ -33463,7 +33921,7 @@
      "macOS",
      "Windows"
     ],
-    "catalogVersion": "test-deck-overlap-2",
+    "catalogVersion": "beta_5.3",
     "links": [
      {
       "label": "Quiver",
@@ -34122,7 +34580,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v1.0.8",
+    "catalogVersion": "v1.0.13",
     "links": [
      {
       "label": "Quiver",
@@ -34354,7 +34812,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v1.0.12",
+    "catalogVersion": "v1.0.13",
     "links": [
      {
       "label": "Quiver",
@@ -34484,7 +34942,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.9.57",
+    "catalogVersion": "v0.9.60",
     "links": [
      {
       "label": "Quiver",
@@ -34754,7 +35212,7 @@
      "Windows",
      "macOS"
     ],
-    "catalogVersion": "v0.33.1",
+    "catalogVersion": "v0.34.0",
     "links": [
      {
       "label": "Quiver",
@@ -35317,7 +35775,7 @@
      "Linux",
      "macOS"
     ],
-    "catalogVersion": "v0.9.33",
+    "catalogVersion": "v0.9.35",
     "links": [
      {
       "label": "Quiver",
@@ -35417,7 +35875,7 @@
      "macOS",
      "Windows"
     ],
-    "catalogVersion": "v0.6.3",
+    "catalogVersion": "appimage-runtime-8f39b89",
     "links": [
      {
       "label": "Quiver",
@@ -35450,7 +35908,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "v0.6.4",
+    "catalogVersion": "v0.6.5",
     "links": [
      {
       "label": "Quiver",
@@ -35552,7 +36010,7 @@
      "Windows",
      "Android"
     ],
-    "catalogVersion": "1.0.9.1",
+    "catalogVersion": "1.1",
     "links": [
      {
       "label": "Quiver",
@@ -35712,7 +36170,7 @@
     "description": "OpenCE is a port of Halo: Combat Evolved to Windows, Linux and Android that supports multiplayer across all platforms.",
     "developer": "OpenCommunityEdition",
     "targets": [],
-    "catalogVersion": "build-289",
+    "catalogVersion": "build-294",
     "links": [
      {
       "label": "Quiver",
@@ -38113,7 +38571,7 @@
      "macOS",
      "Windows"
     ],
-    "catalogVersion": "test-pr74-077546d5298f",
+    "catalogVersion": "test-pr74-121909be3efa",
     "links": [
      {
       "label": "Quiver",
@@ -38313,7 +38771,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v2.0-pre19",
+    "catalogVersion": "v2.0",
     "links": [
      {
       "label": "Quiver",
@@ -38783,7 +39241,7 @@
      "macOS",
      "Windows"
     ],
-    "catalogVersion": "v0.1.1-dev.20261024",
+    "catalogVersion": "v0.1.1-dev.20261026",
     "links": [
      {
       "label": "Quiver",
@@ -39078,7 +39536,8 @@
     "description": "Savage Wind Recomp is a native PC port of The Legend of Zelda: Breath of the Wild that supports keyboard and mouse controls and customizable resolutions.",
     "developer": "Revivedx",
     "targets": [
-     "Windows"
+     "Windows",
+     "Linux"
     ],
     "catalogVersion": "v0.3.1-alpha.3",
     "links": [
@@ -39478,7 +39937,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.60.6",
+    "catalogVersion": "v0.60.6-C2",
     "links": [
      {
       "label": "Quiver",
@@ -40002,7 +40461,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v0.1.65",
+    "catalogVersion": "v0.1.67",
     "links": [
      {
       "label": "Quiver",
@@ -40234,7 +40693,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "0.2.3",
+    "catalogVersion": "0.2.5",
     "links": [
      {
       "label": "Quiver",
@@ -41226,7 +41685,7 @@
      "macOS",
      "Windows"
     ],
-    "catalogVersion": "v1.9.9",
+    "catalogVersion": "v1.3.0",
     "links": [
      {
       "label": "Quiver",
@@ -41822,7 +42281,7 @@
      "Linux",
      "macOS"
     ],
-    "catalogVersion": "v0.3.15",
+    "catalogVersion": "v0.3.16",
     "links": [
      {
       "label": "Quiver",
@@ -42250,7 +42709,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v0.1.38.8",
+    "catalogVersion": "v0.1.38.9",
     "links": [
      {
       "label": "Quiver",
@@ -42614,7 +43073,7 @@
      "iOS",
      "Android"
     ],
-    "catalogVersion": "v1.7.4.2-hotfix",
+    "catalogVersion": "v1.7.4.1",
     "links": [
      {
       "label": "Quiver",
@@ -42646,7 +43105,7 @@
     "targets": [
      "Android"
     ],
-    "catalogVersion": "v0.9.7",
+    "catalogVersion": "v0.9.8",
     "links": [
      {
       "label": "Quiver",
@@ -43206,7 +43665,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "v0.07.5",
+    "catalogVersion": "v0.08",
     "links": [
      {
       "label": "Quiver",
@@ -44096,7 +44555,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v0.8.4",
+    "catalogVersion": "v0.8.5",
     "links": [
      {
       "label": "Quiver",
@@ -59345,7 +59804,7 @@
   ]
  },
  "pocket": {
-  "updatedAt": "2026-10-26T21:06:11.803Z",
+  "updatedAt": "2026-10-27T05:17:56.999Z",
   "projects": [
    {
     "id": "gpzi994/chiskit",
@@ -60425,6 +60884,45 @@
     "download": {
      "label": "Pocket 0.1.3",
      "url": "https://github.com/McNast13/NamcoSystem11-Pocket/releases/download/v0.1.3/NamcoSystem11-pocket-core-v0.1.3.zip"
+    },
+    "links": [
+     {
+      "label": "openFPGA inventory",
+      "url": "https://openfpga-cores-inventory.github.io/analogue-pocket/"
+     }
+    ],
+    "sources": [
+     "pocket"
+    ]
+   },
+   {
+    "id": "miasmark/openfpga-2600",
+    "aliases": [
+     "pocket:miasmark-2600"
+    ],
+    "name": "Miasmark.2600 (Pocket)",
+    "game": "Atari 2600 / 7800",
+    "categories": [
+     "Analogue Pocket"
+    ],
+    "type": "core",
+    "tags": [
+     "FPGA"
+    ],
+    "repo": {
+     "host": "github",
+     "path": "Miasmark/openFPGA-2600"
+    },
+    "description": "openFPGA console core · Atari, Inc. 1977",
+    "developer": "Miasmark",
+    "targets": [
+     "Analogue Pocket"
+    ],
+    "catalogVersion": "1.0.1",
+    "catalogDate": "2026-10-24",
+    "download": {
+     "label": "Pocket 1.0.1",
+     "url": "https://github.com/Miasmark/openFPGA-2600/releases/download/1.0.1/M_Atari2600_Pocket_1.0.1.zip"
     },
     "links": [
      {
@@ -65247,16 +65745,16 @@
      "host": "github",
      "path": "defgenx/openfpga-C64"
     },
-    "description": "openFPGA computer core · Commodore 1982",
+    "description": "openFPGA computer core · Commodore International 1982",
     "developer": "defgenx",
     "targets": [
      "Analogue Pocket"
     ],
-    "catalogVersion": "0.2.2",
-    "catalogDate": "2026-10-21",
+    "catalogVersion": "0.2.3",
+    "catalogDate": "2026-10-26",
     "download": {
-     "label": "Pocket 0.2.2",
-     "url": "https://github.com/defgenx/openfpga-C64/releases/download/v0.2.2/defgenx.C64.zip"
+     "label": "Pocket 0.2.3",
+     "url": "https://github.com/defgenx/openfpga-C64/releases/download/v0.2.3/defgenx.C64.zip"
     },
     "links": [
      {
@@ -69857,7 +70355,7 @@
      "host": "github",
      "path": "markus-zzz/myc64-pocket"
     },
-    "description": "openFPGA computer core · Commodore 1982",
+    "description": "openFPGA computer core · Commodore International 1982",
     "developer": "markus-zzz",
     "targets": [
      "Analogue Pocket"
