@@ -1315,6 +1315,10 @@
   "discord": null,
   "checked": "2026-10-23"
  },
+ "github:ekspym/tekken6-native-online-source": {
+  "discord": null,
+  "checked": "2026-10-28"
+ },
  "github:elasota/aerofoil": {
   "discord": null,
   "checked": "2026-10-25"
@@ -1622,6 +1626,10 @@
  "github:fluffyquack/rexglue-exit": {
   "discord": "https://discord.gg/CNTxwSNZfT",
   "checked": "2026-10-23"
+ },
+ "github:fluffyquack/rexglue-soulcaliburiv": {
+  "discord": "https://discord.gg/CNTxwSNZfT",
+  "checked": "2026-10-28"
  },
  "github:fluorescenthallucinogen/painkiller-vr-mod": {
   "discord": null,
@@ -4587,6 +4595,10 @@
   "discord": null,
   "checked": "2026-10-26"
  },
+ "github:morluto/rea": {
+  "discord": "https://discord.gg/GkcryMnJDM",
+  "checked": "2026-10-28"
+ },
  "github:morsgames/moonchildfe": {
   "discord": null,
   "checked": "2026-10-25"
@@ -5519,6 +5531,10 @@
   "discord": null,
   "checked": "2026-10-27"
  },
+ "github:preseznik/grid2vr": {
+  "discord": null,
+  "checked": "2026-10-28"
+ },
  "github:presidentraptor/ace-combat-04-pc-port": {
   "discord": null,
   "checked": "2026-10-25"
@@ -6383,6 +6399,10 @@
   "discord": null,
   "checked": "2026-10-25"
  },
+ "github:st4rwhx/resident-evil-4-native-port": {
+  "discord": "https://discord.gg/AXAzExECSv",
+  "checked": "2026-10-28"
+ },
  "github:stanriders/ks-summersclover": {
   "discord": null,
   "checked": "2026-10-25"
@@ -6622,6 +6642,10 @@
  "github:tensai30/shenmuevr-downloads": {
   "discord": null,
   "checked": "2026-10-25"
+ },
+ "github:terx1232/bioshock-quest-vr": {
+  "discord": null,
+  "checked": "2026-10-28"
  },
  "github:testdriveupgrade/megadriverecomp": {
   "discord": null,
@@ -6911,6 +6935,10 @@
   "discord": null,
   "checked": "2026-10-25"
  },
+ "github:victor-takai/rogue-galaxy-recomp": {
+  "discord": null,
+  "checked": "2026-10-28"
+ },
  "github:vidanox/banjotooierecompiled": {
   "discord": null,
   "checked": "2026-10-25"
@@ -6962,6 +6990,30 @@
  "github:vr-stereo-hub/dishonored-vr": {
   "discord": null,
   "checked": "2026-10-25"
+ },
+ "github:vr4all-standalone/confidential-mission-vr": {
+  "discord": null,
+  "checked": "2026-10-28"
+ },
+ "github:vr4all-standalone/death-crimson-ox-vr": {
+  "discord": null,
+  "checked": "2026-10-28"
+ },
+ "github:vr4all-standalone/lupin-the-third-vr": {
+  "discord": null,
+  "checked": "2026-10-28"
+ },
+ "github:vr4all-standalone/mok-vr": {
+  "discord": null,
+  "checked": "2026-10-28"
+ },
+ "github:vr4all-standalone/ninja-assault-vr": {
+  "discord": null,
+  "checked": "2026-10-28"
+ },
+ "github:vr4all-standalone/survivor2-code-veronica-vr": {
+  "discord": null,
+  "checked": "2026-10-28"
  },
  "github:vyanhursky/defjamffny-recomp": {
   "discord": "https://discord.gg/xNvBs23ZBw",
