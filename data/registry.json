@@ -1,7 +1,7 @@
 {
  "meta": {
   "seededAt": "2026-10-25T14:56:57.670Z",
-  "lastSearchAt": "2026-10-28T15:14:34.148Z"
+  "lastSearchAt": "2026-10-29T15:18:58.463Z"
  },
  "firstSeen": {
   "0c0de/splatterhouse-decomp": "2026-10-25T15:56:57.670Z",
@@ -96,6 +96,7 @@
   "antongale/arcade-taitosj": "2026-10-25T15:56:57.670Z",
   "apancik/abuse_2025": "2026-10-25T15:36:27.479Z",
   "apolinario-coder/skyrecomp": "2026-10-25T15:36:27.479Z",
+  "arcadalabs-jason/eternalvr": "2026-10-29T15:18:58.463Z",
   "arcanite24/gb-recompiled": "2026-10-25T15:36:27.479Z",
   "arcanite24/pinyon-shift": "2026-10-23T22:25:39.434Z",
   "ares-emulator/ares": "2026-10-25T15:36:27.479Z",
@@ -113,6 +114,7 @@
   "astienth/panzer_dragoon_remake_vr_bhaptics_provolver": "2026-10-25T15:36:27.479Z",
   "astienvr/bomb_rush_cyberfunk_vr": "2026-10-25T15:36:27.479Z",
   "astienvr/road_redemption_vr_bhaptics": "2026-10-25T15:36:27.479Z",
+  "astrovm/adventuremods": "2026-10-29T15:18:58.463Z",
   "atmudia/srvr": "2026-10-25T15:36:27.479Z",
   "atrblizzard/vtmb-vr": "2026-10-25T19:08:26.092Z",
   "augustinwinter/openfpga-macross2": "2026-10-25T15:56:57.670Z",
@@ -423,6 +425,7 @@
   "elprogramadorloco-arch/fuc-recomp": "2026-10-23T22:25:39.434Z",
   "elprogramadorloco-arch/jim2-recomp": "2026-10-25T15:36:27.479Z",
   "elraro/atomic-bomberman": "2026-10-25T15:36:27.479Z",
+  "elripalda/gta4-ps5": "2026-10-29T15:18:58.463Z",
   "elripalda/recompstore": "2026-10-26T15:18:29.150Z",
   "elspeththepict/s1forever": "2026-10-25T15:36:27.479Z",
   "elyosh/opentie": "2026-10-25T15:36:27.479Z",
@@ -835,6 +838,7 @@
   "kaikoclanworth1/wwe-svr2011-pc": "2026-10-23T22:46:33.769Z",
   "kandowontu2/starfox-enhanced": "2026-10-23T22:25:39.434Z",
   "kandowontu2/urbanrecomp": "2026-10-25T15:36:27.479Z",
+  "kastieloficial/re-code-veronica-ps3-hd-recomp-pc": "2026-10-29T15:18:58.463Z",
   "kathoc/brickboy-dmg-fpgacore": "2026-10-25T15:56:57.670Z",
   "kawaiibunga/mkvdcu-recomp": "2026-10-23T22:25:39.434Z",
   "kconger/mister_tty2epaper": "2026-10-26T15:18:29.150Z",
@@ -937,6 +941,7 @@
   "matiaszanolli/sega-vr-disasm": "2026-10-24T18:51:55.727Z",
   "matijaerceg/misterzine": "2026-10-26T15:18:29.150Z",
   "matskarlsson/wreckfest2vr": "2026-10-25T15:36:27.479Z",
+  "matt-pulsipher/gt3-revisited": "2026-10-29T15:18:58.463Z",
   "matteo842/crashbandicoot-launcher": "2026-10-23T22:25:39.434Z",
   "matymeatboy/rekhcom": "2026-10-25T15:36:27.479Z",
   "mauriciosuporte/superbomberman5snesrecomp": "2026-10-25T15:36:27.479Z",
@@ -1206,6 +1211,7 @@
   "mister-devel/atarilynx_mister#lynx2p": "2026-10-25T15:56:57.670Z",
   "mister-devel/atarist_mister": "2026-10-25T15:56:57.670Z",
   "mister-devel/ay-3-8500-mister": "2026-10-25T15:56:57.670Z",
+  "mister-devel/basicmasterjr_mister": "2026-10-29T15:18:58.463Z",
   "mister-devel/bbcbridgecompanion_mister": "2026-10-25T15:56:57.670Z",
   "mister-devel/bbcmicro_mister": "2026-10-25T15:56:57.670Z",
   "mister-devel/bk0011m_mister": "2026-10-25T15:56:57.670Z",
@@ -1830,6 +1836,7 @@
   "render96/render96ex": "2026-10-23T22:25:39.434Z",
   "retro-remake/consolemode_distribution": "2026-10-23T22:25:39.434Z",
   "retro-remake/superstation-sd-card-installer": "2026-10-23T22:25:39.434Z",
+  "retrodriven/streetrod-pocket": "2026-10-29T15:18:58.463Z",
   "retronas/retronas": "2026-10-26T15:18:29.150Z",
   "retroportingtoolkit/psxrecomp": "2026-10-23T22:46:33.769Z",
   "retroportingtoolkit/retro-launcher": "2026-10-27T14:45:45.436Z",
@@ -1926,6 +1933,7 @@
   "sgtbilko76/wipeout-rewrite-vr": "2026-10-23T22:25:39.434Z",
   "shadowbrian/7dfps": "2026-10-25T15:36:27.479Z",
   "shagg88/athelas": "2026-10-23T22:25:39.434Z",
+  "shagg88/cogbox": "2026-10-29T15:18:58.463Z",
   "shaneomac1337/wwe-allstars-recomp": "2026-10-25T15:36:27.479Z",
   "shdecompilations/silent-hill-decomp": "2026-10-23T22:46:33.769Z",
   "shiffo0/mgs2-pcvr": "2026-10-25T15:36:27.479Z",
@@ -2566,6 +2574,33 @@
    },
    "autoFollow": true
   },
+  "arcadalabs-jason/eternalvr": {
+   "id": "arcadalabs-jason/eternalvr",
+   "name": "Eternal VR",
+   "game": "Eternal VR",
+   "categories": [
+    "Other",
+    "VR Ports"
+   ],
+   "type": "port",
+   "tags": [
+    "VR"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "ArcadaLabs-Jason/EternalVR"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "topic:openxr mod stars:>30",
+    "date": "2026-10-29T15:18:58.463Z"
+   },
+   "autoFollow": false
+  },
   "arcanite24/gb-recompiled": {
    "id": "arcanite24/gb-recompiled",
    "name": "gb recompiled",
@@ -3049,6 +3084,33 @@
     "kind": "search",
     "title": "topic:static-recompilation stars:>20",
     "date": "2026-10-24T18:51:55.727Z"
+   },
+   "autoFollow": false
+  },
+  "cesarus85/mjolnir-vr": {
+   "id": "cesarus85/mjolnir-vr",
+   "name": "mjolnir vr",
+   "game": "mjolnir vr",
+   "categories": [
+    "Other",
+    "VR Ports"
+   ],
+   "type": "port",
+   "tags": [
+    "VR"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "Cesarus85/mjolnir-vr"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "topic:vr-mod stars:>15",
+    "date": "2026-10-29T15:18:58.463Z"
    },
    "autoFollow": false
   },
@@ -3906,6 +3968,30 @@
     "kind": "search",
     "title": "\"static recompilation\" in:description stars:>30",
     "date": "2026-10-27T14:45:45.436Z"
+   },
+   "autoFollow": false
+  },
+  "elripalda/gta4-ps5": {
+   "id": "elripalda/gta4-ps5",
+   "name": "gta4 ps5",
+   "game": "gta4 ps5",
+   "categories": [
+    "Other"
+   ],
+   "type": "recompilation",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "elripalda/gta4-ps5"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "XenonRecomp in:readme stars:>30",
+    "date": "2026-10-29T15:18:58.463Z"
    },
    "autoFollow": false
   },
@@ -5625,6 +5711,32 @@
    },
    "autoFollow": false
   },
+  "kastieloficial/re-code-veronica-ps3-hd-recomp-pc": {
+   "id": "kastieloficial/re-code-veronica-ps3-hd-recomp-pc",
+   "name": "RE Code Veronica PS3 HD Recomp PC",
+   "game": "RE Code Veronica PS3 HD Recomp PC",
+   "categories": [
+    "PlayStation 3"
+   ],
+   "type": "recompilation",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "kastieloficial/RE-Code-Veronica-PS3-HD-Recomp-PC"
+   },
+   "links": [],
+   "sources": [
+    "news"
+   ],
+   "discoveredFrom": {
+    "kind": "news",
+    "title": "Resident Evil Code Veronica X PS3 REcomp Out NOW! And GOOD",
+    "url": "https://www.youtube.com/watch?v=ZgC4DJqsaKw",
+    "source": "YouTube: Video Game Esoterica",
+    "date": "2026-10-29T12:45:31.000Z"
+   },
+   "autoFollow": true
+  },
   "kconger/mister_tty2epaper": {
    "id": "kconger/mister_tty2epaper",
    "name": "Mi STer tty2epaper",
@@ -6345,6 +6457,32 @@
     "url": "https://www.youtube.com/watch?v=B8o2Ad7T_yE",
     "source": "YouTube: FastLawyer",
     "date": "2026-10-24T05:41:59.000Z"
+   },
+   "autoFollow": true
+  },
+  "matt-pulsipher/gt3-revisited": {
+   "id": "matt-pulsipher/gt3-revisited",
+   "name": "GT3 revisited",
+   "game": "GT3 revisited",
+   "categories": [
+    "Other"
+   ],
+   "type": "reimplementation",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "matt-pulsipher/GT3-revisited"
+   },
+   "links": [],
+   "sources": [
+    "news"
+   ],
+   "discoveredFrom": {
+    "kind": "news",
+    "title": "Gran Turismo 3 A-Spec VR Performance / New Meta Quest Standalone VR Mod / Meta Quest 3",
+    "url": "https://www.youtube.com/watch?v=UQzIiN9SwvE",
+    "source": "YouTube: NotAGameAddict",
+    "date": "2026-10-29T13:00:34.000Z"
    },
    "autoFollow": true
   },
@@ -8508,6 +8646,30 @@
    },
    "autoFollow": true
   },
+  "shagg88/cogbox": {
+   "id": "shagg88/cogbox",
+   "name": "COGBox",
+   "game": "COGBox",
+   "categories": [
+    "Xbox 360"
+   ],
+   "type": "recompilation",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "Shagg88/COGBox"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "topic:recompilation stars:>20",
+    "date": "2026-10-29T15:18:58.463Z"
+   },
+   "autoFollow": false
+  },
   "shdecompilations/silent-hill-decomp": {
    "id": "shdecompilations/silent-hill-decomp",
    "name": "silent hill decomp",
@@ -9963,6 +10125,7 @@
   "ghaleonx/ys": "2026-10-23",
   "gitlab:pepsipu/ns2jb": "2026-10-23",
   "hkmodd/pcsx2-mcp": "2026-10-23",
+  "hochgeschwindigkeitsrennfahrer/gta4vr": "2026-10-29",
   "hollie/misterhouse": "2026-10-26",
   "inorirus/kyty": "2026-10-23",
   "joeyhodge/uevr": "2026-10-25",
