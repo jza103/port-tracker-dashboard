@@ -1,6 +1,42 @@
 {
  "articles": [
   {
+   "title": "2026 Retrocomputing Challenge: Custom RISC-V Processor For Retro System",
+   "url": "https://hackaday.com/2026/10/28/2026-retrocomputing-challenge-custom-risc-v-processor-for-retro-system/",
+   "date": "2026-10-29T05:00:43.000Z",
+   "source": "Hackaday",
+   "outlet": "Hackaday",
+   "summary": "Although once little more than an academic endeavor, the RISC-V architecture is slowly supplanting applications that would have normally gone to ARM. Even a few microcontrollers have chips running this …read more",
+   "image": "https://hackaday.com/wp-content/uploads/2026/10/risc-v-gaming-main.png",
+   "text": "2026 Retrocomputing Challenge: Custom RISC-V Processor For Retro System Although once little more than an academic endeavor, the RISC-V architecture is slowly supplanting applications that would have normally gone to ARM. Even a few microcontrollers have chips running this open-source instruction set now, and we expect it to grow in the future since it doesn't require the licensing of an ARM or x86 chip. [M_Jagadeesh97] is getting ahead of the curve with this retro gaming system built on a custom-designed RISC-V system . Most of us, presumably including [M_Jagadeesh97], don't have access to chip fabrication tools, but what we can get is any of various FPGAs. This RISC-V CPU is built on a Terasic DE0-Nano board with 32 MB of RAM available to it, and boots to a launcher with 32 games available. There are a few limitations with this low-power system which was largely solved by limiting the display to 64×32, which lets it maintain the same aspect ratio as the original DOOM as well as the same aspect ratio for many of the older games, while still maintaining 45 FPS. The project writeup goes deep into the design of a system like this, from the bare metal, the CPU design, the timing of the video signals, and how to implement a Wolfenstein- like raycaster. After adding a small display it looks to be fairly portable as well and is an excellent demonstration of how powerful inexpensive boards like this FPGA can be with the proper amount of effort.",
+   "repos": [],
+   "firstSeen": "2026-10-29T06:03:16.453Z"
+  },
+  {
+   "title": "How to complete Whence the Weeping in Phantom Blade Zero",
+   "url": "https://www.pcgamer.com/games/action/phantom-blade-zero-whence-the-weeping-walkthrough/",
+   "date": "2026-10-29T02:00:00.000Z",
+   "source": "PC Gamer",
+   "outlet": "PC Gamer",
+   "summary": "Find the source of the weeping and discover its mysteries.",
+   "image": "https://cdn.mos.cms.futurecdn.net/mQhWzkGDcwYPgBFAaGomZW-1920-80.jpg",
+   "text": "How to complete Whence the Weeping in Phantom Blade Zero Whence the Weeping might seem like a sidequest you're supposed to complete in Phantom Blade Zero 's first Weeping Creek Valley area, but it's actually a major quest that takes a significant portion of the game to finish. If you've just started and are here wondering if you've missed something: you haven't, and you don't need this guide right now. It's also relatively straightforward—it's just that quest tracking isn't available for it until you progress further. I'll run through its steps below, but these will contain spoilers for how to access a later game region, so you might want to steer clear: As you progress through the Crimson Forest (2nd region), you'll hear the weeping again, giving you a nav marker that coincides with the region boss, which provides a few more answers. When you arrive in the Village of Lu (3rd region) and speak to Jewel about the weeping, she speculates that The Chord wants to tell you something, and you're directed to the northeast of Meigu Lake. You'll have to progress through Pangzhen (4th region) and defeat its main boss in the west to get the Phantom Edge that unlocks the way to Meigu Lake via the north of the town. In the northeast of Meigu Lake, you'll find a barrier that only the Illusory Pipa Phantom Edge can dispel—fixing it is a whole quest in itself, so see the linked guide for details. Once fixed, dispel the barrier to enter the Mountain of Imprisonment region, progress to the reg",
+   "repos": [],
+   "firstSeen": "2026-10-29T06:03:16.453Z"
+  },
+  {
+   "title": "Where to find the Flesh Lily in Phantom Blade Zero",
+   "url": "https://www.pcgamer.com/games/action/phantom-blade-zero-flesh-lily-location/",
+   "date": "2026-10-29T02:00:00.000Z",
+   "source": "PC Gamer",
+   "outlet": "PC Gamer",
+   "summary": "Track down this rare flower to help Yu'er's father.",
+   "image": "https://cdn.mos.cms.futurecdn.net/Fh9kdG3PrEvkL7ym66t4UX-1920-80.jpg",
+   "text": "Where to find the Flesh Lily in Phantom Blade Zero Finding a Flesh Lily for Yu'er is the first sidequest you'll encounter in Phantom Blade Zero , but you can't complete it until a few areas and bosses later. You can find the Flesh Lily below the Sha-Chi tower, an area you reach after arriving at the outpost and beating Peng Meng. Specifically, it's accessible from the Valley Sha-Chi Tower 1st Floor bell when you arrive at the base of the tower, though you'll have to fight a boss to get it. Follow the video above, or: From the Valley Sha-Chi Tower 1st Floor bell, ascend the stairs and then circle around the right side of the tower. Drop down the hole at the back and slide down the long wooden ramp into the cavern filled with red spider lilies. Turn left and head up the slope into the lily-filled clearing above. When you arrive in the clearing, a cutscene will play, and you'll find yourself fighting Hua, Deadly Betrothed. She's relatively tricky, but this Hua boss guide offers more tips for defeating her, which will get you her powerful Scarlet Wraithblade. You'll also find the Twinned Flesh Lillies item on the corpse by the pavillion where she was standing at the start of the fight. After you defeat Peng Meng, Yu'er appears next to Forge at the outpost, so head there to give her the lily to complete this stage of the quest. She'll offer you the other lily as a memento. When you reach the Thieves Camp in the Crimson Forest, you'll encounter Yu'er again, after which, her questli",
+   "repos": [],
+   "firstSeen": "2026-10-29T06:03:16.453Z"
+  },
+  {
    "title": "Mario Kart World on Mac, Harmony of Despair PC Port, Lots of MiSTer Cores & More - 375",
    "url": "https://www.youtube.com/watch?v=tPZyy5yTJb4",
    "date": "2026-10-28T20:00:11.000Z",
@@ -1398,6 +1434,18 @@
    "text": "FlatOut 4꞉ Total Insanity VR - Full Release Launch Trailer FlatOut 4: Total Insanity VR has officially left Early Access and is OUT NOW in full on SteamVR. Play here: https://store.steampowered.com/app/3844750/FlatOut_4_Total_Insanity_VR/ The full release brings new multiplayer features, UI improvements, bHaptics support, new vehicles, control improvements, fixes across multiple modes, and a whole lot more. Full changelog: https://store.steampowered.com/news/app/3844750/view/681890829846976119 Race. Crash. Pull stunts. Wreck perfectly good cars. Then do it all again from the driver’s seat in VR. FlatOut 4: Total Insanity VR brings full-contact arcade racing into VR with racing, Assault, Carnage, Stunt Mode, Arena Mode, online multiplayer, motion controller steering, wheel support, spatial audio, and more.",
    "repos": [],
    "firstSeen": "2026-10-25T15:36:27.479Z"
+  },
+  {
+   "title": "Grand Theft Auto IV has received a fan port for the PlayStation 5 console with support for 60 FPS in 4K.",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdHBsd0dpQllpZ0p4TXZrTjl0cVQ1OTlmaHEyQXVsQkZzcUtHU3J0b2FuemZzampBTzg3WWxpSVFzajlQMXVGZE44clZYSVdyRk15dXo5MEVxeFhEcjJFdmpXX0VFVEhna25LN05HcDNwYWFtaXk0WlFCXzM2UWpGQzNvVFlXWEhrcnRMZHB0V3B6aDlyR3FwcXpXa1F2LXhvU2V5NVN5V19VNFN4MXJKMEtDY0R4RDNVRDk2NWQ2TmhFYThQWWNnVWdB?oc=5",
+   "date": "2026-10-23T21:25:13.000Z",
+   "source": "Google News",
+   "outlet": "GameGPU",
+   "summary": "",
+   "image": null,
+   "text": "Grand Theft Auto IV has received a fan port for the PlayStation 5 console with support for 60 FPS in 4K. - GameGPU Grand Theft Auto IV has received a fan port for the PlayStation 5 console with support for 60 FPS in 4K. GameGPU",
+   "repos": [],
+   "firstSeen": "2026-10-29T06:03:16.453Z"
   },
   {
    "title": "I Didn’t Think Gears of War Would Ever Be a Possibility Until Now…Am I Surprised Though?Not Really.",
