@@ -26520,7 +26520,7 @@
   ]
  },
  "quiver": {
-  "updatedAt": "2026-10-30T06:03:37.031Z",
+  "updatedAt": "2026-10-30T15:07:53.073Z",
   "projects": [
    {
     "id": "tgp482/007frwl-xberecomp",
@@ -27396,7 +27396,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v1.0.0-beta.6",
+    "catalogVersion": "v1.0.0-beta.7",
     "links": [
      {
       "label": "Quiver",
@@ -27864,7 +27864,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v1.3.5",
+    "catalogVersion": "v1.4.0",
     "links": [
      {
       "label": "Quiver",
@@ -27929,7 +27929,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "1.7.2",
+    "catalogVersion": "1.7.3",
     "links": [
      {
       "label": "Quiver",
@@ -28882,7 +28882,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "v0.9.39-beta.21",
+    "catalogVersion": "v0.9.39-beta.22",
     "links": [
      {
       "label": "Quiver",
@@ -30168,7 +30168,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "0.2.2",
+    "catalogVersion": "0.2.5",
     "links": [
      {
       "label": "Quiver",
@@ -30369,7 +30369,7 @@
      "macOS",
      "Windows"
     ],
-    "catalogVersion": "v1.0.0",
+    "catalogVersion": "v1.1.0",
     "links": [
      {
       "label": "Quiver",
@@ -31726,11 +31726,11 @@
     "description": "doa2u-re is a native PC port of Dead or Alive 2 Ultimate for Windows, macOS, and Linux, built by static recompilation.",
     "developer": "NoRain211",
     "targets": [
+     "Windows",
      "Linux",
-     "macOS",
-     "Windows"
+     "macOS"
     ],
-    "catalogVersion": "v0.1.11",
+    "catalogVersion": "v0.1.12",
     "links": [
      {
       "label": "Quiver",
@@ -32950,7 +32950,7 @@
      "Android",
      "Windows"
     ],
-    "catalogVersion": "snapshot-v1.13.1.20261029",
+    "catalogVersion": "snapshot-v1.13.1.20261030",
     "links": [
      {
       "label": "Quiver",
@@ -33547,7 +33547,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "v0.9.9",
+    "catalogVersion": "v0.9.10",
     "links": [
      {
       "label": "Quiver",
@@ -33778,7 +33778,8 @@
     "description": "future_rust_cop is a native PC port of Future Cop: L.A.P.D. that supports high resolutions, widescreen, and gamepads.",
     "developer": "RadiatorTwo",
     "targets": [
-     "Windows"
+     "Windows",
+     "Linux"
     ],
     "catalogVersion": "v0.3.0",
     "links": [
@@ -34305,10 +34306,10 @@
     "description": "Godot Engine is a cross-platform tool for creating 2D and 3D games with a unified interface.",
     "developer": "godotengine",
     "targets": [
-     "Windows",
-     "macOS",
+     "Android",
      "Linux",
-     "Android"
+     "macOS",
+     "Windows"
     ],
     "catalogVersion": "3.6.3-stable",
     "links": [
@@ -34603,7 +34604,9 @@
     "description": "Gran Turismo 2 PC, VR & Browser is a native C++ port of Gran Turismo 2 with desktop and VR support, and a WebAssembly browser version.",
     "developer": "Gran Turismo 2 PC & VR contributors",
     "targets": [
-     "Windows"
+     "Windows",
+     "macOS",
+     "Linux"
     ],
     "catalogVersion": "v0.9.0",
     "links": [
@@ -34637,7 +34640,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v1.0.4",
+    "catalogVersion": "v1.0.5",
     "links": [
      {
       "label": "Quiver",
@@ -35590,7 +35593,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.97.1",
+    "catalogVersion": "v0.97.2",
     "links": [
      {
       "label": "Quiver",
@@ -35756,7 +35759,8 @@
     "description": "Jade Cocoon on Bevy is a fan-made engine reimplementation of Jade Cocoon: Story of the Tamamayu for PlayStation, supporting battles, creature capture and merging, menus, movies, music, voices, and local save/load.",
     "developer": "ufodriverr",
     "targets": [
-     "Windows"
+     "Windows",
+     "Android"
     ],
     "catalogVersion": "v1.0.1",
     "links": [
@@ -35888,8 +35892,8 @@
     "description": "JetForceGemini-Recomp is a native PC port of Jet Force Gemini for Windows and Linux that translates the game's code for your PC.",
     "developer": "VibinToast",
     "targets": [
-     "Linux",
-     "Windows"
+     "Windows",
+     "Linux"
     ],
     "catalogVersion": "v1.2.4",
     "links": [
@@ -36553,7 +36557,7 @@
      "macOS",
      "Windows"
     ],
-    "catalogVersion": "test-462-arc-2",
+    "catalogVersion": "test-462-arc-3",
     "links": [
      {
       "label": "Quiver",
@@ -36585,7 +36589,7 @@
     "targets": [
      "Android"
     ],
-    "catalogVersion": "v0.5.7",
+    "catalogVersion": "v0.5.8",
     "links": [
      {
       "label": "Quiver",
@@ -36714,7 +36718,7 @@
      "macOS",
      "Windows"
     ],
-    "catalogVersion": "v1.10.0",
+    "catalogVersion": "v1.10.1",
     "links": [
      {
       "label": "Quiver",
@@ -37072,8 +37076,8 @@
     "description": "Magic Carpet 2 HD is a PC port of Magic Carpet 2 that supports HD resolutions and includes modern controls and a configurator.",
     "developer": "thobbsinteractive",
     "targets": [
-     "Linux",
-     "Windows"
+     "Windows",
+     "Linux"
     ],
     "catalogVersion": "0.9.16.0-beta-stable",
     "links": [
@@ -37871,7 +37875,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v2.3.9",
+    "catalogVersion": "v2.3.10",
     "links": [
      {
       "label": "Quiver",
@@ -37904,7 +37908,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "v0.1.5",
+    "catalogVersion": "v0.2.1",
     "links": [
      {
       "label": "Quiver",
@@ -38068,7 +38072,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "v0.9.72",
+    "catalogVersion": "v0.9.80",
     "links": [
      {
       "label": "Quiver",
@@ -39064,7 +39068,7 @@
      "Linux",
      "macOS"
     ],
-    "catalogVersion": "v0.9.43",
+    "catalogVersion": "v0.9.44",
     "links": [
      {
       "label": "Quiver",
@@ -39233,7 +39237,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "v0.7.2",
+    "catalogVersion": "v0.7.3",
     "links": [
      {
       "label": "Quiver",
@@ -40099,9 +40103,9 @@
     "description": "OpenRAC is a PC port of Ratchet & Clank that decompiles the game into C and rebuilds it for Windows, macOS, and Linux.",
     "developer": "OpenRAC",
     "targets": [
+     "Windows",
      "Linux",
-     "macOS",
-     "Windows"
+     "macOS"
     ],
     "catalogVersion": "sdk-v1.10.1",
     "links": [
@@ -40242,7 +40246,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v1.5.5",
+    "catalogVersion": "v1.5.6",
     "links": [
      {
       "label": "Quiver",
@@ -41471,7 +41475,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "v0.0.4",
+    "catalogVersion": "v0.0.5",
     "links": [
      {
       "label": "Quiver",
@@ -42026,7 +42030,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.4.1",
+    "catalogVersion": "v0.4.2",
     "links": [
      {
       "label": "Quiver",
@@ -43158,7 +43162,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v2.5.0",
+    "catalogVersion": "v2.6.0",
     "links": [
      {
       "label": "Quiver",
@@ -43357,7 +43361,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "v1.0.35",
+    "catalogVersion": "v1.0.36",
     "links": [
      {
       "label": "Quiver",
@@ -43522,7 +43526,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "v0.1.27",
+    "catalogVersion": "v0.1.32",
     "links": [
      {
       "label": "Quiver",
@@ -43721,7 +43725,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v1.51.2",
+    "catalogVersion": "v1.51.3",
     "links": [
      {
       "label": "Quiver",
@@ -43754,7 +43758,7 @@
      "Android",
      "Windows"
     ],
-    "catalogVersion": "v0.3.8-beta",
+    "catalogVersion": "v0.4.0-beta",
     "links": [
      {
       "label": "Quiver",
@@ -44378,7 +44382,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v1.2.3",
+    "catalogVersion": "v1.2.4",
     "links": [
      {
       "label": "Quiver",
@@ -46692,7 +46696,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v0.15.3",
+    "catalogVersion": "v0.15.4",
     "links": [
      {
       "label": "Quiver",
@@ -46726,7 +46730,7 @@
      "Windows",
      "macOS"
     ],
-    "catalogVersion": "v0.3.19",
+    "catalogVersion": "v0.3.20",
     "links": [
      {
       "label": "Quiver",
@@ -47615,9 +47619,10 @@
     "description": "TimeSplitters: Future Perfect PC is a native Windows and Mac port of TimeSplitters: Future Perfect that supports keyboard and mouse, 4K and ultrawide resolutions, and online multiplayer.",
     "developer": "TheDoffman",
     "targets": [
+     "macOS",
      "Windows"
     ],
-    "catalogVersion": "v0.3.6",
+    "catalogVersion": "v0.4.0",
     "links": [
      {
       "label": "Quiver",
@@ -48115,7 +48120,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "1.0.5-UFC3MONS",
+    "catalogVersion": "1.0.6-UFC3MONS",
     "links": [
      {
       "label": "Quiver",
@@ -48217,7 +48222,7 @@
      "macOS",
      "Windows"
     ],
-    "catalogVersion": "v1.1.177",
+    "catalogVersion": "v1.1.181",
     "links": [
      {
       "label": "Quiver",
@@ -48411,7 +48416,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v0.13.0",
+    "catalogVersion": "v0.13.1",
     "links": [
      {
       "label": "Quiver",
@@ -49528,7 +49533,8 @@
     "description": "Whopping Recompilation Collection is a native PC port of Sneak King, Big Bumpin', and PocketBike Racer with a couch-friendly launcher and up to 4K resolution.",
     "developer": "TekRantGaming",
     "targets": [
-     "Windows"
+     "Windows",
+     "Linux"
     ],
     "catalogVersion": "v1.0.7",
     "links": [
@@ -49761,7 +49767,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "windows-v0.2.47",
+    "catalogVersion": "windows-v0.2.49",
     "links": [
      {
       "label": "Quiver",
@@ -64960,7 +64966,7 @@
   ]
  },
  "pocket": {
-  "updatedAt": "2026-10-30T06:03:37.031Z",
+  "updatedAt": "2026-10-30T15:07:53.073Z",
   "projects": [
    {
     "id": "gpzi994/chiskit",
@@ -75984,11 +75990,11 @@
     "targets": [
      "Analogue Pocket"
     ],
-    "catalogVersion": "0.1.2",
-    "catalogDate": "2026-10-27",
+    "catalogVersion": "0.1.3",
+    "catalogDate": "2026-10-29",
     "download": {
-     "label": "Pocket 0.1.2",
-     "url": "https://github.com/mmnbass/openfpga-Jaguar/releases/download/v0.1.2/mmnbass.Jaguar_0.1.2.zip"
+     "label": "Pocket 0.1.3",
+     "url": "https://github.com/mmnbass/openfpga-Jaguar/releases/download/v0.1.3/mmnbass.Jaguar_0.1.3.zip"
     },
     "links": [
      {

@@ -1,6 +1,110 @@
 {
  "articles": [
   {
+   "title": "Inside the FPGB Mini",
+   "url": "https://retrorgb.com/inside-the-fpgb-mini.html",
+   "date": "2026-10-30T13:01:23.000Z",
+   "source": "RetroRGB",
+   "outlet": "RetroRGB",
+   "summary": "FunnyPlaying has been cooking up a new FPGA handheld called the GB Mini, and they were kind enough to send one my way for testing. Of course, the first thing I did was take it apart. You know, for science. At 64 x 113mm, the GB Mini is tiny, just a hair wider than a […]",
+   "image": null,
+   "text": "Inside the FPGB Mini FunnyPlaying has been cooking up a new FPGA handheld called the GB Mini, and they were kind enough to send one my way for testing. Of course, the first thing I did was take it apart. You know, for science. At 64 x 113mm, the GB Mini is tiny, just a hair wider than a […]",
+   "repos": [],
+   "firstSeen": "2026-10-30T15:07:53.073Z"
+  },
+  {
+   "title": "Serious Sam II VR Performance / New VR Mod with 6DOF Motion Controls / Quest 3 + RTX 4080 Super",
+   "url": "https://www.youtube.com/watch?v=Ytin06sBCTw",
+   "date": "2026-10-30T13:00:06.000Z",
+   "source": "YouTube: NotAGameAddict",
+   "outlet": "YouTube: NotAGameAddict",
+   "summary": "00:00 - VR settings 00:59 - VR gameplay 08:10 - VR gameplay with FPS overlay Serious Sam 2 VR mod made by ObeseCatLord - https://github.com/ObeseCatLord/Serious-Sam-2-VR Serious Sam II - https://store.steampowered.com/app/204340/Serious_Sam_II/",
+   "image": "https://i2.ytimg.com/vi/Ytin06sBCTw/hqdefault.jpg",
+   "text": "Serious Sam II VR Performance / New VR Mod with 6DOF Motion Controls / Quest 3 + RTX 4080 Super 00:00 - VR settings 00:59 - VR gameplay 08:10 - VR gameplay with FPS overlay Serious Sam 2 VR mod made by ObeseCatLord - https://github.com/ObeseCatLord/Serious-Sam-2-VR Serious Sam II - https://store.steampowered.com/app/204340/Serious_Sam_II/",
+   "repos": [
+    "github:ObeseCatLord/Serious-Sam-2-VR"
+   ],
+   "firstSeen": "2026-10-30T15:07:53.073Z"
+  },
+  {
+   "title": "Mario Kart Double Dash Recomp Out NOW!",
+   "url": "https://www.youtube.com/watch?v=D7Sy7OfTYnQ",
+   "date": "2026-10-30T12:45:11.000Z",
+   "source": "YouTube: Video Game Esoterica",
+   "outlet": "YouTube: Video Game Esoterica",
+   "summary": "SUPPORT THE CHANNEL : http://www.patreon.com/VideoGameEsoterica A Mario Kart Double Dash PC port / Mario Kart Double Dash Recomp is out now! More Nintendo PC ports! yay Enough about the Twilight Princess PC port Dusklight and Courage Reborn (ok both are epic and I will talk more about Zelda PC port fun soon)...it's time for a Super Paper Mario recomp! Because as far as new Mario games go Nintendo ",
+   "image": "https://i1.ytimg.com/vi/D7Sy7OfTYnQ/hqdefault.jpg",
+   "text": "Mario Kart Double Dash Recomp Out NOW! SUPPORT THE CHANNEL : http://www.patreon.com/VideoGameEsoterica A Mario Kart Double Dash PC port / Mario Kart Double Dash Recomp is out now! More Nintendo PC ports! yay Enough about the Twilight Princess PC port Dusklight and Courage Reborn (ok both are epic and I will talk more about Zelda PC port fun soon)...it's time for a Super Paper Mario recomp! Because as far as new Mario games go Nintendo has given us NO info...so let's have another Nintendo PC port instead! Check it out here: youll have to find it yourself - Project Tandem - Love VGE Questions? Comments? Just leave them below and I will do my best to answer each and every one of them! http://www.patreon.com/VideoGameEsoterica VGE",
+   "repos": [],
+   "firstSeen": "2026-10-30T15:07:53.073Z"
+  },
+  {
+   "title": "The SGBC Is a New, Sleek Game Boy-focused FPGA Console Designed by a French University Student",
+   "url": "https://www.timeextension.com/news/2026/10/the-sgbc-is-a-new-sleek-game-boy-focused-fpga-console-designed-by-a-french-university-student",
+   "date": "2026-10-30T12:00:00.000Z",
+   "source": "Time Extension",
+   "outlet": "Time Extension",
+   "summary": "We just made keyrings when I was at school. A newly designed FPGA console, capable of playing physical cartridges from Nintendo's Game Boy family, is preparing to hit the classic gaming market. The SGBC is the brainchild of Thomas Sanfourche, a French electronic engineer who is currently studying in Taiwan. As reported by RetroDodo , the SGBC is an FPGA-driven console that plays Game Boy, Game Boy",
+   "image": "https://images.timeextension.com/f1526a94d9cc9/large.jpg",
+   "text": "The SGBC Is a New, Sleek Game Boy-focused FPGA Console Designed by a French University Student We just made keyrings when I was at school. A newly designed FPGA console, capable of playing physical cartridges from Nintendo's Game Boy family, is preparing to hit the classic gaming market. The SGBC is the brainchild of Thomas Sanfourche, a French electronic engineer who is currently studying in Taiwan. As reported by RetroDodo , the SGBC is an FPGA-driven console that plays Game Boy, Game Boy Color, and Game Boy Advance carts, offering \"pixel-perfect\" 1080p upscaling for modern displays. The unassuming unit has a host of features, such as speed modes and Link Cable connectivity, and even offers the ability to pull ROMs directly from Game Boy carts to its SD Card storage. Read the full article on timeextension.com",
+   "repos": [],
+   "firstSeen": "2026-10-30T15:07:53.073Z"
+  },
+  {
+   "title": "‘Titanfall 2’ VR Mod Gets Even More Intense with Open Multiplayer Beta, Now Live",
+   "url": "https://roadtovr.com/titanfall-2-vr-multiplayer-mod-pc-vr/",
+   "date": "2026-10-30T10:49:52.000Z",
+   "source": "Road to VR",
+   "outlet": "Road to VR",
+   "summary": "Legendary movement shooter Titanfall 2 (2016) has been available in VR for almost a month now thanks to CircuitLord's unofficial VR mod. With a recent update, you'll also now be able to go head-to-head with other hardcore VR fans in online multiplayer too. Created by mod maker CircuitLord, the Titanfall 2 VR mod already included […] The post ‘Titanfall 2' VR Mod Gets Even More Intense with Open Mu",
+   "image": null,
+   "text": "‘Titanfall 2’ VR Mod Gets Even More Intense with Open Multiplayer Beta, Now Live Legendary movement shooter Titanfall 2 (2016) has been available in VR for almost a month now thanks to CircuitLord's unofficial VR mod. With a recent update, you'll also now be able to go head-to-head with other hardcore VR fans in online multiplayer too. Created by mod maker CircuitLord, the Titanfall 2 VR mod already included a list of near-VR-native tweaks for its single player campaign when it released late last month. Pretty impressive for a free VR mod—available through CircuitLord’s mod installer . Now, CircuitLord's Titanfall 2 VR mod is running an open multiplayer beta, which includes both NA and EU servers. You can check it out in action below: The Titanfall 2 VR mod has already received high praise for its comprehensive reworking of game’s controls for VR, including interactive weapon reloading for every gun in the game, a gesture-based reload for weapons like the Wingman, and a good translation of its admittedly intense locomotion, which lets you wall-run, dash-slide, and swing your way around the map with a grappling gun. What's more, the Titanfall 2 VR mod is free: just bring your own copy of the game, make sure your have a VR-ready PC in addition to basically any PC VR headset that supports OpenXR. If you want to support the creation of more mods like this, consider contributing to the creator , CircuitLord, who is also developing a spiritual successor to Echo Arena with his own V",
+   "repos": [
+    "github:CircuitLord/CircuitLordVRModInstaller"
+   ],
+   "firstSeen": "2026-10-30T15:07:53.073Z"
+  },
+  {
+   "title": "Grand Theft Auto IV VR Performance / New VR Mod with 6DOF Motion Controls / Quest 3 + RTX 4080 Super",
+   "url": "https://www.youtube.com/watch?v=PMR3K_49oac",
+   "date": "2026-10-30T09:25:01.000Z",
+   "source": "YouTube: NotAGameAddict",
+   "outlet": "YouTube: NotAGameAddict",
+   "summary": "00:00 - VR gameplay 06:17 - VR gameplay with FPS overlay 11:22 - VR and Graphics settings EDIT - This mod was made for a HP Reverb G2 headset, so for now the buttons of the Quest controllers don't work correctly. For example, I could not reload a weapon. GTA4VR mod was made by Hochgeschwindigkeitsrennfahrer - https://github.com/Hochgeschwindigkeitsrennfahrer/GTA4VR Quest 3 hand offset fix made by ",
+   "image": "https://i1.ytimg.com/vi/PMR3K_49oac/hqdefault.jpg",
+   "text": "Grand Theft Auto IV VR Performance / New VR Mod with 6DOF Motion Controls / Quest 3 + RTX 4080 Super 00:00 - VR gameplay 06:17 - VR gameplay with FPS overlay 11:22 - VR and Graphics settings EDIT - This mod was made for a HP Reverb G2 headset, so for now the buttons of the Quest controllers don't work correctly. For example, I could not reload a weapon. GTA4VR mod was made by Hochgeschwindigkeitsrennfahrer - https://github.com/Hochgeschwindigkeitsrennfahrer/GTA4VR Quest 3 hand offset fix made by Discord user Uruz - https://discordapp.com/channels/747967102895390741/1531522874987515955/1564917826937167965",
+   "repos": [
+    "github:Hochgeschwindigkeitsrennfahrer/GTA4VR"
+   ],
+   "firstSeen": "2026-10-30T15:07:53.073Z"
+  },
+  {
+   "title": "Snake On a Seven-Segment Display is Gloriously Bad",
+   "url": "https://hackaday.com/2026/10/30/snake-on-a-seven-segment-display-is-gloriously-bad/",
+   "date": "2026-10-30T08:00:20.000Z",
+   "source": "Hackaday",
+   "outlet": "Hackaday",
+   "summary": "You've no doubt heard the saying, “If something is worth doing, it's worth doing well.” But there's actually a counter-perspective to this particular philosophy that says it's also worth doing …read more",
+   "image": "https://hackaday.com/wp-content/uploads/2026/10/ledsnake_feat.gif",
+   "text": "Snake On a Seven-Segment Display is Gloriously Bad You've no doubt heard the saying, “If something is worth doing, it's worth doing well.” But there's actually a counter-perspective to this particular philosophy that says it's also worth doing things badly, with the general idea being that even a semi-successful attempt at something is better than no attempt at all. We're not sure if that's the principle [José Luis Monteiro] and his father had in mind while working on a way to play the classic Snake on a seven-segment LED display salvaged from an old DVD player, but surely the end result is the same. It's not so much that the display isn't a good fit for the eponymous snake, in fact, it actually makes a strange amount of sense. Each of the segments can stand in for a piece of the ever-growing serpent, and they're already arranged in a roughly rectangular grid that makes moving around straightforward enough. The issue is that the resolution — such as it is — of the display it pretty unforgiving for anything else. Namely, the “food” that your sake is after is naturally identical to one of its own segments, so it doesn't take long before it's all rather confusing visually. But in those brief opening moments, it actually works pretty well. Even if you're not interested in Snake , between the documentation, source code, and the video below, this project is a great primer on reverse engineering these types of displays . With a microcontroller, a datasheet, and a bit of patience, yo",
+   "repos": [
+    "github:emsyscode/sm1628-arduino"
+   ],
+   "firstSeen": "2026-10-30T15:07:53.073Z"
+  },
+  {
+   "title": "The Legend of Zelda Tears of the Kingdom gets a native PC port and 144 FPS",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMEVoWWo1Sk5aaUNwX3R6UHNfTHV2WTZ5Q1FGVTJXbk1BMExMYXN0dks4UlBTNWZVa0U0dGN4c2pBUll3WWd5QkVFcmFxSUhTYk1sQmlaQk1acmFSWm5KUGtYdWsyVWNSU1o2TGpKTXlHSDdtMk44RHVKZHBiS3ByRUpaSWpMNU1sTS1oc2tZTUV6eXFkMHVEZXZ0TVJ0N3JUNXg5N1NvbE1hMlM1VDQwUDNXaw?oc=5",
+   "date": "2026-10-30T06:11:18.000Z",
+   "source": "Google News",
+   "outlet": "GameGPU",
+   "summary": "",
+   "image": null,
+   "text": "The Legend of Zelda Tears of the Kingdom gets a native PC port and 144 FPS - GameGPU The Legend of Zelda Tears of the Kingdom gets a native PC port and 144 FPS GameGPU",
+   "repos": [],
+   "firstSeen": "2026-10-30T15:07:53.073Z"
+  },
+  {
    "title": "Putting a MiSTer Marquee on a Better Display",
    "url": "https://hackaday.com/2026/10/29/putting-a-mister-marquee-on-a-better-display/",
    "date": "2026-10-30T02:00:00.000Z",
@@ -13,6 +117,32 @@
     "github:doccaz/mister-tty2oled-esp32"
    ],
    "firstSeen": "2026-10-30T06:03:37.031Z"
+  },
+  {
+   "title": "'This port is not AI slop': Super Smash Bros. 64 recompilation project is Smash Remix compatible",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB5Vk41YXliUk9GRE1EZFlXeUVmZUtvYThyN0JDc09DVWpMbTJpR3FCcXdLVFd3RkJORDZzQXhObHZDdzlIWG9fQk13RFpaTDNXQkxzdURpeUswV3JHSzNhZlRBMzduVzBucXp6NWVOWTlfOUNkX2Myc2JmRTNiazg?oc=5",
+   "date": "2026-10-30T01:01:41.000Z",
+   "source": "Google News",
+   "outlet": "EventHubs",
+   "summary": "",
+   "image": null,
+   "text": "'This port is not AI slop': Super Smash Bros. 64 recompilation project is Smash Remix compatible - EventHubs 'This port is not AI slop': Super Smash Bros. 64 recompilation project is Smash Remix compatible EventHubs",
+   "repos": [],
+   "firstSeen": "2026-10-30T15:07:53.073Z"
+  },
+  {
+   "title": "Sonic Dream Team PC Port Out NOW! A Sonic Hidden Gem",
+   "url": "https://www.youtube.com/watch?v=Ad7KBmNRu94",
+   "date": "2026-10-30T01:00:10.000Z",
+   "source": "YouTube: Video Game Esoterica",
+   "outlet": "YouTube: Video Game Esoterica",
+   "summary": "SUPPORT THE CHANNEL : http://www.patreon.com/VideoGameEsoterica Sonic the Hedgehog has had a LOT of fun games...and a lot of rarer ones too! Sonic Dream Team, the Apple Arcade Sonic, has now been ported to PC! A Sonic Dream Team PC port is out now...and its QUITE good We have N64 Recomps and N64 PC ports, PS1 recomps and PS1 PC ports and Xbox 360 recomps...so why is Sega left out of the retro gami",
+   "image": "https://i2.ytimg.com/vi/Ad7KBmNRu94/hqdefault.jpg",
+   "text": "Sonic Dream Team PC Port Out NOW! A Sonic Hidden Gem SUPPORT THE CHANNEL : http://www.patreon.com/VideoGameEsoterica Sonic the Hedgehog has had a LOT of fun games...and a lot of rarer ones too! Sonic Dream Team, the Apple Arcade Sonic, has now been ported to PC! A Sonic Dream Team PC port is out now...and its QUITE good We have N64 Recomps and N64 PC ports, PS1 recomps and PS1 PC ports and Xbox 360 recomps...so why is Sega left out of the retro gaming recomp party? Sure we got a Sonic Adventure recomp...but what about one of the best Sonic games barely anyone played? Check it out here: https://gitlab.com/adokova1111/project-dream-release Questions? Comments? Just leave them below and I will do my best to answer each and every one of them! http://www.patreon.com/VideoGameEsoterica You can follow us at IG : ChicagoGameCollector , or join our Discord Server : https://discord.gg/6uFNZmHs8",
+   "repos": [
+    "gitlab:adokova1111/project-dream-release"
+   ],
+   "firstSeen": "2026-10-30T15:07:53.073Z"
   },
   {
    "title": "Metroid Prime 2 PC Port Out NOW",

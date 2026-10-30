@@ -1,7 +1,7 @@
 {
  "meta": {
   "seededAt": "2026-10-25T14:56:57.670Z",
-  "lastSearchAt": "2026-10-29T15:18:58.463Z"
+  "lastSearchAt": "2026-10-30T15:07:53.073Z"
  },
  "firstSeen": {
   "0c0de/splatterhouse-decomp": "2026-10-25T15:56:57.670Z",
@@ -148,6 +148,7 @@
   "bgyss/switchrecomp": "2026-10-25T15:36:27.479Z",
   "bibendovsky/bstone": "2026-10-25T15:36:27.479Z",
   "bifftannen1/dead-space-2-recomp": "2026-10-25T15:36:27.479Z",
+  "bigdaddyjrich/hctp-recomp": "2026-10-30T15:07:53.073Z",
   "bigmak94/astroquest": "2026-10-23T22:25:39.434Z",
   "bigmak94/galaxyquest": "2026-10-23T22:25:39.434Z",
   "bigmanlucavr/bo1vr": "2026-10-29T06:03:16.453Z",
@@ -905,6 +906,7 @@
   "lambda-gab/cod1-vr": "2026-10-25T19:08:26.092Z",
   "lancesweatpants/strikers-quest-mr": "2026-10-23T22:25:39.434Z",
   "lancommander/tonywasaproskater": "2026-10-25T15:36:27.479Z",
+  "lasvola/godhand-recomp": "2026-10-30T15:07:53.073Z",
   "laughtt/bloodborne-vr": "2026-10-25T15:36:27.479Z",
   "leanndroguedes/re3-19feb21": "2026-10-25T15:36:27.479Z",
   "legend-of-dragoon-modding/severed-chains": "2026-10-23T22:25:39.434Z",
@@ -1516,6 +1518,7 @@
   "oaleex/mojorecomp": "2026-10-23T22:25:39.434Z",
   "oaleex/shaolinmonksrecomp": "2026-10-23T22:25:39.434Z",
   "obaidr1/hercules-recompiled": "2026-10-23T22:25:39.434Z",
+  "obesecatlord/serious-sam-2-vr": "2026-10-30T15:07:53.073Z",
   "obijuan/ctif-madrid-2018-fpgas-libres": "2026-10-26T15:18:29.150Z",
   "obijuan/open-fpga-verilog-tutorial": "2026-10-26T15:18:29.150Z",
   "obsidian-dot-dev/openfpga-asteroidsdeluxe": "2026-10-25T15:56:57.670Z",
@@ -1982,6 +1985,7 @@
   "shipa-2/xerenge": "2026-10-23T22:46:33.769Z",
   "shontaware/fpga_design_fabric_architecture": "2026-10-26T15:18:29.150Z",
   "sicksartori/mc3port": "2026-10-30T06:03:37.031Z",
+  "silentsudin/roadtripadventure-recomp": "2026-10-30T15:07:53.073Z",
   "silverwiregames/rechan": "2026-10-23T22:25:39.434Z",
   "simon358/ctr-native-android": "2026-10-23T22:25:39.434Z",
   "simplysnake/grimdawn_mod": "2026-10-25T15:36:27.479Z",
@@ -2205,6 +2209,7 @@
   "underdecoded/gen2recomped": "2026-10-25T15:36:27.479Z",
   "uzdoom/uzdoom": "2026-10-25T15:36:27.479Z",
   "vaas993/thehuntercotw-vr": "2026-10-25T15:36:27.479Z",
+  "valentderah/totk-pc-recomp": "2026-10-30T15:07:53.073Z",
   "vantageex/infamous-first-light-pc": "2026-10-27T14:45:45.436Z",
   "vasilkovnd/ds2-nx": "2026-10-25T15:36:27.479Z",
   "vcmi/vcmi": "2026-10-25T15:36:27.479Z",
@@ -2263,7 +2268,9 @@
   "xenophobentx/takedawn": "2026-10-25T15:36:27.479Z",
   "xgcmodding/platinum": "2026-10-25T15:36:27.479Z",
   "y0oshi/lain-psx-decompiled": "2026-10-25T15:36:27.479Z",
+  "yanm1103/war_of_the_monsters_recomp": "2026-10-30T15:07:53.073Z",
   "yash-singh1/wipeout-xl-rewrite": "2026-10-30T06:03:37.031Z",
+  "yaz-myst/zoe-recompiled": "2026-10-30T15:07:53.073Z",
   "yell0wsuit/cuttherope-dx": "2026-10-23T22:25:39.434Z",
   "yestermester/thesimpsonsgamerecomp": "2026-10-23T22:25:39.434Z",
   "yokimitsuro/khdays-port": "2026-10-25T15:36:27.479Z",
@@ -2808,6 +2815,30 @@
     "kind": "search",
     "title": "\"static recompilation\" in:description stars:>30",
     "date": "2026-10-25T15:36:27.479Z"
+   },
+   "autoFollow": false
+  },
+  "bigdaddyjrich/hctp-recomp": {
+   "id": "bigdaddyjrich/hctp-recomp",
+   "name": "hctp recomp",
+   "game": "hctp recomp",
+   "categories": [
+    "PlayStation 2"
+   ],
+   "type": "recompilation",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "BigDaddyJRich/hctp-recomp"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "PS2Recomp in:readme stars:>20",
+    "date": "2026-10-30T15:07:53.073Z"
    },
    "autoFollow": false
   },
@@ -6225,6 +6256,30 @@
    },
    "autoFollow": true
   },
+  "lasvola/godhand-recomp": {
+   "id": "lasvola/godhand-recomp",
+   "name": "godhand recomp",
+   "game": "godhand recomp",
+   "categories": [
+    "PlayStation 2"
+   ],
+   "type": "recompilation",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "LasVola/godhand-recomp"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "PS2Recomp in:readme stars:>20",
+    "date": "2026-10-30T15:07:53.073Z"
+   },
+   "autoFollow": false
+  },
   "laughtt/bloodborne-vr": {
    "id": "laughtt/bloodborne-vr",
    "name": "bloodborne vr",
@@ -7341,7 +7396,36 @@
     "title": "\"static recompilation\" in:description stars:>30",
     "date": "2026-10-26T15:18:29.150Z"
    },
-   "autoFollow": false
+   "autoFollow": true
+  },
+  "obesecatlord/serious-sam-2-vr": {
+   "id": "obesecatlord/serious-sam-2-vr",
+   "name": "Serious Sam 2 VR",
+   "game": "Serious Sam 2 VR",
+   "categories": [
+    "Other",
+    "VR Ports"
+   ],
+   "type": "port",
+   "tags": [
+    "VR"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "ObeseCatLord/Serious-Sam-2-VR"
+   },
+   "links": [],
+   "sources": [
+    "news"
+   ],
+   "discoveredFrom": {
+    "kind": "news",
+    "title": "Serious Sam II VR Performance / New VR Mod with 6DOF Motion Controls / Quest 3 + RTX 4080 Super",
+    "url": "https://www.youtube.com/watch?v=Ytin06sBCTw",
+    "source": "YouTube: NotAGameAddict",
+    "date": "2026-10-30T13:00:06.000Z"
+   },
+   "autoFollow": true
   },
   "obijuan/ctif-madrid-2018-fpgas-libres": {
    "id": "obijuan/ctif-madrid-2018-fpgas-libres",
@@ -8853,6 +8937,30 @@
    },
    "autoFollow": false
   },
+  "silentsudin/roadtripadventure-recomp": {
+   "id": "silentsudin/roadtripadventure-recomp",
+   "name": "Road Trip Adventure recomp",
+   "game": "Road Trip Adventure recomp",
+   "categories": [
+    "Other"
+   ],
+   "type": "recompilation",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "silentsudin/RoadTripAdventure-recomp"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "PS2Recomp in:readme stars:>20",
+    "date": "2026-10-30T15:07:53.073Z"
+   },
+   "autoFollow": false
+  },
   "simplysnake/grimdawn_mod": {
    "id": "simplysnake/grimdawn_mod",
    "name": "Grim Dawn mod",
@@ -9781,6 +9889,30 @@
    },
    "autoFollow": true
   },
+  "valentderah/totk-pc-recomp": {
+   "id": "valentderah/totk-pc-recomp",
+   "name": "totk pc recomp",
+   "game": "totk pc recomp",
+   "categories": [
+    "Other"
+   ],
+   "type": "recompilation",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "valentderah/totk-pc-recomp"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "\"static recompilation\" in:description stars:>30",
+    "date": "2026-10-30T15:07:53.073Z"
+   },
+   "autoFollow": true
+  },
   "vantageex/infamous-first-light-pc": {
    "id": "vantageex/infamous-first-light-pc",
    "name": "infamous first light pc",
@@ -10028,6 +10160,54 @@
    },
    "autoFollow": false
   },
+  "yanm1103/war_of_the_monsters_recomp": {
+   "id": "yanm1103/war_of_the_monsters_recomp",
+   "name": "War of the Monsters recomp",
+   "game": "War of the Monsters recomp",
+   "categories": [
+    "PlayStation 2"
+   ],
+   "type": "recompilation",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "yanm1103/War_of_the_Monsters_recomp"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "PS2Recomp in:readme stars:>20",
+    "date": "2026-10-30T15:07:53.073Z"
+   },
+   "autoFollow": false
+  },
+  "yaz-myst/zoe-recompiled": {
+   "id": "yaz-myst/zoe-recompiled",
+   "name": "ZOE Recompiled",
+   "game": "ZOE Recompiled",
+   "categories": [
+    "Other"
+   ],
+   "type": "recompilation",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "Yaz-Myst/ZOE-Recompiled"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "PS2Recomp in:readme stars:>20",
+    "date": "2026-10-30T15:07:53.073Z"
+   },
+   "autoFollow": false
+  },
   "yoshicrystal9/re-gh2": {
    "id": "yoshicrystal9/re-gh2",
    "name": "re gh2",
@@ -10199,10 +10379,12 @@
   "dryxio/reagent": "2026-10-23",
   "elipsitz/gamebub": "2026-10-23",
   "emmercm/igir": "2026-10-26",
+  "emsyscode/sm1628-arduino": "2026-10-30",
   "euan-forrester/save-file-converter": "2026-10-26",
   "exxistancedc/tama-english-translation": "2026-10-23",
   "fever308/eday-steam-direct-launcher": "2026-10-25",
   "ghaleonx/ys": "2026-10-23",
+  "gitlab:adokova1111/project-dream-release": "2026-10-30",
   "gitlab:pepsipu/ns2jb": "2026-10-23",
   "hkmodd/pcsx2-mcp": "2026-10-23",
   "hochgeschwindigkeitsrennfahrer/gta4vr": "2026-10-29",
