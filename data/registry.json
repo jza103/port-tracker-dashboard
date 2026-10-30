@@ -126,6 +126,7 @@
   "awakenchan/lanternengine": "2026-10-25T15:36:27.479Z",
   "awesomedolphin/openfpga-spaceinvaders": "2026-10-25T15:56:57.670Z",
   "ayozetr/bloodborne_linux": "2026-10-25T15:36:27.479Z",
+  "badcompany94-rcmp/project-tandem": "2026-10-30T20:54:21.398Z",
   "bailo167/awesome-game-mashups": "2026-10-23T22:46:33.769Z",
   "bananawifi/openfpga-game-boy-printer": "2026-10-25T15:56:57.670Z",
   "banjorecomp/banjorecomp": "2026-10-23T22:25:39.434Z",
@@ -515,6 +516,7 @@
   "frankhun88453/cod3recomp": "2026-10-23T22:25:39.434Z",
   "frazilpop/cave-68000-pocket#frazilpop-cave-68000": "2026-10-25T15:56:57.670Z",
   "frazilpop/great-1000-miles-rally-pocket": "2026-10-25T15:56:57.670Z",
+  "frazilpop/toaplan-v2-pocket": "2026-10-30T20:54:21.398Z",
   "frederickk/pocketmidilink": "2026-10-26T15:18:29.150Z",
   "freefrank/lostodysseyrecomp": "2026-10-23T22:25:39.434Z",
   "fulgernet/repop": "2026-10-26T05:01:17.002Z",
@@ -920,6 +922,8 @@
   "letsgosportsteam/singularity-vr-mod": "2026-10-25T15:36:27.479Z",
   "levigaming1248/myfriendlyneighborhoodvr": "2026-10-25T15:36:27.479Z",
   "lfarroco/ogre-battle-64-recomp": "2026-10-25T15:36:27.479Z",
+  "lialan/lindbergh-recomp-ports#ghost-squad-evolution-vr": "2026-10-30T20:54:21.398Z",
+  "lialan/lindbergh-recomp-ports#hotd4-vr": "2026-10-30T20:54:21.398Z",
   "linkssy2/darkwatchdarkeredition": "2026-10-23T22:25:39.434Z",
   "linkssy2/roadrash64recompiled": "2026-10-23T22:25:39.434Z",
   "linkssy2/urbanchaosriotresponseburneredition": "2026-10-25T15:36:27.479Z",
@@ -1419,6 +1423,7 @@
   "mr-finster/vf2-recomp": "2026-10-25T15:36:27.479Z",
   "mr-finster/vf3-recomp": "2026-10-25T15:36:27.479Z",
   "mrsco/goldeneye-vr": "2026-10-23T22:25:39.434Z",
+  "mrsurviv0r/mrsurviv0r-s-vr-hub": "2026-10-30T20:54:21.398Z",
   "mrsuss60/bloodborne_pc_windows_port": "2026-10-25T15:36:27.479Z",
   "mstan/apeescaperecomp": "2026-10-23T22:25:39.434Z",
   "mstan/battlearenatoshindenrecomp": "2026-10-23T22:25:39.434Z",
@@ -1493,6 +1498,7 @@
   "nikamigaming-create/mgs5vr": "2026-10-25T15:36:27.479Z",
   "nikolaygorb/armyoftworecomp": "2026-10-23T22:25:39.434Z",
   "nikolaygorb/goldeneye007reloadedrecomp": "2026-10-30T06:03:37.031Z",
+  "nikolaygorb/perfectdarkzerorecomp": "2026-10-30T20:54:21.398Z",
   "njh-1001/finfantacrecomp": "2026-10-23T22:25:39.434Z",
   "njh-1001/sexyparorecomp": "2026-10-25T15:36:27.479Z",
   "njh-1001/wipeout2k97xl": "2026-10-23T22:25:39.434Z",
@@ -2223,6 +2229,8 @@
   "vincecrusty/turokvr": "2026-10-25T15:36:27.479Z",
   "vinceip/fci-recomp": "2026-10-25T15:36:27.479Z",
   "vistalargagames/bomberman-hero-quest-3-vr-standalone": "2026-10-27T05:17:56.999Z",
+  "vistalargagames/mystical-ninja-vr": "2026-10-30T20:54:21.398Z",
+  "vistalargagames/sin-and-punishment-quest-vr": "2026-10-30T20:54:21.398Z",
   "vistalargagames/smash-remix-vr": "2026-10-23T22:25:39.434Z",
   "vistalargagames/waverace64-questvr": "2026-10-23T22:25:39.434Z",
   "vitomiguelf/crashott-pc": "2026-10-24T18:51:55.727Z",
@@ -2232,12 +2240,14 @@
   "voicedrew11/verdite3": "2026-10-25T15:36:27.479Z",
   "vr-stereo-hub/bioshock-trilogy-vr": "2026-10-25T15:36:27.479Z",
   "vr-stereo-hub/dishonored-vr": "2026-10-25T15:36:27.479Z",
+  "vr4all-standalone/carnevil-vr": "2026-10-30T20:54:21.398Z",
   "vr4all-standalone/confidential-mission-vr": "2026-10-28T15:14:34.148Z",
   "vr4all-standalone/death-crimson-ox-vr": "2026-10-28T15:14:34.148Z",
   "vr4all-standalone/lupin-the-third-vr": "2026-10-28T15:14:34.148Z",
   "vr4all-standalone/mok-vr": "2026-10-28T15:14:34.148Z",
   "vr4all-standalone/ninja-assault-vr": "2026-10-28T15:14:34.148Z",
   "vr4all-standalone/survivor2-code-veronica-vr": "2026-10-28T15:14:34.148Z",
+  "vr4all-standalone/teraburst-vr": "2026-10-30T20:54:21.398Z",
   "vyanhursky/defjamffny-recomp": "2026-10-23T22:46:33.769Z",
   "wargus/war1gus": "2026-10-25T15:36:27.479Z",
   "wargus/wargus": "2026-10-25T15:36:27.479Z",
@@ -7196,6 +7206,35 @@
    },
    "autoFollow": false
   },
+  "mrsurviv0r/mrsurviv0r-s-vr-hub": {
+   "id": "mrsurviv0r/mrsurviv0r-s-vr-hub",
+   "name": "MRSURVIV0R S VR HUB",
+   "game": "MRSURVIV0R S VR HUB",
+   "categories": [
+    "Other",
+    "VR Ports"
+   ],
+   "type": "tool",
+   "tags": [
+    "VR"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "MrSurviv0r/MRSURVIV0R-S-VR-HUB"
+   },
+   "links": [],
+   "sources": [
+    "news"
+   ],
+   "discoveredFrom": {
+    "kind": "news",
+    "title": "VR in EVERY Game, it's just a MATTER of time!!! + Boltgun 2 VR Mod and Gameplay!",
+    "url": "https://www.youtube.com/watch?v=K_-89K0ToT0",
+    "source": "YouTube: Paradise Decay",
+    "date": "2026-10-30T18:30:10.000Z"
+   },
+   "autoFollow": false
+  },
   "mzzvxm/larecomp": {
    "id": "mzzvxm/larecomp",
    "name": "LARecomp",
@@ -10395,6 +10434,7 @@
   "jorge262007/fftarecomp": "2026-10-23",
   "juaniwck/mister-retroarch-save-sync": "2026-10-23",
   "justxor/awesome-decomp-games-ru": "2026-10-23",
+  "kuslota/inkboy": "2026-10-30",
   "kytyps5/kytyps5": "2026-10-23",
   "lightvelox/sotc-vibe-pc": "2026-10-23",
   "mabec-games/f-zero-glinux": "2026-10-27",

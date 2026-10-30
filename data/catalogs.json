@@ -1,6 +1,6 @@
 {
  "questports": {
-  "updatedAt": "2026-10-29T15:18:58.463Z",
+  "updatedAt": "2026-10-30T20:54:21.398Z",
   "projects": [
    {
     "id": "f1nal-b0ss/18-wheeler-decomp",
@@ -114,7 +114,7 @@
      "Quest Pro"
     ],
     "download": null,
-    "catalogVersion": "v1.3.1",
+    "catalogVersion": "v1.4",
     "links": [
      {
       "label": "QuestPorts",
@@ -3574,6 +3574,90 @@
     ]
    },
    {
+    "id": "vr4all-standalone/carnevil-vr",
+    "aliases": [
+     "questports:carnevil-vr"
+    ],
+    "name": "CarnEvil VR",
+    "game": "CarnEvil",
+    "categories": [
+     "VR Ports"
+    ],
+    "type": "emulator",
+    "tags": [
+     "VR"
+    ],
+    "repo": {
+     "host": "github",
+     "path": "vr4all-standalone/carnevil-vr"
+    },
+    "description": "Midway's arcade horror light-gun game CarnEvil in VR, standalone on Meta Quest 3. Tracked lightguns, depth 3D scenery, and two-player support.",
+    "developer": "vr4all-standalone",
+    "status": "Playable beta",
+    "targets": [
+     "Quest 3",
+     "Quest 3S"
+    ],
+    "download": {
+     "label": "Download v0.1.4",
+     "url": "https://github.com/vr4all-standalone/carnevil-vr/releases/download/v0.1.4/carnevil-vr-quest.apk"
+    },
+    "catalogVersion": "v0.1.4",
+    "links": [
+     {
+      "label": "QuestPorts",
+      "url": "https://questports.vercel.app/ports/carnevil-vr"
+     }
+    ],
+    "image": "https://questports-media.questports.workers.dev/covers/carnevil-vr.jpg?v=6",
+    "sources": [
+     "questports"
+    ]
+   },
+   {
+    "id": "lialan/lindbergh-recomp-ports#ghost-squad-evolution-vr",
+    "aliases": [
+     "questports:ghost-squad-evolution-vr"
+    ],
+    "name": "Ghost Squad Evolution VR",
+    "game": "Ghost Squad Evolution",
+    "categories": [
+     "VR Ports"
+    ],
+    "type": "port",
+    "tags": [
+     "VR"
+    ],
+    "repo": {
+     "host": "github",
+     "path": "lialan/lindbergh-recomp-ports"
+    },
+    "tagPattern": "^v?\\d",
+    "description": "Sega's 2007 Lindbergh arcade light-gun shooter Ghost Squad Evolution, statically recompiled to native code and running standalone on Meta Quest in stereo VR. Tracked controller gun and a HUD on a floating screen. Nothing is emulated.",
+    "developer": "lialan",
+    "status": "Playable beta",
+    "targets": [
+     "Quest 3",
+     "Quest 3S",
+     "Quest Pro"
+    ],
+    "download": {
+     "label": "Download v0.2.0",
+     "url": "https://github.com/lialan/lindbergh-recomp-ports/releases/download/v0.2.0/GhostSquadEvolutionVR-v0.2.0-quest3.apk"
+    },
+    "catalogVersion": "v0.2.0",
+    "links": [
+     {
+      "label": "QuestPorts",
+      "url": "https://questports.vercel.app/ports/ghost-squad-evolution-vr"
+     }
+    ],
+    "image": "https://questports-media.questports.workers.dev/covers/ghost-squad-evolution-vr.png?v=6",
+    "sources": [
+     "questports"
+    ]
+   },
+   {
     "id": "sezero/uhexen2",
     "aliases": [
      "questports:hexen2vr"
@@ -3649,6 +3733,46 @@
      }
     ],
     "image": "https://questports-media.questports.workers.dev/covers/jkxr.jpg?v=6",
+    "sources": [
+     "questports"
+    ]
+   },
+   {
+    "id": "vistalargagames/mystical-ninja-vr",
+    "aliases": [
+     "questports:mystical-ninja-vr"
+    ],
+    "name": "Mystical Ninja VR",
+    "game": "Mystical Ninja",
+    "categories": [
+     "VR Ports"
+    ],
+    "type": "port",
+    "tags": [
+     "VR"
+    ],
+    "repo": {
+     "host": "github",
+     "path": "VistaLargaGames/Mystical-Ninja-VR"
+    },
+    "description": "Mystical Ninja Starring Goemon (Nintendo 64) running natively on Meta Quest 3 at 60 FPS, built on Goemon 64: Recompiled. Head-tracked camera that follows Goemon, plus a first-person mode.",
+    "developer": "VistaLargaGames",
+    "status": "Playable beta",
+    "targets": [
+     "Quest 3"
+    ],
+    "download": {
+     "label": "Download v0.1.20",
+     "url": "https://github.com/VistaLargaGames/Mystical-Ninja-VR/releases/download/v0.1.20/MysticalNinjaVR-Quest-0.1.20.apk"
+    },
+    "catalogVersion": "v0.1.20",
+    "links": [
+     {
+      "label": "QuestPorts",
+      "url": "https://questports.vercel.app/ports/mystical-ninja-vr"
+     }
+    ],
+    "image": "https://questports-media.questports.workers.dev/covers/mystical-ninja-vr.jpg?v=6",
     "sources": [
      "questports"
     ]
@@ -3811,6 +3935,130 @@
     ]
    },
    {
+    "id": "vistalargagames/sin-and-punishment-quest-vr",
+    "aliases": [
+     "questports:sin-and-punishment-vr"
+    ],
+    "name": "Sin & Punishment VR",
+    "game": "Sin & Punishment",
+    "categories": [
+     "VR Ports"
+    ],
+    "type": "port",
+    "tags": [
+     "VR"
+    ],
+    "repo": {
+     "host": "github",
+     "path": "VistaLargaGames/Sin-and-Punishment-Quest-VR"
+    },
+    "description": "Treasure's N64 rail shooter Sin and Punishment running natively on Meta Quest 3. Point-and-shoot aiming, a wide head-tracked view in the stages, 60 fps, and HD texture pack support.",
+    "developer": "VistaLargaGames",
+    "status": "Playable beta",
+    "targets": [
+     "Quest 3"
+    ],
+    "download": {
+     "label": "Download v0.1.0",
+     "url": "https://github.com/VistaLargaGames/Sin-and-Punishment-Quest-VR/releases/download/v0.1.0/Sin-and-Punishment-VR-0.1.0.apk"
+    },
+    "catalogVersion": "v0.1.0",
+    "links": [
+     {
+      "label": "QuestPorts",
+      "url": "https://questports.vercel.app/ports/sin-and-punishment-vr"
+     }
+    ],
+    "image": "https://questports-media.questports.workers.dev/covers/sin-and-punishment-vr.png?v=6",
+    "sources": [
+     "questports"
+    ]
+   },
+   {
+    "id": "vr4all-standalone/teraburst-vr",
+    "aliases": [
+     "questports:teraburst-vr"
+    ],
+    "name": "Teraburst VR",
+    "game": "Teraburst",
+    "categories": [
+     "VR Ports"
+    ],
+    "type": "emulator",
+    "tags": [
+     "VR"
+    ],
+    "repo": {
+     "host": "github",
+     "path": "vr4all-standalone/teraburst-vr"
+    },
+    "description": "Konami's 1998 arcade alien-invasion light-gun shooter Teraburst in stereo VR, standalone on Meta Quest 3. Tracked guns, native 3D scenery, and two-player support.",
+    "developer": "vr4all-standalone",
+    "status": "Playable beta",
+    "targets": [
+     "Quest 3",
+     "Quest 3S"
+    ],
+    "download": {
+     "label": "Download v0.1.2",
+     "url": "https://github.com/vr4all-standalone/teraburst-vr/releases/download/v0.1.2/teraburst-vr-quest.apk"
+    },
+    "catalogVersion": "v0.1.2",
+    "links": [
+     {
+      "label": "QuestPorts",
+      "url": "https://questports.vercel.app/ports/teraburst-vr"
+     }
+    ],
+    "image": "https://questports-media.questports.workers.dev/covers/teraburst-vr.jpg?v=6",
+    "sources": [
+     "questports"
+    ]
+   },
+   {
+    "id": "lialan/lindbergh-recomp-ports#hotd4-vr",
+    "aliases": [
+     "questports:hotd4-vr"
+    ],
+    "name": "The House of the Dead 4 VR",
+    "game": "The House of the Dead 4",
+    "categories": [
+     "VR Ports"
+    ],
+    "type": "port",
+    "tags": [
+     "VR"
+    ],
+    "repo": {
+     "host": "github",
+     "path": "lialan/lindbergh-recomp-ports"
+    },
+    "tagPattern": "^v?\\d",
+    "description": "Sega's 2005 Lindbergh arcade zombie light-gun shooter The House of the Dead 4, statically recompiled to native code and running standalone on Meta Quest in stereo VR. Tracked controller gun, nothing emulated.",
+    "developer": "lialan",
+    "status": "Playable beta",
+    "targets": [
+     "Quest 3",
+     "Quest 3S",
+     "Quest Pro"
+    ],
+    "download": {
+     "label": "Download v0.2.0",
+     "url": "https://github.com/lialan/lindbergh-recomp-ports/releases/download/v0.2.0/HouseOfTheDead4VR-v0.2.0-quest3.apk"
+    },
+    "catalogVersion": "v0.2.0",
+    "links": [
+     {
+      "label": "QuestPorts",
+      "url": "https://questports.vercel.app/ports/hotd4-vr"
+     }
+    ],
+    "image": "https://questports-media.questports.workers.dev/covers/hotd4-vr.png?v=6",
+    "sources": [
+     "questports"
+    ]
+   },
+   {
     "id": "winlatorxr/winlatorxr",
     "aliases": [
      "questports:winlatorxr"
@@ -3853,7 +4101,7 @@
   ]
  },
  "portsdr": {
-  "updatedAt": "2026-10-29T06:03:16.453Z",
+  "updatedAt": "2026-10-30T20:54:21.398Z",
   "projects": [
    {
     "id": "harbourmasters/2ship2harkinian",
@@ -4807,6 +5055,27 @@
      "PS Vita"
     ],
     "image": "https://cdn2.steamgriddb.com/thumb/afa10814865d47b74741b44d8fcbb37b.jpg",
+    "sources": [
+     "portsdr"
+    ]
+   },
+   {
+    "id": "giopixelgh/crash-twinsanity-windows",
+    "name": "Crash-Twinsanity-Windows",
+    "game": "Crash Twinsanity",
+    "categories": [
+     "PlayStation 2"
+    ],
+    "type": "port",
+    "repo": {
+     "host": "github",
+     "path": "GioPixelGH/Crash-Twinsanity-Windows"
+    },
+    "links": [],
+    "targets": [
+     "Windows"
+    ],
+    "image": "https://cdn2.steamgriddb.com/thumb/d602b71dba27532ef27bfc033c563d19.jpg",
     "sources": [
      "portsdr"
     ]
@@ -8089,6 +8358,27 @@
      "macOS"
     ],
     "image": "https://cdn2.steamgriddb.com/icon_thumb/5bde50e343d4f458d750b107e15f7aea.png",
+    "sources": [
+     "portsdr"
+    ]
+   },
+   {
+    "id": "badcompany94-rcmp/project-tandem",
+    "name": "project-tandem",
+    "game": "Mario Kart: Double Dash!!",
+    "categories": [
+     "GameCube"
+    ],
+    "type": "port",
+    "repo": {
+     "host": "github",
+     "path": "badcompany94-rcmp/project-tandem"
+    },
+    "links": [],
+    "targets": [
+     "Windows"
+    ],
+    "image": "https://cdn2.steamgriddb.com/thumb/e26b1a79081aebecb7b3e4381e3fe1f4.jpg",
     "sources": [
      "portsdr"
     ]
@@ -26520,7 +26810,7 @@
   ]
  },
  "quiver": {
-  "updatedAt": "2026-10-30T15:07:53.073Z",
+  "updatedAt": "2026-10-30T20:54:21.398Z",
   "projects": [
    {
     "id": "tgp482/007frwl-xberecomp",
@@ -26870,7 +27160,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.2.0",
+    "catalogVersion": "v0.3.0",
     "links": [
      {
       "label": "Quiver",
@@ -27097,7 +27387,7 @@
      "macOS",
      "Windows"
     ],
-    "catalogVersion": "v0804",
+    "catalogVersion": "v0805",
     "links": [
      {
       "label": "Quiver",
@@ -27396,7 +27686,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v1.0.0-beta.7",
+    "catalogVersion": "v1.0.0-beta.8",
     "links": [
      {
       "label": "Quiver",
@@ -27929,7 +28219,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "1.7.3",
+    "catalogVersion": "1.7.4",
     "links": [
      {
       "label": "Quiver",
@@ -28882,7 +29172,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "v0.9.39-beta.22",
+    "catalogVersion": "v0.9.39-beta.23",
     "links": [
      {
       "label": "Quiver",
@@ -29281,7 +29571,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "v0.5.0",
+    "catalogVersion": "v0.5.1",
     "links": [
      {
       "label": "Quiver",
@@ -30005,7 +30295,7 @@
      "iOS",
      "macOS"
     ],
-    "catalogVersion": "v0.15.12",
+    "catalogVersion": "v0.15.13",
     "links": [
      {
       "label": "Quiver",
@@ -30828,7 +31118,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.8.4-beta",
+    "catalogVersion": "v0.8.5-beta",
     "links": [
      {
       "label": "Quiver",
@@ -32983,7 +33273,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v0.9.2",
+    "catalogVersion": "v0.9.3",
     "links": [
      {
       "label": "Quiver",
@@ -33514,7 +33804,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v0.2.0",
+    "catalogVersion": "v0.2.1",
     "links": [
      {
       "label": "Quiver",
@@ -33781,7 +34071,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "v0.3.0",
+    "catalogVersion": "v0.4.0",
     "links": [
      {
       "label": "Quiver",
@@ -33982,7 +34272,7 @@
      "Android",
      "Windows"
     ],
-    "catalogVersion": "v0.3.11",
+    "catalogVersion": "v0.3.12",
     "links": [
      {
       "label": "Quiver",
@@ -35263,7 +35553,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "v0.3.0",
+    "catalogVersion": "v0.3.2",
     "links": [
      {
       "label": "Quiver",
@@ -35431,7 +35721,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.1.24",
+    "catalogVersion": "v0.1.25",
     "links": [
      {
       "label": "Quiver",
@@ -35627,7 +35917,7 @@
      "Windows",
      "Android"
     ],
-    "catalogVersion": "v1.4.0",
+    "catalogVersion": "v1.5.0",
     "links": [
      {
       "label": "Quiver",
@@ -36290,7 +36580,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v1.9.13",
+    "catalogVersion": "v2.0.0",
     "links": [
      {
       "label": "Quiver",
@@ -37707,7 +37997,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v1.0-Stable",
+    "catalogVersion": "v1.1",
     "links": [
      {
       "label": "Quiver",
@@ -38442,7 +38732,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "0.11.2",
+    "catalogVersion": "0.11.5",
     "links": [
      {
       "label": "Quiver",
@@ -38869,7 +39159,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "v1.0.5",
+    "catalogVersion": "v1.0.6",
     "links": [
      {
       "label": "Quiver",
@@ -39068,7 +39358,7 @@
      "Linux",
      "macOS"
     ],
-    "catalogVersion": "v0.9.44",
+    "catalogVersion": "v0.9.45",
     "links": [
      {
       "label": "Quiver",
@@ -39204,7 +39494,7 @@
      "macOS",
      "Windows"
     ],
-    "catalogVersion": "v0.5.7",
+    "catalogVersion": "v0.5.9",
     "links": [
      {
       "label": "Quiver",
@@ -40107,7 +40397,7 @@
      "Linux",
      "macOS"
     ],
-    "catalogVersion": "sdk-v1.10.1",
+    "catalogVersion": "launcher-v0.10.0",
     "links": [
      {
       "label": "Quiver",
@@ -40246,7 +40536,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v1.5.6",
+    "catalogVersion": "v1.5.8",
     "links": [
      {
       "label": "Quiver",
@@ -40947,7 +41237,7 @@
      "Android",
      "Windows"
     ],
-    "catalogVersion": "dev-c79f0d4551a1",
+    "catalogVersion": "v0.21.0",
     "links": [
      {
       "label": "Quiver",
@@ -41088,6 +41378,39 @@
      }
     ],
     "image": "https://cdn2.steamgriddb.com/grid/2b67ab7a629c3d1bed214e526b098f87.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
+    "id": "nikolaygorb/perfectdarkzerorecomp",
+    "aliases": [
+     "quiver:perfect-dark-zero-recomp"
+    ],
+    "name": "Perfect Dark Zero Recomp",
+    "game": "Perfect Dark Zero",
+    "categories": [
+     "Xbox 360"
+    ],
+    "type": "recompilation",
+    "repo": {
+     "host": "github",
+     "path": "nikolaygorb/PerfectDarkZeroRecomp"
+    },
+    "description": "A static recompilation of Perfect Dark Zero (Xbox 360, 2005, Title ID 4D5307D3, [PAL]) to native PC, built on the ReXGlue SDK. The game's PowerPC code is translated into C++ and compiled.\n\n- Fully playable on Windows and Linux: video, audio, gameplay, achievements and saves.\n- Keyboard and mouse support.\n- Local split-screen for 4 players out of the box (max_local_users = 4), up to 4 players with gamepads. Keyboard and mouse can be one of the players, see Split-screen.\n- Optional patches: 60 FPS (on by default) and 16:9.\n- Third-person camera and language selection, see Mods.",
+    "developer": "nikolaygorb",
+    "targets": [
+     "Windows",
+     "Linux"
+    ],
+    "catalogVersion": "1.8",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/perfect-dark-zero-recomp"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/6757c5d828a29b814e9992332f70b2b7.png",
     "sources": [
      "quiver"
     ]
@@ -42292,7 +42615,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.2.0",
+    "catalogVersion": "v0.2.1",
     "links": [
      {
       "label": "Quiver",
@@ -42460,7 +42783,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v0.6.10",
+    "catalogVersion": "v0.7.0",
     "links": [
      {
       "label": "Quiver",
@@ -42697,7 +43020,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "beta14.1",
+    "catalogVersion": "beta15",
     "links": [
      {
       "label": "Quiver",
@@ -43162,7 +43485,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v2.6.0",
+    "catalogVersion": "v2.7.0",
     "links": [
      {
       "label": "Quiver",
@@ -43526,7 +43849,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "v0.1.32",
+    "catalogVersion": "v0.1.35",
     "links": [
      {
       "label": "Quiver",
@@ -43758,7 +44081,7 @@
      "Android",
      "Windows"
     ],
-    "catalogVersion": "v0.4.0-beta",
+    "catalogVersion": "v0.4.1-beta",
     "links": [
      {
       "label": "Quiver",
@@ -44118,7 +44441,7 @@
     "description": "ShaolinMonksRecomp is a PC port of Mortal Kombat: Shaolin Monks that adds resolution and render scale settings, display modes, and keyboard and mouse input.",
     "developer": "OAleex",
     "targets": [],
-    "catalogVersion": "v0.3.0",
+    "catalogVersion": "v0.4.0",
     "links": [
      {
       "label": "Quiver",
@@ -44648,7 +44971,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.3.0-beta.3",
+    "catalogVersion": "v0.3.0-beta.4",
     "links": [
      {
       "label": "Quiver",
@@ -45536,7 +45859,7 @@
      "iOS",
      "Windows"
     ],
-    "catalogVersion": "v0.2.0-windows-beta.2",
+    "catalogVersion": "v0.2.0-test-issue70",
     "links": [
      {
       "label": "Quiver",
@@ -46100,7 +46423,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.8.1",
+    "catalogVersion": "v0.8.2",
     "links": [
      {
       "label": "Quiver",
@@ -46334,7 +46657,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v2.5.2",
+    "catalogVersion": "v2.5.3",
     "links": [
      {
       "label": "Quiver",
@@ -48222,7 +48545,7 @@
      "macOS",
      "Windows"
     ],
-    "catalogVersion": "v1.1.181",
+    "catalogVersion": "v1.1.183",
     "links": [
      {
       "label": "Quiver",
@@ -48351,7 +48674,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.3.9",
+    "catalogVersion": "v0.3.10",
     "links": [
      {
       "label": "Quiver",
@@ -50724,7 +51047,8 @@
     "description": "Zombies Ate My Neighbors PC Port is a Windows port of the SNES game Zombies Ate My Neighbors with widescreen support, smoother motion, and twin-stick controls.",
     "developer": "moshferatu",
     "targets": [
-     "Windows"
+     "Windows",
+     "Linux"
     ],
     "catalogVersion": "20261028",
     "links": [
@@ -50775,7 +51099,7 @@
   ]
  },
  "mister": {
-  "updatedAt": "2026-10-29T21:15:48.323Z",
+  "updatedAt": "2026-10-30T20:54:21.398Z",
   "projects": [
    {
     "id": "mister-devel/archie_mister",
@@ -52435,6 +52759,44 @@
     "download": {
      "label": "Core 2025-10-07",
      "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/a3b945286b4ab2cd38aee946b44ced136418aef8/_Computer/Galaksija_20251007.rbf"
+    },
+    "links": [
+     {
+      "label": "MiSTer wiki",
+      "url": "https://github.com/MiSTer-devel/Wiki_MiSTer/wiki/Cores"
+     }
+    ],
+    "sources": [
+     "mister"
+    ]
+   },
+   {
+    "id": "mister-devel/basicmasterjr_mister",
+    "aliases": [
+     "mister:hitachi-basic-master-jr"
+    ],
+    "name": "Hitachi Basic Master Jr (MiSTer)",
+    "game": "Hitachi Basic Master Jr",
+    "categories": [
+     "MiSTer FPGA"
+    ],
+    "type": "core",
+    "tags": [
+     "FPGA"
+    ],
+    "repo": {
+     "host": "github",
+     "path": "MiSTer-devel/BasicMasterJr_MiSTer"
+    },
+    "description": "MiSTer computer",
+    "developer": "MiSTer-devel",
+    "updateAll": "default",
+    "updateAllDb": "Main Distribution",
+    "catalogVersion": "2026-10-28",
+    "catalogDate": "2026-10-28",
+    "download": {
+     "label": "Core 2026-10-28",
+     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/a3b945286b4ab2cd38aee946b44ced136418aef8/_Console/BasicMasterJr_20261028.rbf"
     },
     "links": [
      {
@@ -55171,44 +55533,6 @@
     "download": {
      "label": "Core 2026-09-03",
      "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/a3b945286b4ab2cd38aee946b44ced136418aef8/_Console/GameCom_20260903.rbf"
-    },
-    "links": [
-     {
-      "label": "MiSTer wiki",
-      "url": "https://github.com/MiSTer-devel/Wiki_MiSTer/wiki/Cores"
-     }
-    ],
-    "sources": [
-     "mister"
-    ]
-   },
-   {
-    "id": "mister-devel/basicmasterjr_mister",
-    "aliases": [
-     "mister:hitachi-basic-master-jr"
-    ],
-    "name": "Hitachi Basic Master Jr (MiSTer)",
-    "game": "Hitachi Basic Master Jr",
-    "categories": [
-     "MiSTer FPGA"
-    ],
-    "type": "core",
-    "tags": [
-     "FPGA"
-    ],
-    "repo": {
-     "host": "github",
-     "path": "MiSTer-devel/BasicMasterJr_MiSTer"
-    },
-    "description": "MiSTer console",
-    "developer": "MiSTer-devel",
-    "updateAll": "default",
-    "updateAllDb": "Main Distribution",
-    "catalogVersion": "2026-10-28",
-    "catalogDate": "2026-10-28",
-    "download": {
-     "label": "Core 2026-10-28",
-     "url": "https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/a3b945286b4ab2cd38aee946b44ced136418aef8/_Console/BasicMasterJr_20261028.rbf"
     },
     "links": [
      {
@@ -64818,7 +65142,7 @@
     "developer": "MiSTer-LLAPI",
     "updateAll": "optional",
     "updateAllDb": "LLAPI Folder",
-    "catalogDate": "2026-10-29",
+    "catalogDate": "2026-10-30",
     "links": [],
     "sources": [
      "mister"
@@ -64966,7 +65290,7 @@
   ]
  },
  "pocket": {
-  "updatedAt": "2026-10-30T15:07:53.073Z",
+  "updatedAt": "2026-10-30T20:54:21.398Z",
   "projects": [
    {
     "id": "gpzi994/chiskit",
@@ -65258,6 +65582,42 @@
     "repo": {
      "host": "github",
      "path": "Frazilpop/Cave-68000-Pocket"
+    },
+    "description": "",
+    "developer": "Frazilpop",
+    "targets": [
+     "Analogue Pocket"
+    ],
+    "catalogVersion": "",
+    "catalogDate": "",
+    "download": null,
+    "links": [
+     {
+      "label": "openFPGA inventory",
+      "url": "https://openfpga-cores-inventory.github.io/analogue-pocket/"
+     }
+    ],
+    "sources": [
+     "pocket"
+    ]
+   },
+   {
+    "id": "frazilpop/toaplan-v2-pocket",
+    "aliases": [
+     "pocket:frazilpop-toaplan-v2"
+    ],
+    "name": "Frazilpop.Toaplan V2 (Pocket)",
+    "game": "Toaplan V2",
+    "categories": [
+     "Analogue Pocket"
+    ],
+    "type": "core",
+    "tags": [
+     "FPGA"
+    ],
+    "repo": {
+     "host": "github",
+     "path": "Frazilpop/Toaplan-V2-Pocket"
     },
     "description": "",
     "developer": "Frazilpop",
