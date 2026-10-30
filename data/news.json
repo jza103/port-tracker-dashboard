@@ -1,6 +1,20 @@
 {
  "articles": [
   {
+   "title": "Putting a MiSTer Marquee on a Better Display",
+   "url": "https://hackaday.com/2026/10/29/putting-a-mister-marquee-on-a-better-display/",
+   "date": "2026-10-30T02:00:00.000Z",
+   "source": "Hackaday",
+   "outlet": "Hackaday",
+   "summary": "Some MiSTer users put a small secondary “marquee” display on the FPGA board that can show information about the system such as the currently loaded core and what game it …read more",
+   "image": "https://hackaday.com/wp-content/uploads/2026/10/misterdisplay_feat.jpg",
+   "text": "Putting a MiSTer Marquee on a Better Display Some MiSTer users put a small secondary “marquee” display on the FPGA board that can show information about the system such as the currently loaded core and what game it happens to be running. Generally these take the form of a small monochrome OLED display, likely the one most of us have sitting in a parts bin somewhere. But [Erico Mendonca] wanted a something with a bit more style , so he's come up with a firmware for the ESP32-C3 that connects to MiSTer's existing secondary display protocol but works with slightly more visually impressive panels such as the round GC9A01 that so many hackers have been playing with as of late. If the whole circular display thing isn't your…thing, you can even run the firmware on the Cheap Yellow Display for a turn-key rectangular experience. Because [Erico] didn't want to fiddle with anything on the MiSTer side of the equation, his firmware has to do the heavy lifting when it comes to the art that shows on the display. So there's a web-based editor that lets you put together your own artwork to show on the marquee based on what command the MiSTer has actually sent out. Flashing the firmware on the ESP32 can be done through the browser as well, as is becoming increasingly common these days, making it relatively easy to get this project up and running. With this project it's also possible to control multiple client displays over WiFi from one system, just in case you wanted to show off what console ",
+   "repos": [
+    "github:doccaz/mister-tty2oled-esp32"
+   ],
+   "firstSeen": "2026-10-30T06:03:37.031Z"
+  },
+  {
    "title": "Metroid Prime 2 PC Port Out NOW",
    "url": "https://www.youtube.com/watch?v=SIvTC0GDBfg",
    "date": "2026-10-29T21:00:03.000Z",
@@ -3490,14 +3504,14 @@
    "firstSeen": "2026-10-25T15:36:27.479Z"
   },
   {
-   "title": "A Massive Decompilation Community Is Shutting Down, Thanks to the Deluge of AI Decomps and Ports",
+   "title": "Decomp.dev, a Massive Decompilation Community, Is Shutting Down After the Deluge of AI Game Decomps and Ports",
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTHdHU2ExcWNTZG41djhLYXhPQWxGUHk2cUlOOUU2c3BpTTBMdjE3RGpRdlJBbTMwNDdtN01IeTJwUGhlNXJjZzVHSWtnZExnNTFMb2pncUEyMW5pbHZ3VF9uUi1MbUdKNWROWGxqZ1QzcDFFTG1vSVJVRkM4eGVzNVhnckV0cW81VGQ0SkVOZUxOTTJIZnVBc2dseTMzWWc4WXBURDRYV1poVWxaemptZUFTWnBhMnJGOGtQVHM1VE1tQQ?oc=5",
    "date": "2026-10-15T07:00:00.000Z",
    "source": "Google News",
    "outlet": "IGN",
    "summary": "",
    "image": null,
-   "text": "A Massive Decompilation Community Is Shutting Down, Thanks to the Deluge of AI Decomps and Ports - IGN A Massive Decompilation Community Is Shutting Down, Thanks to the Deluge of AI Decomps and Ports IGN",
+   "text": "Decomp.dev, a Massive Decompilation Community, Is Shutting Down After the Deluge of AI Game Decomps and Ports - IGN Decomp.dev, a Massive Decompilation Community, Is Shutting Down After the Deluge of AI Game Decomps and Ports IGN",
    "repos": [],
    "firstSeen": "2026-10-23T22:25:39.434Z"
   },
