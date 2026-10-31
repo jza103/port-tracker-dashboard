@@ -26970,8 +26970,72 @@
   ]
  },
  "quiver": {
-  "updatedAt": "2026-10-31T05:58:24.466Z",
+  "updatedAt": "2026-10-31T14:36:47.862Z",
   "projects": [
+   {
+    "id": "hk21x/007eon-recomp",
+    "aliases": [
+     "quiver:007-everything-or-nothing-xbe-recomp"
+    ],
+    "name": "007: Everything or Nothing - XBE Recomp",
+    "game": "007: Everything or Nothing",
+    "categories": [
+     "Xbox"
+    ],
+    "type": "recompilation",
+    "repo": {
+     "host": "github",
+     "path": "hk21x/007eon-recomp"
+    },
+    "description": "007: Everything or Nothing - XBE Recomp is an unofficial native PC port of the Xbox game 007: Everything or Nothing with extended graphics options and modern controller support.",
+    "developer": "hk21x",
+    "targets": [
+     "Windows"
+    ],
+    "catalogVersion": "v1.0.2",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/007-everything-or-nothing-xbe-recomp"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/f11220c36522b0ef428977cf57db089f.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
+    "id": "hk21x/nightfire-recomp",
+    "aliases": [
+     "quiver:007-nightfire-007-nightfire-xbe-recomp"
+    ],
+    "name": "007: NightFire - XBE Recomp",
+    "game": "007: NightFire",
+    "categories": [
+     "Xbox"
+    ],
+    "type": "recompilation",
+    "repo": {
+     "host": "github",
+     "path": "hk21x/nightfire-recomp"
+    },
+    "description": "007: NightFire - XBE Recomp is an unofficial native PC port of the Xbox game 007: NightFire with extended graphics options and modern controller support.",
+    "developer": "hk21x",
+    "targets": [
+     "Windows"
+    ],
+    "catalogVersion": "v1.0.1",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/007-nightfire-007-nightfire-xbe-recomp"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/29ec03bb2d04702c0e22fba276bf9a3e.png",
+    "sources": [
+     "quiver"
+    ]
+   },
    {
     "id": "tgp482/007frwl-xberecomp",
     "aliases": [
@@ -27712,7 +27776,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v0.9.1-patch2",
+    "catalogVersion": "v0.9.2",
     "links": [
      {
       "label": "Quiver",
@@ -27846,7 +27910,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v1.0.0-beta.8",
+    "catalogVersion": "v1.0.0-beta.9",
     "links": [
      {
       "label": "Quiver",
@@ -28379,7 +28443,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "1.7.4",
+    "catalogVersion": "1.7.5",
     "links": [
      {
       "label": "Quiver",
@@ -29364,7 +29428,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "v0.9.39-beta.23",
+    "catalogVersion": "v0.9.39-beta.25",
     "links": [
      {
       "label": "Quiver",
@@ -29763,7 +29827,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "v0.5.2",
+    "catalogVersion": "v0.5.3",
     "links": [
      {
       "label": "Quiver",
@@ -30089,7 +30153,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v1.11",
+    "catalogVersion": "v1.12",
     "links": [
      {
       "label": "Quiver",
@@ -30228,6 +30292,38 @@
      }
     ],
     "image": "https://cdn2.steamgriddb.com/grid/cb99e41bce59087e50e988b3728b30dc.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
+    "id": "runig006/and-beyond",
+    "aliases": [
+     "quiver:buzz-lightyear-of-star-command-beyond"
+    ],
+    "name": "Buzz Lightyear of Star Command & Beyond",
+    "game": "Buzz Lightyear of Star Command",
+    "categories": [
+     "PC"
+    ],
+    "type": "reimplementation",
+    "repo": {
+     "host": "github",
+     "path": "Runig006/And-Beyond"
+    },
+    "description": "& Beyond is an unofficial fan patch and installer for Buzz Lightyear of Star Command that adds a new graphics engine, widescreen support, gamepad controls, and new difficulty levels.",
+    "developer": "Runig006",
+    "targets": [
+     "Windows"
+    ],
+    "catalogVersion": "v1.1",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/buzz-lightyear-of-star-command-beyond"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/9e9b6fd78b5240058f5f6db837a16d48.jpg",
     "sources": [
      "quiver"
     ]
@@ -30521,7 +30617,7 @@
      "macOS",
      "Windows"
     ],
-    "catalogVersion": "cdda-experimental-2026-10-30-2308",
+    "catalogVersion": "cdda-experimental-2026-10-31-0606",
     "links": [
      {
       "label": "Quiver",
@@ -30551,11 +30647,12 @@
     "description": "Cataclysm: The Last Generation is a postapocalyptic survival game based on Cataclysm: Dark Days Ahead with refined progression and immersive life simulation.",
     "developer": "Cataclysm-TLG",
     "targets": [
+     "Android",
      "Linux",
      "macOS",
      "Windows"
     ],
-    "catalogVersion": "cataclysm-tlg-1.0-2026-10-31-0213",
+    "catalogVersion": "cataclysm-tlg-1.0-2026-10-31-1100",
     "links": [
      {
       "label": "Quiver",
@@ -30690,7 +30787,7 @@
      "iOS",
      "macOS"
     ],
-    "catalogVersion": "v0.15.14",
+    "catalogVersion": "v0.15.15",
     "links": [
      {
       "label": "Quiver",
@@ -30886,7 +30983,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "0.2.5",
+    "catalogVersion": "0.3.0",
     "links": [
      {
       "label": "Quiver",
@@ -30916,9 +31013,9 @@
     "description": "ComboShip is a cross-game randomizer for Ocarina of Time and Majora's Mask that runs both games together and supports online multiplayer.",
     "developer": "Varuuna",
     "targets": [
+     "Windows",
      "Linux",
-     "macOS",
-     "Windows"
+     "macOS"
     ],
     "catalogVersion": "v0.3.1",
     "links": [
@@ -31052,7 +31149,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.1.0",
+    "catalogVersion": "v0.1.1",
     "links": [
      {
       "label": "Quiver",
@@ -33523,8 +33620,8 @@
     "developer": "gameflorist",
     "targets": [
      "Linux",
-     "macOS",
-     "Windows"
+     "Windows",
+     "macOS"
     ],
     "catalogVersion": "v1.6.4",
     "links": [
@@ -34227,7 +34324,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v0.1.0",
+    "catalogVersion": "v0.1.2",
     "links": [
      {
       "label": "Quiver",
@@ -34755,7 +34852,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v0.2.2",
+    "catalogVersion": "v0.2.3",
     "links": [
      {
       "label": "Quiver",
@@ -34888,7 +34985,7 @@
      "iOS",
      "macOS"
     ],
-    "catalogVersion": "v0.10.39",
+    "catalogVersion": "v0.10.40",
     "links": [
      {
       "label": "Quiver",
@@ -34920,7 +35017,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.1.5-alpha",
+    "catalogVersion": "v0.1.6-alpha",
     "links": [
      {
       "label": "Quiver",
@@ -36573,7 +36670,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.3.9",
+    "catalogVersion": "v0.3.10",
     "links": [
      {
       "label": "Quiver",
@@ -36774,7 +36871,7 @@
      "macOS",
      "iOS"
     ],
-    "catalogVersion": "v0.9.5",
+    "catalogVersion": "v0.9.6",
     "links": [
      {
       "label": "Quiver",
@@ -36968,7 +37065,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.97.3",
+    "catalogVersion": "v0.97.4",
     "links": [
      {
       "label": "Quiver",
@@ -37167,7 +37264,10 @@
     "description": "James Pond 2: Codename RoboCod - Recompiled is a native PC port of James Pond 2: Codename RoboCod for Windows, macOS, Linux, and Android with widescreen, smooth motion, and a pause menu.",
     "developer": "Gary Riches",
     "targets": [
-     "Windows"
+     "Linux",
+     "macOS",
+     "Windows",
+     "Android"
     ],
     "catalogVersion": "v1.0.4",
     "links": [
@@ -37499,7 +37599,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v0.3.1",
+    "catalogVersion": "v0.3.2",
     "links": [
      {
       "label": "Quiver",
@@ -37761,7 +37861,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v2.0.2",
+    "catalogVersion": "v2.0.3",
     "links": [
      {
       "label": "Quiver",
@@ -38950,7 +39050,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v0.2.0",
+    "catalogVersion": "v0.2.1",
     "links": [
      {
       "label": "Quiver",
@@ -38983,7 +39083,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v0.2.0",
+    "catalogVersion": "v0.2.1",
     "links": [
      {
       "label": "Quiver",
@@ -39016,7 +39116,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v0.2.0",
+    "catalogVersion": "v0.2.2",
     "links": [
      {
       "label": "Quiver",
@@ -39311,7 +39411,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.3.3",
+    "catalogVersion": "v0.3.4",
     "links": [
      {
       "label": "Quiver",
@@ -39472,7 +39572,7 @@
     "description": "MediEvil Recomp ITA is a native PC port of MediEvil for PlayStation, featuring widescreen and improved rendering.",
     "developer": "Leproide",
     "targets": [],
-    "catalogVersion": "v1.1.2",
+    "catalogVersion": "v1.1.3",
     "links": [
      {
       "label": "Quiver",
@@ -39706,7 +39806,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v1.0.20",
+    "catalogVersion": "v1.0.22",
     "links": [
      {
       "label": "Quiver",
@@ -40272,7 +40372,8 @@
     "developer": "gminustwo",
     "targets": [
      "Windows",
-     "Linux"
+     "Linux",
+     "macOS"
     ],
     "catalogVersion": "v1.2.1",
     "links": [
@@ -40864,7 +40965,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v1.0.6",
+    "catalogVersion": "v1.0.7",
     "links": [
      {
       "label": "Quiver",
@@ -40995,8 +41096,8 @@
     "developer": "NearlyTRex",
     "targets": [
      "Linux",
-     "macOS",
-     "Windows"
+     "Windows",
+     "macOS"
     ],
     "catalogVersion": "v0.1.9",
     "links": [
@@ -41031,7 +41132,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v1.4.5",
+    "catalogVersion": "v1.5.0",
     "links": [
      {
       "label": "Quiver",
@@ -41169,7 +41270,7 @@
      "macOS",
      "Windows"
     ],
-    "catalogVersion": "v0.5.9",
+    "catalogVersion": "v0.6.1",
     "links": [
      {
       "label": "Quiver",
@@ -41267,7 +41368,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "v0.1.0",
+    "catalogVersion": "v0.2.0",
     "links": [
      {
       "label": "Quiver",
@@ -41335,7 +41436,7 @@
      "macOS",
      "Windows"
     ],
-    "catalogVersion": "v0.8.8",
+    "catalogVersion": "v0.8.9",
     "links": [
      {
       "label": "Quiver",
@@ -42307,7 +42408,7 @@
      "macOS",
      "Windows"
     ],
-    "catalogVersion": "v0.6.4",
+    "catalogVersion": "v0.6.6",
     "links": [
      {
       "label": "Quiver",
@@ -43142,7 +43243,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.1.0",
+    "catalogVersion": "v0.2.0",
     "links": [
      {
       "label": "Quiver",
@@ -43307,7 +43408,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "1.8",
+    "catalogVersion": "1.9",
     "links": [
      {
       "label": "Quiver",
@@ -43372,7 +43473,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v0.1.0",
+    "catalogVersion": "v0.1.1",
     "links": [
      {
       "label": "Quiver",
@@ -43927,7 +44028,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v1.2.0",
+    "catalogVersion": "v1.3.0",
     "links": [
      {
       "label": "Quiver",
@@ -44219,7 +44320,10 @@
     },
     "description": "ProjectCane brings Sly Cooper and the Thievius Raccoonus to PC.",
     "developer": "theclub654",
-    "targets": [],
+    "targets": [
+     "Linux",
+     "Windows"
+    ],
     "catalogVersion": "",
     "links": [
      {
@@ -44450,7 +44554,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.4.2",
+    "catalogVersion": "v0.4.3",
     "links": [
      {
       "label": "Quiver",
@@ -44679,8 +44783,8 @@
     "developer": "skynettx",
     "targets": [
      "macOS",
-     "Android",
-     "Windows"
+     "Windows",
+     "Android"
     ],
     "catalogVersion": "v0.8.2",
     "links": [
@@ -44786,6 +44890,38 @@
      }
     ],
     "image": "https://cdn2.steamgriddb.com/grid/497c654141662a7ef7f512966d70c303.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
+    "id": "kastieloficial/re-code-veronica-ps3-hd-recomp-pc",
+    "aliases": [
+     "quiver:resident-evil-code-veronica-x-re-code-veronica-ps3-hd-recomp-pc"
+    ],
+    "name": "RE-Code-Veronica-PS3-HD-Recomp-PC",
+    "game": "Resident Evil Code: Veronica X",
+    "categories": [
+     "PlayStation 3"
+    ],
+    "type": "recompilation",
+    "repo": {
+     "host": "github",
+     "path": "kastieloficial/RE-Code-Veronica-PS3-HD-Recomp-PC"
+    },
+    "description": "RE-Code-Veronica-PS3-HD-Recomp-PC is a native Windows port of Resident Evil Code: Veronica X for PlayStation 3 with practice tools and 60 FPS support.",
+    "developer": "kastieloficial",
+    "targets": [
+     "Windows"
+    ],
+    "catalogVersion": "v1.1.11",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/resident-evil-code-veronica-x-re-code-veronica-ps3-hd-recomp-pc"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/9ab45beb213b81202a330cfa5e99b411.png",
     "sources": [
      "quiver"
     ]
@@ -44913,7 +45049,7 @@
      "macOS",
      "Windows"
     ],
-    "catalogVersion": "test-pr111-0f5c87c474f7",
+    "catalogVersion": "test-pr111-1938ba384c23",
     "links": [
      {
       "label": "Quiver",
@@ -44946,7 +45082,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v0.7.0",
+    "catalogVersion": "v0.7.1",
     "links": [
      {
       "label": "Quiver",
@@ -45351,7 +45487,7 @@
      "Android",
      "Windows"
     ],
-    "catalogVersion": "reSOTv0.4.1",
+    "catalogVersion": "reSOTv0.4.2",
     "links": [
      {
       "label": "Quiver",
@@ -45416,7 +45552,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "beta1",
+    "catalogVersion": "beta1.1",
     "links": [
      {
       "label": "Quiver",
@@ -46078,7 +46214,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "v0.1.35",
+    "catalogVersion": "v0.1.37",
     "links": [
      {
       "label": "Quiver",
@@ -47788,7 +47924,9 @@
     "description": "Sonic 3 & Knuckles Recompiled is a PC port of Sonic 3 & Knuckles that adds optional mods for extra campaigns and characters.",
     "developer": "R.A.I.D. community",
     "targets": [
-     "Windows"
+     "macOS",
+     "Windows",
+     "Linux"
     ],
     "catalogVersion": "v0.6.2",
     "links": [
@@ -49867,8 +50005,8 @@
     "description": "TenchuZ-PC is a native Windows and Linux port of Tenchu Z that runs at higher frame rates and resolutions.",
     "developer": "8bitninja64",
     "targets": [
-     "Linux",
-     "Windows"
+     "Windows",
+     "Linux"
     ],
     "catalogVersion": "v0.3.2",
     "links": [
@@ -50410,6 +50548,39 @@
     ]
    },
    {
+    "id": "thps64recomp/thps1-64recomp",
+    "aliases": [
+     "quiver:tony-hawk-s-pro-skater-thps1-64-recompiled"
+    ],
+    "name": "THPS1 64: Recompiled",
+    "game": "Tony Hawk's Pro Skater",
+    "categories": [
+     "Nintendo 64"
+    ],
+    "type": "recompilation",
+    "repo": {
+     "host": "github",
+     "path": "THPS64Recomp/THPS1-64Recomp"
+    },
+    "description": "THPS1 64: Recompiled is a native PC port of Tony Hawk's Pro Skater for macOS and Windows with widescreen and high frame rates.",
+    "developer": "THPS64Recomp",
+    "targets": [
+     "macOS",
+     "Windows"
+    ],
+    "catalogVersion": "v0.2.0",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/tony-hawk-s-pro-skater-thps1-64-recompiled"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/d483c1937e7a464a1b64ef9c4c67c67e.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
     "id": "gtteancum/timesplitters",
     "aliases": [
      "quiver:timesplitters-timesplitters-ps2-static-recompilation"
@@ -50727,7 +50898,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.1.6",
+    "catalogVersion": "v0.1.9",
     "links": [
      {
       "label": "Quiver",
@@ -50831,7 +51002,7 @@
       "url": "https://quiverlauncher.com/apps/trials-hd-trials-evolution-trials-fusion-trials-revolution-collection"
      }
     ],
-    "image": "https://cdn2.steamgriddb.com/grid/67c68199f158340828fc50c3f66c99c5.png",
+    "image": "https://github.com/TekRantGaming/Trials-ReVolution-Collection/blob/main/docs/steam/cover.png?raw=true",
     "sources": [
      "quiver"
     ]
@@ -51192,7 +51363,7 @@
     "targets": [
      "Android"
     ],
-    "catalogVersion": "v0.2.10",
+    "catalogVersion": "v0.2.11",
     "links": [
      {
       "label": "Quiver",
@@ -53189,8 +53360,8 @@
     "description": "xboxrecomp-conker is a native PC port of Conker: Live & Reloaded for Windows and Linux, offering widescreen support and customizable graphics settings.",
     "developer": "Txukie",
     "targets": [
-     "Windows",
-     "Linux"
+     "Linux",
+     "Windows"
     ],
     "catalogVersion": "v0.4.0",
     "links": [
@@ -53678,6 +53849,38 @@
     ]
    },
    {
+    "id": "tools81/zelda-adventures-static-recomp",
+    "aliases": [
+     "quiver:zelda-s-adventure-zelda-s-adventure-philips-cd-i"
+    ],
+    "name": "Zelda's Adventure",
+    "game": "Zelda's Adventure",
+    "categories": [
+     "Philips CD-i"
+    ],
+    "type": "recompilation",
+    "repo": {
+     "host": "github",
+     "path": "tools81/zelda-adventures-static-recomp"
+    },
+    "description": "Zelda's Adventure (Philips CD-i) is a native Windows port of the game with quicksaves and invincibility.",
+    "developer": "tools81",
+    "targets": [
+     "Windows"
+    ],
+    "catalogVersion": "v1.0.0",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/zelda-s-adventure-zelda-s-adventure-philips-cd-i"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/40ee8d2d7ae9306264c322de01550eff.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
     "id": "linkzenic/zelda64recomp-android",
     "aliases": [
      "quiver:the-legend-of-zelda-majora-s-mask-zelda64-recompiled-android"
@@ -53896,7 +54099,7 @@
      "macOS",
      "Windows"
     ],
-    "catalogVersion": "3.0.0-prerelease.234+2026-10-30",
+    "catalogVersion": "3.0.0-prerelease.235+2026-10-31",
     "links": [
      {
       "label": "Quiver",
@@ -53911,7 +54114,7 @@
   ]
  },
  "mister": {
-  "updatedAt": "2026-10-30T20:54:21.398Z",
+  "updatedAt": "2026-10-31T14:36:47.862Z",
   "projects": [
    {
     "id": "mister-devel/archie_mister",
@@ -67950,11 +68153,11 @@
      "host": "github",
      "path": "MiSTer-LLAPI/LLAPI_folder_MiSTer"
     },
-    "description": "31 cores · optional database in update_all settings",
+    "description": "32 cores · optional database in update_all settings",
     "developer": "MiSTer-LLAPI",
     "updateAll": "optional",
     "updateAllDb": "LLAPI Folder",
-    "catalogDate": "2026-10-30",
+    "catalogDate": "2026-10-31",
     "links": [],
     "sources": [
      "mister"
@@ -68102,7 +68305,7 @@
   ]
  },
  "pocket": {
-  "updatedAt": "2026-10-31T05:58:24.466Z",
+  "updatedAt": "2026-10-31T14:36:47.862Z",
   "projects": [
    {
     "id": "gpzi994/chiskit",
@@ -82291,11 +82494,11 @@
     "targets": [
      "Analogue Pocket"
     ],
-    "catalogVersion": "0.6.1",
-    "catalogDate": "2026-10-29",
+    "catalogVersion": "0.7",
+    "catalogDate": "2026-10-31",
     "download": {
-     "label": "Pocket 0.6.1",
-     "url": "https://github.com/tortugaveloz/MIRLO64/releases/download/v0.6.1/tortuga.Mirlo64_0.6.1.zip"
+     "label": "Pocket 0.7",
+     "url": "https://github.com/tortugaveloz/MIRLO64/releases/download/v0.7/tortuga.Mirlo64_0.7.zip"
     },
     "links": [
      {

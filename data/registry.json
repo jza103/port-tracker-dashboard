@@ -1,7 +1,7 @@
 {
  "meta": {
   "seededAt": "2026-10-25T14:56:57.670Z",
-  "lastSearchAt": "2026-10-30T15:07:53.073Z"
+  "lastSearchAt": "2026-10-31T14:36:47.862Z"
  },
  "firstSeen": {
   "0c0de/splatterhouse-decomp": "2026-10-25T15:56:57.670Z",
@@ -209,6 +209,7 @@
   "cactusvrstudios/kharvox-argent": "2026-10-25T15:36:27.479Z",
   "caiuscodes/goldeneye-007-xbla-pc-recomp": "2026-10-25T15:36:27.479Z",
   "capridog/spaceranger": "2026-10-25T15:36:27.479Z",
+  "captainbrannigan/aliens-vr-predator-2010": "2026-10-31T14:36:47.862Z",
   "carlox33/the-simpsons-hit-and-run-android": "2026-10-31T05:58:24.466Z",
   "carmiker/lithogen": "2026-10-26T15:18:29.150Z",
   "carriex/recomp": "2026-10-25T15:36:27.479Z",
@@ -601,6 +602,7 @@
   "goodshepherd23/galerians-recompiled": "2026-10-25T15:36:27.479Z",
   "goodshepherd23/hellnight-recompiled": "2026-10-25T15:36:27.479Z",
   "goodshepherd23/jetmoto2-recomp": "2026-10-25T15:36:27.479Z",
+  "gothamor/gta-vcs-recomp": "2026-10-31T14:36:47.862Z",
   "gpzi994/chiskit": "2026-10-25T15:56:57.670Z",
   "granassabre/grandia3-pc": "2026-10-30T06:03:37.031Z",
   "granimated/minecraftlce": "2026-10-23T22:46:33.769Z",
@@ -669,6 +671,8 @@
   "hh79/gzdoomvr#strife-vr": "2026-10-25T15:36:27.479Z",
   "himdo/fable-2-recomp": "2026-10-23T22:25:39.434Z",
   "hinph/crystal-fantasy": "2026-10-26T15:18:29.150Z",
+  "hk21x/007eon-recomp": "2026-10-31T14:36:47.862Z",
+  "hk21x/nightfire-recomp": "2026-10-31T14:36:47.862Z",
   "hk21x/pgr1-recomp": "2026-10-31T05:58:24.466Z",
   "hk21x/pgr2-recomp": "2026-10-28T21:12:08.030Z",
   "hkmodd/pcsx2-mcp": "2026-10-23T22:46:33.769Z",
@@ -1667,6 +1671,7 @@
   "otpr26/dekui-fork": "2026-10-28T21:12:08.030Z",
   "otpr26/ocarina-retuned": "2026-10-28T21:12:08.030Z",
   "oussama268/shadowofthecolossus-pc": "2026-10-25T15:36:27.479Z",
+  "outlawshub-arch/outlawsvr": "2026-10-31T14:36:47.862Z",
   "overkilllabs3/dc-ps5": "2026-10-25T15:36:27.479Z",
   "overkilllabs3/driveclub-recomp": "2026-10-25T15:36:27.479Z",
   "overkilllabs3/gears-judgement-recomp": "2026-10-25T15:36:27.479Z",
@@ -1947,6 +1952,7 @@
   "retroportingtoolkit/psxrecomp": "2026-10-23T22:46:33.769Z",
   "retroportingtoolkit/retro-launcher": "2026-10-27T14:45:45.436Z",
   "retroreplay82/legendary-wings-nes-to-pc": "2026-10-25T15:36:27.479Z",
+  "retroshrimp/arcade-segasystem32_mister": "2026-10-31T14:36:47.862Z",
   "revivedx/savagewindrecomp": "2026-10-25T15:36:27.479Z",
   "revosucks/bm64recomp": "2026-10-23T22:25:39.434Z",
   "revosucks/bmherorecomp": "2026-10-23T22:25:39.434Z",
@@ -1997,6 +2003,7 @@
   "rubocopter/penumbra_vr_framework#penumbra-black-plague-vr": "2026-10-25T15:36:27.479Z",
   "rubocopter/penumbra_vr_framework#penumbra-overture-vr": "2026-10-25T15:36:27.479Z",
   "rubocopter/penumbra_vr_framework#penumbra-requiem-vr": "2026-10-25T15:36:27.479Z",
+  "runig006/and-beyond": "2026-10-31T14:36:47.862Z",
   "rwcrosk-arch/dfu-quest3": "2026-10-31T05:58:24.466Z",
   "ryancraighead/worldwarvr-releases": "2026-10-25T15:36:27.479Z",
   "ryderclanky/botw-native": "2026-10-25T15:36:27.479Z",
@@ -2164,6 +2171,7 @@
   "synthwave-pixel/ultima3": "2026-10-27T14:45:45.436Z",
   "synthwave-pixel/ultima5": "2026-10-27T14:45:45.436Z",
   "taisei-project/taisei": "2026-10-25T15:36:27.479Z",
+  "talhamudo/nfsu2recomp": "2026-10-31T14:36:47.862Z",
   "tasemulators/bizhawk": "2026-10-30T06:03:37.031Z",
   "tdrrmk2/uhexen2-tweaked": "2026-10-25T15:36:27.479Z",
   "team-beef-studios/beefraiderxr": "2026-10-23T22:25:39.434Z",
@@ -2251,6 +2259,7 @@
   "thiagordsfx/urban-reign-recomp": "2026-10-23T22:46:33.769Z",
   "thibautbus/top": "2026-10-25T15:36:27.479Z",
   "thobbsinteractive/magic-carpet-2-hd": "2026-10-30T06:03:37.031Z",
+  "thps64recomp/thps1-64recomp": "2026-10-31T14:36:47.862Z",
   "tig3rmast3r/witcher3-vr": "2026-10-25T15:36:27.479Z",
   "timboettiger/openfpga-snes-pro-action-replay-mk3": "2026-10-25T15:56:57.670Z",
   "timftw21/burnout2-recompilation": "2026-10-25T15:36:27.479Z",
@@ -2267,6 +2276,7 @@
   "tools81/link-faces-of-evil-static-recomp": "2026-10-25T15:36:27.479Z",
   "tools81/mutant-rampage-bodyslam-static-recomp": "2026-10-25T15:36:27.479Z",
   "tools81/nfl-head-coach-09-static-recomp": "2026-10-25T15:36:27.479Z",
+  "tools81/zelda-adventures-static-recomp": "2026-10-31T14:36:47.862Z",
   "tools81/zelda-wand-of-gamelon-static-recomp": "2026-10-25T15:36:27.479Z",
   "toontowngrindworks/grindworks": "2026-10-30T06:03:37.031Z",
   "tortugaveloz/mirlo64": "2026-10-25T15:56:57.670Z",
@@ -3160,6 +3170,35 @@
     "url": "https://www.youtube.com/watch?v=lJnD3jDzF1U",
     "source": "YouTube: NotAGameAddict",
     "date": "2026-10-24T14:00:18.000Z"
+   },
+   "autoFollow": true
+  },
+  "captainbrannigan/aliens-vr-predator-2010": {
+   "id": "captainbrannigan/aliens-vr-predator-2010",
+   "name": "Aliens vr Predator 2010",
+   "game": "Aliens vr Predator 2010",
+   "categories": [
+    "Other",
+    "VR Ports"
+   ],
+   "type": "port",
+   "tags": [
+    "VR"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "CaptainBrannigan/Aliens-vr-Predator-2010"
+   },
+   "links": [],
+   "sources": [
+    "news"
+   ],
+   "discoveredFrom": {
+    "kind": "news",
+    "title": "Aliens vs. Predator (2010) VR Performance / New VR Mod with 6DOF Motion Controls / Quest 3 PCVR",
+    "url": "https://www.youtube.com/watch?v=Lqu94xsBOrY",
+    "source": "YouTube: NotAGameAddict",
+    "date": "2026-10-30T23:18:22.000Z"
    },
    "autoFollow": true
   },
@@ -4399,6 +4438,30 @@
    },
    "autoFollow": true
   },
+  "fable2recomp/fable2remake": {
+   "id": "fable2recomp/fable2remake",
+   "name": "Fable2Remake",
+   "game": "Fable2Remake",
+   "categories": [
+    "Other"
+   ],
+   "type": "recompilation",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "Fable2Recomp/Fable2Remake"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "rexglue in:readme stars:>30",
+    "date": "2026-10-31T14:36:47.862Z"
+   },
+   "autoFollow": true
+  },
   "faligame/lost-odyssey-hd-remaster": {
    "id": "faligame/lost-odyssey-hd-remaster",
    "name": "lost odyssey hd remaster",
@@ -4729,6 +4792,30 @@
     "date": "2026-10-23T21:05:59.000Z"
    },
    "autoFollow": true
+  },
+  "gothamor/gta-vcs-recomp": {
+   "id": "gothamor/gta-vcs-recomp",
+   "name": "gta vcs recomp",
+   "game": "gta vcs recomp",
+   "categories": [
+    "PlayStation 2"
+   ],
+   "type": "recompilation",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "gothamor/gta-vcs-recomp"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "PS2Recomp in:readme stars:>20",
+    "date": "2026-10-31T14:36:47.862Z"
+   },
+   "autoFollow": false
   },
   "granimated/minecraftlce": {
    "id": "granimated/minecraftlce",
@@ -7803,6 +7890,35 @@
    },
    "autoFollow": false
   },
+  "outlawshub-arch/outlawsvr": {
+   "id": "outlawshub-arch/outlawsvr",
+   "name": "Outlaws VR",
+   "game": "Outlaws VR",
+   "categories": [
+    "Other",
+    "VR Ports"
+   ],
+   "type": "port",
+   "tags": [
+    "VR"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "outlawshub-arch/OutlawsVR"
+   },
+   "links": [],
+   "sources": [
+    "news"
+   ],
+   "discoveredFrom": {
+    "kind": "news",
+    "title": "Outlaws + Handful of Missions: Remaster VR Performance / New Meta Quest Standalone VR Mod with 6DOF",
+    "url": "https://www.youtube.com/watch?v=zHhDD_ze5lk",
+    "source": "YouTube: NotAGameAddict",
+    "date": "2026-10-31T11:10:55.000Z"
+   },
+   "autoFollow": true
+  },
   "ozordi/sanrecomp": {
    "id": "ozordi/sanrecomp",
    "name": "San Recomp",
@@ -8544,6 +8660,32 @@
     "kind": "search",
     "title": "\"static recompilation\" in:description stars:>30",
     "date": "2026-10-27T14:45:45.436Z"
+   },
+   "autoFollow": false
+  },
+  "retroshrimp/arcade-segasystem32_mister": {
+   "id": "retroshrimp/arcade-segasystem32_mister",
+   "name": "Arcade Sega System32 Mi STer",
+   "game": "Sega System32",
+   "categories": [
+    "MiSTer FPGA"
+   ],
+   "type": "core",
+   "tags": [
+    "FPGA"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "RetroShrimp/Arcade-SegaSystem32_MiSTer"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "topic:mister-fpga stars:>5",
+    "date": "2026-10-31T14:36:47.862Z"
    },
    "autoFollow": false
   },
@@ -9681,6 +9823,30 @@
    },
    "autoFollow": false
   },
+  "talhamudo/nfsu2recomp": {
+   "id": "talhamudo/nfsu2recomp",
+   "name": "NFSU2Recomp",
+   "game": "NFSU2Recomp",
+   "categories": [
+    "Other"
+   ],
+   "type": "recompilation",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "TalhaMudo/NFSU2Recomp"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "\"N64: Recompiled\" in:readme stars:>50",
+    "date": "2026-10-31T14:36:47.862Z"
+   },
+   "autoFollow": false
+  },
   "terx1232/bioshock-quest-vr": {
    "id": "terx1232/bioshock-quest-vr",
    "name": "Bio Shock Quest VR",
@@ -10477,9 +10643,11 @@
  },
  "rejected": {
   "abduznik/awesome-x360-recomps": "2026-10-28",
+  "alex-nax/resource": "2026-10-31",
   "alexgaoth/awesome-reverse-engineered": "2026-10-23",
   "alphanu1/sega-model1-mister": "2026-10-23",
   "ansiwen/dualjoy": "2026-10-26",
+  "anthropics/claude-code": "2026-10-31",
   "ares-emulator/ares": "2026-10-23",
   "azahar-emu/azahar": "2026-10-23",
   "azathothas/stars": "2026-10-27",
@@ -10511,6 +10679,7 @@
   "hkmodd/pcsx2-mcp": "2026-10-23",
   "hochgeschwindigkeitsrennfahrer/gta4vr": "2026-10-29",
   "hollie/misterhouse": "2026-10-26",
+  "hookmanuk/uncharted_pc": "2026-10-31",
   "inorirus/kyty": "2026-10-23",
   "joeyhodge/uevr": "2026-10-25",
   "jonasjakobi/sm64-quest-3": "2026-10-28",
@@ -10565,6 +10734,7 @@
   "vector35/binaryninja-api": "2026-10-23",
   "vita3k/vita3k": "2026-10-23",
   "waffle565/god-of-war-native-port": "2026-10-23",
+  "wanszai/scud-race": "2026-10-31",
   "wheremyfoodat/panda3ds": "2026-10-23",
   "x360ce/x360ce": "2026-10-25",
   "yuvi-app/doc-le-english-translation": "2026-10-23",
