@@ -26970,7 +26970,7 @@
   ]
  },
  "quiver": {
-  "updatedAt": "2026-10-31T20:06:38.932Z",
+  "updatedAt": "2026-10-31T23:29:04.947Z",
   "projects": [
    {
     "id": "hk21x/007eon-recomp",
@@ -27251,7 +27251,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.1.10",
+    "catalogVersion": "v0.2.0",
     "links": [
      {
       "label": "Quiver",
@@ -27908,7 +27908,8 @@
     "description": "Alone in the Dark: Classic Reborn is a source port of Alone in the Dark (1992) and Jack in the Dark for Windows, offering fixes and optional graphical enhancements.",
     "developer": "nayo186",
     "targets": [
-     "Windows"
+     "Windows",
+     "Linux"
     ],
     "catalogVersion": "v1.0.0",
     "links": [
@@ -28288,38 +28289,6 @@
      }
     ],
     "image": "https://cdn2.steamgriddb.com/grid/464ffe15265eddea79f3ad475bcf5c6b.png",
-    "sources": [
-     "quiver"
-    ]
-   },
-   {
-    "id": "clergyman0013/arizona-vamp-recomp",
-    "aliases": [
-     "quiver:darkwatch-arizona-vamp-recomp"
-    ],
-    "name": "Arizona Vamp Recomp",
-    "game": "Darkwatch",
-    "categories": [
-     "Xbox"
-    ],
-    "type": "recompilation",
-    "repo": {
-     "host": "github",
-     "path": "Clergyman0013/arizona-vamp-recomp"
-    },
-    "description": "Arizona Vamp Recomp is a native PC port of Darkwatch made by static recompilation with a shader disk cache and an in-game settings menu.",
-    "developer": "Clergyman0013",
-    "targets": [
-     "Windows"
-    ],
-    "catalogVersion": "v0.5.5",
-    "links": [
-     {
-      "label": "Quiver",
-      "url": "https://quiverlauncher.com/apps/darkwatch-arizona-vamp-recomp"
-     }
-    ],
-    "image": "https://cdn2.steamgriddb.com/grid/837cbc8e38fa7e2d306e865c707c7e3d.jpg",
     "sources": [
      "quiver"
     ]
@@ -30185,7 +30154,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.7.3-alpha",
+    "catalogVersion": "v0.8.0-alpha",
     "links": [
      {
       "label": "Quiver",
@@ -31838,7 +31807,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "v0.7",
+    "catalogVersion": "v0.7.1",
     "links": [
      {
       "label": "Quiver",
@@ -32771,7 +32740,7 @@
      "Linux",
      "macOS"
     ],
-    "catalogVersion": "v0.1.12",
+    "catalogVersion": "v0.1.13",
     "links": [
      {
       "label": "Quiver",
@@ -33757,7 +33726,7 @@
      "macOS",
      "Linux"
     ],
-    "catalogVersion": "v0.5.0-ports-preview.25",
+    "catalogVersion": "v0.5.0-ports-preview.26",
     "links": [
      {
       "label": "Quiver",
@@ -34885,7 +34854,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "v0.10.3",
+    "catalogVersion": "v0.10.5",
     "links": [
      {
       "label": "Quiver",
@@ -36154,6 +36123,41 @@
     ]
    },
    {
+    "id": "mbracali/prj-gd-engine",
+    "aliases": [
+     "quiver:guitar-hero-guitar-dream-engine"
+    ],
+    "name": "Guitar Dream Engine",
+    "game": "Guitar Hero",
+    "categories": [
+     "PlayStation 2"
+    ],
+    "type": "reimplementation",
+    "repo": {
+     "host": "github",
+     "path": "mbracali/prj-gd-engine"
+    },
+    "description": "A reimplementation of all major Guitar Hero and Rock Band engines.",
+    "developer": "Marcelo Bracali",
+    "targets": [
+     "Android",
+     "Linux",
+     "macOS",
+     "Windows"
+    ],
+    "catalogVersion": "gdul/v0.1.7",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/guitar-hero-guitar-dream-engine"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/60632049220f6fe2c205e3f2e3c7db07.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
     "id": "technicallycomputers/gundamwingendlessduelsnesrecomp",
     "aliases": [
      "quiver:shin-kido-senki-gundam-wing-endless-duel-gundam-wing-endless-duel-recomp"
@@ -36278,7 +36282,7 @@
      "macOS",
      "Windows"
     ],
-    "catalogVersion": "v0.7.0-beta",
+    "catalogVersion": "v0.7.1-beta",
     "links": [
      {
       "label": "Quiver",
@@ -37065,7 +37069,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.97.4",
+    "catalogVersion": "v0.98.0",
     "links": [
      {
       "label": "Quiver",
@@ -37797,7 +37801,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.8.0",
+    "catalogVersion": "v0.8.1",
     "links": [
      {
       "label": "Quiver",
@@ -40207,7 +40211,7 @@
      "macOS",
      "iOS"
     ],
-    "catalogVersion": "v0.36.0",
+    "catalogVersion": "v0.37.0",
     "links": [
      {
       "label": "Quiver",
@@ -40748,6 +40752,38 @@
     ]
    },
    {
+    "id": "elforeign/nfs-most-wanted-mac",
+    "aliases": [
+     "quiver:need-for-speed-most-wanted-need-for-speed-most-wanted-mac"
+    ],
+    "name": "Need for Speed Most Wanted Mac",
+    "game": "Need for Speed: Most Wanted",
+    "categories": [
+     "PC"
+    ],
+    "type": "recompilation",
+    "repo": {
+     "host": "github",
+     "path": "elforeign/nfs-most-wanted-mac"
+    },
+    "description": "Need for Speed Most Wanted Mac is a native macOS port of the 2005 PC game built with static recompilation, featuring a Metal renderer and controller support.",
+    "developer": "elforeign",
+    "targets": [
+     "macOS"
+    ],
+    "catalogVersion": "v4.3.0",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/need-for-speed-most-wanted-need-for-speed-most-wanted-mac"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/16d84244929d3b2ad1de4e9421917edb.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
     "id": "pigmassacre/neodriftenhanced",
     "aliases": [
      "quiver:neo-drift-out-new-technology-neo-drift-out-enhanced"
@@ -41065,7 +41101,7 @@
      "Linux",
      "macOS"
     ],
-    "catalogVersion": "v0.9.48",
+    "catalogVersion": "v0.9.49",
     "links": [
      {
       "label": "Quiver",
@@ -41436,7 +41472,7 @@
      "macOS",
      "Windows"
     ],
-    "catalogVersion": "v0.8.9",
+    "catalogVersion": "v0.8.10",
     "links": [
      {
       "label": "Quiver",
@@ -42168,7 +42204,7 @@
      "iOS",
      "Linux"
     ],
-    "catalogVersion": "v0.9.3",
+    "catalogVersion": "v0.9.4",
     "links": [
      {
       "label": "Quiver",
@@ -42443,7 +42479,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v1.5.9",
+    "catalogVersion": "v1.6.0",
     "links": [
      {
       "label": "Quiver",
@@ -43110,7 +43146,7 @@
      "macOS",
      "Windows"
     ],
-    "catalogVersion": "0.8",
+    "catalogVersion": "0.9",
     "links": [
      {
       "label": "Quiver",
@@ -45049,7 +45085,7 @@
      "macOS",
      "Windows"
     ],
-    "catalogVersion": "test-pr111-e3e579ce4a29",
+    "catalogVersion": "test-pr111-03469c802406",
     "links": [
      {
       "label": "Quiver",
@@ -45196,6 +45232,38 @@
     ]
    },
    {
+    "id": "btr-rj/redbaron_recomp",
+    "aliases": [
+     "quiver:snoopy-flying-ace-redbaron-recomp"
+    ],
+    "name": "RedBaron_Recomp",
+    "game": "Snoopy Flying Ace",
+    "categories": [
+     "Xbox 360"
+    ],
+    "type": "recompilation",
+    "repo": {
+     "host": "github",
+     "path": "BTr-RJ/RedBaron_Recomp"
+    },
+    "description": "Native Windows x64 recompilation of Snoopy Flying Ace with a local-build launcher, modern video options and EOS online integration.",
+    "developer": "BTr RJ",
+    "targets": [
+     "Windows"
+    ],
+    "catalogVersion": "v0.10",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/snoopy-flying-ace-redbaron-recomp"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/e8aca417501a0f5145fb7b060e663420.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
     "id": "opendriver2/redriver2",
     "aliases": [
      "quiver:driver2-redriver2"
@@ -45328,6 +45396,38 @@
      }
     ],
     "image": "https://cdn2.steamgriddb.com/grid/7edaadde50012f0860952123564eb1ba.jpg",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
+    "id": "chermenin/reminiscence",
+    "aliases": [
+     "quiver:flashback-reminiscence"
+    ],
+    "name": "REminiscence",
+    "game": "Flashback",
+    "categories": [
+     "PC"
+    ],
+    "type": "recompilation",
+    "repo": {
+     "host": "github",
+     "path": "chermenin/REminiscence"
+    },
+    "description": "REminiscence is a re-implementation of the engine used in the game Flashback made by Delphine Software.",
+    "developer": "Alex Chermenin",
+    "targets": [
+     "Windows"
+    ],
+    "catalogVersion": "0.5.1",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/flashback-reminiscence"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/2945b2b9dd2cc7b281ce0d8463ef440a.png",
     "sources": [
      "quiver"
     ]
@@ -45786,7 +45886,7 @@
      "Linux",
      "macOS"
     ],
-    "catalogVersion": "v0.6.5",
+    "catalogVersion": "v0.6.6",
     "links": [
      {
       "label": "Quiver",
@@ -46214,7 +46314,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "v0.1.39",
+    "catalogVersion": "v0.1.40",
     "links": [
      {
       "label": "Quiver",
@@ -47070,7 +47170,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v1.2.5",
+    "catalogVersion": "v1.2.5.1",
     "links": [
      {
       "label": "Quiver",
@@ -47304,7 +47404,7 @@
      "Linux",
      "macOS"
     ],
-    "catalogVersion": "v2.0.2",
+    "catalogVersion": "v2.1",
     "links": [
      {
       "label": "Quiver",
@@ -47336,7 +47436,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.3.0-beta.4",
+    "catalogVersion": "v0.3.0-beta.5",
     "links": [
      {
       "label": "Quiver",
@@ -48985,7 +49085,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.1.0-alpha",
+    "catalogVersion": "v0.1.1-alpha",
     "links": [
      {
       "label": "Quiver",
@@ -50041,7 +50141,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v0.1.39.2",
+    "catalogVersion": "v0.1.39.3",
     "links": [
      {
       "label": "Quiver",
@@ -50898,7 +50998,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.2.1",
+    "catalogVersion": "v0.2.8",
     "links": [
      {
       "label": "Quiver",
@@ -51998,6 +52098,40 @@
      }
     ],
     "image": "https://cdn2.steamgriddb.com/grid/6112938b120e451e9f30989a47dfb200.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
+    "id": "plasticcog/vette2026",
+    "aliases": [
+     "quiver:vette-vette2026"
+    ],
+    "name": "Vette2026",
+    "game": "Vette!",
+    "categories": [
+     "PC"
+    ],
+    "type": "port",
+    "repo": {
+     "host": "github",
+     "path": "PlasticCog/Vette2026"
+    },
+    "description": "Vette2026 is a C++ rebuild of Vette! for Windows, Linux, and macOS with classic and enhanced modes.",
+    "developer": "PlasticCog",
+    "targets": [
+     "Linux",
+     "macOS",
+     "Windows"
+    ],
+    "catalogVersion": "v0.10.0",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/vette-vette2026"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/e4323e496951c33b6af8b6ff7520c580.png",
     "sources": [
      "quiver"
     ]
@@ -68305,7 +68439,7 @@
   ]
  },
  "pocket": {
-  "updatedAt": "2026-10-31T14:36:47.862Z",
+  "updatedAt": "2026-10-31T23:29:04.947Z",
   "projects": [
    {
     "id": "gpzi994/chiskit",
@@ -68570,42 +68704,6 @@
      "label": "Pocket 1.0.0",
      "url": "https://github.com/essemyth/openfpga-nibbler/releases/download/v1.0.0/Essemyth.Nibbler_1.0.0_2026-10-22.zip"
     },
-    "links": [
-     {
-      "label": "openFPGA inventory",
-      "url": "https://openfpga-cores-inventory.github.io/analogue-pocket/"
-     }
-    ],
-    "sources": [
-     "pocket"
-    ]
-   },
-   {
-    "id": "frazilpop/cave-68000-pocket#frazilpop-cave-68000",
-    "aliases": [
-     "pocket:frazilpop-cave-68000"
-    ],
-    "name": "Frazilpop.Cave 68000 (Pocket)",
-    "game": "Cave 68000",
-    "categories": [
-     "Analogue Pocket"
-    ],
-    "type": "core",
-    "tags": [
-     "FPGA"
-    ],
-    "repo": {
-     "host": "github",
-     "path": "Frazilpop/Cave-68000-Pocket"
-    },
-    "description": "",
-    "developer": "Frazilpop",
-    "targets": [
-     "Analogue Pocket"
-    ],
-    "catalogVersion": "",
-    "catalogDate": "",
-    "download": null,
     "links": [
      {
       "label": "openFPGA inventory",
@@ -69617,42 +69715,6 @@
      "label": "Pocket 0.2.5",
      "url": "https://github.com/Newsdee/openfpga-apple2e/releases/download/0.2.5/Apple2e_Pocket_0.2.5.zip"
     },
-    "links": [
-     {
-      "label": "openFPGA inventory",
-      "url": "https://openfpga-cores-inventory.github.io/analogue-pocket/"
-     }
-    ],
-    "sources": [
-     "pocket"
-    ]
-   },
-   {
-    "id": "obsidian-dot-dev/pockettyrian#obsidian-pockettyrian",
-    "aliases": [
-     "pocket:obsidian-pockettyrian"
-    ],
-    "name": "Obsidian.PocketTyrian (Pocket)",
-    "game": "PocketTyrian",
-    "categories": [
-     "Analogue Pocket"
-    ],
-    "type": "core",
-    "tags": [
-     "FPGA"
-    ],
-    "repo": {
-     "host": "github",
-     "path": "obsidian-dot-dev/PocketTyrian"
-    },
-    "description": "",
-    "developer": "Obsidian",
-    "targets": [
-     "Analogue Pocket"
-    ],
-    "catalogVersion": "",
-    "catalogDate": "",
-    "download": null,
     "links": [
      {
       "label": "openFPGA inventory",
@@ -72928,7 +72990,7 @@
     "catalogDate": "2026-09-26",
     "download": {
      "label": "Pocket 1.0.0",
-     "url": "https://raw.githubusercontent.com/Coin-OpCollection/Distribution-OpenFPGA/c7cb7bead0624dbc012862e5e28bf4ba2485a99f/Releases/coc.bublbobl.zip"
+     "url": "https://raw.githubusercontent.com/Coin-OpCollection/Distribution-OpenFPGA/ae9ec0710294f4647dedbc8c7905e525daba8266/Releases/coc.bublbobl.zip"
     },
     "links": [
      {
@@ -73081,11 +73143,11 @@
     "targets": [
      "Analogue Pocket"
     ],
-    "catalogVersion": "1.0.0",
+    "catalogVersion": "1.0.1",
     "catalogDate": "2026-10-06",
     "download": {
-     "label": "Pocket 1.0.0",
-     "url": "https://raw.githubusercontent.com/Coin-OpCollection/Distribution-OpenFPGA/b1e934a0ce959f7cb33ad8a56ddce4969f8d4f8f/Releases/coc.lkage.zip"
+     "label": "Pocket 1.0.1",
+     "url": "https://raw.githubusercontent.com/Coin-OpCollection/Distribution-OpenFPGA/ae9ec0710294f4647dedbc8c7905e525daba8266/Releases/coc.darkmist.zip"
     },
     "links": [
      {
@@ -73432,11 +73494,11 @@
     "targets": [
      "Analogue Pocket"
     ],
-    "catalogVersion": "1.0.0",
+    "catalogVersion": "1.0.1",
     "catalogDate": "2026-10-06",
     "download": {
-     "label": "Pocket 1.0.0",
-     "url": "https://raw.githubusercontent.com/Coin-OpCollection/Distribution-OpenFPGA/b1e934a0ce959f7cb33ad8a56ddce4969f8d4f8f/Releases/coc.lkage.zip"
+     "label": "Pocket 1.0.1",
+     "url": "https://raw.githubusercontent.com/Coin-OpCollection/Distribution-OpenFPGA/ae9ec0710294f4647dedbc8c7905e525daba8266/Releases/coc.lkage.zip"
     },
     "links": [
      {
@@ -75228,6 +75290,45 @@
     "download": {
      "label": "Pocket 0.20",
      "url": "https://github.com/finner/openFPGA-SEGASYSC/releases/download/v0.20/finn2k1.SEGASYSC_0.20_2026-08-16.zip"
+    },
+    "links": [
+     {
+      "label": "openFPGA inventory",
+      "url": "https://openfpga-cores-inventory.github.io/analogue-pocket/"
+     }
+    ],
+    "sources": [
+     "pocket"
+    ]
+   },
+   {
+    "id": "frazilpop/cave-68000-pocket",
+    "aliases": [
+     "pocket:frazilpop-cave-68000"
+    ],
+    "name": "frazilpop.Cave 68000 (Pocket)",
+    "game": "Cave 68000",
+    "categories": [
+     "Analogue Pocket"
+    ],
+    "type": "core",
+    "tags": [
+     "FPGA"
+    ],
+    "repo": {
+     "host": "github",
+     "path": "Frazilpop/Cave-68000-Pocket"
+    },
+    "description": "openFPGA arcade multi core · Cave 1997",
+    "developer": "frazilpop",
+    "targets": [
+     "Analogue Pocket"
+    ],
+    "catalogVersion": "1.0.0",
+    "catalogDate": "2026-10-15",
+    "download": {
+     "label": "Pocket 1.0.0",
+     "url": "https://github.com/Frazilpop/Cave-68000-Pocket/releases/download/v1.0.0/cave68000-1.0.0.zip"
     },
     "links": [
      {
@@ -80111,6 +80212,45 @@
     "download": {
      "label": "Pocket 0.9.3",
      "url": "https://github.com/obsidian-dot-dev/openFPGA-MarioBros/releases/download/v0.9.3/openFPGA-MarioBros.zip"
+    },
+    "links": [
+     {
+      "label": "openFPGA inventory",
+      "url": "https://openfpga-cores-inventory.github.io/analogue-pocket/"
+     }
+    ],
+    "sources": [
+     "pocket"
+    ]
+   },
+   {
+    "id": "obsidian-dot-dev/pockettyrian",
+    "aliases": [
+     "pocket:obsidian-pockettyrian"
+    ],
+    "name": "obsidian.PocketTyrian (Pocket)",
+    "game": "PocketTyrian",
+    "categories": [
+     "Analogue Pocket"
+    ],
+    "type": "core",
+    "tags": [
+     "FPGA"
+    ],
+    "repo": {
+     "host": "github",
+     "path": "obsidian-dot-dev/PocketTyrian"
+    },
+    "description": "openFPGA computer core · Epic MegaGames 1995",
+    "developer": "obsidian",
+    "targets": [
+     "Analogue Pocket"
+    ],
+    "catalogVersion": "0.9.3",
+    "catalogDate": "2026-03-28",
+    "download": {
+     "label": "Pocket 0.9.3",
+     "url": "https://github.com/obsidian-dot-dev/PocketTyrian/releases/download/v0.9.3/PocketTyrian-0.9.3.zip"
     },
     "links": [
      {

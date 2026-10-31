@@ -198,6 +198,7 @@
   "bryanthaboi/gen1recomp-mod-index": "2026-10-25T15:36:27.479Z",
   "bryantmh/rush2recompiled": "2026-10-25T15:36:27.479Z",
   "btfighter/super-mario-world-remastered-plus": "2026-10-25T15:36:27.479Z",
+  "btr-rj/redbaron_recomp": "2026-10-31T23:29:04.947Z",
   "budude2/openfpga-atarilynx": "2026-10-25T15:56:57.670Z",
   "budude2/openfpga-gbc#budude2-gb": "2026-10-25T15:56:57.670Z",
   "budude2/openfpga-gbc#budude2-gbc": "2026-10-25T15:56:57.670Z",
@@ -213,6 +214,7 @@
   "caiuscodes/goldeneye-007-xbla-pc-recomp": "2026-10-25T15:36:27.479Z",
   "capridog/spaceranger": "2026-10-25T15:36:27.479Z",
   "captainbrannigan/aliens-vr-predator-2010": "2026-10-31T14:36:47.862Z",
+  "captainbrannigan/warfightervr": "2026-10-31T23:29:04.947Z",
   "carlox33/the-simpsons-hit-and-run-android": "2026-10-31T05:58:24.466Z",
   "carmiker/lithogen": "2026-10-26T15:18:29.150Z",
   "carriex/recomp": "2026-10-25T15:36:27.479Z",
@@ -236,6 +238,7 @@
   "charlottecross1998/awesome-game-decompilations": "2026-10-23T22:46:33.769Z",
   "chasem-dev/sms-android": "2026-10-30T06:03:37.031Z",
   "chasem-dev/sms-launcher": "2026-10-23T22:25:39.434Z",
+  "chermenin/reminiscence": "2026-10-31T23:29:04.947Z",
   "cheviman/segasonic-port": "2026-10-27T14:45:45.436Z",
   "chocotorp/shipwright-vr": "2026-10-23T22:25:39.434Z",
   "chortdev/deadspace2vr": "2026-10-25T15:36:27.479Z",
@@ -541,6 +544,7 @@
   "fragglet/sdl-sopwith": "2026-10-25T15:36:27.479Z",
   "frankhun88453/cod3recomp": "2026-10-23T22:25:39.434Z",
   "frazilpop/cave-68000-pocket#frazilpop-cave-68000": "2026-10-25T15:56:57.670Z",
+  "frazilpop/cave-68000-pocket": "2026-10-31T23:29:04.947Z",
   "frazilpop/great-1000-miles-rally-pocket": "2026-10-25T15:56:57.670Z",
   "frazilpop/toaplan-v2-pocket": "2026-10-30T20:54:21.398Z",
   "frederickk/pocketmidilink": "2026-10-26T15:18:29.150Z",
@@ -1034,6 +1038,7 @@
   "mazamars312/analogue-amiga": "2026-10-25T15:56:57.670Z",
   "mazamars312/analogue_pocket_neogeo": "2026-10-25T15:56:57.670Z",
   "mazamars312/openfpga-pcengine-cd": "2026-10-25T15:56:57.670Z",
+  "mbracali/prj-gd-engine": "2026-10-31T23:29:04.947Z",
   "mcassador/valormortisvr": "2026-10-25T15:36:27.479Z",
   "mcbeefy34/openfpga-tempest": "2026-10-25T15:56:57.670Z",
   "mcfredward/gloomhavenvr": "2026-10-25T15:36:27.479Z",
@@ -1604,6 +1609,7 @@
   "obsidian-dot-dev/openfpga-starforce": "2026-10-25T15:56:57.670Z",
   "obsidian-dot-dev/openfpga-vectrex": "2026-10-25T15:56:57.670Z",
   "obsidian-dot-dev/pockettyrian#obsidian-pockettyrian": "2026-10-25T15:56:57.670Z",
+  "obsidian-dot-dev/pockettyrian": "2026-10-31T23:29:04.947Z",
   "odrannnn/metroidprime2port": "2026-10-31T05:58:24.466Z",
   "odrannnn/metroidprimeport": "2026-10-25T15:36:27.479Z",
   "oduis/uevrdeluxe": "2026-10-25T15:36:27.479Z",
@@ -1854,6 +1860,7 @@
   "plasticbugs/n-gage": "2026-10-25T15:56:57.670Z",
   "plasticbugs/smashtv": "2026-10-25T15:56:57.670Z",
   "plasticbugs/toobin": "2026-10-25T15:56:57.670Z",
+  "plasticcog/vette2026": "2026-10-31T23:29:04.947Z",
   "plinkr/wild9recomp": "2026-10-30T06:03:37.031Z",
   "pluventi/teardown-vr": "2026-10-25T15:36:27.479Z",
   "pmret/papermario": "2026-10-23T22:25:39.434Z",
@@ -3284,6 +3291,35 @@
     "url": "https://www.youtube.com/watch?v=Lqu94xsBOrY",
     "source": "YouTube: NotAGameAddict",
     "date": "2026-10-30T23:18:22.000Z"
+   },
+   "autoFollow": true
+  },
+  "captainbrannigan/warfightervr": {
+   "id": "captainbrannigan/warfightervr",
+   "name": "Warfighter VR",
+   "game": "Warfighter VR",
+   "categories": [
+    "Other",
+    "VR Ports"
+   ],
+   "type": "port",
+   "tags": [
+    "VR"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "CaptainBrannigan/WarfighterVR"
+   },
+   "links": [],
+   "sources": [
+    "news"
+   ],
+   "discoveredFrom": {
+    "kind": "news",
+    "title": "Medal of Honor Warfighter VR Performance / New VR Mod with 6DOF Motion Controls / Quest 3 PCVR",
+    "url": "https://www.youtube.com/watch?v=iimVBV0HTaQ",
+    "source": "YouTube: NotAGameAddict",
+    "date": "2026-10-31T21:22:25.000Z"
    },
    "autoFollow": true
   },
@@ -4900,7 +4936,7 @@
     "title": "PS2Recomp in:readme stars:>20",
     "date": "2026-10-31T14:36:47.862Z"
    },
-   "autoFollow": false
+   "autoFollow": true
   },
   "granimated/minecraftlce": {
    "id": "granimated/minecraftlce",
@@ -9207,7 +9243,7 @@
     "title": "topic:recompilation stars:>20",
     "date": "2026-10-29T15:18:58.463Z"
    },
-   "autoFollow": false
+   "autoFollow": true
   },
   "shdecompilations/silent-hill-decomp": {
    "id": "shdecompilations/silent-hill-decomp",

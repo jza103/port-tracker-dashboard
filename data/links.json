@@ -763,6 +763,10 @@
   "discord": null,
   "checked": "2026-10-25"
  },
+ "github:btr-rj/redbaron_recomp": {
+  "discord": null,
+  "checked": "2026-10-31"
+ },
  "github:budude2/openfpga-atarilynx": {
   "discord": null,
   "checked": "2026-10-26"
@@ -816,6 +820,10 @@
   "checked": "2026-10-25"
  },
  "github:captainbrannigan/aliens-vr-predator-2010": {
+  "discord": null,
+  "checked": "2026-10-31"
+ },
+ "github:captainbrannigan/warfightervr": {
   "discord": null,
   "checked": "2026-10-31"
  },
@@ -906,6 +914,10 @@
  "github:chasem-dev/sms-launcher": {
   "discord": "https://discord.gg/97sVPsbxsY",
   "checked": "2026-10-30"
+ },
+ "github:chermenin/reminiscence": {
+  "discord": null,
+  "checked": "2026-10-31"
  },
  "github:cheviman/segasonic-port": {
   "discord": null,
@@ -3366,6 +3378,10 @@
  "github:mazamars312/openfpga-pcengine-cd": {
   "discord": null,
   "checked": "2026-10-26"
+ },
+ "github:mbracali/prj-gd-engine": {
+  "discord": null,
+  "checked": "2026-10-31"
  },
  "github:mcassador/valormortisvr": {
   "discord": null,
@@ -6034,6 +6050,10 @@
  "github:plasticbugs/toobin": {
   "discord": null,
   "checked": "2026-10-27"
+ },
+ "github:plasticcog/vette2026": {
+  "discord": null,
+  "checked": "2026-10-31"
  },
  "github:plinkr/wild9recomp": {
   "discord": null,
