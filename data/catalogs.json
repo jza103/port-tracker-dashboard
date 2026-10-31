@@ -1,6 +1,6 @@
 {
  "questports": {
-  "updatedAt": "2026-10-30T20:54:21.398Z",
+  "updatedAt": "2026-10-31T05:58:24.466Z",
   "projects": [
    {
     "id": "f1nal-b0ss/18-wheeler-decomp",
@@ -3615,6 +3615,46 @@
     ]
    },
    {
+    "id": "rwcrosk-arch/dfu-quest3",
+    "aliases": [
+     "questports:daggerfall-unity-vr"
+    ],
+    "name": "Daggerfall Unity VR (Quest 3)",
+    "game": "Daggerfall Unity",
+    "categories": [
+     "VR Ports"
+    ],
+    "type": "source-port",
+    "tags": [
+     "VR"
+    ],
+    "repo": {
+     "host": "github",
+     "path": "rwcrosk-arch/dfu-quest3"
+    },
+    "description": "A Daggerfall Unity fork that brings The Elder Scrolls II: Daggerfall to Meta Quest 3 as a native room-scale VR game. Create a character, fight, cast spells, explore and save, with menus floating in your play space.",
+    "developer": "rwcrosk-arch",
+    "status": "Playable beta",
+    "targets": [
+     "Quest 3"
+    ],
+    "download": {
+     "label": "Download v0.1.0-beta3",
+     "url": "https://github.com/rwcrosk-arch/dfu-quest3/releases/download/v0.1.0-beta3/DFU-Quest3VR-beta3.apk"
+    },
+    "catalogVersion": "v0.1.0-beta3",
+    "links": [
+     {
+      "label": "QuestPorts",
+      "url": "https://questports.vercel.app/ports/daggerfall-unity-vr"
+     }
+    ],
+    "image": "https://questports-media.questports.workers.dev/covers/daggerfall-unity-vr.png?v=6",
+    "sources": [
+     "questports"
+    ]
+   },
+   {
     "id": "lialan/lindbergh-recomp-ports#ghost-squad-evolution-vr",
     "aliases": [
      "questports:ghost-squad-evolution-vr"
@@ -3653,6 +3693,46 @@
      }
     ],
     "image": "https://questports-media.questports.workers.dev/covers/ghost-squad-evolution-vr.png?v=6",
+    "sources": [
+     "questports"
+    ]
+   },
+   {
+    "id": "matt-pulsipher/gt3-revisited",
+    "aliases": [
+     "questports:gran-turismo-3-vr"
+    ],
+    "name": "Gran Turismo 3 VR (GT3 Revisited)",
+    "game": "GT3 Revisited",
+    "categories": [
+     "VR Ports"
+    ],
+    "type": "reimplementation",
+    "tags": [
+     "VR"
+    ],
+    "repo": {
+     "host": "github",
+     "path": "matt-pulsipher/GT3-revisited"
+    },
+    "description": "An open-source reimplementation of the Gran Turismo 3 A-Spec engine with a native Meta Quest build. GT Mode, Arcade and licenses run from your own disc image, with the menus on a large virtual screen and races in stereo from the driver's seat.",
+    "developer": "matt-pulsipher",
+    "status": "Playable beta",
+    "targets": [
+     "Quest 3"
+    ],
+    "download": {
+     "label": "Download v0.4.2",
+     "url": "https://github.com/matt-pulsipher/GT3-revisited/releases/download/v0.4.2/gt3r-quest.apk"
+    },
+    "catalogVersion": "v0.4.2",
+    "links": [
+     {
+      "label": "QuestPorts",
+      "url": "https://questports.vercel.app/ports/gran-turismo-3-vr"
+     }
+    ],
+    "image": "https://questports-media.questports.workers.dev/covers/gran-turismo-3-vr.png?v=6",
     "sources": [
      "questports"
     ]
@@ -3773,6 +3853,46 @@
      }
     ],
     "image": "https://questports-media.questports.workers.dev/covers/mystical-ninja-vr.jpg?v=6",
+    "sources": [
+     "questports"
+    ]
+   },
+   {
+    "id": "sgtbilko76/opentie-vr",
+    "aliases": [
+     "questports:opentie-vr"
+    ],
+    "name": "OpenTIE VR (Star Wars: TIE Fighter)",
+    "game": "Star Wars: TIE Fighter",
+    "categories": [
+     "VR Ports"
+    ],
+    "type": "reimplementation",
+    "tags": [
+     "VR"
+    ],
+    "repo": {
+     "host": "github",
+     "path": "SgtBilko76/OpenTIE-VR"
+    },
+    "description": "Star Wars: TIE Fighter running natively on Meta Quest 3, built on the open-source OpenTIE engine. Head-tracked stereo space combat, 3D cockpits for every TIE craft, and Touch controllers as a flight gamepad.",
+    "developer": "SgtBilko76",
+    "status": "Playable beta",
+    "targets": [
+     "Quest 3"
+    ],
+    "download": {
+     "label": "Download v0.1.8-beta",
+     "url": "https://github.com/SgtBilko76/OpenTIE-VR/releases/download/v0.1.8-beta/OpenTIE-VR-v0.1.8-beta.apk"
+    },
+    "catalogVersion": "v0.1.8-beta",
+    "links": [
+     {
+      "label": "QuestPorts",
+      "url": "https://questports.vercel.app/ports/opentie-vr"
+     }
+    ],
+    "image": "https://questports-media.questports.workers.dev/covers/opentie-vr.jpg?v=6",
     "sources": [
      "questports"
     ]
@@ -4094,6 +4214,46 @@
      }
     ],
     "image": "https://questports-media.questports.workers.dev/covers/winlatorxr.jpg?v=6",
+    "sources": [
+     "questports"
+    ]
+   },
+   {
+    "id": "vistalargagames/wwf-no-mercy-quest-3-standalone-",
+    "aliases": [
+     "questports:wwf-no-mercy-vr"
+    ],
+    "name": "WWF No Mercy VR",
+    "game": "WWF No Mercy",
+    "categories": [
+     "VR Ports"
+    ],
+    "type": "port",
+    "tags": [
+     "VR"
+    ],
+    "repo": {
+     "host": "github",
+     "path": "VistaLargaGames/WWF-No-Mercy-Quest-3-Standalone-"
+    },
+    "description": "The N64 wrestling classic WWF No Mercy, recompiled to run natively on Meta Quest 3. 60 fps, an immersive camera, and online matches for two to four players, each on their own Quest 3.",
+    "developer": "VistaLargaGames",
+    "status": "Playable beta",
+    "targets": [
+     "Quest 3"
+    ],
+    "download": {
+     "label": "Download v0.1.20",
+     "url": "https://github.com/VistaLargaGames/WWF-No-Mercy-Quest-3-Standalone-/releases/download/n64/WWFNoMercyVR-Quest.apk"
+    },
+    "catalogVersion": "v0.1.20",
+    "links": [
+     {
+      "label": "QuestPorts",
+      "url": "https://questports.vercel.app/ports/wwf-no-mercy-vr"
+     }
+    ],
+    "image": "https://questports-media.questports.workers.dev/covers/wwf-no-mercy-vr.png?v=6",
     "sources": [
      "questports"
     ]
@@ -26810,7 +26970,7 @@
   ]
  },
  "quiver": {
-  "updatedAt": "2026-10-30T20:54:21.398Z",
+  "updatedAt": "2026-10-31T05:58:24.466Z",
   "projects": [
    {
     "id": "tgp482/007frwl-xberecomp",
@@ -27552,7 +27712,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v0.9.0",
+    "catalogVersion": "v0.9.1-patch2",
     "links": [
      {
       "label": "Quiver",
@@ -27989,7 +28149,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "v0.5.3",
+    "catalogVersion": "v0.5.4",
     "links": [
      {
       "label": "Quiver",
@@ -28648,7 +28808,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "v0.1.3",
+    "catalogVersion": "v0.1.4",
     "links": [
      {
       "label": "Quiver",
@@ -28845,7 +29005,7 @@
      "Linux",
      "Android"
     ],
-    "catalogVersion": "1.6.0",
+    "catalogVersion": "1.7.0",
     "links": [
      {
       "label": "Quiver",
@@ -29088,6 +29248,38 @@
     ]
    },
    {
+    "id": "minimalice92/bloodwake-recomp",
+    "aliases": [
+     "quiver:blood-wake-blood-wake-recomp"
+    ],
+    "name": "Blood Wake Recomp",
+    "game": "Blood Wake",
+    "categories": [
+     "Xbox"
+    ],
+    "type": "recompilation",
+    "repo": {
+     "host": "github",
+     "path": "minimalice92/bloodwake-recomp"
+    },
+    "description": "Blood Wake Recomp is a native Windows port of the Xbox game Blood Wake, offering both original and remastered editions with features like 4K resolution and high frame rates.",
+    "developer": "minimalice92",
+    "targets": [
+     "Windows"
+    ],
+    "catalogVersion": "v0.2.4",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/blood-wake-blood-wake-recomp"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/852e44c264ba9b5742e29dedeebeee60.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
     "id": "ayozetr/bloodborne_linux",
     "aliases": [
      "quiver:bloodborne-bloodborne-for-linux"
@@ -29139,7 +29331,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "windows-v1.9.6",
+    "catalogVersion": "windows-v1.9.7",
     "links": [
      {
       "label": "Quiver",
@@ -29571,7 +29763,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "v0.5.1",
+    "catalogVersion": "v0.5.2",
     "links": [
      {
       "label": "Quiver",
@@ -29929,7 +30121,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.7.2-alpha",
+    "catalogVersion": "v0.7.3-alpha",
     "links": [
      {
       "label": "Quiver",
@@ -30002,6 +30194,40 @@
      }
     ],
     "image": "https://cdn2.steamgriddb.com/grid/44997d6a90d9ccbb7f57d3789d6d9a33.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
+    "id": "baliebox4916/butterscotch",
+    "aliases": [
+     "quiver:butterscotch"
+    ],
+    "name": "Butterscotch",
+    "game": "Undertale",
+    "categories": [
+     "PC"
+    ],
+    "type": "reimplementation",
+    "repo": {
+     "host": "github",
+     "path": "baliebox4916/Butterscotch"
+    },
+    "description": "Butterscotch is an open source re-implementation of GameMaker: Studio's runner in C.",
+    "developer": "baliebox4916",
+    "targets": [
+     "macOS",
+     "Linux",
+     "Windows"
+    ],
+    "catalogVersion": "Releases",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/butterscotch"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/cb99e41bce59087e50e988b3728b30dc.png",
     "sources": [
      "quiver"
     ]
@@ -30101,6 +30327,38 @@
      }
     ],
     "image": "https://cdn2.steamgriddb.com/grid/d01309496ec309c4d609a2d6fdefb834.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
+    "id": "tekrantgaming/cartoon-network-racing-recompiled",
+    "aliases": [
+     "quiver:cartoon-network-racing-cartoon-network-racing-recompiled"
+    ],
+    "name": "Cartoon Network Racing Recompiled",
+    "game": "Cartoon Network Racing",
+    "categories": [
+     "PlayStation 2"
+    ],
+    "type": "recompilation",
+    "repo": {
+     "host": "github",
+     "path": "TekRantGaming/cartoon-network-racing-recompiled"
+    },
+    "description": "Cartoon Network Racing Recompiled is a native PC port of Cartoon Network Racing for PlayStation 2 that runs at higher resolutions and frame rates.",
+    "developer": "TekRantGaming",
+    "targets": [
+     "Windows"
+    ],
+    "catalogVersion": "v1.0.0",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/cartoon-network-racing-cartoon-network-racing-recompiled"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/8fb512dd4fc5c4a606d8ebcffd81923d.png",
     "sources": [
      "quiver"
     ]
@@ -30206,6 +30464,143 @@
     ]
    },
    {
+    "id": "cataclysmbn/cataclysm-bn",
+    "aliases": [
+     "quiver:cataclysm-bright-nights"
+    ],
+    "name": "Cataclysm: Bright Nights",
+    "game": "Cataclysm: Bright Nights",
+    "categories": [
+     "PC"
+    ],
+    "type": "port",
+    "repo": {
+     "host": "github",
+     "path": "cataclysmbn/Cataclysm-BN"
+    },
+    "description": "Cataclysm: Bright Nights is a roguelike game with sci-fi elements set in a post-apocalyptic world where players struggle to survive.",
+    "developer": "cataclysmbn",
+    "targets": [
+     "Android",
+     "Linux",
+     "macOS",
+     "Windows"
+    ],
+    "catalogVersion": "2026-10-31",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/cataclysm-bright-nights"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/2380b4ab3faa336df1335c4197c45afd.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
+    "id": "cleverraven/cataclysm-dda",
+    "aliases": [
+     "quiver:cataclysm-dark-days-ahead"
+    ],
+    "name": "Cataclysm: Dark Days Ahead",
+    "game": "Cataclysm: Dark Days Ahead",
+    "categories": [
+     "PC"
+    ],
+    "type": "port",
+    "repo": {
+     "host": "github",
+     "path": "CleverRaven/Cataclysm-DDA"
+    },
+    "description": "Cataclysm: Dark Days Ahead is a turn-based survival game set in a post-apocalyptic world where players struggle to survive by scavenging and fighting monsters.",
+    "developer": "CleverRaven",
+    "targets": [
+     "Android",
+     "Linux",
+     "macOS",
+     "Windows"
+    ],
+    "catalogVersion": "cdda-experimental-2026-10-30-2308",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/cataclysm-dark-days-ahead"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/6e2a579ca0af3b4b7111fde556d716d3.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
+    "id": "cataclysm-tlg/cataclysm-tlg",
+    "aliases": [
+     "quiver:cataclysm-the-last-generation"
+    ],
+    "name": "Cataclysm: The Last Generation",
+    "game": "Cataclysm: The Last Generation",
+    "categories": [
+     "PC"
+    ],
+    "type": "port",
+    "repo": {
+     "host": "github",
+     "path": "Cataclysm-TLG/Cataclysm-TLG"
+    },
+    "description": "Cataclysm: The Last Generation is a postapocalyptic survival game based on Cataclysm: Dark Days Ahead with refined progression and immersive life simulation.",
+    "developer": "Cataclysm-TLG",
+    "targets": [
+     "Linux",
+     "macOS",
+     "Windows"
+    ],
+    "catalogVersion": "cataclysm-tlg-1.0-2026-10-31-0213",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/cataclysm-the-last-generation"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/5a0131b19ffa7c8e13e30d44b597fb05.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
+    "id": "qrrk/catapult",
+    "aliases": [
+     "quiver:catapult"
+    ],
+    "name": "Catapult",
+    "game": "Cataclysm: Dark Days Ahead",
+    "categories": [
+     "PC"
+    ],
+    "type": "tool",
+    "repo": {
+     "host": "github",
+     "path": "qrrk/Catapult"
+    },
+    "description": "Catapult is a tool for Cataclysm Dark Days Ahead and Cataclysm Bright Nights that automatically downloads, installs, and manages game versions, mods, and soundpacks.",
+    "developer": "qrrk",
+    "targets": [
+     "Linux",
+     "Windows"
+    ],
+    "catalogVersion": "26.10a",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/catapult"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/128b209cef4301b90304bc0cb3e402d2.jpg",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
     "id": "exok/celeste64",
     "aliases": [
      "quiver:celeste-64-fragments-of-the-mountain"
@@ -30295,7 +30690,7 @@
      "iOS",
      "macOS"
     ],
-    "catalogVersion": "v0.15.13",
+    "catalogVersion": "v0.15.14",
     "links": [
      {
       "label": "Quiver",
@@ -30335,6 +30730,39 @@
      }
     ],
     "image": "https://cdn2.steamgriddb.com/grid/ba08e773374e74b0609b9668df3cd163.jpg",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
+    "id": "mapleleafjack/clashofninja-recomp",
+    "aliases": [
+     "quiver:naruto-clash-of-ninja-clashofninja-recomp-2"
+    ],
+    "name": "ClashOfNinja-recomp",
+    "game": "Naruto: Clash of Ninja",
+    "categories": [
+     "GameCube"
+    ],
+    "type": "recompilation",
+    "repo": {
+     "host": "github",
+     "path": "mapleleafjack/ClashOfNinja-recomp"
+    },
+    "description": "ClashOfNinja-recomp is a static recompilation of Naruto: Clash of Ninja for Windows and macOS that runs at higher frame rates.",
+    "developer": "mapleleafjack",
+    "targets": [
+     "macOS",
+     "Windows"
+    ],
+    "catalogVersion": "v1.5.1",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/naruto-clash-of-ninja-clashofninja-recomp-2"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/e28159a83a9196b03c88f605bf2f1d50.png",
     "sources": [
      "quiver"
     ]
@@ -30394,7 +30822,7 @@
      "macOS",
      "Windows"
     ],
-    "catalogVersion": "v0.4.1",
+    "catalogVersion": "v0.5.0",
     "links": [
      {
       "label": "Quiver",
@@ -30466,6 +30894,40 @@
      }
     ],
     "image": "https://cdn2.steamgriddb.com/grid/c90bc266c95ad9647ad5e4eee0319ca4.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
+    "id": "varuuna/comboship",
+    "aliases": [
+     "quiver:the-legend-of-zelda-ocarina-of-time-comboship-ship-of-harkinian-2-ship-2-harkini"
+    ],
+    "name": "ComboShip - Ship of Harkinian & 2 Ship 2 Harkinian",
+    "game": "The Legend of Zelda: Ocarina of Time",
+    "categories": [
+     "Nintendo 64"
+    ],
+    "type": "port",
+    "repo": {
+     "host": "github",
+     "path": "Varuuna/ComboShip"
+    },
+    "description": "ComboShip is a cross-game randomizer for Ocarina of Time and Majora's Mask that runs both games together and supports online multiplayer.",
+    "developer": "Varuuna",
+    "targets": [
+     "Linux",
+     "macOS",
+     "Windows"
+    ],
+    "catalogVersion": "v0.3.1",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/the-legend-of-zelda-ocarina-of-time-comboship-ship-of-harkinian-2-ship-2-harkini"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/ed89e6477ff6a465891a5f17f77948ae.png",
     "sources": [
      "quiver"
     ]
@@ -30571,6 +31033,38 @@
     ]
    },
    {
+    "id": "cdetv/conker-live-recompiled",
+    "aliases": [
+     "quiver:conker-live-reloaded-conker-live-recompiled"
+    ],
+    "name": "Conker: Live & Recompiled",
+    "game": "Conker: Live & Reloaded",
+    "categories": [
+     "Xbox"
+    ],
+    "type": "recompilation",
+    "repo": {
+     "host": "github",
+     "path": "cdetv/conker-live-recompiled"
+    },
+    "description": "Conker: Live & Recompiled is a native Windows PC port of Conker: Live & Reloaded with higher resolutions, 60 fps, and keyboard and mouse support.",
+    "developer": "cdetv",
+    "targets": [
+     "Windows"
+    ],
+    "catalogVersion": "v0.1.0",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/conker-live-reloaded-conker-live-recompiled"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/92ffe39c405eb26368e5376f396d6ade.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
     "id": "dahsidiabdallah/conkerbfdreloaded",
     "aliases": [
      "quiver:conker-s-bad-fur-day-conkerbfdreloaded"
@@ -30659,7 +31153,7 @@
      "macOS",
      "Windows"
     ],
-    "catalogVersion": "v1.1.0",
+    "catalogVersion": "v1.2.0",
     "links": [
      {
       "label": "Quiver",
@@ -30700,6 +31194,70 @@
      }
     ],
     "image": "https://cdn2.steamgriddb.com/grid/dd29e5c6f1fe292066a30b482fa79068.jpg",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
+    "id": "gitlab:pacific-city-recompiled/crackdown-2-recomp",
+    "aliases": [
+     "quiver:crackdown-2-crackdown-2-recomp-2"
+    ],
+    "name": "Crackdown 2 Recomp",
+    "game": "Crackdown 2",
+    "categories": [
+     "Xbox 360"
+    ],
+    "type": "recompilation",
+    "repo": {
+     "host": "gitlab",
+     "path": "pacific-city-recompiled/crackdown-2-recomp"
+    },
+    "description": "Crackdown 2 Recomp is a native PC port of Crackdown 2 built on the ReXGlue SDK, booting to the title screen.",
+    "developer": "Pacific City Recompiled",
+    "targets": [
+     "Windows"
+    ],
+    "catalogVersion": "v1.0.0",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/crackdown-2-crackdown-2-recomp-2"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/9a0298d03a55b3da7c39eb509782ea81.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
+    "id": "gitlab:pacific-city-recompiled/crackdown-recomp",
+    "aliases": [
+     "quiver:crackdown-crackdown-recomp"
+    ],
+    "name": "Crackdown Recomp",
+    "game": "Crackdown",
+    "categories": [
+     "Xbox 360"
+    ],
+    "type": "recompilation",
+    "repo": {
+     "host": "gitlab",
+     "path": "pacific-city-recompiled/crackdown-recomp"
+    },
+    "description": "Crackdown Recomp is a native PC port of Crackdown for Windows with 60 fps, up to 4K resolution, ultrawide support, and mouse and keyboard controls.",
+    "developer": "Pacific City Recompiled",
+    "targets": [
+     "Windows"
+    ],
+    "catalogVersion": "v1.3.0",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/crackdown-crackdown-recomp"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/0d866018f63b5c0f9b822175e2c5d72c.png",
     "sources": [
      "quiver"
     ]
@@ -30760,7 +31318,7 @@
      "Windows",
      "Android"
     ],
-    "catalogVersion": "2.3.1",
+    "catalogVersion": "2.4",
     "links": [
      {
       "label": "Quiver",
@@ -30768,6 +31326,38 @@
      }
     ],
     "image": "https://cdn2.steamgriddb.com/grid/7224f283a1c05b36afdcbed07d3357b3.jpg",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
+    "id": "jaylikesbunda/crashofthetitans-wiicomp",
+    "aliases": [
+     "quiver:crash-of-the-titans-crash-of-the-titans-wiicompiled"
+    ],
+    "name": "Crash of the Titans - Wiicompiled",
+    "game": "Crash of the Titans",
+    "categories": [
+     "Wii"
+    ],
+    "type": "recompilation",
+    "repo": {
+     "host": "github",
+     "path": "jaylikesbunda/CrashoftheTitans-Wiicomp"
+    },
+    "description": "Crash of the Titans - Wiicompiled is a native Windows port of Crash of the Titans built using NWiiRecomp, featuring two-player co-op and save states.",
+    "developer": "jaylikesbunda",
+    "targets": [
+     "Windows"
+    ],
+    "catalogVersion": "v0.1.3",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/crash-of-the-titans-crash-of-the-titans-wiicompiled"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/4cde7bfdc2fa8ba457b88daba87f73bf.png",
     "sources": [
      "quiver"
     ]
@@ -31118,7 +31708,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.8.5-beta",
+    "catalogVersion": "texture-studio-v1.0.0",
     "links": [
      {
       "label": "Quiver",
@@ -31151,7 +31741,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "v0.6.1",
+    "catalogVersion": "v0.7",
     "links": [
      {
       "label": "Quiver",
@@ -31159,6 +31749,38 @@
      }
     ],
     "image": "https://cdn2.steamgriddb.com/grid/837cbc8e38fa7e2d306e865c707c7e3d.jpg",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
+    "id": "baliebox4916/daytona-arcade-recomp",
+    "aliases": [
+     "quiver:daytona-usa-daytona-usa-static-recomp"
+    ],
+    "name": "Daytona USA Static Recomp",
+    "game": "Daytona USA",
+    "categories": [
+     "Arcade"
+    ],
+    "type": "recompilation",
+    "repo": {
+     "host": "github",
+     "path": "baliebox4916/daytona-arcade-recomp"
+    },
+    "description": "Daytona USA Static Recomp is a native code port of Daytona USA for Android, Windows, macOS, Linux, PS Vita, and iOS.",
+    "developer": "baliebox4916",
+    "targets": [
+     "Android"
+    ],
+    "catalogVersion": "Releases",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/daytona-usa-daytona-usa-static-recomp"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/a2062d9b9b1a226a52980c26c7083840.png",
     "sources": [
      "quiver"
     ]
@@ -31365,11 +31987,43 @@
     ]
    },
    {
+    "id": "rac08241988/demonscrestsnesrecomp",
+    "aliases": [
+     "quiver:demons-crest-demons-crest-snes-recomp"
+    ],
+    "name": "Demon's Crest (SNES Recomp)",
+    "game": "Demon's Crest",
+    "categories": [
+     "SNES"
+    ],
+    "type": "recompilation",
+    "repo": {
+     "host": "github",
+     "path": "rac08241988/DemonsCrestSNESRecomp"
+    },
+    "description": "Demon's Crest (SNES Recomp) is a native PC recompilation of Demon's Crest for Super Nintendo Entertainment System with adaptive widescreen, save states, and rewind.",
+    "developer": "rac08241988",
+    "targets": [
+     "Windows"
+    ],
+    "catalogVersion": "v1.0.3",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/demons-crest-demons-crest-snes-recomp"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/6f42d4d9b2b68c444a1ba052dbe647de.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
     "id": "goodshepherd23/despiria-dreamrecomp",
     "aliases": [
      "quiver:despiria-despiria-dreamrecomp"
     ],
-    "name": "deSPIRIA DreamRecomp",
+    "name": "deSPIRIA reBIRTH",
     "game": "deSPIRIA",
     "categories": [
      "Dreamcast"
@@ -31379,7 +32033,7 @@
      "host": "github",
      "path": "goodshepherd23/deSPIRIA-DreamRecomp"
     },
-    "description": "deSPIRIA DreamRecomp is a Windows port of deSPIRIA for the Sega Dreamcast that runs the game at full speed and supports English language.",
+    "description": "deSPIRIA reBIRTH is a Windows port of deSPIRIA for the Sega Dreamcast that runs the game at full speed and supports English language.",
     "developer": "goodshepherd23",
     "targets": [
      "Windows"
@@ -32065,6 +32719,70 @@
     ]
    },
    {
+    "id": "negroiso/doax3-fortune-pc",
+    "aliases": [
+     "quiver:dead-or-alive-xtreme-3-fortune-doax3-fortune-pc"
+    ],
+    "name": "doax3-fortune-pc",
+    "game": "Dead or Alive Xtreme 3 Fortune",
+    "categories": [
+     "PlayStation 4"
+    ],
+    "type": "reimplementation",
+    "repo": {
+     "host": "github",
+     "path": "negroISO/doax3-fortune-pc"
+    },
+    "description": "doax3-fortune-pc is a Vulkan port of Dead or Alive Xtreme 3 Fortune for Windows and Linux with fixed poolside camera water-entry freezes and optional neural rendering.",
+    "developer": "negroISO",
+    "targets": [
+     "Linux"
+    ],
+    "catalogVersion": "steamdeck-native-2026.10.26",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/dead-or-alive-xtreme-3-fortune-doax3-fortune-pc"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/8d06dac6909cbc9d2dd29e293dc8d727.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
+    "id": "negroiso/doax3-scarlet-pc",
+    "aliases": [
+     "quiver:dead-or-alive-xtreme-3-scarlet-doax3-scarlet-pc"
+    ],
+    "name": "doax3-scarlet-pc",
+    "game": "Dead or Alive Xtreme 3 Scarlet",
+    "categories": [
+     "PlayStation 4"
+    ],
+    "type": "reimplementation",
+    "repo": {
+     "host": "github",
+     "path": "negroISO/doax3-scarlet-pc"
+    },
+    "description": "DOAX3 Scarlet PC is an experimental Vulkan port of Dead or Alive Xtreme 3 Scarlet for Windows and Linux with optional neural rendering.",
+    "developer": "negroISO",
+    "targets": [
+     "Linux"
+    ],
+    "catalogVersion": "steamdeck-native-2026.10.26",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/dead-or-alive-xtreme-3-scarlet-doax3-scarlet-pc"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/8607357cd1266b77d1bfe2641f536e44.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
     "id": "norain211/doaxvb-re",
     "aliases": [
      "quiver:dead-or-alive-xtreme-beach-volleyball-doaxvb-native-pc-port"
@@ -32357,6 +33075,40 @@
      }
     ],
     "image": "https://cdn2.steamgriddb.com/grid/3923e635d0f8b92a1024c046ee2affaa.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
+    "id": "sinan-karakaya/dq8-recompiled",
+    "aliases": [
+     "quiver:dragon-quest-viii-journey-of-the-cursed-king-dq8recomp"
+    ],
+    "name": "DQ8Recomp",
+    "game": "Dragon Quest VIII: Journey of the Cursed King",
+    "categories": [
+     "PlayStation 2"
+    ],
+    "type": "recompilation",
+    "repo": {
+     "host": "github",
+     "path": "Sinan-Karakaya/DQ8-Recompiled"
+    },
+    "description": "DQ8Recomp is an experimental native port of Dragon Quest VIII: Journey of the Cursed King for PlayStation 2 that translates MIPS code to C++.",
+    "developer": "Sinan-Karakaya",
+    "targets": [
+     "Linux",
+     "macOS",
+     "Windows"
+    ],
+    "catalogVersion": "f6dfd96",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/dragon-quest-viii-journey-of-the-cursed-king-dq8recomp"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/a4eecbbe9ba8db0f31c7185bd89af49a.png",
     "sources": [
      "quiver"
     ]
@@ -32753,6 +33505,40 @@
     ]
    },
    {
+    "id": "gameflorist/dunedynasty",
+    "aliases": [
+     "quiver:dune-ii-dune-dynasty"
+    ],
+    "name": "Dune Dynasty",
+    "game": "Dune II",
+    "categories": [
+     "PC"
+    ],
+    "type": "reimplementation",
+    "repo": {
+     "host": "github",
+     "path": "gameflorist/dunedynasty"
+    },
+    "description": "Dune Dynasty is a native PC port of Dune II that enhances the classic RTS game with modern features like widescreen graphics and improved controls.",
+    "developer": "gameflorist",
+    "targets": [
+     "Linux",
+     "macOS",
+     "Windows"
+    ],
+    "catalogVersion": "v1.6.4",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/dune-ii-dune-dynasty"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/31eefcf3163f9c25c14b1a5f9c443c97.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
     "id": "henricj/dunelegacy",
     "aliases": [
      "quiver:dune-ii-the-building-of-a-dynasty-dune-legacy"
@@ -32815,6 +33601,39 @@
      }
     ],
     "image": "https://cdn2.steamgriddb.com/grid/156d3a9afd99486f563e39e85ed3acdb.jpg",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
+    "id": "grissyelda/dx-rust",
+    "aliases": [
+     "quiver:deus-ex-dx-rust"
+    ],
+    "name": "DX RUST",
+    "game": "Deus Ex",
+    "categories": [
+     "PC"
+    ],
+    "type": "reimplementation",
+    "repo": {
+     "host": "github",
+     "path": "Grissyelda/dx-rust"
+    },
+    "description": "DX RUST is a from-scratch reimplementation of Deus Ex in Rust on the Bevy engine for Windows and Linux.",
+    "developer": "Grissyelda",
+    "targets": [
+     "Linux",
+     "Windows"
+    ],
+    "catalogVersion": "v0.9.0",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/deus-ex-dx-rust"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/ec171768a35506a454b08b373a3834cf.jpg",
     "sources": [
      "quiver"
     ]
@@ -32919,6 +33738,42 @@
     ]
    },
    {
+    "id": "odrannnn/metroidprime2port",
+    "aliases": [
+     "quiver:metroid-prime-2-echoes-unbound"
+    ],
+    "name": "Echoes Unbound",
+    "game": "Metroid Prime 2: Echoes",
+    "categories": [
+     "GameCube"
+    ],
+    "type": "port",
+    "repo": {
+     "host": "github",
+     "path": "Odrannnn/MetroidPrime2Port"
+    },
+    "description": "Echoes Unbound is a native PC port of Metroid Prime 2: Echoes for Windows, Linux, macOS, iOS and Android with features like cutscene skip and widescreen support.",
+    "developer": "Odrannnn",
+    "targets": [
+     "Android",
+     "Linux",
+     "macOS",
+     "Windows",
+     "iOS"
+    ],
+    "catalogVersion": "v0.6.6",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/metroid-prime-2-echoes-unbound"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/6f25a1fecb540574fb02ff4b4f5a12f9.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
     "id": "goliathret/edgeoftimerecomp",
     "aliases": [
      "quiver:spider-man-edge-of-time-edgeoftimerecompiled"
@@ -32940,7 +33795,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "v1.0.0",
+    "catalogVersion": "v1.1",
     "links": [
      {
       "label": "Quiver",
@@ -33117,6 +33972,38 @@
      }
     ],
     "image": "https://cdn2.steamgriddb.com/grid/4406eaa78843e50498b08076c2d7b386.jpg",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
+    "id": "markpremier/evolutionrecomp",
+    "aliases": [
+     "quiver:turok-evolution-evolutionrecomp"
+    ],
+    "name": "EvolutionRecomp",
+    "game": "Turok: Evolution",
+    "categories": [
+     "Xbox"
+    ],
+    "type": "recompilation",
+    "repo": {
+     "host": "github",
+     "path": "MarkPremier/EvolutionRecomp"
+    },
+    "description": "EvolutionRecomp is a native Windows port of Turok: Evolution built using the xboxrecomp project.",
+    "developer": "MarkPremier",
+    "targets": [
+     "Windows"
+    ],
+    "catalogVersion": "v0.7-beta",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/turok-evolution-evolutionrecomp"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/8548eb0d228ea281011a9905feb64c09.png",
     "sources": [
      "quiver"
     ]
@@ -33784,6 +34671,70 @@
     ]
    },
    {
+    "id": "dialight/flame",
+    "aliases": [
+     "quiver:dungeon-keeper-2-flame"
+    ],
+    "name": "Flame",
+    "game": "Dungeon Keeper 2",
+    "categories": [
+     "PC"
+    ],
+    "type": "recompilation",
+    "repo": {
+     "host": "github",
+     "path": "DiaLight/Flame"
+    },
+    "description": "Flame modifies the Dungeon Keeper 2 code to fix the bugs found in both single and multiplayer. It works with the Disk, Steam and GOG versions of the game.",
+    "developer": "DiaLight",
+    "targets": [
+     "Windows"
+    ],
+    "catalogVersion": "v260206",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/dungeon-keeper-2-flame"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/8be16b481205aacc03a569a1e302216c.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
+    "id": "i2kiselev/fm4-static-recomp",
+    "aliases": [
+     "quiver:forza-motorsport-4-fm4-static-recomp"
+    ],
+    "name": "fm4-static-recomp",
+    "game": "Forza Motorsport 4",
+    "categories": [
+     "Xbox 360"
+    ],
+    "type": "recompilation",
+    "repo": {
+     "host": "github",
+     "path": "i2kiselev/fm4-static-recomp"
+    },
+    "description": "fm4-static-recomp is a Windows port of Forza Motorsport 4 that supports DLSS, FSR 2, and FSR 3 upscaling.",
+    "developer": "i2kiselev",
+    "targets": [
+     "Windows"
+    ],
+    "catalogVersion": "v0.3.0",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/forza-motorsport-4-fm4-static-recomp"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/8a9c81aca7268690ab27d58cdd5f4431.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
     "id": "dyotson/forzahorizon1-reimagined",
     "aliases": [
      "quiver:forza-horizon-forza-horizon-1-reimagined"
@@ -33804,7 +34755,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v0.2.1",
+    "catalogVersion": "v0.2.2",
     "links": [
      {
       "label": "Quiver",
@@ -33837,7 +34788,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "v0.9.10",
+    "catalogVersion": "v0.9.11",
     "links": [
      {
       "label": "Quiver",
@@ -33937,7 +34888,7 @@
      "iOS",
      "macOS"
     ],
-    "catalogVersion": "v0.10.38",
+    "catalogVersion": "v0.10.39",
     "links": [
      {
       "label": "Quiver",
@@ -34046,6 +34997,38 @@
      }
     ],
     "image": "https://cdn2.steamgriddb.com/grid/9c0f8b8536f786adc7c08b22753a63e6.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
+    "id": "cerroverb/futari-linux",
+    "aliases": [
+     "quiver:mushihimesama-futari-futari-linux"
+    ],
+    "name": "futari-linux",
+    "game": "Mushihimesama Futari",
+    "categories": [
+     "Xbox 360"
+    ],
+    "type": "recompilation",
+    "repo": {
+     "host": "github",
+     "path": "cerroverb/futari-linux"
+    },
+    "description": "futari-linux is a native Linux port of Mushihimesama Futari Ver 1.5 for Xbox 360 with reduced input lag.",
+    "developer": "cerroverb",
+    "targets": [
+     "Linux"
+    ],
+    "catalogVersion": "v1.1.0-linux",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/mushihimesama-futari-futari-linux"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/0682fd3e003e39de2a1eea8475a158f0.png",
     "sources": [
      "quiver"
     ]
@@ -34864,7 +35847,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "windows-v2.8.0-launcher-identity-test1",
+    "catalogVersion": "windows-v2.8.0-collision-test1",
     "links": [
      {
       "label": "Quiver",
@@ -34906,6 +35889,40 @@
      }
     ],
     "image": "https://cdn2.steamgriddb.com/grid/71034ae5fe1985ee198880df5a2ee5ae.jpg",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
+    "id": "ugatec/grand-prix-circuit-recomp",
+    "aliases": [
+     "quiver:grand-prix-circuit-grand-prix-circuit-1988-native-64-bit-recompilation"
+    ],
+    "name": "Grand Prix Circuit (1988) - Native 64-bit Recompilation",
+    "game": "Grand Prix Circuit",
+    "categories": [
+     "PC"
+    ],
+    "type": "recompilation",
+    "repo": {
+     "host": "github",
+     "path": "UgaTEC/grand-prix-circuit-recomp"
+    },
+    "description": "Grand Prix Circuit (1988) - Native 64-bit Recompilation is a port of Grand Prix Circuit for Windows, Linux and macOS that adds 60 FPS motion interpolation and Commodore 64 mode.",
+    "developer": "UgaTEC",
+    "targets": [
+     "Linux",
+     "macOS",
+     "Windows"
+    ],
+    "catalogVersion": "v1.0.0",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/grand-prix-circuit-grand-prix-circuit-1988-native-64-bit-recompilation"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/ceb08337cd773dccc222da912f05c11a.png",
     "sources": [
      "quiver"
     ]
@@ -35137,6 +36154,74 @@
      }
     ],
     "image": "https://cdn2.steamgriddb.com/grid/ffb556219a1a624b396d2b410766d75a.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
+    "id": "peterrichardsongolf/halo-ce-arena-evolved",
+    "aliases": [
+     "quiver:halo-combat-evolved-halo-ce-arena-evolved"
+    ],
+    "name": "Halo CE: Arena Evolved",
+    "game": "Halo: Combat Evolved",
+    "categories": [
+     "Xbox"
+    ],
+    "type": "port",
+    "repo": {
+     "host": "github",
+     "path": "PeterRichardsonGolf/Halo-CE-Arena-Evolved"
+    },
+    "description": "Halo CE: Arena Evolved is a native PC port of Halo: Combat Evolved with modern quality of life features and new gameplay options.",
+    "developer": "Peter Richardson",
+    "targets": [
+     "Android",
+     "Linux",
+     "macOS",
+     "Windows"
+    ],
+    "catalogVersion": "v0.5.0-beta",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/halo-combat-evolved-halo-ce-arena-evolved"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/09a146c8d1cfdbdb54ceb60ede93cdab.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
+    "id": "8bitninja64/hangtimerecomp",
+    "aliases": [
+     "quiver:nba-hangtime-hangtimerecomp"
+    ],
+    "name": "HangtimeRecomp",
+    "game": "NBA Hangtime",
+    "categories": [
+     "Nintendo 64"
+    ],
+    "type": "recompilation",
+    "repo": {
+     "host": "github",
+     "path": "8bitninja64/HangtimeRecomp"
+    },
+    "description": "HangtimeRecomp is a native PC port of NBA Hangtime for Windows and Linux that offers 60 FPS gameplay and true 16:9 widescreen.",
+    "developer": "8bitninja64",
+    "targets": [
+     "Linux",
+     "Windows"
+    ],
+    "catalogVersion": "v0.1.1",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/nba-hangtime-hangtimerecomp"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/084f8be32f34c2828f05d697a9d31e2f.jpg",
     "sources": [
      "quiver"
     ]
@@ -35553,7 +36638,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "v0.3.2",
+    "catalogVersion": "v0.3.3",
     "links": [
      {
       "label": "Quiver",
@@ -35721,7 +36806,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.1.25",
+    "catalogVersion": "v0.1.28",
     "links": [
      {
       "label": "Quiver",
@@ -35883,7 +36968,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.97.2",
+    "catalogVersion": "v0.97.3",
     "links": [
      {
       "label": "Quiver",
@@ -36065,6 +37150,38 @@
     ]
    },
    {
+    "id": "griches/jamespond2robocodrecomp",
+    "aliases": [
+     "quiver:james-pond-2-codename-robocod-james-pond-2-codename-robocod-recompiled"
+    ],
+    "name": "James Pond 2: Codename RoboCod - Recompiled",
+    "game": "James Pond 2: Codename RoboCod",
+    "categories": [
+     "Other"
+    ],
+    "type": "recompilation",
+    "repo": {
+     "host": "github",
+     "path": "griches/JamesPond2RobocodRecomp"
+    },
+    "description": "James Pond 2: Codename RoboCod - Recompiled is a native PC port of James Pond 2: Codename RoboCod for Windows, macOS, Linux, and Android with widescreen, smooth motion, and a pause menu.",
+    "developer": "Gary Riches",
+    "targets": [
+     "Windows"
+    ],
+    "catalogVersion": "v1.0.4",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/james-pond-2-codename-robocod-james-pond-2-codename-robocod-recompiled"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/0b86976b8b61f5c3a53862dd003a0cb8.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
     "id": "tk22-26/jetforcegemini-recomp",
     "aliases": [
      "quiver:jet-force-gemini-jetforcegemini-recomp"
@@ -36089,6 +37206,39 @@
      {
       "label": "Quiver",
       "url": "https://quiverlauncher.com/apps/jet-force-gemini-jetforcegemini-recomp"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/e40084a1c911addf8a36b6058c123cdc.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
+    "id": "vibintoast/jetforcegemini-recompiled",
+    "aliases": [
+     "quiver:jet-force-gemini-jet-force-gemini-recomp"
+    ],
+    "name": "Jet Force Gemini: Recompiled",
+    "game": "Jet Force Gemini",
+    "categories": [
+     "Nintendo 64"
+    ],
+    "type": "recompilation",
+    "repo": {
+     "host": "github",
+     "path": "VibinToast/JetForceGemini-Recompiled"
+    },
+    "description": "JetForceGemini-Recomp is a native PC port of Jet Force Gemini for Windows and Linux that translates the game's code for your PC.",
+    "developer": "VibinToast",
+    "targets": [
+     "Windows",
+     "Linux"
+    ],
+    "catalogVersion": "v1.3.2",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/jet-force-gemini-jet-force-gemini-recomp"
      }
     ],
     "image": "https://cdn2.steamgriddb.com/grid/e40084a1c911addf8a36b6058c123cdc.png",
@@ -36152,7 +37302,7 @@
      "Windows",
      "Android"
     ],
-    "catalogVersion": "v0.5.10",
+    "catalogVersion": "v0.6.0",
     "links": [
      {
       "label": "Quiver",
@@ -36160,39 +37310,6 @@
      }
     ],
     "image": "https://cdn2.steamgriddb.com/grid/1af811e7b980f0101940cface13124d4.jpg",
-    "sources": [
-     "quiver"
-    ]
-   },
-   {
-    "id": "vibintoast/jetforcegemini-recomp",
-    "aliases": [
-     "quiver:jet-force-gemini-jetforcegemini-recomp-2"
-    ],
-    "name": "JetForceGemini-Recomp",
-    "game": "Jet Force Gemini",
-    "categories": [
-     "Nintendo 64"
-    ],
-    "type": "recompilation",
-    "repo": {
-     "host": "github",
-     "path": "VibinToast/JetForceGemini-Recomp"
-    },
-    "description": "JetForceGemini-Recomp is a native PC port of Jet Force Gemini for Windows and Linux that translates the game's code for your PC.",
-    "developer": "VibinToast",
-    "targets": [
-     "Windows",
-     "Linux"
-    ],
-    "catalogVersion": "v1.2.4",
-    "links": [
-     {
-      "label": "Quiver",
-      "url": "https://quiverlauncher.com/apps/jet-force-gemini-jetforcegemini-recomp-2"
-     }
-    ],
-    "image": "https://cdn2.steamgriddb.com/grid/e40084a1c911addf8a36b6058c123cdc.png",
     "sources": [
      "quiver"
     ]
@@ -36382,7 +37499,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v0.3.1-beta.4",
+    "catalogVersion": "v0.3.1",
     "links": [
      {
       "label": "Quiver",
@@ -36561,6 +37678,70 @@
     ]
    },
    {
+    "id": "lesca-191204/killzone-shadowfall-pc",
+    "aliases": [
+     "quiver:killzone-shadow-fall-killzone-shadowfall-pc"
+    ],
+    "name": "killzone-shadowfall-pc",
+    "game": "Killzone Shadow Fall",
+    "categories": [
+     "PlayStation 4"
+    ],
+    "type": "recompilation",
+    "repo": {
+     "host": "github",
+     "path": "lesca-191204/killzone-shadowfall-pc"
+    },
+    "description": "Killzone Shadow Fall for PC is a native Windows port of the PlayStation 4 game that runs the game's code directly on your CPU and translates graphics to Vulkan in real time.",
+    "developer": "lesca-191204",
+    "targets": [
+     "Windows"
+    ],
+    "catalogVersion": "v0.8.0",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/killzone-shadow-fall-killzone-shadowfall-pc"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/1cf8489830fba808c97feab289c300fa.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
+    "id": "drakolordx7/killzonerecomp",
+    "aliases": [
+     "quiver:killzone-killzonerecomp"
+    ],
+    "name": "KillzoneRecomp",
+    "game": "Killzone",
+    "categories": [
+     "PlayStation 2"
+    ],
+    "type": "recompilation",
+    "repo": {
+     "host": "github",
+     "path": "drakolordx7/KillzoneRecomp"
+    },
+    "description": "KillzoneRecomp is a native PC port of Killzone for Windows with mouse and keyboard support, higher resolutions and ultrawide support.",
+    "developer": "drakolordx7",
+    "targets": [
+     "Windows"
+    ],
+    "catalogVersion": "v0.1.5-alpha",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/killzone-killzonerecomp"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/5afca88e1aed4c35951835e4b3c9e804.jpg",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
     "id": "tekrantgaming/king-kong-recompiled",
     "aliases": [
      "quiver:peter-jackson-s-king-kong-the-official-game-of-the-movie-king-kong-pc-port"
@@ -36580,7 +37761,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v2.0.0",
+    "catalogVersion": "v2.0.2",
     "links": [
      {
       "label": "Quiver",
@@ -36588,6 +37769,38 @@
      }
     ],
     "image": "https://cdn2.steamgriddb.com/grid/95eb83542315080493f9a00e01920fe6.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
+    "id": "sonsegajp/kirby-air-ride-recompiled",
+    "aliases": [
+     "quiver:kirby-air-ride-recompiled"
+    ],
+    "name": "Kirby Air Ride: Recompiled",
+    "game": "Kirby Air Ride",
+    "categories": [
+     "GameCube"
+    ],
+    "type": "recompilation",
+    "repo": {
+     "host": "github",
+     "path": "sonsegajp/Kirby-Air-Ride-Recompiled"
+    },
+    "description": "Kirby Air Ride Recompiled is a native PC port of Kirby Air Ride for GameCube that supports widescreen and online play.",
+    "developer": "sonsegajp",
+    "targets": [
+     "Windows"
+    ],
+    "catalogVersion": "v1.3.0",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/kirby-air-ride-recompiled"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/1404fe8527667e6b6c1d29e2a6390312.png",
     "sources": [
      "quiver"
     ]
@@ -36687,6 +37900,39 @@
      }
     ],
     "image": "https://cdn2.steamgriddb.com/grid/a009159372c66a3c5756b06e0d2237ab.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
+    "id": "abdelmoumendeghbouche/knack_pc",
+    "aliases": [
+     "quiver:knack-pc"
+    ],
+    "name": "Knack for PC (knack_pc)",
+    "game": "Knack",
+    "categories": [
+     "PlayStation 4"
+    ],
+    "type": "reimplementation",
+    "repo": {
+     "host": "github",
+     "path": "AbdelmoumenDeghbouche/knack_pc"
+    },
+    "description": "A native PC port of Knack (PlayStation 4, 2013) for Windows 10/11 and Linux, in the style of bbport",
+    "developer": "AbdelmoumenDeghbouche",
+    "targets": [
+     "Windows",
+     "Linux"
+    ],
+    "catalogVersion": "v0.1.4",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/knack-pc"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/f7d6db779e8805aac16e1b49472d8de1.png",
     "sources": [
      "quiver"
     ]
@@ -36847,7 +38093,7 @@
      "macOS",
      "Windows"
     ],
-    "catalogVersion": "test-462-arc-3",
+    "catalogVersion": "test-arm-483-mali",
     "links": [
      {
       "label": "Quiver",
@@ -37016,6 +38262,40 @@
      }
     ],
     "image": "https://cdn2.steamgriddb.com/grid/e49cc7c344acaf1160fd6c2a0190f056.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
+    "id": "facundosterzerforino/legoland-port",
+    "aliases": [
+     "quiver:legoland"
+    ],
+    "name": "Legoland",
+    "game": "Legoland",
+    "categories": [
+     "PC"
+    ],
+    "type": "port",
+    "repo": {
+     "host": "github",
+     "path": "facundosterzerforino/legoland-port"
+    },
+    "description": "Legoland is a native PC port of the 1999 game Legoland for Windows, Linux, and Android.",
+    "developer": "facundosterzerforino",
+    "targets": [
+     "Android",
+     "Linux",
+     "Windows"
+    ],
+    "catalogVersion": "2026-10-23-3c099240",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/legoland"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/3051b381d46d734eda102fa78ac1973b.jpg",
     "sources": [
      "quiver"
     ]
@@ -37382,6 +38662,38 @@
     ]
    },
    {
+    "id": "rac08241988/magicalblocks",
+    "aliases": [
+     "quiver:magical-tetris-challenge-magical-blocks"
+    ],
+    "name": "Magical Blocks",
+    "game": "Magical Tetris Challenge",
+    "categories": [
+     "Nintendo 64"
+    ],
+    "type": "recompilation",
+    "repo": {
+     "host": "github",
+     "path": "rac08241988/MagicalBlocks"
+    },
+    "description": "Magical Blocks is a Windows PC port of the Nintendo 64 game Magical Tetris Challenge that includes retro shaders and supports keyboard and controller input.",
+    "developer": "rac08241988",
+    "targets": [
+     "Windows"
+    ],
+    "catalogVersion": "v0.1.4",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/magical-tetris-challenge-magical-blocks"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/6e4c82e158029ad1ef2b618c66cd5ad0.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
     "id": "otpr26/dekui-fork",
     "aliases": [
      "quiver:the-legend-of-zelda-majora-s-mask-3d-majora-remasked"
@@ -37471,7 +38783,7 @@
     "targets": [
      "Android"
     ],
-    "catalogVersion": "v2.1.0-beta.5",
+    "catalogVersion": "test-retroid-1",
     "links": [
      {
       "label": "Quiver",
@@ -37613,6 +38925,105 @@
      }
     ],
     "image": "https://cdn2.steamgriddb.com/grid/6cdbd53f9754e80de2d6fd4d13940ba6.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
+    "id": "n64hub/mario-party-2-recomp",
+    "aliases": [
+     "quiver:mario-party-2-recompiled"
+    ],
+    "name": "Mario Party 2: Recompiled",
+    "game": "Mario Party 2",
+    "categories": [
+     "Nintendo 64"
+    ],
+    "type": "recompilation",
+    "repo": {
+     "host": "github",
+     "path": "n64hub/mario-party-2-recomp"
+    },
+    "description": "Mario Party 2: Recompiled is a native PC port of Mario Party 2 for Windows and Linux that interpolates boards to the display's rate and draws them at the window's size.",
+    "developer": "n64hub",
+    "targets": [
+     "Linux",
+     "Windows"
+    ],
+    "catalogVersion": "v0.2.0",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/mario-party-2-recompiled"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/c7a45163eda01f63ab1ddb70d0f086fe.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
+    "id": "n64hub/mario-party-3-recomp",
+    "aliases": [
+     "quiver:mario-party-3-recompiled"
+    ],
+    "name": "Mario Party 3: Recompiled",
+    "game": "Mario Party 3",
+    "categories": [
+     "Nintendo 64"
+    ],
+    "type": "recompilation",
+    "repo": {
+     "host": "github",
+     "path": "n64hub/mario-party-3-recomp"
+    },
+    "description": "Mario Party 3: Recompiled is a native PC port of Mario Party 3 for Windows and Linux that interpolates menus, boards, and minigames to the display's rate and draws them at the window's size.",
+    "developer": "n64hub",
+    "targets": [
+     "Linux",
+     "Windows"
+    ],
+    "catalogVersion": "v0.2.0",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/mario-party-3-recompiled"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/2f1cd5f3b17a865d680fb1f2c299e705.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
+    "id": "n64hub/mario-party-recomp",
+    "aliases": [
+     "quiver:mario-party-recompiled"
+    ],
+    "name": "Mario Party: Recompiled",
+    "game": "Mario Party",
+    "categories": [
+     "Nintendo 64"
+    ],
+    "type": "recompilation",
+    "repo": {
+     "host": "github",
+     "path": "n64hub/mario-party-recomp"
+    },
+    "description": "Mario Party: Recompiled is a native PC port of Mario Party for Windows and Linux that plays boards and minigames in widescreen.",
+    "developer": "n64hub",
+    "targets": [
+     "Linux",
+     "Windows"
+    ],
+    "catalogVersion": "v0.2.0",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/mario-party-recompiled"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/2ccddb1685aa2463eb3b9fc8883662f2.png",
     "sources": [
      "quiver"
     ]
@@ -37881,9 +39292,9 @@
     ]
    },
    {
-    "id": "holdmysocks/mcla-recomp",
+    "id": "renanqueiroz/mcla-recomp",
     "aliases": [
-     "quiver:midnight-club-los-angeles-complete-edition-mcla-recomp"
+     "quiver:midnight-club-los-angeles-complete-edition-mcla-recomp-2"
     ],
     "name": "mcla-recomp",
     "game": "Midnight Club: Los Angeles Complete Edition",
@@ -37893,21 +39304,88 @@
     "type": "recompilation",
     "repo": {
      "host": "github",
-     "path": "holdmysocks/mcla-recomp"
+     "path": "RenanQueiroz/mcla-recomp"
     },
-    "description": "mcla-recomp is a native code recompilation of Midnight Club: Los Angeles Complete Edition for Windows, Linux and PS5.",
-    "developer": "holdmysocks",
+    "description": "MCLA: a fork of mcla-recomp is a native PC port of Midnight Club: Los Angeles Complete Edition that adds performance work and game fixes.",
+    "developer": "RenanQueiroz",
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v1.0.14",
+    "catalogVersion": "v0.3.3",
     "links": [
      {
       "label": "Quiver",
-      "url": "https://quiverlauncher.com/apps/midnight-club-los-angeles-complete-edition-mcla-recomp"
+      "url": "https://quiverlauncher.com/apps/midnight-club-los-angeles-complete-edition-mcla-recomp-2"
      }
     ],
-    "image": "https://cdn2.steamgriddb.com/grid/35e12a7da10a833329ade618940bc590.png",
+    "image": "https://cdn2.steamgriddb.com/grid/72ffcfdb17b6eb45cd62d6023b280fc1.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
+    "id": "nautilusbits/mdk-sdl",
+    "aliases": [
+     "quiver:mdk-mdk-sdl"
+    ],
+    "name": "mdk-sdl",
+    "game": "MDK",
+    "categories": [
+     "PC"
+    ],
+    "type": "reimplementation",
+    "repo": {
+     "host": "github",
+     "path": "nautilusbits/mdk-sdl"
+    },
+    "description": "mdk-sdl is a PC port of MDK for Windows, Linux, macOS, and Android that supports stereo 3D and optional HD textures.",
+    "developer": "nautilusbits",
+    "targets": [
+     "Android",
+     "Linux",
+     "macOS",
+     "Windows"
+    ],
+    "catalogVersion": "v1.2.4",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/mdk-mdk-sdl"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/e17646aaf35fa9aec4dadbae1eaa9990.jpg",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
+    "id": "madcatse/mech1989-recoded",
+    "aliases": [
+     "quiver:mechwarrior-mech1989-recoded"
+    ],
+    "name": "Mech1989: Recoded",
+    "game": "MechWarrior",
+    "categories": [
+     "PC"
+    ],
+    "type": "reimplementation",
+    "repo": {
+     "host": "github",
+     "path": "madcatse/Mech1989-Recoded"
+    },
+    "description": "Mech1989: Recoded is a native Windows recreation of MechWarrior (1989) that preserves the original game's look and play on modern hardware.",
+    "developer": "madcatse",
+    "targets": [
+     "Windows"
+    ],
+    "catalogVersion": "v1b",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/mechwarrior-mech1989-recoded"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/eb6aedf39fcfcc6d09cf5a6ce8377966.png",
     "sources": [
      "quiver"
     ]
@@ -37993,11 +39471,8 @@
     },
     "description": "MediEvil Recomp ITA is a native PC port of MediEvil for PlayStation, featuring widescreen and improved rendering.",
     "developer": "Leproide",
-    "targets": [
-     "Linux",
-     "Windows"
-    ],
-    "catalogVersion": "v1.1",
+    "targets": [],
+    "catalogVersion": "v1.1.2",
     "links": [
      {
       "label": "Quiver",
@@ -38231,7 +39706,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v1.0.18",
+    "catalogVersion": "v1.0.20",
     "links": [
      {
       "label": "Quiver",
@@ -38264,7 +39739,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "v0.2.0-coop-alpha-debug",
+    "catalogVersion": "v0.2.9-coop-alpha",
     "links": [
      {
       "label": "Quiver",
@@ -38297,7 +39772,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v1.3.3-alpha",
+    "catalogVersion": "v1.3.4-alpha",
     "links": [
      {
       "label": "Quiver",
@@ -38362,7 +39837,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "v0.9.80",
+    "catalogVersion": "v0.9.82",
     "links": [
      {
       "label": "Quiver",
@@ -38564,7 +40039,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "R143",
+    "catalogVersion": "R144",
     "links": [
      {
       "label": "Quiver",
@@ -38596,7 +40071,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.4.0",
+    "catalogVersion": "v0.5.0",
     "links": [
      {
       "label": "Quiver",
@@ -38732,7 +40207,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "0.11.5",
+    "catalogVersion": "0.11.8",
     "links": [
      {
       "label": "Quiver",
@@ -38977,6 +40452,39 @@
     ]
    },
    {
+    "id": "tekrantgaming/muppet-racemania-recompiled",
+    "aliases": [
+     "quiver:muppet-racemania-muppet-racemania-recompiled"
+    ],
+    "name": "Muppet RaceMania Recompiled",
+    "game": "Muppet RaceMania",
+    "categories": [
+     "PlayStation"
+    ],
+    "type": "recompilation",
+    "repo": {
+     "host": "github",
+     "path": "TekRantGaming/muppet-racemania-recompiled"
+    },
+    "description": "Muppet RaceMania Recompiled is a native PC port of Muppet RaceMania for Windows and Linux that runs at 60 FPS and 16:9 widescreen.",
+    "developer": "TekRantGaming",
+    "targets": [
+     "Linux",
+     "Windows"
+    ],
+    "catalogVersion": "v1.0.0",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/muppet-racemania-muppet-racemania-recompiled"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/0921c179447f8ca03425e3885c04c185.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
     "id": "tools81/mutant-rampage-bodyslam-static-recomp",
     "aliases": [
      "quiver:mutant-rampage-bodyslam-mutant-rampage-bodyslam-static-recomp"
@@ -39037,6 +40545,39 @@
      }
     ],
     "image": "https://cdn2.steamgriddb.com/grid/34e7e06cb2cbcf04d9db5934c629fd37.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
+    "id": "nanolathe-gg/nanolathe",
+    "aliases": [
+     "quiver:total-annihilation-nanolathe-2"
+    ],
+    "name": "Nanolathe",
+    "game": "Total Annihilation",
+    "categories": [
+     "PC"
+    ],
+    "type": "reimplementation",
+    "repo": {
+     "host": "github",
+     "path": "nanolathe-gg/nanolathe"
+    },
+    "description": "Nanolathe is a 2.5D RTS engine for Total Annihilation that offers a modern renderer and gameplay options.",
+    "developer": "Daniel Taylor",
+    "targets": [
+     "Linux",
+     "Windows"
+    ],
+    "catalogVersion": "native-418",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/total-annihilation-nanolathe-2"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/26278dd3981fb080173ae07dc8b9f810.png",
     "sources": [
      "quiver"
     ]
@@ -39159,7 +40700,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "v1.0.6",
+    "catalogVersion": "v1.0.7",
     "links": [
      {
       "label": "Quiver",
@@ -39199,6 +40740,39 @@
      }
     ],
     "image": "https://cdn2.steamgriddb.com/grid/86fc0f2683dbae8bf952736438966f32.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
+    "id": "8bitninja64/nflblitz2003-pc",
+    "aliases": [
+     "quiver:nfl-blitz-2003-nflblitz2003-pc"
+    ],
+    "name": "NFLBlitz2003-PC",
+    "game": "NFL Blitz 2003",
+    "categories": [
+     "GameCube"
+    ],
+    "type": "recompilation",
+    "repo": {
+     "host": "github",
+     "path": "8bitninja64/NFLBlitz2003-PC"
+    },
+    "description": "NFL Blitz 2003 PC port is a native Windows and Linux port of NFL Blitz 2003 for GameCube with widescreen and custom resolution support.",
+    "developer": "8bitninja64",
+    "targets": [
+     "Linux",
+     "Windows"
+    ],
+    "catalogVersion": "v1.1",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/nfl-blitz-2003-nflblitz2003-pc"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/1097e26f5c18bf2173ba006769938c64.jpg",
     "sources": [
      "quiver"
     ]
@@ -39266,6 +40840,38 @@
      }
     ],
     "image": "https://cdn2.steamgriddb.com/grid/d7c170b5311cac94ef1ffdbe39115972.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
+    "id": "dalves408/nhlhitzpro-recomp",
+    "aliases": [
+     "quiver:nhl-hitz-pro-nhl-hitz-pro-recomp"
+    ],
+    "name": "NHL Hitz Pro Recomp",
+    "game": "NHL Hitz Pro",
+    "categories": [
+     "Xbox"
+    ],
+    "type": "recompilation",
+    "repo": {
+     "host": "github",
+     "path": "dalves408/nhlhitzpro-recomp"
+    },
+    "description": "NHL Hitz Pro Recomp is a native Windows port of NHL Hitz Pro for Xbox that runs at 60 fps and supports higher resolutions.",
+    "developer": "dalves408",
+    "targets": [
+     "Windows"
+    ],
+    "catalogVersion": "v1.0.6",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/nhl-hitz-pro-nhl-hitz-pro-recomp"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/82256bcfe6987104d2bb8198ac56dbe8.png",
     "sources": [
      "quiver"
     ]
@@ -39358,7 +40964,7 @@
      "Linux",
      "macOS"
     ],
-    "catalogVersion": "v0.9.45",
+    "catalogVersion": "v0.9.46",
     "links": [
      {
       "label": "Quiver",
@@ -39366,6 +40972,40 @@
      }
     ],
     "image": "https://cdn2.steamgriddb.com/grid/dbbb8884f3d67a074c2c0ed5c0fec7e3.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
+    "id": "nearlytrex/nocturnedecomp",
+    "aliases": [
+     "quiver:nocturne-nocturnedecomp"
+    ],
+    "name": "NocturneDecomp",
+    "game": "Nocturne",
+    "categories": [
+     "PC"
+    ],
+    "type": "port",
+    "repo": {
+     "host": "github",
+     "path": "NearlyTRex/NocturneDecomp"
+    },
+    "description": "NocturneDecomp is a reverse engineering and decompilation project for the 1999 game Nocturne, aiming to understand its engine and run it on modern systems.",
+    "developer": "NearlyTRex",
+    "targets": [
+     "Linux",
+     "macOS",
+     "Windows"
+    ],
+    "catalogVersion": "v0.1.9",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/nocturne-nocturnedecomp"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/d60341a2af742d53c2fb14849268cc4b.png",
     "sources": [
      "quiver"
     ]
@@ -39458,7 +41098,7 @@
      "macOS",
      "Windows"
     ],
-    "catalogVersion": "devel-build",
+    "catalogVersion": "v0.8.0",
     "links": [
      {
       "label": "Quiver",
@@ -39466,6 +41106,41 @@
      }
     ],
     "image": "https://cdn2.steamgriddb.com/grid/bf042b643df17082c610e4f311962155.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
+    "id": "yughias/obentou",
+    "aliases": [
+     "quiver:obentou"
+    ],
+    "name": "Obentou",
+    "game": "Obentou",
+    "categories": [
+     "Game Boy"
+    ],
+    "type": "emulator",
+    "repo": {
+     "host": "github",
+     "path": "yughias/Obentou"
+    },
+    "description": "Obentou is a multi system emulator for Bytepusher, GBC, NES, PCE, PV1000, TMS80, WATARA, CHIP-8, PACMAN, Space Invaders, SPECCY, JACE, GBA, and GAMATE with turbo mode, rewind, and save states.",
+    "developer": "yughias",
+    "targets": [
+     "Linux",
+     "macOS",
+     "Windows",
+     "Android"
+    ],
+    "catalogVersion": "v0.2.2",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/obentou"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/21c07afce39d3a0819e2c7322b2eb5d7.png",
     "sources": [
      "quiver"
     ]
@@ -39507,6 +41182,38 @@
     ]
    },
    {
+    "id": "kiridor123/oceantrirecomp-android",
+    "aliases": [
+     "quiver:monster-hunter-tri-oceantrirecomp-android"
+    ],
+    "name": "OceanTriRecomp-Android",
+    "game": "Monster Hunter Tri",
+    "categories": [
+     "Wii"
+    ],
+    "type": "recompilation",
+    "repo": {
+     "host": "github",
+     "path": "Kiridor123/OceanTriRecomp-Android"
+    },
+    "description": "OceanTriRecomp Android is a native Android port of Monster Hunter Tri using static code recompilation, offering native performance on ARM64 hardware.",
+    "developer": "Kiridor123",
+    "targets": [
+     "Android"
+    ],
+    "catalogVersion": "v1.5.5-test",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/monster-hunter-tri-oceantrirecomp-android"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/2980a2d493e420bf6d02519bc83673ad.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
     "id": "ryu7w7/octr-nitrofueled-pc",
     "aliases": [
      "quiver:crash-team-racing-nitro-fueled-ctr-nitrofueled-pc-2"
@@ -39527,7 +41234,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "v0.7.3",
+    "catalogVersion": "v0.7.5",
     "links": [
      {
       "label": "Quiver",
@@ -39628,7 +41335,7 @@
      "macOS",
      "Windows"
     ],
-    "catalogVersion": "v0.8.7",
+    "catalogVersion": "v0.8.8",
     "links": [
      {
       "label": "Quiver",
@@ -39922,7 +41629,7 @@
      "Linux",
      "macOS"
     ],
-    "catalogVersion": "v0.3-dutch-preview-1",
+    "catalogVersion": "v0.3-dutch-2",
     "links": [
      {
       "label": "Quiver",
@@ -39991,7 +41698,7 @@
      "macOS",
      "Windows"
     ],
-    "catalogVersion": "2.3.2",
+    "catalogVersion": "2.4.0-beta.3",
     "links": [
      {
       "label": "Quiver",
@@ -40172,6 +41879,38 @@
     ]
    },
    {
+    "id": "shinyquagsire23/openjkdf2",
+    "aliases": [
+     "quiver:star-wars-jedi-knight-dark-forces-ii-openjkdf2"
+    ],
+    "name": "OpenJKDF2",
+    "game": "Star Wars Jedi Knight: Dark Forces II",
+    "categories": [
+     "PC"
+    ],
+    "type": "port",
+    "repo": {
+     "host": "github",
+     "path": "shinyquagsire23/OpenJKDF2"
+    },
+    "description": "OpenJKDF2 is a C reimplementation and port of Star Wars Jedi Knight Dark Forces II for Windows, macOS, Linux, and Android.",
+    "developer": "shinyquagsire23",
+    "targets": [
+     "Android"
+    ],
+    "catalogVersion": "v0.9.9",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/star-wars-jedi-knight-dark-forces-ii-openjkdf2"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/bdc19b660f3cb498b4725a9a68be3c60.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
     "id": "openloco/openloco",
     "aliases": [
      "quiver:chrissawyerslocomotion-openloco"
@@ -40201,6 +41940,40 @@
      }
     ],
     "image": "https://cdn2.steamgriddb.com/grid/da8761dc3eb542b34eb4564051bfea6f.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
+    "id": "crspytopgn/openmcm2",
+    "aliases": [
+     "quiver:motocross-madness-2-openmcm2"
+    ],
+    "name": "OpenMCM2",
+    "game": "Motocross Madness 2",
+    "categories": [
+     "PC"
+    ],
+    "type": "reimplementation",
+    "repo": {
+     "host": "github",
+     "path": "crspytopgn/openmcm2"
+    },
+    "description": "OpenMCM2 is a native PC port of Motocross Madness 2 that runs on Windows, macOS, and Linux and supports enhanced graphics and high-resolution texture packs.",
+    "developer": "crspytopgn",
+    "targets": [
+     "Linux",
+     "macOS",
+     "Windows"
+    ],
+    "catalogVersion": "v0.2.1",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/motocross-madness-2-openmcm2"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/3918b7b381a91ea1cfadfb3052881ba4.png",
     "sources": [
      "quiver"
     ]
@@ -40269,6 +42042,39 @@
      }
     ],
     "image": "https://cdn2.steamgriddb.com/grid/fd6497a52986bcef3248c52f812934a5.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
+    "id": "fizl0/openmx",
+    "aliases": [
+     "quiver:mx-unleashed-openmx"
+    ],
+    "name": "openMX",
+    "game": "MX Unleashed",
+    "categories": [
+     "PlayStation 2"
+    ],
+    "type": "port",
+    "repo": {
+     "host": "github",
+     "path": "FIZL0/openmx"
+    },
+    "description": "openMX is a Rust port of MX Unleashed for PS2, featuring a new renderer, local split-screen, and online play.",
+    "developer": "Fizlo",
+    "targets": [
+     "iOS",
+     "Linux"
+    ],
+    "catalogVersion": "v0.9.0",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/mx-unleashed-openmx"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/cbc8416e7ee704aadb036747f4ca5c28.png",
     "sources": [
      "quiver"
     ]
@@ -40941,7 +42747,7 @@
      "macOS",
      "Windows"
     ],
-    "catalogVersion": "v1.0.4",
+    "catalogVersion": "v1.0.5",
     "links": [
      {
       "label": "Quiver",
@@ -41182,6 +42988,40 @@
     ]
    },
    {
+    "id": "khasinski/parasite-eve-pc",
+    "aliases": [
+     "quiver:parasite-eve-parasite-eve-pc"
+    ],
+    "name": "parasite-eve-pc",
+    "game": "Parasite Eve",
+    "categories": [
+     "PlayStation"
+    ],
+    "type": "port",
+    "repo": {
+     "host": "github",
+     "path": "khasinski/parasite-eve-pc"
+    },
+    "description": "Native PC port of Parasite Eve (PS1), built on the matching decompilation and PsyZ",
+    "developer": "khasinski",
+    "targets": [
+     "Linux",
+     "macOS",
+     "Windows"
+    ],
+    "catalogVersion": "0.8",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/parasite-eve-parasite-eve-pc"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/0bdda950546ab40f55cb84fbc3f5f3c7.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
     "id": "mariopartyrd/partyboard",
     "aliases": [
      "quiver:mario-party-4-party-board"
@@ -41278,6 +43118,38 @@
      }
     ],
     "image": "https://cdn2.steamgriddb.com/grid/427b6c3fa22a8b08981e0092c94f9c84.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
+    "id": "snaity-core/pe2-pc-port",
+    "aliases": [
+     "quiver:parasite-eve-ii-pe2pc"
+    ],
+    "name": "PE2PC",
+    "game": "Parasite Eve II",
+    "categories": [
+     "PlayStation"
+    ],
+    "type": "port",
+    "repo": {
+     "host": "github",
+     "path": "Snaity-CORE/pe2-pc-port"
+    },
+    "description": "PE2PC is a native PC port of Parasite Eve II for PlayStation, offering higher resolutions, 60 fps, and modern controls.",
+    "developer": "Snaity-CORE",
+    "targets": [
+     "Windows"
+    ],
+    "catalogVersion": "v0.1.0",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/parasite-eve-ii-pe2pc"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/bb4a3ec91ad6506afed401bc7b7d0590.png",
     "sources": [
      "quiver"
     ]
@@ -41383,6 +43255,38 @@
     ]
    },
    {
+    "id": "nikolaygorb/perfectdarkremasterrecomp",
+    "aliases": [
+     "quiver:perfect-dark-perfect-dark-remaster-recompilation"
+    ],
+    "name": "Perfect Dark Remaster Recompilation",
+    "game": "Perfect Dark",
+    "categories": [
+     "Xbox 360"
+    ],
+    "type": "recompilation",
+    "repo": {
+     "host": "github",
+     "path": "nikolaygorb/PerfectDarkRemasterRecomp"
+    },
+    "description": "Perfect Dark Remaster Recompilation is a native Windows port of Perfect Dark Remaster built on the ReXGlue SDK with a third-person camera mod and dual graphics backends.",
+    "developer": "nikolaygorb",
+    "targets": [
+     "Windows"
+    ],
+    "catalogVersion": "1.5",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/perfect-dark-perfect-dark-remaster-recompilation"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/b6f79519d3b769aff4991526d838022d.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
     "id": "nikolaygorb/perfectdarkzerorecomp",
     "aliases": [
      "quiver:perfect-dark-zero-recomp"
@@ -41416,6 +43320,38 @@
     ]
    },
    {
+    "id": "2023perfectdark/perfect-dark-zero-reinstated",
+    "aliases": [
+     "quiver:perfect-dark-zero-reinstated"
+    ],
+    "name": "Perfect Dark Zero Reinstated",
+    "game": "Perfect Dark Zero",
+    "categories": [
+     "Xbox 360"
+    ],
+    "type": "recompilation",
+    "repo": {
+     "host": "github",
+     "path": "2023PerfectDark/Perfect-Dark-Zero-Reinstated"
+    },
+    "description": "A community enhancement of Perfect Dark Zero, built on PerfectDarkZeroRecomp.\n\nThis project aims to make PDZ feel more fluid, responsive, and comfortable on modern PCs while preserving the original game's concept, missions, atmosphere, and personality. It is especially for fans who missed the pace and freedom of GoldenEye 007 and Perfect Dark, and found PDZ's more deliberate combat closer to hardcore, semi-tactical shooters such as Counter-Strike or the Tom Clancy games.\n\nThe enhancement explores that earlier style through optional gameplay rules, improved controls, expanded customization, and new content. Original campaign rules remain available so players can choose how they want to play.",
+    "developer": "2023PerfectDark",
+    "targets": [
+     "Windows"
+    ],
+    "catalogVersion": "PDZInstaller",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/perfect-dark-zero-reinstated"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/aa66c08cccefa43a7aafe8f4bc9a8008.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
     "id": "n64hub/perfect-dark-recomp",
     "aliases": [
      "quiver:perfect-dark-perfect-dark-recompiled"
@@ -41444,6 +43380,38 @@
      }
     ],
     "image": "https://cdn2.steamgriddb.com/grid/2b67ab7a629c3d1bed214e526b098f87.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
+    "id": "shaunsingh/pgr4-native",
+    "aliases": [
+     "quiver:project-gotham-racing-4-pgr4-native"
+    ],
+    "name": "pgr4-native",
+    "game": "Project Gotham Racing 4",
+    "categories": [
+     "Xbox 360"
+    ],
+    "type": "recompilation",
+    "repo": {
+     "host": "github",
+     "path": "shaunsingh/pgr4-native"
+    },
+    "description": "pgr4-native is a native Direct3D 12 port of Project Gotham Racing 4 that draws directly from game calls and supports upscaling and HDR.",
+    "developer": "shaunsingh",
+    "targets": [
+     "Windows"
+    ],
+    "catalogVersion": "v0.3.0",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/project-gotham-racing-4-pgr4-native"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/90e6b40f3728f30b437e6b71ccda6d0b.png",
     "sources": [
      "quiver"
     ]
@@ -41745,6 +43713,39 @@
     ]
    },
    {
+    "id": "italiankuze/port-ga-gotoku",
+    "aliases": [
+     "quiver:fist-of-the-north-star-lost-paradise-port-ga-gotoku"
+    ],
+    "name": "PortGaGotoku",
+    "game": "Fist of the North Star: Lost Paradise",
+    "categories": [
+     "PlayStation 4"
+    ],
+    "type": "recompilation",
+    "repo": {
+     "host": "github",
+     "path": "ItalianKuze/port-ga-gotoku"
+    },
+    "description": "PortGaGotoku is a native PC port of Fist of the North Star: Lost Paradise for Windows that translates graphics to Vulkan.",
+    "developer": "ItalianKuze",
+    "targets": [
+     "Windows",
+     "Linux"
+    ],
+    "catalogVersion": "v0.1.3-dev-linux-test",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/fist-of-the-north-star-lost-paradise-port-ga-gotoku"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/7269782f3f1a10dbd5fe429b66e77a73.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
     "id": "djultra64/power-dozer",
     "aliases": [
      "quiver:blast-corps-power-dozer"
@@ -41875,6 +43876,38 @@
     ]
    },
    {
+    "id": "hk21x/pgr1-recomp",
+    "aliases": [
+     "quiver:project-gotham-racing-project-gotham-racing-xbe-recomp"
+    ],
+    "name": "Project Gotham Racing - XBE Recomp",
+    "game": "Project Gotham Racing",
+    "categories": [
+     "Xbox"
+    ],
+    "type": "recompilation",
+    "repo": {
+     "host": "github",
+     "path": "hk21x/pgr1-recomp"
+    },
+    "description": "Project Gotham Racing - XBE Recomp is a native PC port of Project Gotham Racing with extended graphics options and achievements.",
+    "developer": "hk21x",
+    "targets": [
+     "Windows"
+    ],
+    "catalogVersion": "v1.1",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/project-gotham-racing-project-gotham-racing-xbe-recomp"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/d0931a221c3fc8873d15363688891317.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
     "id": "hk21x/pgr2-recomp",
     "aliases": [
      "quiver:project-gotham-racing-2-project-gotham-racing-2-xbe-recomp"
@@ -41902,6 +43935,38 @@
      }
     ],
     "image": "https://cdn2.steamgriddb.com/grid/091b4d05fe372c3b08d70361eeaf34c8.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
+    "id": "undecuple/project-helghast",
+    "aliases": [
+     "quiver:killzone-3-project-helghast"
+    ],
+    "name": "Project Helghast",
+    "game": "Killzone 3",
+    "categories": [
+     "PlayStation 3"
+    ],
+    "type": "recompilation",
+    "repo": {
+     "host": "github",
+     "path": "undecuple/project-helghast"
+    },
+    "description": "Project Helghast is a PC port of Killzone 3 built by static recompilation.",
+    "developer": "undecuple",
+    "targets": [
+     "Windows"
+    ],
+    "catalogVersion": "v0.1.7",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/killzone-3-project-helghast"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/cfc8e62fb3556624c35f6386cc084136.png",
     "sources": [
      "quiver"
     ]
@@ -41935,6 +44000,38 @@
      }
     ],
     "image": "https://cdn2.steamgriddb.com/grid/000e513df2f2cceb7465efeaed75e19c.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
+    "id": "pallypots/projectoogie",
+    "aliases": [
+     "quiver:the-nightmare-before-christmas-oogie-s-revenge-project-oogie"
+    ],
+    "name": "Project Oogie",
+    "game": "The Nightmare Before Christmas: Oogie's Revenge",
+    "categories": [
+     "Xbox"
+    ],
+    "type": "reimplementation",
+    "repo": {
+     "host": "github",
+     "path": "Pallypots/ProjectOogie"
+    },
+    "description": "Project Oogie is a native Windows PC port of the Xbox version of The Nightmare Before Christmas: Oogie's Revenge, offering widescreen and higher resolutions.",
+    "developer": "Pallypots",
+    "targets": [
+     "Windows"
+    ],
+    "catalogVersion": "v0.2.2",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/the-nightmare-before-christmas-oogie-s-revenge-project-oogie"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/0386a54233f166874f0e8da3ec431b8c.png",
     "sources": [
      "quiver"
     ]
@@ -42564,6 +44661,72 @@
     ]
    },
    {
+    "id": "skynettx/raptor",
+    "aliases": [
+     "quiver:raptor-call-of-the-shadows-raptor"
+    ],
+    "name": "Raptor",
+    "game": "Raptor: Call of the Shadows",
+    "categories": [
+     "PC"
+    ],
+    "type": "port",
+    "repo": {
+     "host": "github",
+     "path": "skynettx/raptor"
+    },
+    "description": "Raptor is a PC port of Raptor: Call of the Shadows for Windows, macOS, and Android.",
+    "developer": "skynettx",
+    "targets": [
+     "macOS",
+     "Android",
+     "Windows"
+    ],
+    "catalogVersion": "v0.8.2",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/raptor-call-of-the-shadows-raptor"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/f41817961bd183e5bd5dc1c2f06cc2ec.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
+    "id": "marcpique/ratchet-and-clank-recomp",
+    "aliases": [
+     "quiver:ratchet-clank-ratchet-clank-recomp"
+    ],
+    "name": "Ratchet & Clank Recomp",
+    "game": "Ratchet & Clank",
+    "categories": [
+     "PlayStation 2"
+    ],
+    "type": "recompilation",
+    "repo": {
+     "host": "github",
+     "path": "MarcPique/Ratchet-and-Clank-Recomp"
+    },
+    "description": "Ratchet & Clank Recomp is a Windows PC port of Ratchet & Clank that includes an installer, advanced graphics options, and controller icon support.",
+    "developer": "MarcPique",
+    "targets": [
+     "Windows"
+    ],
+    "catalogVersion": "v1.3.0-hotfix-windows",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/ratchet-clank-ratchet-clank-recomp"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/5841a1d23b9817e929c36836c46902dc.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
     "id": "mysteriousaeon/rayman3-hd-recompiled",
     "aliases": [
      "quiver:rayman-3-hd-rayman-3-hd-recompiled"
@@ -42796,6 +44959,40 @@
     ]
    },
    {
+    "id": "sp00nznet/redalert2-recomp",
+    "aliases": [
+     "quiver:command-conquer-red-alert-2-red-alert-2-and-yuri-s-revenge-static-recompilation"
+    ],
+    "name": "Red Alert 2 and Yuri's Revenge - Static Recompilation",
+    "game": "Command & Conquer: Red Alert 2",
+    "categories": [
+     "PC"
+    ],
+    "type": "recompilation",
+    "repo": {
+     "host": "github",
+     "path": "sp00nznet/redalert2-recomp"
+    },
+    "description": "Red Alert 2 and Yuri's Revenge Static Recompilation is a native port of Command & Conquer: Red Alert 2 and Yuri's Revenge to Windows, Linux, and macOS with HD vehicles and modern controls.",
+    "developer": "sp00nznet",
+    "targets": [
+     "Linux",
+     "macOS",
+     "Windows"
+    ],
+    "catalogVersion": "v0.1.3",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/command-conquer-red-alert-2-red-alert-2-and-yuri-s-revenge-static-recompilation"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/18d9c80b1e930ef2618b35ca76bf4376.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
     "id": "redeclipse/base",
     "aliases": [
      "quiver:red-eclipse-red-eclipse"
@@ -42952,7 +45149,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v2.2.5-test459-startup.2",
+    "catalogVersion": "v2.3",
     "links": [
      {
       "label": "Quiver",
@@ -43632,6 +45829,38 @@
     ]
    },
    {
+    "id": "jesustaylo/rumble-roses-xx-recomp",
+    "aliases": [
+     "quiver:rumble-roses-xx-recomp"
+    ],
+    "name": "rumble-roses-xx-recomp",
+    "game": "Rumble Roses XX",
+    "categories": [
+     "Xbox 360"
+    ],
+    "type": "recompilation",
+    "repo": {
+     "host": "github",
+     "path": "JesusTaylo/rumble-roses-xx-recomp"
+    },
+    "description": "An unofficial, work-in-progress native PC port of Rumble Roses XX (Xbox 360, 2006), made by static recompilation: the game's PowerPC code is translated to C++ and compiled for x86-64 with the ReXGlue SDK (a toolkit derived from the Xenia emulator).",
+    "developer": "JesusTaylo",
+    "targets": [
+     "Windows"
+    ],
+    "catalogVersion": "v0.2",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/rumble-roses-xx-recomp"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/8270a91ca239e552633bd323d8e5ac19.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
     "id": "toshredsyousay/rumblerecomp",
     "aliases": [
      "quiver:poke-rumble-rumblerecomp"
@@ -43716,7 +45945,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.10.0",
+    "catalogVersion": "v0.11.0",
     "links": [
      {
       "label": "Quiver",
@@ -44441,7 +46670,7 @@
     "description": "ShaolinMonksRecomp is a PC port of Mortal Kombat: Shaolin Monks that adds resolution and render scale settings, display modes, and keyboard and mouse input.",
     "developer": "OAleex",
     "targets": [],
-    "catalogVersion": "v0.4.0",
+    "catalogVersion": "v0.4.1",
     "links": [
      {
       "label": "Quiver",
@@ -45364,7 +47593,7 @@
      "macOS",
      "Windows"
     ],
-    "catalogVersion": "v1.0.7",
+    "catalogVersion": "v1.0.9",
     "links": [
      {
       "label": "Quiver",
@@ -45398,7 +47627,7 @@
      "Windows",
      "Android"
     ],
-    "catalogVersion": "0.2.7",
+    "catalogVersion": "0.2.8",
     "links": [
      {
       "label": "Quiver",
@@ -45537,6 +47766,38 @@
      }
     ],
     "image": "https://cdn2.steamgriddb.com/grid/75d0783f617820ce1a5a1389749e2dad.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
+    "id": "mstan/sonic3andknucklesrecomp",
+    "aliases": [
+     "quiver:sonic-3-knuckles-sonic3andknucklesrecomp-2"
+    ],
+    "name": "Sonic3AndKnucklesRecomp",
+    "game": "Sonic 3 & Knuckles",
+    "categories": [
+     "Mega Drive"
+    ],
+    "type": "recompilation",
+    "repo": {
+     "host": "github",
+     "path": "mstan/Sonic3AndKnucklesRecomp"
+    },
+    "description": "Sonic 3 & Knuckles Recompiled is a PC port of Sonic 3 & Knuckles that adds optional mods for extra campaigns and characters.",
+    "developer": "R.A.I.D. community",
+    "targets": [
+     "Windows"
+    ],
+    "catalogVersion": "v0.6.2",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/sonic-3-knuckles-sonic3andknucklesrecomp-2"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/854d2a30939c7c883cd0e27e13b509ef.png",
     "sources": [
      "quiver"
     ]
@@ -45872,6 +48133,38 @@
     ]
    },
    {
+    "id": "gtteancum/spideyps1recomp",
+    "aliases": [
+     "quiver:spider-man-2-enter-electro-spideyps1recomp"
+    ],
+    "name": "SpideyPS1recomp",
+    "game": "Spider-Man 2: Enter: Electro",
+    "categories": [
+     "PlayStation"
+    ],
+    "type": "recompilation",
+    "repo": {
+     "host": "github",
+     "path": "GTTeancum/SpideyPS1recomp"
+    },
+    "description": "SpideyPS1recomp is a native PC port of Spider-Man and Spider-Man 2 Enter Electro with modern rendering and widescreen support.",
+    "developer": "GTTeancum",
+    "targets": [
+     "Windows"
+    ],
+    "catalogVersion": "sm2-v1.1",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/spider-man-2-enter-electro-spideyps1recomp"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/012774b2dcb281cc2135160b501ce8fe.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
     "id": "0c0de/splatterhouse-decomp",
     "aliases": [
      "quiver:splatterhouse-splatterhouse-recompiled"
@@ -46125,7 +48418,7 @@
      "macOS",
      "Windows"
     ],
-    "catalogVersion": "v0.0.8.8.1",
+    "catalogVersion": "v0.0.8.8.2",
     "links": [
      {
       "label": "Quiver",
@@ -46535,6 +48828,38 @@
     ]
    },
    {
+    "id": "lab0ulange/stuntman-pc",
+    "aliases": [
+     "quiver:stuntman-stuntman-pc"
+    ],
+    "name": "Stuntman PC",
+    "game": "Stuntman",
+    "categories": [
+     "PlayStation 2"
+    ],
+    "type": "reimplementation",
+    "repo": {
+     "host": "github",
+     "path": "LAB0ULANGE/stuntman-pc"
+    },
+    "description": "Stuntman PC is a native Windows port of Stuntman for PlayStation 2 that runs directly on your computer with higher resolutions and widescreen.",
+    "developer": "LAB0ULANGE",
+    "targets": [
+     "Windows"
+    ],
+    "catalogVersion": "v0.1.0-alpha",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/stuntman-stuntman-pc"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/4e08ae8b846ff76f94f685de69005336.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
     "id": "mr-finster/stunts-hd",
     "aliases": [
      "quiver:stunts-stunts-hd"
@@ -46657,7 +48982,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v2.5.3",
+    "catalogVersion": "v2.5.9",
     "links": [
      {
       "label": "Quiver",
@@ -47164,6 +49489,70 @@
     ]
    },
    {
+    "id": "swfans/syndicatfx",
+    "aliases": [
+     "quiver:syndicate-plus-syndicatfx"
+    ],
+    "name": "SyndicatFX",
+    "game": "Syndicate Plus",
+    "categories": [
+     "PC"
+    ],
+    "type": "reimplementation",
+    "repo": {
+     "host": "github",
+     "path": "swfans/syndicatfx"
+    },
+    "description": "SyndicatFX is an open source port of the classic Syndicate Plus game to modern operating systems, featuring higher resolution graphics and extra sounds.",
+    "developer": "swfans",
+    "targets": [
+     "Windows"
+    ],
+    "catalogVersion": "0.0.6.1022",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/syndicate-plus-syndicatfx"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/2a44ef699bf1c0dca1f4870094e1590a.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
+    "id": "swfans/syndwarsfx",
+    "aliases": [
+     "quiver:syndicate-wars-syndwarsfx"
+    ],
+    "name": "SyndWarsFX",
+    "game": "Syndicate Wars",
+    "categories": [
+     "PC"
+    ],
+    "type": "reimplementation",
+    "repo": {
+     "host": "github",
+     "path": "swfans/syndwarsfx"
+    },
+    "description": "SyndWarsFX is an open source port of the classic Syndicate Wars game to modern operating systems, featuring higher resolution graphics and extra sounds.",
+    "developer": "swfans",
+    "targets": [
+     "Windows"
+    ],
+    "catalogVersion": "0.3.8.4358",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/syndicate-wars-syndwarsfx"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/1e678e9360c5239e67ce536f9abd5f92.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
     "id": "alexbeavs-ps1-ports/syphon-filter-2-recomp",
     "aliases": [
      "quiver:syphonfilter2-syphonfilter2recompiled"
@@ -47461,6 +49850,39 @@
     ]
    },
    {
+    "id": "8bitninja64/tenchuz-pc",
+    "aliases": [
+     "quiver:tenchu-z-tenchuz-pc"
+    ],
+    "name": "TenchuZ-PC",
+    "game": "Tenchu Z",
+    "categories": [
+     "Xbox 360"
+    ],
+    "type": "recompilation",
+    "repo": {
+     "host": "github",
+     "path": "8bitninja64/TenchuZ-PC"
+    },
+    "description": "TenchuZ-PC is a native Windows and Linux port of Tenchu Z that runs at higher frame rates and resolutions.",
+    "developer": "8bitninja64",
+    "targets": [
+     "Linux",
+     "Windows"
+    ],
+    "catalogVersion": "v0.3.2",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/tenchu-z-tenchuz-pc"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/db9d51709661c2a50a3f8f56117b994d.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
     "id": "z3xox/tenkaichi3decomp",
     "aliases": [
      "quiver:dragon-ball-z-budokai-tenkaichi-3-tenkaichi3decomp"
@@ -47489,6 +49911,70 @@
      }
     ],
     "image": "https://cdn2.steamgriddb.com/grid/2fcd824d9156e24ad1f7344c8723ab5f.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
+    "id": "kylofon/testdrive-enhanced",
+    "aliases": [
+     "quiver:test-drive-test-drive-enhanced"
+    ],
+    "name": "Test Drive Enhanced",
+    "game": "Test Drive",
+    "categories": [
+     "PC"
+    ],
+    "type": "port",
+    "repo": {
+     "host": "github",
+     "path": "kylofon/testdrive-enhanced"
+    },
+    "description": "Test Drive Enhanced is a native PC port of Test Drive running on SDL3 with a redrawn view through the windscreen at higher resolution and 60 fps.",
+    "developer": "kylofon",
+    "targets": [
+     "Windows"
+    ],
+    "catalogVersion": "v1.0.4",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/test-drive-test-drive-enhanced"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/0e508729a4545fec985788e7a31cb925.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
+    "id": "buyukcaglar/td2",
+    "aliases": [
+     "quiver:test-drive-ii-the-duel-test-drive-ii-the-duel-for-windows"
+    ],
+    "name": "Test Drive II: The Duel for Windows",
+    "game": "Test Drive II: The Duel",
+    "categories": [
+     "PC"
+    ],
+    "type": "port",
+    "repo": {
+     "host": "github",
+     "path": "Buyukcaglar/TD2"
+    },
+    "description": "Test Drive II: The Duel for Windows is a native Windows port of the 1989 DOS game that supports EGA, CGA, Hercules, and Amiga graphics modes.",
+    "developer": "Onur Büyükçağlar",
+    "targets": [
+     "Windows"
+    ],
+    "catalogVersion": "v1.0",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/test-drive-ii-the-duel-test-drive-ii-the-duel-for-windows"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/26a54df50e52aea7c14309842abec395.png",
     "sources": [
      "quiver"
     ]
@@ -47752,6 +50238,38 @@
      }
     ],
     "image": "https://cdn2.steamgriddb.com/grid/df5ffddf7952e45a242c550a389dfb0b.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
+    "id": "carlox33/the-simpsons-hit-and-run-android",
+    "aliases": [
+     "quiver:the-simpsons-hit-run-the-simpsons-hit-run-android"
+    ],
+    "name": "The Simpsons: Hit & Run Android",
+    "game": "The Simpsons: Hit & Run",
+    "categories": [
+     "PC"
+    ],
+    "type": "recompilation",
+    "repo": {
+     "host": "github",
+     "path": "Carlox33/The-Simpsons-Hit-and-Run-Android"
+    },
+    "description": "The Simpsons: Hit & Run Android is a port of The Simpsons: Hit & Run to Android with native touch controls and controller support.",
+    "developer": "Carlox33",
+    "targets": [
+     "Android"
+    ],
+    "catalogVersion": "v0.93",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/the-simpsons-hit-run-the-simpsons-hit-run-android"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/ed93809ea10aa3a300a3e3247f839c2e.png",
     "sources": [
      "quiver"
     ]
@@ -48043,7 +50561,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "v0.3.2",
+    "catalogVersion": "v0.3.3",
     "links": [
      {
       "label": "Quiver",
@@ -48077,7 +50595,7 @@
      "macOS",
      "Windows"
     ],
-    "catalogVersion": "v0.24.0-alpha",
+    "catalogVersion": "v0.24.1-alpha",
     "links": [
      {
       "label": "Quiver",
@@ -48190,6 +50708,38 @@
     ]
    },
    {
+    "id": "valentderah/totk-pc-recomp",
+    "aliases": [
+     "quiver:totk-recomp"
+    ],
+    "name": "TotK Recomp",
+    "game": "The Legend of Zelda: Tears of the Kingdom",
+    "categories": [
+     "Nintendo Switch"
+    ],
+    "type": "recompilation",
+    "repo": {
+     "host": "github",
+     "path": "valentderah/totk-pc-recomp"
+    },
+    "description": "TotK Recomp is a static recompilation of The Legend of Zelda: Tears of the Kingdom (Nintendo Switch, 2023)\n\nFeatures:\n- Native code, not emulation\n- Game updates 1.2.1 and 1.4.3, with saves that carry over between them\n- 60 fps by default; up to 144 fps or the monitor's refresh rate (experimental)\n- Custom resolutions (1080p, 2k...), supersampling and AMD FSR 1 upscaling\n- In-game settings menu (F1) and performance overlay (F10)\n- Keyboard, mouse and gamepad with remapping, rumble and gyro\n- Shaders prepared at install instead of during play",
+    "developer": "valentderah",
+    "targets": [
+     "Windows"
+    ],
+    "catalogVersion": "v0.1.6",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/totk-recomp"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/198c300f91ddf49d200638e8e5edd87c.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
     "id": "grasmanek94/toystory2fix",
     "aliases": [
      "quiver:toy-story-2-buzz-lightyear-to-the-rescue-toy-story-2-fix"
@@ -48250,6 +50800,38 @@
      }
     ],
     "image": "https://cdn2.steamgriddb.com/grid/1437bbc74666af41ae305e168893afba.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
+    "id": "tekrantgaming/trials-revolution-collection",
+    "aliases": [
+     "quiver:trials-hd-trials-evolution-trials-fusion-trials-revolution-collection"
+    ],
+    "name": "Trials: ReVolution Collection",
+    "game": "Trials HD",
+    "categories": [
+     "Xbox 360"
+    ],
+    "type": "recompilation",
+    "repo": {
+     "host": "github",
+     "path": "TekRantGaming/Trials-ReVolution-Collection"
+    },
+    "description": "Trials: ReVolution Collection is a native PC port of Trials HD, Trials Evolution, and Trials Fusion, featuring all DLC and a couch-friendly launcher.",
+    "developer": "TekRantGaming",
+    "targets": [
+     "Windows"
+    ],
+    "catalogVersion": "v1.0.0",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/trials-hd-trials-evolution-trials-fusion-trials-revolution-collection"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/67c68199f158340828fc50c3f66c99c5.png",
     "sources": [
      "quiver"
     ]
@@ -48510,7 +51092,7 @@
      "macOS",
      "Windows"
     ],
-    "catalogVersion": "v1.0.73",
+    "catalogVersion": "v1.0.75",
     "links": [
      {
       "label": "Quiver",
@@ -48545,7 +51127,7 @@
      "macOS",
      "Windows"
     ],
-    "catalogVersion": "v1.1.183",
+    "catalogVersion": "v1.1.185",
     "links": [
      {
       "label": "Quiver",
@@ -48610,7 +51192,7 @@
     "targets": [
      "Android"
     ],
-    "catalogVersion": "v0.2.9",
+    "catalogVersion": "v0.2.10",
     "links": [
      {
       "label": "Quiver",
@@ -48655,6 +51237,38 @@
     ]
    },
    {
+    "id": "zorde23/uncharted_collection_pc",
+    "aliases": [
+     "quiver:uncharted-the-nathan-drake-collection-uncharted-collection-pc"
+    ],
+    "name": "Uncharted_Collection_PC",
+    "game": "Uncharted: The Nathan Drake Collection",
+    "categories": [
+     "PlayStation 4"
+    ],
+    "type": "recompilation",
+    "repo": {
+     "host": "github",
+     "path": "zorde23/Uncharted_Collection_PC"
+    },
+    "description": "Uncharted Collection PC is a native port of Uncharted The Nathan Drake Collection for Windows, focusing on Uncharted 3 with 60 FPS 1080p gameplay.",
+    "developer": "Zorde23",
+    "targets": [
+     "Windows"
+    ],
+    "catalogVersion": "v0.3.8",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/uncharted-the-nathan-drake-collection-uncharted-collection-pc"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/9b5b9376209c40aeeeeb3c26976dfdf5.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
     "id": "supermedo/uncharted_pc",
     "aliases": [
      "quiver:uncharted-the-nathan-drake-collection-uncharted-pc"
@@ -48674,7 +51288,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.3.10",
+    "catalogVersion": "v0.3.11",
     "links": [
      {
       "label": "Quiver",
@@ -48739,7 +51353,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v0.13.1",
+    "catalogVersion": "v0.14.0",
     "links": [
      {
       "label": "Quiver",
@@ -49046,6 +51660,40 @@
      }
     ],
     "image": "https://cdn2.steamgriddb.com/grid/3afe7eae0504b08cd09bd4474ef4dcf1.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
+    "id": "theassemblyarmada/vanilla-conquer",
+    "aliases": [
+     "quiver:command-conquer-tiberian-dawn-vanilla-conquer"
+    ],
+    "name": "Vanilla Conquer",
+    "game": "Command & Conquer: Tiberian Dawn",
+    "categories": [
+     "PC"
+    ],
+    "type": "reimplementation",
+    "repo": {
+     "host": "github",
+     "path": "TheAssemblyArmada/Vanilla-Conquer"
+    },
+    "description": "Vanilla Conquer is a port of the Command & Conquer: Tiberian Dawn engine for Windows, Linux, and macOS that provides bug fixes and quality of life improvements.",
+    "developer": "TheAssemblyArmada",
+    "targets": [
+     "Linux",
+     "macOS",
+     "Windows"
+    ],
+    "catalogVersion": "latest",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/command-conquer-tiberian-dawn-vanilla-conquer"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/8015b71917aa597dcfb85c74a4216465.png",
     "sources": [
      "quiver"
     ]
@@ -49451,6 +52099,38 @@
     ]
    },
    {
+    "id": "enrique363/voldorium",
+    "aliases": [
+     "quiver:soulcalibur-voldorium"
+    ],
+    "name": "voldorium",
+    "game": "SoulCalibur",
+    "categories": [
+     "Dreamcast"
+    ],
+    "type": "recompilation",
+    "repo": {
+     "host": "github",
+     "path": "enrique363/voldorium"
+    },
+    "description": "Voldorium is a native Windows port of the Dreamcast game SoulCalibur, featuring 16:9 widescreen, custom resolutions, and online play with rollback netcode.",
+    "developer": "enrique363",
+    "targets": [
+     "Windows"
+    ],
+    "catalogVersion": "v1.1.2",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/soulcalibur-voldorium"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/28095729a217f6ec638df5f04a11e9f4.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
     "id": "geno55/wg3d-recomp",
     "aliases": [
      "quiver:wayne-gretzky-s-3d-hockey-w-g-3d-hockey-recompiled"
@@ -49605,6 +52285,38 @@
      }
     ],
     "image": "https://cdn2.steamgriddb.com/grid/f950247301b63d3218060766c4d97d9d.jpg",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
+    "id": "santiagovalencia109/wario-land-shake-it-native-pc",
+    "aliases": [
+     "quiver:wario-land-shake-it-wariorecomp"
+    ],
+    "name": "WarioRecomp",
+    "game": "Wario Land: Shake It!",
+    "categories": [
+     "Wii"
+    ],
+    "type": "recompilation",
+    "repo": {
+     "host": "github",
+     "path": "santiagovalencia109/Wario-Land-Shake-It-Native-PC"
+    },
+    "description": "WarioRecomp is a native PC port of Wario Land: Shake It! that allows playing the game at higher resolutions and with customizable aspect ratios.",
+    "developer": "Santiago109",
+    "targets": [
+     "Windows"
+    ],
+    "catalogVersion": "v0.2.0",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/wario-land-shake-it-wariorecomp"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/2ade688b34d8b8adbb769b79e4fee500.png",
     "sources": [
      "quiver"
     ]
@@ -50286,7 +52998,7 @@
      "Windows",
      "Android"
     ],
-    "catalogVersion": "v2.1.6",
+    "catalogVersion": "v2.1.7",
     "links": [
      {
       "label": "Quiver",
@@ -50460,6 +53172,71 @@
     ]
    },
    {
+    "id": "txukie/xboxrecomp-conker",
+    "aliases": [
+     "quiver:conker-live-reloaded-xboxrecomp-conker"
+    ],
+    "name": "xboxrecomp-conker",
+    "game": "Conker: Live & Reloaded",
+    "categories": [
+     "Xbox"
+    ],
+    "type": "recompilation",
+    "repo": {
+     "host": "github",
+     "path": "Txukie/xboxrecomp-conker"
+    },
+    "description": "xboxrecomp-conker is a native PC port of Conker: Live & Reloaded for Windows and Linux, offering widescreen support and customizable graphics settings.",
+    "developer": "Txukie",
+    "targets": [
+     "Windows",
+     "Linux"
+    ],
+    "catalogVersion": "v0.4.0",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/conker-live-reloaded-xboxrecomp-conker"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/92ffe39c405eb26368e5376f396d6ade.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
+    "id": "xenia-manager/xenia-manager",
+    "aliases": [
+     "quiver:xenia-manager"
+    ],
+    "name": "Xenia Manager",
+    "game": "Xenia Manager",
+    "categories": [
+     "Xbox 360"
+    ],
+    "type": "emulator",
+    "repo": {
+     "host": "github",
+     "path": "xenia-manager/xenia-manager"
+    },
+    "description": "Xenia Manager is a tool for the Xenia Emulator that simplifies game management, patch installation, and configuration.",
+    "developer": "Xenia Manager",
+    "targets": [
+     "Windows"
+    ],
+    "catalogVersion": "5.0.0",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/xenia-manager"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/e7e4016264a7ab9140f24f46243fb771.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
     "id": "blizz127/xenogears-decomp-port",
     "aliases": [
      "quiver:xenogears-xenogears-decomp-port"
@@ -50484,6 +53261,41 @@
      {
       "label": "Quiver",
       "url": "https://quiverlauncher.com/apps/xenogears-xenogears-decomp-port"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/ec730b8d8c471f0e7a0b4855ec716d0d.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
+    "id": "brianblakely/xenogears-ex-machina",
+    "aliases": [
+     "quiver:xenogears-xenogears-ex-machina"
+    ],
+    "name": "Xenogears: Ex Machina",
+    "game": "Xenogears",
+    "categories": [
+     "PlayStation"
+    ],
+    "type": "port",
+    "repo": {
+     "host": "github",
+     "path": "brianblakely/xenogears-ex-machina"
+    },
+    "description": "Xenogears: Ex Machina is a decompilation and port of Xenogears for modern platforms with HD visuals, VR support, and convenience features.",
+    "developer": "Brian Blakely",
+    "targets": [
+     "Android",
+     "Linux",
+     "macOS",
+     "Windows"
+    ],
+    "catalogVersion": "v1.0.3",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/xenogears-xenogears-ex-machina"
      }
     ],
     "image": "https://cdn2.steamgriddb.com/grid/ec730b8d8c471f0e7a0b4855ec716d0d.png",
@@ -51084,7 +53896,7 @@
      "macOS",
      "Windows"
     ],
-    "catalogVersion": "3.0.0-prerelease.233+2026-10-29",
+    "catalogVersion": "3.0.0-prerelease.234+2026-10-30",
     "links": [
      {
       "label": "Quiver",
@@ -65290,7 +68102,7 @@
   ]
  },
  "pocket": {
-  "updatedAt": "2026-10-30T20:54:21.398Z",
+  "updatedAt": "2026-10-31T05:58:24.466Z",
   "projects": [
    {
     "id": "gpzi994/chiskit",
@@ -65704,6 +68516,45 @@
     "download": {
      "label": "Pocket 1.1.1",
      "url": "https://github.com/harpmudd/HarpMudd.berzerk/releases/download/v1.1.1/HarpMudd.Berzerk_1.1.1.zip"
+    },
+    "links": [
+     {
+      "label": "openFPGA inventory",
+      "url": "https://openfpga-cores-inventory.github.io/analogue-pocket/"
+     }
+    ],
+    "sources": [
+     "pocket"
+    ]
+   },
+   {
+    "id": "harpmudd/harpmudd.bombjack",
+    "aliases": [
+     "pocket:harpmudd-bombjack"
+    ],
+    "name": "HarpMudd.BombJack (Pocket)",
+    "game": "Bomb Jack",
+    "categories": [
+     "Analogue Pocket"
+    ],
+    "type": "core",
+    "tags": [
+     "FPGA"
+    ],
+    "repo": {
+     "host": "github",
+     "path": "harpmudd/HarpMudd.bombjack"
+    },
+    "description": "openFPGA arcade core · Tehkan 1984",
+    "developer": "HarpMudd",
+    "targets": [
+     "Analogue Pocket"
+    ],
+    "catalogVersion": "1.0.0",
+    "catalogDate": "2026-10-30",
+    "download": {
+     "label": "Pocket 1.0.0",
+     "url": "https://github.com/harpmudd/HarpMudd.bombjack/releases/download/v1.0.0/HarpMudd.BombJack_1.0.0.zip"
     },
     "links": [
      {
@@ -71979,6 +74830,45 @@
     "download": {
      "label": "Pocket 0.1.0",
      "url": "https://github.com/ericlewis/openfpga-superbreakout/releases/download/nightly/ericlewis.SuperBreakout-pocket.zip"
+    },
+    "links": [
+     {
+      "label": "openFPGA inventory",
+      "url": "https://openfpga-cores-inventory.github.io/analogue-pocket/"
+     }
+    ],
+    "sources": [
+     "pocket"
+    ]
+   },
+   {
+    "id": "fbmrqs/openfpga-pocketdreamconsole",
+    "aliases": [
+     "pocket:fbmrqs-pocketdreamconsole"
+    ],
+    "name": "fbmrqs.PocketDreamConsole (Pocket)",
+    "game": "Pocket Dream Console",
+    "categories": [
+     "Analogue Pocket"
+    ],
+    "type": "core",
+    "tags": [
+     "FPGA"
+    ],
+    "repo": {
+     "host": "github",
+     "path": "fbmrqs/openFPGA-PocketDreamConsole"
+    },
+    "description": "openFPGA handheld core · Conny / VideoJet / Anncia 2008",
+    "developer": "fbmrqs",
+    "targets": [
+     "Analogue Pocket"
+    ],
+    "catalogVersion": "1.0.1",
+    "catalogDate": "2026-10-30",
+    "download": {
+     "label": "Pocket 1.0.1",
+     "url": "https://github.com/fbmrqs/openFPGA-PocketDreamConsole/releases/download/v1.0.1/fbmrqs.PocketDreamConsole_1.0.1_2026-10-30.zip"
     },
     "links": [
      {
