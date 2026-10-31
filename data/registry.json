@@ -107,6 +107,7 @@
   "arcanite24/pinyon-shift": "2026-10-23T22:25:39.434Z",
   "ares-emulator/ares": "2026-10-25T15:36:27.479Z",
   "armagetronad/armagetronad": "2026-10-27T14:45:45.436Z",
+  "armsx2/armsx3": "2026-10-31T20:06:38.932Z",
   "armyofgnomes/analogue-pocket-32x": "2026-10-25T15:56:57.670Z",
   "artfulrascal8/xrkart-64": "2026-10-23T22:25:39.434Z",
   "arx/arxlibertatis": "2026-10-25T15:36:27.479Z",
@@ -149,6 +150,7 @@
   "bearstonem/d2r-pcvr": "2026-10-25T15:36:27.479Z",
   "bearstonem/homeworld": "2026-10-23T22:25:39.434Z",
   "beatrixzy/pgr4-recomp": "2026-10-23T22:25:39.434Z",
+  "beebono/dsperate": "2026-10-31T20:06:38.932Z",
   "beren5556/w40krt_vr": "2026-10-25T15:36:27.479Z",
   "bertibertig/amped2-recomp": "2026-10-25T15:36:27.479Z",
   "bertibertig/ssx3-recomp": "2026-10-25T15:36:27.479Z",
@@ -207,6 +209,7 @@
   "cactusvrstudios/alpinefactionvr": "2026-10-25T15:36:27.479Z",
   "cactusvrstudios/kharvox": "2026-10-25T15:36:27.479Z",
   "cactusvrstudios/kharvox-argent": "2026-10-25T15:36:27.479Z",
+  "cactusvrstudios/kharvox-circle": "2026-10-31T20:06:38.932Z",
   "caiuscodes/goldeneye-007-xbla-pc-recomp": "2026-10-25T15:36:27.479Z",
   "capridog/spaceranger": "2026-10-25T15:36:27.479Z",
   "captainbrannigan/aliens-vr-predator-2010": "2026-10-31T14:36:47.862Z",
@@ -930,6 +933,7 @@
   "kirby1237/parappatherapperrecomp": "2026-10-25T15:36:27.479Z",
   "kirby1237/puyopuyoboxrecomp": "2026-10-23T22:25:39.434Z",
   "kiridor123/oceantrirecomp-android": "2026-10-31T05:58:24.466Z",
+  "kirklandsig/halo-ce-anbernic-rg35xx": "2026-10-31T20:06:38.932Z",
   "klorfmorf/goemon64recomp": "2026-10-23T22:25:39.434Z",
   "knossosnet/knossos.net": "2026-10-25T15:36:27.479Z",
   "koenhendriks/ssx3-recomp": "2026-10-25T15:36:27.479Z",
@@ -2787,6 +2791,32 @@
    },
    "autoFollow": true
   },
+  "armsx2/armsx3": {
+   "id": "armsx2/armsx3",
+   "name": "ARMSX3",
+   "game": "ARMSX3",
+   "categories": [
+    "Nintendo Switch"
+   ],
+   "type": "port",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "ARMSX2/ARMSX3"
+   },
+   "links": [],
+   "sources": [
+    "news"
+   ],
+   "discoveredFrom": {
+    "kind": "news",
+    "title": "Retro Handhelds Weekly: PS4 on the RG DDS, Switch 2 Emulation, and Plenty of Drama",
+    "url": "https://retrohandhelds.gg/retro-handhelds-weekly-edition-123/",
+    "source": "Retro Handhelds",
+    "date": "2026-10-31T15:31:34.000Z"
+   },
+   "autoFollow": true
+  },
   "ashenvr/deadrisingvr": {
    "id": "ashenvr/deadrisingvr",
    "name": "Dead Rising VR",
@@ -2894,6 +2924,32 @@
     "url": "https://www.youtube.com/watch?v=dqZavo4rAXg",
     "source": "YouTube: Paradise Decay",
     "date": "2026-10-18T15:30:08.000Z"
+   },
+   "autoFollow": true
+  },
+  "beebono/dsperate": {
+   "id": "beebono/dsperate",
+   "name": "DSperate",
+   "game": "DSperate",
+   "categories": [
+    "Nintendo Switch"
+   ],
+   "type": "reimplementation",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "beebono/DSperate"
+   },
+   "links": [],
+   "sources": [
+    "news"
+   ],
+   "discoveredFrom": {
+    "kind": "news",
+    "title": "Retro Handhelds Weekly: PS4 on the RG DDS, Switch 2 Emulation, and Plenty of Drama",
+    "url": "https://retrohandhelds.gg/retro-handhelds-weekly-edition-123/",
+    "source": "Retro Handhelds",
+    "date": "2026-10-31T15:31:34.000Z"
    },
    "autoFollow": true
   },
@@ -3170,6 +3226,35 @@
     "url": "https://www.youtube.com/watch?v=lJnD3jDzF1U",
     "source": "YouTube: NotAGameAddict",
     "date": "2026-10-24T14:00:18.000Z"
+   },
+   "autoFollow": true
+  },
+  "cactusvrstudios/kharvox-circle": {
+   "id": "cactusvrstudios/kharvox-circle",
+   "name": "KHARVOX CIRCLE",
+   "game": "KHARVOX CIRCLE",
+   "categories": [
+    "Other",
+    "VR Ports"
+   ],
+   "type": "port",
+   "tags": [
+    "VR"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "CactusVRStudios/KHARVOX-CIRCLE"
+   },
+   "links": [],
+   "sources": [
+    "news"
+   ],
+   "discoveredFrom": {
+    "kind": "news",
+    "title": "Indiana Jones and the Great Circle / New VR Mod with 6DOF Motion Controls From the Maker of DOOM VR",
+    "url": "https://www.youtube.com/watch?v=HaBnzHrjYus",
+    "source": "YouTube: NotAGameAddict",
+    "date": "2026-10-31T18:59:39.000Z"
    },
    "autoFollow": true
   },
@@ -6383,6 +6468,32 @@
    },
    "autoFollow": true
   },
+  "kirklandsig/halo-ce-anbernic-rg35xx": {
+   "id": "kirklandsig/halo-ce-anbernic-rg35xx",
+   "name": "halo ce anbernic rg35xx",
+   "game": "halo ce anbernic rg35xx",
+   "categories": [
+    "Nintendo Switch"
+   ],
+   "type": "decompilation",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "kirklandsig/halo-ce-anbernic-rg35xx"
+   },
+   "links": [],
+   "sources": [
+    "news"
+   ],
+   "discoveredFrom": {
+    "kind": "news",
+    "title": "Retro Handhelds Weekly: PS4 on the RG DDS, Switch 2 Emulation, and Plenty of Drama",
+    "url": "https://retrohandhelds.gg/retro-handhelds-weekly-edition-123/",
+    "source": "Retro Handhelds",
+    "date": "2026-10-31T15:31:34.000Z"
+   },
+   "autoFollow": false
+  },
   "kuraeow/ultratears": {
    "id": "kuraeow/ultratears",
    "name": "ultratears",
@@ -8814,7 +8925,7 @@
     "title": "topic:static-recompilation stars:>20",
     "date": "2026-10-25T15:36:27.479Z"
    },
-   "autoFollow": false
+   "autoFollow": true
   },
   "saikava/flatout2-vr": {
    "id": "saikava/flatout2-vr",
@@ -10651,6 +10762,7 @@
   "ares-emulator/ares": "2026-10-23",
   "azahar-emu/azahar": "2026-10-23",
   "azathothas/stars": "2026-10-27",
+  "baekalfen/pyboy": "2026-10-31",
   "bailo167/awesome-game-mashups": "2026-10-23",
   "bigmanlucavr/bo1vr": "2026-10-25",
   "blacklineinteractive/driveclub-port": "2026-10-23",
@@ -10664,12 +10776,15 @@
   "core-lib/xjar": "2026-10-23",
   "derekpascarella/pulirula-englishpatchfmtowns": "2026-10-23",
   "discostarslayer/pcsx2-reliquary": "2026-10-23",
+  "djparentx/darkosen-r36s": "2026-10-31",
   "djules75/ofxr-bridge": "2026-10-25",
   "dolphin-emu/dolphin": "2026-10-23",
+  "droid-deck/droiddeck": "2026-10-31",
   "dryxio/reagent": "2026-10-23",
   "elipsitz/gamebub": "2026-10-23",
   "emmercm/igir": "2026-10-26",
   "emsyscode/sm1628-arduino": "2026-10-30",
+  "ericreinsmidt/tortos": "2026-10-31",
   "euan-forrester/save-file-converter": "2026-10-26",
   "exxistancedc/tama-english-translation": "2026-10-23",
   "fever308/eday-steam-direct-launcher": "2026-10-25",
@@ -10681,9 +10796,11 @@
   "hollie/misterhouse": "2026-10-26",
   "hookmanuk/uncharted_pc": "2026-10-31",
   "inorirus/kyty": "2026-10-23",
+  "istark/ps5pcem": "2026-10-31",
   "joeyhodge/uevr": "2026-10-25",
   "jonasjakobi/sm64-quest-3": "2026-10-28",
   "jorge262007/fftarecomp": "2026-10-23",
+  "jorrefog/rocknixds": "2026-10-31",
   "juaniwck/mister-retroarch-save-sync": "2026-10-23",
   "justxor/awesome-decomp-games-ru": "2026-10-23",
   "kuslota/inkboy": "2026-10-30",
@@ -10691,6 +10808,7 @@
   "lightvelox/sotc-vibe-pc": "2026-10-23",
   "mabec-games/f-zero-glinux": "2026-10-27",
   "marty-suzuki/misterfusion": "2026-10-26",
+  "matteo842/savestate": "2026-10-31",
   "mikage-emu/mikage-dev": "2026-10-23",
   "mister-devel/apple-lisa_mister": "2026-10-23",
   "mister-devel/arcade-igspgm_mister": "2026-10-23",
@@ -10704,12 +10822,14 @@
   "mutars/anvilengine2vr": "2026-10-25",
   "nbcraft-org/nbcraft": "2026-10-23",
   "nmlgc/rec98": "2026-10-23",
+  "notrexed/skyboundtotk": "2026-10-31",
   "obalfour/flooder": "2026-10-26",
   "palindromicbreadloaf/dekopon": "2026-10-23",
   "pcsx2/pcsx2": "2026-10-23",
   "probonopd/previous": "2026-10-23",
   "radek-sprta/awesome-game-remakes": "2026-10-23",
   "reacher-z/awesome-rea": "2026-10-23",
+  "rfandango/hakux": "2026-10-31",
   "rpcs3/rpcs3": "2026-10-23",
   "rt64/rt64": "2026-10-23",
   "sandstonedev/ps2rc": "2026-10-23",
@@ -10720,6 +10840,7 @@
   "shiiion/dolphin": "2026-10-23",
   "sirdiabo/githublauncher": "2026-10-23",
   "slaveofido/blastcorps": "2026-10-26",
+  "spruceui/spruceos": "2026-10-31",
   "stanleymov/doom-ring": "2026-10-25",
   "stenzek/duckstation": "2026-10-23",
   "stevensnd/nfsmw-nx": "2026-10-23",
@@ -10731,6 +10852,7 @@
   "th0mk/nfsu2-web": "2026-10-23",
   "theypsilon/multidatabases_mister": "2026-10-23",
   "throatymumbo/nespc": "2026-10-26",
+  "transentient/holodor": "2026-10-31",
   "vector35/binaryninja-api": "2026-10-23",
   "vita3k/vita3k": "2026-10-23",
   "waffle565/god-of-war-native-port": "2026-10-23",
@@ -10738,6 +10860,7 @@
   "wheremyfoodat/panda3ds": "2026-10-23",
   "x360ce/x360ce": "2026-10-25",
   "yuvi-app/doc-le-english-translation": "2026-10-23",
+  "zetarancio/zlyme": "2026-10-31",
   "zoogie/smilehax-iie": "2026-10-23"
  }
 }

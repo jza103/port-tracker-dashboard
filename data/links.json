@@ -415,6 +415,10 @@
   "discord": "https://discord.gg/dcpaauj",
   "checked": "2026-10-27"
  },
+ "github:armsx2/armsx3": {
+  "discord": null,
+  "checked": "2026-10-31"
+ },
  "github:armyofgnomes/analogue-pocket-32x": {
   "discord": null,
   "checked": "2026-10-26"
@@ -574,6 +578,10 @@
  "github:beatrixzy/pgr4-recomp": {
   "discord": "https://discord.gg/FwfykKCFTK",
   "checked": "2026-10-30"
+ },
+ "github:beebono/dsperate": {
+  "discord": null,
+  "checked": "2026-10-31"
  },
  "github:bertibertig/amped2-recomp": {
   "discord": null,
@@ -794,6 +802,10 @@
  "github:cactusvrstudios/kharvox-argent": {
   "discord": null,
   "checked": "2026-10-25"
+ },
+ "github:cactusvrstudios/kharvox-circle": {
+  "discord": null,
+  "checked": "2026-10-31"
  },
  "github:caiuscodes/goldeneye-007-xbla-pc-recomp": {
   "discord": null,
@@ -2956,6 +2968,10 @@
   "checked": "2026-10-30"
  },
  "github:kiridor123/oceantrirecomp-android": {
+  "discord": null,
+  "checked": "2026-10-31"
+ },
+ "github:kirklandsig/halo-ce-anbernic-rg35xx": {
   "discord": null,
   "checked": "2026-10-31"
  },

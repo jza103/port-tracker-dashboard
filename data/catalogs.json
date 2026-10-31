@@ -26970,7 +26970,7 @@
   ]
  },
  "quiver": {
-  "updatedAt": "2026-10-31T14:36:47.862Z",
+  "updatedAt": "2026-10-31T20:06:38.932Z",
   "projects": [
    {
     "id": "hk21x/007eon-recomp",
@@ -27910,7 +27910,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v1.0.0-beta.9",
+    "catalogVersion": "v1.0.0",
     "links": [
      {
       "label": "Quiver",
@@ -28378,7 +28378,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v1.4.0",
+    "catalogVersion": "v1.4.1",
     "links": [
      {
       "label": "Quiver",
@@ -29428,7 +29428,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "v0.9.39-beta.25",
+    "catalogVersion": "v0.9.39-beta.26",
     "links": [
      {
       "label": "Quiver",
@@ -30617,7 +30617,7 @@
      "macOS",
      "Windows"
     ],
-    "catalogVersion": "cdda-experimental-2026-10-31-0606",
+    "catalogVersion": "cdda-experimental-2026-10-31-1806",
     "links": [
      {
       "label": "Quiver",
@@ -31149,7 +31149,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.1.1",
+    "catalogVersion": "v0.1.2",
     "links": [
      {
       "label": "Quiver",
@@ -33457,7 +33457,7 @@
      "macOS",
      "Windows"
     ],
-    "catalogVersion": "v0.4.0-alpha",
+    "catalogVersion": "v0.4.1-alpha",
     "links": [
      {
       "label": "Quiver",
@@ -33723,7 +33723,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v0.9.0",
+    "catalogVersion": "v0.10.0",
     "links": [
      {
       "label": "Quiver",
@@ -34093,7 +34093,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.7-beta",
+    "catalogVersion": "v0.7.2-beta",
     "links": [
      {
       "label": "Quiver",
@@ -34885,7 +34885,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "v0.9.11",
+    "catalogVersion": "v0.10.3",
     "links": [
      {
       "label": "Quiver",
@@ -35151,7 +35151,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "v0.4.0",
+    "catalogVersion": "v0.5.0",
     "links": [
      {
       "label": "Quiver",
@@ -35944,7 +35944,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "windows-v2.8.0-collision-test1",
+    "catalogVersion": "windows-v2.8.0-issue1131-test2",
     "links": [
      {
       "label": "Quiver",
@@ -36278,7 +36278,7 @@
      "macOS",
      "Windows"
     ],
-    "catalogVersion": "v0.5.0-beta",
+    "catalogVersion": "v0.7.0-beta",
     "links": [
      {
       "label": "Quiver",
@@ -36903,7 +36903,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.1.28",
+    "catalogVersion": "v0.1.30",
     "links": [
      {
       "label": "Quiver",
@@ -39050,7 +39050,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v0.2.1",
+    "catalogVersion": "v0.2.3",
     "links": [
      {
       "label": "Quiver",
@@ -39083,7 +39083,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v0.2.1",
+    "catalogVersion": "v0.2.3",
     "links": [
      {
       "label": "Quiver",
@@ -39116,7 +39116,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v0.2.2",
+    "catalogVersion": "v0.2.3",
     "links": [
      {
       "label": "Quiver",
@@ -39542,7 +39542,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v1.2-Stable",
+    "catalogVersion": "v1.1.3",
     "links": [
      {
       "label": "Quiver",
@@ -40307,7 +40307,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "0.11.8",
+    "catalogVersion": "0.12.0",
     "links": [
      {
       "label": "Quiver",
@@ -41065,7 +41065,7 @@
      "Linux",
      "macOS"
     ],
-    "catalogVersion": "v0.9.46",
+    "catalogVersion": "v0.9.48",
     "links": [
      {
       "label": "Quiver",
@@ -41865,7 +41865,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v1.0",
+    "catalogVersion": "v1.1",
     "links": [
      {
       "label": "Quiver",
@@ -42168,7 +42168,7 @@
      "iOS",
      "Linux"
     ],
-    "catalogVersion": "v0.9.0",
+    "catalogVersion": "v0.9.3",
     "links": [
      {
       "label": "Quiver",
@@ -42443,7 +42443,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v1.5.8",
+    "catalogVersion": "v1.5.9",
     "links": [
      {
       "label": "Quiver",
@@ -43473,7 +43473,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v0.1.1",
+    "catalogVersion": "v0.1.2",
     "links": [
      {
       "label": "Quiver",
@@ -43996,7 +43996,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v1.1",
+    "catalogVersion": "v1.2",
     "links": [
      {
       "label": "Quiver",
@@ -44028,7 +44028,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v1.3.0",
+    "catalogVersion": "v1.4.0",
     "links": [
      {
       "label": "Quiver",
@@ -45049,7 +45049,7 @@
      "macOS",
      "Windows"
     ],
-    "catalogVersion": "test-pr111-1938ba384c23",
+    "catalogVersion": "test-pr111-e3e579ce4a29",
     "links": [
      {
       "label": "Quiver",
@@ -45353,7 +45353,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "beta15",
+    "catalogVersion": "renut",
     "links": [
      {
       "label": "Quiver",
@@ -46214,7 +46214,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "v0.1.37",
+    "catalogVersion": "v0.1.39",
     "links": [
      {
       "label": "Quiver",
@@ -46413,7 +46413,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v1.51.3",
+    "catalogVersion": "v1.51.4",
     "links": [
      {
       "label": "Quiver",
@@ -47070,7 +47070,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v1.2.4",
+    "catalogVersion": "v1.2.5",
     "links": [
      {
       "label": "Quiver",
@@ -48258,7 +48258,7 @@
      "iOS",
      "Windows"
     ],
-    "catalogVersion": "v0.2.0-test-issue70",
+    "catalogVersion": "v0.2.0-test-issue67",
     "links": [
      {
       "label": "Quiver",
@@ -49120,7 +49120,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v2.5.9",
+    "catalogVersion": "v3.0.0",
     "links": [
      {
       "label": "Quiver",
@@ -50898,7 +50898,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.1.9",
+    "catalogVersion": "v0.2.1",
     "links": [
      {
       "label": "Quiver",
@@ -52091,7 +52091,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "v0.1.11-alpha",
+    "catalogVersion": "v0.1.12-alpha",
     "links": [
      {
       "label": "Quiver",
@@ -52289,7 +52289,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v1.1.2",
+    "catalogVersion": "v1.1.3",
     "links": [
      {
       "label": "Quiver",
