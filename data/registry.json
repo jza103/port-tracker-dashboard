@@ -776,6 +776,7 @@
   "jaybiggsgmg/bfvr-battlefield-1942-vr-mod": "2026-10-25T15:36:27.479Z",
   "jaylikesbunda/crashofthetitans-wiicomp": "2026-10-31T05:58:24.466Z",
   "jbusfield/submersedvr_bz": "2026-10-25T15:36:27.479Z",
+  "jcooray/shadow-of-the-tomb-raider-vr": "2026-11-01T20:38:30.957Z",
   "jcsix694/def-jam-vendetta-recomp": "2026-10-23T22:46:33.769Z",
   "jedeyesniv-art/pacman-ce-pc-recomp": "2026-10-25T15:36:27.479Z",
   "jedijosh920/swrots-pc": "2026-10-24T18:51:55.727Z",
@@ -946,6 +947,7 @@
   "kiexster/god-of-war-recomp": "2026-10-23T22:46:33.769Z",
   "king-ej/among-the-sleep-vr": "2026-10-27T14:45:45.436Z",
   "king-ej/blood-west-vr": "2026-10-25T15:36:27.479Z",
+  "king-ej/cop-bastard-vr": "2026-11-01T20:38:30.957Z",
   "king-ej/dementium-ii-hd-vr": "2026-10-29T06:03:16.453Z",
   "king-ej/devotion-vr-mod": "2026-10-25T15:36:27.479Z",
   "king-ej/high-entropy-challenges-vr": "2026-10-25T15:36:27.479Z",
@@ -5771,6 +5773,35 @@
    },
    "autoFollow": false
   },
+  "jcooray/shadow-of-the-tomb-raider-vr": {
+   "id": "jcooray/shadow-of-the-tomb-raider-vr",
+   "name": "Shadow of the Tomb Raider VR",
+   "game": "Shadow of the Tomb Raider VR",
+   "categories": [
+    "Other",
+    "VR Ports"
+   ],
+   "type": "port",
+   "tags": [
+    "VR"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "jcooray/Shadow-of-the-Tomb-Raider-VR"
+   },
+   "links": [],
+   "sources": [
+    "news"
+   ],
+   "discoveredFrom": {
+    "kind": "news",
+    "title": "Shadow of the Tomb Raider: Definitive Edition VR / New VR Mod with 1st Person and Hand Aiming / PCVR",
+    "url": "https://www.youtube.com/watch?v=SwN_Dw-Z3NE",
+    "source": "YouTube: NotAGameAddict",
+    "date": "2026-11-01T17:25:17.000Z"
+   },
+   "autoFollow": true
+  },
   "jcsix694/def-jam-vendetta-recomp": {
    "id": "jcsix694/def-jam-vendetta-recomp",
    "name": "def jam vendetta recomp",
@@ -6584,6 +6615,35 @@
     "url": "https://www.youtube.com/watch?v=tUe3wmanhSQ",
     "source": "YouTube: NotAGameAddict",
     "date": "2026-10-23T14:00:03.000Z"
+   },
+   "autoFollow": true
+  },
+  "king-ej/cop-bastard-vr": {
+   "id": "king-ej/cop-bastard-vr",
+   "name": "COP BASTARD VR",
+   "game": "COP BASTARD VR",
+   "categories": [
+    "Other",
+    "VR Ports"
+   ],
+   "type": "port",
+   "tags": [
+    "VR"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "King-EJ/COP-BASTARD-VR"
+   },
+   "links": [],
+   "sources": [
+    "news"
+   ],
+   "discoveredFrom": {
+    "kind": "news",
+    "title": "Enter Hard Boiled in VR - Cop Bastard VR Mod - Native Stereo, 6DOF Weapons, Head-Tracking",
+    "url": "https://www.youtube.com/watch?v=5lIxeN8DlFQ",
+    "source": "YouTube: FastLawyer",
+    "date": "2026-11-01T15:30:39.000Z"
    },
    "autoFollow": true
   },
@@ -11132,6 +11192,7 @@
   "hkmodd/pcsx2-mcp": "2026-10-23",
   "hochgeschwindigkeitsrennfahrer/gta4vr": "2026-10-29",
   "hollie/misterhouse": "2026-10-26",
+  "hookmanuk/mcla-recomp": "2026-11-01",
   "hookmanuk/uncharted_pc": "2026-10-31",
   "inorirus/kyty": "2026-10-23",
   "istark/ps5pcem": "2026-10-31",

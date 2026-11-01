@@ -26970,7 +26970,7 @@
   ]
  },
  "quiver": {
-  "updatedAt": "2026-11-01T15:19:44.427Z",
+  "updatedAt": "2026-11-01T20:38:30.957Z",
   "projects": [
    {
     "id": "hk21x/007eon-recomp",
@@ -28513,7 +28513,7 @@
      "macOS",
      "Linux"
     ],
-    "catalogVersion": "v0.5.8",
+    "catalogVersion": "v0.5.9",
     "links": [
      {
       "label": "Quiver",
@@ -29496,7 +29496,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.7.2",
+    "catalogVersion": "v0.8.0",
     "links": [
      {
       "label": "Quiver",
@@ -30653,7 +30653,7 @@
      "macOS",
      "Windows"
     ],
-    "catalogVersion": "cdda-experimental-2026-11-01-1054",
+    "catalogVersion": "cdda-experimental-2026-11-01-1411",
     "links": [
      {
       "label": "Quiver",
@@ -30688,7 +30688,7 @@
      "macOS",
      "Windows"
     ],
-    "catalogVersion": "cataclysm-tlg-1.0-2026-11-01-0852",
+    "catalogVersion": "cataclysm-tlg-1.0-2026-11-01-1306",
     "links": [
      {
       "label": "Quiver",
@@ -30823,7 +30823,7 @@
      "iOS",
      "macOS"
     ],
-    "catalogVersion": "v0.15.16",
+    "catalogVersion": "v0.15.17",
     "links": [
      {
       "label": "Quiver",
@@ -32073,7 +32073,7 @@
      "macOS",
      "Windows"
     ],
-    "catalogVersion": "v0.12.3",
+    "catalogVersion": "v0.13.0",
     "links": [
      {
       "label": "Quiver",
@@ -32437,7 +32437,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v1.06",
+    "catalogVersion": "v1.07",
     "links": [
      {
       "label": "Quiver",
@@ -32807,7 +32807,7 @@
      "Linux",
      "macOS"
     ],
-    "catalogVersion": "v0.1.13",
+    "catalogVersion": "v0.1.14",
     "links": [
      {
       "label": "Quiver",
@@ -35102,7 +35102,7 @@
     "name": "Fracture Recomp",
     "game": "Fracture",
     "categories": [
-     "Xbox"
+     "Xbox 360"
     ],
     "type": "recompilation",
     "repo": {
@@ -35316,7 +35316,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "v0.5.0",
+    "catalogVersion": "v0.5.1",
     "links": [
      {
       "label": "Quiver",
@@ -36238,7 +36238,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "windows-v3.0.0",
+    "catalogVersion": "windows-v3.0.0-issue1165-test1",
     "links": [
      {
       "label": "Quiver",
@@ -36634,7 +36634,7 @@
     "description": "Halo CE: Arena Evolved is a native PC port of Halo: Combat Evolved with modern quality of life features and new gameplay options.",
     "developer": "Peter Richardson",
     "targets": [],
-    "catalogVersion": "v0.7.1-beta",
+    "catalogVersion": "v0.7.2-beta",
     "links": [
      {
       "label": "Quiver",
@@ -38281,7 +38281,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v2.0.6",
+    "catalogVersion": "v2.0.8",
     "links": [
      {
       "label": "Quiver",
@@ -38645,7 +38645,7 @@
     "targets": [
      "Android"
     ],
-    "catalogVersion": "v0.5.9",
+    "catalogVersion": "v0.5.10",
     "links": [
      {
       "label": "Quiver",
@@ -38872,7 +38872,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.7.5",
+    "catalogVersion": "v0.7.6",
     "links": [
      {
       "label": "Quiver",
@@ -39271,7 +39271,7 @@
      "Android",
      "Linux"
     ],
-    "catalogVersion": "v0.5.2",
+    "catalogVersion": "mod-battle-voices-originals-ai-1.0.0",
     "links": [
      {
       "label": "Quiver",
@@ -39799,7 +39799,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.2.3",
+    "catalogVersion": "v0.2.4",
     "links": [
      {
       "label": "Quiver",
@@ -39898,7 +39898,7 @@
      "macOS",
      "Windows"
     ],
-    "catalogVersion": "v1.2.4",
+    "catalogVersion": "v1.2.5",
     "links": [
      {
       "label": "Quiver",
@@ -40026,7 +40026,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v1.1.5",
+    "catalogVersion": "v1.1.6",
     "links": [
      {
       "label": "Quiver",
@@ -40056,7 +40056,7 @@
     "description": "MediEvil Recomp ITA is a native PC port of MediEvil for PlayStation, featuring widescreen and improved rendering.",
     "developer": "Leproide",
     "targets": [],
-    "catalogVersion": "v1.1.5",
+    "catalogVersion": "v1.1.6",
     "links": [
      {
       "label": "Quiver",
@@ -40623,7 +40623,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "R144",
+    "catalogVersion": "R147",
     "links": [
      {
       "label": "Quiver",
@@ -40724,7 +40724,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v0.7.11-alpha",
+    "catalogVersion": "v0.7.12-alpha",
     "links": [
      {
       "label": "Quiver",
@@ -40791,7 +40791,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "0.13.0",
+    "catalogVersion": "0.13.1",
     "links": [
      {
       "label": "Quiver",
@@ -41253,7 +41253,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.4.1-beta",
+    "catalogVersion": "v0.4.2-beta",
     "links": [
      {
       "label": "Quiver",
@@ -41383,7 +41383,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "v1.0.7",
+    "catalogVersion": "v1.0.8",
     "links": [
      {
       "label": "Quiver",
@@ -41647,7 +41647,7 @@
      "Linux",
      "macOS"
     ],
-    "catalogVersion": "v0.9.50",
+    "catalogVersion": "v0.9.51",
     "links": [
      {
       "label": "Quiver",
@@ -41781,7 +41781,7 @@
      "macOS",
      "Windows"
     ],
-    "catalogVersion": "v0.8.1",
+    "catalogVersion": "v0.8.2",
     "links": [
      {
       "label": "Quiver",
@@ -42347,7 +42347,7 @@
      "Windows",
      "Android"
     ],
-    "catalogVersion": "v1.7.0",
+    "catalogVersion": "v1.7.5",
     "links": [
      {
       "label": "Quiver",
@@ -42381,7 +42381,7 @@
      "macOS",
      "Windows"
     ],
-    "catalogVersion": "2.4.0-beta.3",
+    "catalogVersion": "2.4.0-beta.4",
     "links": [
      {
       "label": "Quiver",
@@ -42884,7 +42884,8 @@
     "targets": [
      "Windows",
      "Linux",
-     "macOS"
+     "macOS",
+     "Android"
     ],
     "catalogVersion": "sdk-v1.11.0",
     "links": [
@@ -43191,7 +43192,7 @@
      "macOS",
      "Windows"
     ],
-    "catalogVersion": "jgrpp-0.73.4",
+    "catalogVersion": "jgrpp-0.73.5",
     "links": [
      {
       "label": "Quiver",
@@ -44707,7 +44708,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.2.3",
+    "catalogVersion": "v0.2.5",
     "links": [
      {
       "label": "Quiver",
@@ -44903,7 +44904,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.1.0-beta.8",
+    "catalogVersion": "v0.1.0-beta.10",
     "links": [
      {
       "label": "Quiver",
@@ -45070,7 +45071,7 @@
      "Windows",
      "macOS"
     ],
-    "catalogVersion": "0.16.1",
+    "catalogVersion": "0.16.6",
     "links": [
      {
       "label": "Quiver",
@@ -45727,7 +45728,7 @@
      "macOS",
      "Windows"
     ],
-    "catalogVersion": "test-pr111-1b10f19b6a8e",
+    "catalogVersion": "test-pr111-baa2875a14a7",
     "links": [
      {
       "label": "Quiver",
@@ -46394,7 +46395,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v1.7",
+    "catalogVersion": "v1.7-mac-preview",
     "links": [
      {
       "label": "Quiver",
@@ -47020,7 +47021,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "v0.1.44",
+    "catalogVersion": "v0.1.46",
     "links": [
      {
       "label": "Quiver",
@@ -47908,7 +47909,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v1.2.5.1",
+    "catalogVersion": "v1.2.5.2",
     "links": [
      {
       "label": "Quiver",
@@ -48766,7 +48767,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "v0.6.2",
+    "catalogVersion": "v0.6.3",
     "links": [
      {
       "label": "Quiver",
@@ -51801,7 +51802,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.2.8",
+    "catalogVersion": "v0.3.1",
     "links": [
      {
       "label": "Quiver",
@@ -52427,7 +52428,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v0.14.0",
+    "catalogVersion": "v0.15.1",
     "links": [
      {
       "label": "Quiver",
@@ -53878,7 +53879,7 @@
      "macOS",
      "Windows"
     ],
-    "catalogVersion": "v0.0.6",
+    "catalogVersion": "v0.0.7",
     "links": [
      {
       "label": "Quiver",
@@ -54499,7 +54500,7 @@
      "Android",
      "macOS"
     ],
-    "catalogVersion": "v0.4.9",
+    "catalogVersion": "v0.4.10",
     "links": [
      {
       "label": "Quiver",
@@ -55181,7 +55182,7 @@
   ]
  },
  "mister": {
-  "updatedAt": "2026-11-01T15:19:44.427Z",
+  "updatedAt": "2026-11-01T20:38:30.957Z",
   "projects": [
    {
     "id": "mister-devel/archie_mister",
@@ -69220,7 +69221,7 @@
      "host": "github",
      "path": "MiSTer-LLAPI/LLAPI_folder_MiSTer"
     },
-    "description": "33 cores · optional database in update_all settings",
+    "description": "34 cores · optional database in update_all settings",
     "developer": "MiSTer-LLAPI",
     "updateAll": "optional",
     "updateAllDb": "LLAPI Folder",
