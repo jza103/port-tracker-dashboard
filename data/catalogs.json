@@ -26970,7 +26970,7 @@
   ]
  },
  "quiver": {
-  "updatedAt": "2026-10-31T23:29:04.947Z",
+  "updatedAt": "2026-11-01T06:27:40.448Z",
   "projects": [
    {
     "id": "hk21x/007eon-recomp",
@@ -26992,7 +26992,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v1.0.2",
+    "catalogVersion": "v1.0.3",
     "links": [
      {
       "label": "Quiver",
@@ -27024,7 +27024,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v1.0.1",
+    "catalogVersion": "v1.0.2",
     "links": [
      {
       "label": "Quiver",
@@ -27911,7 +27911,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "v1.0.0",
+    "catalogVersion": "v1.0.1",
     "links": [
      {
       "label": "Quiver",
@@ -28412,7 +28412,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "1.7.5",
+    "catalogVersion": "1.7.6",
     "links": [
      {
       "label": "Quiver",
@@ -29332,7 +29332,7 @@
     "targets": [
      "Linux"
     ],
-    "catalogVersion": "test-issue30-4",
+    "catalogVersion": "0.51-linux.20",
     "links": [
      {
       "label": "Quiver",
@@ -29528,7 +29528,7 @@
      "Windows",
      "iOS"
     ],
-    "catalogVersion": "v0.9.0",
+    "catalogVersion": "v0.10.0",
     "links": [
      {
       "label": "Quiver",
@@ -30551,7 +30551,7 @@
      "macOS",
      "Windows"
     ],
-    "catalogVersion": "2026-10-31",
+    "catalogVersion": "2026-11-01",
     "links": [
      {
       "label": "Quiver",
@@ -30586,7 +30586,7 @@
      "macOS",
      "Windows"
     ],
-    "catalogVersion": "cdda-experimental-2026-10-31-1806",
+    "catalogVersion": "cdda-experimental-2026-11-01-0302",
     "links": [
      {
       "label": "Quiver",
@@ -30952,7 +30952,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "0.3.0",
+    "catalogVersion": "0.3.5",
     "links": [
      {
       "label": "Quiver",
@@ -31118,7 +31118,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.1.2",
+    "catalogVersion": "v0.1.3",
     "links": [
      {
       "label": "Quiver",
@@ -33726,7 +33726,7 @@
      "macOS",
      "Linux"
     ],
-    "catalogVersion": "v0.5.0-ports-preview.26",
+    "catalogVersion": "v0.5.0-ports-preview.27",
     "links": [
      {
       "label": "Quiver",
@@ -33827,7 +33827,7 @@
      "Windows",
      "iOS"
     ],
-    "catalogVersion": "v0.6.6",
+    "catalogVersion": "v0.7.0",
     "links": [
      {
       "label": "Quiver",
@@ -33929,7 +33929,7 @@
      "Android",
      "Linux"
     ],
-    "catalogVersion": "v0.1.3",
+    "catalogVersion": "v0.1.4",
     "links": [
      {
       "label": "Quiver",
@@ -34062,7 +34062,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.7.2-beta",
+    "catalogVersion": "v0.7.3-beta",
     "links": [
      {
       "label": "Quiver",
@@ -34692,7 +34692,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.0.6",
+    "catalogVersion": "v0.0.7",
     "links": [
      {
       "label": "Quiver",
@@ -34724,7 +34724,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.0.6",
+    "catalogVersion": "v0.0.7",
     "links": [
      {
       "label": "Quiver",
@@ -35186,7 +35186,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "nightly",
+    "catalogVersion": "v1.2.0",
     "links": [
      {
       "label": "Quiver",
@@ -35222,7 +35222,7 @@
      "Windows",
      "iOS"
     ],
-    "catalogVersion": "v0.3.98",
+    "catalogVersion": "v0.3.99",
     "links": [
      {
       "label": "Quiver",
@@ -35385,7 +35385,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v1.1.1",
+    "catalogVersion": "v1.2.0",
     "links": [
      {
       "label": "Quiver",
@@ -35913,7 +35913,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "windows-v2.8.0-issue1131-test2",
+    "catalogVersion": "windows-v3.0.0",
     "links": [
      {
       "label": "Quiver",
@@ -36145,7 +36145,7 @@
      "macOS",
      "Windows"
     ],
-    "catalogVersion": "gdul/v0.1.7",
+    "catalogVersion": "gdul/v0.1.8",
     "links": [
      {
       "label": "Quiver",
@@ -36276,12 +36276,7 @@
     },
     "description": "Halo CE: Arena Evolved is a native PC port of Halo: Combat Evolved with modern quality of life features and new gameplay options.",
     "developer": "Peter Richardson",
-    "targets": [
-     "Android",
-     "Linux",
-     "macOS",
-     "Windows"
-    ],
+    "targets": [],
     "catalogVersion": "v0.7.1-beta",
     "links": [
      {
@@ -36907,7 +36902,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.1.30",
+    "catalogVersion": "v0.1.32",
     "links": [
      {
       "label": "Quiver",
@@ -37406,7 +37401,7 @@
      "Windows",
      "Android"
     ],
-    "catalogVersion": "v0.6.0",
+    "catalogVersion": "v0.6.1",
     "links": [
      {
       "label": "Quiver",
@@ -37637,7 +37632,7 @@
      "Android",
      "iOS"
     ],
-    "catalogVersion": "v0.8.6",
+    "catalogVersion": "v0.8.7",
     "links": [
      {
       "label": "Quiver",
@@ -37865,7 +37860,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v2.0.3",
+    "catalogVersion": "v2.0.4",
     "links": [
      {
       "label": "Quiver",
@@ -38197,7 +38192,7 @@
      "macOS",
      "Windows"
     ],
-    "catalogVersion": "test-arm-483-mali",
+    "catalogVersion": "test-462-arc-4",
     "links": [
      {
       "label": "Quiver",
@@ -38229,7 +38224,7 @@
     "targets": [
      "Android"
     ],
-    "catalogVersion": "v0.5.8",
+    "catalogVersion": "v0.5.9",
     "links": [
      {
       "label": "Quiver",
@@ -38358,7 +38353,7 @@
      "macOS",
      "Windows"
     ],
-    "catalogVersion": "v1.10.1",
+    "catalogVersion": "v1.11.0",
     "links": [
      {
       "label": "Quiver",
@@ -39021,7 +39016,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "v0.1.11",
+    "catalogVersion": "v0.1.13",
     "links": [
      {
       "label": "Quiver",
@@ -39054,7 +39049,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v0.2.3",
+    "catalogVersion": "v0.2.4",
     "links": [
      {
       "label": "Quiver",
@@ -39087,7 +39082,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v0.2.3",
+    "catalogVersion": "v0.2.4",
     "links": [
      {
       "label": "Quiver",
@@ -39319,7 +39314,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v0.1.3",
+    "catalogVersion": "v0.1.4",
     "links": [
      {
       "label": "Quiver",
@@ -39610,7 +39605,7 @@
      "macOS",
      "Windows"
     ],
-    "catalogVersion": "v0.1b",
+    "catalogVersion": "v1.0.1",
     "links": [
      {
       "label": "Quiver",
@@ -39744,7 +39739,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v2.3.10",
+    "catalogVersion": "v2.3.11",
     "links": [
      {
       "label": "Quiver",
@@ -39810,7 +39805,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v1.0.22",
+    "catalogVersion": "v1.0.24",
     "links": [
      {
       "label": "Quiver",
@@ -39908,7 +39903,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.0.9",
+    "catalogVersion": "v0.0.11",
     "links": [
      {
       "label": "Quiver",
@@ -39941,7 +39936,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "v0.9.82",
+    "catalogVersion": "v0.9.85",
     "links": [
      {
       "label": "Quiver",
@@ -40707,7 +40702,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.4.0-beta",
+    "catalogVersion": "v0.4.1-beta",
     "links": [
      {
       "label": "Quiver",
@@ -41001,7 +40996,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v1.0.7",
+    "catalogVersion": "v1.0.8",
     "links": [
      {
       "label": "Quiver",
@@ -41101,7 +41096,7 @@
      "Linux",
      "macOS"
     ],
-    "catalogVersion": "v0.9.49",
+    "catalogVersion": "v0.9.50",
     "links": [
      {
       "label": "Quiver",
@@ -41235,7 +41230,7 @@
      "macOS",
      "Windows"
     ],
-    "catalogVersion": "v0.8.0",
+    "catalogVersion": "v0.8.1",
     "links": [
      {
       "label": "Quiver",
@@ -41404,7 +41399,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "v0.2.0",
+    "catalogVersion": "v0.2.1",
     "links": [
      {
       "label": "Quiver",
@@ -41472,7 +41467,7 @@
      "macOS",
      "Windows"
     ],
-    "catalogVersion": "v0.8.10",
+    "catalogVersion": "v0.8.11",
     "links": [
      {
       "label": "Quiver",
@@ -41698,7 +41693,7 @@
     "description": "OpenCE is a port of Halo: Combat Evolved to Windows, Linux and Android that supports multiplayer across all platforms.",
     "developer": "OpenCommunityEdition",
     "targets": [],
-    "catalogVersion": "build-335",
+    "catalogVersion": "build-337",
     "links": [
      {
       "label": "Quiver",
@@ -44886,7 +44881,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v1.0.3",
+    "catalogVersion": "v1.1.0",
     "links": [
      {
       "label": "Quiver",
@@ -45085,7 +45080,7 @@
      "macOS",
      "Windows"
     ],
-    "catalogVersion": "test-pr111-03469c802406",
+    "catalogVersion": "test-pr111-b48750de4924",
     "links": [
      {
       "label": "Quiver",
@@ -45652,7 +45647,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "beta1.1",
+    "catalogVersion": "beta1.2",
     "links": [
      {
       "label": "Quiver",
@@ -46020,7 +46015,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.0.7",
+    "catalogVersion": "v0.0.8",
     "links": [
      {
       "label": "Quiver",
@@ -46052,7 +46047,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.0.7",
+    "catalogVersion": "v0.0.8",
     "links": [
      {
       "label": "Quiver",
@@ -46149,7 +46144,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "v1.0.36",
+    "catalogVersion": "v1.0.37",
     "links": [
      {
       "label": "Quiver",
@@ -46314,7 +46309,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "v0.1.40",
+    "catalogVersion": "v0.1.41",
     "links": [
      {
       "label": "Quiver",
@@ -46347,7 +46342,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "v0.3.1-alpha.3",
+    "catalogVersion": "v0.4.0-alpha.4",
     "links": [
      {
       "label": "Quiver",
@@ -46546,7 +46541,7 @@
      "Android",
      "Windows"
     ],
-    "catalogVersion": "v0.4.1-beta",
+    "catalogVersion": "v0.4.2-beta",
     "links": [
      {
       "label": "Quiver",
@@ -46613,7 +46608,7 @@
      "macOS",
      "Windows"
     ],
-    "catalogVersion": "v1.3.0",
+    "catalogVersion": "v1.3.1",
     "links": [
      {
       "label": "Quiver",
@@ -47404,7 +47399,7 @@
      "Linux",
      "macOS"
     ],
-    "catalogVersion": "v2.1",
+    "catalogVersion": "v2.1.0",
     "links": [
      {
       "label": "Quiver",
@@ -47436,7 +47431,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.3.0-beta.5",
+    "catalogVersion": "v0.3.0-beta.6",
     "links": [
      {
       "label": "Quiver",
@@ -47863,7 +47858,7 @@
      "Windows",
      "Android"
     ],
-    "catalogVersion": "0.2.8",
+    "catalogVersion": "0.2.9",
     "links": [
      {
       "label": "Quiver",
@@ -48358,7 +48353,7 @@
      "iOS",
      "Windows"
     ],
-    "catalogVersion": "v0.2.0-test-issue67",
+    "catalogVersion": "v0.2.1-windows-beta.3",
     "links": [
      {
       "label": "Quiver",
@@ -52876,7 +52871,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "v1.0.7",
+    "catalogVersion": "v1.0.8",
     "links": [
      {
       "label": "Quiver",
@@ -53303,7 +53298,7 @@
      "Windows",
      "Android"
     ],
-    "catalogVersion": "v2.1.7",
+    "catalogVersion": "v2.1.8",
     "links": [
      {
       "label": "Quiver",
@@ -53596,7 +53591,7 @@
      "macOS",
      "Windows"
     ],
-    "catalogVersion": "v1.0.3",
+    "catalogVersion": "v1.0.4",
     "links": [
      {
       "label": "Quiver",
@@ -54248,7 +54243,7 @@
   ]
  },
  "mister": {
-  "updatedAt": "2026-10-31T14:36:47.862Z",
+  "updatedAt": "2026-11-01T06:27:40.448Z",
   "projects": [
    {
     "id": "mister-devel/archie_mister",
@@ -68259,11 +68254,11 @@
      "host": "github",
      "path": "Coin-OpCollection/Distribution-MiSTerFPGA"
     },
-    "description": "56 cores · installed by update_all by default",
+    "description": "83 cores · installed by update_all by default",
     "developer": "Coin-OpCollection",
     "updateAll": "default",
     "updateAllDb": "Coin-Op Collection",
-    "catalogDate": "2026-10-07",
+    "catalogDate": "2026-11-01",
     "links": [],
     "sources": [
      "mister"
@@ -68439,7 +68434,7 @@
   ]
  },
  "pocket": {
-  "updatedAt": "2026-10-31T23:29:04.947Z",
+  "updatedAt": "2026-11-01T06:27:40.448Z",
   "projects": [
    {
     "id": "gpzi994/chiskit",
@@ -68704,6 +68699,42 @@
      "label": "Pocket 1.0.0",
      "url": "https://github.com/essemyth/openfpga-nibbler/releases/download/v1.0.0/Essemyth.Nibbler_1.0.0_2026-10-22.zip"
     },
+    "links": [
+     {
+      "label": "openFPGA inventory",
+      "url": "https://openfpga-cores-inventory.github.io/analogue-pocket/"
+     }
+    ],
+    "sources": [
+     "pocket"
+    ]
+   },
+   {
+    "id": "frazilpop/cave-68000-pocket#frazilpop-cave-68000",
+    "aliases": [
+     "pocket:frazilpop-cave-68000"
+    ],
+    "name": "Frazilpop.Cave 68000 (Pocket)",
+    "game": "Cave 68000",
+    "categories": [
+     "Analogue Pocket"
+    ],
+    "type": "core",
+    "tags": [
+     "FPGA"
+    ],
+    "repo": {
+     "host": "github",
+     "path": "Frazilpop/Cave-68000-Pocket"
+    },
+    "description": "",
+    "developer": "Frazilpop",
+    "targets": [
+     "Analogue Pocket"
+    ],
+    "catalogVersion": "",
+    "catalogDate": "",
+    "download": null,
     "links": [
      {
       "label": "openFPGA inventory",
@@ -69631,11 +69662,11 @@
     "targets": [
      "Analogue Pocket"
     ],
-    "catalogVersion": "2.2.4",
-    "catalogDate": "2026-10-23",
+    "catalogVersion": "2.2.5",
+    "catalogDate": "2026-10-31",
     "download": {
-     "label": "Pocket 2.2.4",
-     "url": "https://github.com/Miasmark/openFPGA-7800/releases/download/2.2.4/M_Atari7800_Pocket_2.2.4.zip"
+     "label": "Pocket 2.2.5",
+     "url": "https://github.com/Miasmark/openFPGA-7800/releases/download/2.2.5/M_Atari7800_Pocket_2.2.5.zip"
     },
     "links": [
      {
@@ -75290,45 +75321,6 @@
     "download": {
      "label": "Pocket 0.20",
      "url": "https://github.com/finner/openFPGA-SEGASYSC/releases/download/v0.20/finn2k1.SEGASYSC_0.20_2026-08-16.zip"
-    },
-    "links": [
-     {
-      "label": "openFPGA inventory",
-      "url": "https://openfpga-cores-inventory.github.io/analogue-pocket/"
-     }
-    ],
-    "sources": [
-     "pocket"
-    ]
-   },
-   {
-    "id": "frazilpop/cave-68000-pocket",
-    "aliases": [
-     "pocket:frazilpop-cave-68000"
-    ],
-    "name": "frazilpop.Cave 68000 (Pocket)",
-    "game": "Cave 68000",
-    "categories": [
-     "Analogue Pocket"
-    ],
-    "type": "core",
-    "tags": [
-     "FPGA"
-    ],
-    "repo": {
-     "host": "github",
-     "path": "Frazilpop/Cave-68000-Pocket"
-    },
-    "description": "openFPGA arcade multi core · Cave 1997",
-    "developer": "frazilpop",
-    "targets": [
-     "Analogue Pocket"
-    ],
-    "catalogVersion": "1.0.0",
-    "catalogDate": "2026-10-15",
-    "download": {
-     "label": "Pocket 1.0.0",
-     "url": "https://github.com/Frazilpop/Cave-68000-Pocket/releases/download/v1.0.0/cave68000-1.0.0.zip"
     },
     "links": [
      {
@@ -81243,7 +81235,7 @@
      "pocket:plasticbugs-smashtv"
     ],
     "name": "plasticbugs.smashtv (Pocket)",
-    "game": "Smash T.V.",
+    "game": "Smash TV",
     "categories": [
      "Analogue Pocket"
     ],
@@ -81255,7 +81247,7 @@
      "host": "github",
      "path": "plasticbugs/smashtv"
     },
-    "description": "openFPGA arcade core · Williams 1990",
+    "description": "openFPGA arcade core · pram0d 2024",
     "developer": "plasticbugs",
     "targets": [
      "Analogue Pocket"
@@ -81651,11 +81643,11 @@
     "targets": [
      "Analogue Pocket"
     ],
-    "catalogVersion": "1.0.6",
+    "catalogVersion": "1.0.7",
     "catalogDate": "2024-11-25",
     "download": {
-     "label": "Pocket 1.0.6",
-     "url": "https://raw.githubusercontent.com/Coin-OpCollection/Distribution-OpenFPGA/4ffe049ed5fff218254febe3d3feba0a2dcd3b37/Releases/pram0d.yunit.zip"
+     "label": "Pocket 1.0.7",
+     "url": "https://raw.githubusercontent.com/Coin-OpCollection/Distribution-OpenFPGA/b8100cbff36bb37d5ce915a49ee0a242dae8ce34/Releases/pram0d.yunit.zip"
     },
     "links": [
      {
@@ -81730,11 +81722,11 @@
     "targets": [
      "Analogue Pocket"
     ],
-    "catalogVersion": "1.0.6",
+    "catalogVersion": "1.0.7",
     "catalogDate": "2024-10-08",
     "download": {
-     "label": "Pocket 1.0.6",
-     "url": "https://raw.githubusercontent.com/Coin-OpCollection/Distribution-OpenFPGA/4ffe049ed5fff218254febe3d3feba0a2dcd3b37/Releases/pram0d.yunit.zip"
+     "label": "Pocket 1.0.7",
+     "url": "https://raw.githubusercontent.com/Coin-OpCollection/Distribution-OpenFPGA/b8100cbff36bb37d5ce915a49ee0a242dae8ce34/Releases/pram0d.yunit.zip"
     },
     "links": [
      {
@@ -81770,11 +81762,11 @@
     "targets": [
      "Analogue Pocket"
     ],
-    "catalogVersion": "1.0.1",
+    "catalogVersion": "1.0.2",
     "catalogDate": "2024-09-07",
     "download": {
-     "label": "Pocket 1.0.1",
-     "url": "https://raw.githubusercontent.com/Coin-OpCollection/Distribution-OpenFPGA/33e0dc5f8d70b4f75b3fcdf62c5131f4b71d66e0/Releases/pram0d.zunit.zip"
+     "label": "Pocket 1.0.2",
+     "url": "https://raw.githubusercontent.com/Coin-OpCollection/Distribution-OpenFPGA/b8100cbff36bb37d5ce915a49ee0a242dae8ce34/Releases/pram0d.zunit.zip"
     },
     "links": [
      {
@@ -81792,7 +81784,7 @@
      "pocket:pram0d-smashtv"
     ],
     "name": "pram0d.smashtv (Pocket)",
-    "game": "Smash T.V.",
+    "game": "Smash TV",
     "categories": [
      "Analogue Pocket"
     ],
@@ -81805,16 +81797,16 @@
      "host": "github",
      "path": "Coin-OpCollection/Distribution-OpenFPGA"
     },
-    "description": "openFPGA arcade core · Williams 1990",
+    "description": "openFPGA arcade core · pram0d 2024",
     "developer": "pram0d",
     "targets": [
      "Analogue Pocket"
     ],
-    "catalogVersion": "1.0.6",
+    "catalogVersion": "1.0.7",
     "catalogDate": "2024-09-22",
     "download": {
-     "label": "Pocket 1.0.6",
-     "url": "https://raw.githubusercontent.com/Coin-OpCollection/Distribution-OpenFPGA/4ffe049ed5fff218254febe3d3feba0a2dcd3b37/Releases/pram0d.yunit.zip"
+     "label": "Pocket 1.0.7",
+     "url": "https://raw.githubusercontent.com/Coin-OpCollection/Distribution-OpenFPGA/b8100cbff36bb37d5ce915a49ee0a242dae8ce34/Releases/pram0d.yunit.zip"
     },
     "links": [
      {
@@ -81928,11 +81920,11 @@
     "targets": [
      "Analogue Pocket"
     ],
-    "catalogVersion": "1.0.6",
+    "catalogVersion": "1.0.7",
     "catalogDate": "2024-12-25",
     "download": {
-     "label": "Pocket 1.0.6",
-     "url": "https://raw.githubusercontent.com/Coin-OpCollection/Distribution-OpenFPGA/4ffe049ed5fff218254febe3d3feba0a2dcd3b37/Releases/pram0d.yunit.zip"
+     "label": "Pocket 1.0.7",
+     "url": "https://raw.githubusercontent.com/Coin-OpCollection/Distribution-OpenFPGA/b8100cbff36bb37d5ce915a49ee0a242dae8ce34/Releases/pram0d.yunit.zip"
     },
     "links": [
      {
@@ -81968,11 +81960,11 @@
     "targets": [
      "Analogue Pocket"
     ],
-    "catalogVersion": "1.0.6",
+    "catalogVersion": "1.0.7",
     "catalogDate": "2024-11-28",
     "download": {
-     "label": "Pocket 1.0.6",
-     "url": "https://raw.githubusercontent.com/Coin-OpCollection/Distribution-OpenFPGA/4ffe049ed5fff218254febe3d3feba0a2dcd3b37/Releases/pram0d.yunit.zip"
+     "label": "Pocket 1.0.7",
+     "url": "https://raw.githubusercontent.com/Coin-OpCollection/Distribution-OpenFPGA/b8100cbff36bb37d5ce915a49ee0a242dae8ce34/Releases/pram0d.yunit.zip"
     },
     "links": [
      {
@@ -82008,11 +82000,11 @@
     "targets": [
      "Analogue Pocket"
     ],
-    "catalogVersion": "1.0.6",
+    "catalogVersion": "1.0.7",
     "catalogDate": "2024-12-25",
     "download": {
-     "label": "Pocket 1.0.6",
-     "url": "https://raw.githubusercontent.com/Coin-OpCollection/Distribution-OpenFPGA/4ffe049ed5fff218254febe3d3feba0a2dcd3b37/Releases/pram0d.yunit.zip"
+     "label": "Pocket 1.0.7",
+     "url": "https://raw.githubusercontent.com/Coin-OpCollection/Distribution-OpenFPGA/b8100cbff36bb37d5ce915a49ee0a242dae8ce34/Releases/pram0d.yunit.zip"
     },
     "links": [
      {
@@ -82087,11 +82079,11 @@
     "targets": [
      "Analogue Pocket"
     ],
-    "catalogVersion": "1.0.6",
+    "catalogVersion": "1.0.7",
     "catalogDate": "2024-11-02",
     "download": {
-     "label": "Pocket 1.0.6",
-     "url": "https://raw.githubusercontent.com/Coin-OpCollection/Distribution-OpenFPGA/4ffe049ed5fff218254febe3d3feba0a2dcd3b37/Releases/pram0d.yunit.zip"
+     "label": "Pocket 1.0.7",
+     "url": "https://raw.githubusercontent.com/Coin-OpCollection/Distribution-OpenFPGA/b8100cbff36bb37d5ce915a49ee0a242dae8ce34/Releases/pram0d.yunit.zip"
     },
     "links": [
      {
@@ -82127,11 +82119,11 @@
     "targets": [
      "Analogue Pocket"
     ],
-    "catalogVersion": "1.0.6",
+    "catalogVersion": "1.0.7",
     "catalogDate": "2024-11-16",
     "download": {
-     "label": "Pocket 1.0.6",
-     "url": "https://raw.githubusercontent.com/Coin-OpCollection/Distribution-OpenFPGA/4ffe049ed5fff218254febe3d3feba0a2dcd3b37/Releases/pram0d.yunit.zip"
+     "label": "Pocket 1.0.7",
+     "url": "https://raw.githubusercontent.com/Coin-OpCollection/Distribution-OpenFPGA/b8100cbff36bb37d5ce915a49ee0a242dae8ce34/Releases/pram0d.yunit.zip"
     },
     "links": [
      {
