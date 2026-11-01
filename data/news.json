@@ -1,6 +1,61 @@
 {
  "articles": [
   {
+   "title": "Super Smash Bros Brawl Recomp Out NOW! With Online and Mod Support",
+   "url": "https://www.youtube.com/watch?v=qt5A4cIUVb8",
+   "date": "2026-11-01T14:00:33.000Z",
+   "source": "YouTube: Video Game Esoterica",
+   "outlet": "YouTube: Video Game Esoterica",
+   "summary": "SUPPORT THE CHANNEL : http://www.patreon.com/VideoGameEsoterica A Super Smash Bros Brawl PC port / Super Smash Bros brawl Recomp is out now! More Nintendo PC ports! yay Enough about the Twilight Princess PC port Dusklight and Courage Reborn (ok both are epic and I will talk more about Zelda PC port fun soon)...it's time for a Super Paper Mario recomp! Because as far as new Mario games go Nintendo ",
+   "image": "https://i2.ytimg.com/vi/qt5A4cIUVb8/hqdefault.jpg",
+   "text": "Super Smash Bros Brawl Recomp Out NOW! With Online and Mod Support SUPPORT THE CHANNEL : http://www.patreon.com/VideoGameEsoterica A Super Smash Bros Brawl PC port / Super Smash Bros brawl Recomp is out now! More Nintendo PC ports! yay Enough about the Twilight Princess PC port Dusklight and Courage Reborn (ok both are epic and I will talk more about Zelda PC port fun soon)...it's time for a Super Paper Mario recomp! Because as far as new Mario games go Nintendo has given us NO info...so let's have another Nintendo PC port instead! Check it out here: youll have to find it yourself. Its by josiahg2502-glitch on GitHub - Love VGE Questions? Comments? Just leave them below and I will do my best to answer each and every one of them! http://www.patreon.com/VideoGameEsoterica VGE",
+   "repos": [],
+   "firstSeen": "2026-11-01T15:19:44.427Z"
+  },
+  {
+   "title": "“No PC while you play”: Fan-made Unreal VR ports reach Steam Frame",
+   "url": "https://mixed-news.com/en/unreal-gold-tournament-vr-steam-frame-quest/",
+   "date": "2026-11-01T13:47:00.000Z",
+   "source": "MIXED",
+   "outlet": "MIXED",
+   "summary": "Two classic Unreal games can now be played in VR on Steam Frame and Quest 3 without a gaming PC running the game. Independent developer Game Or Die has released unofficial VR conversions of Unreal Gold and Unreal Tournament (1999), with PC VR versions available too. Both ports support online play between the PC and ... “No PC while you play”: Fan-made Unreal VR ports reach Steam Frame The post “No",
+   "image": null,
+   "text": "“No PC while you play”: Fan-made Unreal VR ports reach Steam Frame Two classic Unreal games can now be played in VR on Steam Frame and Quest 3 without a gaming PC running the game. Independent developer Game Or Die has released unofficial VR conversions of Unreal Gold and Unreal Tournament (1999), with PC VR versions available too. Both ports support online play between the PC and ... “No PC while you play”: Fan-made Unreal VR ports reach Steam Frame The post “No PC while you play”: Fan-made Unreal VR ports reach Steam Frame appeared first on MIXED News .",
+   "repos": [
+    "github:GameOrDie007/Unreal-Gold-VR",
+    "github:GameOrDie007/Unreal-Tournament-99-VR"
+   ],
+   "firstSeen": "2026-11-01T15:19:44.427Z"
+  },
+  {
+   "title": "S.T.A.L.K.E.R.: Shadow of Chernobyl VR Performance / New VR Mod with 6DOF Motion Controls / PCVR",
+   "url": "https://www.youtube.com/watch?v=Fg-25rQGojQ",
+   "date": "2026-11-01T13:12:20.000Z",
+   "source": "YouTube: NotAGameAddict",
+   "outlet": "YouTube: NotAGameAddict",
+   "summary": "00:00 - How to install the mod 00:56 - Graphics and VR settings 02:18 - Cutscene 02:48 - VR gameplay 08:48 - VR gameplay with FPS overlay S.T.A.L.K.E.R.-VR mod made by Antonchikda - https://github.com/antonchikda/S.T.A.L.K.E.R.-VR S.T.A.L.K.E.R.: Shadow of Chernobyl - https://store.steampowered.com/app/4500/STALKER_Shadow_of_Chernobyl/",
+   "image": "https://i3.ytimg.com/vi/Fg-25rQGojQ/hqdefault.jpg",
+   "text": "S.T.A.L.K.E.R.: Shadow of Chernobyl VR Performance / New VR Mod with 6DOF Motion Controls / PCVR 00:00 - How to install the mod 00:56 - Graphics and VR settings 02:18 - Cutscene 02:48 - VR gameplay 08:48 - VR gameplay with FPS overlay S.T.A.L.K.E.R.-VR mod made by Antonchikda - https://github.com/antonchikda/S.T.A.L.K.E.R.-VR S.T.A.L.K.E.R.: Shadow of Chernobyl - https://store.steampowered.com/app/4500/STALKER_Shadow_of_Chernobyl/",
+   "repos": [
+    "github:antonchikda/S.T.A.L.K.E.R.-VR"
+   ],
+   "firstSeen": "2026-11-01T15:19:44.427Z"
+  },
+  {
+   "title": "Lenovo's 'encrypted' fingerprint USB drive is just an unencrypted SD card in a fancy case",
+   "url": "https://www.tomshardware.com/tech-industry/cyber-security/lenovo-fingerprint-usb-stick-sold-as-aes-256-encrypted-had-a-plain-sd-card-inside-ai-assisted-follow-up-finds-a-backdoor-and-hardcoded-keys-in-other-secure-usb-products",
+   "date": "2026-11-01T13:00:00.000Z",
+   "source": "Tom's Hardware",
+   "outlet": "Tom's Hardware",
+   "summary": "Lenovo’s ThinkPlus FU100 fingerprint USB drive held an unencrypted SD card, and Codex found fixed keys in other ‘secure’ USB products.",
+   "image": "https://cdn.mos.cms.futurecdn.net/m5tLgsKmfPcc5fZ3Ygd8Wc-1920-80.jpg",
+   "text": "Lenovo's 'encrypted' fingerprint USB drive is just an unencrypted SD card in a fancy case Security researcher Xusheng Li found that a Lenovo ThinkPlus FU100 fingerprint USB stick, sold as an AES-256-encrypted device for data security, ended up being just a plain SD card internally, HackingPassion reports. The fingerprint reader only enabled the USB connection, and nothing on the card was actually encrypted. An AI-assisted follow-up last week discovered what Li calls backdoor accounts on another maker’s drive, as well as hardcoded keys in other supposedly secure USB storage products. Go deeper with TH Premium: AI and data centers (Image credit: Microsoft) The data center cooling state of play The custom AI ASIC state of play America’s AI chip rules keep changing — and the rest of the world is paying the price GTC 2026: Ian Buck press Q&A transcript — VP of Hyperscale and HPC speaks out on shelving CPX and shipping LPU decode this year Demand for data center CPUs has surged, and AI agents are responsible The FU100 is “just an SD card in a fancy case,” Li said in a March conference talk. It is, as a result, trivial for anyone with physical access to get to the drive’s data. One of his takeaways: “‘Hardware security’ can be pure marketing.” This isn’t the first time drive makers’ own encryption has failed , and it won’t be the last. The original ThinkPlus FU100 analysis happened last year, with an interim fix using epoxy over the card. A later fix by Lenovo, put out early this ye",
+   "repos": [
+    "github:xusheng6/breaking_encrypted_USB_drives_with_TTD"
+   ],
+   "firstSeen": "2026-11-01T15:19:44.427Z"
+  },
+  {
    "title": "“Multiplayer open beta”: Titanfall 2’s VR mod lets pilots face off online",
    "url": "https://mixed-news.com/en/titanfall-2-vr-mod-multiplayer-open-beta/",
    "date": "2026-11-01T02:48:00.000Z",
@@ -15,6 +70,18 @@
    "firstSeen": "2026-11-01T06:27:40.448Z"
   },
   {
+   "title": "The Ultimate Doom (Classic) VR Experience / New VR Mod with 6DOF Motion Controls / Quest 3 PCVR",
+   "url": "https://www.youtube.com/watch?v=vo6PMLzebaQ",
+   "date": "2026-11-01T02:35:23.000Z",
+   "source": "YouTube: NotAGameAddict",
+   "outlet": "YouTube: NotAGameAddict",
+   "summary": "00:00 - Launcher and game overview 00:51 - Doom 2024 re-release 02:01 - Brutal Doom II 03:11 - Final Doom - TNT 04:05 - PSX Final Doom 05:07 - Heretic 2025 Enhanced 06:08 - Hexen - Deathwings 2025 07:14 - Ancient Aliens 08:17 - Brutal Wolfenstein 09:32 - Castlevania - Simon's Destiny 10:36 - Duke Nukem 3D TC 11:42 - Blasphemer This mod was made by Game Or Die - https://gameordie.net/mods",
+   "image": "https://i3.ytimg.com/vi/vo6PMLzebaQ/hqdefault.jpg",
+   "text": "The Ultimate Doom (Classic) VR Experience / New VR Mod with 6DOF Motion Controls / Quest 3 PCVR 00:00 - Launcher and game overview 00:51 - Doom 2024 re-release 02:01 - Brutal Doom II 03:11 - Final Doom - TNT 04:05 - PSX Final Doom 05:07 - Heretic 2025 Enhanced 06:08 - Hexen - Deathwings 2025 07:14 - Ancient Aliens 08:17 - Brutal Wolfenstein 09:32 - Castlevania - Simon's Destiny 10:36 - Duke Nukem 3D TC 11:42 - Blasphemer This mod was made by Game Or Die - https://gameordie.net/mods",
+   "repos": [],
+   "firstSeen": "2026-11-01T15:19:44.427Z"
+  },
+  {
    "title": "After almost a decade of work, Alien: Isolation mod tools hit 1.0 with support for 'full custom maps, missions, modes, characters, weapons, animations, sounds, models, textures, and more'",
    "url": "https://www.pcgamer.com/games/horror/after-almost-a-decade-of-work-alien-isolation-mod-tools-hit-1-0-with-support-for-full-custom-maps-missions-modes-characters-weapons-animations-sounds-models-textures-and-more/",
    "date": "2026-11-01T01:30:27.000Z",
@@ -25,6 +92,74 @@
    "text": "After almost a decade of work, Alien: Isolation mod tools hit 1.0 with support for 'full custom maps, missions, modes, characters, weapons, animations, sounds, models, textures, and more' Nine years ago, Matt Filer officially began work on the OpenCAGE mod tools for Alien: Isolation—following two-and-a-half years of work on prototype versions. During that time the tools have been available for anyone to use, which is part of the reason Creative Assembly's legendarily scary horror game has a variety of mods already. (Though the VR mod works differently, since it's actually enabling an unfinished mode that shipped with the game.) OpenCAGE has finally made it to version 1.0, which can be downloaded on Steam . Filer proudly told us his mod tools have \"now reached the point where you're able to implement full custom maps, missions, modes, characters, weapons, animations, sounds, models, textures, and more!\" As a demonstration of what's possible, Filer is making a Halo-themed custom map. \"It features custom cinematics, enemies, weapons, all on a brand new map with a custom HUD,\" he said. \"It has reached a point now of being able to make full total conversion mods, which has always been my end goal, so it's cool to finally be here!\" Alien: Isolation just won our scariest videogame poll , and I consider it a well-earned victory. It's one of the few games I've seen frighten even people who aren't normally bothered by horror thanks to how unpredictable and relentless the xenomorph is w",
    "repos": [],
    "firstSeen": "2026-11-01T06:27:40.448Z"
+  },
+  {
+   "title": "Resident Evil The Umbrella Chronicles Recomp Out NOW!",
+   "url": "https://www.youtube.com/watch?v=3RKfPsTa5XQ",
+   "date": "2026-11-01T01:00:08.000Z",
+   "source": "YouTube: Video Game Esoterica",
+   "outlet": "YouTube: Video Game Esoterica",
+   "summary": "SUPPORT THE CHANNEL : http://www.patreon.com/VideoGameEsoterica A Resident Evil: The Umbrella Chronicles PC port / Resident Evil: The Umbrella Chronicles Recomp is out now! More Nintendo PC ports! yay....especially horror gaming and Wii recomps! Enough about the Twilight Princess PC port Dusklight and Courage Reborn (ok both are epic and I will talk more about Zelda PC port fun soon)...it's time f",
+   "image": "https://i4.ytimg.com/vi/3RKfPsTa5XQ/hqdefault.jpg",
+   "text": "Resident Evil The Umbrella Chronicles Recomp Out NOW! SUPPORT THE CHANNEL : http://www.patreon.com/VideoGameEsoterica A Resident Evil: The Umbrella Chronicles PC port / Resident Evil: The Umbrella Chronicles Recomp is out now! More Nintendo PC ports! yay....especially horror gaming and Wii recomps! Enough about the Twilight Princess PC port Dusklight and Courage Reborn (ok both are epic and I will talk more about Zelda PC port fun soon)...it's time for a Resident Evil recomp! Because as far as new Mario games go Nintendo has given us NO info...so let's have another Nintendo PC port instead! Check it out here: https://github.com/solleo95/reuc-recomp Questions? Comments? Just leave them below and I will do my best to answer each and every one of them! http://www.patreon.com/VideoGameEsoterica VGE",
+   "repos": [
+    "github:solleo95/reuc-recomp"
+   ],
+   "firstSeen": "2026-11-01T15:19:44.427Z"
+  },
+  {
+   "title": "I Put Every Classic Doom in VR (and It's the Ultimate Version)",
+   "url": "https://www.youtube.com/watch?v=VgXECAWzyDc",
+   "date": "2026-10-31T23:56:56.000Z",
+   "source": "YouTube: Game Or Die",
+   "outlet": "YouTube: Game Or Die",
+   "summary": "Doom VR is a free PC VR mod: Doom, Doom II, Final Doom, Doom 64, Heretic, Hexen, Strife and dozens of megawads, with 3D hands and guns, all set up in one click. Happy Halloween! Download (free): https://gameordie.net/mods GitHub release: https://github.com/GameOrDie007/Doom-VR/releases/latest Get an email when each new VR port ships (free, mods are never paywalled): https://www.patreon.com/cw/Game",
+   "image": "https://i3.ytimg.com/vi/VgXECAWzyDc/hqdefault.jpg",
+   "text": "I Put Every Classic Doom in VR (and It's the Ultimate Version) Doom VR is a free PC VR mod: Doom, Doom II, Final Doom, Doom 64, Heretic, Hexen, Strife and dozens of megawads, with 3D hands and guns, all set up in one click. Happy Halloween! Download (free): https://gameordie.net/mods GitHub release: https://github.com/GameOrDie007/Doom-VR/releases/latest Get an email when each new VR port ships (free, mods are never paywalled): https://www.patreon.com/cw/GameOrDie Join the Game Or Die Discord: https://discord.com/invite/tZdccWFpAc You need: Windows 10 or 11, a PC VR headset (Quest over Virtual Desktop or Link, Steam Frame, Index and more), and your own copies of the games on Steam or GOG. The free games and megawads need nothing. If Windows says \"Windows protected your PC\", click More info, then Run anyway. CHAPTERS 00:00 Intro 00:24 Every game in one picker 01:28 3D hands, 3D guns and health on your wrist 02:38 Why I made Doom VR 03:48 Shotgun reload and two hands on the gun 04:25 Switch Game: Doom 2024 re-release and Sigil 05:03 Doom II and the 3D chainsaw 05:50 Brutal Doom and the weapon wheel 06:27 Doom 64 08:11 Brutal Doom 64 08:55 Megawads and more 10:08 Heretic and Hexen 13:08 One click install 13:42 Classic or Modern style 15:38 Chex Quest 17:29 Strife 18:57 Brutal Doom and the Game Tome Doom, Doom II and Final Doom by id Software. Heretic and Hexen by Raven Software. Strife by Rogue Entertainment. Doom 64 by Midway and Nightdive Studios. Built on UZDoom (and ZDoom an",
+   "repos": [
+    "github:GameOrDie007/Doom-VR"
+   ],
+   "firstSeen": "2026-11-01T15:19:44.427Z"
+  },
+  {
+   "title": "Trapped With Your Virtual Girlfriend - MiSide VR Mod - 6DOF Headset & Motion Controller Tracking",
+   "url": "https://www.youtube.com/watch?v=HNuUfSIYlkc",
+   "date": "2026-10-31T23:56:25.000Z",
+   "source": "YouTube: FastLawyer",
+   "outlet": "YouTube: FastLawyer",
+   "summary": "I bought this game. MiSide can now be played in Virtual Reality with the latest FREE VR mod! MiSide is a psychological horror adventure game. Played on the Meta Quest 3 using Virtual Desktop on my RTX 5090. You can purchase game on Steam here: https://store.steampowered.com/app/2527500/MiSide/ Thank you GlitchTest51 for this wonderful mod! FREE VR Mod download here: https://github.com/Glitchtest51",
+   "image": "https://i1.ytimg.com/vi/HNuUfSIYlkc/hqdefault.jpg",
+   "text": "Trapped With Your Virtual Girlfriend - MiSide VR Mod - 6DOF Headset & Motion Controller Tracking I bought this game. MiSide can now be played in Virtual Reality with the latest FREE VR mod! MiSide is a psychological horror adventure game. Played on the Meta Quest 3 using Virtual Desktop on my RTX 5090. You can purchase game on Steam here: https://store.steampowered.com/app/2527500/MiSide/ Thank you GlitchTest51 for this wonderful mod! FREE VR Mod download here: https://github.com/Glitchtest51/MiSide_VR Played version 0.9.0",
+   "repos": [
+    "github:Glitchtest51/MiSide_VR"
+   ],
+   "firstSeen": "2026-11-01T15:19:44.427Z"
+  },
+  {
+   "title": "Gears of War: E-Day VR Performance / New VR Mod with 6DOF Motion Controls / Quest 3 + RTX 4080 S",
+   "url": "https://www.youtube.com/watch?v=adSZKpRvo_8",
+   "date": "2026-10-31T23:41:38.000Z",
+   "source": "YouTube: NotAGameAddict",
+   "outlet": "YouTube: NotAGameAddict",
+   "summary": "00:00 - VR gameplay with FPS overlay 04:58 - VR gameplay 09:38 - VR gameplay with OFXR frame generation - 90 FPS cap 14:14 - VR and graphics settings Gears of War: E-Day VR (Early Access) mod made by Paultaran00 - https://github.com/paultaran00/GoWEDay-VR Gears of War: E-Day - https://store.steampowered.com/app/3010850/Gears_of_War_EDay/",
+   "image": "https://i2.ytimg.com/vi/adSZKpRvo_8/hqdefault.jpg",
+   "text": "Gears of War: E-Day VR Performance / New VR Mod with 6DOF Motion Controls / Quest 3 + RTX 4080 S 00:00 - VR gameplay with FPS overlay 04:58 - VR gameplay 09:38 - VR gameplay with OFXR frame generation - 90 FPS cap 14:14 - VR and graphics settings Gears of War: E-Day VR (Early Access) mod made by Paultaran00 - https://github.com/paultaran00/GoWEDay-VR Gears of War: E-Day - https://store.steampowered.com/app/3010850/Gears_of_War_EDay/",
+   "repos": [
+    "github:paultaran00/GoWEDay-VR"
+   ],
+   "firstSeen": "2026-11-01T15:19:44.427Z"
+  },
+  {
+   "title": "Experience Cosmic Horror as a Penguin #penguincolony #cosmichorror #horror #hplovecraft #vr #vrmods",
+   "url": "https://www.youtube.com/shorts/PrJfju463N4",
+   "date": "2026-10-31T23:23:49.000Z",
+   "source": "YouTube: FastLawyer",
+   "outlet": "YouTube: FastLawyer",
+   "summary": "Playing Penguin Colony in VR with the latest FREE VR Mod from King EJ on the Meta Quest 3 (PCVR).",
+   "image": "https://i1.ytimg.com/vi/PrJfju463N4/hqdefault.jpg",
+   "text": "Experience Cosmic Horror as a Penguin #penguincolony #cosmichorror #horror #hplovecraft #vr #vrmods Playing Penguin Colony in VR with the latest FREE VR Mod from King EJ on the Meta Quest 3 (PCVR).",
+   "repos": [],
+   "firstSeen": "2026-11-01T15:19:44.427Z"
   },
   {
    "title": "Medal of Honor Warfighter VR Performance / New VR Mod with 6DOF Motion Controls / Quest 3 PCVR",
@@ -39,6 +174,32 @@
     "github:CaptainBrannigan/WarfighterVR"
    ],
    "firstSeen": "2026-10-31T23:29:04.947Z"
+  },
+  {
+   "title": "Odin Sphere PS4 PC Port Out NOW! It Happened",
+   "url": "https://www.youtube.com/watch?v=_c3ECjgxs-U",
+   "date": "2026-10-31T21:00:23.000Z",
+   "source": "YouTube: Video Game Esoterica",
+   "outlet": "YouTube: Video Game Esoterica",
+   "summary": "SUPPORT THE CHANNEL : http://www.patreon.com/VideoGameEsoterica and just like that another PS4 PC port is out; a Odin Sphere PC port / Odin Sphere Leifthrasir PC port port! gotta love it...more PS4 PC ports are here AnyPS5 has PS5 \"recomps\" covered...but what about PS4 PC ports? and PS4 recomps? Now we have a Driveclub PC port that will do 4K60 or even higher frame rates! Driveclub on pc after som",
+   "image": "https://i4.ytimg.com/vi/_c3ECjgxs-U/hqdefault.jpg",
+   "text": "Odin Sphere PS4 PC Port Out NOW! It Happened SUPPORT THE CHANNEL : http://www.patreon.com/VideoGameEsoterica and just like that another PS4 PC port is out; a Odin Sphere PC port / Odin Sphere Leifthrasir PC port port! gotta love it...more PS4 PC ports are here AnyPS5 has PS5 \"recomps\" covered...but what about PS4 PC ports? and PS4 recomps? Now we have a Driveclub PC port that will do 4K60 or even higher frame rates! Driveclub on pc after someone decompiled P.T. (the cancelled Silent Hill game playable trailer) and ported it to PC...and also the Bloodborne PC port, the Uncharted: The Nathan Drake Collection PC port, the Shadow of the Colossus PC port...and more! We have talked a lot about retro gaming recomps and retro gaming PC ports on the channel along with PS5 emulation improvements with KytyPS5 and SharpEmu...but today its all about PS4! Check it out: https://github.com/saulob/odin-sphere-leifthrasir-pc Questions? Comments? Just leave them below and I will do my best to answer each and every one of them! http://www.patreon.com/VideoGameEsoterica You can follow us at IG : ChicagoGameCollector , or join our Discord Server : https://discord.gg/qhsbXgK4M2",
+   "repos": [
+    "github:saulob/odin-sphere-leifthrasir-pc"
+   ],
+   "firstSeen": "2026-11-01T15:19:44.427Z"
+  },
+  {
+   "title": "MiSTer FPGA Accuracy Compared with MAME and Original Arcade PCBs!, Recomps, Ports & More - 378",
+   "url": "https://www.youtube.com/watch?v=cUrcB0TOM64",
+   "date": "2026-10-31T20:00:00.000Z",
+   "source": "YouTube: Pixel Cherry Ninja",
+   "outlet": "YouTube: Pixel Cherry Ninja",
+   "summary": "Ways to Support the Channel (some affiliate links) EARLY ACCESS TO NEWS VIDEOS AND OTHER EXCLUSIVES https://www.youtube.com/channel/UCEozS0uaZibXKTQSu10XgSw/join https://www.patreon.com/PixelCherryNinja Buy a FightBox Product USE CODE \"PixelCherryNinja\" for 10% OFF https://fightboxarcade.com/ Buy a Octopus TR Fightstick https://www.trfightstick.com/?ref=PCN Click link then use code \"PCN\" for $25 O",
+   "image": "https://i4.ytimg.com/vi/cUrcB0TOM64/hqdefault.jpg",
+   "text": "MiSTer FPGA Accuracy Compared with MAME and Original Arcade PCBs!, Recomps, Ports & More - 378 Ways to Support the Channel (some affiliate links) EARLY ACCESS TO NEWS VIDEOS AND OTHER EXCLUSIVES https://www.youtube.com/channel/UCEozS0uaZibXKTQSu10XgSw/join https://www.patreon.com/PixelCherryNinja Buy a FightBox Product USE CODE \"PixelCherryNinja\" for 10% OFF https://fightboxarcade.com/ Buy a Octopus TR Fightstick https://www.trfightstick.com/?ref=PCN Click link then use code \"PCN\" for $25 Off Buy a Morph2K https://www.pixelfx.co/product-page/morph-2k-analog-video-scaler?ref=PCN Buy a Zaparoo product (10% off) https://shop.zaparoo.com/discount/PixelCherryNinja or just enter code \"PixelCherryNinja\" Buy an MC BlueBridge here https://ko-fi.com/anime0t4ku Join the Pixel Cherry Ninja Gaming Discord https://discord.gg/5W9pCy2nXa Find all the sources here https://pixelcherryninja.blogspot.com/ Special thanks to channel Patreon's Silver Ninja's - John Gillotte, Meathax, RGM, SmoMo, VimDiesel Bronze Ninja's - Alessandro Gulli, Alexander Facchini, Anime0t4ku, anthony, Bjamiork, craigpow, Curt Dittmer, Ernie D, Fizzun Dirtnap, Juan Alvarez, Keith F. Kelly, Nicholas Robertson-Muir, Niallquinn, ncc1701p, Peter Davis, Scott Dowdle, Tamariel, theypsilon, ZXFace A special Thanks to all Channel Members I Really Really Like PCN! - RGM - Random Gaming Moments https://www.youtube.com/channel/UCIm6dft7oV92-zMCn4A6g2Q I Really Like PCN! - Aleem Tayyab, Bjamiork, CryptoCSguy, IÃ±aki Etxebarria, Sile",
+   "repos": [],
+   "firstSeen": "2026-11-01T15:19:44.427Z"
   },
   {
    "title": "Fan-made decompilation ports are doing better remasters than the studios that own the games",
@@ -177,14 +338,14 @@
    "firstSeen": "2026-10-31T20:06:38.932Z"
   },
   {
-   "title": "Titanfall 2 VR Mod MULTIPLAYER! - The MOST fun you will EVER have in VR! + (Tips & Tricks!) #VRMod",
+   "title": "*UPDATED!* Titanfall 2 VR Mod MULTIPLAYER! - The MOST fun you'll EVER have in VR! + (Tips & Tricks!)",
    "url": "https://www.youtube.com/watch?v=wWOF8uxtQeY",
    "date": "2026-10-31T14:30:08.000Z",
    "source": "YouTube: Paradise Decay",
    "outlet": "YouTube: Paradise Decay",
    "summary": "►►Grab this INCREDIBLE MOD for FREE here: https://github.com/CircuitLord/CircuitLordVRModInstaller ►PayPal (Buy me a coffee!): paradisedecay@virginmedia.com ►Patreon: https://www.patreon.com/ParadiseDecay ►Discord: https://discordapp.com/invite/hBgUqYD ►PD Steam Curator Group: http://store.steampowered.com/curator/6659922-Paradise-Decay-Game-Reviews/ -----------------------------------------------",
    "image": "https://i4.ytimg.com/vi/wWOF8uxtQeY/hqdefault.jpg",
-   "text": "Titanfall 2 VR Mod MULTIPLAYER! - The MOST fun you will EVER have in VR! + (Tips & Tricks!) #VRMod ►►Grab this INCREDIBLE MOD for FREE here: https://github.com/CircuitLord/CircuitLordVRModInstaller ►PayPal (Buy me a coffee!): paradisedecay@virginmedia.com ►Patreon: https://www.patreon.com/ParadiseDecay ►Discord: https://discordapp.com/invite/hBgUqYD ►PD Steam Curator Group: http://store.steampowered.com/curator/6659922-Paradise-Decay-Game-Reviews/ --------------------------------------------------------------------------------------------- ☆ MY PC Specs: https://www.scan.co.uk/products/3xs-edge-rtx-intel-core-ultra-9-285k-32gb-ddr5-16gb-nvidia-rtx-5080-2tb-ssd-win-11? ☆ My Dedicated Router: https://www.amazon.co.uk/dp/B0B42GCD76?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_1&th=1 ☆ Meta Quest 3 ☆ GeForce RTX 5080 ☆ Windows 11, 64 bit ☆ Intel(R) Core(TM) Ultra 9 285K 3.70 GHz ☆ 32.0GB Ram #Titanfall #Titanfall2 #vr #VRMod #Quest3 #QuestCreatorPartner #quest3s #metaquest #metaquest3 #metaquest3s #quest3games #roomscale #steam #NativeVR #steamvr #Quest3 #valve #uevr #firstpersonshooter #mechcombat --------------------------------------------------------------- Thank you for watching the video! Please leave a 👍 Subscribe if you enjoy VR & hit the 🔔 🎵 - My NEW Digital Album 'Ai2': https://paradisedecay.bandcamp.com/album/ai2 👀➦ PayPal (Buy me a coffee!): paradisedecay@virginmedia.com 👾Patreon - https://www.patreon.com/ParadiseDecayTM 👕 PD Merch - https://paradise-decay-merch-s",
+   "text": "*UPDATED!* Titanfall 2 VR Mod MULTIPLAYER! - The MOST fun you'll EVER have in VR! + (Tips & Tricks!) ►►Grab this INCREDIBLE MOD for FREE here: https://github.com/CircuitLord/CircuitLordVRModInstaller ►PayPal (Buy me a coffee!): paradisedecay@virginmedia.com ►Patreon: https://www.patreon.com/ParadiseDecay ►Discord: https://discordapp.com/invite/hBgUqYD ►PD Steam Curator Group: http://store.steampowered.com/curator/6659922-Paradise-Decay-Game-Reviews/ --------------------------------------------------------------------------------------------- ☆ MY PC Specs: https://www.scan.co.uk/products/3xs-edge-rtx-intel-core-ultra-9-285k-32gb-ddr5-16gb-nvidia-rtx-5080-2tb-ssd-win-11? ☆ My Dedicated Router: https://www.amazon.co.uk/dp/B0B42GCD76?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_1&th=1 ☆ Meta Quest 3 ☆ GeForce RTX 5080 ☆ Windows 11, 64 bit ☆ Intel(R) Core(TM) Ultra 9 285K 3.70 GHz ☆ 32.0GB Ram #Titanfall #Titanfall2 #vr #VRMod #Quest3 #QuestCreatorPartner #quest3s #metaquest #metaquest3 #metaquest3s #quest3games #roomscale #steam #NativeVR #steamvr #Quest3 #valve #uevr #firstpersonshooter #mechcombat --------------------------------------------------------------- Thank you for watching the video! Please leave a 👍 Subscribe if you enjoy VR & hit the 🔔 🎵 - My NEW Digital Album 'Ai2': https://paradisedecay.bandcamp.com/album/ai2 👀➦ PayPal (Buy me a coffee!): paradisedecay@virginmedia.com 👾Patreon - https://www.patreon.com/ParadiseDecayTM 👕 PD Merch - https://paradise-decay-merch",
    "repos": [
     "github:CircuitLord/CircuitLordVRModInstaller"
    ],
@@ -1892,14 +2053,14 @@
    "firstSeen": "2026-10-25T13:15:03.549Z"
   },
   {
-   "title": "Become a Penguin in Antarctica in Penguin Colony VR Mod - Native Stereo, Head-Tracking, First-Person",
+   "title": "Experience Cosmic Horror as a Penguin - Penguin Colony VR Mod -Native Stereo, Head-Tracking, 1st POV",
    "url": "https://www.youtube.com/watch?v=v3_NWlZ6fFg",
    "date": "2026-10-25T01:25:13.000Z",
    "source": "YouTube: FastLawyer",
    "outlet": "YouTube: FastLawyer",
    "summary": "I bought this game! Penguin Colony is a cosmic horror game, through the eyes of a penguin. Played on the Meta Quest 3 using Virtual Desktop on my RTX 5090. You can purchase game on Steam here: https://store.steampowered.com/app/3695930/Penguin_Colony/ FREE VR Mod by King EJ here (WIP): https://github.com/King-EJ/Penguin-Colony-VR",
    "image": "https://i3.ytimg.com/vi/v3_NWlZ6fFg/hqdefault.jpg",
-   "text": "Become a Penguin in Antarctica in Penguin Colony VR Mod - Native Stereo, Head-Tracking, First-Person I bought this game! Penguin Colony is a cosmic horror game, through the eyes of a penguin. Played on the Meta Quest 3 using Virtual Desktop on my RTX 5090. You can purchase game on Steam here: https://store.steampowered.com/app/3695930/Penguin_Colony/ FREE VR Mod by King EJ here (WIP): https://github.com/King-EJ/Penguin-Colony-VR",
+   "text": "Experience Cosmic Horror as a Penguin - Penguin Colony VR Mod -Native Stereo, Head-Tracking, 1st POV I bought this game! Penguin Colony is a cosmic horror game, through the eyes of a penguin. Played on the Meta Quest 3 using Virtual Desktop on my RTX 5090. You can purchase game on Steam here: https://store.steampowered.com/app/3695930/Penguin_Colony/ FREE VR Mod by King EJ here (WIP): https://github.com/King-EJ/Penguin-Colony-VR",
    "repos": [
     "github:King-EJ/Penguin-Colony-VR"
    ],
@@ -2414,14 +2575,14 @@
    "firstSeen": "2026-10-23T22:25:39.434Z"
   },
   {
-   "title": "The Golden Age of VR Is Upon Us...",
+   "title": "VR Has Changed Forever And There's No Going Back...",
    "url": "https://www.youtube.com/watch?v=qTUEEDOUKB0",
    "date": "2026-10-23T17:32:23.000Z",
    "source": "YouTube: Gamertag VR",
    "outlet": "YouTube: Gamertag VR",
    "summary": "The VR modding space is exploding, with games like Titanfall 2, Resident Evil, Fallout, Batman Arkham City, Gears of War E-Day and more being brought into virtual reality. Some are even calling this the golden age of VR. But are these VR mods becoming genuinely playable games, or are we getting caught up in the hype? With AI accelerating development, modders racing to release projects and traditio",
    "image": "https://i2.ytimg.com/vi/qTUEEDOUKB0/hqdefault.jpg",
-   "text": "The Golden Age of VR Is Upon Us... The VR modding space is exploding, with games like Titanfall 2, Resident Evil, Fallout, Batman Arkham City, Gears of War E-Day and more being brought into virtual reality. Some are even calling this the golden age of VR. But are these VR mods becoming genuinely playable games, or are we getting caught up in the hype? With AI accelerating development, modders racing to release projects and traditional VR games seemingly struggling for attention, I wanted to discuss where VR gaming is heading, what makes a truly great VR mod and why I'm changing how I cover them on Gamertag VR. ⭐️How To Support The Channel and my Content: ⭐️Become a YouTube channel member with exclusive benefits: https://www.youtube.com/channel/UCnrAvt4i_2WV3yEKWyEUMlg/join ⭐️Sign up as aPatron with exclusive benefits: https://www.patreon.com/c/GamertagVR ⭐️Save 10% on all Meta Quest Games by using code ‘GTVR’ at the checkout ⭐️Grab some prescription lenses for your VR headsets Vr Rock and save 10% using code 'GTVR' https://www.vr-rock.com/?ref=gamertagvr ⭐️GFuel Energy and using my code 'GTVR' to save 20% on all your purchases at checkout👉 https://gfuel.com #VRMods #VRGaming #metaquest3 #questcreatorpartner",
+   "text": "VR Has Changed Forever And There's No Going Back... The VR modding space is exploding, with games like Titanfall 2, Resident Evil, Fallout, Batman Arkham City, Gears of War E-Day and more being brought into virtual reality. Some are even calling this the golden age of VR. But are these VR mods becoming genuinely playable games, or are we getting caught up in the hype? With AI accelerating development, modders racing to release projects and traditional VR games seemingly struggling for attention, I wanted to discuss where VR gaming is heading, what makes a truly great VR mod and why I'm changing how I cover them on Gamertag VR. ⭐️How To Support The Channel and my Content: ⭐️Become a YouTube channel member with exclusive benefits: https://www.youtube.com/channel/UCnrAvt4i_2WV3yEKWyEUMlg/join ⭐️Sign up as aPatron with exclusive benefits: https://www.patreon.com/c/GamertagVR ⭐️Save 10% on all Meta Quest Games by using code ‘GTVR’ at the checkout ⭐️Grab some prescription lenses for your VR headsets Vr Rock and save 10% using code 'GTVR' https://www.vr-rock.com/?ref=gamertagvr ⭐️GFuel Energy and using my code 'GTVR' to save 20% on all your purchases at checkout👉 https://gfuel.com #VRMods #VRGaming #metaquest3 #questcreatorpartner",
    "repos": [],
    "firstSeen": "2026-10-25T15:36:27.479Z"
   },
