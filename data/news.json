@@ -1,6 +1,40 @@
 {
  "articles": [
   {
+   "title": "Finding Xanadu: Inside a JRPG classic translation 15 years in the making",
+   "url": "https://readonlymemo.com/legend-of-xanadu-pc-engine-fan-translation-interview-making-of/",
+   "date": "2026-11-02T04:05:08.000Z",
+   "source": "ReadOnlyMemo",
+   "outlet": "ReadOnlyMemo",
+   "summary": "Plus this oversized issue features interviews for *two more* human-made fan translations that prove the world hasn't fully gone to slop.",
+   "image": "https://cdn.synaps.media/readonlymemo/content/images/2026/11/xanadu-header.png",
+   "text": "Finding Xanadu: Inside a JRPG classic translation 15 years in the making WHEW — this is a long one! When I started putting together this issue of ROM , I was seeing a lot of headlines and social media posts about stuff that, frankly, bummed me out. Surely exaggerated claims that it's joever for the Switch 2 (\"Nintendo's worst nightmare!\") because you can emulate it now (AI). A dozen new recomps a day (AI). A launcher for said recomps (AI). Play this or that in your browser (AI). Instead of trying to pick apart the kinda-yuck from the very-yuck, I decided to do something else this issue instead: ignore it all and write about something completely different. This week, even more than usual, is about carrying the torch for human ingenuity, steadfast effort, and collaboration. When I saw that three really noteworthy fan translations had all come out since last issue, I decided to feature them all, and speak to the people who made them without surrendering their brains. Hope you enjoy. The Big Three 1. Where nobody dared to go, the love that we came to know: They called it (The Legend of) Xanaduuuu In the span of two years from the summer of 2015 to 2017, a thread on the PC Engine Fans forum accrued more than 600 posts about The Legend of Xanadu II, a 1995 Nihon Falcom RPG that had proven a beast of a game to hack. Halfway through that span, though, Xanadu had seemingly been conquered, with most of the posts devoted to redoing the pixel art title screen with new English lettering t",
+   "repos": [
+    "gitlab:legend-of-xanadu-translation/legend-of-xanadu1-english",
+    "github:ChapuTranslations/NingyoNoRakuinEnglishPatch",
+    "github:pcsx-redux/pcsx-redux",
+    "github:lab313ru/ghidra_psx_ldr",
+    "github:romh-acking/time-twist-fds-en",
+    "github:sudgy/nintendo_translations",
+    "github:xemu-project/xemu",
+    "github:PCSX2/pcsx2",
+    "github:Retro-Remake/ConsoleMode_Distribution"
+   ],
+   "firstSeen": "2026-11-02T06:28:55.587Z"
+  },
+  {
+   "title": "Cheap FPGA Board Becomes Retro-Style Computer",
+   "url": "https://hackaday.com/2026/11/01/cheap-fpga-board-becomes-retro-style-computer/",
+   "date": "2026-11-02T00:00:00.000Z",
+   "source": "Hackaday",
+   "outlet": "Hackaday",
+   "summary": "The Tang Nano 9K is a cheap FPGA development board that can usually be acquired for around $15 or so. [ThePartsBin] has been experimenting with this hardware and figured out …read more",
+   "image": "https://hackaday.com/wp-content/uploads/2026/10/Screenshot-2026-11-01-171115-e1793513503988.png",
+   "text": "Cheap FPGA Board Becomes Retro-Style Computer The Tang Nano 9K is a cheap FPGA development board that can usually be acquired for around $15 or so. [ThePartsBin] has been experimenting with this hardware and figured out how to set it up as a retro-style computer. The board is based around the Gowin GW1NR-9C FPGA which only has 8,640 LUTs. However, that's enough to spin up a 36 MHz RISC-V CPU, and there's 8 MB of RAM on tap, along with HDMI, 48 kHz stereo audio output, two USB ports, and an SD card reader. Combine all that together, and you've got a machine capable of playing a whole raft of classic 1990s games. [ThePartsBin] ported Doom, Tyrian, System Shock and Ultima VII, all of which run at a playable speed at a tasty 720 x 480 resolution. The writeup does a great job of explaining what it took to actually implement these classic games on the platform. Tons of compromises were made along the way, but that's the engineering challenge, isn't it? If you're looking to play retro games, this is not really the fastest or cheapest way to do it. You could probably just emulate them on the machine you're using to read this very website. If you're trying to get to grips with a new FPGA board for the first time, though, projects like this can be a very useful learning experience indeed .",
+   "repos": [],
+   "firstSeen": "2026-11-02T06:28:55.587Z"
+  },
+  {
    "title": "NS2 Emulation Advances, Dino Crisis 3, Bloody Roar Extreme Ports, Moonwalker 32X, MiSTer Stuff - 379",
    "url": "https://www.youtube.com/watch?v=Yw9kzNZOKqM",
    "date": "2026-11-01T20:00:18.000Z",
@@ -1745,6 +1779,18 @@
    "text": "Xbox Knows Its Games Are Getting Recompiled For PC, And It's Impacting Their Future - Pure Xbox Xbox Knows Its Games Are Getting Recompiled For PC, And It's Impacting Their Future Pure Xbox",
    "repos": [],
    "firstSeen": "2026-10-26T21:06:11.803Z"
+  },
+  {
+   "title": "Recomp Store brings native ports of Xbox 360 and Nintendo 64 games to PC",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNb3pFYm44T2pQMjFfQ1N1bVIxMDhBa3hNWENvbFNmU1lJY2ZGNnhBZ1pHZFBjZkVnRU1EbWJrX2M0SE5WbjUxeGVkajFkdmg5cU9XOFJ6ZWhpYVFzVlNIc3hHNXAyUHZHZElDcWQ5czQ4bElTQWRQcEwwSFhMcVdxZFB1cDdrYTNzeDZWeDI3ZE9yNmlUelM5Q3o1SDhqa1ZOYmMydFZEX2dsdw?oc=5",
+   "date": "2026-10-26T16:05:28.000Z",
+   "source": "Google News",
+   "outlet": "GameGPU",
+   "summary": "",
+   "image": null,
+   "text": "Recomp Store brings native ports of Xbox 360 and Nintendo 64 games to PC - GameGPU Recomp Store brings native ports of Xbox 360 and Nintendo 64 games to PC GameGPU",
+   "repos": [],
+   "firstSeen": "2026-11-02T06:28:55.587Z"
   },
   {
    "title": "MiSTer Laggy – Lag Tester For MiSTer",

@@ -26970,7 +26970,7 @@
   ]
  },
  "quiver": {
-  "updatedAt": "2026-11-01T20:38:30.957Z",
+  "updatedAt": "2026-11-02T06:28:55.587Z",
   "projects": [
    {
     "id": "hk21x/007eon-recomp",
@@ -27251,7 +27251,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.2.0",
+    "catalogVersion": "v0.2.1",
     "links": [
      {
       "label": "Quiver",
@@ -27607,10 +27607,10 @@
     "description": "ACNHRecomp is a native PC port of Animal Crossing: New Horizons that translates the game's code to C++ and its graphics to Vulkan, offering in-game settings and controller support.",
     "developer": "Nycolazs",
     "targets": [
-     "Android",
-     "Linux",
      "macOS",
-     "Windows"
+     "Android",
+     "Windows",
+     "Linux"
     ],
     "catalogVersion": "v0.6.4",
     "links": [
@@ -27811,7 +27811,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v1.0.0",
+    "catalogVersion": "v1.0.1",
     "links": [
      {
       "label": "Quiver",
@@ -27954,6 +27954,38 @@
      }
     ],
     "image": "https://cdn2.steamgriddb.com/grid/7fa3bcf45d96b91c6a87d1433c045849.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
+    "id": "spacefarergames/aloneinthedarkrehaunted",
+    "aliases": [
+     "quiver:alone-in-the-dark-alone-in-the-dark-re-haunted"
+    ],
+    "name": "Alone In The Dark: Re-Haunted",
+    "game": "Alone in the Dark",
+    "categories": [
+     "PC"
+    ],
+    "type": "port",
+    "repo": {
+     "host": "github",
+     "path": "spacefarergames/AloneInTheDarkReHaunted"
+    },
+    "description": "A cross-platform engine reimplementation for the classic Alone in the Dark and Jack in the Dark, with modern remaster enhancements.",
+    "developer": "Jake Jackson",
+    "targets": [
+     "Windows"
+    ],
+    "catalogVersion": "2.4.0.1008",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/alone-in-the-dark-alone-in-the-dark-re-haunted"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/7819c43da586da2a42bc6eb70a6a0d14.png",
     "sources": [
      "quiver"
     ]
@@ -28460,6 +28492,39 @@
     ]
    },
    {
+    "id": "viewizard/astromenace",
+    "aliases": [
+     "quiver:astromenace"
+    ],
+    "name": "AstroMenace",
+    "game": "AstroMenace",
+    "categories": [
+     "PC"
+    ],
+    "type": "port",
+    "repo": {
+     "host": "github",
+     "path": "viewizard/astromenace"
+    },
+    "description": "AstroMenace is a space combat game with 15 levels, a variety of weapons, and spaceship upgrades.",
+    "developer": "viewizard",
+    "targets": [
+     "macOS",
+     "Windows"
+    ],
+    "catalogVersion": "v1.4.3",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/astromenace"
+     }
+    ],
+    "image": "https://github.com/viewizard/astromenace/blob/master/share/astromenace_128.png?raw=true",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
     "id": "shagg88/athelas",
     "aliases": [
      "quiver:the-return-of-the-king-athelas"
@@ -28479,7 +28544,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "1.7.6",
+    "catalogVersion": "1.7.8",
     "links": [
      {
       "label": "Quiver",
@@ -28856,6 +28921,38 @@
     ]
    },
    {
+    "id": "barthes-recompiled/barthes-launcher",
+    "aliases": [
+     "quiver:harry-potter-collection-barthes-launcher"
+    ],
+    "name": "Barthes Launcher",
+    "game": "Harry Potter and the Philosopher's Stone",
+    "categories": [
+     "Xbox"
+    ],
+    "type": "recompilation",
+    "repo": {
+     "host": "github",
+     "path": "Barthes-Recompiled/Barthes-Launcher"
+    },
+    "description": "Barthes Launcher is a PC port launcher for the Harry Potter Collection on Xbox, allowing installation, updates, and launching of game ports.",
+    "developer": "Barthes-Recompiled",
+    "targets": [
+     "Windows"
+    ],
+    "catalogVersion": "v1.1.0",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/harry-potter-collection-barthes-launcher"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/ba2c8d7cd18a8b24bb05d12bc5a60cac.jpg",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
     "id": "omegakatana92/battle-arena-toshinden-gb-recomp",
     "aliases": [
      "quiver:battle-arena-toshinden-battle-arena-toshinden-gb-recomp"
@@ -28988,6 +29085,39 @@
     ]
    },
    {
+    "id": "droogie/bbhost",
+    "aliases": [
+     "quiver:bloodborne-bbhost-2"
+    ],
+    "name": "bbhost",
+    "game": "Bloodborne",
+    "categories": [
+     "PlayStation 4"
+    ],
+    "type": "recompilation",
+    "repo": {
+     "host": "github",
+     "path": "droogie/bbhost"
+    },
+    "description": "bbhost is a translation layer that runs Bloodborne on Windows and Linux with any resolution and 60 fps and beyond.",
+    "developer": "droogie",
+    "targets": [
+     "Linux",
+     "Windows"
+    ],
+    "catalogVersion": "v0.2.22",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/bloodborne-bbhost-2"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/021399af062379408df9c358a1a83cdb.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
     "id": "inliner495/bblit-remaster",
     "aliases": [
      "quiver:bugs-bunny-lost-in-time-bblit-remaster"
@@ -29113,6 +29243,39 @@
      }
     ],
     "image": "https://cdn2.steamgriddb.com/grid/dc1d7b05f8192b7a502ddf6da1f1e907.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
+    "id": "regular-dev/biplanes-revival",
+    "aliases": [
+     "quiver:biplanes-biplanes-revival"
+    ],
+    "name": "Biplanes Revival",
+    "game": "BiPlanes",
+    "categories": [
+     "Mobile"
+    ],
+    "type": "reimplementation",
+    "repo": {
+     "host": "github",
+     "path": "regular-dev/biplanes-revival"
+    },
+    "description": "Biplanes Revival is a PC port of the 2004 mobile arcade game BiPlanes, featuring intense dogfights, challenging AI, and moddable sounds and sprites.",
+    "developer": "regular-dev",
+    "targets": [
+     "Windows",
+     "Linux"
+    ],
+    "catalogVersion": "v1.2.1",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/biplanes-biplanes-revival"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/888b81363eb06066cc22c44a49330a01.png",
     "sources": [
      "quiver"
     ]
@@ -29908,6 +30071,40 @@
     ]
    },
    {
+    "id": "tmewett/broguece",
+    "aliases": [
+     "quiver:brogue-brogue-ce"
+    ],
+    "name": "Brogue CE",
+    "game": "Brogue",
+    "categories": [
+     "PC"
+    ],
+    "type": "recompilation",
+    "repo": {
+     "host": "github",
+     "path": "tmewett/BrogueCE"
+    },
+    "description": "Brogue CE is a port of the roguelike dungeon crawler Brogue that adds bug fixes and quality of life features.",
+    "developer": "tmewett",
+    "targets": [
+     "Linux",
+     "macOS",
+     "Windows"
+    ],
+    "catalogVersion": "v1.15.1",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/brogue-brogue-ce"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/0c7e40bfa57cbf423a47c65fcd380c1a.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
     "id": "jorjbarbosa/broken-bond-recomp",
     "aliases": [
      "quiver:naruto-the-broken-bond-broken-bond-recomp"
@@ -30060,7 +30257,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v1.5.5.5",
+    "catalogVersion": "v1.5.6",
     "links": [
      {
       "label": "Quiver",
@@ -30618,7 +30815,7 @@
      "macOS",
      "Windows"
     ],
-    "catalogVersion": "2026-11-01",
+    "catalogVersion": "2026-11-02",
     "links": [
      {
       "label": "Quiver",
@@ -30653,7 +30850,7 @@
      "macOS",
      "Windows"
     ],
-    "catalogVersion": "cdda-experimental-2026-11-01-1411",
+    "catalogVersion": "cdda-experimental-2026-11-01-2158",
     "links": [
      {
       "label": "Quiver",
@@ -30823,7 +31020,7 @@
      "iOS",
      "macOS"
     ],
-    "catalogVersion": "v0.15.17",
+    "catalogVersion": "v0.15.18",
     "links": [
      {
       "label": "Quiver",
@@ -30888,7 +31085,7 @@
      "macOS",
      "Windows"
     ],
-    "catalogVersion": "v1.5.1",
+    "catalogVersion": "v1.6.0",
     "links": [
      {
       "label": "Quiver",
@@ -30968,6 +31165,39 @@
     ]
    },
    {
+    "id": "smokedoggy044/cod2-bro-native-loader",
+    "aliases": [
+     "quiver:call-of-duty-2-big-red-one-cod2-bro-native-loader"
+    ],
+    "name": "CoD2-BRO-Native-Loader",
+    "game": "Call of Duty 2: Big Red One",
+    "categories": [
+     "Xbox"
+    ],
+    "type": "recompilation",
+    "repo": {
+     "host": "github",
+     "path": "SmokeDoggy044/CoD2-BRO-Native-Loader"
+    },
+    "description": "CoD2-BRO-Native-Loader is a native PC port of Call of Duty 2: Big Red One for Windows and Linux that offers enhanced graphics and sound options.",
+    "developer": "SmokeDoggy044",
+    "targets": [
+     "Linux",
+     "Windows"
+    ],
+    "catalogVersion": "v0.2.1",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/call-of-duty-2-big-red-one-cod2-bro-native-loader"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/3e5589b2df55552e7716818b29ba2a2d.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
     "id": "frankhun88453/cod3recomp",
     "aliases": [
      "quiver:call-of-duty-3-cod3recomp"
@@ -31019,7 +31249,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "0.3.5",
+    "catalogVersion": "0.3.7",
     "links": [
      {
       "label": "Quiver",
@@ -31284,7 +31514,8 @@
     "targets": [
      "Linux",
      "macOS",
-     "Windows"
+     "Windows",
+     "Android"
     ],
     "catalogVersion": "v1.2.0",
     "links": [
@@ -31348,10 +31579,8 @@
     },
     "description": "Crackdown 2 Recomp is a native PC port of Crackdown 2 built on the ReXGlue SDK, booting to the title screen.",
     "developer": "Pacific City Recompiled",
-    "targets": [
-     "Windows"
-    ],
-    "catalogVersion": "v1.0.1",
+    "targets": [],
+    "catalogVersion": "",
     "links": [
      {
       "label": "Quiver",
@@ -31515,7 +31744,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v1.0.19",
+    "catalogVersion": "v1.1.0",
     "links": [
      {
       "label": "Quiver",
@@ -31580,7 +31809,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v1.10",
+    "catalogVersion": "v1.11",
     "links": [
      {
       "label": "Quiver",
@@ -31841,7 +32070,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "texture-studio-v1.0.0",
+    "catalogVersion": "v0.8.5-beta",
     "links": [
      {
       "label": "Quiver",
@@ -33330,7 +33559,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v1.0.0-dev.1",
+    "catalogVersion": "v1.0.0-dev.2",
     "links": [
      {
       "label": "Quiver",
@@ -33769,6 +33998,40 @@
     ]
    },
    {
+    "id": "stefanhendriks/dune-ii---the-maker",
+    "aliases": [
+     "quiver:dune-ii-dune-ii-the-maker"
+    ],
+    "name": "Dune II - The Maker",
+    "game": "Dune II",
+    "categories": [
+     "PC"
+    ],
+    "type": "reimplementation",
+    "repo": {
+     "host": "github",
+     "path": "stefanhendriks/Dune-II---The-Maker"
+    },
+    "description": "Dune II - The Maker is a Dune 2 remake and port for Windows, Linux, and macOS.",
+    "developer": "Stefan Hendriks",
+    "targets": [
+     "Linux",
+     "macOS",
+     "Windows"
+    ],
+    "catalogVersion": "bleeding-edge-c0eece28",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/dune-ii-dune-ii-the-maker"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/c685621259d9159ef463a7e1c8b142c3.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
     "id": "henricj/dunelegacy",
     "aliases": [
      "quiver:dune-ii-the-building-of-a-dynasty-dune-legacy"
@@ -33890,7 +34153,7 @@
      "macOS",
      "Linux"
     ],
-    "catalogVersion": "v0.5.0-ports-preview.27",
+    "catalogVersion": "v0.5.0-ports-preview.28",
     "links": [
      {
       "label": "Quiver",
@@ -33991,7 +34254,7 @@
      "Windows",
      "iOS"
     ],
-    "catalogVersion": "v0.7.0",
+    "catalogVersion": "v0.8.0",
     "links": [
      {
       "label": "Quiver",
@@ -34133,6 +34396,38 @@
      }
     ],
     "image": "https://cdn2.steamgriddb.com/grid/5a989d787772b7fd88c063aff8393d34.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
+    "id": "cerroverb/espgaluda2-recomp",
+    "aliases": [
+     "quiver:espgaluda-ii-black-label-espgaluda2-recomp-3"
+    ],
+    "name": "espgaluda2-recomp",
+    "game": "Espgaluda II Black Label",
+    "categories": [
+     "Xbox 360"
+    ],
+    "type": "recompilation",
+    "repo": {
+     "host": "github",
+     "path": "cerroverb/espgaluda2-recomp"
+    },
+    "description": "espgaluda2-recomp is a Linux port of Espgaluda II Black Label for Xbox 360 that reduces input lag and adds an English translation patch.",
+    "developer": "cerroverb",
+    "targets": [
+     "Linux"
+    ],
+    "catalogVersion": "v1.2.1",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/espgaluda-ii-black-label-espgaluda2-recomp-3"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/63f8c7b4d7ffc2c73e530663a34fa418.png",
     "sources": [
      "quiver"
     ]
@@ -34622,7 +34917,7 @@
      "Linux",
      "Android"
     ],
-    "catalogVersion": "v3.0",
+    "catalogVersion": "3.1",
     "links": [
      {
       "label": "Quiver",
@@ -34690,7 +34985,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v1.0.3",
+    "catalogVersion": "v1.0.4",
     "links": [
      {
       "label": "Quiver",
@@ -34985,7 +35280,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v0.2.3",
+    "catalogVersion": "v0.2.4",
     "links": [
      {
       "label": "Quiver",
@@ -35150,7 +35445,7 @@
      "iOS",
      "macOS"
     ],
-    "catalogVersion": "v0.10.41",
+    "catalogVersion": "v0.10.42",
     "links": [
      {
       "label": "Quiver",
@@ -35316,7 +35611,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "v0.5.1",
+    "catalogVersion": "v0.6.0",
     "links": [
      {
       "label": "Quiver",
@@ -35710,7 +36005,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v1.2",
+    "catalogVersion": "v1.3",
     "links": [
      {
       "label": "Quiver",
@@ -36120,6 +36415,40 @@
     ]
    },
    {
+    "id": "podulator/goldeneye64recomp",
+    "aliases": [
+     "quiver:goldeneye-007-goldeneye-007-recompiled"
+    ],
+    "name": "GoldenEye 007: Recompiled",
+    "game": "GoldenEye 007",
+    "categories": [
+     "Nintendo 64"
+    ],
+    "type": "recompilation",
+    "repo": {
+     "host": "github",
+     "path": "podulator/GoldenEye64Recomp"
+    },
+    "description": "GoldenEye 007: Recompiled is a native macOS and Linux port of GoldenEye 007 for Nintendo 64, built from a decompilation with keyboard and mouse support.",
+    "developer": "podulator",
+    "targets": [
+     "Linux",
+     "macOS",
+     "Windows"
+    ],
+    "catalogVersion": "v1.5.0",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/goldeneye-007-goldeneye-007-recompiled"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/a8aeb3defb0af21f5ce5fce698704605.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
     "id": "nikolaygorb/goldeneye007reloadedrecomp",
     "aliases": [
      "quiver:goldeneye-007-reloaded-goldeneye007reloadedrecomp"
@@ -36205,7 +36534,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "launcher-v0.2.0",
+    "catalogVersion": "launcher-v0.2.4",
     "links": [
      {
       "label": "Quiver",
@@ -36416,6 +36745,41 @@
     ]
    },
    {
+    "id": "matt-pulsipher/gt3-revisited",
+    "aliases": [
+     "quiver:gran-turismo-3-a-spec-gt3-revisited"
+    ],
+    "name": "GT3 Revisited",
+    "game": "Gran Turismo 3 A-Spec",
+    "categories": [
+     "PlayStation 2"
+    ],
+    "type": "reimplementation",
+    "repo": {
+     "host": "github",
+     "path": "matt-pulsipher/GT3-revisited"
+    },
+    "description": "GT3 Revisited is a native PC port of Gran Turismo 3 A-Spec for Windows, macOS, Linux, and Android, featuring online multiplayer and VR support.",
+    "developer": "matt-pulsipher",
+    "targets": [
+     "Android",
+     "Linux",
+     "macOS",
+     "Windows"
+    ],
+    "catalogVersion": "v0.5.0",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/gran-turismo-3-a-spec-gt3-revisited"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/9299763fc3fda74812d7650ed6b3d818.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
     "id": "moesuito/gt4-staticrecomp",
     "aliases": [
      "quiver:gran-turismo-4"
@@ -36502,7 +36866,7 @@
      "macOS",
      "Windows"
     ],
-    "catalogVersion": "gdul/v0.1.8",
+    "catalogVersion": "gdul/v0.1.10",
     "links": [
      {
       "label": "Quiver",
@@ -36634,7 +36998,7 @@
     "description": "Halo CE: Arena Evolved is a native PC port of Halo: Combat Evolved with modern quality of life features and new gameplay options.",
     "developer": "Peter Richardson",
     "targets": [],
-    "catalogVersion": "v0.7.2-beta",
+    "catalogVersion": "v0.7.3-beta",
     "links": [
      {
       "label": "Quiver",
@@ -36715,7 +37079,7 @@
    {
     "id": "middleducky/hp-cos-xbox-recomp",
     "aliases": [
-     "quiver:harry-potter-and-the-chamber-of-secrets-harry-potter-and-the-chamber-of-secrets-"
+     "quiver:harry-potter-and-the-chamber-of-secrets-recomp"
     ],
     "name": "Harry Potter and the Chamber of Secrets (Xbox Recomp)",
     "game": "Harry Potter and the Chamber of Secrets",
@@ -36736,7 +37100,7 @@
     "links": [
      {
       "label": "Quiver",
-      "url": "https://quiverlauncher.com/apps/harry-potter-and-the-chamber-of-secrets-harry-potter-and-the-chamber-of-secrets-"
+      "url": "https://quiverlauncher.com/apps/harry-potter-and-the-chamber-of-secrets-recomp"
      }
     ],
     "image": "https://cdn2.steamgriddb.com/grid/52953199231420f773349481b159fac2.png",
@@ -36747,7 +37111,7 @@
    {
     "id": "middleducky/hp-ps-xbox-recomp",
     "aliases": [
-     "quiver:harry-potter-and-the-philosopher-s-stone-harry-potter-and-the-philosopher-s-ston"
+     "quiver:harry-potter-and-the-philosopher-s-stone-recomp"
     ],
     "name": "Harry Potter and the Philosopher's Stone (Xbox Recomp)",
     "game": "Harry Potter and the Philosopher's Stone",
@@ -36768,7 +37132,7 @@
     "links": [
      {
       "label": "Quiver",
-      "url": "https://quiverlauncher.com/apps/harry-potter-and-the-philosopher-s-stone-harry-potter-and-the-philosopher-s-ston"
+      "url": "https://quiverlauncher.com/apps/harry-potter-and-the-philosopher-s-stone-recomp"
      }
     ],
     "image": "https://cdn2.steamgriddb.com/grid/a60b0df479c1ec09f5f506cfa4401f2d.png",
@@ -36975,6 +37339,38 @@
     ]
    },
    {
+    "id": "phys-winner/pc_decomp_homm5",
+    "aliases": [
+     "quiver:heroes-of-might-and-magic-v-heroes-of-might-and-magic-v-android-port"
+    ],
+    "name": "Heroes of Might and Magic V (Android Port)",
+    "game": "Heroes of Might and Magic V",
+    "categories": [
+     "PC"
+    ],
+    "type": "recompilation",
+    "repo": {
+     "host": "github",
+     "path": "phys-winner/pc_decomp_homm5"
+    },
+    "description": "Heroes of Might and Magic V (Android Port) is a port of Heroes of Might and Magic V to Android with native touch controls and a Direct3D 9 to OpenGL ES bridge.",
+    "developer": "phys-winner",
+    "targets": [
+     "Android"
+    ],
+    "catalogVersion": "v0.3.2-dev",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/heroes-of-might-and-magic-v-heroes-of-might-and-magic-v-android-port"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/a7b9f6196c5b8d1d14a4e6372f3fa272.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
     "id": "igawa6/dualsouls",
     "aliases": [
      "quiver:hollow-knight-hk-dual-souls"
@@ -37123,7 +37519,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "v0.3.3",
+    "catalogVersion": "v0.3.5",
     "links": [
      {
       "label": "Quiver",
@@ -37498,6 +37894,39 @@
     ]
    },
    {
+    "id": "andrei-drexler/ironwail",
+    "aliases": [
+     "quiver:quake-ironwail"
+    ],
+    "name": "Ironwail",
+    "game": "Quake",
+    "categories": [
+     "PC"
+    ],
+    "type": "reimplementation",
+    "repo": {
+     "host": "github",
+     "path": "andrei-drexler/ironwail"
+    },
+    "description": "Ironwail is a high-performance PC port of Quake that handles demanding maps with extra features like a Mods menu and UI weapon key binding.",
+    "developer": "andrei-drexler",
+    "targets": [
+     "Linux",
+     "Windows"
+    ],
+    "catalogVersion": "v0.8.2",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/quake-ironwail"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/48b9c2af600b0d0aa1c231f4a5251eee.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
     "id": "whylurking/isaacrecomp",
     "aliases": [
      "quiver:the-binding-of-isaac-isaacrecomp"
@@ -37822,7 +38251,7 @@
      "Windows",
      "Android"
     ],
-    "catalogVersion": "v0.6.1",
+    "catalogVersion": "v0.6.2",
     "links": [
      {
       "label": "Quiver",
@@ -38019,7 +38448,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v0.3.2",
+    "catalogVersion": "v0.3.3",
     "links": [
      {
       "label": "Quiver",
@@ -38281,7 +38710,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v2.0.8",
+    "catalogVersion": "v2.0.10",
     "links": [
      {
       "label": "Quiver",
@@ -38545,7 +38974,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.2.5-ports-preview.1",
+    "catalogVersion": "v0.4.0",
     "links": [
      {
       "label": "Quiver",
@@ -39303,7 +39732,7 @@
     "targets": [
      "Android"
     ],
-    "catalogVersion": "test-retroid-1",
+    "catalogVersion": "v2.1.0-beta.8",
     "links": [
      {
       "label": "Quiver",
@@ -39503,7 +39932,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v0.2.6",
+    "catalogVersion": "v0.2.7",
     "links": [
      {
       "label": "Quiver",
@@ -39831,7 +40260,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.3.4",
+    "catalogVersion": "v0.3.6",
     "links": [
      {
       "label": "Quiver",
@@ -40224,7 +40653,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v2.3.11",
+    "catalogVersion": "v2.3.12",
     "links": [
      {
       "label": "Quiver",
@@ -40290,7 +40719,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v1.0.24",
+    "catalogVersion": "v1.0.25",
     "links": [
      {
       "label": "Quiver",
@@ -40421,7 +40850,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "v0.9.86",
+    "catalogVersion": "v0.9.88",
     "links": [
      {
       "label": "Quiver",
@@ -40623,7 +41052,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "R147",
+    "catalogVersion": "R148",
     "links": [
      {
       "label": "Quiver",
@@ -40691,7 +41120,7 @@
      "macOS",
      "iOS"
     ],
-    "catalogVersion": "v0.37.0",
+    "catalogVersion": "v0.38.0",
     "links": [
      {
       "label": "Quiver",
@@ -40791,7 +41220,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "0.13.1",
+    "catalogVersion": "0.13.2",
     "links": [
      {
       "label": "Quiver",
@@ -40821,8 +41250,8 @@
     "description": "Mickey & Donald Collection is a Windows port of three Sega Genesis classics with widescreen support, save states, and achievements.",
     "developer": "Darhkfox",
     "targets": [
-     "Android",
-     "Windows"
+     "Windows",
+     "Android"
     ],
     "catalogVersion": "v1.1",
     "links": [
@@ -40925,7 +41354,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "v0.1.5",
+    "catalogVersion": "v0.1.6",
     "links": [
      {
       "label": "Quiver",
@@ -41120,8 +41549,8 @@
     "description": "Muppet RaceMania Recompiled is a native PC port of Muppet RaceMania for Windows and Linux that runs at 60 FPS and 16:9 widescreen.",
     "developer": "TekRantGaming",
     "targets": [
-     "Linux",
-     "Windows"
+     "Windows",
+     "Linux"
     ],
     "catalogVersion": "v1.0.0",
     "links": [
@@ -41293,6 +41722,38 @@
      }
     ],
     "image": "https://cdn2.steamgriddb.com/grid/7b9bbffc7373392b1e90e80876542d5e.jpg",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
+    "id": "mkalkhoven-po/nfs-carbon-ce-recomp",
+    "aliases": [
+     "quiver:need-for-speed-carbon-collector-s-edition-need-for-speed-carbon-ce-recomp"
+    ],
+    "name": "Need for Speed Carbon CE Recomp",
+    "game": "Need for Speed: Carbon Collector's Edition",
+    "categories": [
+     "Xbox 360"
+    ],
+    "type": "recompilation",
+    "repo": {
+     "host": "github",
+     "path": "mkalkhoven-po/nfs-carbon-ce-recomp"
+    },
+    "description": "Need for Speed Carbon CE Recomp is a native PC port of Need for Speed: Carbon Collector's Edition for Xbox 360 with graphics profiles and widescreen support.",
+    "developer": "mkalkhoven-po",
+    "targets": [
+     "Windows"
+    ],
+    "catalogVersion": "v0.751",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/need-for-speed-carbon-collector-s-edition-need-for-speed-carbon-ce-recomp"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/5dacaefdfe1de8fa40f26a8ed0c82fd4.png",
     "sources": [
      "quiver"
     ]
@@ -41647,7 +42108,7 @@
      "Linux",
      "macOS"
     ],
-    "catalogVersion": "v0.9.51",
+    "catalogVersion": "v0.9.53",
     "links": [
      {
       "label": "Quiver",
@@ -41781,7 +42242,7 @@
      "macOS",
      "Windows"
     ],
-    "catalogVersion": "v0.8.2",
+    "catalogVersion": "devel-build",
     "links": [
      {
       "label": "Quiver",
@@ -41884,7 +42345,7 @@
     "targets": [
      "Android"
     ],
-    "catalogVersion": "v1.5.5-test",
+    "catalogVersion": "v1.5.5",
     "links": [
      {
       "label": "Quiver",
@@ -42018,7 +42479,7 @@
      "macOS",
      "Windows"
     ],
-    "catalogVersion": "v0.8.11",
+    "catalogVersion": "v0.8.12",
     "links": [
      {
       "label": "Quiver",
@@ -42347,7 +42808,7 @@
      "Windows",
      "Android"
     ],
-    "catalogVersion": "v1.7.5",
+    "catalogVersion": "v1.8.0",
     "links": [
      {
       "label": "Quiver",
@@ -42381,7 +42842,7 @@
      "macOS",
      "Windows"
     ],
-    "catalogVersion": "2.4.0-beta.4",
+    "catalogVersion": "2.4.0",
     "links": [
      {
       "label": "Quiver",
@@ -42628,6 +43089,38 @@
     ]
    },
    {
+    "id": "nfroggy/openmadoola",
+    "aliases": [
+     "quiver:the-wing-of-madoola-openmadoola"
+    ],
+    "name": "OpenMadoola",
+    "game": "The Wing of Madoola",
+    "categories": [
+     "NES"
+    ],
+    "type": "reimplementation",
+    "repo": {
+     "host": "github",
+     "path": "nfroggy/openmadoola"
+    },
+    "description": "OpenMadoola is a reimplementation of The Wing of Madoola for Windows and Linux with bug fixes and optional gameplay enhancements.",
+    "developer": "nfroggy",
+    "targets": [
+     "Windows"
+    ],
+    "catalogVersion": "v1.26",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/the-wing-of-madoola-openmadoola"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/f9b8b4ea166bacae49555b9de33d9b45.jpg",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
     "id": "crspytopgn/openmcm2",
     "aliases": [
      "quiver:motocross-madness-2-openmcm2"
@@ -42758,6 +43251,39 @@
      }
     ],
     "image": "https://cdn2.steamgriddb.com/grid/cbc8416e7ee704aadb036747f4ca5c28.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
+    "id": "opennox/opennox",
+    "aliases": [
+     "quiver:nox-opennox"
+    ],
+    "name": "OpenNox",
+    "game": "Nox",
+    "categories": [
+     "PC"
+    ],
+    "type": "reimplementation",
+    "repo": {
+     "host": "github",
+     "path": "opennox/opennox"
+    },
+    "description": "OpenNox is a port of Nox for Windows and Linux that supports all vanilla Nox features.",
+    "developer": "opennox",
+    "targets": [
+     "Linux",
+     "Windows"
+    ],
+    "catalogVersion": "v1.9.0-alpha13",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/nox-opennox"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/5ade7d1f4c1692a12bf6bc7bae4d357b.jpg",
     "sources": [
      "quiver"
     ]
@@ -42999,6 +43525,39 @@
      }
     ],
     "image": "https://cdn2.steamgriddb.com/grid/8d1fde50cf2004de5ecd90c6b00959e8.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
+    "id": "akemin-dayo/opensyobonaction",
+    "aliases": [
+     "quiver:syobon-action-opensyobonaction"
+    ],
+    "name": "OpenSyobonAction",
+    "game": "Syobon Action",
+    "categories": [
+     "PC"
+    ],
+    "type": "reimplementation",
+    "repo": {
+     "host": "github",
+     "path": "akemin-dayo/OpenSyobonAction"
+    },
+    "description": "OpenSyobonAction is a cross-platform port of the unforgiving Japanese platformer Syobon Action using SDL.",
+    "developer": "akemin-dayo",
+    "targets": [
+     "Linux",
+     "Windows"
+    ],
+    "catalogVersion": "RC3",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/syobon-action-opensyobonaction"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/c05ef9f2b36d9e72ab39a7c53a626450.png",
     "sources": [
      "quiver"
     ]
@@ -43377,6 +43936,40 @@
     ]
    },
    {
+    "id": "retro-ware/por-go",
+    "aliases": [
+     "quiver:pool-of-radiance-opinionated-pool"
+    ],
+    "name": "Opinionated Pool",
+    "game": "Pool of Radiance",
+    "categories": [
+     "PC"
+    ],
+    "type": "port",
+    "repo": {
+     "host": "github",
+     "path": "retro-ware/por-go"
+    },
+    "description": "Opinionated Pool is a PC port of Pool of Radiance with a modernized interface and a real 3D dungeon view.",
+    "developer": "memmaker",
+    "targets": [
+     "Linux",
+     "macOS",
+     "Windows"
+    ],
+    "catalogVersion": "v0.1.14",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/pool-of-radiance-opinionated-pool"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/35c63d17276438a60775301986effef3.jpg",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
     "id": "johnnieb333/oracle-recompiled",
     "aliases": [
      "quiver:oracle-of-ages-oracle-of-seasons-oracle-portable"
@@ -43472,6 +44065,40 @@
      }
     ],
     "image": "https://raw.githubusercontent.com/TekRantGaming/outpost-kaloki-x-recompiled/79c2fdbb9ba08d1d06cf2f54661eb7b871ddee34/docs/images/icon.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
+    "id": "cheviman/outrunners-port",
+    "aliases": [
+     "quiver:outrunners-outrunners-native-port"
+    ],
+    "name": "OutRunners - Native Port",
+    "game": "OutRunners",
+    "categories": [
+     "Arcade"
+    ],
+    "type": "port",
+    "repo": {
+     "host": "github",
+     "path": "cheviman/outrunners-port"
+    },
+    "description": "OutRunners - Native Port is a native PC port of the arcade game OutRunners, built on its decompilation, allowing for features like two-player split-screen and network play.",
+    "developer": "cheviman",
+    "targets": [
+     "Linux",
+     "macOS",
+     "Windows"
+    ],
+    "catalogVersion": "v1.0.0",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/outrunners-outrunners-native-port"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/b7efa1995f74c054a5ebdfd68f3844dc.png",
     "sources": [
      "quiver"
     ]
@@ -43693,7 +44320,7 @@
      "macOS",
      "Windows"
     ],
-    "catalogVersion": "0.9",
+    "catalogVersion": "0.10",
     "links": [
      {
       "label": "Quiver",
@@ -44069,6 +44696,102 @@
     ]
    },
    {
+    "id": "piscacho/persona-3-dancing-in-moonlight-pc",
+    "aliases": [
+     "quiver:persona-3-dancing-in-moonlight-persona-3-dancing-in-moonlight-pc"
+    ],
+    "name": "Persona-3-Dancing-in-Moonlight-Pc",
+    "game": "Persona 3: Dancing in Moonlight",
+    "categories": [
+     "PlayStation 4"
+    ],
+    "type": "recompilation",
+    "repo": {
+     "host": "github",
+     "path": "Piscacho/Persona-3-Dancing-in-Moonlight-Pc"
+    },
+    "description": "Persona 3 Dancing in Moonlight Pc is a Windows port of Persona 3: Dancing in Moonlight for PlayStation 4.",
+    "developer": "Piscacho",
+    "targets": [
+     "Windows"
+    ],
+    "catalogVersion": "windows-v1.1.0",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/persona-3-dancing-in-moonlight-persona-3-dancing-in-moonlight-pc"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/27565002c4e5a784a1c9599648328e93.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
+    "id": "piscacho/persona-4-dancing-all-night-pc",
+    "aliases": [
+     "quiver:persona-4-dancing-all-night-persona-4-dancing-all-night-pc"
+    ],
+    "name": "Persona-4-Dancing-All-Night-PC",
+    "game": "Persona 4: Dancing All Night",
+    "categories": [
+     "PlayStation 4"
+    ],
+    "type": "recompilation",
+    "repo": {
+     "host": "github",
+     "path": "Piscacho/Persona-4-Dancing-All-Night-PC"
+    },
+    "description": "Persona 4 Dancing All Night PC is a Windows port of the PlayStation 4 rhythm game Persona 4: Dancing All Night.",
+    "developer": "Piscacho",
+    "targets": [
+     "Windows"
+    ],
+    "catalogVersion": "windows-v1.1.0",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/persona-4-dancing-all-night-persona-4-dancing-all-night-pc"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/40a7e2a9d6805b5a7d82aefb9cd33821.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
+    "id": "piscacho/persona-5-dancing-in-starlight-pc",
+    "aliases": [
+     "quiver:persona-5-dancing-in-starlight-persona-5-dancing-in-starlight-pc"
+    ],
+    "name": "Persona-5-Dancing-in-Starlight-PC",
+    "game": "Persona 5: Dancing in Starlight",
+    "categories": [
+     "PlayStation 4"
+    ],
+    "type": "reimplementation",
+    "repo": {
+     "host": "github",
+     "path": "Piscacho/Persona-5-Dancing-in-Starlight-PC"
+    },
+    "description": "Persona 5 Dancing in Starlight PC is a Windows port of the PlayStation 4 rhythm game Persona 5: Dancing in Starlight.",
+    "developer": "Piscacho",
+    "targets": [
+     "Windows"
+    ],
+    "catalogVersion": "windows-v1.1.0",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/persona-5-dancing-in-starlight-persona-5-dancing-in-starlight-pc"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/5c9a093b636b1b4fc70150cb9d94e34a.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
     "id": "shaunsingh/pgr4-native",
     "aliases": [
      "quiver:project-gotham-racing-4-pgr4-native"
@@ -44350,7 +45073,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v0.1.12",
+    "catalogVersion": "v0.1.13",
     "links": [
      {
       "label": "Quiver",
@@ -44358,6 +45081,42 @@
      }
     ],
     "image": "https://cdn2.steamgriddb.com/grid/a5b55a36fd1ea0cdafab1ec2a1aca9bc.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
+    "id": "pokerogue-offline/pokerogue-offline",
+    "aliases": [
+     "quiver:pokerogueoffline"
+    ],
+    "name": "PokeRogueOffline",
+    "game": "PokeRogueOffline",
+    "categories": [
+     "PC"
+    ],
+    "type": "port",
+    "repo": {
+     "host": "github",
+     "path": "PokeRogue-Offline/pokerogue-offline"
+    },
+    "description": "PokeRogueOffline is an offline wrapper for the game PokeRogue that allows local saves and importing from the official site.",
+    "developer": "PokeRogue-Offline",
+    "targets": [
+     "macOS",
+     "Android",
+     "Linux",
+     "Windows",
+     "iOS"
+    ],
+    "catalogVersion": "v1.12.2.2-294",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/pokerogueoffline"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/6112cee17f9c590364c2d519166e1d5c.png",
     "sources": [
      "quiver"
     ]
@@ -44483,7 +45242,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "v0.0.5",
+    "catalogVersion": "v0.0.6",
     "links": [
      {
       "label": "Quiver",
@@ -44611,7 +45370,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v1.4.0",
+    "catalogVersion": "v1.5.0",
     "links": [
      {
       "label": "Quiver",
@@ -44917,6 +45676,38 @@
     ]
    },
    {
+    "id": "mathewdouglas/tourline-prologue",
+    "aliases": [
+     "quiver:gran-turismo-5-prologue-project-tourline-prologue"
+    ],
+    "name": "Project Tourline Prologue",
+    "game": "Gran Turismo 5 Prologue",
+    "categories": [
+     "PlayStation 3"
+    ],
+    "type": "recompilation",
+    "repo": {
+     "host": "github",
+     "path": "mathewdouglas/Tourline-Prologue"
+    },
+    "description": "Project Tourline Prologue is a native PC port of Gran Turismo 5 Prologue built using ps3recomp.",
+    "developer": "mathewdouglas",
+    "targets": [
+     "Windows"
+    ],
+    "catalogVersion": "v0.2.1",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/gran-turismo-5-prologue-project-tourline-prologue"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/dd55802d0d54d57e54e503150916fe3b.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
     "id": "theokyr/project8recomp",
     "aliases": [
      "quiver:tonyhawksproject8-project8recomp"
@@ -45079,6 +45870,72 @@
      }
     ],
     "image": "https://cdn2.steamgriddb.com/grid/a858d474abd22db2992912ee79862f6d.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
+    "id": "paril/q2repro",
+    "aliases": [
+     "quiver:quake-ii-q2repro"
+    ],
+    "name": "Q2Repro",
+    "game": "Quake II",
+    "categories": [
+     "PC"
+    ],
+    "type": "recompilation",
+    "repo": {
+     "host": "github",
+     "path": "Paril/q2repro"
+    },
+    "description": "Q2Repro is a PC port of Quake II that replaces the Kex engine and supports weapon wheels and per-pixel lighting.",
+    "developer": "Paril",
+    "targets": [
+     "Windows"
+    ],
+    "catalogVersion": "nightly",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/quake-ii-q2repro"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/4c4ceb913ae01428dd4146f59fab0656.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
+    "id": "ec-/quake3e",
+    "aliases": [
+     "quiver:quake-iii-arena-quake3e"
+    ],
+    "name": "Quake3e",
+    "game": "Quake III Arena",
+    "categories": [
+     "PC"
+    ],
+    "type": "recompilation",
+    "repo": {
+     "host": "github",
+     "path": "ec-/Quake3e"
+    },
+    "description": "Quake3e is a modern Quake III Arena engine port for Windows, macOS, and Linux with optimized OpenGL and Vulkan renderers and raw mouse input support.",
+    "developer": "ec-",
+    "targets": [
+     "Linux",
+     "macOS",
+     "Windows"
+    ],
+    "catalogVersion": "latest",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/quake-iii-arena-quake3e"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/1580cb083169e06b7e5af0481196b674.png",
     "sources": [
      "quiver"
     ]
@@ -45298,7 +46155,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.9.3",
+    "catalogVersion": "v.0.9.5",
     "links": [
      {
       "label": "Quiver",
@@ -45593,7 +46450,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v1.1.11",
+    "catalogVersion": "v1.1.12",
     "links": [
      {
       "label": "Quiver",
@@ -45728,7 +46585,7 @@
      "macOS",
      "Windows"
     ],
-    "catalogVersion": "test-pr111-baa2875a14a7",
+    "catalogVersion": "test-pr111-479d8d361eee",
     "links": [
      {
       "label": "Quiver",
@@ -45996,7 +46853,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v2.3",
+    "catalogVersion": "v2.6",
     "links": [
      {
       "label": "Quiver",
@@ -46295,7 +47152,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "beta1.2",
+    "catalogVersion": "beta1.3",
     "links": [
      {
       "label": "Quiver",
@@ -48175,7 +49032,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.3.0-beta.6",
+    "catalogVersion": "v0.3.0-beta.7",
     "links": [
      {
       "label": "Quiver",
@@ -48183,6 +49040,38 @@
      }
     ],
     "image": "https://cdn2.steamgriddb.com/grid/63bb4c7787a360000cdd8b64840ab035.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
+    "id": "ttom795/skyrim_android",
+    "aliases": [
+     "quiver:the-elder-scrolls-v-skyrim-skyrim-for-android"
+    ],
+    "name": "Skyrim for Android",
+    "game": "The Elder Scrolls V: Skyrim",
+    "categories": [
+     "PC"
+    ],
+    "type": "recompilation",
+    "repo": {
+     "host": "github",
+     "path": "ttom795/Skyrim_Android"
+    },
+    "description": "Skyrim for Android is a native PC port of The Elder Scrolls V: Skyrim for Android devices, featuring multi-core support and a Vulkan-based graphics backend.",
+    "developer": "ttom795",
+    "targets": [
+     "Android"
+    ],
+    "catalogVersion": "0.27.5",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/the-elder-scrolls-v-skyrim-skyrim-for-android"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/b62a115ce467505bca2cdfda45d3286d.png",
     "sources": [
      "quiver"
     ]
@@ -48767,7 +49656,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "v0.6.3",
+    "catalogVersion": "v0.6.4",
     "links": [
      {
       "label": "Quiver",
@@ -48800,7 +49689,7 @@
      "macOS",
      "Windows"
     ],
-    "catalogVersion": "v0.9.2",
+    "catalogVersion": "v0.9.4",
     "links": [
      {
       "label": "Quiver",
@@ -49395,7 +50284,7 @@
      "macOS",
      "Windows"
     ],
-    "catalogVersion": "v0.0.8.8.2",
+    "catalogVersion": "v0.0.8.8.3",
     "links": [
      {
       "label": "Quiver",
@@ -50236,6 +51125,38 @@
     ]
    },
    {
+    "id": "rac08241988/superryuworld1-recomp",
+    "aliases": [
+     "quiver:super-ryu-world-1-super-ryu-world-1-native-pc-port-recomp-tooling"
+    ],
+    "name": "Super Ryu World 1 — Native PC Port (Recomp tooling)",
+    "game": "Super Ryu World 1",
+    "categories": [
+     "SNES"
+    ],
+    "type": "recompilation",
+    "repo": {
+     "host": "github",
+     "path": "rac08241988/SuperRyuWorld1-Recomp"
+    },
+    "description": "Super Ryu World 1 is a native PC port of the Super Ryu World 1 ROM hack for Super Nintendo Entertainment System with an in-game options menu for shaders and motion interpolation.",
+    "developer": "rac08241988",
+    "targets": [
+     "Windows"
+    ],
+    "catalogVersion": "v1.0.0",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/super-ryu-world-1-super-ryu-world-1-native-pc-port-recomp-tooling"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/9ac2aac4925f2929eb0f3daa287615e0.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
     "id": "mstan/supermarioadvance2recomp",
     "aliases": [
      "quiver:super-mario-world-super-mario-advance-2-supermarioadvance2recomp"
@@ -50355,7 +51276,7 @@
      "Windows",
      "macOS"
     ],
-    "catalogVersion": "v0.3.21",
+    "catalogVersion": "v0.3.22",
     "links": [
      {
       "label": "Quiver",
@@ -50880,7 +51801,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v0.1.39.3",
+    "catalogVersion": "v0.1.39.4",
     "links": [
      {
       "label": "Quiver",
@@ -50952,6 +51873,38 @@
      }
     ],
     "image": "https://cdn2.steamgriddb.com/grid/26a54df50e52aea7c14309842abec395.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
+    "id": "kylofon/testdrive3-enhanced",
+    "aliases": [
+     "quiver:test-drive-iii-the-passion-test-drive-iii-enhanced"
+    ],
+    "name": "Test Drive III Enhanced",
+    "game": "Test Drive III: The Passion",
+    "categories": [
+     "PC"
+    ],
+    "type": "port",
+    "repo": {
+     "host": "github",
+     "path": "kylofon/testdrive3-enhanced"
+    },
+    "description": "Test Drive III Enhanced is a native PC port of Test Drive III The Passion with higher resolutions smoother frame rates and longer draw distance.",
+    "developer": "kylofon",
+    "targets": [
+     "Windows"
+    ],
+    "catalogVersion": "v0.2.0",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/test-drive-iii-the-passion-test-drive-iii-enhanced"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/9da86049f5da6ce58009620e47e32324.png",
     "sources": [
      "quiver"
     ]
@@ -51505,7 +52458,7 @@
      "macOS",
      "Windows"
     ],
-    "catalogVersion": "v0.5.0-story-coop-beta.1",
+    "catalogVersion": "textures-v0.2.0-beta.1",
     "links": [
      {
       "label": "Quiver",
@@ -52469,6 +53422,38 @@
      }
     ],
     "image": "https://cdn2.steamgriddb.com/grid/7377c3c3d65d06e42390c4e045a11615.jpg",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
+    "id": "supercatelvis/untildawn_pc",
+    "aliases": [
+     "quiver:until-dawn-until-dawn-pc-recompilation"
+    ],
+    "name": "Until Dawn PC Recompilation",
+    "game": "Until Dawn",
+    "categories": [
+     "PlayStation 4"
+    ],
+    "type": "recompilation",
+    "repo": {
+     "host": "github",
+     "path": "SuperCatElvis/UntilDawn_PC"
+    },
+    "description": "Until Dawn PC Recompilation is a native PC port of Until Dawn for Windows that runs the game without console emulation and includes a custom Vulkan renderer.",
+    "developer": "SuperCatElvis",
+    "targets": [
+     "Windows"
+    ],
+    "catalogVersion": "v0.2.1",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/until-dawn-until-dawn-pc-recompilation"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/20c796c3fbf9862b1a1be0075e997fbe.png",
     "sources": [
      "quiver"
     ]
@@ -53626,6 +54611,70 @@
     ]
    },
    {
+    "id": "zonehammer/wet-recomp",
+    "aliases": [
+     "quiver:wet-recompiled"
+    ],
+    "name": "WET Recompiled",
+    "game": "WET",
+    "categories": [
+     "Xbox 360"
+    ],
+    "type": "recompilation",
+    "repo": {
+     "host": "github",
+     "path": "zonehammer/wet-recomp"
+    },
+    "description": "WET Recompiled is a native Windows port of WET using static recompilation with support for any frame rate and resolution scaling.",
+    "developer": "zonehammer",
+    "targets": [
+     "Windows"
+    ],
+    "catalogVersion": "v0.2.0",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/wet-recompiled"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/ba1020f8b6635db026ad8c201a11ddab.jpg",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
+    "id": "nikolaygorb/wetrecomp",
+    "aliases": [
+     "quiver:wet-recomp"
+    ],
+    "name": "WetRecomp",
+    "game": "WET",
+    "categories": [
+     "Xbox"
+    ],
+    "type": "recompilation",
+    "repo": {
+     "host": "github",
+     "path": "nikolaygorb/WetRecomp"
+    },
+    "description": "WetRecomp is a native Windows and Linux port of WET built on the ReXGlue SDK.",
+    "developer": "nikolaygorb",
+    "targets": [
+     "Windows"
+    ],
+    "catalogVersion": "1.5",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/wet-recomp"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/fc60d6b831c51fa39e7fefd8b7479064.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
     "id": "teamwheelwizard/wheelwizard",
     "aliases": [
      "quiver:mario-kart-wii-wheel-wizard"
@@ -53714,7 +54763,7 @@
      "macOS",
      "Windows"
     ],
-    "catalogVersion": "v0.1.8",
+    "catalogVersion": "v0.1.9",
     "links": [
      {
       "label": "Quiver",
@@ -53812,7 +54861,7 @@
      "macOS",
      "Linux"
     ],
-    "catalogVersion": "v0.0.13",
+    "catalogVersion": "v0.9.1",
     "links": [
      {
       "label": "Quiver",
@@ -53911,7 +54960,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "windows-v0.2.49",
+    "catalogVersion": "windows-v0.2.50",
     "links": [
      {
       "label": "Quiver",
@@ -53944,14 +54993,47 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v0.5.1",
+    "catalogVersion": "v0.5.2",
     "links": [
      {
       "label": "Quiver",
       "url": "https://quiverlauncher.com/apps/bayonetta-3-witch-time"
      }
     ],
-    "image": "https://cdn2.steamgriddb.com/grid/886995438c8f55ae8934ba6b86d8ca5d.jpg",
+    "image": "https://cdn2.steamgriddb.com/grid/ebd84dd9a85f413a34e9d8a21cc6ccc7.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
+    "id": "mkalkhoven-po/wolf3d-x64",
+    "aliases": [
+     "quiver:wolfenstein-3d-wolfenstein-3d-x64"
+    ],
+    "name": "Wolfenstein 3D x64",
+    "game": "Wolfenstein 3D",
+    "categories": [
+     "PC"
+    ],
+    "type": "recompilation",
+    "repo": {
+     "host": "github",
+     "path": "mkalkhoven-po/wolf3d-x64"
+    },
+    "description": "Wolfenstein 3D x64 is a faithful x64 port of the 1992 Wolfenstein 3-D engine for Windows and Linux.",
+    "developer": "mkalkhoven-po",
+    "targets": [
+     "Linux",
+     "Windows"
+    ],
+    "catalogVersion": "v0.9.0",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/wolfenstein-3d-wolfenstein-3d-x64"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/b6a17d5d9b08338219a8917d0fc2431e.png",
     "sources": [
      "quiver"
     ]
@@ -54204,7 +55286,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v1.1.0",
+    "catalogVersion": "v1.2.0",
     "links": [
      {
       "label": "Quiver",
@@ -54465,7 +55547,7 @@
      "macOS",
      "Windows"
     ],
-    "catalogVersion": "v1.0.4",
+    "catalogVersion": "v1.0.5",
     "links": [
      {
       "label": "Quiver",
@@ -55068,7 +56150,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.1.1",
+    "catalogVersion": "v0.1.2",
     "links": [
      {
       "label": "Quiver",
@@ -69373,7 +70455,7 @@
   ]
  },
  "pocket": {
-  "updatedAt": "2026-11-01T15:19:44.427Z",
+  "updatedAt": "2026-11-02T06:28:55.587Z",
   "projects": [
    {
     "id": "gpzi994/chiskit",
@@ -69649,6 +70731,45 @@
     ]
    },
    {
+    "id": "dennisbohn/openfpga-screamer",
+    "aliases": [
+     "pocket:chainy-screamer"
+    ],
+    "name": "Chainy.Screamer (Pocket)",
+    "game": "Screamer",
+    "categories": [
+     "Analogue Pocket"
+    ],
+    "type": "core",
+    "tags": [
+     "FPGA"
+    ],
+    "repo": {
+     "host": "github",
+     "path": "dennisbohn/openfpga-screamer"
+    },
+    "description": "openFPGA computer core · Virgin Interactive 1995",
+    "developer": "Chainy",
+    "targets": [
+     "Analogue Pocket"
+    ],
+    "catalogVersion": "1.0.0",
+    "catalogDate": "2026-11-01",
+    "download": {
+     "label": "Pocket 1.0.0",
+     "url": "https://github.com/dennisbohn/openfpga-screamer/releases/download/v1.0.0/Chainy.Screamer_1.0.0.zip"
+    },
+    "links": [
+     {
+      "label": "openFPGA inventory",
+      "url": "https://openfpga-cores-inventory.github.io/analogue-pocket/"
+     }
+    ],
+    "sources": [
+     "pocket"
+    ]
+   },
+   {
     "id": "essemyth/openfpga-nibbler",
     "aliases": [
      "pocket:essemyth-nibbler"
@@ -69677,78 +70798,6 @@
      "label": "Pocket 1.0.0",
      "url": "https://github.com/essemyth/openfpga-nibbler/releases/download/v1.0.0/Essemyth.Nibbler_1.0.0_2026-10-22.zip"
     },
-    "links": [
-     {
-      "label": "openFPGA inventory",
-      "url": "https://openfpga-cores-inventory.github.io/analogue-pocket/"
-     }
-    ],
-    "sources": [
-     "pocket"
-    ]
-   },
-   {
-    "id": "frazilpop/cave-68000-pocket#frazilpop-cave-68000",
-    "aliases": [
-     "pocket:frazilpop-cave-68000"
-    ],
-    "name": "Frazilpop.Cave 68000 (Pocket)",
-    "game": "Cave 68000",
-    "categories": [
-     "Analogue Pocket"
-    ],
-    "type": "core",
-    "tags": [
-     "FPGA"
-    ],
-    "repo": {
-     "host": "github",
-     "path": "Frazilpop/Cave-68000-Pocket"
-    },
-    "description": "",
-    "developer": "Frazilpop",
-    "targets": [
-     "Analogue Pocket"
-    ],
-    "catalogVersion": "",
-    "catalogDate": "",
-    "download": null,
-    "links": [
-     {
-      "label": "openFPGA inventory",
-      "url": "https://openfpga-cores-inventory.github.io/analogue-pocket/"
-     }
-    ],
-    "sources": [
-     "pocket"
-    ]
-   },
-   {
-    "id": "frazilpop/toaplan-v2-pocket",
-    "aliases": [
-     "pocket:frazilpop-toaplan-v2"
-    ],
-    "name": "Frazilpop.Toaplan V2 (Pocket)",
-    "game": "Toaplan V2",
-    "categories": [
-     "Analogue Pocket"
-    ],
-    "type": "core",
-    "tags": [
-     "FPGA"
-    ],
-    "repo": {
-     "host": "github",
-     "path": "Frazilpop/Toaplan-V2-Pocket"
-    },
-    "description": "",
-    "developer": "Frazilpop",
-    "targets": [
-     "Analogue Pocket"
-    ],
-    "catalogVersion": "",
-    "catalogDate": "",
-    "download": null,
     "links": [
      {
       "label": "openFPGA inventory",
@@ -70762,6 +71811,45 @@
     "download": {
      "label": "Pocket 1.0.0",
      "url": "https://github.com/RetroDriven/StreetRod-Pocket/releases/download/v1.0.0/RetroDriven.Streetrod_1.0.0_2026-10-28.zip"
+    },
+    "links": [
+     {
+      "label": "openFPGA inventory",
+      "url": "https://openfpga-cores-inventory.github.io/analogue-pocket/"
+     }
+    ],
+    "sources": [
+     "pocket"
+    ]
+   },
+   {
+    "id": "retrodriven/streetrod2-pocket",
+    "aliases": [
+     "pocket:retrodriven-streetrod2"
+    ],
+    "name": "RetroDriven.Streetrod2 (Pocket)",
+    "game": "Street Rod 2",
+    "categories": [
+     "Analogue Pocket"
+    ],
+    "type": "core",
+    "tags": [
+     "FPGA"
+    ],
+    "repo": {
+     "host": "github",
+     "path": "RetroDriven/StreetRod2-Pocket"
+    },
+    "description": "openFPGA computer core · California Dreams 1991",
+    "developer": "RetroDriven",
+    "targets": [
+     "Analogue Pocket"
+    ],
+    "catalogVersion": "1.0.0",
+    "catalogDate": "2026-11-01",
+    "download": {
+     "label": "Pocket 1.0.0",
+     "url": "https://github.com/RetroDriven/StreetRod2-Pocket/releases/download/v1.0.0/RetroDriven.Streetrod2-v1.0.0.zip"
     },
     "links": [
      {
@@ -72785,11 +73873,11 @@
     "targets": [
      "Analogue Pocket"
     ],
-    "catalogVersion": "0.1.4",
-    "catalogDate": "2026-10-15",
+    "catalogVersion": "0.3",
+    "catalogDate": "2026-11-01",
     "download": {
-     "label": "Pocket 0.1.4",
-     "url": "https://github.com/akoaysigod/pocket_psx_core/releases/download/v0.1.4/pocket_psx_core_0.1.4.zip"
+     "label": "Pocket 0.3",
+     "url": "https://github.com/akoaysigod/pocket_psx_core/releases/download/v0.3/akoaysigod.PSX_0.3.zip"
     },
     "links": [
      {
@@ -76311,6 +77399,45 @@
     ]
    },
    {
+    "id": "frazilpop/cave-68000-pocket",
+    "aliases": [
+     "pocket:frazilpop-cave-68000"
+    ],
+    "name": "frazilpop.Cave 68000 (Pocket)",
+    "game": "Cave 68000",
+    "categories": [
+     "Analogue Pocket"
+    ],
+    "type": "core",
+    "tags": [
+     "FPGA"
+    ],
+    "repo": {
+     "host": "github",
+     "path": "Frazilpop/Cave-68000-Pocket"
+    },
+    "description": "openFPGA arcade multi core · Cave 1997",
+    "developer": "frazilpop",
+    "targets": [
+     "Analogue Pocket"
+    ],
+    "catalogVersion": "1.1.1",
+    "catalogDate": "2026-11-01",
+    "download": {
+     "label": "Pocket 1.1.1",
+     "url": "https://github.com/Frazilpop/Cave-68000-Pocket/releases/download/v1.1.1/cave68000-1.1.1.zip"
+    },
+    "links": [
+     {
+      "label": "openFPGA inventory",
+      "url": "https://openfpga-cores-inventory.github.io/analogue-pocket/"
+     }
+    ],
+    "sources": [
+     "pocket"
+    ]
+   },
+   {
     "id": "frazilpop/great-1000-miles-rally-pocket",
     "aliases": [
      "pocket:frazilpop-great-1000-miles-rally"
@@ -76338,6 +77465,45 @@
     "download": {
      "label": "Pocket 1.0.1",
      "url": "https://github.com/Frazilpop/Great-1000-Miles-Rally-Pocket/releases/download/v1.0.1/Great-1000-Miles-Rally-Pocket-1.0.1.zip"
+    },
+    "links": [
+     {
+      "label": "openFPGA inventory",
+      "url": "https://openfpga-cores-inventory.github.io/analogue-pocket/"
+     }
+    ],
+    "sources": [
+     "pocket"
+    ]
+   },
+   {
+    "id": "frazilpop/toaplan-v2-pocket",
+    "aliases": [
+     "pocket:frazilpop-toaplan-v2"
+    ],
+    "name": "frazilpop.Toaplan V2 (Pocket)",
+    "game": "Toaplan V2",
+    "categories": [
+     "Analogue Pocket"
+    ],
+    "type": "core",
+    "tags": [
+     "FPGA"
+    ],
+    "repo": {
+     "host": "github",
+     "path": "Frazilpop/Toaplan-V2-Pocket"
+    },
+    "description": "openFPGA arcade multi core · Toaplan 1993",
+    "developer": "frazilpop",
+    "targets": [
+     "Analogue Pocket"
+    ],
+    "catalogVersion": "1.0.1",
+    "catalogDate": "2026-11-01",
+    "download": {
+     "label": "Pocket 1.0.1",
+     "url": "https://github.com/Frazilpop/Toaplan-V2-Pocket/releases/download/v1.0.1/toaplan2-1.0.1.zip"
     },
     "links": [
      {
