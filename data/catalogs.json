@@ -26970,7 +26970,7 @@
   ]
  },
  "quiver": {
-  "updatedAt": "2026-11-02T06:28:55.587Z",
+  "updatedAt": "2026-11-02T18:34:06.476Z",
   "projects": [
    {
     "id": "hk21x/007eon-recomp",
@@ -27219,7 +27219,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.6",
+    "catalogVersion": "v0.7",
     "links": [
      {
       "label": "Quiver",
@@ -27946,7 +27946,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "v1.0.1",
+    "catalogVersion": "v1.1.0",
     "links": [
      {
       "label": "Quiver",
@@ -27978,7 +27978,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "2.4.0.1008",
+    "catalogVersion": "2.5.0.0110",
     "links": [
      {
       "label": "Quiver",
@@ -28446,7 +28446,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v1.4.2",
+    "catalogVersion": "v1.4.3",
     "links": [
      {
       "label": "Quiver",
@@ -28544,7 +28544,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "1.7.8",
+    "catalogVersion": "1.7.9",
     "links": [
      {
       "label": "Quiver",
@@ -28908,7 +28908,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.1.2",
+    "catalogVersion": "v0.1.3",
     "links": [
      {
       "label": "Quiver",
@@ -29105,7 +29105,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v0.2.22",
+    "catalogVersion": "v0.2.24",
     "links": [
      {
       "label": "Quiver",
@@ -30124,7 +30124,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.1.0-beta",
+    "catalogVersion": "v0.2.0-beta",
     "links": [
      {
       "label": "Quiver",
@@ -30850,7 +30850,7 @@
      "macOS",
      "Windows"
     ],
-    "catalogVersion": "cdda-experimental-2026-11-01-2158",
+    "catalogVersion": "cdda-experimental-2026-11-02-0439",
     "links": [
      {
       "label": "Quiver",
@@ -30885,7 +30885,7 @@
      "macOS",
      "Windows"
     ],
-    "catalogVersion": "cataclysm-tlg-1.0-2026-11-01-1306",
+    "catalogVersion": "cataclysm-tlg-1.0-2026-11-02-1630",
     "links": [
      {
       "label": "Quiver",
@@ -31185,7 +31185,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v0.2.1",
+    "catalogVersion": "v0.2.2",
     "links": [
      {
       "label": "Quiver",
@@ -31249,7 +31249,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "0.3.7",
+    "catalogVersion": "0.4.1",
     "links": [
      {
       "label": "Quiver",
@@ -31415,7 +31415,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.1.3",
+    "catalogVersion": "v0.1.4",
     "links": [
      {
       "label": "Quiver",
@@ -31580,7 +31580,7 @@
     "description": "Crackdown 2 Recomp is a native PC port of Crackdown 2 built on the ReXGlue SDK, booting to the title screen.",
     "developer": "Pacific City Recompiled",
     "targets": [],
-    "catalogVersion": "",
+    "catalogVersion": "v1.0.1",
     "links": [
      {
       "label": "Quiver",
@@ -31809,7 +31809,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v1.11",
+    "catalogVersion": "v1.11.2",
     "links": [
      {
       "label": "Quiver",
@@ -32103,7 +32103,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "v0.7.1",
+    "catalogVersion": "v0.7.3",
     "links": [
      {
       "label": "Quiver",
@@ -32767,7 +32767,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v0.3.0",
+    "catalogVersion": "v0.3.1-beta1",
     "links": [
      {
       "label": "Quiver",
@@ -33819,7 +33819,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.4.0",
+    "catalogVersion": "v0.4.1",
     "links": [
      {
       "label": "Quiver",
@@ -34019,7 +34019,7 @@
      "macOS",
      "Windows"
     ],
-    "catalogVersion": "bleeding-edge-c0eece28",
+    "catalogVersion": "bleeding-edge-5fb96d56",
     "links": [
      {
       "label": "Quiver",
@@ -34127,6 +34127,74 @@
      }
     ],
     "image": "https://cdn2.steamgriddb.com/grid/ec171768a35506a454b08b373a3834cf.jpg",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
+    "id": "dxx-redux/dxx-redux",
+    "aliases": [
+     "quiver:descent-dxx-redux-2"
+    ],
+    "name": "DXX-Redux",
+    "game": "Descent 2",
+    "categories": [
+     "PC"
+    ],
+    "type": "port",
+    "repo": {
+     "host": "github",
+     "path": "dxx-redux/dxx-redux"
+    },
+    "description": "DXX-Redux is a source port of Descent 1 and 2 for PC.",
+    "developer": "dxx-redux",
+    "targets": [
+     "Linux",
+     "macOS",
+     "Windows"
+    ],
+    "catalogVersion": "v1.1",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/descent-dxx-redux-2"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/37d86d246a11feb96ff9459d78021a0b.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
+    "id": "dxx-redux/dxx-redux",
+    "aliases": [
+     "quiver:descent-dxx-redux"
+    ],
+    "name": "DXX-Redux",
+    "game": "Descent",
+    "categories": [
+     "PC"
+    ],
+    "type": "port",
+    "repo": {
+     "host": "github",
+     "path": "dxx-redux/dxx-redux"
+    },
+    "description": "DXX-Redux is a source port of Descent 1 and 2 for PC.",
+    "developer": "dxx-redux",
+    "targets": [
+     "Linux",
+     "macOS",
+     "Windows"
+    ],
+    "catalogVersion": "v1.1",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/descent-dxx-redux"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/2ef71cbbdf71f4b87711026b12e879da.png",
     "sources": [
      "quiver"
     ]
@@ -34254,7 +34322,7 @@
      "Windows",
      "iOS"
     ],
-    "catalogVersion": "v0.8.0",
+    "catalogVersion": "v0.8.1",
     "links": [
      {
       "label": "Quiver",
@@ -34420,7 +34488,7 @@
     "targets": [
      "Linux"
     ],
-    "catalogVersion": "v1.2.1",
+    "catalogVersion": "v1.3.0",
     "links": [
      {
       "label": "Quiver",
@@ -34985,7 +35053,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v1.0.4",
+    "catalogVersion": "v1.0.5",
     "links": [
      {
       "label": "Quiver",
@@ -35313,7 +35381,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "v0.10.5",
+    "catalogVersion": "v0.10.6",
     "links": [
      {
       "label": "Quiver",
@@ -35908,7 +35976,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v1.2.0",
+    "catalogVersion": "v1.2.1",
     "links": [
      {
       "label": "Quiver",
@@ -36402,7 +36470,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.9.6c",
+    "catalogVersion": "v0.9.7",
     "links": [
      {
       "label": "Quiver",
@@ -36534,7 +36602,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "launcher-v0.2.4",
+    "catalogVersion": "launcher-v0.2.5",
     "links": [
      {
       "label": "Quiver",
@@ -36567,7 +36635,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "windows-v3.0.0-issue1165-test1",
+    "catalogVersion": "windows-v3.0.0-issue1165-test2",
     "links": [
      {
       "label": "Quiver",
@@ -36767,7 +36835,7 @@
      "macOS",
      "Windows"
     ],
-    "catalogVersion": "v0.5.0",
+    "catalogVersion": "v0.6.0",
     "links": [
      {
       "label": "Quiver",
@@ -36831,7 +36899,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.1.1",
+    "catalogVersion": "v0.1.2",
     "links": [
      {
       "label": "Quiver",
@@ -37096,7 +37164,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.2.0",
+    "catalogVersion": "v0.3.1",
     "links": [
      {
       "label": "Quiver",
@@ -38251,7 +38319,7 @@
      "Windows",
      "Android"
     ],
-    "catalogVersion": "v0.6.2",
+    "catalogVersion": "v0.6.6",
     "links": [
      {
       "label": "Quiver",
@@ -38678,7 +38746,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.1.5-alpha",
+    "catalogVersion": "v0.1.6-alpha",
     "links": [
      {
       "label": "Quiver",
@@ -38710,7 +38778,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v2.0.10",
+    "catalogVersion": "v2.0.11",
     "links": [
      {
       "label": "Quiver",
@@ -39700,7 +39768,7 @@
      "Android",
      "Linux"
     ],
-    "catalogVersion": "mod-battle-voices-originals-ai-1.0.0",
+    "catalogVersion": "mod-battle-voices-originals-ai-1.0.2",
     "links": [
      {
       "label": "Quiver",
@@ -39899,7 +39967,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v0.2.5",
+    "catalogVersion": "v0.2.6",
     "links": [
      {
       "label": "Quiver",
@@ -39932,7 +40000,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v0.2.7",
+    "catalogVersion": "v0.2.10",
     "links": [
      {
       "label": "Quiver",
@@ -40453,9 +40521,11 @@
     "description": "MediEvil Recomp ESP is a native PC port of MediEvil for the Spanish PlayStation version, featuring widescreen and improved rendering.",
     "developer": "Leproide",
     "targets": [
-     "Windows"
+     "Windows",
+     "Linux",
+     "macOS"
     ],
-    "catalogVersion": "v1.1.6",
+    "catalogVersion": "v1.1.8",
     "links": [
      {
       "label": "Quiver",
@@ -40485,7 +40555,7 @@
     "description": "MediEvil Recomp ITA is a native PC port of MediEvil for PlayStation, featuring widescreen and improved rendering.",
     "developer": "Leproide",
     "targets": [],
-    "catalogVersion": "v1.1.6",
+    "catalogVersion": "v1.1.8",
     "links": [
      {
       "label": "Quiver",
@@ -40519,7 +40589,7 @@
      "macOS",
      "Windows"
     ],
-    "catalogVersion": "v1.0.1",
+    "catalogVersion": "v1.0.2",
     "links": [
      {
       "label": "Quiver",
@@ -40719,7 +40789,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v1.0.25",
+    "catalogVersion": "v1.0.26",
     "links": [
      {
       "label": "Quiver",
@@ -40850,7 +40920,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "v0.9.88",
+    "catalogVersion": "v0.9.90",
     "links": [
      {
       "label": "Quiver",
@@ -41082,7 +41152,8 @@
     "description": "Metroid Dread Recomp is a PC port of Metroid Dread that recompiles the game using the SwitchRecomp runtime and includes a setup screen, play screen, and in-game menu.",
     "developer": "yozander2009-stack",
     "targets": [
-     "Windows"
+     "Windows",
+     "Linux"
     ],
     "catalogVersion": "v0.5.0",
     "links": [
@@ -42142,7 +42213,7 @@
      "Windows",
      "macOS"
     ],
-    "catalogVersion": "v0.1.9",
+    "catalogVersion": "v0.1.10",
     "links": [
      {
       "label": "Quiver",
@@ -42173,7 +42244,9 @@
     "developer": "birabittoh",
     "targets": [
      "Linux",
-     "Windows"
+     "Windows",
+     "Android",
+     "macOS"
     ],
     "catalogVersion": "v1.5.0",
     "links": [
@@ -42479,7 +42552,7 @@
      "macOS",
      "Windows"
     ],
-    "catalogVersion": "v0.8.12",
+    "catalogVersion": "v0.8.14",
     "links": [
      {
       "label": "Quiver",
@@ -42808,7 +42881,7 @@
      "Windows",
      "Android"
     ],
-    "catalogVersion": "v1.8.0",
+    "catalogVersion": "v1.8.3",
     "links": [
      {
       "label": "Quiver",
@@ -42842,7 +42915,7 @@
      "macOS",
      "Windows"
     ],
-    "catalogVersion": "2.4.0",
+    "catalogVersion": "2.4.1",
     "links": [
      {
       "label": "Quiver",
@@ -43243,7 +43316,7 @@
      "iOS",
      "Linux"
     ],
-    "catalogVersion": "v0.9.4",
+    "catalogVersion": "v0.9.5",
     "links": [
      {
       "label": "Quiver",
@@ -43517,7 +43590,7 @@
      "macOS",
      "Windows"
     ],
-    "catalogVersion": "v0.6.6",
+    "catalogVersion": "v0.6.8",
     "links": [
      {
       "label": "Quiver",
@@ -43685,7 +43758,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.1.4",
+    "catalogVersion": "v0.1.5",
     "links": [
      {
       "label": "Quiver",
@@ -43957,7 +44030,7 @@
      "macOS",
      "Windows"
     ],
-    "catalogVersion": "v0.1.14",
+    "catalogVersion": "v0.1.15",
     "links": [
      {
       "label": "Quiver",
@@ -44091,7 +44164,7 @@
      "macOS",
      "Windows"
     ],
-    "catalogVersion": "v1.0.0",
+    "catalogVersion": "v1.1.1",
     "links": [
      {
       "label": "Quiver",
@@ -45109,7 +45182,7 @@
      "Windows",
      "iOS"
     ],
-    "catalogVersion": "v1.12.2.2-294",
+    "catalogVersion": "v1.12.2.3-357",
     "links": [
      {
       "label": "Quiver",
@@ -45176,7 +45249,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "v0.1.3-dev-linux-test",
+    "catalogVersion": "v0.1.3-dev-amd-test",
     "links": [
      {
       "label": "Quiver",
@@ -45467,7 +45540,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.2.5",
+    "catalogVersion": "v0.2.6",
     "links": [
      {
       "label": "Quiver",
@@ -45566,7 +45639,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v2.1.0",
+    "catalogVersion": "v2.2.1",
     "links": [
      {
       "label": "Quiver",
@@ -45663,7 +45736,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.1.0-beta.10",
+    "catalogVersion": "v0.1.0-beta.11",
     "links": [
      {
       "label": "Quiver",
@@ -45695,7 +45768,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.2.1",
+    "catalogVersion": "v0.2.2",
     "links": [
      {
       "label": "Quiver",
@@ -45862,7 +45935,7 @@
      "Windows",
      "macOS"
     ],
-    "catalogVersion": "0.16.6",
+    "catalogVersion": "0.16.8",
     "links": [
      {
       "label": "Quiver",
@@ -46585,7 +46658,7 @@
      "macOS",
      "Windows"
     ],
-    "catalogVersion": "test-pr111-479d8d361eee",
+    "catalogVersion": "test-pr111-f2ec0b82763a",
     "links": [
      {
       "label": "Quiver",
@@ -46853,7 +46926,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v2.6",
+    "catalogVersion": "v2.7",
     "links": [
      {
       "label": "Quiver",
@@ -47087,7 +47160,7 @@
      "Android",
      "Windows"
     ],
-    "catalogVersion": "reSOTv0.4.2",
+    "catalogVersion": "reSOTv0.4.3",
     "links": [
      {
       "label": "Quiver",
@@ -47713,7 +47786,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "v1.0.37",
+    "catalogVersion": "v1.0.38",
     "links": [
      {
       "label": "Quiver",
@@ -47878,7 +47951,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "v0.1.46",
+    "catalogVersion": "v0.1.53",
     "links": [
      {
       "label": "Quiver",
@@ -48142,7 +48215,7 @@
      "Android",
      "Windows"
     ],
-    "catalogVersion": "v0.4.2-beta",
+    "catalogVersion": "v0.4.4-beta",
     "links": [
      {
       "label": "Quiver",
@@ -48343,7 +48416,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v1.4.1",
+    "catalogVersion": "v1.5.0",
     "links": [
      {
       "label": "Quiver",
@@ -48833,7 +48906,7 @@
      "macOS",
      "Windows"
     ],
-    "catalogVersion": "v0.2.0",
+    "catalogVersion": "v0.2.1",
     "links": [
      {
       "label": "Quiver",
@@ -49064,7 +49137,7 @@
     "targets": [
      "Android"
     ],
-    "catalogVersion": "0.27.5",
+    "catalogVersion": "0.27.6",
     "links": [
      {
       "label": "Quiver",
@@ -49656,7 +49729,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "v0.6.4",
+    "catalogVersion": "v0.7.0",
     "links": [
      {
       "label": "Quiver",
@@ -49689,7 +49762,7 @@
      "macOS",
      "Windows"
     ],
-    "catalogVersion": "v0.9.4",
+    "catalogVersion": "v0.9.6",
     "links": [
      {
       "label": "Quiver",
@@ -49986,7 +50059,7 @@
      "iOS",
      "Windows"
     ],
-    "catalogVersion": "v0.2.1-windows-beta.3",
+    "catalogVersion": "v0.2.1-test-issue67b",
     "links": [
      {
       "label": "Quiver",
@@ -51144,7 +51217,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v1.0.0",
+    "catalogVersion": "v1.1.2",
     "links": [
      {
       "label": "Quiver",
@@ -51242,7 +51315,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v0.15.5",
+    "catalogVersion": "v0.15.6",
     "links": [
      {
       "label": "Quiver",
@@ -51801,7 +51874,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v0.1.39.4",
+    "catalogVersion": "v0.1.39.5",
     "links": [
      {
       "label": "Quiver",
@@ -52458,7 +52531,7 @@
      "macOS",
      "Windows"
     ],
-    "catalogVersion": "textures-v0.2.0-beta.1",
+    "catalogVersion": "v0.4.2",
     "links": [
      {
       "label": "Quiver",
@@ -52590,7 +52663,7 @@
      "macOS",
      "Windows"
     ],
-    "catalogVersion": "v0.24.1-alpha",
+    "catalogVersion": "v0.24.2-alpha",
     "links": [
      {
       "label": "Quiver",
@@ -52755,7 +52828,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.3.1",
+    "catalogVersion": "v0.3.4",
     "links": [
      {
       "label": "Quiver",
@@ -53220,7 +53293,7 @@
     "targets": [
      "Android"
     ],
-    "catalogVersion": "v0.2.11",
+    "catalogVersion": "v0.2.12",
     "links": [
      {
       "label": "Quiver",
@@ -53446,14 +53519,14 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.2.1",
+    "catalogVersion": "v0.3.0",
     "links": [
      {
       "label": "Quiver",
       "url": "https://quiverlauncher.com/apps/until-dawn-until-dawn-pc-recompilation"
      }
     ],
-    "image": "https://cdn2.steamgriddb.com/grid/20c796c3fbf9862b1a1be0075e997fbe.png",
+    "image": "https://cdn2.steamgriddb.com/grid/f28c89145bc5c930ba927088d63b196d.png",
     "sources": [
      "quiver"
     ]
@@ -53980,7 +54053,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "v0.1.16",
+    "catalogVersion": "v0.1.17",
     "links": [
      {
       "label": "Quiver",
@@ -54014,7 +54087,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "v0.1.13-alpha",
+    "catalogVersion": "v0.1.15-alpha",
     "links": [
      {
       "label": "Quiver",
@@ -54630,7 +54703,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.2.0",
+    "catalogVersion": "v0.2.7",
     "links": [
      {
       "label": "Quiver",
@@ -54928,7 +55001,7 @@
      "macOS",
      "Windows"
     ],
-    "catalogVersion": "v0.0.7",
+    "catalogVersion": "v0.0.8",
     "links": [
      {
       "label": "Quiver",
@@ -56264,7 +56337,7 @@
   ]
  },
  "mister": {
-  "updatedAt": "2026-11-01T20:38:30.957Z",
+  "updatedAt": "2026-11-02T18:34:06.476Z",
   "projects": [
    {
     "id": "mister-devel/archie_mister",
@@ -70303,11 +70376,11 @@
      "host": "github",
      "path": "MiSTer-LLAPI/LLAPI_folder_MiSTer"
     },
-    "description": "34 cores · optional database in update_all settings",
+    "description": "35 cores · optional database in update_all settings",
     "developer": "MiSTer-LLAPI",
     "updateAll": "optional",
     "updateAllDb": "LLAPI Folder",
-    "catalogDate": "2026-11-01",
+    "catalogDate": "2026-11-02",
     "links": [],
     "sources": [
      "mister"
@@ -70455,7 +70528,7 @@
   ]
  },
  "pocket": {
-  "updatedAt": "2026-11-02T06:28:55.587Z",
+  "updatedAt": "2026-11-02T18:34:06.476Z",
   "projects": [
    {
     "id": "gpzi994/chiskit",
@@ -70753,11 +70826,11 @@
     "targets": [
      "Analogue Pocket"
     ],
-    "catalogVersion": "1.0.0",
-    "catalogDate": "2026-11-01",
+    "catalogVersion": "1.0.1",
+    "catalogDate": "2026-11-02",
     "download": {
-     "label": "Pocket 1.0.0",
-     "url": "https://github.com/dennisbohn/openfpga-screamer/releases/download/v1.0.0/Chainy.Screamer_1.0.0.zip"
+     "label": "Pocket 1.0.1",
+     "url": "https://github.com/dennisbohn/openfpga-screamer/releases/download/v1.0.1/Chainy.Screamer_1.0.1.zip"
     },
     "links": [
      {

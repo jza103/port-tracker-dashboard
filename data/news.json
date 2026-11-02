@@ -1,6 +1,231 @@
 {
  "articles": [
   {
+   "title": "When VR Mods Go Wrong! - The Dilemma we face every day! #VR #VRMods",
+   "url": "https://www.youtube.com/watch?v=IUIih78MXnI",
+   "date": "2026-11-02T18:30:09.000Z",
+   "source": "YouTube: Paradise Decay",
+   "outlet": "YouTube: Paradise Decay",
+   "summary": "►PayPal (Buy me a coffee!): paradisedecay@virginmedia.com ►Patreon: https://www.patreon.com/ParadiseDecay ►Discord: https://discordapp.com/invite/hBgUqYD ►PD Steam Curator Group: http://store.steampowered.com/curator/6659922-Paradise-Decay-Game-Reviews/ --------------------------------------------------------------------------------------------- ☆ MY PC Specs: https://www.scan.co.uk/products/3xs-e",
+   "image": "https://i2.ytimg.com/vi/IUIih78MXnI/hqdefault.jpg",
+   "text": "When VR Mods Go Wrong! - The Dilemma we face every day! #VR #VRMods ►PayPal (Buy me a coffee!): paradisedecay@virginmedia.com ►Patreon: https://www.patreon.com/ParadiseDecay ►Discord: https://discordapp.com/invite/hBgUqYD ►PD Steam Curator Group: http://store.steampowered.com/curator/6659922-Paradise-Decay-Game-Reviews/ --------------------------------------------------------------------------------------------- ☆ MY PC Specs: https://www.scan.co.uk/products/3xs-edge-rtx-intel-core-ultra-9-285k-32gb-ddr5-16gb-nvidia-rtx-5080-2tb-ssd-win-11? ☆ My Dedicated Router: https://www.amazon.co.uk/dp/B0B42GCD76?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_1&th=1 ☆ Meta Quest 3 ☆ GeForce RTX 5080 ☆ Windows 11, 64 bit ☆ Intel(R) Core(TM) Ultra 9 285K 3.70 GHz ☆ 32.0GB Ram #wolfensteinneworder #medalofhonor #VRMod #Quest3 #QuestCreatorPartner #quest3s #metaquest #metaquest3 #metaquest3s #quest3games #roomscale #steam #NativeVR #steamvr #Quest3 #valve #uevr #firstperson #horror #medalofhonorwarfighter --------------------------------------------------------------- Thank you for watching the video! Please leave a 👍 Subscribe if you enjoy VR & hit the 🔔 🎵 - My NEW Digital Album 'Ai2': https://paradisedecay.bandcamp.com/album/ai2 👀➦ PayPal (Buy me a coffee!): paradisedecay@virginmedia.com 👾Patreon - https://www.patreon.com/ParadiseDecayTM 👕 PD Merch - https://paradise-decay-merch-shop.myspreadshop.co.uk/ 🐦 X - https://x.com/ParadiseDecayVR 📽️ Youtube - https://www.youtube.com/user/Parad",
+   "repos": [],
+   "firstSeen": "2026-11-02T18:34:06.476Z"
+  },
+  {
+   "title": "Claude’s new rules against game cloning won’t stop the AI copying boom",
+   "url": "https://arstechnica.com/ai/2026/11/claudes-new-rules-against-game-cloning-wont-stop-the-ai-copying-boom/",
+   "date": "2026-11-02T18:05:31.000Z",
+   "source": "Ars Technica",
+   "outlet": "Ars Technica",
+   "summary": "The tsunami of imitators is way bigger than any one model maker can stem.",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-1180626096-1152x648.jpg",
+   "text": "Claude’s new rules against game cloning won’t stop the AI copying boom Last week, Anthropic introduced a new system prompt designed to stop its Claude models from recreating specific, existing video games. But while that move could help shield Anthropic from some liability, it's unlikely to do much to slow a massive wave of AI-assisted game porting and copying that has emerged in recent months. A social media user and AI decompilation enthusiast going by the name \"chasm\" was among the first to note the prompt change late last week, saying a new rule seemed to be added to the Claude Code prompt on or around October 27. That rule—included in a json file under the name \"tengu_heron_brook\"—reads as follows: Do build original games, games in a genre, and games from the user’s own designs and assets. Don’t build a recreation of a specific existing game, even if it is renamed or called original. XDA later independently verified that the new rule appears in version 2.1.314 of the Claude Code binary, which was released on October 30 . XDA also reported that the \"tengu_heron_brook\" rule had been used for other purposes in earlier versions and that the Claude Opus 5.5 model specifically seemed to have its own distinct and independent instructions restricting game recreations as part of its system prompt bundle. Read full article Comments",
+   "repos": [
+    "github:anthropics/claude-code",
+    "github:Carter54git/Greates-Games-Decompilations-List"
+   ],
+   "firstSeen": "2026-11-02T18:34:06.476Z"
+  },
+  {
+   "title": "'Too Big A Risk' - Game Developer Sparks Debate After Delaying Playtest Due To AI Concerns",
+   "url": "https://www.purexbox.com/news/2026/11/too-big-a-risk-game-developer-sparks-debate-after-delaying-playtest-due-to-ai-concerns",
+   "date": "2026-11-02T18:00:00.000Z",
+   "source": "Pure Xbox",
+   "outlet": "Pure Xbox",
+   "summary": "Will it push us towards a more cloud-focused future? As AI continues to adopt a bigger influence in the gaming industry, there have been concerns in some circles about how people can use AI to reverse-engineer games, including for upcoming titles that haven't even been released yet. This became a particular talking point a couple of weeks ago when Moonlighter developer Digital Sun Games decided to",
+   "image": "https://images.purexbox.com/97f8429b1fff5/large.jpg",
+   "text": "'Too Big A Risk' - Game Developer Sparks Debate After Delaying Playtest Due To AI Concerns Will it push us towards a more cloud-focused future? As AI continues to adopt a bigger influence in the gaming industry, there have been concerns in some circles about how people can use AI to reverse-engineer games, including for upcoming titles that haven't even been released yet. This became a particular talking point a couple of weeks ago when Moonlighter developer Digital Sun Games decided to delay a planned (PC) playtest for their upcoming game ReVamp, worrying that the code might be reverse-engineered before they actually had a chance to release the full game. Read the full article on purexbox.com",
+   "repos": [],
+   "firstSeen": "2026-11-02T18:34:06.476Z"
+  },
+  {
+   "title": "Indiana Jones VR Lets You Crack the Whip!",
+   "url": "https://www.youtube.com/watch?v=Rs9ORlIGU9I",
+   "date": "2026-11-02T17:00:08.000Z",
+   "source": "YouTube: Beardo Benjo",
+   "outlet": "YouTube: Beardo Benjo",
+   "summary": "Indiana Jones and the Great Circle is now playable in VR with FULL motion controls! From physically cracking Indy's iconic whip to throwing punches and enjoying all the small details inside ancient temples, this incredible new VR mod lets you experience the adventure like never before. Created by the same talented modder behind the DOOM 2016 and DOOM Eternal VR mods (Cactus Cowboy dev), this PC VR",
+   "image": "https://i3.ytimg.com/vi/Rs9ORlIGU9I/hqdefault.jpg",
+   "text": "Indiana Jones VR Lets You Crack the Whip! Indiana Jones and the Great Circle is now playable in VR with FULL motion controls! From physically cracking Indy's iconic whip to throwing punches and enjoying all the small details inside ancient temples, this incredible new VR mod lets you experience the adventure like never before. Created by the same talented modder behind the DOOM 2016 and DOOM Eternal VR mods (Cactus Cowboy dev), this PC VR conversion is an ambitious step towards becoming the ultimate Indiana Jones VR game. It's not perfect yet, and you'll definitely need a powerful PC to run this one, but there's already a lot to love! You can try Indiana Jones VR here: https://github.com/CactusVRStudios/KHARVOX-CIRCLE Join this channel to get access to perks: https://www.youtube.com/channel/UCSzUG-hFZgaKpYA6w2WS8sQ/join If you want more VR gameplay videos, VR game reviews & VR first impressions then make sure to leave a like, drop a comment down below & hit subscribe to be rewarded with a constant stream of endless content made with love and care. I release a new pure gameplay video every Monday & cover first impressions & VR horror longplays 3 to 4 times a week. All your support is appreciated & simply engaging with these videos helps me to continue improving the content I make. Follow me on Twitter here - https://twitter.com/BeardoBenjoYT #VR #MetaQuest #VRGameplay #Quest3 #PSVR2 #Quest2 #PCVR #Questcreatorpartner - Indiana Jones VR Game / VR Indiana Jones Game - Indiana Jo",
+   "repos": [
+    "github:CactusVRStudios/KHARVOX-CIRCLE"
+   ],
+   "firstSeen": "2026-11-02T18:34:06.476Z"
+  },
+  {
+   "title": "Anthropic Restricts AI Bot Claude's Ability to Clone or Decompile 'Specific Existing Games'",
+   "url": "https://www.timeextension.com/news/2026/11/anthropic-restricts-ai-bot-claudes-ability-to-clone-or-decompile-specific-existing-games",
+   "date": "2026-11-02T16:00:00.000Z",
+   "source": "Time Extension",
+   "outlet": "Time Extension",
+   "summary": "Band-Aid on a Machete Wound. Anthropic, the owner of Claude Code, quietly added new rulings to the AI bot's programming this past weekend, seemingly in an effort to prevent its widespread use in the cloning, reverse-engineering, and decompilation of existing games. As spotted by various users on Twitter/X , the newly established Line 2397, denoted \"tengu_heron_brook\", requests that Claude \"(Does) ",
+   "image": "https://images.timeextension.com/2f4c55c8b0637/large.jpg",
+   "text": "Anthropic Restricts AI Bot Claude's Ability to Clone or Decompile 'Specific Existing Games' Band-Aid on a Machete Wound. Anthropic, the owner of Claude Code, quietly added new rulings to the AI bot's programming this past weekend, seemingly in an effort to prevent its widespread use in the cloning, reverse-engineering, and decompilation of existing games. As spotted by various users on Twitter/X , the newly established Line 2397, denoted \"tengu_heron_brook\", requests that Claude \"(Does) build original games, games in a genre, and games from the user’s own designs and assets. Don’t build a recreation of a specific existing game, even if it is renamed or called original.\" The new line of code cannot be removed or bypassed by users. Read the full article on timeextension.com",
+   "repos": [],
+   "firstSeen": "2026-11-02T18:34:06.476Z"
+  },
+  {
+   "title": "Elden Ring VR: ERVR Update",
+   "url": "https://www.youtube.com/watch?v=iFz5bZTooWk",
+   "date": "2026-11-02T15:30:00.000Z",
+   "source": "YouTube: LunchAndVR",
+   "outlet": "YouTube: LunchAndVR",
+   "summary": "Elden Ring's VR Mod ERVR finally has an update after a long time, we now have weapon wheels! Motion controls and combat is better (no more weird penalty system), visually stereo looks better too. It also works crossplay in multiplayer with flatscreen or VR players. Mod still has a long way to go, but glad Ilya is working on it again. Important note: Offline or Seamless Co-op only. ERVR runs with E",
+   "image": "https://i2.ytimg.com/vi/iFz5bZTooWk/hqdefault.jpg",
+   "text": "Elden Ring VR: ERVR Update Elden Ring's VR Mod ERVR finally has an update after a long time, we now have weapon wheels! Motion controls and combat is better (no more weird penalty system), visually stereo looks better too. It also works crossplay in multiplayer with flatscreen or VR players. Mod still has a long way to go, but glad Ilya is working on it again. Important note: Offline or Seamless Co-op only. ERVR runs with Easy Anti-Cheat off, and the launcher starts the game that way. Never use it with EAC on or in FromSoftware's online play: that risks a ban on your account. Elden Ring Version 1.16.2, 1.17.1 or 1.17.2 Mod also has an installer now: https://github.com/IlyaMez/EldenringVR Played on Quest 3, Virtual Desktop Ultra 90hz Game res: 75%, Graphics Medium PC: 4090 13900k _ Thanks for coming! Appreciate you dropping by here, you're a cool person. If you want to stay around, I do all things VR & gaming related. (lunch included) Lunch's Discounts/affiliates here: https://linktr.ee/lunchandvr On this LunchAndVR YouTube Channel you'll always find the latest VR gameplay, PCVR mods, and honest virtual reality hardware reviews across the best headsets like the Meta Quest 3, Meta Quest 3S, Pimax Crystal Super, Steam Frame, and PSVR2. We dive deep into flat-to-VR modding using Praydog's UEVR injector, OpenXR, and custom 6DOF conversions for massive games like Elden Ring VR (ERVR Update by IlyaMez), Cyberpunk 2077 VR, Titanfall 2 VR, Bodycam VR, DOOM VR, Gunman Contracts, Reside",
+   "repos": [
+    "github:IlyaMez/EldenringVR"
+   ],
+   "firstSeen": "2026-11-02T18:34:06.476Z"
+  },
+  {
+   "title": "Dragon's Dogma: Dark Arisen VR Performance / New VR Mod / Meta Quest 3 + RTX 4080 Super",
+   "url": "https://www.youtube.com/watch?v=3CO1GSLt5fM",
+   "date": "2026-11-02T15:00:15.000Z",
+   "source": "YouTube: NotAGameAddict",
+   "outlet": "YouTube: NotAGameAddict",
+   "summary": "00:00 - Intro 01:21 - Game settings 01:35 - VR Launcher overview 02:14 - VR gameplay with FPS overlay 05:39 - VR gameplay Dragon's Dogma: Dark Arisen VR mod made by Braxusx - https://github.com/Braxusx/DDDAVR Dragon's Dogma: Dark Arisen - https://store.steampowered.com/app/367500/Dragons_Dogma_Dark_Arisen/",
+   "image": "https://i4.ytimg.com/vi/3CO1GSLt5fM/hqdefault.jpg",
+   "text": "Dragon's Dogma: Dark Arisen VR Performance / New VR Mod / Meta Quest 3 + RTX 4080 Super 00:00 - Intro 01:21 - Game settings 01:35 - VR Launcher overview 02:14 - VR gameplay with FPS overlay 05:39 - VR gameplay Dragon's Dogma: Dark Arisen VR mod made by Braxusx - https://github.com/Braxusx/DDDAVR Dragon's Dogma: Dark Arisen - https://store.steampowered.com/app/367500/Dragons_Dogma_Dark_Arisen/",
+   "repos": [
+    "github:Braxusx/DDDAVR"
+   ],
+   "firstSeen": "2026-11-02T18:34:06.476Z"
+  },
+  {
+   "title": "'We Have the Skills to Bring Love to These Old Games' - After Last Month's Beta, MediEvil's AI-Free Recomp Hits Version 1.0",
+   "url": "https://www.timeextension.com/news/2026/11/we-have-the-skills-to-bring-love-to-these-old-games-after-last-months-beta-medievils-ai-free-recomp-hits-version-1-0",
+   "date": "2026-11-02T15:00:00.000Z",
+   "source": "Time Extension",
+   "outlet": "Time Extension",
+   "summary": "Includes new fixes and improved modding support. We have some good news for MediEvil fans! The recompilation of the original PS1 title has officially hit 1.0, bringing a ton of fixes and improvements based on feedback from last month's beta . This includes improved stability, fixes for analogue handling, audio playback and the FMVs, as well as \"support for slang/libretro shader presets through Sha",
+   "image": "https://images.timeextension.com/57bc83a9f27c1/large.jpg",
+   "text": "'We Have the Skills to Bring Love to These Old Games' - After Last Month's Beta, MediEvil's AI-Free Recomp Hits Version 1.0 Includes new fixes and improved modding support. We have some good news for MediEvil fans! The recompilation of the original PS1 title has officially hit 1.0, bringing a ton of fixes and improvements based on feedback from last month's beta . This includes improved stability, fixes for analogue handling, audio playback and the FMVs, as well as \"support for slang/libretro shader presets through ShaderMod,\" a Mod Hub \"to browse and install mods, asset packs, and shaders,\" and \"an in-game Asset Pack Editor to create and edit packs\" (the full list is available here under changes ). Read the full article on timeextension.com",
+   "repos": [
+    "github:BlackLabelHQ/MediEvilRecomp",
+    "github:BlackLabelHQ/RecompOne"
+   ],
+   "firstSeen": "2026-11-02T18:34:06.476Z"
+  },
+  {
+   "title": "Dying Light VR Multiplayer Tests!",
+   "url": "https://www.youtube.com/shorts/QwygHEugXPU",
+   "date": "2026-11-02T14:30:15.000Z",
+   "source": "YouTube: LunchAndVR",
+   "outlet": "YouTube: LunchAndVR",
+   "summary": "Testing multiplayer in Sadboi's DL1 VR mod, coming soon! _ Thanks for coming! Appreciate you dropping by here, you're a cool person. If you want to stay around, I do all things VR & gaming related. (lunch included) Lunch's Discounts/affiliates here: https://linktr.ee/lunchandvr",
+   "image": "https://i2.ytimg.com/vi/QwygHEugXPU/hqdefault.jpg",
+   "text": "Dying Light VR Multiplayer Tests! Testing multiplayer in Sadboi's DL1 VR mod, coming soon! _ Thanks for coming! Appreciate you dropping by here, you're a cool person. If you want to stay around, I do all things VR & gaming related. (lunch included) Lunch's Discounts/affiliates here: https://linktr.ee/lunchandvr",
+   "repos": [],
+   "firstSeen": "2026-11-02T18:34:06.476Z"
+  },
+  {
+   "title": "Super Smash Bros for Wii U Recomp Out NOW! Early Alpha but Impressive",
+   "url": "https://www.youtube.com/watch?v=eGaHlG8tVAQ",
+   "date": "2026-11-02T13:30:29.000Z",
+   "source": "YouTube: Video Game Esoterica",
+   "outlet": "YouTube: Video Game Esoterica",
+   "summary": "SUPPORT THE CHANNEL : http://www.patreon.com/VideoGameEsoterica First we got a The Legend of Zelda: Wind Waker HD recomp as a Wii U recomp...and now we have Super Smash Bros for Wii U recomp fun to talk about! Smash PC ports? Why not! Enough about the Twilight Princess PC port Dusklight and Courage Reborn (ok both are epic and I will talk more about Zelda PC port fun soon)...a The Legend of Zelda:",
+   "image": "https://i2.ytimg.com/vi/eGaHlG8tVAQ/hqdefault.jpg",
+   "text": "Super Smash Bros for Wii U Recomp Out NOW! Early Alpha but Impressive SUPPORT THE CHANNEL : http://www.patreon.com/VideoGameEsoterica First we got a The Legend of Zelda: Wind Waker HD recomp as a Wii U recomp...and now we have Super Smash Bros for Wii U recomp fun to talk about! Smash PC ports? Why not! Enough about the Twilight Princess PC port Dusklight and Courage Reborn (ok both are epic and I will talk more about Zelda PC port fun soon)...a The Legend of Zelda: Wind Waker Recomp is out now! And its a Wind Waker HD recomp! Wii U recomps are possible now...so lets take a look! Because as far as new Zelda games go Nintendo has given us NO info...so let's have another Nintendo PC port instead! Note: Outset Island music now ISNT allowed to be used. Wow. So that silence was intentional Check it out here: you need to find this on your own. Smash4PC Questions? Comments? Just leave them below and I will do my best to answer each and every one of them! http://www.patreon.com/VideoGameEsoterica VGE",
+   "repos": [],
+   "firstSeen": "2026-11-02T18:34:06.476Z"
+  },
+  {
+   "title": "Anthropic confirms new Claude Code limits to prevent game cloning, users report blocking reverse engineering tasks",
+   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-confirms-new-claude-code-limits-to-prevent-game-cloning-users-report-opus-5-5-is-also-actively-blocking-reverse-engineering-tasks",
+   "date": "2026-11-02T12:30:00.000Z",
+   "source": "Tom's Hardware",
+   "outlet": "Tom's Hardware",
+   "summary": "Anthropic employee confirms that Claude Code now has orders not to reproduce game IP — company \"iterating to ensure [...] the right balance\"",
+   "image": "https://cdn.mos.cms.futurecdn.net/qziRh5FuRAUAAnNS3QuCiU-1920-80.jpg",
+   "text": "Anthropic confirms new Claude Code limits to prevent game cloning, users report blocking reverse engineering tasks Anthropic's recent move to have Claude Code deny video game cloning and possibly reverse engineering efforts has come under heavy fire from the software development community. Hot on the heels of Friday's report on the matter, an Anthropic employee responded to the tweet with the purported rule update with a direct statement confirming that the firm added guardrails to Claude Code to prevent game recreation. In the full tweet, which you can read below, Addy Osmani says that \"[Anthropic] added two sentences to Claude Code's prompt on Opus 5.5 to steer it away from recreating someone else's specific game because using Claude to infringe IP is against [its] usage policy.\" He goes on to state that work on original games is meant to continue working, and that Anthropic is iterating on the rules to try and \"strike the right balance.\" We added two sentences to Claude Code's prompt on Opus 5.5 to steer it away from recreating someone else's specific game because using Claude to infringe IP is against our usage policy. Original games, genre games, and games built from your own designs and assets are meant to keep working. We'll continue to iterate to ensure we're striking the right balance. In the meantime, if Claude turns down something that's yours, send it my way. October 30, 2026 There's no telling what those sentences might be, though given Osmani's choice of words, ",
+   "repos": [
+    "github:morluto/rea"
+   ],
+   "firstSeen": "2026-11-02T18:34:06.476Z"
+  },
+  {
+   "title": "Play Game Inspired by Hard Boiled #vr #vrmods #fps #gaming #metaquest3 #hardboiled #johnwoo",
+   "url": "https://www.youtube.com/shorts/YErlUgOwmNM",
+   "date": "2026-11-02T11:00:09.000Z",
+   "source": "YouTube: FastLawyer",
+   "outlet": "YouTube: FastLawyer",
+   "summary": "Playing Cop Bastard in VR with the latest FREE VR Mod from King EJ on the Meta Quest 3 (PCVR).",
+   "image": "https://i2.ytimg.com/vi/YErlUgOwmNM/hqdefault.jpg",
+   "text": "Play Game Inspired by Hard Boiled #vr #vrmods #fps #gaming #metaquest3 #hardboiled #johnwoo Playing Cop Bastard in VR with the latest FREE VR Mod from King EJ on the Meta Quest 3 (PCVR).",
+   "repos": [],
+   "firstSeen": "2026-11-02T18:34:06.476Z"
+  },
+  {
+   "title": "Onimusha Way of The Sword in Virtual Reality is...Absolutely Sublime.",
+   "url": "https://www.youtube.com/watch?v=SCKt7oO2BMA",
+   "date": "2026-11-02T10:34:16.000Z",
+   "source": "YouTube: TheReclusiveGamer",
+   "outlet": "YouTube: TheReclusiveGamer",
+   "summary": "So I just recently discovered that this game is VR compatible with a mod...I had no clue that this mod was even in existence...performance for me wasn't the best so I also used OFXR Bridge while playing the game in VR,which made the performance more tolerable...besides that,the game looks awesome in VR...a link to the mod is down below,enjoy. #OnimushaWayOfTheSword #Onimusha #VR #VirtualReality #P",
+   "image": "https://i4.ytimg.com/vi/SCKt7oO2BMA/hqdefault.jpg",
+   "text": "Onimusha Way of The Sword in Virtual Reality is...Absolutely Sublime. So I just recently discovered that this game is VR compatible with a mod...I had no clue that this mod was even in existence...performance for me wasn't the best so I also used OFXR Bridge while playing the game in VR,which made the performance more tolerable...besides that,the game looks awesome in VR...a link to the mod is down below,enjoy. #OnimushaWayOfTheSword #Onimusha #VR #VirtualReality #Praydog #Taleman #REFramework #MetaQuest3 #VirtualDesktop #Capcom VR Mod: https://github.com/Talemann1982/OnimushaWOTSVR OFXR Bridge: https://github.com/tig3rmast3r/OFXR-Bridge",
+   "repos": [
+    "github:Talemann1982/OnimushaWOTSVR",
+    "github:tig3rmast3r/OFXR-Bridge"
+   ],
+   "firstSeen": "2026-11-02T18:34:06.476Z"
+  },
+  {
+   "title": "The House of the Dead 4 VR Performance / New Meta Quest Standalone VR Mod / Quest 3",
+   "url": "https://www.youtube.com/watch?v=eAJe8k7-s8A",
+   "date": "2026-11-02T09:37:28.000Z",
+   "source": "YouTube: NotAGameAddict",
+   "outlet": "YouTube: NotAGameAddict",
+   "summary": "00:00 - VR settings 00:45 - VR gameplay The House of the Dead 4 VR mod was made by Lindbergh Recomp Ports - https://github.com/lialan/lindbergh-recomp-ports",
+   "image": "https://i2.ytimg.com/vi/eAJe8k7-s8A/hqdefault.jpg",
+   "text": "The House of the Dead 4 VR Performance / New Meta Quest Standalone VR Mod / Quest 3 00:00 - VR settings 00:45 - VR gameplay The House of the Dead 4 VR mod was made by Lindbergh Recomp Ports - https://github.com/lialan/lindbergh-recomp-ports",
+   "repos": [
+    "github:lialan/lindbergh-recomp-ports"
+   ],
+   "firstSeen": "2026-11-02T18:34:06.476Z"
+  },
+  {
+   "title": "Native PC Port of the Original God of War Arrives With Modern Enhancements",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORC00ODAybWp0bWF0bS0wczFaTzBpZTBqM3RnWGduZXhLM1FTYUFFMXRGcWZ4QWtPd3BFZXd2OEJ2cmlSTDdIUUttVFJfNGFWaUx4dGNzMEw3RHNlU2dldFc2WHRFVlhSbWFPRGdFRW9kcGIxSk9WcWlzUlExUmUyelR0OUJNUTIzWFZ3OHBkZlNZeXVfNE5DVlhKMm1pa25M?oc=5",
+   "date": "2026-11-02T08:20:31.000Z",
+   "source": "Google News",
+   "outlet": "eTeknix",
+   "summary": "",
+   "image": null,
+   "text": "Native PC Port of the Original God of War Arrives With Modern Enhancements - eTeknix Native PC Port of the Original God of War Arrives With Modern Enhancements eTeknix",
+   "repos": [],
+   "firstSeen": "2026-11-02T18:34:06.476Z"
+  },
+  {
+   "title": "Phantom Blade Zero in Virtual Reality Looks Absolutely Surreal...",
+   "url": "https://www.youtube.com/watch?v=3MojBUyXr_Q",
+   "date": "2026-11-02T07:00:44.000Z",
+   "source": "YouTube: TheReclusiveGamer",
+   "outlet": "YouTube: TheReclusiveGamer",
+   "summary": "So I finally got around to testing this game out in VR with the UEVR injector and I'm pretty impressed...the performance could be better but the game is playable and looks great...and ofcourse,I also added a few mods to nobody's shock as well. #PhantomBladeZero #VR #VirtualReality #UEVR #MetaQuest3 #VirtualDesktop #PCVR",
+   "image": "https://i4.ytimg.com/vi/3MojBUyXr_Q/hqdefault.jpg",
+   "text": "Phantom Blade Zero in Virtual Reality Looks Absolutely Surreal... So I finally got around to testing this game out in VR with the UEVR injector and I'm pretty impressed...the performance could be better but the game is playable and looks great...and ofcourse,I also added a few mods to nobody's shock as well. #PhantomBladeZero #VR #VirtualReality #UEVR #MetaQuest3 #VirtualDesktop #PCVR",
+   "repos": [],
+   "firstSeen": "2026-11-02T18:34:06.476Z"
+  },
+  {
+   "title": "Hardcore Horror Survival - Nightmare of Decay VR Mod - Native Stereo, Head-Tracking, 6DOF Weapons",
+   "url": "https://www.youtube.com/watch?v=fY4PIg8SIg4",
+   "date": "2026-11-02T04:45:27.000Z",
+   "source": "YouTube: FastLawyer",
+   "outlet": "YouTube: FastLawyer",
+   "summary": "I bought this game! Nightmare of Decay is a budget-priced, 1st person, hard-core classic horror survival game inspired by Resident Evil. You can now play Nightmare of Decay in VR with the FREE VR Mod from King EJ! Played on the Meta Quest 3 using Virtual Desktop on my RTX 5090. You can purchase game on Steam here: https://store.steampowered.com/app/1848450/Nightmare_of_Decay/ FREE VR Mod from King",
+   "image": "https://i3.ytimg.com/vi/fY4PIg8SIg4/hqdefault.jpg",
+   "text": "Hardcore Horror Survival - Nightmare of Decay VR Mod - Native Stereo, Head-Tracking, 6DOF Weapons I bought this game! Nightmare of Decay is a budget-priced, 1st person, hard-core classic horror survival game inspired by Resident Evil. You can now play Nightmare of Decay in VR with the FREE VR Mod from King EJ! Played on the Meta Quest 3 using Virtual Desktop on my RTX 5090. You can purchase game on Steam here: https://store.steampowered.com/app/1848450/Nightmare_of_Decay/ FREE VR Mod from King EJ here: https://github.com/King-EJ/Nightmare-of-Decay-VR Support King EJ @K1ngGamer24 by joining his YouTube channel here: https://www.youtube.com/@UCrZzZmyrX6kD41umpn4xd6w",
+   "repos": [
+    "github:King-EJ/Nightmare-of-Decay-VR"
+   ],
+   "firstSeen": "2026-11-02T18:34:06.476Z"
+  },
+  {
    "title": "Finding Xanadu: Inside a JRPG classic translation 15 years in the making",
    "url": "https://readonlymemo.com/legend-of-xanadu-pc-engine-fan-translation-interview-making-of/",
    "date": "2026-11-02T04:05:08.000Z",
@@ -23,6 +248,20 @@
    "firstSeen": "2026-11-02T06:28:55.587Z"
   },
   {
+   "title": "Wolfenstein: The New Order VR Performance / New VR Mod with 6DOF Motion Controls / PCVR",
+   "url": "https://www.youtube.com/watch?v=6p7nnXTqM8Y",
+   "date": "2026-11-02T00:46:24.000Z",
+   "source": "YouTube: NotAGameAddict",
+   "outlet": "YouTube: NotAGameAddict",
+   "summary": "00:00 - Graphic settings 00:25 - VR gameplay 05:57 - VR gameplay with FPS overlay Wolfenstein VR mod was made by Mamfro - https://github.com/Mamfro/wolfenstein-games-vr Wolfenstein: The New Order - https://store.steampowered.com/app/201810/Wolfenstein_The_New_Order/ Totally optional: https://buymeacoffee.com/notagameaddict",
+   "image": "https://i3.ytimg.com/vi/6p7nnXTqM8Y/hqdefault.jpg",
+   "text": "Wolfenstein: The New Order VR Performance / New VR Mod with 6DOF Motion Controls / PCVR 00:00 - Graphic settings 00:25 - VR gameplay 05:57 - VR gameplay with FPS overlay Wolfenstein VR mod was made by Mamfro - https://github.com/Mamfro/wolfenstein-games-vr Wolfenstein: The New Order - https://store.steampowered.com/app/201810/Wolfenstein_The_New_Order/ Totally optional: https://buymeacoffee.com/notagameaddict",
+   "repos": [
+    "github:Mamfro/wolfenstein-games-vr"
+   ],
+   "firstSeen": "2026-11-02T18:34:06.476Z"
+  },
+  {
    "title": "Cheap FPGA Board Becomes Retro-Style Computer",
    "url": "https://hackaday.com/2026/11/01/cheap-fpga-board-becomes-retro-style-computer/",
    "date": "2026-11-02T00:00:00.000Z",
@@ -33,6 +272,48 @@
    "text": "Cheap FPGA Board Becomes Retro-Style Computer The Tang Nano 9K is a cheap FPGA development board that can usually be acquired for around $15 or so. [ThePartsBin] has been experimenting with this hardware and figured out how to set it up as a retro-style computer. The board is based around the Gowin GW1NR-9C FPGA which only has 8,640 LUTs. However, that's enough to spin up a 36 MHz RISC-V CPU, and there's 8 MB of RAM on tap, along with HDMI, 48 kHz stereo audio output, two USB ports, and an SD card reader. Combine all that together, and you've got a machine capable of playing a whole raft of classic 1990s games. [ThePartsBin] ported Doom, Tyrian, System Shock and Ultima VII, all of which run at a playable speed at a tasty 720 x 480 resolution. The writeup does a great job of explaining what it took to actually implement these classic games on the platform. Tons of compromises were made along the way, but that's the engineering challenge, isn't it? If you're looking to play retro games, this is not really the fastest or cheapest way to do it. You could probably just emulate them on the machine you're using to read this very website. If you're trying to get to grips with a new FPGA board for the first time, though, projects like this can be a very useful learning experience indeed .",
    "repos": [],
    "firstSeen": "2026-11-02T06:28:55.587Z"
+  },
+  {
+   "title": "STAR WARS™ Battlefront II (Classic, 2005) VR / New VR Mod with 6DOF Motion Control / PCVR",
+   "url": "https://www.youtube.com/watch?v=QoflzVKpkjc",
+   "date": "2026-11-01T22:50:26.000Z",
+   "source": "YouTube: NotAGameAddict",
+   "outlet": "YouTube: NotAGameAddict",
+   "summary": "00:00 - VR settings 00:30 - VR gameplay with FPS overlay 04:57 - VR gameplay 09:49 - Multiplayer Classic BF2VR mod was made by Addvans - https://github.com/addvans/Classic-BF2VR-Mod STAR WARS™ Battlefront II (Classic, 2005) - https://store.steampowered.com/app/6060/STAR_WARS_Battlefront_II_Classic_2005/ Totally optional: https://buymeacoffee.com/notagameaddict",
+   "image": "https://i2.ytimg.com/vi/QoflzVKpkjc/hqdefault.jpg",
+   "text": "STAR WARS™ Battlefront II (Classic, 2005) VR / New VR Mod with 6DOF Motion Control / PCVR 00:00 - VR settings 00:30 - VR gameplay with FPS overlay 04:57 - VR gameplay 09:49 - Multiplayer Classic BF2VR mod was made by Addvans - https://github.com/addvans/Classic-BF2VR-Mod STAR WARS™ Battlefront II (Classic, 2005) - https://store.steampowered.com/app/6060/STAR_WARS_Battlefront_II_Classic_2005/ Totally optional: https://buymeacoffee.com/notagameaddict",
+   "repos": [
+    "github:addvans/Classic-BF2VR-Mod"
+   ],
+   "firstSeen": "2026-11-02T18:34:06.476Z"
+  },
+  {
+   "title": "How to Play PS4 PC Ports Guide! Play Every PS4 PC Port Easily",
+   "url": "https://www.youtube.com/watch?v=TeqTi3L-zRo",
+   "date": "2026-11-01T22:00:10.000Z",
+   "source": "YouTube: Video Game Esoterica",
+   "outlet": "YouTube: Video Game Esoterica",
+   "summary": "SUPPORT THE CHANNEL : http://www.patreon.com/VideoGameEsoterica We have a ton of PS4 PC ports now...so its time for a how to Play PS4 PC Ports Guide / how to Play PS4 PC ports tutorial! or a PS4 PC Port Setup guide (i think ive said all the right words now!) and don't forget...this is for the games you own! AnyPS5 has PS5 \"recomps\" covered...but what about PS4 PC ports? and PS4 recomps? Well someo",
+   "image": "https://i1.ytimg.com/vi/TeqTi3L-zRo/hqdefault.jpg",
+   "text": "How to Play PS4 PC Ports Guide! Play Every PS4 PC Port Easily SUPPORT THE CHANNEL : http://www.patreon.com/VideoGameEsoterica We have a ton of PS4 PC ports now...so its time for a how to Play PS4 PC Ports Guide / how to Play PS4 PC ports tutorial! or a PS4 PC Port Setup guide (i think ive said all the right words now!) and don't forget...this is for the games you own! AnyPS5 has PS5 \"recomps\" covered...but what about PS4 PC ports? and PS4 recomps? Well someone decompiled P.T. (the cancelled Silent Hill game playable trailer) and ported it to PC...but the OG of PS4 emulation, God of War III Remastered, now has a PC Port! and a Bloodborne PC port! and a Shadow of the Colossus PC port! and a Uncharted: The Nathan Drake Collection PC port! and more! We have talked a lot about retro gaming recomps and retro gaming PC ports on the channel along with PS5 emulation improvements with KytyPS5 and SharpEmu...but today its all about PS4! Windows (version tested): https://github.com/FelipePrado0/gow3_pc Questions? Comments? Just leave them below and I will do my best to answer each and every one of them! http://www.patreon.com/VideoGameEsoterica You can follow us at IG : ChicagoGameCollector , or join our Discord Server : https://discord.gg/qhsbXgK4M2",
+   "repos": [
+    "github:FelipePrado0/gow3_pc"
+   ],
+   "firstSeen": "2026-11-02T18:34:06.476Z"
+  },
+  {
+   "title": "Battlefield 2 VR v1.2.0 Performance / VR Mod with 6DOF Motion Controls / Quest 3 + RTX 4080 Super",
+   "url": "https://www.youtube.com/watch?v=MAS2dZ6BgEo",
+   "date": "2026-11-01T21:20:13.000Z",
+   "source": "YouTube: NotAGameAddict",
+   "outlet": "YouTube: NotAGameAddict",
+   "summary": "00:00 - Intro 00:21 - VR settings 01:09 - Vehicles 05:06 - Weapons testing 07:07 - Strike at Karkand Battlefield 2 VR was made by Gawkyorange5 - https://github.com/Gawkyorange5/BF2-VR Totally optional: https://buymeacoffee.com/notagameaddict",
+   "image": "https://i2.ytimg.com/vi/MAS2dZ6BgEo/hqdefault.jpg",
+   "text": "Battlefield 2 VR v1.2.0 Performance / VR Mod with 6DOF Motion Controls / Quest 3 + RTX 4080 Super 00:00 - Intro 00:21 - VR settings 01:09 - Vehicles 05:06 - Weapons testing 07:07 - Strike at Karkand Battlefield 2 VR was made by Gawkyorange5 - https://github.com/Gawkyorange5/BF2-VR Totally optional: https://buymeacoffee.com/notagameaddict",
+   "repos": [
+    "github:Gawkyorange5/BF2-VR"
+   ],
+   "firstSeen": "2026-11-02T18:34:06.476Z"
   },
   {
    "title": "NS2 Emulation Advances, Dino Crisis 3, Bloody Roar Extreme Ports, Moonwalker 32X, MiSTer Stuff - 379",
@@ -113,14 +394,14 @@
    "firstSeen": "2026-11-01T20:38:30.957Z"
   },
   {
-   "title": "10 NEW VR Games & Mods You NEED to See in November 2026",
+   "title": "November Is Looking Seriously Good for VR...",
    "url": "https://www.youtube.com/watch?v=RPd61hatCcs",
    "date": "2026-11-01T17:00:10.000Z",
    "source": "YouTube: Gamertag VR",
    "outlet": "YouTube: Gamertag VR",
    "summary": "November 2026 is bringing some seriously exciting VR games, including PAYDAY: Aces High, Forefront on PlayStation VR2, Zero Caliber 2, Hot Dogs, Horseshoes & Hand Grenades 2 for Quest 3, and potentially Five Nights at Freddy's: Secret of the Mimic also on Meta Quest 3. Also the VR modding scene is showing no signs of slowing down, with Gears of War: E-Day, Indiana Jones and the Great Circle, Metro",
    "image": "https://i3.ytimg.com/vi/RPd61hatCcs/hqdefault.jpg",
-   "text": "10 NEW VR Games & Mods You NEED to See in November 2026 November 2026 is bringing some seriously exciting VR games, including PAYDAY: Aces High, Forefront on PlayStation VR2, Zero Caliber 2, Hot Dogs, Horseshoes & Hand Grenades 2 for Quest 3, and potentially Five Nights at Freddy's: Secret of the Mimic also on Meta Quest 3. Also the VR modding scene is showing no signs of slowing down, with Gears of War: E-Day, Indiana Jones and the Great Circle, Metro Exodus, Shenmue and F-Zero GX all getting the VR treatment. In this video, we're checking out the latest VR games coming to Meta Quest 3, PSVR2, PCVR and Steam Frame, alongside some incredible new and upcoming VR mods. Which game or mod are you most excited about? Let me know in the comments! VR GAMES FEATURED PAYDAY: Aces High — November 5 (Quest, PCVR, Steam Frame) https://store.steampowered.com/app/3456660/PAYDAY_Aces_High/ Forefront — November 5 (PSVR2) https://store.playstation.com/en-gb/concept/10018044/ Zero Caliber 2 Remastered — November 5 (PSVR2) https://store.playstation.com/en-gb/concept/10019536/ Sunstone of Time — November 25 (PCVR) https://store.steampowered.com/app/4116400/Sunstone_of_Time/ Hot Dogs, Horseshoes & Hand Grenades 2 — November 12 (Quest 3/3S) https://www.meta.com/experiences/hot-dogs-horseshoes-hand-grenades-2/26291709480509388/ Five Nights at Freddy's: Secret of the Mimic — Quest (Release date TBC) https://www.meta.com/experiences/five-nights-at-freddys-secret-of-the-mimic/25256582767358355/ 🔥 VR ",
+   "text": "November Is Looking Seriously Good for VR... November 2026 is bringing some seriously exciting VR games, including PAYDAY: Aces High, Forefront on PlayStation VR2, Zero Caliber 2, Hot Dogs, Horseshoes & Hand Grenades 2 for Quest 3, and potentially Five Nights at Freddy's: Secret of the Mimic also on Meta Quest 3. Also the VR modding scene is showing no signs of slowing down, with Gears of War: E-Day, Indiana Jones and the Great Circle, Metro Exodus, Shenmue and F-Zero GX all getting the VR treatment. In this video, we're checking out the latest VR games coming to Meta Quest 3, PSVR2, PCVR and Steam Frame, alongside some incredible new and upcoming VR mods. Which game or mod are you most excited about? Let me know in the comments! VR GAMES FEATURED PAYDAY: Aces High — November 5 (Quest, PCVR, Steam Frame) https://store.steampowered.com/app/3456660/PAYDAY_Aces_High/ Forefront — November 5 (PSVR2) https://store.playstation.com/en-gb/concept/10018044/ Zero Caliber 2 Remastered — November 5 (PSVR2) https://store.playstation.com/en-gb/concept/10019536/ Sunstone of Time — November 25 (PCVR) https://store.steampowered.com/app/4116400/Sunstone_of_Time/ Hot Dogs, Horseshoes & Hand Grenades 2 — November 12 (Quest 3/3S) https://www.meta.com/experiences/hot-dogs-horseshoes-hand-grenades-2/26291709480509388/ Five Nights at Freddy's: Secret of the Mimic — Quest (Release date TBC) https://www.meta.com/experiences/five-nights-at-freddys-secret-of-the-mimic/25256582767358355/ 🔥 VR MODS FEATUR",
    "repos": [
     "github:paultaran00/GoWEDay-VR",
     "github:CactusVRStudios/KHARVOX-CIRCLE"
@@ -6081,27 +6362,6 @@
    "text": "Silent Hill 1 PC PORT VR Test - Positional tracking works!!! Porting the VR mod from Duckstation to the pc build fixed alot of issues, now we have acceptable frame rates and higher fidelity Join this channel to get access to perks: https://www.youtube.com/channel/UC980GIIFgzq2ebNtLgTZSEA/join VRified Games Watch our Sister Channel VRified Fit, youtube.com/channel/UC980GIIFgzq2ebNtLgTZSEA more focused on using immersive tech and gaming to achieve fitness goals https://www.facebook.com/vrifiedgames/ Add me on Tik Tok: https://www.tiktok.com/@vrified_games Patreon: patreon.com/user?u=61517070 Steam: VRified Games friend code 328570433 Oculus: VRified_Games Epic: VRified Games Discord: VRified Games#7374 Reddit: u/Du1g0 Twitter: @Vrified_Games Get Meta Products with our Affiliate Links, Meta Quest 3s 24 month financing plan https://www.meta.com/affiliates/5r73HJxmi Meta Quest 3 24 month financing plan https://www.meta.com/affiliates/8GzPBpiTR Meta Quest 3s https://www.meta.com/affiliates/2C3BLBiu76 meta quest 3 https://www.meta.com/affiliates/EdabaNAs3 meta quest pro https://www.meta.com/affiliates/2CvMZxngsL Meta Holiday Sales 29 Nov-31 Dec, 20% off games and accessories, 60.00 Cash-back on any Headset Purchase https://docs.google.com/spreadsheets/d/1FaMTGkS4O5rn2mVhGhISTC6l_VbMpYC5-cYxcV1VZWk/edit?usp=sharing Meta Quest + Subscription Trial https://metaque.st/trial #QuestAffiliate #MetaQuestAffiliate #MetaQuestPartner",
    "repos": [],
    "firstSeen": "2026-10-25T15:36:27.479Z"
-  },
-  {
-   "title": "Two recompilation projects are tackling the PS1 — but only one's doing it without Claude",
-   "url": "https://readonlymemo.com/ps1-recompiled-progress-recompone-pixygarden-interview/",
-   "date": "2026-07-05T11:00:47.000Z",
-   "source": "ReadOnlyMemo",
-   "outlet": "ReadOnlyMemo",
-   "summary": "This issue: Behind the scenes with Castlevania: Symphony of the Night recompiled, and talking with the translator of a unique PS1 sim in English for the first time.",
-   "image": "https://cdn.synaps.media/readonlymemo/content/images/2026/07/SotN-header.jpg",
-   "text": "Two recompilation projects are tackling the PS1 — but only one's doing it without Claude Well hello there! Thank you for putting up with (and even sending over kind words about) last week's change from your regularly scheduled programming. The response to Warp Point has been way beyond what I expected or even hoped for — it's been a lot of work to put together, and I expected to get a little buzz from a few indieweb diehards going \"oh, neat.\" But gamers really are psyched about a webring in 2026! Who woulda thunk. We've now got more than 170 sites on the directory as of this writing, and I was invited on the Aftermath Hours podcast to talk more about this whole thing. But enough of that . Where were we? Ah, that's right: EMULATION! That's what we do around here. Since I kept you waiting an extra week, this is a pretty beefy issue, with two interviews — one about a project I've been keeping my eye on for the past month or so, and a translation that just popped up in like, the last 48 hours. We've got a fun spread of news, how-it's-made process, and shooting AI the bird. Yes, these are all among my favorite things. I don't typically do forecasting in ROM as I don't like to promise stuff that may not come to pass (* cough* Segagaga *cough* ) but I wanted to toss out a few likely-but-not-guaranteed topics for the next couple months: A detailed write-up of the SuperStation One MiSTer UI, as it's getting close to leaving beta An interview about an all-timer RPG getting the fan port",
-   "repos": [
-    "github:BlackLabelHQ/RecompOne",
-    "github:hedge-dev/UnleashedRecomp",
-    "github:xeeynamo/sotn-decomp",
-    "github:Clownacy/clownassembler",
-    "github:PCSX2/pcsx2",
-    "github:StrikerX3/Ymir",
-    "github:MiSTer-devel/Arcade-IGSPGM_MiSTer",
-    "github:GhaleonX/Ys"
-   ],
-   "firstSeen": "2026-10-23T22:25:39.434Z"
   }
  ]
 }
