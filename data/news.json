@@ -1,6 +1,145 @@
 {
  "articles": [
   {
+   "title": "\"Zero AI\" Pokémon Epsilon Emerald Gets A New Trailer Just Days Before Release",
+   "url": "https://retrododo.com/zero-ai-pokemon-epsilon-emerald-gets-a-new-trailer-just-days-before-release/",
+   "date": "2026-11-03T10:34:10.000Z",
+   "source": "Retro Dodo",
+   "outlet": "Retro Dodo",
+   "summary": "🤝 Don't want to see ads? Become a premium member for $3 a month and support an independent publication today! The wave of ROM hacks continues this year, so it's very rare to see a 100% human-made ROM hack come to fruition amidst this",
+   "image": "https://storage.ghost.io/c/58/fd/58fdc82a-ad84-44e2-ad58-166d1b419bc4/content/images/2026/11/epsiolon-emerald.webp",
+   "text": "\"Zero AI\" Pokémon Epsilon Emerald Gets A New Trailer Just Days Before Release 🤝 Don't want to see ads? Become a premium member for $3 a month and support an independent publication today! The wave of ROM hacks continues this year, so it's very rare to see a 100% human-made ROM hack come to fruition amidst this boom, but here we are, and this is one to keep an eye on because it looks incredibly well made and fully releases on the 14th November, so not long to wait at all. The developer known as pokemerrp has said post-development will happen well into 2027 too, to offer new features for their core audience. Pokémon Epsilon Emerald is a ROM hack of Emerald and is a complete demake of Omega Ruby & Alpha Sapphire with tonnes of quality-of-life upgrades, new difficulties, additional following Pokémon, new Pokémon from multiple generations, super secret bases and more. New Features Include Following/walking Pokemon Originally coded. Supports hundreds of conditional messages, every type of Poké Ball, and Shiny Leaves Day/night lighting, effects, and encounters Gen 6-7 style icons everywhere (including the PC!), with shiny support Three difficulty settings: Easy, which imposes no additional challenge Normal, which forces SET style and only allows up to two items per battle from the Bag Hard, which is like Normal, but allows zero items from the Bag, and trainers’ parties scale with your party’s level Reworked teams for every trainer in the game Soft level caps (for Normal & Hard), sc",
+   "repos": [
+    "github:rh-hideout/pokeemerald-expansion"
+   ],
+   "firstSeen": "2026-11-03T12:06:27.928Z"
+  },
+  {
+   "title": "Wolfenstein: The Old Blood VR Performance / New VR Mod with 6DOF Motion Controls / How to Install",
+   "url": "https://www.youtube.com/watch?v=mrVOJBZ7mb8",
+   "date": "2026-11-03T09:24:52.000Z",
+   "source": "YouTube: NotAGameAddict",
+   "outlet": "YouTube: NotAGameAddict",
+   "summary": "00:00 - Download the needed files 00:36 - Install the mod 01:40 - How to launch the game in vr 03:39 - VR gameplay 09:31 - VR gameplay with FPS overlay Note - This VR mod is still in experimental phase. Some bug still need to be fixed. Note 2 - The gameplay in this video was with mod version 0.1.0. When I recorded the installation steps afterwards, mod version 0.2.0 was released. So that is why th",
+   "image": "https://i2.ytimg.com/vi/mrVOJBZ7mb8/hqdefault.jpg",
+   "text": "Wolfenstein: The Old Blood VR Performance / New VR Mod with 6DOF Motion Controls / How to Install 00:00 - Download the needed files 00:36 - Install the mod 01:40 - How to launch the game in vr 03:39 - VR gameplay 09:31 - VR gameplay with FPS overlay Note - This VR mod is still in experimental phase. Some bug still need to be fixed. Note 2 - The gameplay in this video was with mod version 0.1.0. When I recorded the installation steps afterwards, mod version 0.2.0 was released. So that is why there are 2 different mod versions in the video. Wolfenstein VR mod made by Mamfro - https://github.com/Mamfro/wolfenstein-games-vr Monaka VR - https://github.com/Mamfro/Monaka_VR/releases/tag/v0.3.1 Wolfenstein: The Old Blood - https://store.steampowered.com/app/350080/Wolfenstein_The_Old_Blood/",
+   "repos": [
+    "github:Mamfro/wolfenstein-games-vr",
+    "github:Mamfro/Monaka_VR"
+   ],
+   "firstSeen": "2026-11-03T12:06:27.928Z"
+  },
+  {
+   "title": "Power Moon Recomp: Mario Odyssey PC Port at 4K/60 [2026]",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcGtZZzBwa0NjZmlraG1veGJnMFNfcnFJMVYtSkctV1I4b25DMkFZNDFyZkh2YnM3UWxqRUE2d01NUTVlcTE3ckVPZGFCY2JhWDR6c09TOE56OUhkOFdFYVhNSERYdi1GbTNNekpmeW84Y3hPLWRVUzktUndhNUlhUkprQjBZVno3TkhTb0UzeDdmZE1PR2M4?oc=5",
+   "date": "2026-11-03T09:14:03.000Z",
+   "source": "Google News",
+   "outlet": "https://tech-insider.org/",
+   "summary": "",
+   "image": null,
+   "text": "Power Moon Recomp: Mario Odyssey PC Port at 4K/60 [2026] - https://tech-insider.org/ Power Moon Recomp: Mario Odyssey PC Port at 4K/60 [2026] https://tech-insider.org/",
+   "repos": [],
+   "firstSeen": "2026-11-03T12:06:27.928Z"
+  },
+  {
+   "title": "Super Mario Odyssey native PC port available now, playable from start to finish in 4K at 60 FPS",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPWExnUnNFcTJONmdGOUhzcHB2UTJMdlY5ZWk3bTdBMmdRQncwTTZLeTBnOWtPUWdmNmliOEJJamY2VmZEVFFBWUR4bEx2MWlZUWhSNkgzNHBldmFWYmMzQVVFV0xZekNtWGRQN3k3b1ZZdkNscG5ZaE8yMDAzMXBUTVdkN1VtYnE3a0VqdUludTUyTnZxRm5qcllsNUxyUHZHakdmMk5vXzdtc3pDZXpkMHJLXzJJbDFNS1VGR3d4Q05EWUFSZFd2WGptLXNfOVZDY3N2X3M2QmxZVFk?oc=5",
+   "date": "2026-11-03T06:33:02.000Z",
+   "source": "Google News",
+   "outlet": "TweakTown",
+   "summary": "",
+   "image": null,
+   "text": "Super Mario Odyssey native PC port available now, playable from start to finish in 4K at 60 FPS - TweakTown Super Mario Odyssey native PC port available now, playable from start to finish in 4K at 60 FPS TweakTown",
+   "repos": [],
+   "firstSeen": "2026-11-03T12:06:27.928Z"
+  },
+  {
+   "title": "Metroid: Samus Returns PC \"Port\" Out NOW! A Single Screen Mod Masterpiece",
+   "url": "https://www.youtube.com/watch?v=4ccW7-fmxx0",
+   "date": "2026-11-03T02:00:00.000Z",
+   "source": "YouTube: Video Game Esoterica",
+   "outlet": "YouTube: Video Game Esoterica",
+   "summary": "SUPPORT THE CHANNEL : http://www.patreon.com/VideoGameEsoterica Everyone has wanted a Metroid Prime PC port and more Nintendo PC ports...and we just recently got both a Metroid Prime PC port AND Metroid Prime 2 PC port...but why not a Metroid: Samus Returns PC \"port\"; yes its Azahar but it also has the option to statically recompile the 3DS CPU code so...its half a 3DS recomp...but its mostly just",
+   "image": "https://i1.ytimg.com/vi/4ccW7-fmxx0/hqdefault.jpg",
+   "text": "Metroid: Samus Returns PC \"Port\" Out NOW! A Single Screen Mod Masterpiece SUPPORT THE CHANNEL : http://www.patreon.com/VideoGameEsoterica Everyone has wanted a Metroid Prime PC port and more Nintendo PC ports...and we just recently got both a Metroid Prime PC port AND Metroid Prime 2 PC port...but why not a Metroid: Samus Returns PC \"port\"; yes its Azahar but it also has the option to statically recompile the 3DS CPU code so...its half a 3DS recomp...but its mostly just an amazing mod! N64 decomps, N64 recomps and N64 PC ports are legit heating up in 2026 but we can't neglect the GameCube PC Ports...but today it's about the Metroid Samus Returns! With a Metroid randomizer, texture packs, single screen mods, QOL improvements and MORE Questions? Comments? Just leave them below and I will do my best to answer each and every one of them! http://www.patreon.com/VideoGameEsoterica You can follow us at IG : ChicagoGameCollector , or join our Discord Server : https://discord.gg/qhsbXgK4M2",
+   "repos": [],
+   "firstSeen": "2026-11-03T12:06:27.928Z"
+  },
+  {
+   "title": "Gothic 3 Classic VR Performance / New VR Mod with 6DOF Motion Controls / How to Install / PCVR",
+   "url": "https://www.youtube.com/watch?v=P7qP-NsV9p4",
+   "date": "2026-11-02T23:41:16.000Z",
+   "source": "YouTube: NotAGameAddict",
+   "outlet": "YouTube: NotAGameAddict",
+   "summary": "00:00 - How to install the mod 05:26 - VR launcher overview 06:51 - Game launch 07:03 - Game graphics 07:24 - Intro cutscene 08:01 - VR gameplay 11:48 - VR gameplay with FPS overlay Gothic 3 VR mod was made by PeCOS2k5 - https://github.com/PeCOS2k5/Gothic3VR Gothic 3 Classic -",
+   "image": "https://i1.ytimg.com/vi/P7qP-NsV9p4/hqdefault.jpg",
+   "text": "Gothic 3 Classic VR Performance / New VR Mod with 6DOF Motion Controls / How to Install / PCVR 00:00 - How to install the mod 05:26 - VR launcher overview 06:51 - Game launch 07:03 - Game graphics 07:24 - Intro cutscene 08:01 - VR gameplay 11:48 - VR gameplay with FPS overlay Gothic 3 VR mod was made by PeCOS2k5 - https://github.com/PeCOS2k5/Gothic3VR Gothic 3 Classic -",
+   "repos": [
+    "github:PeCOS2k5/Gothic3VR"
+   ],
+   "firstSeen": "2026-11-03T12:06:27.928Z"
+  },
+  {
+   "title": "The Returns Desk: A Cozy Library - Live Gameplay & Early Impressions on the Meta Quest 3 (PCVR)",
+   "url": "https://www.youtube.com/watch?v=ubwPoLf8ESs",
+   "date": "2026-11-02T22:48:39.000Z",
+   "source": "YouTube: FastLawyer",
+   "outlet": "YouTube: FastLawyer",
+   "summary": "Thank you to the developer for providing me a FREE Steam key to review this game! Playing on the Meta Quest 3 using Virtual Desktop on my RTX 5090. Per the dev: \"A cozy tidy-up game for VR. Put 864 books back where they belong in a Victorian rotunda library, by hand. Every cover tells you its wing, its row and its slot, and nothing sorts itself. Finished rows open new wings and bring back the weat",
+   "image": "https://i2.ytimg.com/vi/ubwPoLf8ESs/hqdefault.jpg",
+   "text": "The Returns Desk: A Cozy Library - Live Gameplay & Early Impressions on the Meta Quest 3 (PCVR) Thank you to the developer for providing me a FREE Steam key to review this game! Playing on the Meta Quest 3 using Virtual Desktop on my RTX 5090. Per the dev: \"A cozy tidy-up game for VR. Put 864 books back where they belong in a Victorian rotunda library, by hand. Every cover tells you its wing, its row and its slot, and nothing sorts itself. Finished rows open new wings and bring back the weather and the hours of the day. No timers, no fail state.\" You can purchase game on Steam here: https://store.steampowered.com/app/5262310/The_Returns_Desk_A_Cozy_Library/ Please join my Steam Curator Group here: https://steamcommunity.com/groups/Oculus_WMR",
+   "repos": [],
+   "firstSeen": "2026-11-03T12:06:27.928Z"
+  },
+  {
+   "title": "Did Claude Kill Recomps and Decomps? The Future of Recomps Explained",
+   "url": "https://www.youtube.com/watch?v=XV5sTe5XWM4",
+   "date": "2026-11-02T22:00:38.000Z",
+   "source": "YouTube: Video Game Esoterica",
+   "outlet": "YouTube: Video Game Esoterica",
+   "summary": "SUPPORT THE CHANNEL : http://www.patreon.com/VideoGameEsoterica Did Claude kill reverse engineering? is Claude banning recomps? Is Claude banning decomps and retro gaming PC ports? Everyone keeps asking about Gaming Recomps...and just recently we talked about the Tears of the Kingdom recomp...and there is even a WIP Switch 2 recomp...not to mention the N64 recomps, PS1 recomps, Xbox 360 recomps, P",
+   "image": "https://i1.ytimg.com/vi/XV5sTe5XWM4/hqdefault.jpg",
+   "text": "Did Claude Kill Recomps and Decomps? The Future of Recomps Explained SUPPORT THE CHANNEL : http://www.patreon.com/VideoGameEsoterica Did Claude kill reverse engineering? is Claude banning recomps? Is Claude banning decomps and retro gaming PC ports? Everyone keeps asking about Gaming Recomps...and just recently we talked about the Tears of the Kingdom recomp...and there is even a WIP Switch 2 recomp...not to mention the N64 recomps, PS1 recomps, Xbox 360 recomps, PS2 recomps, OG Xbox recomps...but today its about the new Anthropic rules regarding reverse engineering...and how it is NOT what you think it is...with evidence! Sure we have a TON of N64 recomps and N64 PC ports and even GameCube recomps and GameCube PC ports with the Twilight Princess PC port...and even a few Wii recomps! But what about Nintendo Switch recomps? Well that was never possible...until now! Nintendo PC ports from the Nintendo Switch generation...coming soon! Questions? Comments? Just leave them below and I will do my best to answer each and every one of them! http://www.patreon.com/VideoGameEsoterica You can follow us at IG : ChicagoGameCollector , or join our Discord Server : https://discord.gg/uBtfwD9b7 VGE",
+   "repos": [],
+   "firstSeen": "2026-11-03T12:06:27.928Z"
+  },
+  {
+   "title": "NS2 Emulation/Recomps Explode, NDS4MiSTer Update, Screamer & Street Rod 2 Analogue Pocket - 380",
+   "url": "https://www.youtube.com/watch?v=aHcldjABgzs",
+   "date": "2026-11-02T20:00:29.000Z",
+   "source": "YouTube: Pixel Cherry Ninja",
+   "outlet": "YouTube: Pixel Cherry Ninja",
+   "summary": "Buy a FightBox Product USE CODE \"PixelCherryNinja\" for 10% OFF https://fightboxarcade.com/ EARLY ACCESS TO NEWS VIDEOS AND OTHER EXCLUSIVES https://www.youtube.com/channel/UCEozS0uaZibXKTQSu10XgSw/join https://www.patreon.com/PixelCherryNinja Buy a Octopus TR Fightstick https://www.trfightstick.com/?ref=PCN Click link then use code \"PCN\" for $25 Off Buy a Morph2K https://www.pixelfx.co/product-pag",
+   "image": "https://i2.ytimg.com/vi/aHcldjABgzs/hqdefault.jpg",
+   "text": "NS2 Emulation/Recomps Explode, NDS4MiSTer Update, Screamer & Street Rod 2 Analogue Pocket - 380 Buy a FightBox Product USE CODE \"PixelCherryNinja\" for 10% OFF https://fightboxarcade.com/ EARLY ACCESS TO NEWS VIDEOS AND OTHER EXCLUSIVES https://www.youtube.com/channel/UCEozS0uaZibXKTQSu10XgSw/join https://www.patreon.com/PixelCherryNinja Buy a Octopus TR Fightstick https://www.trfightstick.com/?ref=PCN Click link then use code \"PCN\" for $25 Off Buy a Morph2K https://www.pixelfx.co/product-page/morph-2k-analog-video-scaler?ref=PCN Buy a Zaparoo product (10% off) https://shop.zaparoo.com/discount/PixelCherryNinja or just enter code \"PixelCherryNinja\" (affiliate links above) Join the Pixel Cherry Ninja Gaming Discord https://discord.gg/5W9pCy2nXa Find all the sources here https://pixelcherryninja.blogspot.com/ Special thanks to channel Patreon's Silver Ninja's - John Gillotte, Meathax, RGM, SmoMo, VimDiesel Bronze Ninja's - Alessandro Gulli, Alexander Facchini, Anime0t4ku, anthony, Bjamiork, craigpow, Curt Dittmer, Ernie D, Fizzun Dirtnap, Juan Alvarez, Keith F. Kelly, Nicholas Robertson-Muir, Niallquinn, ncc1701p, Peter Davis, Scott Dowdle, Tamariel, theypsilon, ZXFace A special Thanks to all Channel Members I Really Really Like PCN! - RGM - Random Gaming Moments https://www.youtube.com/channel/UCIm6dft7oV92-zMCn4A6g2Q I Really Like PCN! - Aleem Tayyab, Bjamiork, CryptoCSguy, IÃ±aki Etxebarria, Silent253, Terry BD, VolJoe I Like PCN! - Alphanu1, BadWolf7888, batty, Boink, Chainy",
+   "repos": [],
+   "firstSeen": "2026-11-03T12:06:27.928Z"
+  },
+  {
+   "title": "This 20 Year Old Game Looks Modern in VR",
+   "url": "https://www.youtube.com/shorts/VED47jPhFzw",
+   "date": "2026-11-02T20:00:14.000Z",
+   "source": "YouTube: Game Or Die",
+   "outlet": "YouTube: Game Or Die",
+   "summary": "#Prey #Shorts #VR #VRGaming #PCVR Prey came out in 2006, and in VR it looks like a modern indie game. It runs on id Tech 4, the same engine as Doom 3. What old game do you think would hold up best in VR? Full video: https://youtu.be/N3nXxGSVerI Free VR mods, one click: https://gameordie.net/mods Get an email when each new VR port ships (free, never paywalled): https://www.patreon.com/cw/GameOrDie",
+   "image": "https://i3.ytimg.com/vi/VED47jPhFzw/hqdefault.jpg",
+   "text": "This 20 Year Old Game Looks Modern in VR #Prey #Shorts #VR #VRGaming #PCVR Prey came out in 2006, and in VR it looks like a modern indie game. It runs on id Tech 4, the same engine as Doom 3. What old game do you think would hold up best in VR? Full video: https://youtu.be/N3nXxGSVerI Free VR mods, one click: https://gameordie.net/mods Get an email when each new VR port ships (free, never paywalled): https://www.patreon.com/cw/GameOrDie",
+   "repos": [],
+   "firstSeen": "2026-11-03T12:06:27.928Z"
+  },
+  {
+   "title": "When VR Mods Go Wrong! - The Dilemma we face every day! #VR #VRMods",
+   "url": "https://www.youtube.com/watch?v=9PD-oWjeJyg",
+   "date": "2026-11-02T19:00:52.000Z",
+   "source": "YouTube: Paradise Decay",
+   "outlet": "YouTube: Paradise Decay",
+   "summary": "►PayPal (Buy me a coffee!): paradisedecay@virginmedia.com ►Patreon: https://www.patreon.com/ParadiseDecay ►Discord: https://discordapp.com/invite/hBgUqYD ►PD Steam Curator Group: http://store.steampowered.com/curator/6659922-Paradise-Decay-Game-Reviews/ --------------------------------------------------------------------------------------------- ☆ MY PC Specs: https://www.scan.co.uk/products/3xs-e",
+   "image": "https://i2.ytimg.com/vi/9PD-oWjeJyg/hqdefault.jpg",
+   "text": "When VR Mods Go Wrong! - The Dilemma we face every day! #VR #VRMods ►PayPal (Buy me a coffee!): paradisedecay@virginmedia.com ►Patreon: https://www.patreon.com/ParadiseDecay ►Discord: https://discordapp.com/invite/hBgUqYD ►PD Steam Curator Group: http://store.steampowered.com/curator/6659922-Paradise-Decay-Game-Reviews/ --------------------------------------------------------------------------------------------- ☆ MY PC Specs: https://www.scan.co.uk/products/3xs-edge-rtx-intel-core-ultra-9-285k-32gb-ddr5-16gb-nvidia-rtx-5080-2tb-ssd-win-11? ☆ My Dedicated Router: https://www.amazon.co.uk/dp/B0B42GCD76?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_1&th=1 ☆ Meta Quest 3 ☆ GeForce RTX 5080 ☆ Windows 11, 64 bit ☆ Intel(R) Core(TM) Ultra 9 285K 3.70 GHz ☆ 32.0GB Ram #wolfensteinneworder #medalofhonor #VRMod #Quest3 #QuestCreatorPartner #quest3s #metaquest #metaquest3 #metaquest3s #quest3games #roomscale #steam #NativeVR #steamvr #Quest3 #valve #uevr #firstperson #horror #medalofhonorwarfighter --------------------------------------------------------------- Thank you for watching the video! Please leave a 👍 Subscribe if you enjoy VR & hit the 🔔 🎵 - My NEW Digital Album 'Ai2': https://paradisedecay.bandcamp.com/album/ai2 👀➦ PayPal (Buy me a coffee!): paradisedecay@virginmedia.com 👾Patreon - https://www.patreon.com/ParadiseDecayTM 👕 PD Merch - https://paradise-decay-merch-shop.myspreadshop.co.uk/ 🐦 X - https://x.com/ParadiseDecayVR 📽️ Youtube - https://www.youtube.com/user/Parad",
+   "repos": [],
+   "firstSeen": "2026-11-03T12:06:27.928Z"
+  },
+  {
    "title": "When VR Mods Go Wrong! - The Dilemma we face every day! #VR #VRMods",
    "url": "https://www.youtube.com/watch?v=IUIih78MXnI",
    "date": "2026-11-02T18:30:09.000Z",
@@ -40,6 +179,18 @@
    "firstSeen": "2026-11-02T18:34:06.476Z"
   },
   {
+   "title": "Super Mario Odyssey Unofficial PC Port Available for Download",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMXUxaWNMU1hYMWZMWjh4ZXc5YWtkSzhpSlNvVkZJQkpLOEtBMG55eUo4UF9wTTdZRVBCNFdNSlRRVVVENm00YjlqZDZnQ0s2azE5MlU1OExtbDExLUpQdTJxVTNocEJwSUV4X09sS0xycktOLThZSnk3cHA2YjVoejB6bGxFUG5QbzhlUU9RaHlRVXBOVTQ4dw?oc=5",
+   "date": "2026-11-02T17:12:05.000Z",
+   "source": "Google News",
+   "outlet": "DSOGaming",
+   "summary": "",
+   "image": null,
+   "text": "Super Mario Odyssey Unofficial PC Port Available for Download - DSOGaming Super Mario Odyssey Unofficial PC Port Available for Download DSOGaming",
+   "repos": [],
+   "firstSeen": "2026-11-03T12:06:27.928Z"
+  },
+  {
    "title": "Indiana Jones VR Lets You Crack the Whip!",
    "url": "https://www.youtube.com/watch?v=Rs9ORlIGU9I",
    "date": "2026-11-02T17:00:08.000Z",
@@ -66,14 +217,14 @@
    "firstSeen": "2026-11-02T18:34:06.476Z"
   },
   {
-   "title": "Elden Ring VR: ERVR Update",
+   "title": "Elden Ring VR: ERVR Update (Alpha)",
    "url": "https://www.youtube.com/watch?v=iFz5bZTooWk",
    "date": "2026-11-02T15:30:00.000Z",
    "source": "YouTube: LunchAndVR",
    "outlet": "YouTube: LunchAndVR",
    "summary": "Elden Ring's VR Mod ERVR finally has an update after a long time, we now have weapon wheels! Motion controls and combat is better (no more weird penalty system), visually stereo looks better too. It also works crossplay in multiplayer with flatscreen or VR players. Mod still has a long way to go, but glad Ilya is working on it again. Important note: Offline or Seamless Co-op only. ERVR runs with E",
    "image": "https://i2.ytimg.com/vi/iFz5bZTooWk/hqdefault.jpg",
-   "text": "Elden Ring VR: ERVR Update Elden Ring's VR Mod ERVR finally has an update after a long time, we now have weapon wheels! Motion controls and combat is better (no more weird penalty system), visually stereo looks better too. It also works crossplay in multiplayer with flatscreen or VR players. Mod still has a long way to go, but glad Ilya is working on it again. Important note: Offline or Seamless Co-op only. ERVR runs with Easy Anti-Cheat off, and the launcher starts the game that way. Never use it with EAC on or in FromSoftware's online play: that risks a ban on your account. Elden Ring Version 1.16.2, 1.17.1 or 1.17.2 Mod also has an installer now: https://github.com/IlyaMez/EldenringVR Played on Quest 3, Virtual Desktop Ultra 90hz Game res: 75%, Graphics Medium PC: 4090 13900k _ Thanks for coming! Appreciate you dropping by here, you're a cool person. If you want to stay around, I do all things VR & gaming related. (lunch included) Lunch's Discounts/affiliates here: https://linktr.ee/lunchandvr On this LunchAndVR YouTube Channel you'll always find the latest VR gameplay, PCVR mods, and honest virtual reality hardware reviews across the best headsets like the Meta Quest 3, Meta Quest 3S, Pimax Crystal Super, Steam Frame, and PSVR2. We dive deep into flat-to-VR modding using Praydog's UEVR injector, OpenXR, and custom 6DOF conversions for massive games like Elden Ring VR (ERVR Update by IlyaMez), Cyberpunk 2077 VR, Titanfall 2 VR, Bodycam VR, DOOM VR, Gunman Contracts, Reside",
+   "text": "Elden Ring VR: ERVR Update (Alpha) Elden Ring's VR Mod ERVR finally has an update after a long time, we now have weapon wheels! Motion controls and combat is better (no more weird penalty system), visually stereo looks better too. It also works crossplay in multiplayer with flatscreen or VR players. Mod still has a long way to go, but glad Ilya is working on it again. Important note: Offline or Seamless Co-op only. ERVR runs with Easy Anti-Cheat off, and the launcher starts the game that way. Never use it with EAC on or in FromSoftware's online play: that risks a ban on your account. Elden Ring Version 1.16.2, 1.17.1 or 1.17.2 Mod also has an installer now: https://github.com/IlyaMez/EldenringVR Played on Quest 3, Virtual Desktop Ultra 90hz Game res: 75%, Graphics Medium PC: 4090 13900k _ Thanks for coming! Appreciate you dropping by here, you're a cool person. If you want to stay around, I do all things VR & gaming related. (lunch included) Lunch's Discounts/affiliates here: https://linktr.ee/lunchandvr On this LunchAndVR YouTube Channel you'll always find the latest VR gameplay, PCVR mods, and honest virtual reality hardware reviews across the best headsets like the Meta Quest 3, Meta Quest 3S, Pimax Crystal Super, Steam Frame, and PSVR2. We dive deep into flat-to-VR modding using Praydog's UEVR injector, OpenXR, and custom 6DOF conversions for massive games like Elden Ring VR (ERVR Update by IlyaMez), Cyberpunk 2077 VR, Titanfall 2 VR, Bodycam VR, DOOM VR, Gunman Contracts",
    "repos": [
     "github:IlyaMez/EldenringVR"
    ],
@@ -107,6 +258,18 @@
     "github:BlackLabelHQ/RecompOne"
    ],
    "firstSeen": "2026-11-02T18:34:06.476Z"
+  },
+  {
+   "title": "Original God of War Receives Native PC Port Running Without Emulation",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWEZKbGlrREdXclJKZ0NyMkQtWHJEZUg3WUFPOWxwWmV6cFc5SEQ2eFB5Qk5La244VHlvZDc1UzJMdVV0MnlsMEpnRk5jR1BlVWppeHRrSzZVcjV0WmExN0dISmN1QWNYbVJFN3dWcEZ3N3JodE0tai11NkZwdEtBamk5U2cyclU?oc=5",
+   "date": "2026-11-02T14:55:00.000Z",
+   "source": "Google News",
+   "outlet": "Technetbook",
+   "summary": "",
+   "image": null,
+   "text": "Original God of War Receives Native PC Port Running Without Emulation - Technetbook Original God of War Receives Native PC Port Running Without Emulation Technetbook",
+   "repos": [],
+   "firstSeen": "2026-11-03T12:06:27.928Z"
   },
   {
    "title": "Dying Light VR Multiplayer Tests!",
@@ -433,6 +596,30 @@
     "github:King-EJ/COP-BASTARD-VR"
    ],
    "firstSeen": "2026-11-01T20:38:30.957Z"
+  },
+  {
+   "title": "Super Smash Bros. Brawl Unofficial PC Port Released",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOOS13WjZHLUJGc3JlVVRPVHgzNlg0Q05LVV9lRkdVVXptSUhoSjhKTlphemZTVmtPT2NsM0g1c2Vpd3NNZjRFNkZWN2hNZl90UXhTZ0J1SWRPRzdJN1lFNU1JaVhIYVk2S2hJdnVPY1lnUElGRUNMS2xHS1BlaWVxMWhPZ194R2gyOXc?oc=5",
+   "date": "2026-11-01T15:04:17.000Z",
+   "source": "Google News",
+   "outlet": "DSOGaming",
+   "summary": "",
+   "image": null,
+   "text": "Super Smash Bros. Brawl Unofficial PC Port Released - DSOGaming Super Smash Bros. Brawl Unofficial PC Port Released DSOGaming",
+   "repos": [],
+   "firstSeen": "2026-11-03T12:06:27.928Z"
+  },
+  {
+   "title": "Xenoblade Chronicles X: Definitive Edition Gets Unofficial PC Port",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQ0d6MElYRF9TSWJaR21maWRrdHJnX0pHRGxkWEhNTWtoaU5HSGh4eXE1SmFvN0MxUnF2U2VJYXR4Sjl4cU5RQk1RVnBiT2gwajQ1Y3Nmd0E4YWRMQXFwUUFwVTF0eWg2RVY3VFhFazVMbDQxUjRrMjVZSEdGR0V4NkhFZkFoUjZreDNVbmIzNnJCcFlyWllxQWRUSzYtZw?oc=5",
+   "date": "2026-11-01T14:49:12.000Z",
+   "source": "Google News",
+   "outlet": "DSOGaming",
+   "summary": "",
+   "image": null,
+   "text": "Xenoblade Chronicles X: Definitive Edition Gets Unofficial PC Port - DSOGaming Xenoblade Chronicles X: Definitive Edition Gets Unofficial PC Port DSOGaming",
+   "repos": [],
+   "firstSeen": "2026-11-03T12:06:27.928Z"
   },
   {
    "title": "Super Smash Bros Brawl Recomp Out NOW! With Online and Mod Support",

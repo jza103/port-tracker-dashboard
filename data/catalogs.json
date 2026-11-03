@@ -26970,7 +26970,7 @@
   ]
  },
  "quiver": {
-  "updatedAt": "2026-11-03T02:28:07.541Z",
+  "updatedAt": "2026-11-03T12:06:27.928Z",
   "projects": [
    {
     "id": "hk21x/007eon-recomp",
@@ -27811,7 +27811,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v1.0.1",
+    "catalogVersion": "v1.0.3",
     "links": [
      {
       "label": "Quiver",
@@ -27946,7 +27946,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "v1.1.2",
+    "catalogVersion": "v1.2.0",
     "links": [
      {
       "label": "Quiver",
@@ -27976,7 +27976,9 @@
     "description": "A cross-platform engine reimplementation for the classic Alone in the Dark and Jack in the Dark, with modern remaster enhancements.",
     "developer": "Jake Jackson",
     "targets": [
-     "Windows"
+     "Windows",
+     "Linux",
+     "macOS"
     ],
     "catalogVersion": "2.5.0.0110",
     "links": [
@@ -28544,7 +28546,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "1.7.9",
+    "catalogVersion": "1.8.0",
     "links": [
      {
       "label": "Quiver",
@@ -29233,7 +29235,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v1.4",
+    "catalogVersion": "v1.5",
     "links": [
      {
       "label": "Quiver",
@@ -29594,7 +29596,7 @@
     "targets": [
      "Linux"
     ],
-    "catalogVersion": "0.51-linux.20",
+    "catalogVersion": "0.51-linux.21",
     "links": [
      {
       "label": "Quiver",
@@ -29659,7 +29661,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "v0.9.39-beta.29",
+    "catalogVersion": "v0.9.39-beta.30",
     "links": [
      {
       "label": "Quiver",
@@ -30915,7 +30917,7 @@
      "macOS",
      "Windows"
     ],
-    "catalogVersion": "2026-11-02",
+    "catalogVersion": "2026-11-03",
     "links": [
      {
       "label": "Quiver",
@@ -30950,7 +30952,7 @@
      "macOS",
      "Windows"
     ],
-    "catalogVersion": "cdda-experimental-2026-11-02-2043",
+    "catalogVersion": "cdda-experimental-2026-11-03-0846",
     "links": [
      {
       "label": "Quiver",
@@ -30985,7 +30987,7 @@
      "macOS",
      "Windows"
     ],
-    "catalogVersion": "cataclysm-tlg-1.0-2026-11-02-2330",
+    "catalogVersion": "cataclysm-tlg-1.0-2026-11-03-0841",
     "links": [
      {
       "label": "Quiver",
@@ -31383,7 +31385,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "0.4.2",
+    "catalogVersion": "0.4.3",
     "links": [
      {
       "label": "Quiver",
@@ -31582,7 +31584,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "v1.3",
+    "catalogVersion": "v1.4",
     "links": [
      {
       "label": "Quiver",
@@ -31718,7 +31720,7 @@
      "Windows",
      "Android"
     ],
-    "catalogVersion": "v1.2.0",
+    "catalogVersion": "v1.3.0",
     "links": [
      {
       "label": "Quiver",
@@ -31780,7 +31782,9 @@
     },
     "description": "Crackdown 2 Recomp is a native PC port of Crackdown 2 built on the ReXGlue SDK, booting to the title screen.",
     "developer": "Pacific City Recompiled",
-    "targets": [],
+    "targets": [
+     "Windows"
+    ],
     "catalogVersion": "v1.0.1",
     "links": [
      {
@@ -34384,9 +34388,9 @@
     "description": "DXX-Redux is a source port of Descent 1 and 2 for PC.",
     "developer": "dxx-redux",
     "targets": [
-     "Linux",
+     "Windows",
      "macOS",
-     "Windows"
+     "Linux"
     ],
     "catalogVersion": "v1.1",
     "links": [
@@ -34418,9 +34422,9 @@
     "description": "DXX-Redux is a source port of Descent 1 and 2 for PC.",
     "developer": "dxx-redux",
     "targets": [
-     "Linux",
+     "Windows",
      "macOS",
-     "Windows"
+     "Linux"
     ],
     "catalogVersion": "v1.1",
     "links": [
@@ -34621,10 +34625,10 @@
     "description": "Egg of Time is a native PC port of Chrono Trigger for Nintendo DS that offers widescreen, high resolutions, high framerates, gamepad support, and mods.",
     "developer": "Power Pudu",
     "targets": [
-     "Linux",
-     "Windows"
+     "Windows",
+     "Linux"
     ],
-    "catalogVersion": "v0.5.0",
+    "catalogVersion": "v0.6.0",
     "links": [
      {
       "label": "Quiver",
@@ -35551,7 +35555,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v260206",
+    "catalogVersion": "v261102-test2",
     "links": [
      {
       "label": "Quiver",
@@ -35581,9 +35585,10 @@
     "description": "Flare: Empyrean Campaign is a 2D action RPG built on the FLARE engine with a dark fantasy style and easily modifiable game data.",
     "developer": "flareteam",
     "targets": [
+     "Android",
+     "Windows",
      "Linux",
-     "macOS",
-     "Windows"
+     "macOS"
     ],
     "catalogVersion": "v1.15",
     "links": [
@@ -36079,7 +36084,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v1.2.0",
+    "catalogVersion": "v1.2.1",
     "links": [
      {
       "label": "Quiver",
@@ -37001,7 +37006,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "launcher-v0.2.6",
+    "catalogVersion": "launcher-v0.2.8",
     "links": [
      {
       "label": "Quiver",
@@ -37300,7 +37305,7 @@
      "macOS",
      "Windows"
     ],
-    "catalogVersion": "gdul/v0.1.10",
+    "catalogVersion": "gdul/v0.1.11",
     "links": [
      {
       "label": "Quiver",
@@ -37432,7 +37437,7 @@
     "description": "Halo CE: Arena Evolved is a native PC port of Halo: Combat Evolved with modern quality of life features and new gameplay options.",
     "developer": "Peter Richardson",
     "targets": [],
-    "catalogVersion": "v0.7.3-beta",
+    "catalogVersion": "v0.7.4-beta",
     "links": [
      {
       "label": "Quiver",
@@ -37628,7 +37633,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.1.0-beta",
+    "catalogVersion": "v0.2.0-beta",
     "links": [
      {
       "label": "Quiver",
@@ -38602,8 +38607,8 @@
     "description": "Ironwail is a high-performance PC port of Quake that handles demanding maps with extra features like a Mods menu and UI weapon key binding.",
     "developer": "andrei-drexler",
     "targets": [
-     "Linux",
-     "Windows"
+     "Windows",
+     "Linux"
     ],
     "catalogVersion": "v0.8.2",
     "links": [
@@ -39433,7 +39438,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v1.3.0",
+    "catalogVersion": "v1.3.1",
     "links": [
      {
       "label": "Quiver",
@@ -39599,7 +39604,7 @@
      "macOS",
      "Windows"
     ],
-    "catalogVersion": "v0.1.1",
+    "catalogVersion": "v0.2.1",
     "links": [
      {
       "label": "Quiver",
@@ -40224,7 +40229,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v1.1.5",
+    "catalogVersion": "v1.1.6",
     "links": [
      {
       "label": "Quiver",
@@ -40623,7 +40628,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v0.2.10",
+    "catalogVersion": "v0.2.11",
     "links": [
      {
       "label": "Quiver",
@@ -41412,7 +41417,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v1.0.27",
+    "catalogVersion": "v1.0.28",
     "links": [
      {
       "label": "Quiver",
@@ -41543,7 +41548,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "v0.9.92",
+    "catalogVersion": "v0.9.95",
     "links": [
      {
       "label": "Quiver",
@@ -41745,7 +41750,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "R152",
+    "catalogVersion": "R153",
     "links": [
      {
       "label": "Quiver",
@@ -42246,7 +42251,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v1.1.0-pre",
+    "catalogVersion": "v1.1.1-pre",
     "links": [
      {
       "label": "Quiver",
@@ -43633,7 +43638,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.4.1",
+    "catalogVersion": "v0.4.3",
     "links": [
      {
       "label": "Quiver",
@@ -43865,7 +43870,9 @@
     "description": "OpenJKDF2 is a C reimplementation and port of Star Wars Jedi Knight Dark Forces II for Windows, macOS, Linux, and Android.",
     "developer": "shinyquagsire23",
     "targets": [
-     "Android"
+     "Android",
+     "Windows",
+     "macOS"
     ],
     "catalogVersion": "v0.9.9",
     "links": [
@@ -44066,9 +44073,10 @@
     "developer": "Fizlo",
     "targets": [
      "iOS",
-     "Linux"
+     "Linux",
+     "Windows"
     ],
-    "catalogVersion": "v0.10.0",
+    "catalogVersion": "v0.10.1",
     "links": [
      {
       "label": "Quiver",
@@ -44342,7 +44350,7 @@
      "macOS",
      "Windows"
     ],
-    "catalogVersion": "v0.6.8",
+    "catalogVersion": "v0.6.9",
     "links": [
      {
       "label": "Quiver",
@@ -45310,7 +45318,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.3.0",
+    "catalogVersion": "v0.4.0",
     "links": [
      {
       "label": "Quiver",
@@ -45572,7 +45580,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "windows-v1.1.0",
+    "catalogVersion": "windows-v1.1.1",
     "links": [
      {
       "label": "Quiver",
@@ -45604,7 +45612,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "windows-v1.1.0",
+    "catalogVersion": "windows-v1.1.1",
     "links": [
      {
       "label": "Quiver",
@@ -45636,7 +45644,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "windows-v1.1.0",
+    "catalogVersion": "windows-v1.1.1",
     "links": [
      {
       "label": "Quiver",
@@ -46260,7 +46268,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v1.5.0",
+    "catalogVersion": "v1.5.1",
     "links": [
      {
       "label": "Quiver",
@@ -46357,7 +46365,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.2.6",
+    "catalogVersion": "v0.2.7-test1",
     "links": [
      {
       "label": "Quiver",
@@ -46585,7 +46593,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.2.2",
+    "catalogVersion": "v0.2.3",
     "links": [
      {
       "label": "Quiver",
@@ -47111,7 +47119,7 @@
      "macOS",
      "Linux"
     ],
-    "catalogVersion": "0.6.13-alpha",
+    "catalogVersion": "0.6.14-alpha",
     "links": [
      {
       "label": "Quiver",
@@ -47507,7 +47515,7 @@
      "macOS",
      "Windows"
     ],
-    "catalogVersion": "test-pr111-c04fc2736e82",
+    "catalogVersion": "test-pr111-ecbd1ba16255",
     "links": [
      {
       "label": "Quiver",
@@ -48699,7 +48707,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "v1.0.38",
+    "catalogVersion": "v1.0.39",
     "links": [
      {
       "label": "Quiver",
@@ -48731,7 +48739,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.11.0",
+    "catalogVersion": "v0.12.0",
     "links": [
      {
       "label": "Quiver",
@@ -48864,7 +48872,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "v0.1.53",
+    "catalogVersion": "v0.1.54",
     "links": [
      {
       "label": "Quiver",
@@ -51199,7 +51207,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "v0.3.0",
+    "catalogVersion": "v0.3.1",
     "links": [
      {
       "label": "Quiver",
@@ -51641,6 +51649,38 @@
      }
     ],
     "image": "https://cdn2.steamgriddb.com/grid/b05aa5ae598aff32ec94a1156bd7132b.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
+    "id": "originalswayze/streets-of-rage-recomp",
+    "aliases": [
+     "quiver:streets-of-rage-collection-recomp"
+    ],
+    "name": "Streets of Rage Collection Recomp",
+    "game": "Streets of Rage",
+    "categories": [
+     "Mega Drive"
+    ],
+    "type": "recompilation",
+    "repo": {
+     "host": "github",
+     "path": "OriginalSwayze/Streets-Of-Rage-Recomp"
+    },
+    "description": "Streets of Rage Collection is a native PC port of Streets of Rage, Streets of Rage 2 and Streets of Rage 3 with widescreen, high frame rate and internal resolution upscaling.",
+    "developer": "OriginalSwayze",
+    "targets": [
+     "Windows"
+    ],
+    "catalogVersion": "v2.0",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/streets-of-rage-collection-recomp"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/786f2cc81ad1eeb3b8cd222ceb77d763.png",
     "sources": [
      "quiver"
     ]
@@ -52555,7 +52595,7 @@
      "macOS",
      "Windows"
     ],
-    "catalogVersion": "v1.1.1p",
+    "catalogVersion": "v1.1.2p",
     "links": [
      {
       "label": "Quiver",
@@ -52982,7 +53022,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v0.1.39.5",
+    "catalogVersion": "v0.1.39.6",
     "links": [
      {
       "label": "Quiver",
@@ -53771,7 +53811,7 @@
      "macOS",
      "Windows"
     ],
-    "catalogVersion": "v0.24.2-alpha",
+    "catalogVersion": "v0.24.3-alpha",
     "links": [
      {
       "label": "Quiver",
@@ -53934,7 +53974,8 @@
     "description": "TotK Recomp is a static recompilation of The Legend of Zelda: Tears of the Kingdom (Nintendo Switch, 2023)\n\nFeatures:\n- Native code, not emulation\n- Game updates 1.2.1 and 1.4.3, with saves that carry over between them\n- 60 fps by default; up to 144 fps or the monitor's refresh rate (experimental)\n- Custom resolutions (1080p, 2k...), supersampling and AMD FSR 1 upscaling\n- In-game settings menu (F1) and performance overlay (F10)\n- Keyboard, mouse and gamepad with remapping, rumble and gyro\n- Shaders prepared at install instead of during play",
     "developer": "valentderah",
     "targets": [
-     "Windows"
+     "Windows",
+     "Linux"
     ],
     "catalogVersion": "v0.3.4",
     "links": [
@@ -55360,7 +55401,7 @@
      "macOS",
      "Windows"
     ],
-    "catalogVersion": "v1.2.0",
+    "catalogVersion": "v1.2.2",
     "links": [
      {
       "label": "Quiver",
@@ -55714,7 +55755,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.3.0",
+    "catalogVersion": "v0.3.1",
     "links": [
      {
       "label": "Quiver",
@@ -55877,7 +55918,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v0.8.5",
+    "catalogVersion": "v1.0.0",
     "links": [
      {
       "label": "Quiver",
@@ -55941,7 +55982,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.2.76",
+    "catalogVersion": "v0.2.77",
     "links": [
      {
       "label": "Quiver",
@@ -55961,7 +56002,7 @@
     "name": "WetRecomp",
     "game": "WET",
     "categories": [
-     "Xbox"
+     "Xbox 360"
     ],
     "type": "recompilation",
     "repo": {
@@ -56856,7 +56897,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v0.1.14-oldcpu-test",
+    "catalogVersion": "v0.1.14-exposure-test",
     "links": [
      {
       "label": "Quiver",

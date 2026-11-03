@@ -1068,6 +1068,7 @@
   "madxbio97/sf-pc-port": "2026-10-23T22:25:39.434Z",
   "mahmoud-mess/tekken6-recomp": "2026-10-25T15:36:27.479Z",
   "mamcjr/lasrecompandroid": "2026-10-28T05:57:15.172Z",
+  "mamfro/monaka_vr": "2026-11-03T12:06:27.928Z",
   "mamfro/wolfenstein-games-vr": "2026-11-02T18:34:06.476Z",
   "mango77x/mhforever": "2026-11-03T02:28:07.541Z",
   "maniscat2/sm64coopdx": "2026-10-23T22:25:39.434Z",
@@ -1757,6 +1758,7 @@
   "opentyrian/opentyrian": "2026-10-25T15:36:27.479Z",
   "opokxeno/xenogears-recomp": "2026-10-25T15:36:27.479Z",
   "originalswayze/beyond-oasis-recomp": "2026-11-03T02:28:07.541Z",
+  "originalswayze/streets-of-rage-recomp": "2026-11-03T12:06:27.928Z",
   "otpr26/dekui-fork": "2026-10-28T21:12:08.030Z",
   "otpr26/ocarina-retuned": "2026-10-28T21:12:08.030Z",
   "oussama268/shadowofthecolossus-pc": "2026-10-25T15:36:27.479Z",
@@ -7301,6 +7303,35 @@
    },
    "autoFollow": false
   },
+  "mamfro/monaka_vr": {
+   "id": "mamfro/monaka_vr",
+   "name": "Monaka VR",
+   "game": "Monaka VR",
+   "categories": [
+    "Other",
+    "VR Ports"
+   ],
+   "type": "tool",
+   "tags": [
+    "VR"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "Mamfro/Monaka_VR"
+   },
+   "links": [],
+   "sources": [
+    "news"
+   ],
+   "discoveredFrom": {
+    "kind": "news",
+    "title": "Wolfenstein: The Old Blood VR Performance / New VR Mod with 6DOF Motion Controls / How to Install",
+    "url": "https://www.youtube.com/watch?v=mrVOJBZ7mb8",
+    "source": "YouTube: NotAGameAddict",
+    "date": "2026-11-03T09:24:52.000Z"
+   },
+   "autoFollow": false
+  },
   "mamfro/wolfenstein-games-vr": {
    "id": "mamfro/wolfenstein-games-vr",
    "name": "wolfenstein games vr",
@@ -11594,10 +11625,12 @@
   "obalfour/flooder": "2026-10-26",
   "palindromicbreadloaf/dekopon": "2026-10-23",
   "pcsx2/pcsx2": "2026-10-23",
+  "pecos2k5/gothic3vr": "2026-11-03",
   "probonopd/previous": "2026-10-23",
   "radek-sprta/awesome-game-remakes": "2026-10-23",
   "reacher-z/awesome-rea": "2026-10-23",
   "rfandango/hakux": "2026-10-31",
+  "rh-hideout/pokeemerald-expansion": "2026-11-03",
   "romh-acking/time-twist-fds-en": "2026-11-02",
   "rpcs3/rpcs3": "2026-10-23",
   "rt64/rt64": "2026-10-23",
