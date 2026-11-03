@@ -26970,7 +26970,7 @@
   ]
  },
  "quiver": {
-  "updatedAt": "2026-11-03T12:06:27.928Z",
+  "updatedAt": "2026-11-03T19:39:16.255Z",
   "projects": [
    {
     "id": "hk21x/007eon-recomp",
@@ -27612,7 +27612,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "v0.6.4",
+    "catalogVersion": "v0.7.0",
     "links": [
      {
       "label": "Quiver",
@@ -27946,7 +27946,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "v1.2.0",
+    "catalogVersion": "v1.2.2",
     "links": [
      {
       "label": "Quiver",
@@ -27980,7 +27980,7 @@
      "Linux",
      "macOS"
     ],
-    "catalogVersion": "2.5.0.0110",
+    "catalogVersion": "3.0.0_Unity",
     "links": [
      {
       "label": "Quiver",
@@ -28116,7 +28116,7 @@
      "Windows",
      "Android"
     ],
-    "catalogVersion": "v1.15.0",
+    "catalogVersion": "v1.15.1",
     "links": [
      {
       "label": "Quiver",
@@ -28580,7 +28580,7 @@
      "macOS",
      "Linux"
     ],
-    "catalogVersion": "v0.5.9",
+    "catalogVersion": "v0.5.10",
     "links": [
      {
       "label": "Quiver",
@@ -30228,7 +30228,7 @@
      "macOS",
      "Windows"
     ],
-    "catalogVersion": "v0.1.39.5-R1",
+    "catalogVersion": "v0.1.39.5-R2",
     "links": [
      {
       "label": "Quiver",
@@ -30952,7 +30952,7 @@
      "macOS",
      "Windows"
     ],
-    "catalogVersion": "cdda-experimental-2026-11-03-0846",
+    "catalogVersion": "cdda-experimental-2026-11-03-1818",
     "links": [
      {
       "label": "Quiver",
@@ -30987,7 +30987,7 @@
      "macOS",
      "Windows"
     ],
-    "catalogVersion": "cataclysm-tlg-1.0-2026-11-03-0841",
+    "catalogVersion": "cataclysm-tlg-1.0-2026-11-03-1524",
     "links": [
      {
       "label": "Quiver",
@@ -31221,7 +31221,7 @@
      "macOS",
      "Windows"
     ],
-    "catalogVersion": "v1.7.0",
+    "catalogVersion": "v1.7.2",
     "links": [
      {
       "label": "Quiver",
@@ -31385,7 +31385,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "0.4.3",
+    "catalogVersion": "0.4.4",
     "links": [
      {
       "label": "Quiver",
@@ -33241,7 +33241,7 @@
      "Linux",
      "macOS"
     ],
-    "catalogVersion": "v0.1.14",
+    "catalogVersion": "v0.1.15",
     "links": [
      {
       "label": "Quiver",
@@ -34460,7 +34460,7 @@
      "macOS",
      "Linux"
     ],
-    "catalogVersion": "v0.5.0-ports-preview.28",
+    "catalogVersion": "v0.5.0-ports-preview.29",
     "links": [
      {
       "label": "Quiver",
@@ -35107,7 +35107,7 @@
    {
     "id": "himdo/fable-2-recomp",
     "aliases": [
-     "quiver:fableii-fableiirecompiled"
+     "quiver:fable2-recompiled"
     ],
     "name": "Fable II Recompiled",
     "game": "Fable II",
@@ -35128,7 +35128,7 @@
     "links": [
      {
       "label": "Quiver",
-      "url": "https://quiverlauncher.com/apps/fableii-fableiirecompiled"
+      "url": "https://quiverlauncher.com/apps/fable2-recompiled"
      }
     ],
     "image": "https://cdn2.steamgriddb.com/grid/7508fc4a477d1b274fdf269f1692fed4.png",
@@ -35622,7 +35622,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.3.0",
+    "catalogVersion": "v0.3.1",
     "links": [
      {
       "label": "Quiver",
@@ -35688,7 +35688,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "v0.10.6",
+    "catalogVersion": "v0.10.7",
     "links": [
      {
       "label": "Quiver",
@@ -35820,7 +35820,7 @@
      "iOS",
      "macOS"
     ],
-    "catalogVersion": "v0.10.42",
+    "catalogVersion": "v0.10.43",
     "links": [
      {
       "label": "Quiver",
@@ -36018,7 +36018,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "v0.6.0",
+    "catalogVersion": "v0.6.1",
     "links": [
      {
       "label": "Quiver",
@@ -36980,7 +36980,7 @@
       "url": "https://quiverlauncher.com/apps/god-of-war-gow-native-pc"
      }
     ],
-    "image": "https://cdn2.steamgriddb.com/grid/aa29932f27044fe8b1140d111f525801.png",
+    "image": "https://cdn2.steamgriddb.com/grid/72d0eaa80cc3412fda4a133ca1f884e8.png",
     "sources": [
      "quiver"
     ]
@@ -37006,14 +37006,14 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "launcher-v0.2.8",
+    "catalogVersion": "launcher-v0.2.9",
     "links": [
      {
       "label": "Quiver",
       "url": "https://quiverlauncher.com/apps/god-of-war-gow-pc-port"
      }
     ],
-    "image": "https://cdn2.steamgriddb.com/grid/aa29932f27044fe8b1140d111f525801.png",
+    "image": "https://cdn2.steamgriddb.com/grid/72d0eaa80cc3412fda4a133ca1f884e8.png",
     "sources": [
      "quiver"
     ]
@@ -37040,7 +37040,7 @@
      "macOS",
      "Linux"
     ],
-    "catalogVersion": "v0.9.0",
+    "catalogVersion": "v0.9.1",
     "links": [
      {
       "label": "Quiver",
@@ -37238,7 +37238,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v1.3.0-rc8",
+    "catalogVersion": "v1.3.0-rc9",
     "links": [
      {
       "label": "Quiver",
@@ -37764,7 +37764,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.1.0",
+    "catalogVersion": "v0.1.1",
     "links": [
      {
       "label": "Quiver",
@@ -38383,7 +38383,7 @@
      "macOS",
      "iOS"
     ],
-    "catalogVersion": "v0.9.7",
+    "catalogVersion": "v0.10.0",
     "links": [
      {
       "label": "Quiver",
@@ -39014,7 +39014,7 @@
      "macOS",
      "Android"
     ],
-    "catalogVersion": "v0.7.0.1",
+    "catalogVersion": "v0.7.0.2",
     "links": [
      {
       "label": "Quiver",
@@ -39738,7 +39738,7 @@
      "macOS",
      "Windows"
     ],
-    "catalogVersion": "test-462-arc-5",
+    "catalogVersion": "test-beta6-preview",
     "links": [
      {
       "label": "Quiver",
@@ -40396,7 +40396,7 @@
      "Android",
      "Linux"
     ],
-    "catalogVersion": "mod-battle-voices-originals-ai-1.0.2",
+    "catalogVersion": "ko-test-1",
     "links": [
      {
       "label": "Quiver",
@@ -40595,7 +40595,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v0.2.6",
+    "catalogVersion": "v0.2.7",
     "links": [
      {
       "label": "Quiver",
@@ -40628,7 +40628,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v0.2.11",
+    "catalogVersion": "v0.2.13",
     "links": [
      {
       "label": "Quiver",
@@ -40661,7 +40661,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v0.2.4",
+    "catalogVersion": "v0.2.5",
     "links": [
      {
       "label": "Quiver",
@@ -40956,7 +40956,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.3.6",
+    "catalogVersion": "v0.3.7",
     "links": [
      {
       "label": "Quiver",
@@ -41153,7 +41153,7 @@
      "Linux",
      "macOS"
     ],
-    "catalogVersion": "v1.1.9",
+    "catalogVersion": "v1.1.10",
     "links": [
      {
       "label": "Quiver",
@@ -41183,7 +41183,7 @@
     "description": "MediEvil Recomp ITA is a native PC port of MediEvil for PlayStation, featuring widescreen and improved rendering.",
     "developer": "Leproide",
     "targets": [],
-    "catalogVersion": "v1.1.9",
+    "catalogVersion": "v1.1.10",
     "links": [
      {
       "label": "Quiver",
@@ -42378,11 +42378,8 @@
     },
     "description": "Nanolathe is a 2.5D RTS engine for Total Annihilation that offers a modern renderer and gameplay options.",
     "developer": "Daniel Taylor",
-    "targets": [
-     "Linux",
-     "Windows"
-    ],
-    "catalogVersion": "native-418",
+    "targets": [],
+    "catalogVersion": "native-427",
     "links": [
      {
       "label": "Quiver",
@@ -42640,7 +42637,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.8.2",
+    "catalogVersion": "v0.9.1",
     "links": [
      {
       "label": "Quiver",
@@ -43243,7 +43240,7 @@
      "macOS",
      "Windows"
     ],
-    "catalogVersion": "v0.8.3",
+    "catalogVersion": "v0.9.1",
     "links": [
      {
       "label": "Quiver",
@@ -44076,7 +44073,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v0.10.1",
+    "catalogVersion": "v0.10.2",
     "links": [
      {
       "label": "Quiver",
@@ -44418,7 +44415,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v1.6.0",
+    "catalogVersion": "v1.6.1",
     "links": [
      {
       "label": "Quiver",
@@ -46041,7 +46038,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "2026.11.01-87b7e9f9",
+    "catalogVersion": "2026.11.03-ca7400b2",
     "links": [
      {
       "label": "Quiver",
@@ -46074,7 +46071,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "v0.1.3-dev-amd-test",
+    "catalogVersion": "v0.1.3-alpha",
     "links": [
      {
       "label": "Quiver",
@@ -46236,7 +46233,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v1.3",
+    "catalogVersion": "v1.4",
     "links": [
      {
       "label": "Quiver",
@@ -46268,7 +46265,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v1.5.1",
+    "catalogVersion": "v1.6.0",
     "links": [
      {
       "label": "Quiver",
@@ -46300,7 +46297,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.1.7",
+    "catalogVersion": "v0.1.8",
     "links": [
      {
       "label": "Quiver",
@@ -46432,7 +46429,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.1.6",
+    "catalogVersion": "v0.1.7",
     "links": [
      {
       "label": "Quiver",
@@ -47548,7 +47545,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v0.7.2",
+    "catalogVersion": "v0.7.3",
     "links": [
      {
       "label": "Quiver",
@@ -48048,7 +48045,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "0.0.13",
+    "catalogVersion": "0.1.0",
     "links": [
      {
       "label": "Quiver",
@@ -48081,7 +48078,7 @@
      "Android",
      "Windows"
     ],
-    "catalogVersion": "reSOTv0.4.4",
+    "catalogVersion": "reSOTv0.5.0",
     "links": [
      {
       "label": "Quiver",
@@ -48253,7 +48250,7 @@
       "url": "https://quiverlauncher.com/apps/soulcaliburii-ringout"
      }
     ],
-    "image": "https://cdn2.steamgriddb.com/grid/73751fa59c3cfa96c7d3330adb106066.png",
+    "image": "https://cdn2.steamgriddb.com/grid/e6ce87969fdb2a78922445fc975e9c74.png",
     "sources": [
      "quiver"
     ]
@@ -48912,7 +48909,7 @@
       "url": "https://quiverlauncher.com/apps/the-legend-of-zelda-breath-of-the-wild-savage-wind-recomp"
      }
     ],
-    "image": "https://cdn2.steamgriddb.com/grid/db5424b9486c1fd180b412e32a470c75.png",
+    "image": "https://cdn2.steamgriddb.com/grid/121b81f7d167ca2c24fdab4f044048f8.png",
     "sources": [
      "quiver"
     ]
@@ -49370,7 +49367,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v1.5.0",
+    "catalogVersion": "v1.5.1",
     "links": [
      {
       "label": "Quiver",
@@ -50715,7 +50712,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "v0.7.2",
+    "catalogVersion": "v0.7.3",
     "links": [
      {
       "label": "Quiver",
@@ -50748,7 +50745,7 @@
      "macOS",
      "Windows"
     ],
-    "catalogVersion": "v0.9.9",
+    "catalogVersion": "v0.9.10",
     "links": [
      {
       "label": "Quiver",
@@ -51078,7 +51075,7 @@
      "iOS",
      "Windows"
     ],
-    "catalogVersion": "v0.2.1-test-issue67b",
+    "catalogVersion": "v0.2.1-windows-beta.4",
     "links": [
      {
       "label": "Quiver",
@@ -51673,7 +51670,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v2.0",
+    "catalogVersion": "v2.1",
     "links": [
      {
       "label": "Quiver",
@@ -53248,7 +53245,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v1.22.420",
+    "catalogVersion": "v.1.30.000",
     "links": [
      {
       "label": "Quiver",
@@ -54274,7 +54271,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.5.8",
+    "catalogVersion": "v0.5.9",
     "links": [
      {
       "label": "Quiver",
@@ -54799,7 +54796,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "v0.08",
+    "catalogVersion": "v0.09",
     "links": [
      {
       "label": "Quiver",
@@ -55982,7 +55979,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.2.77",
+    "catalogVersion": "v0.2.78",
     "links": [
      {
       "label": "Quiver",
@@ -56344,7 +56341,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "windows-v0.2.51",
+    "catalogVersion": "windows-v0.2.52",
     "links": [
      {
       "label": "Quiver",
@@ -56377,7 +56374,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v0.6.1",
+    "catalogVersion": "v0.7.0",
     "links": [
      {
       "label": "Quiver",
@@ -56897,7 +56894,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v0.1.14-exposure-test",
+    "catalogVersion": "v0.1.14-replay-test",
     "links": [
      {
       "label": "Quiver",

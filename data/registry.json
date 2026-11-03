@@ -1,7 +1,7 @@
 {
  "meta": {
   "seededAt": "2026-10-25T14:56:57.670Z",
-  "lastSearchAt": "2026-11-02T18:34:06.476Z"
+  "lastSearchAt": "2026-11-03T19:39:16.255Z"
  },
  "firstSeen": {
   "0c0de/splatterhouse-decomp": "2026-10-25T15:56:57.670Z",
@@ -92,6 +92,7 @@
   "am2r-community-developers/am2rlauncher": "2026-10-27T14:45:45.436Z",
   "amwatson/citravr": "2026-10-23T22:25:39.434Z",
   "andrei-drexler/ironwail": "2026-11-02T06:28:55.587Z",
+  "andrewnakas/gtav-recomp": "2026-11-03T19:39:16.255Z",
   "andrey04o/peakvr": "2026-10-25T15:36:27.479Z",
   "andreystashev/hitman-blood-money-vr-showcase": "2026-10-25T19:08:26.092Z",
   "andreystashev/hitman-contracts-vr-showcase": "2026-10-27T14:45:45.436Z",
@@ -451,6 +452,7 @@
   "dr-89/time-crisis-vr": "2026-10-23T22:25:39.434Z",
   "drakenabarion/tombraider_pc": "2026-10-28T21:12:08.030Z",
   "drakolordx7/killzonerecomp": "2026-10-23T22:46:33.769Z",
+  "drakolordx7/pokopia-recomp": "2026-11-03T19:39:16.255Z",
   "dreaxer/40winksrecomp": "2026-10-30T06:03:37.031Z",
   "drizzt/openfpga-megadrive": "2026-10-25T15:56:57.670Z",
   "drizzt/openfpga-sms#drizzt-gg": "2026-10-25T15:56:57.670Z",
@@ -503,6 +505,7 @@
   "elprogramadorloco-arch/jim2-recomp": "2026-10-25T15:36:27.479Z",
   "elraro/atomic-bomberman": "2026-10-25T15:36:27.479Z",
   "elripalda/gta4-ps5": "2026-10-29T15:18:58.463Z",
+  "elripalda/recomplauncher": "2026-11-03T19:39:16.255Z",
   "elripalda/recompstore": "2026-10-26T15:18:29.150Z",
   "elspeththepict/s1forever": "2026-10-25T15:36:27.479Z",
   "elyosh/opentie": "2026-10-25T15:36:27.479Z",
@@ -991,6 +994,7 @@
   "king-ej/rustler-vr": "2026-10-25T19:08:26.092Z",
   "king-ej/the-mortuary-assistant-vr": "2026-10-25T15:36:27.479Z",
   "king-ej/twisted-tower-vr-mod": "2026-10-25T15:36:27.479Z",
+  "king-ej/woodo-vr": "2026-11-03T19:39:16.255Z",
   "kirby-letsgo/oracles-decomp": "2026-10-25T15:36:27.479Z",
   "kirby1237/parappatherapperrecomp": "2026-10-25T15:36:27.479Z",
   "kirby1237/puyopuyoboxrecomp": "2026-10-23T22:25:39.434Z",
@@ -2036,6 +2040,7 @@
   "randygil/megaman64recompiledvr": "2026-10-27T05:17:56.999Z",
   "raposomiguel50/system-shock-android": "2026-10-23T22:25:39.434Z",
   "raulzrrs/letsgo-recomp": "2026-10-23T22:46:33.769Z",
+  "ravencaio/tlou-remastered-pc": "2026-11-03T19:39:16.255Z",
   "rayrod-tv/banjokazooie-vr": "2026-10-25T15:36:27.479Z",
   "rayrod-tv/mvrh#diddy-kong-racing-vr": "2026-10-25T15:36:27.479Z",
   "rayrod-tv/mvrh#f-zero-x-vr": "2026-10-25T15:36:27.479Z",
@@ -2367,6 +2372,7 @@
   "thejesusfish/dual-ram-console-cores": "2026-10-25T15:56:57.670Z",
   "thekoalakoa/paprium-pocket": "2026-10-25T15:56:57.670Z",
   "thekoalakoa/paprium_mister": "2026-10-26T15:18:29.150Z",
+  "thelostpantheon/nativ": "2026-11-03T19:39:16.255Z",
   "them3dium/mareshine": "2026-10-30T06:03:37.031Z",
   "themriron2/sf64-psp": "2026-10-23T22:25:39.434Z",
   "themuffinator/openq4": "2026-10-25T15:36:27.479Z",
@@ -2535,6 +2541,7 @@
   "zenibako/vvvvvv-pocket": "2026-10-28T05:57:15.172Z",
   "zenit2893-cmyk/project-1944": "2026-10-27T14:45:45.436Z",
   "zer0ducksgiven/forza-motorsport-2-regpu": "2026-10-23T22:46:33.769Z",
+  "zer0ducksgiven/pgr4-regpu": "2026-11-03T19:39:16.255Z",
   "zeranemesis/marioparty4": "2026-10-23T22:25:39.434Z",
   "zexyen/witch-time": "2026-11-01T15:19:44.427Z",
   "zinexda/sonic-r-android": "2026-10-25T15:36:27.479Z",
@@ -2813,6 +2820,30 @@
     "date": "2026-10-25T01:14:49.000Z"
    },
    "autoFollow": true
+  },
+  "andrewnakas/gtav-recomp": {
+   "id": "andrewnakas/gtav-recomp",
+   "name": "gtav recomp",
+   "game": "gtav recomp",
+   "categories": [
+    "Xbox 360"
+   ],
+   "type": "recompilation",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "andrewnakas/gtav-recomp"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "\"static recompilation\" in:description stars:>30",
+    "date": "2026-11-03T19:39:16.255Z"
+   },
+   "autoFollow": false
   },
   "andreystashev/hitman-contracts-vr-showcase": {
    "id": "andreystashev/hitman-contracts-vr-showcase",
@@ -4445,6 +4476,30 @@
    },
    "autoFollow": false
   },
+  "drakolordx7/pokopia-recomp": {
+   "id": "drakolordx7/pokopia-recomp",
+   "name": "pokopia recomp",
+   "game": "pokopia recomp",
+   "categories": [
+    "Nintendo Switch"
+   ],
+   "type": "recompilation",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "drakolordx7/pokopia-recomp"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "topic:static-recompilation stars:>20",
+    "date": "2026-11-03T19:39:16.255Z"
+   },
+   "autoFollow": false
+  },
   "drummingbird1/gow-psp-recomp": {
    "id": "drummingbird1/gow-psp-recomp",
    "name": "gow psp recomp",
@@ -4664,6 +4719,30 @@
     "kind": "search",
     "title": "XenonRecomp in:readme stars:>30",
     "date": "2026-10-29T15:18:58.463Z"
+   },
+   "autoFollow": false
+  },
+  "elripalda/recomplauncher": {
+   "id": "elripalda/recomplauncher",
+   "name": "Recomp Launcher",
+   "game": "Recomp Launcher",
+   "categories": [
+    "Other"
+   ],
+   "type": "recompilation",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "elripalda/RecompLauncher"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "recomp in:name stars:>40",
+    "date": "2026-11-03T19:39:16.255Z"
    },
    "autoFollow": false
   },
@@ -7015,6 +7094,35 @@
    },
    "autoFollow": true
   },
+  "king-ej/woodo-vr": {
+   "id": "king-ej/woodo-vr",
+   "name": "Woodo VR",
+   "game": "Woodo VR",
+   "categories": [
+    "Other",
+    "VR Ports"
+   ],
+   "type": "port",
+   "tags": [
+    "VR"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "King-EJ/Woodo-VR"
+   },
+   "links": [],
+   "sources": [
+    "news"
+   ],
+   "discoveredFrom": {
+    "kind": "news",
+    "title": "Wooden Dioramas Come To Life - Woodo VR Mod (WIP) - Native Stereo & Head-Tracking",
+    "url": "https://www.youtube.com/watch?v=T7G6VlJeyCA",
+    "source": "YouTube: FastLawyer",
+    "date": "2026-11-03T13:45:15.000Z"
+   },
+   "autoFollow": true
+  },
   "kirklandsig/halo-ce-anbernic-rg35xx": {
    "id": "kirklandsig/halo-ce-anbernic-rg35xx",
    "name": "halo ce anbernic rg35xx",
@@ -9308,6 +9416,30 @@
    },
    "autoFollow": false
   },
+  "ravencaio/tlou-remastered-pc": {
+   "id": "ravencaio/tlou-remastered-pc",
+   "name": "tlou remastered pc",
+   "game": "tlou remastered pc",
+   "categories": [
+    "PlayStation 4"
+   ],
+   "type": "reimplementation",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "ravencaio/tlou-remastered-pc"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "topic:pc-port stars:>50",
+    "date": "2026-11-03T19:39:16.255Z"
+   },
+   "autoFollow": false
+  },
   "recomp-code/street-recomp-v3": {
    "id": "recomp-code/street-recomp-v3",
    "name": "street recomp v3",
@@ -10877,6 +11009,32 @@
    },
    "autoFollow": false
   },
+  "thelostpantheon/nativ": {
+   "id": "thelostpantheon/nativ",
+   "name": "nativ",
+   "game": "nativ",
+   "categories": [
+    "Other"
+   ],
+   "type": "recompilation",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "TheLostPantheon/nativ"
+   },
+   "links": [],
+   "sources": [
+    "news"
+   ],
+   "discoveredFrom": {
+    "kind": "news",
+    "title": "PS Vita Recomps are HERE! Uncharted: Golden Abyss Recomp Out NOW",
+    "url": "https://www.youtube.com/watch?v=IZ-a9SfZV28",
+    "source": "YouTube: Video Game Esoterica",
+    "date": "2026-11-03T13:45:20.000Z"
+   },
+   "autoFollow": true
+  },
   "theshaneobrien/mister-disc-drive-support": {
    "id": "theshaneobrien/mister-disc-drive-support",
    "name": "mister disc drive support",
@@ -11542,6 +11700,30 @@
     "date": "2026-10-23T22:46:33.769Z"
    },
    "autoFollow": false
+  },
+  "zer0ducksgiven/pgr4-regpu": {
+   "id": "zer0ducksgiven/pgr4-regpu",
+   "name": "PGR4 Re GPU",
+   "game": "PGR4 Re GPU",
+   "categories": [
+    "Xbox 360"
+   ],
+   "type": "recompilation",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "zer0ducksgiven/PGR4-ReGPU"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "XenonRecomp in:readme stars:>30",
+    "date": "2026-11-03T19:39:16.255Z"
+   },
+   "autoFollow": false
   }
  },
  "rejected": {
@@ -11557,6 +11739,7 @@
   "azathothas/stars": "2026-10-27",
   "baekalfen/pyboy": "2026-10-31",
   "bailo167/awesome-game-mashups": "2026-10-23",
+  "balaurent/balatrovrmod-standalone": "2026-11-03",
   "bigmanlucavr/bo1vr": "2026-10-25",
   "blacklineinteractive/driveclub-port": "2026-10-23",
   "blueinterlude/awesome-recompilations": "2026-10-23",
