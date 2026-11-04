@@ -1,7 +1,7 @@
 {
  "meta": {
   "seededAt": "2026-10-25T14:56:57.670Z",
-  "lastSearchAt": "2026-11-03T19:39:16.255Z"
+  "lastSearchAt": "2026-11-04T19:55:48.147Z"
  },
  "firstSeen": {
   "0c0de/splatterhouse-decomp": "2026-10-25T15:56:57.670Z",
@@ -428,6 +428,7 @@
   "decoryah/arcade-jackiechan_mister": "2026-10-26T15:18:29.150Z",
   "decoryah/arcade-magicalcatadventure_nostradamus_mister": "2026-10-26T15:18:29.150Z",
   "decoryah/arcade-monstermaulers_mister": "2026-10-26T15:18:29.150Z",
+  "decoryah/arcade-taitolsystem_mister": "2026-11-04T19:55:48.147Z",
   "defgenx/openfpga-atarist#defgenx-atari-st": "2026-10-25T15:56:57.670Z",
   "defgenx/openfpga-atarist#defgenx-atarist": "2026-10-25T15:56:57.670Z",
   "defgenx/openfpga-c64": "2026-10-26T21:06:11.803Z",
@@ -2138,6 +2139,7 @@
   "retro-remake/consolemode_distribution": "2026-10-23T22:25:39.434Z",
   "retro-remake/superstation-sd-card-installer": "2026-10-23T22:25:39.434Z",
   "retro-ware/por-go": "2026-11-02T06:28:55.587Z",
+  "retrodriven/commanderkeen-pocket": "2026-11-04T19:55:48.147Z",
   "retrodriven/streetrod-pocket": "2026-10-29T15:18:58.463Z",
   "retrodriven/streetrod2-pocket": "2026-11-02T06:28:55.587Z",
   "retronas/retronas": "2026-10-26T15:18:29.150Z",
@@ -3577,6 +3579,33 @@
    },
    "autoFollow": false
   },
+  "bw-vr/bw1-vr": {
+   "id": "bw-vr/bw1-vr",
+   "name": "BW1 VR",
+   "game": "BW1 VR",
+   "categories": [
+    "Other",
+    "VR Ports"
+   ],
+   "type": "port",
+   "tags": [
+    "VR"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "BW-VR/BW1-VR"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "\"VR mod\" in:description stars:>30",
+    "date": "2026-11-04T19:55:48.147Z"
+   },
+   "autoFollow": false
+  },
   "bw1-vr/bw1-vr": {
    "id": "bw1-vr/bw1-vr",
    "name": "BW1 VR",
@@ -4425,6 +4454,32 @@
     "kind": "search",
     "title": "topic:mister-fpga stars:>5",
     "date": "2026-10-26T15:18:29.150Z"
+   },
+   "autoFollow": false
+  },
+  "decoryah/arcade-taitolsystem_mister": {
+   "id": "decoryah/arcade-taitolsystem_mister",
+   "name": "Arcade Taito LSystem Mi STer",
+   "game": "Taito LSystem",
+   "categories": [
+    "MiSTer FPGA"
+   ],
+   "type": "core",
+   "tags": [
+    "FPGA"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "decoryah/Arcade-TaitoLSystem_MiSTer"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "topic:mister-fpga stars:>5",
+    "date": "2026-11-04T19:55:48.147Z"
    },
    "autoFollow": false
   },
@@ -11982,6 +12037,7 @@
   "lialan/lindbergh-recomp-ports": "2026-11-02",
   "lightvelox/sotc-vibe-pc": "2026-10-23",
   "mabec-games/f-zero-glinux": "2026-10-27",
+  "maluramichael/awesome-reverse-engineer-anything": "2026-11-04",
   "marty-suzuki/misterfusion": "2026-10-26",
   "matteo842/savestate": "2026-10-31",
   "mikage-emu/mikage-dev": "2026-10-23",

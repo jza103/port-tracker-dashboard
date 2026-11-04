@@ -26970,7 +26970,7 @@
   ]
  },
  "quiver": {
-  "updatedAt": "2026-11-04T12:19:33.535Z",
+  "updatedAt": "2026-11-04T19:55:48.147Z",
   "projects": [
    {
     "id": "hk21x/007-agentunderfire-recomp",
@@ -27056,7 +27056,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v1.0.2",
+    "catalogVersion": "v1.1.0",
     "links": [
      {
       "label": "Quiver",
@@ -27251,7 +27251,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.7",
+    "catalogVersion": "v0.8",
     "links": [
      {
       "label": "Quiver",
@@ -28275,7 +28275,11 @@
     "description": "Animal Crossing PC Port brings Animal Crossing to PC.",
     "developer": "flyngmt",
     "targets": [
-     "Windows"
+     "Windows",
+     "Android",
+     "iOS",
+     "Linux",
+     "macOS"
     ],
     "catalogVersion": "v1.0.0",
     "links": [
@@ -29023,22 +29027,22 @@
     "aliases": [
      "quiver:baroque-baroque-saturnrecomp"
     ],
-    "name": "Baroque (SaturnRecomp)",
+    "name": "Baroque Reborn",
     "game": "Baroque",
     "categories": [
      "Sega Saturn"
     ],
-    "type": "recompilation",
+    "type": "reimplementation",
     "repo": {
      "host": "github",
      "path": "goodshepherd23/Baroque-SaturnRecomp"
     },
-    "description": "Baroque (SaturnRecomp) is a Windows port of Baroque for Sega Saturn that supports the English fan translation and widescreen.",
+    "description": "Baroque Reborn is a Windows port of Baroque for Sega Saturn that supports the English fan translation and widescreen.",
     "developer": "goodshepherd23",
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.1.3",
+    "catalogVersion": "v0.1.4",
     "links": [
      {
       "label": "Quiver",
@@ -29823,7 +29827,7 @@
     "targets": [
      "Linux"
     ],
-    "catalogVersion": "0.70-linux.1",
+    "catalogVersion": "0.70-linux.2",
     "links": [
      {
       "label": "Quiver",
@@ -29888,7 +29892,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "v0.9.39-beta.30",
+    "catalogVersion": "v0.9.39-beta.31",
     "links": [
      {
       "label": "Quiver",
@@ -31140,7 +31144,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v1.7.0",
+    "catalogVersion": "v1.8.2",
     "links": [
      {
       "label": "Quiver",
@@ -31279,7 +31283,7 @@
      "macOS",
      "Windows"
     ],
-    "catalogVersion": "cataclysm-tlg-1.0-2026-11-04-0138",
+    "catalogVersion": "cataclysm-tlg-1.0-2026-11-04-1452",
     "links": [
      {
       "label": "Quiver",
@@ -31677,7 +31681,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "0.4.4",
+    "catalogVersion": "0.4.5",
     "links": [
      {
       "label": "Quiver",
@@ -32307,7 +32311,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.1.3",
+    "catalogVersion": "v0.1.4",
     "links": [
      {
       "label": "Quiver",
@@ -32798,7 +32802,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "v0.7.4",
+    "catalogVersion": "v0.7.5",
     "links": [
      {
       "label": "Quiver",
@@ -33091,7 +33095,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.4.5",
+    "catalogVersion": "v0.5.0",
     "links": [
      {
       "label": "Quiver",
@@ -33655,7 +33659,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.5.2",
+    "catalogVersion": "v0.5.3",
     "links": [
      {
       "label": "Quiver",
@@ -33857,7 +33861,7 @@
      "Android",
      "iOS"
     ],
-    "catalogVersion": "Version1.0.12",
+    "catalogVersion": "Version1.0.14",
     "links": [
      {
       "label": "Quiver",
@@ -34645,7 +34649,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "v0.9.1",
+    "catalogVersion": "v0.9.2",
     "links": [
      {
       "label": "Quiver",
@@ -34843,7 +34847,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.2.2",
+    "catalogVersion": "v0.2.3",
     "links": [
      {
       "label": "Quiver",
@@ -36998,7 +37002,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v1.2.2",
+    "catalogVersion": "v1.2.3",
     "links": [
      {
       "label": "Quiver",
@@ -37166,7 +37170,7 @@
      "Android",
      "Windows"
     ],
-    "catalogVersion": "v0.3.12",
+    "catalogVersion": "v0.3.13",
     "links": [
      {
       "label": "Quiver",
@@ -38016,7 +38020,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "launcher-v0.3.0",
+    "catalogVersion": "launcher-v0.3.1",
     "links": [
      {
       "label": "Quiver",
@@ -38214,7 +38218,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.1.11",
+    "catalogVersion": "v0.1.12",
     "links": [
      {
       "label": "Quiver",
@@ -38345,7 +38349,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.2.0",
+    "catalogVersion": "v0.2.1",
     "links": [
      {
       "label": "Quiver",
@@ -38967,7 +38971,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.3.4",
+    "catalogVersion": "v0.3.5",
     "links": [
      {
       "label": "Quiver",
@@ -40151,7 +40155,7 @@
      "Windows",
      "Android"
     ],
-    "catalogVersion": "v0.6.6",
+    "catalogVersion": "v0.6.7",
     "links": [
      {
       "label": "Quiver",
@@ -40248,7 +40252,7 @@
     "description": "JSRF-PC is a native port of Jet Set Radio Future to Windows and Linux with an in-game menu, widescreen support, and free camera controls.",
     "developer": "spriteice",
     "targets": [],
-    "catalogVersion": "b1.3",
+    "catalogVersion": "b1.4",
     "links": [
      {
       "label": "Quiver",
@@ -41731,7 +41735,7 @@
      "Android",
      "Linux"
     ],
-    "catalogVersion": "v0.5.3",
+    "catalogVersion": "v0.5.3.1",
     "links": [
      {
       "label": "Quiver",
@@ -42291,7 +42295,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.2.4",
+    "catalogVersion": "v0.2.6",
     "links": [
      {
       "label": "Quiver",
@@ -42581,11 +42585,11 @@
     "description": "MediEvil Recomp ESP is a native PC port of MediEvil for the Spanish PlayStation version, featuring widescreen and improved rendering.",
     "developer": "Leproide",
     "targets": [
-     "Windows",
      "Linux",
-     "macOS"
+     "macOS",
+     "Windows"
     ],
-    "catalogVersion": "v1.1.12",
+    "catalogVersion": "v1.1.14",
     "links": [
      {
       "label": "Quiver",
@@ -42615,7 +42619,7 @@
     "description": "MediEvil Recomp ITA is a native PC port of MediEvil for PlayStation, featuring widescreen and improved rendering.",
     "developer": "Leproide",
     "targets": [],
-    "catalogVersion": "v1.1.12",
+    "catalogVersion": "v1.1.14",
     "links": [
      {
       "label": "Quiver",
@@ -42980,7 +42984,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "v0.9.97",
+    "catalogVersion": "v0.9.98",
     "links": [
      {
       "label": "Quiver",
@@ -44530,7 +44534,7 @@
      "Linux",
      "macOS"
     ],
-    "catalogVersion": "v0.9.54",
+    "catalogVersion": "v0.9.55",
     "links": [
      {
       "label": "Quiver",
@@ -44899,7 +44903,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "v0.2.2",
+    "catalogVersion": "v0.2.3",
     "links": [
      {
       "label": "Quiver",
@@ -45360,7 +45364,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.4.5",
+    "catalogVersion": "v0.4.6",
     "links": [
      {
       "label": "Quiver",
@@ -45457,11 +45461,8 @@
     },
     "description": "OpenHuey is a PC port and decompilation of Haunting Ground for PlayStation 2 that allows playing the game with mods and features a Forth console.",
     "developer": "ArnautDaniel",
-    "targets": [
-     "Linux",
-     "Windows"
-    ],
-    "catalogVersion": "openhuey-latest",
+    "targets": [],
+    "catalogVersion": "hg-20261014",
     "links": [
      {
       "label": "Quiver",
@@ -46105,7 +46106,7 @@
      "macOS",
      "Windows"
     ],
-    "catalogVersion": "v0.6.9",
+    "catalogVersion": "v0.6.10",
     "links": [
      {
       "label": "Quiver",
@@ -46806,7 +46807,7 @@
      "macOS",
      "Windows"
     ],
-    "catalogVersion": "v1.1.1",
+    "catalogVersion": "v1.1.2",
     "links": [
      {
       "label": "Quiver",
@@ -47623,7 +47624,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.1.7",
+    "catalogVersion": "v0.1.8",
     "links": [
      {
       "label": "Quiver",
@@ -48057,7 +48058,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "2026.11.03-ca7400b2",
+    "catalogVersion": "2026.11.04-b94a1086",
     "links": [
      {
       "label": "Quiver",
@@ -48285,7 +48286,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v1.4",
+    "catalogVersion": "v1.5",
     "links": [
      {
       "label": "Quiver",
@@ -48421,7 +48422,7 @@
       "url": "https://quiverlauncher.com/apps/the-nightmare-before-christmas-oogie-s-revenge-project-oogie"
      }
     ],
-    "image": "https://cdn2.steamgriddb.com/grid/0386a54233f166874f0e8da3ec431b8c.png",
+    "image": "https://cdn2.steamgriddb.com/grid/9c7aa41a5e6796b6dbe4449b95105a0c.png",
     "sources": [
      "quiver"
     ]
@@ -48481,7 +48482,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.1.8",
+    "catalogVersion": "v0.1.9",
     "links": [
      {
       "label": "Quiver",
@@ -49465,7 +49466,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v0.1.3",
+    "catalogVersion": "v0.1.5",
     "links": [
      {
       "label": "Quiver",
@@ -49529,7 +49530,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.2.1",
+    "catalogVersion": "v0.3.0",
     "links": [
      {
       "label": "Quiver",
@@ -49561,7 +49562,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v1.5.1",
+    "catalogVersion": "v1.5.2",
     "links": [
      {
       "label": "Quiver",
@@ -50028,7 +50029,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v2.7",
+    "catalogVersion": "v2.8",
     "links": [
      {
       "label": "Quiver",
@@ -51152,7 +51153,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "v0.1.55",
+    "catalogVersion": "v0.1.56",
     "links": [
      {
       "label": "Quiver",
@@ -51217,7 +51218,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.1.9",
+    "catalogVersion": "v0.1.10",
     "links": [
      {
       "label": "Quiver",
@@ -51645,7 +51646,7 @@
      "host": "github",
      "path": "bipinkrish/sf2recomp"
     },
-    "description": "SF2Recomp is a native PC port of Shadow Fight 2 for Windows, Linux, and macOS that supports 4K, 120 FPS, and ultrawide displays.",
+    "description": "SF2Recomp is a native PC port of Shadow Fight 2 for Windows, Linux, macOS and Android that supports 4K, 120 FPS, and ultrawide displays.",
     "developer": "Bipin Krishna",
     "targets": [
      "Linux",
@@ -51717,7 +51718,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v1.5.1",
+    "catalogVersion": "v1.5.2",
     "links": [
      {
       "label": "Quiver",
@@ -52177,7 +52178,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v1.2.5.2",
+    "catalogVersion": "v1.2.5.3",
     "links": [
      {
       "label": "Quiver",
@@ -54554,7 +54555,7 @@
      "macOS",
      "Windows"
     ],
-    "catalogVersion": "v1.9.8",
+    "catalogVersion": "v1.9.7",
     "links": [
      {
       "label": "Quiver",
@@ -55245,7 +55246,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v2026.10.30-88c81bc",
+    "catalogVersion": "v2026.11.04-0e4e359",
     "links": [
      {
       "label": "Quiver",
@@ -56556,7 +56557,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "v1.0.4b",
+    "catalogVersion": "v1.0.4c",
     "links": [
      {
       "label": "Quiver",
@@ -56689,7 +56690,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.7.0-beta",
+    "catalogVersion": "v0.7.1-beta",
     "links": [
      {
       "label": "Quiver",
@@ -56787,7 +56788,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.1.5",
+    "catalogVersion": "v0.1.6",
     "links": [
      {
       "label": "Quiver",
@@ -57576,7 +57577,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "1.0.6-UFC3MONS",
+    "catalogVersion": "1.0.7-UFC3MONS",
     "links": [
      {
       "label": "Quiver",
@@ -57871,7 +57872,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.3.12",
+    "catalogVersion": "v0.3.13",
     "links": [
      {
       "label": "Quiver",
@@ -58067,7 +58068,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "v0.10",
+    "catalogVersion": "v0.11",
     "links": [
      {
       "label": "Quiver",
@@ -59153,7 +59154,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v1.3.0-vr",
+    "catalogVersion": "v1.3.1-vr",
     "links": [
      {
       "label": "Quiver",
@@ -59350,7 +59351,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.1.9",
+    "catalogVersion": "linux-test-v0.1.9.1",
     "links": [
      {
       "label": "Quiver",
@@ -75824,7 +75825,7 @@
   ]
  },
  "pocket": {
-  "updatedAt": "2026-11-02T18:34:06.476Z",
+  "updatedAt": "2026-11-04T19:55:48.147Z",
   "projects": [
    {
     "id": "gpzi994/chiskit",
@@ -76122,11 +76123,11 @@
     "targets": [
      "Analogue Pocket"
     ],
-    "catalogVersion": "1.0.1",
-    "catalogDate": "2026-11-02",
+    "catalogVersion": "1.0.2",
+    "catalogDate": "2026-11-03",
     "download": {
-     "label": "Pocket 1.0.1",
-     "url": "https://github.com/dennisbohn/openfpga-screamer/releases/download/v1.0.1/Chainy.Screamer_1.0.1.zip"
+     "label": "Pocket 1.0.2",
+     "url": "https://github.com/dennisbohn/openfpga-screamer/releases/download/v1.0.2/Chainy.Screamer_1.0.2.zip"
     },
     "links": [
      {
@@ -76668,11 +76669,11 @@
     "targets": [
      "Analogue Pocket"
     ],
-    "catalogVersion": "0.2.6",
-    "catalogDate": "2026-10-12",
+    "catalogVersion": "0.3.0",
+    "catalogDate": "2026-11-02",
     "download": {
-     "label": "Pocket 0.2.6",
-     "url": "https://github.com/thekoalakoa/paprium-pocket/releases/download/0.2.6/openfpga-Paprium_0.2.6.zip"
+     "label": "Pocket 0.3.0",
+     "url": "https://github.com/thekoalakoa/paprium-pocket/releases/download/v0.3.0/openfpga-Paprium_0.3.0.zip"
     },
     "links": [
      {
@@ -77136,11 +77137,50 @@
     "targets": [
      "Analogue Pocket"
     ],
-    "catalogVersion": "0.2.5",
-    "catalogDate": "2026-10-25",
+    "catalogVersion": "0.3.2",
+    "catalogDate": "2026-11-03",
     "download": {
-     "label": "Pocket 0.2.5",
-     "url": "https://github.com/Newsdee/openfpga-apple2e/releases/download/0.2.5/Apple2e_Pocket_0.2.5.zip"
+     "label": "Pocket 0.3.2",
+     "url": "https://github.com/Newsdee/openfpga-apple2e/releases/download/0.3.2/Apple2e_Pocket_0.3.2.zip"
+    },
+    "links": [
+     {
+      "label": "openFPGA inventory",
+      "url": "https://openfpga-cores-inventory.github.io/analogue-pocket/"
+     }
+    ],
+    "sources": [
+     "pocket"
+    ]
+   },
+   {
+    "id": "retrodriven/commanderkeen-pocket",
+    "aliases": [
+     "pocket:retrodriven-commanderkeen"
+    ],
+    "name": "RetroDriven.CommanderKeen (Pocket)",
+    "game": "Commander Keen",
+    "categories": [
+     "Analogue Pocket"
+    ],
+    "type": "core",
+    "tags": [
+     "FPGA"
+    ],
+    "repo": {
+     "host": "github",
+     "path": "RetroDriven/CommanderKeen-Pocket"
+    },
+    "description": "openFPGA computer core · id Software 1990",
+    "developer": "RetroDriven",
+    "targets": [
+     "Analogue Pocket"
+    ],
+    "catalogVersion": "1.0.0",
+    "catalogDate": "2026-10-30",
+    "download": {
+     "label": "Pocket 1.0.0",
+     "url": "https://github.com/RetroDriven/CommanderKeen-Pocket/releases/download/v1.0.0/RetroDriven.CommanderKeen-v1.0.0.zip"
     },
     "links": [
      {
@@ -81932,11 +81972,11 @@
     "targets": [
      "Analogue Pocket"
     ],
-    "catalogVersion": "0.2.3",
-    "catalogDate": "2026-10-26",
+    "catalogVersion": "0.2.4",
+    "catalogDate": "2026-11-04",
     "download": {
-     "label": "Pocket 0.2.3",
-     "url": "https://github.com/defgenx/openfpga-C64/releases/download/v0.2.3/defgenx.C64.zip"
+     "label": "Pocket 0.2.4",
+     "url": "https://github.com/defgenx/openfpga-C64/releases/download/v0.2.4/defgenx.C64.zip"
     },
     "links": [
      {
@@ -86815,11 +86855,11 @@
     "targets": [
      "Analogue Pocket"
     ],
-    "catalogVersion": "1.0.0",
-    "catalogDate": "2026-10-17",
+    "catalogVersion": "1.0.1",
+    "catalogDate": "2026-11-04",
     "download": {
-     "label": "Pocket 1.0.0",
-     "url": "https://github.com/mee55237/openfpga-minicube64/releases/download/1.0.0/openfpga-minicube64-1.0.0.zip"
+     "label": "Pocket 1.0.1",
+     "url": "https://github.com/mee55237/openfpga-minicube64/releases/download/1.01/openfpga-minicube64-1.0.0.zip"
     },
     "links": [
      {
@@ -90295,11 +90335,11 @@
     "targets": [
      "Analogue Pocket"
     ],
-    "catalogVersion": "0.1.2",
+    "catalogVersion": "0.2.0",
     "catalogDate": "2026-10-28",
     "download": {
-     "label": "Pocket 0.1.2",
-     "url": "https://github.com/zenibako/VVVVVV-pocket/releases/download/v0.1.2/vvvvvv-openfpga.zip"
+     "label": "Pocket 0.2.0",
+     "url": "https://github.com/zenibako/VVVVVV-pocket/releases/download/v0.2.0/vvvvvv-openfpga.zip"
     },
     "links": [
      {
