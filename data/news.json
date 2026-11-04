@@ -1,6 +1,151 @@
 {
  "articles": [
   {
+   "title": "Disgruntled software developers start ambitious open-source revolt, using AI to clone common services — OccupySaaS AI-powered project wants to kick Auth0, Salesforce, and other pricy service-as-software to the curb",
+   "url": "https://www.tomshardware.com/software/applications/disgruntled-software-developers-start-ambitious-open-source-revolt-using-ai-to-clone-common-services-occupysaas-ai-powered-project-wants-to-kick-auth0-salesforce-and-other-pricy-service-as-software-to-the-curb",
+   "date": "2026-11-04T11:30:00.000Z",
+   "source": "Tom's Hardware",
+   "outlet": "Tom's Hardware",
+   "summary": "OccupySaaS AI-powered project wants to kick Auth0, Salesforce, and other pricy service-as-software to the curb",
+   "image": "https://cdn.mos.cms.futurecdn.net/H8EavN2zCtyGHnFmtFWGxg-1920-80.png",
+   "text": "Disgruntled software developers start ambitious open-source revolt, using AI to clone common services — OccupySaaS AI-powered project wants to kick Auth0, Salesforce, and other pricy service-as-software to the curb AI-powered software cloning is quite the hot topic. Software companies are likely unhappy with the notion of vibe coders ganging up to try and copy their software. Simultaneously, users tired of subscription models, price hikes, and drops in software quality are more than happy to rebel, as proven by the buzz around the Adobe-replacement ArtCraft . Now, OccupySaaS is the latest user-led revolt against the software system, aiming to create clean-room, open-source reimplementations of common services using AI tools. The initiatives already underway in the project look to replace Auth0 and Salesforce with minty fresh alternatives called ZeroAuthy and SalesCompel , respectively. Given that these services all run on their companies' servers, there are no binaries to examine and decompile — the reimplementations are done referencing available documentation, APIs, development kit behaviors, and any applicable open standards. Judging from the project website, it seemingly wants new software to acts as a API-compatible drop-in replacement where applicable. The project puts a sharp pin on its development ethics and requirements: all work must be a fully clean-room reimplementation, with no decompiled code, no confidential information (including source code) taken from any pr",
+   "repos": [
+    "github:occupysaas/zeroauthy",
+    "github:occupysaas/salescompel"
+   ],
+   "firstSeen": "2026-11-04T12:19:33.535Z"
+  },
+  {
+   "title": "DriveClub's native PC port now supports DLSS 4.5 and FSR 4.",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNlotRTBSdUVrcXJvRWJiYi1LWjNxM2JKclMwWFBtRUZtUVBKNjlHYy1rMVFvRmVSeTlzamxmZ2FSYVlMd19CTkc0SzBScWFpY3VhaUlaY0ZHX3p5bUJ1VEtEUnlVQUxlMlpiaXNraG1jeU1RZkhmNlhUNi14emtFbjBEQVV0MXJaX1l6MHllSFRhdTBpR3NFUF84Y1dmWjY0cmhVWVo2Tk9NLWYzeFE?oc=5",
+   "date": "2026-11-04T11:15:12.000Z",
+   "source": "Google News",
+   "outlet": "GameGPU",
+   "summary": "",
+   "image": null,
+   "text": "DriveClub's native PC port now supports DLSS 4.5 and FSR 4. - GameGPU DriveClub's native PC port now supports DLSS 4.5 and FSR 4. GameGPU",
+   "repos": [],
+   "firstSeen": "2026-11-04T12:19:33.535Z"
+  },
+  {
+   "title": "Reading Data from an Unwilling Blood Pressure Monitor",
+   "url": "https://hackaday.com/2026/11/04/reading-data-from-an-unwilling-blood-pressure-monitor/",
+   "date": "2026-11-04T09:00:46.000Z",
+   "source": "Hackaday",
+   "outlet": "Hackaday",
+   "summary": "Given the modern trend of interconnecting anything and everything, we have no doubt that somebody sells a blood pressure monitor that will push its measurements out to all sorts of …read more",
+   "image": "https://hackaday.com/wp-content/uploads/2026/11/smartbp_feat.jpg",
+   "text": "Reading Data from an Unwilling Blood Pressure Monitor Given the modern trend of interconnecting anything and everything, we have no doubt that somebody sells a blood pressure monitor that will push its measurements out to all sorts of cloud services on your behalf. We're equally sure that doing so requires you to sign up for some new account or service, and that there may even be a subscription cost hiding in there as well. Looking to record his vitals on his own terms, [Tomasz Burzy] set out to modify a basic blood pressure monitor so that it would send its data out over WiFi. He succeeds in the end , but as is so often the case around these parts, the journey ended up being just as interesting as the final destination. Optically detecting which LCD segments are activated. His initial idea was to tap into the monitor's PCB with his logic analyzer. He quickly found a test point that let him pull the raw value from the unit's pressure sensor, and with a little massaging, he even got some code running that turned that into a fair estimation of his actual blood pressure. But it didn't quite match what the display showed, and doing some research, he found that these monitors generally employ some unknowable Secret Sauce to derive the final result from the raw data. Efforts to intercept the final number from the device's main chip before it was sent off to the display driver were stymied by the fact that it was the display driver. The unit was so well integrated, presumably to dri",
+   "repos": [
+    "github:FireMarshmellow/diy-smart-blood-pressure-monitor"
+   ],
+   "firstSeen": "2026-11-04T12:19:33.535Z"
+  },
+  {
+   "title": "Anger Foot VR Mod - Native Stereo, Head-Tracking, 6DOF motion controls, 2H Weapons & Dual Wield",
+   "url": "https://www.youtube.com/watch?v=hV9e-I8grsQ",
+   "date": "2026-11-04T07:57:27.000Z",
+   "source": "YouTube: FastLawyer",
+   "outlet": "YouTube: FastLawyer",
+   "summary": "I bought this game! Anger Foot is a fast-action FPS where you kick ass. Anger Foot can now be played in VR with the latest FREE VR Mod from StrikeZoneVR. Played on the Meta Quest 3 using Virtual Desktop on my RTX 5090. You can purchase game on Steam here: https://store.steampowered.com/app/1978590/Anger_Foot/ Thank you StrikeZoneVR for the VR mod (played version 1.1)! FREE VR download here: https:",
+   "image": "https://i1.ytimg.com/vi/hV9e-I8grsQ/hqdefault.jpg",
+   "text": "Anger Foot VR Mod - Native Stereo, Head-Tracking, 6DOF motion controls, 2H Weapons & Dual Wield I bought this game! Anger Foot is a fast-action FPS where you kick ass. Anger Foot can now be played in VR with the latest FREE VR Mod from StrikeZoneVR. Played on the Meta Quest 3 using Virtual Desktop on my RTX 5090. You can purchase game on Steam here: https://store.steampowered.com/app/1978590/Anger_Foot/ Thank you StrikeZoneVR for the VR mod (played version 1.1)! FREE VR download here: https://github.com/StrikeZoneVR-hub/AngerFootVR",
+   "repos": [
+    "github:StrikeZoneVR-hub/AngerFootVR"
+   ],
+   "firstSeen": "2026-11-04T12:19:33.535Z"
+  },
+  {
+   "title": "Someone used Claude Code to get Need for Speed: Underground 2 running in browsers with online multiplayer",
+   "url": "https://www.xda-developers.com/someone-used-claude-code-to-get-need-for-speed-underground-2-running-in-browsers-with-online-multiplayer/",
+   "date": "2026-11-04T07:04:47.000Z",
+   "source": "XDA",
+   "outlet": "XDA",
+   "summary": "People are starting to bring back online play with their fave games.",
+   "image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/claude-code-screen.JPEG",
+   "text": "Someone used Claude Code to get Need for Speed: Underground 2 running in browsers with online multiplayer If the recent rise in AI-powered videogame decompilation and porting has taught me anything, it's that people can now bring back the glory days of when the online mode for their favorite game worked. For example, one person holds Need for Speed: Underground 2 so close to their heart that they took someone's port of the game and made it work in a browser using Claude, complete with online multiplayer.",
+   "repos": [
+    "github:TalhaMudo/NFSU2Recomp"
+   ],
+   "firstSeen": "2026-11-04T12:19:33.535Z"
+  },
+  {
+   "title": "The Xbox racing arcade game Midtown Madness 3 has received a native PC port with 120 FPS.",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPX2E0VG91ZFRUVjJ4Mk1wVHRNeGN0aG1KZGJpbk8yYjRUa0lTdkY5QmVqV2g4b0ZxQWp4cXZ5RU5jUHo5SzYxNFNlQm5MY0NIdmh6c2pwZ1lOdmZMMjE2M2szVlRFWUxDOWJ0LVZBRUJuNUlwU3dFWEV6RDlEUnNXMmdLQXE5RDg3TWg5RzZiNGVzZ01hYXNMSHBFMTBTcThBRi1jRDlPNW9TSHJ5QnBmY3UwZlF2aXc?oc=5",
+   "date": "2026-11-04T06:26:44.000Z",
+   "source": "Google News",
+   "outlet": "GameGPU",
+   "summary": "",
+   "image": null,
+   "text": "The Xbox racing arcade game Midtown Madness 3 has received a native PC port with 120 FPS. - GameGPU The Xbox racing arcade game Midtown Madness 3 has received a native PC port with 120 FPS. GameGPU",
+   "repos": [],
+   "firstSeen": "2026-11-04T12:19:33.535Z"
+  },
+  {
+   "title": "Castlevania: Symphony of the Night Ultimate is Out NOW! PS1 x Saturn",
+   "url": "https://www.youtube.com/watch?v=Llkd0tHFzKk",
+   "date": "2026-11-04T02:00:00.000Z",
+   "source": "YouTube: Video Game Esoterica",
+   "outlet": "YouTube: Video Game Esoterica",
+   "summary": "SUPPORT THE CHANNEL : http://www.patreon.com/VideoGameEsoterica Sure we have a Castlevania: Symphony of the Night recomp AND the Saturn Castlevania with the English translation AND 4MB RAM expansion, but now we have Castlevania: Symphony of the Night Ultimate...which combines ever additional level, Maria from Saturn, all the extra enemies, weapons, bosses and familiars...and more from Saturn's Noc",
+   "image": "https://i1.ytimg.com/vi/Llkd0tHFzKk/hqdefault.jpg",
+   "text": "Castlevania: Symphony of the Night Ultimate is Out NOW! PS1 x Saturn SUPPORT THE CHANNEL : http://www.patreon.com/VideoGameEsoterica Sure we have a Castlevania: Symphony of the Night recomp AND the Saturn Castlevania with the English translation AND 4MB RAM expansion, but now we have Castlevania: Symphony of the Night Ultimate...which combines ever additional level, Maria from Saturn, all the extra enemies, weapons, bosses and familiars...and more from Saturn's Nocturne in the Moonlight into the technically BETTER PS1 Castlevania release! And it runs on real hardware Check it out: https://www.romhacking.net/hacks/10241/ Join the recomps Discord: https://discord.gg/QYDhTBVV9 Questions? Comments? Just leave them below and I will do my best to answer each and every one of them! http://www.patreon.com/VideoGameEsoterica VGE",
+   "repos": [],
+   "firstSeen": "2026-11-04T12:19:33.535Z"
+  },
+  {
+   "title": "Shipwreck Discovery VR - Live Gameplay & Early Impressions on the Meta Quest 3 (PCVR)",
+   "url": "https://www.youtube.com/watch?v=buoBd0Ak8XI",
+   "date": "2026-11-04T00:59:46.000Z",
+   "source": "YouTube: FastLawyer",
+   "outlet": "YouTube: FastLawyer",
+   "summary": "I bought this game! Playing on the Meta Quest 3 using Virtual Desktop on my RTX 5090. Per the dev: \"Dive real shipwrecks off Destin, Florida in VR. Every level starts with 70 to 100 lionfish. Spear them, burn algae off the hulls, race a scooter around the SS United States and grow coral that keeps growing between dives, guided by marine scientist Dr. Steve Gittings.\" You can purchase game on Steam",
+   "image": "https://i3.ytimg.com/vi/buoBd0Ak8XI/hqdefault.jpg",
+   "text": "Shipwreck Discovery VR - Live Gameplay & Early Impressions on the Meta Quest 3 (PCVR) I bought this game! Playing on the Meta Quest 3 using Virtual Desktop on my RTX 5090. Per the dev: \"Dive real shipwrecks off Destin, Florida in VR. Every level starts with 70 to 100 lionfish. Spear them, burn algae off the hulls, race a scooter around the SS United States and grow coral that keeps growing between dives, guided by marine scientist Dr. Steve Gittings.\" You can purchase game on Steam here: https://store.steampowered.com/app/3583270/Shipwreck_Discovery/ Please join my Steam Curator Group here: https://steamcommunity.com/groups/Oculus_WMR",
+   "repos": [],
+   "firstSeen": "2026-11-04T12:19:33.535Z"
+  },
+  {
+   "title": "Ratchet & Clank VR Performance / New Meta Quest Standalone VR Mod with 6DOF Motion Controls",
+   "url": "https://www.youtube.com/watch?v=QK4voHNdCII",
+   "date": "2026-11-03T23:40:06.000Z",
+   "source": "YouTube: NotAGameAddict",
+   "outlet": "YouTube: NotAGameAddict",
+   "summary": "00:00 - Game launcher 01:17 - VR gameplay Ratchet & Clank — Quest VR mod made by Moistman42069 - https://github.com/moistman42069/RatchetAndClank-Quest-VR Totally optional: https://buymeacoffee.com/notagameaddict",
+   "image": "https://i2.ytimg.com/vi/QK4voHNdCII/hqdefault.jpg",
+   "text": "Ratchet & Clank VR Performance / New Meta Quest Standalone VR Mod with 6DOF Motion Controls 00:00 - Game launcher 01:17 - VR gameplay Ratchet & Clank — Quest VR mod made by Moistman42069 - https://github.com/moistman42069/RatchetAndClank-Quest-VR Totally optional: https://buymeacoffee.com/notagameaddict",
+   "repos": [
+    "github:moistman42069/RatchetAndClank-Quest-VR"
+   ],
+   "firstSeen": "2026-11-04T12:19:33.535Z"
+  },
+  {
+   "title": "Transformers: War for Cybertron VR Performance / New VR Mod with 6DOF Motion Controls / PCVR",
+   "url": "https://www.youtube.com/watch?v=wXTowKcIcGU",
+   "date": "2026-11-03T22:22:29.000Z",
+   "source": "YouTube: NotAGameAddict",
+   "outlet": "YouTube: NotAGameAddict",
+   "summary": "00:46 - VR settings 02:09 - VR gameplay 08:06 - VR gameplay with FPS overlay TWFC-VR mod made by Liper76 - https://github.com/liper76/TWFC-VR",
+   "image": "https://i4.ytimg.com/vi/wXTowKcIcGU/hqdefault.jpg",
+   "text": "Transformers: War for Cybertron VR Performance / New VR Mod with 6DOF Motion Controls / PCVR 00:46 - VR settings 02:09 - VR gameplay 08:06 - VR gameplay with FPS overlay TWFC-VR mod made by Liper76 - https://github.com/liper76/TWFC-VR",
+   "repos": [
+    "github:liper76/TWFC-VR"
+   ],
+   "firstSeen": "2026-11-04T12:19:33.535Z"
+  },
+  {
+   "title": "Super Mario Odyssey Recomp is HERE! More Switch Recomps",
+   "url": "https://www.youtube.com/watch?v=1ChhmIzrCdg",
+   "date": "2026-11-03T22:00:09.000Z",
+   "source": "YouTube: Video Game Esoterica",
+   "outlet": "YouTube: Video Game Esoterica",
+   "summary": "SUPPORT THE CHANNEL : http://www.patreon.com/VideoGameEsoterica Another 100% playable Nintendo Switch Recomp is out now! A Super Mario Odyssey recomp! More Nintendo PC ports? yes please Note: updated to 0.2.0 since audio recording Sure we have a TON of N64 recomps and N64 PC ports and even GameCube recomps and GameCube PC ports with the Twilight Princess PC port...and even a few Wii recomps! But w",
+   "image": "https://i2.ytimg.com/vi/1ChhmIzrCdg/hqdefault.jpg",
+   "text": "Super Mario Odyssey Recomp is HERE! More Switch Recomps SUPPORT THE CHANNEL : http://www.patreon.com/VideoGameEsoterica Another 100% playable Nintendo Switch Recomp is out now! A Super Mario Odyssey recomp! More Nintendo PC ports? yes please Note: updated to 0.2.0 since audio recording Sure we have a TON of N64 recomps and N64 PC ports and even GameCube recomps and GameCube PC ports with the Twilight Princess PC port...and even a few Wii recomps! But what about Nintendo Switch recomps? Well that was never possible...until now! Nintendo PC ports from the Nintendo Switch generation...are here! Questions? Comments? Just leave them below and I will do my best to answer each and every one of them! http://www.patreon.com/VideoGameEsoterica You can follow us at IG : ChicagoGameCollector , or join our Discord Server : https://discord.gg/uBtfwD9b7 VGE",
+   "repos": [],
+   "firstSeen": "2026-11-04T12:19:33.535Z"
+  },
+  {
    "title": "Woodo in VR is Magical #woodo #cozy #diorama #woodworking #vr #vrmods #metaquest3 #gaming",
    "url": "https://www.youtube.com/shorts/dGp8v7m6rMc",
    "date": "2026-11-03T21:42:11.000Z",
@@ -11,6 +156,30 @@
    "text": "Woodo in VR is Magical #woodo #cozy #diorama #woodworking #vr #vrmods #metaquest3 #gaming Playing Woodo in VR with the latest FREE VR mod from King EJ on the Meta Quest 3 (PCVR).",
    "repos": [],
    "firstSeen": "2026-11-04T00:42:58.054Z"
+  },
+  {
+   "title": "GTA V, Ratchet & Clank, Twisted Metal Black Ports, NS2 Emu/Recomp Updates, Lots of MiSTer News - 381",
+   "url": "https://www.youtube.com/watch?v=3Fgrs-CKgFo",
+   "date": "2026-11-03T20:00:23.000Z",
+   "source": "YouTube: Pixel Cherry Ninja",
+   "outlet": "YouTube: Pixel Cherry Ninja",
+   "summary": "Buy a FightBox Product USE CODE \"PixelCherryNinja\" for 10% OFF https://fightboxarcade.com/ EARLY ACCESS TO NEWS VIDEOS AND OTHER EXCLUSIVES https://www.youtube.com/channel/UCEozS0uaZibXKTQSu10XgSw/join https://www.patreon.com/PixelCherryNinja Buy a Octopus TR Fightstick https://www.trfightstick.com/?ref=PCN Click link then use code \"PCN\" for $25 Off Buy a Morph2K https://www.pixelfx.co/product-pag",
+   "image": "https://i4.ytimg.com/vi/3Fgrs-CKgFo/hqdefault.jpg",
+   "text": "GTA V, Ratchet & Clank, Twisted Metal Black Ports, NS2 Emu/Recomp Updates, Lots of MiSTer News - 381 Buy a FightBox Product USE CODE \"PixelCherryNinja\" for 10% OFF https://fightboxarcade.com/ EARLY ACCESS TO NEWS VIDEOS AND OTHER EXCLUSIVES https://www.youtube.com/channel/UCEozS0uaZibXKTQSu10XgSw/join https://www.patreon.com/PixelCherryNinja Buy a Octopus TR Fightstick https://www.trfightstick.com/?ref=PCN Click link then use code \"PCN\" for $25 Off Buy a Morph2K https://www.pixelfx.co/product-page/morph-2k-analog-video-scaler?ref=PCN Buy a Zaparoo product (10% off) https://shop.zaparoo.com/discount/PixelCherryNinja or just enter code \"PixelCherryNinja\" (affiliate links above) Join the Pixel Cherry Ninja Gaming Discord https://discord.gg/5W9pCy2nXa Find all the sources here https://pixelcherryninja.blogspot.com/ Special thanks to channel Patreon's Silver Ninja's - John Gillotte, Meathax, RGM, SmoMo, VimDiesel Bronze Ninja's - Alessandro Gulli, Alexander Facchini, Anime0t4ku, anthony, Bjamiork, craigpow, Curt Dittmer, Ernie D, Fizzun Dirtnap, Juan Alvarez, Keith F. Kelly, Nicholas Robertson-Muir, Niallquinn, ncc1701p, Peter Davis, Scott Dowdle, Tamariel, theypsilon, ZXFace A special Thanks to all Channel Members I Really Really Like PCN! - RGM - Random Gaming Moments https://www.youtube.com/channel/UCIm6dft7oV92-zMCn4A6g2Q I Really Like PCN! - Aleem Tayyab, Bjamiork, CryptoCSguy, IÃ±aki Etxebarria, Silent253, Terry BD, VolJoe I Like PCN! - Alphanu1, BadWolf7888, batty, Boink, C",
+   "repos": [],
+   "firstSeen": "2026-11-04T12:19:33.535Z"
+  },
+  {
+   "title": "Realistic Games Aren't About Lighting",
+   "url": "https://www.youtube.com/shorts/q7SO3oNQsgg",
+   "date": "2026-11-03T20:00:02.000Z",
+   "source": "YouTube: Game Or Die",
+   "outlet": "YouTube: Game Or Die",
+   "summary": "#Quake #Shorts #VR #VRGaming #RetroGaming If you want games to feel more real, it isn't lighting effects or character animations. It's being inside the game world. In Quake VR I'm standing on the ledge, trying not to touch the toxic water. What makes a game feel real to you? Full video: https://youtu.be/zm31QXWJ4LI Free VR mods, one click: https://gameordie.net/mods Get an email when each new VR p",
+   "image": "https://i2.ytimg.com/vi/q7SO3oNQsgg/hqdefault.jpg",
+   "text": "Realistic Games Aren't About Lighting #Quake #Shorts #VR #VRGaming #RetroGaming If you want games to feel more real, it isn't lighting effects or character animations. It's being inside the game world. In Quake VR I'm standing on the ledge, trying not to touch the toxic water. What makes a game feel real to you? Full video: https://youtu.be/zm31QXWJ4LI Free VR mods, one click: https://gameordie.net/mods Get an email when each new VR port ships (free, never paywalled): https://www.patreon.com/cw/GameOrDie",
+   "repos": [],
+   "firstSeen": "2026-11-04T12:19:33.535Z"
   },
   {
    "title": "Cyberpunk VR Has Never Been This Good",
@@ -47,9 +216,9 @@
    "date": "2026-11-03T15:00:14.000Z",
    "source": "YouTube: NotAGameAddict",
    "outlet": "YouTube: NotAGameAddict",
-   "summary": "00:00 - VR gameplay 05:52 - VR gameplay with FPS overlay Note - This is a first release of the mod. So there are still bugs that need to be fixed. Crysis 2 VR mod made by MonsterDeadWood - https://discordapp.com/channels/747967102895390741/1565752656134144040 Crysis 2 - Maximum Edition - https://store.steampowered.com/app/108800/Crysis_2_Maximum_Edition/",
+   "summary": "00:00 - VR gameplay 05:52 - VR gameplay with FPS overlay Note - This is a first release of the mod. So there are still bugs that need to be fixed. Crysis 2 VR mod made by MonsterDeadWood - https://discordapp.com/channels/747967102895390741/1565752656134144040 Crysis 2 - Maximum Edition - https://store.steampowered.com/app/108800/Crysis_2_Maximum_Edition/ Totally optional: https://buymeacoffee.com/",
    "image": "https://i2.ytimg.com/vi/qolUcmw0tnI/hqdefault.jpg",
-   "text": "Crysis 2 - Maximum Edition VR Performance / New VR Mod with 6DOF Motion Controls / PCVR 00:00 - VR gameplay 05:52 - VR gameplay with FPS overlay Note - This is a first release of the mod. So there are still bugs that need to be fixed. Crysis 2 VR mod made by MonsterDeadWood - https://discordapp.com/channels/747967102895390741/1565752656134144040 Crysis 2 - Maximum Edition - https://store.steampowered.com/app/108800/Crysis_2_Maximum_Edition/",
+   "text": "Crysis 2 - Maximum Edition VR Performance / New VR Mod with 6DOF Motion Controls / PCVR 00:00 - VR gameplay 05:52 - VR gameplay with FPS overlay Note - This is a first release of the mod. So there are still bugs that need to be fixed. Crysis 2 VR mod made by MonsterDeadWood - https://discordapp.com/channels/747967102895390741/1565752656134144040 Crysis 2 - Maximum Edition - https://store.steampowered.com/app/108800/Crysis_2_Maximum_Edition/ Totally optional: https://buymeacoffee.com/notagameaddict",
    "repos": [],
    "firstSeen": "2026-11-03T19:39:16.255Z"
   },
@@ -115,7 +284,7 @@
    "outlet": "YouTube: NotAGameAddict",
    "summary": "00:00 - Download the needed files 00:36 - Install the mod 01:40 - How to launch the game in vr 03:39 - VR gameplay 09:31 - VR gameplay with FPS overlay Note - This VR mod is still in experimental phase. Some bug still need to be fixed. Note 2 - The gameplay in this video was with mod version 0.1.0. When I recorded the installation steps afterwards, mod version 0.2.0 was released. So that is why th",
    "image": "https://i2.ytimg.com/vi/mrVOJBZ7mb8/hqdefault.jpg",
-   "text": "Wolfenstein: The Old Blood VR Performance / New VR Mod with 6DOF Motion Controls / How to Install 00:00 - Download the needed files 00:36 - Install the mod 01:40 - How to launch the game in vr 03:39 - VR gameplay 09:31 - VR gameplay with FPS overlay Note - This VR mod is still in experimental phase. Some bug still need to be fixed. Note 2 - The gameplay in this video was with mod version 0.1.0. When I recorded the installation steps afterwards, mod version 0.2.0 was released. So that is why there are 2 different mod versions in the video. Wolfenstein VR mod made by Mamfro - https://github.com/Mamfro/wolfenstein-games-vr Monaka VR - https://github.com/Mamfro/Monaka_VR/releases/tag/v0.3.1 Wolfenstein: The Old Blood - https://store.steampowered.com/app/350080/Wolfenstein_The_Old_Blood/",
+   "text": "Wolfenstein: The Old Blood VR Performance / New VR Mod with 6DOF Motion Controls / How to Install 00:00 - Download the needed files 00:36 - Install the mod 01:40 - How to launch the game in vr 03:39 - VR gameplay 09:31 - VR gameplay with FPS overlay Note - This VR mod is still in experimental phase. Some bug still need to be fixed. Note 2 - The gameplay in this video was with mod version 0.1.0. When I recorded the installation steps afterwards, mod version 0.2.0 was released. So that is why there are 2 different mod versions in the video. Wolfenstein VR mod made by Mamfro - https://github.com/Mamfro/wolfenstein-games-vr Monaka VR - https://github.com/Mamfro/Monaka_VR/releases/tag/v0.3.1 Wolfenstein: The Old Blood - https://store.steampowered.com/app/350080/Wolfenstein_The_Old_Blood/ Totally optional: https://buymeacoffee.com/notagameaddict",
    "repos": [
     "github:Mamfro/wolfenstein-games-vr",
     "github:Mamfro/Monaka_VR"
@@ -176,9 +345,9 @@
    "date": "2026-11-02T23:41:16.000Z",
    "source": "YouTube: NotAGameAddict",
    "outlet": "YouTube: NotAGameAddict",
-   "summary": "00:00 - How to install the mod 05:26 - VR launcher overview 06:51 - Game launch 07:03 - Game graphics 07:24 - Intro cutscene 08:01 - VR gameplay 11:48 - VR gameplay with FPS overlay Gothic 3 VR mod was made by PeCOS2k5 - https://github.com/PeCOS2k5/Gothic3VR Gothic 3 Classic -",
+   "summary": "00:00 - How to install the mod 05:26 - VR launcher overview 06:51 - Game launch 07:03 - Game graphics 07:24 - Intro cutscene 08:01 - VR gameplay 11:48 - VR gameplay with FPS overlay Gothic 3 VR mod was made by PeCOS2k5 - https://github.com/PeCOS2k5/Gothic3VR Gothic 3 Classic - https://store.steampowered.com/app/39500/Gothic_3_Classic/ Totally optional: https://buymeacoffee.com/notagameaddict",
    "image": "https://i1.ytimg.com/vi/P7qP-NsV9p4/hqdefault.jpg",
-   "text": "Gothic 3 Classic VR Performance / New VR Mod with 6DOF Motion Controls / How to Install / PCVR 00:00 - How to install the mod 05:26 - VR launcher overview 06:51 - Game launch 07:03 - Game graphics 07:24 - Intro cutscene 08:01 - VR gameplay 11:48 - VR gameplay with FPS overlay Gothic 3 VR mod was made by PeCOS2k5 - https://github.com/PeCOS2k5/Gothic3VR Gothic 3 Classic -",
+   "text": "Gothic 3 Classic VR Performance / New VR Mod with 6DOF Motion Controls / How to Install / PCVR 00:00 - How to install the mod 05:26 - VR launcher overview 06:51 - Game launch 07:03 - Game graphics 07:24 - Intro cutscene 08:01 - VR gameplay 11:48 - VR gameplay with FPS overlay Gothic 3 VR mod was made by PeCOS2k5 - https://github.com/PeCOS2k5/Gothic3VR Gothic 3 Classic - https://store.steampowered.com/app/39500/Gothic_3_Classic/ Totally optional: https://buymeacoffee.com/notagameaddict",
    "repos": [
     "github:PeCOS2k5/Gothic3VR"
    ],
@@ -341,9 +510,9 @@
    "date": "2026-11-02T15:00:15.000Z",
    "source": "YouTube: NotAGameAddict",
    "outlet": "YouTube: NotAGameAddict",
-   "summary": "00:00 - Intro 01:21 - Game settings 01:35 - VR Launcher overview 02:14 - VR gameplay with FPS overlay 05:39 - VR gameplay Dragon's Dogma: Dark Arisen VR mod made by Braxusx - https://github.com/Braxusx/DDDAVR Dragon's Dogma: Dark Arisen - https://store.steampowered.com/app/367500/Dragons_Dogma_Dark_Arisen/",
+   "summary": "00:00 - Intro 01:21 - Game settings 01:35 - VR Launcher overview 02:14 - VR gameplay with FPS overlay 05:39 - VR gameplay Dragon's Dogma: Dark Arisen VR mod made by Braxusx - https://github.com/Braxusx/DDDAVR Dragon's Dogma: Dark Arisen - https://store.steampowered.com/app/367500/Dragons_Dogma_Dark_Arisen/ https://store.steampowered.com/app/39500/Gothic_3_Classic/",
    "image": "https://i4.ytimg.com/vi/3CO1GSLt5fM/hqdefault.jpg",
-   "text": "Dragon's Dogma: Dark Arisen VR Performance / New VR Mod / Meta Quest 3 + RTX 4080 Super 00:00 - Intro 01:21 - Game settings 01:35 - VR Launcher overview 02:14 - VR gameplay with FPS overlay 05:39 - VR gameplay Dragon's Dogma: Dark Arisen VR mod made by Braxusx - https://github.com/Braxusx/DDDAVR Dragon's Dogma: Dark Arisen - https://store.steampowered.com/app/367500/Dragons_Dogma_Dark_Arisen/",
+   "text": "Dragon's Dogma: Dark Arisen VR Performance / New VR Mod / Meta Quest 3 + RTX 4080 Super 00:00 - Intro 01:21 - Game settings 01:35 - VR Launcher overview 02:14 - VR gameplay with FPS overlay 05:39 - VR gameplay Dragon's Dogma: Dark Arisen VR mod made by Braxusx - https://github.com/Braxusx/DDDAVR Dragon's Dogma: Dark Arisen - https://store.steampowered.com/app/367500/Dragons_Dogma_Dark_Arisen/ https://store.steampowered.com/app/39500/Gothic_3_Classic/",
    "repos": [
     "github:Braxusx/DDDAVR"
    ],
@@ -434,7 +603,7 @@
    "outlet": "YouTube: TheReclusiveGamer",
    "summary": "So I just recently discovered that this game is VR compatible with a mod...I had no clue that this mod was even in existence...performance for me wasn't the best so I also used OFXR Bridge while playing the game in VR,which made the performance more tolerable...besides that,the game looks awesome in VR...a link to the mod is down below,enjoy. #OnimushaWayOfTheSword #Onimusha #VR #VirtualReality #P",
    "image": "https://i4.ytimg.com/vi/SCKt7oO2BMA/hqdefault.jpg",
-   "text": "Onimusha Way of The Sword in Virtual Reality is...Absolutely Sublime. So I just recently discovered that this game is VR compatible with a mod...I had no clue that this mod was even in existence...performance for me wasn't the best so I also used OFXR Bridge while playing the game in VR,which made the performance more tolerable...besides that,the game looks awesome in VR...a link to the mod is down below,enjoy. #OnimushaWayOfTheSword #Onimusha #VR #VirtualReality #Praydog #Taleman #REFramework #MetaQuest3 #VirtualDesktop #Capcom VR Mod: https://github.com/Talemann1982/OnimushaWOTSVR OFXR Bridge: https://github.com/tig3rmast3r/OFXR-Bridge",
+   "text": "Onimusha Way of The Sword in Virtual Reality is...Absolutely Sublime. So I just recently discovered that this game is VR compatible with a mod...I had no clue that this mod was even in existence...performance for me wasn't the best so I also used OFXR Bridge while playing the game in VR,which made the performance more tolerable...besides that,the game looks awesome in VR...a link to the mod is down below,enjoy. #OnimushaWayOfTheSword #Onimusha #VR #VirtualReality #Praydog #Taleman #REFramework #MetaQuest3 #VirtualDesktop #Capcom VR Mod: https://github.com/Talemann1982/OnimushaWOTSVR OFXR Bridge: https://github.com/tig3rmast3r/OFXR-Bridge Checkout this site for info on everything VR related: https://unflatvr.com/",
    "repos": [
     "github:Talemann1982/OnimushaWOTSVR",
     "github:tig3rmast3r/OFXR-Bridge"
@@ -447,9 +616,9 @@
    "date": "2026-11-02T09:37:28.000Z",
    "source": "YouTube: NotAGameAddict",
    "outlet": "YouTube: NotAGameAddict",
-   "summary": "00:00 - VR settings 00:45 - VR gameplay The House of the Dead 4 VR mod was made by Lindbergh Recomp Ports - https://github.com/lialan/lindbergh-recomp-ports",
+   "summary": "00:00 - VR settings 00:45 - VR gameplay The House of the Dead 4 VR mod was made by Lindbergh Recomp Ports - https://github.com/lialan/lindbergh-recomp-ports https://store.steampowered.com/app/39500/Gothic_3_Classic/",
    "image": "https://i2.ytimg.com/vi/eAJe8k7-s8A/hqdefault.jpg",
-   "text": "The House of the Dead 4 VR Performance / New Meta Quest Standalone VR Mod / Quest 3 00:00 - VR settings 00:45 - VR gameplay The House of the Dead 4 VR mod was made by Lindbergh Recomp Ports - https://github.com/lialan/lindbergh-recomp-ports",
+   "text": "The House of the Dead 4 VR Performance / New Meta Quest Standalone VR Mod / Quest 3 00:00 - VR settings 00:45 - VR gameplay The House of the Dead 4 VR mod was made by Lindbergh Recomp Ports - https://github.com/lialan/lindbergh-recomp-ports https://store.steampowered.com/app/39500/Gothic_3_Classic/",
    "repos": [
     "github:lialan/lindbergh-recomp-ports"
    ],
@@ -473,9 +642,9 @@
    "date": "2026-11-02T07:00:44.000Z",
    "source": "YouTube: TheReclusiveGamer",
    "outlet": "YouTube: TheReclusiveGamer",
-   "summary": "So I finally got around to testing this game out in VR with the UEVR injector and I'm pretty impressed...the performance could be better but the game is playable and looks great...and ofcourse,I also added a few mods to nobody's shock as well. #PhantomBladeZero #VR #VirtualReality #UEVR #MetaQuest3 #VirtualDesktop #PCVR",
+   "summary": "So I finally got around to testing this game out in VR with the UEVR injector and I'm pretty impressed...the performance could be better but the game is playable and looks great...and ofcourse,I also added a few mods to nobody's shock as well. #PhantomBladeZero #VR #VirtualReality #UEVR #MetaQuest3 #VirtualDesktop #PCVR Checkout this site for info on everything VR related: https://unflatvr.com/",
    "image": "https://i4.ytimg.com/vi/3MojBUyXr_Q/hqdefault.jpg",
-   "text": "Phantom Blade Zero in Virtual Reality Looks Absolutely Surreal... So I finally got around to testing this game out in VR with the UEVR injector and I'm pretty impressed...the performance could be better but the game is playable and looks great...and ofcourse,I also added a few mods to nobody's shock as well. #PhantomBladeZero #VR #VirtualReality #UEVR #MetaQuest3 #VirtualDesktop #PCVR",
+   "text": "Phantom Blade Zero in Virtual Reality Looks Absolutely Surreal... So I finally got around to testing this game out in VR with the UEVR injector and I'm pretty impressed...the performance could be better but the game is playable and looks great...and ofcourse,I also added a few mods to nobody's shock as well. #PhantomBladeZero #VR #VirtualReality #UEVR #MetaQuest3 #VirtualDesktop #PCVR Checkout this site for info on everything VR related: https://unflatvr.com/",
    "repos": [],
    "firstSeen": "2026-11-02T18:34:06.476Z"
   },

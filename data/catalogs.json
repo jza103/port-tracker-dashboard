@@ -26970,7 +26970,7 @@
   ]
  },
  "quiver": {
-  "updatedAt": "2026-11-04T00:42:58.054Z",
+  "updatedAt": "2026-11-04T12:19:33.535Z",
   "projects": [
    {
     "id": "hk21x/007-agentunderfire-recomp",
@@ -27849,7 +27849,7 @@
       "url": "https://quiverlauncher.com/apps/aerogauge-aerogaugerecompiled"
      }
     ],
-    "image": "https://cdn2.steamgriddb.com/grid/198f82a2ba5234553f8086b9ca3b4097.jpg",
+    "image": "https://cdn2.steamgriddb.com/grid/bd7fb1f8bf0567760641b6d7a29c1609.png",
     "sources": [
      "quiver"
     ]
@@ -28010,7 +28010,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "v1.3.0",
+    "catalogVersion": "v1.3.3",
     "links": [
      {
       "label": "Quiver",
@@ -28493,6 +28493,38 @@
     ]
    },
    {
+    "id": "nikolaygorb/armyoftworecomp",
+    "aliases": [
+     "quiver:army-of-two-recomp"
+    ],
+    "name": "Army Of Two Recomp",
+    "game": "Army of Two",
+    "categories": [
+     "Xbox 360"
+    ],
+    "type": "recompilation",
+    "repo": {
+     "host": "github",
+     "path": "nikolaygorb/ArmyOfTwoRecomp"
+    },
+    "description": "Army Of Two Recomp is a native PC port of Army of Two built on the ReXGlue SDK with local co-op and native mouse look.",
+    "developer": "nikolaygorb",
+    "targets": [
+     "Windows"
+    ],
+    "catalogVersion": "1.4",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/army-of-two-recomp"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/4ad9f5add488c97992ec7730571850b7.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
     "id": "openportroid/armyoftworecompilation",
     "aliases": [
      "quiver:army-of-two-armyoftworecompilation"
@@ -28577,7 +28609,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.2.2",
+    "catalogVersion": "0.3.0",
     "links": [
      {
       "label": "Quiver",
@@ -29268,7 +29300,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v0.2.24",
+    "catalogVersion": "v0.2.25",
     "links": [
      {
       "label": "Quiver",
@@ -29430,7 +29462,7 @@
      "Linux",
      "Android"
     ],
-    "catalogVersion": "1.7.0",
+    "catalogVersion": "1.8.0",
     "links": [
      {
       "label": "Quiver",
@@ -29527,9 +29559,9 @@
     "description": "Bitburner is a programming-based incremental game about hacking and cyberpunk themes.",
     "developer": "bitburner-official",
     "targets": [
-     "macOS",
+     "Windows",
      "Linux",
-     "Windows"
+     "macOS"
     ],
     "catalogVersion": "v3.0.1",
     "links": [
@@ -30664,6 +30696,39 @@
     ]
    },
    {
+    "id": "atsb/burgerdoom",
+    "aliases": [
+     "quiver:doom-burger-doom"
+    ],
+    "name": "Burger Doom",
+    "game": "Doom",
+    "categories": [
+     "Other"
+    ],
+    "type": "reimplementation",
+    "repo": {
+     "host": "github",
+     "path": "atsb/BurgerDoom"
+    },
+    "description": "Burger Doom is an SDL3 direct modern source port of the 3DO Doom version, preserving demo compatibility and faithfulness with added MIDI and gamepad support.",
+    "developer": "atsb",
+    "targets": [
+     "Windows",
+     "Linux"
+    ],
+    "catalogVersion": "2.0.0",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/doom-burger-doom"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/f22409827540d107bf5beb21e746d26d.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
     "id": "timftw21/burnout2-recompilation",
     "aliases": [
      "quiver:burnout-2-point-of-impact-burnout-2-point-of-impact-static-recompilation"
@@ -30798,11 +30863,11 @@
      "quiver:butterscotch"
     ],
     "name": "Butterscotch",
-    "game": "Undertale",
+    "game": "Butterscotch",
     "categories": [
      "PC"
     ],
-    "type": "reimplementation",
+    "type": "tool",
     "repo": {
      "host": "github",
      "path": "baliebox4916/Butterscotch"
@@ -30821,7 +30886,7 @@
       "url": "https://quiverlauncher.com/apps/butterscotch"
      }
     ],
-    "image": "https://cdn2.steamgriddb.com/grid/cb99e41bce59087e50e988b3728b30dc.png",
+    "image": "https://cdn2.steamgriddb.com/grid/7efa530244b16507ac557be187cedf5b.png",
     "sources": [
      "quiver"
     ]
@@ -31075,7 +31140,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v1.6.0",
+    "catalogVersion": "v1.7.0",
     "links": [
      {
       "label": "Quiver",
@@ -31144,7 +31209,7 @@
      "macOS",
      "Windows"
     ],
-    "catalogVersion": "2026-11-03",
+    "catalogVersion": "2026-11-04",
     "links": [
      {
       "label": "Quiver",
@@ -31179,7 +31244,7 @@
      "macOS",
      "Windows"
     ],
-    "catalogVersion": "cdda-experimental-2026-11-04-0000",
+    "catalogVersion": "cdda-experimental-2026-11-04-0759",
     "links": [
      {
       "label": "Quiver",
@@ -31214,7 +31279,7 @@
      "macOS",
      "Windows"
     ],
-    "catalogVersion": "cataclysm-tlg-1.0-2026-11-03-1524",
+    "catalogVersion": "cataclysm-tlg-1.0-2026-11-04-0138",
     "links": [
      {
       "label": "Quiver",
@@ -31645,7 +31710,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v0.3.0",
+    "catalogVersion": "v0.3.1",
     "links": [
      {
       "label": "Quiver",
@@ -31678,7 +31743,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v0.9.0",
+    "catalogVersion": "v0.9.1",
     "links": [
      {
       "label": "Quiver",
@@ -32319,6 +32384,40 @@
     ]
    },
    {
+    "id": "vitomiguelf/crashott-pc",
+    "aliases": [
+     "quiver:crash-of-the-titans-crashrecomp-crash-of-the-titans-definitive-edition-pc"
+    ],
+    "name": "CrashRecomp: Crash of the Titans, Definitive Edition (PC)",
+    "game": "Crash of the Titans",
+    "categories": [
+     "Xbox 360"
+    ],
+    "type": "recompilation",
+    "repo": {
+     "host": "github",
+     "path": "VitoMiguelF/crashott-pc"
+    },
+    "description": "Crash of the Titans statically recompiled for Windows: DLSS/FSR, PC controls, PT-BR subtitles and mod support.",
+    "developer": "VitoMiguelF",
+    "targets": [
+     "Linux",
+     "Windows",
+     "Android"
+    ],
+    "catalogVersion": "v1.10.1",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/crash-of-the-titans-crashrecomp-crash-of-the-titans-definitive-edition-pc"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/4cde7bfdc2fa8ba457b88daba87f73bf.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
     "id": "saironbusatto/crimsonskiesrecomp",
     "aliases": [
      "quiver:crimson-skies-high-road-to-revenge-recomp"
@@ -32402,8 +32501,8 @@
     "description": "CRY is a PC port of Jaguar Doom built on the International Doom engine, featuring true color rendering, uncapped framerate, and preserved Jaguar Doom playstate quirks.",
     "developer": "JNechaevsky and Polina \"Aura\" N.",
     "targets": [
-     "Linux",
-     "Windows"
+     "Windows",
+     "Linux"
     ],
     "catalogVersion": "nightly",
     "links": [
@@ -32699,7 +32798,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "v0.7.3",
+    "catalogVersion": "v0.7.4",
     "links": [
      {
       "label": "Quiver",
@@ -32739,6 +32838,38 @@
      }
     ],
     "image": "https://cdn2.steamgriddb.com/grid/a2062d9b9b1a226a52980c26c7083840.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
+    "id": "qnfn/driveclub-port",
+    "aliases": [
+     "quiver:driveclub-dcport"
+    ],
+    "name": "DCport",
+    "game": "DriveClub",
+    "categories": [
+     "PlayStation 4"
+    ],
+    "type": "recompilation",
+    "repo": {
+     "host": "github",
+     "path": "qnfn/Driveclub-Port"
+    },
+    "description": "DCport is a native PC port of DriveClub for Windows that runs the game's own code directly on your CPU with Vulkan graphics translation and FSR 3.1 or FSR 4.",
+    "developer": "qnfn",
+    "targets": [
+     "Windows"
+    ],
+    "catalogVersion": "windows-v0.5.4",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/driveclub-dcport"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/feff3abc6ab1c5a09c3c537a1fc7b8a0.png",
     "sources": [
      "quiver"
     ]
@@ -32844,6 +32975,38 @@
     ]
    },
    {
+    "id": "joesnose/deadbabiesx-windows-native-port",
+    "aliases": [
+     "quiver:deadbabiesx-xtreme-deadbabiesx-windows-native-port"
+    ],
+    "name": "DeadBabiesX — Windows Native Port",
+    "game": "DeadBabiesX Xtreme",
+    "categories": [
+     "Xbox"
+    ],
+    "type": "port",
+    "repo": {
+     "host": "github",
+     "path": "joesnose/DeadBabiesX-Windows-Native-port"
+    },
+    "description": "DeadBabiesX is a Windows native port of the Xbox homebrew game DeadBabiesX Xtreme with selectable graphics and music tracks.",
+    "developer": "joesnose",
+    "targets": [
+     "Windows"
+    ],
+    "catalogVersion": "windows-v1.6-difficulty",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/deadbabiesx-xtreme-deadbabiesx-windows-native-port"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/2dda0071edd689167f9e10d931b609f4.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
     "id": "littlebitua/dprecomp",
     "aliases": [
      "quiver:deadlypremonition-dprecomp"
@@ -32904,6 +33067,38 @@
      }
     ],
     "image": "https://cdn2.steamgriddb.com/grid/de6e717e11835cc693a4ed7c8a722690.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
+    "id": "jcsix694/def-jam-vendetta-recomp",
+    "aliases": [
+     "quiver:def-jam-vendetta-def-jam-vendetta-recompiled"
+    ],
+    "name": "Def Jam Vendetta Recompiled",
+    "game": "Def Jam Vendetta",
+    "categories": [
+     "PlayStation 2"
+    ],
+    "type": "recompilation",
+    "repo": {
+     "host": "github",
+     "path": "jcsix694/def-jam-vendetta-recomp"
+    },
+    "description": "Def Jam Vendetta, the PlayStation 2 fighter, as a native Windows program.",
+    "developer": "jcsix694",
+    "targets": [
+     "Windows"
+    ],
+    "catalogVersion": "v0.4.5",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/def-jam-vendetta-def-jam-vendetta-recompiled"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/16580285a873fc78017c67eb862914a0.png",
     "sources": [
      "quiver"
     ]
@@ -33402,7 +33597,7 @@
       "url": "https://quiverlauncher.com/apps/dinosaurplanet-dinosaurplanetrecompiled"
      }
     ],
-    "image": "https://cdn2.steamgriddb.com/grid/0f7a383c315822ec8bbcd2663ece550a.png",
+    "image": "https://cdn2.steamgriddb.com/grid/1ea86fae7c36f6770c51eccf3bf74aa3.png",
     "sources": [
      "quiver"
     ]
@@ -33696,7 +33891,7 @@
      "Linux",
      "macOS"
     ],
-    "catalogVersion": "v0.1.15",
+    "catalogVersion": "v0.1.16",
     "links": [
      {
       "label": "Quiver",
@@ -33704,6 +33899,40 @@
      }
     ],
     "image": "https://cdn2.steamgriddb.com/grid/a651022cb2a2ce9f86461895a68623ca.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
+    "id": "norain211/doa3-re",
+    "aliases": [
+     "quiver:dead-or-alive-3-doa3-re"
+    ],
+    "name": "DOA3 Recomp",
+    "game": "Dead or Alive 3",
+    "categories": [
+     "Xbox"
+    ],
+    "type": "recompilation",
+    "repo": {
+     "host": "github",
+     "path": "NoRain211/doa3-re"
+    },
+    "description": "DOA3 Native PC Port is a port of Dead or Alive 3 for Windows, macOS, and Linux that allows players to use DOAXBV swimsuits and a free camera.",
+    "developer": "NoRain211",
+    "targets": [
+     "Linux",
+     "macOS",
+     "Windows"
+    ],
+    "catalogVersion": "v0.6.1",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/dead-or-alive-3-doa3-re"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/ec8bf8a39995738e0c993bbe79279d87.png",
     "sources": [
      "quiver"
     ]
@@ -33760,7 +33989,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v1.1.4a",
+    "catalogVersion": "v1.1.6",
     "links": [
      {
       "label": "Quiver",
@@ -34516,7 +34745,7 @@
      "Windows",
      "Android"
     ],
-    "catalogVersion": "v1.4.0-login-test2",
+    "catalogVersion": "v1.4.0-test3-mangmi-airx",
     "links": [
      {
       "label": "Quiver",
@@ -34848,7 +35077,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v0.10.0",
+    "catalogVersion": "v0.11.0",
     "links": [
      {
       "label": "Quiver",
@@ -35118,7 +35347,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "v0.7.0",
+    "catalogVersion": "v0.8.0",
     "links": [
      {
       "label": "Quiver",
@@ -35489,7 +35718,7 @@
       "url": "https://quiverlauncher.com/apps/extremeg-extremegrecompiled"
      }
     ],
-    "image": "https://cdn2.steamgriddb.com/grid/4092cce6014949383c30988c71d1e468.jpg",
+    "image": "https://cdn2.steamgriddb.com/grid/4959d55019f706533ddc9eb4497a8a3a.png",
     "sources": [
      "quiver"
     ]
@@ -35615,7 +35844,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v0.1.5",
+    "catalogVersion": "v0.1.6",
     "links": [
      {
       "label": "Quiver",
@@ -35711,7 +35940,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.1.6",
+    "catalogVersion": "v0.1.7",
     "links": [
      {
       "label": "Quiver",
@@ -36158,6 +36387,38 @@
     ]
    },
    {
+    "id": "tools81/flintstones-jetsons-timewarp-static-recomp",
+    "aliases": [
+     "quiver:flintstones-jetsons-timewarp-flintstones-jetsons-timewarp-recomp"
+    ],
+    "name": "Flintstones Jetsons: Timewarp recomp",
+    "game": "Flintstones/Jetsons Timewarp",
+    "categories": [
+     "Philips CD-i"
+    ],
+    "type": "recompilation",
+    "repo": {
+     "host": "github",
+     "path": "tools81/flintstones-jetsons-timewarp-static-recomp"
+    },
+    "description": "Flintstones Jetsons: Timewarp recomp is a Windows port of the Philips CD-i game Flintstones/Jetsons Timewarp with an HD edition featuring upscaling and run-ahead.",
+    "developer": "tools81",
+    "targets": [
+     "Windows"
+    ],
+    "catalogVersion": "v1.0.0",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/flintstones-jetsons-timewarp-flintstones-jetsons-timewarp-recomp"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/dc4e4bf7eb033fb625bb562baed4ec73.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
     "id": "i2kiselev/fm4-static-recomp",
     "aliases": [
      "quiver:forza-motorsport-4-fm4-static-recomp"
@@ -36210,7 +36471,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v0.2.4",
+    "catalogVersion": "v0.2.5",
     "links": [
      {
       "label": "Quiver",
@@ -36243,7 +36504,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "v0.10.7",
+    "catalogVersion": "v0.10.9",
     "links": [
      {
       "label": "Quiver",
@@ -36375,7 +36636,7 @@
      "iOS",
      "macOS"
     ],
-    "catalogVersion": "v0.10.43",
+    "catalogVersion": "v0.10.45",
     "links": [
      {
       "label": "Quiver",
@@ -36473,6 +36734,7 @@
     "developer": "The Funkin' Crew Inc.",
     "targets": [
      "Linux",
+     "macOS",
      "Windows"
     ],
     "catalogVersion": "v0.8.4",
@@ -36507,7 +36769,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v1.1.0",
+    "catalogVersion": "v1.1.1",
     "links": [
      {
       "label": "Quiver",
@@ -37041,6 +37303,38 @@
      }
     ],
     "image": "https://cdn2.steamgriddb.com/grid/fee75b05309b665fb5a6ec3b56dda5e1.jpg",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
+    "id": "dreaxer/ggarecomp",
+    "aliases": [
+     "quiver:goemon-s-great-adventure-gga-recompiled"
+    ],
+    "name": "GGA Recompiled",
+    "game": "Goemon's Great Adventure",
+    "categories": [
+     "Nintendo 64"
+    ],
+    "type": "recompilation",
+    "repo": {
+     "host": "github",
+     "path": "DreaXer/GGARecomp"
+    },
+    "description": "GGA Recompiled is a native PC port of Goemon's Great Adventure for Nintendo 64 with high framerates, widescreen and up to 4 players.",
+    "developer": "DreaXer",
+    "targets": [
+     "Windows"
+    ],
+    "catalogVersion": "v0.1.0",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/goemon-s-great-adventure-gga-recompiled"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/2a66f14b760cedb23d416576fa516116.png",
     "sources": [
      "quiver"
     ]
@@ -37722,7 +38016,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "launcher-v0.2.9",
+    "catalogVersion": "launcher-v0.3.0",
     "links": [
      {
       "label": "Quiver",
@@ -37933,6 +38227,38 @@
     ]
    },
    {
+    "id": "qnfn/grport",
+    "aliases": [
+     "quiver:gravity-rush-remastered-gravity-rush-2-grport"
+    ],
+    "name": "GRport",
+    "game": "Gravity Rush Remastered",
+    "categories": [
+     "PlayStation 4"
+    ],
+    "type": "recompilation",
+    "repo": {
+     "host": "github",
+     "path": "qnfn/GRport"
+    },
+    "description": "GRport is a Windows port of Gravity Rush Remastered and Gravity Rush 2 that supports FSR 4, DLSS, and frame rates up to 144 FPS.",
+    "developer": "qnfn",
+    "targets": [
+     "Windows"
+    ],
+    "catalogVersion": "v0.1.3",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/gravity-rush-remastered-gravity-rush-2-grport"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/93058caa4389f7c69bfb0e6ee0472a95.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
     "id": "matt-pulsipher/gt3-revisited",
     "aliases": [
      "quiver:gran-turismo-3-a-spec-gt3-revisited"
@@ -37955,7 +38281,7 @@
      "macOS",
      "Windows"
     ],
-    "catalogVersion": "v0.6.0",
+    "catalogVersion": "v0.6.1",
     "links": [
      {
       "label": "Quiver",
@@ -37987,7 +38313,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v1.3.0-rc11",
+    "catalogVersion": "v1.3.0-rc13",
     "links": [
      {
       "label": "Quiver",
@@ -38083,10 +38409,8 @@
     },
     "description": "Guitar Hero Warriors of Rock PC is a static recompilation of Guitar Hero Warriors of Rock for Windows 10/11 with support for custom controllers and graphical enhancements.",
     "developer": "Piscacho",
-    "targets": [
-     "Windows"
-    ],
-    "catalogVersion": "v1.2.1",
+    "targets": [],
+    "catalogVersion": "v1.3.0",
     "links": [
      {
       "label": "Quiver",
@@ -38835,7 +39159,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v1.0.0",
+    "catalogVersion": "v1.1.0",
     "links": [
      {
       "label": "Quiver",
@@ -39164,7 +39488,7 @@
      "macOS",
      "iOS"
     ],
-    "catalogVersion": "v0.10.0",
+    "catalogVersion": "v0.10.1",
     "links": [
      {
       "label": "Quiver",
@@ -39258,8 +39582,8 @@
     "description": "inFAMOUS First Light — native PC port is a native Windows port of inFAMOUS First Light for PlayStation 4 that translates graphics to Vulkan.",
     "developer": "VantageEX",
     "targets": [
-     "Linux",
-     "Windows"
+     "Windows",
+     "Linux"
     ],
     "catalogVersion": "v0.3.8",
     "links": [
@@ -39605,6 +39929,40 @@
     ]
    },
    {
+    "id": "sergiomanzur/issd-native",
+    "aliases": [
+     "quiver:international-superstar-soccer-deluxe-issd-native"
+    ],
+    "name": "ISSD Native",
+    "game": "International Superstar Soccer Deluxe",
+    "categories": [
+     "SNES"
+    ],
+    "type": "recompilation",
+    "repo": {
+     "host": "github",
+     "path": "sergiomanzur/issd-native"
+    },
+    "description": "AI-driven native recompilation project for ISS Deluxe on SNES.",
+    "developer": "sergiomanzur",
+    "targets": [
+     "Windows",
+     "Android",
+     "Linux"
+    ],
+    "catalogVersion": "v0.6.0-beta.1",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/international-superstar-soccer-deluxe-issd-native"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/cf5b6f0e6477c48793e51e4f31e0cdb9.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
     "id": "ufodriverr/jade-cocoon-bevy-public-v1",
     "aliases": [
      "quiver:jade-cocoon-story-of-the-tamamayu-jade-cocoon-on-bevy"
@@ -39922,7 +40280,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "0.5.1",
+    "catalogVersion": "0.5.4",
     "links": [
      {
       "label": "Quiver",
@@ -40282,7 +40640,8 @@
     "description": "King Kong PC Port is a native Windows port of Peter Jackson's King Kong: The Official Game of the Movie for Xbox 360, allowing play at up to 8K resolution and custom frame rates.",
     "developer": "TekRantGaming",
     "targets": [
-     "Windows"
+     "Windows",
+     "Linux"
     ],
     "catalogVersion": "v2.0.11",
     "links": [
@@ -40448,7 +40807,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "v0.1.4",
+    "catalogVersion": "v0.1.10",
     "links": [
      {
       "label": "Quiver",
@@ -40649,7 +41008,7 @@
      "macOS",
      "Windows"
     ],
-    "catalogVersion": "test-beta6-preview",
+    "catalogVersion": "test-574-snow",
     "links": [
      {
       "label": "Quiver",
@@ -41185,6 +41544,39 @@
     ]
    },
    {
+    "id": "mabec-games/iss2000-recomp",
+    "aliases": [
+     "quiver:international-superstar-soccer-2000-recomp"
+    ],
+    "name": "Mabecs International Superstar Soccer 2000 Recomp",
+    "game": "International Superstar Soccer 2000",
+    "categories": [
+     "Nintendo 64"
+    ],
+    "type": "recompilation",
+    "repo": {
+     "host": "github",
+     "path": "Mabec-games/iss2000-recomp"
+    },
+    "description": "Mabecs International Superstar Soccer 2000 is a Windows and Linux port of International Superstar Soccer 2000 for the Nintendo 64 with widescreen support and full-detail players.",
+    "developer": "Mabec-games",
+    "targets": [
+     "Windows",
+     "Linux"
+    ],
+    "catalogVersion": "v1.4",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/international-superstar-soccer-2000-recomp"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/f2ca76e5fc62ec825811161400488e3f.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
     "id": "anishchandra24/maddennfl08-recompiled",
     "aliases": [
      "quiver:madden-nfl-08-madden-nfl-08-recompiled"
@@ -41339,7 +41731,7 @@
      "Android",
      "Linux"
     ],
-    "catalogVersion": "ko-test-1",
+    "catalogVersion": "v0.5.3",
     "links": [
      {
       "label": "Quiver",
@@ -41538,7 +41930,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v0.2.8",
+    "catalogVersion": "v0.2.9",
     "links": [
      {
       "label": "Quiver",
@@ -41571,7 +41963,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v0.2.14",
+    "catalogVersion": "v0.2.15",
     "links": [
      {
       "label": "Quiver",
@@ -41604,7 +41996,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v0.2.6",
+    "catalogVersion": "v0.2.7",
     "links": [
      {
       "label": "Quiver",
@@ -41778,6 +42170,38 @@
      }
     ],
     "image": "https://cdn2.steamgriddb.com/grid/4d9c4c93d6808b8b74cf73c7d5dfa3a8.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
+    "id": "bc160201983/matterfall-pc-port",
+    "aliases": [
+     "quiver:matterfall-matterfall-pc-port"
+    ],
+    "name": "Matterfall-PC-port",
+    "game": "Matterfall",
+    "categories": [
+     "PlayStation 4"
+    ],
+    "type": "port",
+    "repo": {
+     "host": "github",
+     "path": "bc160201983/Matterfall-PC-port"
+    },
+    "description": "Matterfall-PC-port is a native Windows port of the PlayStation 4 game Matterfall that runs the game's own x86-64 code directly on the PC.",
+    "developer": "BilalReloaded",
+    "targets": [
+     "Windows"
+    ],
+    "catalogVersion": "v1.0.4",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/matterfall-matterfall-pc-port"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/dc38c86788d92f88c2d11fe217bc57eb.png",
     "sources": [
      "quiver"
     ]
@@ -42028,10 +42452,10 @@
     "description": "MechCommander Redux is a 64-bit recreation of MechCommander Gold for modern systems, featuring faithful game logic and multiplayer over TCP/UDP.",
     "developer": "RevenantBob",
     "targets": [
-     "macOS",
-     "Windows"
+     "Windows",
+     "macOS"
     ],
-    "catalogVersion": "v0.2.1.59",
+    "catalogVersion": "v0.2.1.61",
     "links": [
      {
       "label": "Quiver",
@@ -42556,7 +42980,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "v0.9.96",
+    "catalogVersion": "v0.9.97",
     "links": [
      {
       "label": "Quiver",
@@ -42939,6 +43363,41 @@
     ]
    },
    {
+    "id": "compalarios18/mh4ultimatedc",
+    "aliases": [
+     "quiver:monster-hunter-4-ultimate-mh4ultimatedc"
+    ],
+    "name": "MH4UltimateDC",
+    "game": "Monster Hunter 4 Ultimate",
+    "categories": [
+     "Nintendo 3DS"
+    ],
+    "type": "recompilation",
+    "repo": {
+     "host": "github",
+     "path": "CompaLarios18/MH4UltimateDC"
+    },
+    "description": "MH4UltimateDC is a work-in-progress decompilation of Monster Hunter 4 Ultimate for Nintendo 3DS with the goal of a native PC port.",
+    "developer": "CompaLarios18",
+    "targets": [
+     "Android",
+     "Linux",
+     "macOS",
+     "Windows"
+    ],
+    "catalogVersion": "v0.1.7",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/monster-hunter-4-ultimate-mh4ultimatedc"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/d2c5a431570ea51c75c03a329a5a7725.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
     "id": "mango77x/mhforever",
     "aliases": [
      "quiver:monster-hunter-freedom-unite-mhforever"
@@ -42990,7 +43449,8 @@
     "developer": "morerokk",
     "targets": [
      "Windows",
-     "Linux"
+     "Linux",
+     "Android"
     ],
     "catalogVersion": "0.14.0",
     "links": [
@@ -43482,6 +43942,7 @@
     "description": "NakedAVP is a native PC port of Aliens vs Predator Classic 2000 that supports full-motion video playback.",
     "developer": "atsb",
     "targets": [
+     "Linux",
      "Windows"
     ],
     "catalogVersion": "1.3.1",
@@ -44069,7 +44530,7 @@
      "Linux",
      "macOS"
     ],
-    "catalogVersion": "v0.9.53",
+    "catalogVersion": "v0.9.54",
     "links": [
      {
       "label": "Quiver",
@@ -44077,6 +44538,38 @@
      }
     ],
     "image": "https://cdn2.steamgriddb.com/grid/dbbb8884f3d67a074c2c0ed5c0fec7e3.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
+    "id": "sergiomanzur/noble-archimedes",
+    "aliases": [
+     "quiver:castlevania-curse-of-darkness-noble-archimedes"
+    ],
+    "name": "Noble Archimedes",
+    "game": "Castlevania: Curse of Darkness",
+    "categories": [
+     "Xbox"
+    ],
+    "type": "recompilation",
+    "repo": {
+     "host": "github",
+     "path": "sergiomanzur/noble-archimedes"
+    },
+    "description": "Noble Archimedes is a Windows PC recompilation of Castlevania: Curse of Darkness for Xbox with direct mouse look and over-the-shoulder cameras.",
+    "developer": "sergiomanzur",
+    "targets": [
+     "Windows"
+    ],
+    "catalogVersion": "v0.9.1b",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/castlevania-curse-of-darkness-noble-archimedes"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/ebab1c6feab207a401cefc3fa3d9c5e3.png",
     "sources": [
      "quiver"
     ]
@@ -44373,7 +44866,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "v0.7.5",
+    "catalogVersion": "v0.8",
     "links": [
      {
       "label": "Quiver",
@@ -44406,7 +44899,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "v0.2.1",
+    "catalogVersion": "v0.2.2",
     "links": [
      {
       "label": "Quiver",
@@ -44867,7 +45360,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.4.3",
+    "catalogVersion": "v0.4.5",
     "links": [
      {
       "label": "Quiver",
@@ -45338,7 +45831,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v0.10.2",
+    "catalogVersion": "v0.10.3",
     "links": [
      {
       "label": "Quiver",
@@ -46226,6 +46719,39 @@
     ]
    },
    {
+    "id": "opensrproject/openstarruler-launchpad",
+    "aliases": [
+     "quiver:osr-launchpad"
+    ],
+    "name": "OSR Launchpad",
+    "game": "Star Ruler 2",
+    "categories": [
+     "PC"
+    ],
+    "type": "tool",
+    "repo": {
+     "host": "github",
+     "path": "OpenSRProject/OpenStarRuler-Launchpad"
+    },
+    "description": "OSR Launchpad is a tool for installing, updating, and uninstalling mods for Star Ruler 2.",
+    "developer": "Open Star Ruler",
+    "targets": [
+     "Windows",
+     "Linux"
+    ],
+    "catalogVersion": "v2.1.0",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/osr-launchpad"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/59c434be30570b7342ff21bb21161916.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
     "id": "tekrantgaming/outpost-kaloki-x-recompiled",
     "aliases": [
      "quiver:outpost-kaloki-x-outpost-kaloki-x-pc-port"
@@ -46381,6 +46907,39 @@
      {
       "label": "Quiver",
       "url": "https://quiverlauncher.com/apps/papermario-papermariorecut"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/f98e8082f2b3924b8a137d1cfc12e08b.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
+    "id": "n64hub/paper-mario-recomp",
+    "aliases": [
+     "quiver:paper-mario-recompiled"
+    ],
+    "name": "Paper Mario: Recompiled",
+    "game": "Paper Mario",
+    "categories": [
+     "Nintendo 64"
+    ],
+    "type": "recompilation",
+    "repo": {
+     "host": "github",
+     "path": "n64hub/paper-mario-recomp"
+    },
+    "description": "Paper Mario: Recompiled is a native PC port of the N64 game Paper Mario, featuring sound, Flash saves, and keyboard and gamepad input.",
+    "developer": "n64hub",
+    "targets": [
+     "Linux",
+     "Windows"
+    ],
+    "catalogVersion": "v0.1.3",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/paper-mario-recompiled"
      }
     ],
     "image": "https://cdn2.steamgriddb.com/grid/f98e8082f2b3924b8a137d1cfc12e08b.png",
@@ -46610,7 +47169,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v0.1.6",
+    "catalogVersion": "v0.1.7-beta",
     "links": [
      {
       "label": "Quiver",
@@ -46872,7 +47431,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v0.1.5",
+    "catalogVersion": "v0.1.6",
     "links": [
      {
       "label": "Quiver",
@@ -46904,7 +47463,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "windows-v1.1.1",
+    "catalogVersion": "windows-v1.1.2",
     "links": [
      {
       "label": "Quiver",
@@ -46936,7 +47495,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "windows-v1.1.1",
+    "catalogVersion": "windows-v1.1.2",
     "links": [
      {
       "label": "Quiver",
@@ -46968,7 +47527,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "windows-v1.1.1",
+    "catalogVersion": "windows-v1.1.2",
     "links": [
      {
       "label": "Quiver",
@@ -47064,7 +47623,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.1.6",
+    "catalogVersion": "v0.1.7",
     "links": [
      {
       "label": "Quiver",
@@ -47361,6 +47920,7 @@
     "developer": "SheerSt",
     "targets": [
      "Linux",
+     "macOS",
      "Windows"
     ],
     "catalogVersion": "v0.8.11",
@@ -47459,10 +48019,10 @@
     "description": "Pokémon TCG 2 Native Port is a native port of Pokémon Trading Card Game 2 for Windows, Linux, macOS and Android with American English translation.",
     "developer": "Brian Blakely",
     "targets": [
-     "Android",
      "Linux",
      "macOS",
-     "Windows"
+     "Windows",
+     "Android"
     ],
     "catalogVersion": "v0.1.3",
     "links": [
@@ -48050,7 +48610,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.1.0-beta.13",
+    "catalogVersion": "v0.1.0-beta.14",
     "links": [
      {
       "label": "Quiver",
@@ -48179,8 +48739,8 @@
     "description": "PSPRecomp is a static recompilation framework for PSP software that runs translated code natively, with profiles for MotorStorm: Arctic Edge and GTA: Vice City Stories.",
     "developer": "coole42-pixel",
     "targets": [
-     "Android",
-     "Windows"
+     "Windows",
+     "Android"
     ],
     "catalogVersion": "v0.2.0",
     "links": [
@@ -48721,6 +49281,40 @@
     ]
    },
    {
+    "id": "jjmhalew/rampagere",
+    "aliases": [
+     "quiver:rampage-total-destruction-rampagere"
+    ],
+    "name": "RampageRE",
+    "game": "Rampage: Total Destruction",
+    "categories": [
+     "PlayStation 2"
+    ],
+    "type": "recompilation",
+    "repo": {
+     "host": "github",
+     "path": "jjmhalew/RampageRE"
+    },
+    "description": "RampageRE is a native PC port of Rampage: Total Destruction for Windows, Linux, and Android.",
+    "developer": "jjmhalew",
+    "targets": [
+     "Android",
+     "Linux",
+     "Windows"
+    ],
+    "catalogVersion": "v1.2.1",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/rampage-total-destruction-rampagere"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/ab63243d415513c2307a6ff350832d10.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
     "id": "skynettx/raptor",
     "aliases": [
      "quiver:raptor-call-of-the-shadows-raptor"
@@ -48806,7 +49400,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v1.0",
+    "catalogVersion": "v1.1",
     "links": [
      {
       "label": "Quiver",
@@ -48846,6 +49440,39 @@
      }
     ],
     "image": "https://cdn2.steamgriddb.com/grid/ed65cb9a9d6446eb25cf6c49e84c10bc.jpg",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
+    "id": "n64hub/rayman-2-recomp",
+    "aliases": [
+     "quiver:rayman-2-the-great-escape-recompiled"
+    ],
+    "name": "Rayman 2: Recompiled",
+    "game": "Rayman 2: The Great Escape",
+    "categories": [
+     "Nintendo 64"
+    ],
+    "type": "recompilation",
+    "repo": {
+     "host": "github",
+     "path": "n64hub/rayman-2-recomp"
+    },
+    "description": "Rayman 2: Recompiled is a native PC port of Rayman 2: The Great Escape for Windows and Linux that translates the game's MIPS code to C.",
+    "developer": "n64hub",
+    "targets": [
+     "Linux",
+     "Windows"
+    ],
+    "catalogVersion": "v0.1.3",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/rayman-2-the-great-escape-recompiled"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/b8349030f11bb70d13f42b0be7e93931.png",
     "sources": [
      "quiver"
     ]
@@ -48934,7 +49561,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v1.5.0",
+    "catalogVersion": "v1.5.1",
     "links": [
      {
       "label": "Quiver",
@@ -49101,7 +49728,7 @@
      "macOS",
      "Windows"
     ],
-    "catalogVersion": "test-pr111-0daa5f05a86c",
+    "catalogVersion": "test-pr111-ab755d58aa34",
     "links": [
      {
       "label": "Quiver",
@@ -49599,8 +50226,8 @@
     "developer": "ReRevvedRecomp",
     "targets": [
      "Linux",
-     "macOS",
-     "Windows"
+     "Windows",
+     "macOS"
     ],
     "catalogVersion": "v0.7.0",
     "links": [
@@ -49709,6 +50336,39 @@
      }
     ],
     "image": "https://cdn2.steamgriddb.com/grid/88882441c215a1b8575c6fb2db64162b.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
+    "id": "samuelit0davila/fifa-street-pc-port",
+    "aliases": [
+     "quiver:fifa-street-restreet"
+    ],
+    "name": "ReStreet",
+    "game": "FIFA Street",
+    "categories": [
+     "Xbox 360"
+    ],
+    "type": "recompilation",
+    "repo": {
+     "host": "github",
+     "path": "samuelit0davila/fifa-street-pc-port"
+    },
+    "description": "ReStreet is a Windows PC port of FIFA Street (2012) with online play and a new graphics engine supporting higher resolutions and frame rates.",
+    "developer": "SamuelitoDaVila",
+    "targets": [
+     "Windows",
+     "Linux"
+    ],
+    "catalogVersion": "v2.1.4-online-beta",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/fifa-street-restreet"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/fc81b42f320efec274d758be937d2b40.png",
     "sources": [
      "quiver"
     ]
@@ -50327,7 +50987,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "v1.0.39",
+    "catalogVersion": "v1.0.41",
     "links": [
      {
       "label": "Quiver",
@@ -50359,7 +51019,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.12.0",
+    "catalogVersion": "v0.13.0",
     "links": [
      {
       "label": "Quiver",
@@ -50492,7 +51152,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "v0.1.54",
+    "catalogVersion": "v0.1.55",
     "links": [
      {
       "label": "Quiver",
@@ -50557,7 +51217,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.1.7",
+    "catalogVersion": "v0.1.9",
     "links": [
      {
       "label": "Quiver",
@@ -50565,38 +51225,6 @@
      }
     ],
     "image": "https://cdn2.steamgriddb.com/grid/945ca62485f074e7d36f804e14fa278a.png",
-    "sources": [
-     "quiver"
-    ]
-   },
-   {
-    "id": "thatcalikid760/scda360pcport",
-    "aliases": [
-     "quiver:splinter-cell-double-agent-360-recomp"
-    ],
-    "name": "SCDA V1 Recomp",
-    "game": "Tom Clancy's Splinter Cell: Double Agent",
-    "categories": [
-     "Xbox 360"
-    ],
-    "type": "recompilation",
-    "repo": {
-     "host": "github",
-     "path": "thatcalikid760/SCDA360pcport"
-    },
-    "description": "SCDA V1 Recomp is a native Windows port of Splinter Cell: Double Agent for Xbox 360 that supports higher resolutions and controller rumble.",
-    "developer": "thatcalikid760",
-    "targets": [
-     "Windows"
-    ],
-    "catalogVersion": "v0.1.3",
-    "links": [
-     {
-      "label": "Quiver",
-      "url": "https://quiverlauncher.com/apps/splinter-cell-double-agent-360-recomp"
-     }
-    ],
-    "image": "https://cdn2.steamgriddb.com/grid/0a2344aa9cd83016f0066d8f316709f7.jpg",
     "sources": [
      "quiver"
     ]
@@ -50629,6 +51257,39 @@
      }
     ],
     "image": "https://cdn2.steamgriddb.com/grid/0a2344aa9cd83016f0066d8f316709f7.jpg",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
+    "id": "akitaonrails/rea-screamer-trilogy",
+    "aliases": [
+     "quiver:screamer-trilogy-launcher-rea-screamer-trilogy"
+    ],
+    "name": "Screamer Trilogy Launcher",
+    "game": "Screamer",
+    "categories": [
+     "PC"
+    ],
+    "type": "tool",
+    "repo": {
+     "host": "github",
+     "path": "akitaonrails/rea-screamer-trilogy"
+    },
+    "description": "Screamer Trilogy Launcher is a tool for Windows and Linux that launches Screamer, Screamer 2, and Screamer Rally with features like widescreen and extended draw distance.",
+    "developer": "AkitaOnRails",
+    "targets": [
+     "Linux",
+     "Windows"
+    ],
+    "catalogVersion": "v0.8.1",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/screamer-trilogy-launcher-rea-screamer-trilogy"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/2d9ea666ce9ade662b57ee7165d3a213.png",
     "sources": [
      "quiver"
     ]
@@ -50970,6 +51631,40 @@
     ]
    },
    {
+    "id": "bipinkrish/sf2recomp",
+    "aliases": [
+     "quiver:shadow-fight-2-sf2recomp"
+    ],
+    "name": "SF2Recomp",
+    "game": "Shadow Fight 2",
+    "categories": [
+     "Nintendo Switch"
+    ],
+    "type": "recompilation",
+    "repo": {
+     "host": "github",
+     "path": "bipinkrish/sf2recomp"
+    },
+    "description": "SF2Recomp is a native PC port of Shadow Fight 2 for Windows, Linux, and macOS that supports 4K, 120 FPS, and ultrawide displays.",
+    "developer": "Bipin Krishna",
+    "targets": [
+     "Linux",
+     "macOS",
+     "Windows"
+    ],
+    "catalogVersion": "v0.1.0",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/shadow-fight-2-sf2recomp"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/03440368ae777a908ab20b6fb052a69e.jpg",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
     "id": "updeshxp/sf3tsoereborn",
     "aliases": [
      "quiver:street-fighter-iii-3rd-strike-online-edition-sf3tsoe-reborn"
@@ -51054,7 +51749,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.72",
+    "catalogVersion": "v0.72.1",
     "links": [
      {
       "label": "Quiver",
@@ -51180,12 +51875,12 @@
     "description": "ShandalarGodot is a from-scratch remake of Magic: The Gathering duels and Shandalar adventure for PC and mobile with modern rules and LAN play.",
     "developer": "b0realis",
     "targets": [
-     "Android",
+     "Windows",
      "Linux",
      "macOS",
-     "Windows"
+     "Android"
     ],
-    "catalogVersion": "v0.60.0",
+    "catalogVersion": "v0.60.16",
     "links": [
      {
       "label": "Quiver",
@@ -51284,7 +51979,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.1.8",
+    "catalogVersion": "v0.1.9",
     "links": [
      {
       "label": "Quiver",
@@ -51727,6 +52422,38 @@
     ]
    },
    {
+    "id": "nlwstein/skullburglar",
+    "aliases": [
+     "quiver:50-cent-blood-on-the-sand-skullburglar"
+    ],
+    "name": "Skullburglar",
+    "game": "50 Cent: Blood on the Sand",
+    "categories": [
+     "Xbox 360"
+    ],
+    "type": "recompilation",
+    "repo": {
+     "host": "github",
+     "path": "nlwstein/skullburglar"
+    },
+    "description": "Skullburglar is a native PC port of 50 Cent: Blood on the Sand for Windows, macOS, Linux and Steam Deck with a new renderer and improved keyboard and mouse controls.",
+    "developer": "nlwstein",
+    "targets": [
+     "Windows"
+    ],
+    "catalogVersion": "issue-12-test-build",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/50-cent-blood-on-the-sand-skullburglar"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/5bc7b17b189d325db5b0afa1fd95b412.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
     "id": "apolinario-coder/skyrecomp",
     "aliases": [
      "quiver:the-legend-of-zelda-skyward-sword-hd-sky-recomp"
@@ -51842,9 +52569,9 @@
     "description": "A 100% free and open source fan-made launcher and mod for Spider-Man 2, played on the Dolphin emulator.",
     "developer": "JohnSwingMods",
     "targets": [
+     "Windows",
      "Android",
-     "Linux",
-     "Windows"
+     "Linux"
     ],
     "catalogVersion": "v1.2.2",
     "links": [
@@ -51974,7 +52701,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.1.1",
+    "catalogVersion": "v0.1.2",
     "links": [
      {
       "label": "Quiver",
@@ -52602,7 +53329,7 @@
      "macOS",
      "Windows"
     ],
-    "catalogVersion": "v0.2.0-beta.1",
+    "catalogVersion": "v0.2.2-beta.1",
     "links": [
      {
       "label": "Quiver",
@@ -52994,9 +53721,9 @@
     "description": "SRB2Kart is a kart racing game mod for Sonic Robo Blast 2 that is based on Doom Legacy.",
     "developer": "STJr",
     "targets": [
-     "Linux",
      "macOS",
-     "Windows"
+     "Windows",
+     "Linux"
     ],
     "catalogVersion": "v1.6",
     "links": [
@@ -53328,8 +54055,8 @@
     "description": "Star Wars Renegade Squadron - PC is a native Windows port of the PSP game Star Wars Battlefront: Renegade Squadron, featuring Vulkan or DirectX 12 rendering and raised frame rates.",
     "developer": "GTTeancum",
     "targets": [
-     "Linux",
-     "Windows"
+     "Windows",
+     "Linux"
     ],
     "catalogVersion": "v0.9.1",
     "links": [
@@ -53525,11 +54252,11 @@
     "description": "Strahlender XNU is a native port of Pokémon Brilliant Diamond for Windows, Linux, and macOS that supports file and code mods.",
     "developer": "Veemyu",
     "targets": [
-     "Linux",
      "macOS",
-     "Windows"
+     "Windows",
+     "Linux"
     ],
-    "catalogVersion": "installer-v0.1.4",
+    "catalogVersion": "installer-v0.1.5",
     "links": [
      {
       "label": "Quiver",
@@ -53695,7 +54422,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v2.3.2",
+    "catalogVersion": "v2.4.2",
     "links": [
      {
       "label": "Quiver",
@@ -53937,6 +54664,39 @@
     ]
    },
    {
+    "id": "mabec-games/stunt-race-fx-decomp",
+    "aliases": [
+     "quiver:stunt-race-fx-stunt-race-fx-decomp"
+    ],
+    "name": "Stunt Race FX - DECOMP",
+    "game": "Stunt Race FX",
+    "categories": [
+     "SNES"
+    ],
+    "type": "port",
+    "repo": {
+     "host": "github",
+     "path": "Mabec-games/Stunt-Race-FX-DECOMP"
+    },
+    "description": "Stunt Race FX - DECOMP is a native PC port of Stunt Race FX for Windows and Linux that offers smooth 60 fps racing and high-resolution 3D graphics.",
+    "developer": "Mabec Games",
+    "targets": [
+     "Windows",
+     "Linux"
+    ],
+    "catalogVersion": "beta-0.2",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/stunt-race-fx-stunt-race-fx-decomp"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/25b311c3cd4efa335daa2bd527046fad.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
     "id": "lab0ulange/stuntman-pc",
     "aliases": [
      "quiver:stuntman-stuntman-pc"
@@ -54158,7 +54918,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v0.1.4",
+    "catalogVersion": "v0.1.5",
     "links": [
      {
       "label": "Quiver",
@@ -54466,6 +55226,38 @@
     ]
    },
    {
+    "id": "mrpowerup82/superman_returns_recomp",
+    "aliases": [
+     "quiver:superman-returns-superman-returns-recomp"
+    ],
+    "name": "Superman Returns Recomp",
+    "game": "Superman Returns",
+    "categories": [
+     "Xbox 360"
+    ],
+    "type": "recompilation",
+    "repo": {
+     "host": "github",
+     "path": "MrPowerUp82/superman_returns_recomp"
+    },
+    "description": "Superman Returns Recomp is a native PC port of Superman Returns for Windows that allows playing the game with Direct3D 12 or Vulkan.",
+    "developer": "MrPowerUp82",
+    "targets": [
+     "Windows"
+    ],
+    "catalogVersion": "v2026.10.30-88c81bc",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/superman-returns-superman-returns-recomp"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/c8f09d527dacd7b265f32a65b5f89cf3.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
     "id": "mstan/supermarioadvance2recomp",
     "aliases": [
      "quiver:super-mario-world-super-mario-advance-2-supermarioadvance2recomp"
@@ -54493,6 +55285,41 @@
      }
     ],
     "image": "https://cdn2.steamgriddb.com/grid/5414ac8f3723b3b3b411cdd6e8b9f01b.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
+    "id": "tanookistudios/supermarioallstarsrecomp",
+    "aliases": [
+     "quiver:super-mario-all-stars-supermarioallstarsrecomp"
+    ],
+    "name": "SuperMarioAllStarsRecomp",
+    "game": "Super Mario All-Stars",
+    "categories": [
+     "SNES"
+    ],
+    "type": "recompilation",
+    "repo": {
+     "host": "github",
+     "path": "TanookiStudios/SuperMarioAllStarsRecomp"
+    },
+    "description": "SuperMarioAllStarsRecomp is a native PC port of Super Mario All-Stars for Windows, Linux, macOS and Android with crisp pixels at any size, a proper launcher, controller support, and cheats.",
+    "developer": "Tanooki Studios",
+    "targets": [
+     "Android",
+     "Linux",
+     "macOS",
+     "Windows"
+    ],
+    "catalogVersion": "v0.2.0",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/super-mario-all-stars-supermarioallstarsrecomp"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/eda5ea58ea1c1660a6028de1d8a17fc5.png",
     "sources": [
      "quiver"
     ]
@@ -54585,7 +55412,7 @@
      "Windows",
      "macOS"
     ],
-    "catalogVersion": "v0.3.22",
+    "catalogVersion": "v0.4.2",
     "links": [
      {
       "label": "Quiver",
@@ -55407,7 +56234,7 @@
       "url": "https://quiverlauncher.com/apps/the-incredible-crash-dummies-the-incredible-crash-dummies-recompiled"
      }
     ],
-    "image": "https://cdn2.steamgriddb.com/grid/ebc4dcd6245bdf46e4d6ffd89a1e3ec2.png",
+    "image": "https://cdn2.steamgriddb.com/grid/db949839ae011e05cda97cbffe2d64bf.png",
     "sources": [
      "quiver"
     ]
@@ -55729,7 +56556,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "v1.0.3",
+    "catalogVersion": "v1.0.4b",
     "links": [
      {
       "label": "Quiver",
@@ -55936,6 +56763,38 @@
      }
     ],
     "image": "https://cdn2.steamgriddb.com/grid/1c58c5146fcc1bade9f6ff54e1fc6aa2.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
+    "id": "ravencaio/tlou-remastered-pc",
+    "aliases": [
+     "quiver:the-last-of-us-remastered-tlou-remastered-pc"
+    ],
+    "name": "tlou-remastered-pc",
+    "game": "The Last of Us Remastered",
+    "categories": [
+     "PlayStation 4"
+    ],
+    "type": "recompilation",
+    "repo": {
+     "host": "github",
+     "path": "ravencaio/tlou-remastered-pc"
+    },
+    "description": "tlou-remastered-pc is a native PC port of The Last of Us Remastered that runs the game's code directly on Windows with a Vulkan renderer.",
+    "developer": "ravencaio",
+    "targets": [
+     "Windows"
+    ],
+    "catalogVersion": "v0.1.5",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/the-last-of-us-remastered-tlou-remastered-pc"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/9db1c4a3a80276439554314a0b2dabe2.png",
     "sources": [
      "quiver"
     ]
@@ -56651,7 +57510,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.5.9",
+    "catalogVersion": "v0.5.12",
     "links": [
      {
       "label": "Quiver",
@@ -57175,7 +58034,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.3.0",
+    "catalogVersion": "v0.3.1",
     "links": [
      {
       "label": "Quiver",
@@ -57208,7 +58067,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "v0.09",
+    "catalogVersion": "v0.10",
     "links": [
      {
       "label": "Quiver",
@@ -58753,7 +59612,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.2.1",
+    "catalogVersion": "v0.2.2",
     "links": [
      {
       "label": "Quiver",
@@ -58950,7 +59809,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "windows-v0.2.53",
+    "catalogVersion": "windows-v0.2.59",
     "links": [
      {
       "label": "Quiver",
@@ -59241,8 +60100,8 @@
     "description": "WWE 2K14 Recomp is a native PC port of WWE 2K14 for Windows and Linux that allows renaming created superstars and custom arenas.",
     "developer": "PromethenDev",
     "targets": [
-     "Linux",
-     "Windows"
+     "Windows",
+     "Linux"
     ],
     "catalogVersion": "v1.4.9",
     "links": [
@@ -59289,6 +60148,38 @@
     ]
    },
    {
+    "id": "itsbybanshee/wwe2k16-pc",
+    "aliases": [
+     "quiver:wwe-2k16-wwe-2k16-pc-recomp"
+    ],
+    "name": "WWE 2K16 Recomp",
+    "game": "WWE 2K16",
+    "categories": [
+     "Xbox 360"
+    ],
+    "type": "recompilation",
+    "repo": {
+     "host": "github",
+     "path": "itsbybanshee/wwe2k16-pc"
+    },
+    "description": "WWE 2K16 PC Recomp is a Windows port of WWE 2K16 for Xbox 360 with a modern launcher, graphics options, mod support, custom soundtrack, and achievements.",
+    "developer": "Banshee",
+    "targets": [
+     "Windows"
+    ],
+    "catalogVersion": "v1.1.0",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/wwe-2k16-wwe-2k16-pc-recomp"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/512c99b9de12d3d172ee14b50a1765fc.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
     "id": "shaneomac1337/wwe-allstars-recomp",
     "aliases": [
      "quiver:wwe-all-stars-wwe-all-stars-recomp"
@@ -59316,6 +60207,70 @@
      }
     ],
     "image": "https://cdn2.steamgriddb.com/grid/a7f084b6c07ea2d68ea4a7243d836c7b.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
+    "id": "nefariousjosiah/wwe-svr2007-recomp",
+    "aliases": [
+     "quiver:wwe-smackdown-vs-raw-2007-recomp"
+    ],
+    "name": "WWE SmackDown vs. Raw 2007 Recomp",
+    "game": "WWE SmackDown vs. Raw 2007",
+    "categories": [
+     "Xbox 360"
+    ],
+    "type": "recompilation",
+    "repo": {
+     "host": "github",
+     "path": "nefariousjosiah/WWE-SVR2007-RECOMP"
+    },
+    "description": "WWE SmackDown vs. Raw 2007 is a native PC port of the Xbox 360 game that runs at 60 fps and up to 4K resolution.",
+    "developer": "nefariousjosiah",
+    "targets": [
+     "Windows"
+    ],
+    "catalogVersion": "v2.2.1",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/wwe-smackdown-vs-raw-2007-recomp"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/9bcc55f2146b211f2cc87e59ec6b39c2.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
+    "id": "nefariousjosiah/wwe-svr2008-recomp",
+    "aliases": [
+     "quiver:wwe-smackdown-vs-raw-2008-recomp"
+    ],
+    "name": "WWE SmackDown vs. Raw 2008 Recomp",
+    "game": "WWE SmackDown vs. Raw 2008",
+    "categories": [
+     "Xbox 360"
+    ],
+    "type": "recompilation",
+    "repo": {
+     "host": "github",
+     "path": "nefariousjosiah/WWE-SVR2008-RECOMP"
+    },
+    "description": "WWE SmackDown vs. Raw 2008 is a native PC port of the Xbox 360 game that runs at 60 fps and up to 4K resolution.",
+    "developer": "nefariousjosiah",
+    "targets": [
+     "Windows"
+    ],
+    "catalogVersion": "v2.2.1",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/wwe-smackdown-vs-raw-2008-recomp"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/d3f16ca317a488ca49df8934ab40269c.png",
     "sources": [
      "quiver"
     ]
@@ -59353,6 +60308,38 @@
     ]
    },
    {
+    "id": "nefariousjosiah/wwe-svr2010-recomp",
+    "aliases": [
+     "quiver:wwe-smackdown-vs-raw-2010-recomp"
+    ],
+    "name": "WWE SmackDown vs. Raw 2010 Recomp",
+    "game": "WWE SmackDown vs. Raw 2010",
+    "categories": [
+     "Xbox 360"
+    ],
+    "type": "recompilation",
+    "repo": {
+     "host": "github",
+     "path": "nefariousjosiah/WWE-SVR2010-RECOMP"
+    },
+    "description": "WWE SmackDown vs. Raw 2010 is a native PC port of the Xbox 360 game that runs at 60 fps and up to 4K resolution.",
+    "developer": "nefariousjosiah",
+    "targets": [
+     "Windows"
+    ],
+    "catalogVersion": "v2.1.3",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/wwe-smackdown-vs-raw-2010-recomp"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/2abbb67d13de26bdb4b9487c072ce63f.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
     "id": "kaikoclanworth1/wwe-svr2011-pc",
     "aliases": [
      "quiver:wwe-smackdown-vs-raw-2011-wwe-svr2011-pc"
@@ -59373,7 +60360,7 @@
      "Windows",
      "Android"
     ],
-    "catalogVersion": "v2.1.8",
+    "catalogVersion": "v2.1.9",
     "links": [
      {
       "label": "Quiver",
@@ -59381,6 +60368,38 @@
      }
     ],
     "image": "https://cdn2.steamgriddb.com/grid/816f5f6b759e7ebdebb05e34a3506308.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
+    "id": "itsbybanshee/wwe12-pc",
+    "aliases": [
+     "quiver:wwe-12-pc"
+    ],
+    "name": "WWE12-PC",
+    "game": "WWE '12",
+    "categories": [
+     "Xbox 360"
+    ],
+    "type": "recompilation",
+    "repo": {
+     "host": "github",
+     "path": "itsbybanshee/wwe12-pc"
+    },
+    "description": "WWE12-PC is a Windows port of WWE '12 for Xbox 360 that adds DLC support.",
+    "developer": "Banshee",
+    "targets": [
+     "Windows"
+    ],
+    "catalogVersion": "v0.4.0-beta",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/wwe-12-pc"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/02d4dfeefcfd17c7de0422dc60cde600.png",
     "sources": [
      "quiver"
     ]
@@ -59632,7 +60651,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v0.1.14-members-test",
+    "catalogVersion": "v0.1.14-menu-test",
     "links": [
      {
       "label": "Quiver",
@@ -59731,7 +60750,7 @@
      "macOS",
      "Windows"
     ],
-    "catalogVersion": "v1.0.5",
+    "catalogVersion": "v1.0.6",
     "links": [
      {
       "label": "Quiver",
@@ -60168,7 +61187,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.1.16",
+    "catalogVersion": "test-dx12",
     "links": [
      {
       "label": "Quiver",
