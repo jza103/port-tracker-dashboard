@@ -1,7 +1,7 @@
 {
  "meta": {
   "seededAt": "2026-10-25T14:56:57.670Z",
-  "lastSearchAt": "2026-11-04T19:55:48.147Z"
+  "lastSearchAt": "2026-11-05T22:08:09.109Z"
  },
  "firstSeen": {
   "0c0de/splatterhouse-decomp": "2026-10-25T15:56:57.670Z",
@@ -105,6 +105,7 @@
   "andrey04o/peakvr": "2026-10-25T15:36:27.479Z",
   "andreystashev/hitman-blood-money-vr-showcase": "2026-10-25T19:08:26.092Z",
   "andreystashev/hitman-contracts-vr-showcase": "2026-10-27T14:45:45.436Z",
+  "andreystashev/kane-lynch2-vr-showcase": "2026-11-05T22:08:09.109Z",
   "andreyvelsk/com.mobilerpgpack.phone": "2026-10-25T15:36:27.479Z",
   "android-xr-bridge/axrb": "2026-10-25T15:36:27.479Z",
   "andyvand/opentyrian2000": "2026-10-25T15:36:27.479Z",
@@ -441,6 +442,7 @@
   "defgenx/openfpga-atarist#defgenx-atari-st": "2026-10-25T15:56:57.670Z",
   "defgenx/openfpga-atarist#defgenx-atarist": "2026-10-25T15:56:57.670Z",
   "defgenx/openfpga-c64": "2026-10-26T21:06:11.803Z",
+  "defgenx/openfpga-vic20": "2026-11-05T22:08:09.109Z",
   "deivid22srk/dk64-recomp-android": "2026-10-23T22:25:39.434Z",
   "dennisbohn/openfpga-screamer": "2026-11-02T06:28:55.587Z",
   "derrickgold/ar-recomp": "2026-10-25T15:36:27.479Z",
@@ -500,6 +502,7 @@
   "drowhunter/codiesvr#grid-2019-vr": "2026-10-25T19:08:26.092Z",
   "drowhunter/codiesvr#grid-legends-vr": "2026-10-25T19:08:26.092Z",
   "drummingbird1/gow-psp-recomp": "2026-10-25T15:36:27.479Z",
+  "drummingbird1/sonic06-recomp": "2026-11-05T22:08:09.109Z",
   "dryxio/reagent": "2026-10-23T22:46:33.769Z",
   "dsprtn/gtfo_vr_plugin": "2026-10-25T15:36:27.479Z",
   "dubrovskiy-yevhen-stakelogic/gothic2-vr": "2026-10-23T22:25:39.434Z",
@@ -840,6 +843,7 @@
   "itsbybanshee/wwe2k14-pc": "2026-10-25T15:36:27.479Z",
   "itsbybanshee/wwe2k16-pc": "2026-11-04T12:19:33.535Z",
   "itsdanik/dethrace_mister": "2026-10-26T15:18:29.150Z",
+  "ivanprestef2/monado-fix-portable": "2026-11-05T22:08:09.109Z",
   "izzy2lost/ghostship": "2026-10-23T22:25:39.434Z",
   "izzy2lost/lighthouse": "2026-10-23T22:25:39.434Z",
   "izzy2lost/perfect_dark": "2026-10-23T22:25:39.434Z",
@@ -900,8 +904,14 @@
   "johnswingmods/sm2-enhanced": "2026-11-04T00:42:58.054Z",
   "jonathandc64/ffcceot-recomp": "2026-10-25T15:36:27.479Z",
   "jorge262007/fftarecomp": "2026-10-25T15:36:27.479Z",
+  "jorio/billyfrontier": "2026-11-05T22:08:09.109Z",
   "jorio/bugdom": "2026-11-05T00:56:45.621Z",
   "jorio/bugdom2": "2026-11-05T12:33:40.140Z",
+  "jorio/cromagrally": "2026-11-05T22:08:09.109Z",
+  "jorio/mightymike": "2026-11-05T22:08:09.109Z",
+  "jorio/nanosaur": "2026-11-05T22:08:09.109Z",
+  "jorio/nanosaur2": "2026-11-05T22:08:09.109Z",
+  "jorio/ottomatic": "2026-11-05T22:08:09.109Z",
   "jorjbarbosa/broken-bond-recomp": "2026-10-25T15:36:27.479Z",
   "jorjbarbosa/naruto-rise-recomp": "2026-10-23T22:25:39.434Z",
   "josiahg2502-glitch/brawlrecompiled": "2026-10-26T05:01:17.002Z",
@@ -1126,6 +1136,7 @@
   "lovemakerz/dungeon-keeper-2-vr-mod": "2026-10-25T19:08:26.092Z",
   "luanti-org/luanti": "2026-10-27T14:45:45.436Z",
   "lucapazienza/gravityrush_pc": "2026-10-25T15:56:57.670Z",
+  "lucas-blip-png/dkb-pc-recomp": "2026-11-05T22:08:09.109Z",
   "luckvj/streetball-revival": "2026-11-04T00:42:58.054Z",
   "luisxl15/god-of-war-hd-collection": "2026-11-04T00:42:58.054Z",
   "luisxl15/gta-iv-recomp-xbox-360": "2026-10-23T22:46:33.769Z",
@@ -1157,6 +1168,7 @@
   "mariopartyrd/partyboard": "2026-10-23T22:25:39.434Z",
   "markpremier/evolutionrecomp": "2026-10-31T05:58:24.466Z",
   "markus-zzz/myc64-pocket": "2026-10-25T15:56:57.670Z",
+  "maryncrt/ultimate-mortal-kombat-3-ios-decompiled": "2026-11-05T22:08:09.109Z",
   "masterllgod/naruto-storm-2-port-nativo": "2026-10-27T14:45:45.436Z",
   "masterllgod/naruto-storm-generations-port-nativo": "2026-10-26T15:18:29.150Z",
   "mastersellz/bl1gotyvr": "2026-10-25T15:36:27.479Z",
@@ -1445,6 +1457,7 @@
   "mister-devel/atarist_mister": "2026-10-25T15:56:57.670Z",
   "mister-devel/ay-3-8500-mister": "2026-10-25T15:56:57.670Z",
   "mister-devel/basicmasterjr_mister": "2026-10-29T15:18:58.463Z",
+  "mister-devel/basicmasterl3_mister": "2026-11-05T22:08:09.109Z",
   "mister-devel/bbcbridgecompanion_mister": "2026-10-25T15:56:57.670Z",
   "mister-devel/bbcmicro_mister": "2026-10-25T15:56:57.670Z",
   "mister-devel/bk0011m_mister": "2026-10-25T15:56:57.670Z",
@@ -2093,6 +2106,7 @@
   "pret/pokeruby": "2026-10-23T22:46:33.769Z",
   "previouslevelgames/recharged": "2026-10-23T22:25:39.434Z",
   "prismaticshape/dramaticshapevr": "2026-10-25T15:36:27.479Z",
+  "project-holon/eidos": "2026-11-05T22:08:09.109Z",
   "projectedan/mcrae05-xbe-recomp": "2026-11-01T15:19:44.427Z",
   "projectedan/tigerwoods2004-xbe-recomp": "2026-11-04T00:42:58.054Z",
   "projectmimer/wovr": "2026-10-25T15:36:27.479Z",
@@ -2133,6 +2147,7 @@
   "raicuparta/rai-pal": "2026-10-25T15:36:27.479Z",
   "raicuparta/two-forks-vr": "2026-10-25T15:36:27.479Z",
   "raicuparta/uuvr": "2026-10-25T15:36:27.479Z",
+  "rainbowcookie32/rusty-psn": "2026-11-05T22:08:09.109Z",
   "rainchus/chameleontwist1-jp-recomp": "2026-10-23T22:25:39.434Z",
   "rainchus/donkey-kong-64-recompiled": "2026-10-23T22:25:39.434Z",
   "rainchus/quest64-recomp": "2026-10-23T22:25:39.434Z",
@@ -2163,6 +2178,7 @@
   "renanqueiroz/mcla-recomp": "2026-10-31T05:58:24.466Z",
   "render96/render96ex": "2026-10-23T22:25:39.434Z",
   "rerevvedrecomp/rerevved": "2026-11-04T00:42:58.054Z",
+  "retro-modern/meridian_mister": "2026-11-05T22:08:09.109Z",
   "retro-remake/consolemode_distribution": "2026-10-23T22:25:39.434Z",
   "retro-remake/superstation-sd-card-installer": "2026-10-23T22:25:39.434Z",
   "retro-ware/por-go": "2026-11-02T06:28:55.587Z",
@@ -2259,6 +2275,7 @@
   "saulob/marvel-ultimate-alliance-bundle-recompiled": "2026-10-30T06:03:37.031Z",
   "saulob/odin-sphere-leifthrasir-pc": "2026-10-30T06:03:37.031Z",
   "saulob/ssf2t-hd-remix-recompiled": "2026-10-23T22:25:39.434Z",
+  "scarletnx/scarletnx": "2026-11-05T22:08:09.109Z",
   "sciaschi/cbfd-recompiled": "2026-10-23T22:25:39.434Z",
   "scotho/socom-unzipped": "2026-10-23T22:46:33.769Z",
   "sd805/l4d2vr": "2026-10-25T15:36:27.479Z",
@@ -2411,6 +2428,8 @@
   "supermedo/prince-of-persia-2-windows": "2026-10-25T15:36:27.479Z",
   "supermedo/uncharted_pc": "2026-10-23T22:25:39.434Z",
   "supermedo/wet-recomp": "2026-10-23T22:25:39.434Z",
+  "supertux/supertux": "2026-11-05T22:08:09.109Z",
+  "supertuxkart/stk-code": "2026-11-05T22:08:09.109Z",
   "swfans/syndicatfx": "2026-10-31T05:58:24.466Z",
   "swfans/syndwarsfx": "2026-10-31T05:58:24.466Z",
   "swordfish90/lemuroid": "2026-10-25T15:36:27.479Z",
@@ -2645,6 +2664,7 @@
   "xenira/techtonicavr": "2026-10-25T15:36:27.479Z",
   "xenophobentx/takedawn": "2026-10-25T15:36:27.479Z",
   "xgcmodding/platinum": "2026-10-25T15:36:27.479Z",
+  "xlenore/pscoverdl": "2026-11-05T22:08:09.109Z",
   "y0oshi/lain-psx-decompiled": "2026-10-25T15:36:27.479Z",
   "yaibakamikaze/izunarecomp": "2026-11-05T12:33:40.140Z",
   "yancharkin/spelunkyclassichd": "2026-11-05T12:33:40.140Z",
@@ -2692,6 +2712,7 @@
   "zoomieszaggy/space-channel-5": "2026-10-23T22:25:39.434Z",
   "zorde23/uncharted_collection_pc": "2026-10-31T05:58:24.466Z",
   "zorkats/g-diffuser": "2026-10-23T22:25:39.434Z",
+  "zortos293/lichii": "2026-11-05T22:08:09.109Z",
   "zquestclassic/zquestclassic": "2026-10-27T14:45:45.436Z",
   "zumbo06/crash2recomp": "2026-10-23T22:25:39.434Z",
   "zwaetschge/acgc-android-port": "2026-10-23T22:25:39.434Z",
@@ -3013,6 +3034,35 @@
     "url": "https://www.youtube.com/watch?v=uFUh52hvxfU",
     "source": "YouTube: NotAGameAddict",
     "date": "2026-10-27T09:50:26.000Z"
+   },
+   "autoFollow": true
+  },
+  "andreystashev/kane-lynch2-vr-showcase": {
+   "id": "andreystashev/kane-lynch2-vr-showcase",
+   "name": "kane lynch2 vr showcase",
+   "game": "kane lynch2 vr showcase",
+   "categories": [
+    "Other",
+    "VR Ports"
+   ],
+   "type": "port",
+   "tags": [
+    "VR"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "andreystashev/kane-lynch2-vr-showcase"
+   },
+   "links": [],
+   "sources": [
+    "news"
+   ],
+   "discoveredFrom": {
+    "kind": "news",
+    "title": "Kane & Lynch 2: Dog Days VR Performance / New VR Mod with 6DOF Motion Controls / Quest 3 - PCVR",
+    "url": "https://www.youtube.com/watch?v=4fURKPTQAG8",
+    "source": "YouTube: NotAGameAddict",
+    "date": "2026-11-05T20:36:21.000Z"
    },
    "autoFollow": true
   },
@@ -4692,6 +4742,30 @@
    },
    "autoFollow": true
   },
+  "drakolordx7/switch2-recomp": {
+   "id": "drakolordx7/switch2-recomp",
+   "name": "switch2 recomp",
+   "game": "switch2 recomp",
+   "categories": [
+    "Nintendo Switch"
+   ],
+   "type": "recompilation",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "drakolordx7/switch2-recomp"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "topic:static-recompilation stars:>20",
+    "date": "2026-11-05T22:08:09.109Z"
+   },
+   "autoFollow": true
+  },
   "drummingbird1/gow-psp-recomp": {
    "id": "drummingbird1/gow-psp-recomp",
    "name": "gow psp recomp",
@@ -6265,7 +6339,7 @@
     "title": "PS2Recomp in:readme stars:>20",
     "date": "2026-10-23T22:46:33.769Z"
    },
-   "autoFollow": false
+   "autoFollow": true
   },
   "jcooray/shadow-of-the-tomb-raider-vr": {
    "id": "jcooray/shadow-of-the-tomb-raider-vr",
@@ -7641,6 +7715,30 @@
     "date": "2026-10-24T13:00:17.000Z"
    },
    "autoFollow": true
+  },
+  "lucas-blip-png/dkb-pc-recomp": {
+   "id": "lucas-blip-png/dkb-pc-recomp",
+   "name": "dkb pc recomp",
+   "game": "dkb pc recomp",
+   "categories": [
+    "Nintendo Switch"
+   ],
+   "type": "recompilation",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "Lucas-blip-png/dkb-pc-recomp"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "topic:static-recompilation stars:>20",
+    "date": "2026-11-05T22:08:09.109Z"
+   },
+   "autoFollow": false
   },
   "luisxl15/gta-iv-recomp-xbox-360": {
    "id": "luisxl15/gta-iv-recomp-xbox-360",
@@ -9801,6 +9899,32 @@
    },
    "autoFollow": false
   },
+  "retro-modern/meridian_mister": {
+   "id": "retro-modern/meridian_mister",
+   "name": "MERIDIAN Mi STer",
+   "game": "MERIDIAN",
+   "categories": [
+    "MiSTer FPGA"
+   ],
+   "type": "core",
+   "tags": [
+    "FPGA"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "Retro-Modern/MERIDIAN_MiSTer"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "topic:mister-fpga stars:>5",
+    "date": "2026-11-05T22:08:09.109Z"
+   },
+   "autoFollow": false
+  },
   "retro-remake/consolemode_distribution": {
    "id": "retro-remake/consolemode_distribution",
    "name": "Console Mode Distribution",
@@ -10204,6 +10328,30 @@
     "date": "2026-10-23T22:46:33.769Z"
    },
    "autoFollow": true
+  },
+  "scarletnx/scarletnx": {
+   "id": "scarletnx/scarletnx",
+   "name": "Scarlet NX",
+   "game": "Scarlet NX",
+   "categories": [
+    "Game Boy Advance"
+   ],
+   "type": "recompilation",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "scarletnx/ScarletNX"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "topic:static-recompilation stars:>20",
+    "date": "2026-11-05T22:08:09.109Z"
+   },
+   "autoFollow": false
   },
   "scotho/socom-unzipped": {
    "id": "scotho/socom-unzipped",
@@ -12126,6 +12274,7 @@
   "alphanu1/sega-model1-mister": "2026-10-23",
   "ansiwen/dualjoy": "2026-10-26",
   "anthropics/claude-code": "2026-10-31",
+  "antonchikda/s.t.a.l.k.e.r.-vr": "2026-11-05",
   "ares-emulator/ares": "2026-10-23",
   "azahar-emu/azahar": "2026-10-23",
   "azathothas/stars": "2026-10-27",
