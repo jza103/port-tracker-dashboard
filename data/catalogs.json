@@ -26970,7 +26970,7 @@
   ]
  },
  "quiver": {
-  "updatedAt": "2026-11-04T19:55:48.147Z",
+  "updatedAt": "2026-11-05T00:56:45.621Z",
   "projects": [
    {
     "id": "hk21x/007-agentunderfire-recomp",
@@ -28613,7 +28613,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "0.3.0",
+    "catalogVersion": "1.0.0",
     "links": [
      {
       "label": "Quiver",
@@ -28678,7 +28678,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "1.8.0",
+    "catalogVersion": "1.8.1",
     "links": [
      {
       "label": "Quiver",
@@ -28712,7 +28712,7 @@
      "macOS",
      "Linux"
     ],
-    "catalogVersion": "v0.5.10",
+    "catalogVersion": "v0.5.11",
     "links": [
      {
       "label": "Quiver",
@@ -28887,6 +28887,41 @@
      }
     ],
     "image": "https://cdn2.steamgriddb.com/grid/db76ba9f1aadf1434c1d08a590f41fde.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
+    "id": "mrot4/babel-recomp",
+    "aliases": [
+     "quiver:illusion-of-gaia-babel-recomp"
+    ],
+    "name": "Babel Recomp",
+    "game": "Illusion of Gaia",
+    "categories": [
+     "SNES"
+    ],
+    "type": "recompilation",
+    "repo": {
+     "host": "github",
+     "path": "mrOt4/babel-recomp"
+    },
+    "description": "A native PC and console port of Illusion of Gaia built on a static-recompilation framework, with languages, an MSU-1 soundtrack, HD scaling, New Game+, RetroAchievements and more.",
+    "developer": "mrOt4",
+    "targets": [
+     "Android",
+     "Linux",
+     "macOS",
+     "Windows"
+    ],
+    "catalogVersion": "v1.0",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/illusion-of-gaia-babel-recomp"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/bc9b327d7878dd5672c4d7b28bdd3698.png",
     "sources": [
      "quiver"
     ]
@@ -29304,7 +29339,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v0.2.25",
+    "catalogVersion": "v0.2.26",
     "links": [
      {
       "label": "Quiver",
@@ -29440,6 +29475,40 @@
      }
     ],
     "image": "https://cdn2.steamgriddb.com/grid/aec6500cec2a7aea5d70d829fd8cba9e.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
+    "id": "bigredreport/bigredreport",
+    "aliases": [
+     "quiver:big-red-racing-big-red-report"
+    ],
+    "name": "Big Red Report",
+    "game": "Big Red Racing",
+    "categories": [
+     "PC"
+    ],
+    "type": "reimplementation",
+    "repo": {
+     "host": "github",
+     "path": "BigRedReport/bigredreport"
+    },
+    "description": "Big Red Report is a fan-made port of Big Red Racing for modern computers with modern graphics, split-screen, LAN and online multiplayer.",
+    "developer": "BigRedReport",
+    "targets": [
+     "Windows",
+     "Linux",
+     "Android"
+    ],
+    "catalogVersion": "v0.115.3",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/big-red-racing-big-red-report"
+     }
+    ],
+    "image": "https://raw.githubusercontent.com/BigRedReport/bigredreport/0318d38bbcf3f66a1406fa81d3de73f684253539/escritorio/icon.ico",
     "sources": [
      "quiver"
     ]
@@ -30036,6 +30105,39 @@
     ]
    },
    {
+    "id": "danielgomesvieira2000/body-harvest-recomp",
+    "aliases": [
+     "quiver:body-harvest-body-harvest-recomp"
+    ],
+    "name": "Body Harvest: Recompiled",
+    "game": "Body Harvest",
+    "categories": [
+     "Nintendo 64"
+    ],
+    "type": "recompilation",
+    "repo": {
+     "host": "github",
+     "path": "danielgomesvieira2000/body-harvest-recomp"
+    },
+    "description": "Body Harvest: Recompiled is a native PC port of Body Harvest for Windows and Linux with widescreen support and high frame rates.",
+    "developer": "danielgomesvieira2000",
+    "targets": [
+     "Linux",
+     "Windows"
+    ],
+    "catalogVersion": "v0.1.0",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/body-harvest-body-harvest-recomp"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/d4896ea2052aab8e20377ff813141100.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
     "id": "revosucks/bm64recomp",
     "aliases": [
      "quiver:bomberman64-bomberman64recompiled"
@@ -30298,7 +30400,7 @@
       "url": "https://quiverlauncher.com/apps/breath-of-the-wild-wiiu-recompiled"
      }
     ],
-    "image": "https://cdn2.steamgriddb.com/grid/14b9babe89aea5b852cf12111b27fdc4.png",
+    "image": "https://cdn2.steamgriddb.com/grid/121b81f7d167ca2c24fdab4f044048f8.png",
     "sources": [
      "quiver"
     ]
@@ -30631,6 +30733,40 @@
      }
     ],
     "image": "https://cdn2.steamgriddb.com/grid/7079ab09f47e175352429b6dab1c0a44.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
+    "id": "jorio/bugdom",
+    "aliases": [
+     "quiver:bugdom"
+    ],
+    "name": "Bugdom",
+    "game": "Bugdom",
+    "categories": [
+     "PC"
+    ],
+    "type": "port",
+    "repo": {
+     "host": "github",
+     "path": "jorio/Bugdom"
+    },
+    "description": "Bugdom is a native PC port of the 1999 Macintosh game Bugdom that supports modern operating systems and arbitrary resolutions.",
+    "developer": "jorio",
+    "targets": [
+     "Windows",
+     "macOS",
+     "Linux"
+    ],
+    "catalogVersion": "1.3.4",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/bugdom"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/ff4fa1fd304f9422d7b4e47cfbfb1c94.png",
     "sources": [
      "quiver"
     ]
@@ -31144,7 +31280,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v1.8.2",
+    "catalogVersion": "v1.8.3",
     "links": [
      {
       "label": "Quiver",
@@ -31248,7 +31384,7 @@
      "macOS",
      "Windows"
     ],
-    "catalogVersion": "cdda-experimental-2026-11-04-0759",
+    "catalogVersion": "cdda-experimental-2026-11-04-2040",
     "links": [
      {
       "label": "Quiver",
@@ -31283,7 +31419,7 @@
      "macOS",
      "Windows"
     ],
-    "catalogVersion": "cataclysm-tlg-1.0-2026-11-04-1452",
+    "catalogVersion": "cataclysm-tlg-1.0-2026-11-04-2252",
     "links": [
      {
       "label": "Quiver",
@@ -33095,7 +33231,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.5.0",
+    "catalogVersion": "v0.6.0",
     "links": [
      {
       "label": "Quiver",
@@ -33129,7 +33265,7 @@
      "macOS",
      "Windows"
     ],
-    "catalogVersion": "v0.13.0",
+    "catalogVersion": "v1.0.0-beta.1",
     "links": [
      {
       "label": "Quiver",
@@ -33895,7 +34031,7 @@
      "Linux",
      "macOS"
     ],
-    "catalogVersion": "v0.1.16",
+    "catalogVersion": "v0.1.17",
     "links": [
      {
       "label": "Quiver",
@@ -33929,7 +34065,7 @@
      "macOS",
      "Windows"
     ],
-    "catalogVersion": "v0.6.1",
+    "catalogVersion": "v0.6.2",
     "links": [
      {
       "label": "Quiver",
@@ -34132,6 +34268,39 @@
      }
     ],
     "image": "https://github.com/voodatari/Dogs-of-War-Atari-ST-Recomp/blob/main/source/host/ico.png?raw=true",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
+    "id": "n64hub/donald-duck-goin-quackers-recomp",
+    "aliases": [
+     "quiver:donald-duck-goin-quackers-recompiled"
+    ],
+    "name": "Donald Duck: Goin' Quackers Recompiled",
+    "game": "Donald Duck: Goin' Quackers",
+    "categories": [
+     "Nintendo 64"
+    ],
+    "type": "recompilation",
+    "repo": {
+     "host": "github",
+     "path": "n64hub/donald-duck-goin-quackers-recomp"
+    },
+    "description": "Donald Duck: Goin' Quackers Recompiled is a native PC port of Donald Duck: Goin' Quackers for Nintendo 64 and PC.",
+    "developer": "n64hub",
+    "targets": [
+     "Linux",
+     "Windows"
+    ],
+    "catalogVersion": "v0.1.1",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/donald-duck-goin-quackers-recompiled"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/7dc78355cead39645ee10b2a2010ace2.png",
     "sources": [
      "quiver"
     ]
@@ -34847,7 +35016,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.2.3",
+    "catalogVersion": "v0.2.4",
     "links": [
      {
       "label": "Quiver",
@@ -34887,6 +35056,40 @@
      }
     ],
     "image": "https://raw.githubusercontent.com/enrique-paulino/DualScreenDex/b412dd29de455b2fa2769dcccd832059e2e7830e/app/src/main/assets/icon-lower.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
+    "id": "stenzek/duckstation",
+    "aliases": [
+     "quiver:playstation-1-duckstation"
+    ],
+    "name": "DuckStation",
+    "game": "PlayStation 1",
+    "categories": [
+     "PlayStation"
+    ],
+    "type": "emulator",
+    "repo": {
+     "host": "github",
+     "path": "stenzek/duckstation"
+    },
+    "description": "DuckStation is a PlayStation 1 emulator for Windows, Linux, and macOS that focuses on accuracy and performance.",
+    "developer": "stenzek",
+    "targets": [
+     "Linux",
+     "macOS",
+     "Windows"
+    ],
+    "catalogVersion": "preview",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/playstation-1-duckstation"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/4950b267e3069ba254e12901f586ed08.png",
     "sources": [
      "quiver"
     ]
@@ -35026,6 +35229,40 @@
     ]
    },
    {
+    "id": "crawl/crawl",
+    "aliases": [
+     "quiver:dungeon-crawl-stone-soup"
+    ],
+    "name": "Dungeon Crawl Stone Soup",
+    "game": "Dungeon Crawl Stone Soup",
+    "categories": [
+     "PC"
+    ],
+    "type": "port",
+    "repo": {
+     "host": "github",
+     "path": "crawl/crawl"
+    },
+    "description": "Dungeon Crawl Stone Soup is a game of dungeon exploration, combat and magic for Windows, Linux and macOS.",
+    "developer": "crawl",
+    "targets": [
+     "Linux",
+     "macOS",
+     "Windows"
+    ],
+    "catalogVersion": "0.34.1",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/dungeon-crawl-stone-soup"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/8e26736829e07acb465bc6eacbf2ed1f.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
     "id": "twilitrealm/dusklight",
     "aliases": [
      "quiver:thelegendofzeldatwilightprincess-dusklight"
@@ -35089,6 +35326,40 @@
      }
     ],
     "image": "https://cdn2.steamgriddb.com/grid/ec171768a35506a454b08b373a3834cf.jpg",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
+    "id": "alexstrout/dxx-rebirth",
+    "aliases": [
+     "quiver:descent-dxx-rebirth"
+    ],
+    "name": "DXX-Rebirth",
+    "game": "Descent",
+    "categories": [
+     "PC"
+    ],
+    "type": "recompilation",
+    "repo": {
+     "host": "github",
+     "path": "alexstrout/dxx-rebirth"
+    },
+    "description": "DXX-Rebirth is a PC port of Descent and Descent 2 that runs on modern operating systems with OpenGL rendering and improved multiplayer.",
+    "developer": "The Rebirth Team",
+    "targets": [
+     "Windows",
+     "macOS",
+     "Linux"
+    ],
+    "catalogVersion": "v2026.06.15-test",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/descent-dxx-rebirth"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/8fa5e19c009b1a1571df5bdea80be9ec.png",
     "sources": [
      "quiver"
     ]
@@ -35284,7 +35555,7 @@
      "Windows",
      "iOS"
     ],
-    "catalogVersion": "v0.10.0",
+    "catalogVersion": "v0.11.0",
     "links": [
      {
       "label": "Quiver",
@@ -36475,7 +36746,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v0.2.5",
+    "catalogVersion": "v0.2.6",
     "links": [
      {
       "label": "Quiver",
@@ -36936,7 +37207,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "v0.7.0",
+    "catalogVersion": "v0.8.0",
     "links": [
      {
       "label": "Quiver",
@@ -37922,7 +38193,7 @@
      "macOS",
      "Windows"
     ],
-    "catalogVersion": "v1.5.0",
+    "catalogVersion": "v1.6.0",
     "links": [
      {
       "label": "Quiver",
@@ -38218,7 +38489,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.1.12",
+    "catalogVersion": "v0.1.13",
     "links": [
      {
       "label": "Quiver",
@@ -38317,7 +38588,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v1.3.0-rc13",
+    "catalogVersion": "v1.3.0-rc14",
     "links": [
      {
       "label": "Quiver",
@@ -38349,7 +38620,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.2.1",
+    "catalogVersion": "v0.2.2",
     "links": [
      {
       "label": "Quiver",
@@ -38546,7 +38817,7 @@
     "description": "Halo CE: Arena Evolved is a native PC port of Halo: Combat Evolved with modern quality of life features and new gameplay options.",
     "developer": "Peter Richardson",
     "targets": [],
-    "catalogVersion": "v0.7.4-beta",
+    "catalogVersion": "v0.7.5-beta",
     "links": [
      {
       "label": "Quiver",
@@ -40384,7 +40655,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v0.3.3",
+    "catalogVersion": "v0.3.4",
     "links": [
      {
       "label": "Quiver",
@@ -40614,7 +40885,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.1.6-alpha",
+    "catalogVersion": "v0.1.7-alpha",
     "links": [
      {
       "label": "Quiver",
@@ -41633,7 +41904,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "0.9.16.0-beta-stable",
+    "catalogVersion": "0.9.17.0-beta-stable",
     "links": [
      {
       "label": "Quiver",
@@ -42205,7 +42476,7 @@
       "url": "https://quiverlauncher.com/apps/matterfall-matterfall-pc-port"
      }
     ],
-    "image": "https://cdn2.steamgriddb.com/grid/dc38c86788d92f88c2d11fe217bc57eb.png",
+    "image": "https://cdn2.steamgriddb.com/grid/540c90edf9b6c8f658975acbb7e4f297.png",
     "sources": [
      "quiver"
     ]
@@ -42295,7 +42566,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.2.6",
+    "catalogVersion": "v0.3.0",
     "links": [
      {
       "label": "Quiver",
@@ -42984,7 +43255,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "v0.9.98",
+    "catalogVersion": "v0.9.100",
     "links": [
      {
       "label": "Quiver",
@@ -43287,7 +43558,7 @@
      "macOS",
      "iOS"
     ],
-    "catalogVersion": "v0.40.0",
+    "catalogVersion": "v0.41.0",
     "links": [
      {
       "label": "Quiver",
@@ -43456,7 +43727,7 @@
      "Linux",
      "Android"
     ],
-    "catalogVersion": "0.14.0",
+    "catalogVersion": "0.14.1",
     "links": [
      {
       "label": "Quiver",
@@ -44012,7 +44283,7 @@
     "description": "Nanolathe is a 2.5D RTS engine for Total Annihilation that offers a modern renderer and gameplay options.",
     "developer": "Daniel Taylor",
     "targets": [],
-    "catalogVersion": "native-439",
+    "catalogVersion": "native-442",
     "links": [
      {
       "label": "Quiver",
@@ -44534,7 +44805,7 @@
      "Linux",
      "macOS"
     ],
-    "catalogVersion": "v0.9.55",
+    "catalogVersion": "v0.9.56",
     "links": [
      {
       "label": "Quiver",
@@ -44870,7 +45141,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "v0.8",
+    "catalogVersion": "v0.8.1",
     "links": [
      {
       "label": "Quiver",
@@ -45228,7 +45499,11 @@
     },
     "description": "OpenCE is a port of Halo: Combat Evolved to Windows, Linux and Android that supports multiplayer across all platforms.",
     "developer": "OpenCommunityEdition",
-    "targets": [],
+    "targets": [
+     "Android",
+     "Linux",
+     "Windows"
+    ],
     "catalogVersion": "build-337",
     "links": [
      {
@@ -46002,7 +46277,7 @@
      "macOS",
      "Android"
     ],
-    "catalogVersion": "sdk-v1.11.0",
+    "catalogVersion": "launcher-v1.0.0",
     "links": [
      {
       "label": "Quiver",
@@ -46135,7 +46410,10 @@
     },
     "description": "ShaolinMonksRecomp is a PC port of Mortal Kombat: Shaolin Monks that adds resolution and render scale settings, display modes, and keyboard and mouse input.",
     "developer": "OAleex",
-    "targets": [],
+    "targets": [
+     "Linux",
+     "Windows"
+    ],
     "catalogVersion": "v0.4.1",
     "links": [
      {
@@ -46608,7 +46886,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.1.0-beta",
+    "catalogVersion": "v0.2.0-beta",
     "links": [
      {
       "label": "Quiver",
@@ -47202,7 +47480,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.4.0",
+    "catalogVersion": "v0.4.1",
     "links": [
      {
       "label": "Quiver",
@@ -47756,7 +48034,7 @@
      "Linux",
      "macOS"
     ],
-    "catalogVersion": "v0.7.1",
+    "catalogVersion": "v0.8.0",
     "links": [
      {
       "label": "Quiver",
@@ -47890,7 +48168,7 @@
      "Windows",
      "iOS"
     ],
-    "catalogVersion": "v1.12.2.3-357",
+    "catalogVersion": "v1.12.2.4-364",
     "links": [
      {
       "label": "Quiver",
@@ -47942,7 +48220,7 @@
      "quiver:pokopia-pokopia-recomp"
     ],
     "name": "Pokopia Recomp",
-    "game": "Pokopia",
+    "game": "Pokémon Pokopia",
     "categories": [
      "Nintendo Switch"
     ],
@@ -47956,7 +48234,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.1.1",
+    "catalogVersion": "v0.2.0",
     "links": [
      {
       "label": "Quiver",
@@ -48350,7 +48628,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.1.8",
+    "catalogVersion": "v0.1.9",
     "links": [
      {
       "label": "Quiver",
@@ -48415,7 +48693,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.2.7-test1",
+    "catalogVersion": "v0.2.8-test1",
     "links": [
      {
       "label": "Quiver",
@@ -48482,7 +48760,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.1.9",
+    "catalogVersion": "v0.1.10",
     "links": [
      {
       "label": "Quiver",
@@ -49072,7 +49350,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v0.6.0",
+    "catalogVersion": "v0.7.0",
     "links": [
      {
       "label": "Quiver",
@@ -49628,7 +49906,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v1.0.20-rc2-hotfix",
+    "catalogVersion": "v1.0.20",
     "links": [
      {
       "label": "Quiver",
@@ -49729,7 +50007,7 @@
      "macOS",
      "Windows"
     ],
-    "catalogVersion": "test-pr111-ab755d58aa34",
+    "catalogVersion": "test-pr124-91a3d0ebd784",
     "links": [
      {
       "label": "Quiver",
@@ -49762,7 +50040,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v0.7.3",
+    "catalogVersion": "v0.7.4",
     "links": [
      {
       "label": "Quiver",
@@ -50329,7 +50607,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "0.1.1",
+    "catalogVersion": "0.2.0",
     "links": [
      {
       "label": "Quiver",
@@ -50593,7 +50871,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "v1.4.8",
+    "catalogVersion": "v1.4.9",
     "links": [
      {
       "label": "Quiver",
@@ -50725,7 +51003,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.1.0",
+    "catalogVersion": "v0.2.0",
     "links": [
      {
       "label": "Quiver",
@@ -52178,7 +52456,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v1.2.5.3",
+    "catalogVersion": "v1.2.5.4",
     "links": [
      {
       "label": "Quiver",
@@ -52540,7 +52818,7 @@
     "targets": [
      "Android"
     ],
-    "catalogVersion": "0.27.6",
+    "catalogVersion": "0.30.5",
     "links": [
      {
       "label": "Quiver",
@@ -52635,7 +52913,9 @@
     },
     "description": "SMA3 Recomp Android is a recompilation of Yoshi's Island: Super Mario Advance 3 for Android with features like adjustable button layouts and 120Hz display support.",
     "developer": "Edwin2929",
-    "targets": [],
+    "targets": [
+     "Android"
+    ],
     "catalogVersion": "",
     "links": [
      {
@@ -52736,7 +53016,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v0.1.68",
+    "catalogVersion": "v1.0.1",
     "links": [
      {
       "label": "Quiver",
@@ -53628,7 +53908,7 @@
      "iOS",
      "Windows"
     ],
-    "catalogVersion": "v0.2.1-windows-beta.4",
+    "catalogVersion": "v0.2.2-windows-beta.5",
     "links": [
      {
       "label": "Quiver",
@@ -54218,7 +54498,7 @@
      "host": "github",
      "path": "runedevros/storyofalostsky"
     },
-    "description": "Story of a Lost Sky is a game for Windows featuring adjustable volume options, new character profiles, and a new mission.",
+    "description": "Story of a Lost Sky is a Touhou fan game project for Windows featuring adjustable volume options, new character profiles, and a new mission.",
     "developer": "runedevros",
     "targets": [
      "Windows"
@@ -54230,7 +54510,7 @@
       "url": "https://quiverlauncher.com/apps/story-of-a-lost-sky"
      }
     ],
-    "image": "https://cdn2.steamgriddb.com/grid/46271215b56a04b8eb6104891ed50183.png",
+    "image": "https://raw.githubusercontent.com/runedevros/storyofalostsky/ebbf3536b91ef4e099f2fc210fa43d9184f3b5bc/icon.ico",
     "sources": [
      "quiver"
     ]
@@ -55148,7 +55428,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.2.0",
+    "catalogVersion": "v0.3.0",
     "links": [
      {
       "label": "Quiver",
@@ -56690,7 +56970,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.7.1-beta",
+    "catalogVersion": "v0.7.2-beta",
     "links": [
      {
       "label": "Quiver",
@@ -56820,7 +57100,7 @@
     "targets": [
      "Android"
     ],
-    "catalogVersion": "v0.9.8",
+    "catalogVersion": "v0.9.9",
     "links": [
      {
       "label": "Quiver",
@@ -57084,7 +57364,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v0.1.3",
+    "catalogVersion": "v1.2.0",
     "links": [
      {
       "label": "Quiver",
@@ -57156,7 +57436,7 @@
       "url": "https://quiverlauncher.com/apps/top-spin-4-top-spin-4-recomp"
      }
     ],
-    "image": "https://cdn2.steamgriddb.com/grid/ccc6f8246e76aeaedc884aabba227478.png",
+    "image": "https://cdn2.steamgriddb.com/grid/22b3872c9768b6070e1111d85e8e9660.png",
     "sources": [
      "quiver"
     ]
@@ -57182,7 +57462,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "v0.3.7",
+    "catalogVersion": "v0.3.10",
     "links": [
      {
       "label": "Quiver",
@@ -57577,7 +57857,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "1.0.7-UFC3MONS",
+    "catalogVersion": "1.0.8-UFC3MONS",
     "links": [
      {
       "label": "Quiver",
@@ -57711,7 +57991,7 @@
      "macOS",
      "Windows"
     ],
-    "catalogVersion": "v1.1.189",
+    "catalogVersion": "v1.1.191",
     "links": [
      {
       "label": "Quiver",
@@ -57752,6 +58032,39 @@
      }
     ],
     "image": "https://cdn2.steamgriddb.com/grid/3f13b8ec315845c81d371f41e772399c.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
+    "id": "kuraeow/ultratears",
+    "aliases": [
+     "quiver:the-legend-of-zelda-tears-of-the-kingdom-ultratears"
+    ],
+    "name": "UltraTears",
+    "game": "The Legend of Zelda: Tears of the Kingdom",
+    "categories": [
+     "Nintendo Switch"
+    ],
+    "type": "recompilation",
+    "repo": {
+     "host": "github",
+     "path": "kuraeow/ultratears"
+    },
+    "description": "UltraTears is a native PC port of The Legend of Zelda: Tears of the Kingdom for Windows, Linux and Steam Deck.",
+    "developer": "kuraeow",
+    "targets": [
+     "Windows",
+     "Linux"
+    ],
+    "catalogVersion": "v0.3.1",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/the-legend-of-zelda-tears-of-the-kingdom-ultratears"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/198c300f91ddf49d200638e8e5edd87c.png",
     "sources": [
      "quiver"
     ]
@@ -57840,7 +58153,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.3.8",
+    "catalogVersion": "v0.3.9",
     "links": [
      {
       "label": "Quiver",
@@ -57937,7 +58250,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v0.16.0",
+    "catalogVersion": "v0.16.1",
     "links": [
      {
       "label": "Quiver",
@@ -58569,7 +58882,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "v0.1.17",
+    "catalogVersion": "v0.1.18",
     "links": [
      {
       "label": "Quiver",
@@ -58603,7 +58916,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "v0.1.15-alpha",
+    "catalogVersion": "v0.1.16-alpha",
     "links": [
      {
       "label": "Quiver",
@@ -58862,7 +59175,11 @@
     },
     "description": "Waddle Forever brings Club Penguin to PC.",
     "developer": "nhaar",
-    "targets": [],
+    "targets": [
+     "macOS",
+     "Windows",
+     "Linux"
+    ],
     "catalogVersion": "v1.5.1",
     "links": [
      {
@@ -59351,7 +59668,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "linux-test-v0.1.9.1",
+    "catalogVersion": "linux-test-v0.1.9.2",
     "links": [
      {
       "label": "Quiver",
@@ -60425,7 +60742,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v1.2.0",
+    "catalogVersion": "v1.2.1",
     "links": [
      {
       "label": "Quiver",
@@ -60627,6 +60944,39 @@
      }
     ],
     "image": "https://cdn2.steamgriddb.com/grid/92ffe39c405eb26368e5376f396d6ade.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
+    "id": "akshardp/xc2-recomp",
+    "aliases": [
+     "quiver:xenoblade-chronicles-2-xc2-recomp"
+    ],
+    "name": "XC2 Recomp",
+    "game": "Xenoblade Chronicles 2",
+    "categories": [
+     "Nintendo Switch"
+    ],
+    "type": "recompilation",
+    "repo": {
+     "host": "github",
+     "path": "AksharDP/xc2-recomp"
+    },
+    "description": "XC2 Recomp is a native PC port of Xenoblade Chronicles 2 for Windows and Linux that runs at 60 fps with adjustable resolution and AMD FSR 1 scaling.",
+    "developer": "AksharDP",
+    "targets": [
+     "Linux",
+     "Windows"
+    ],
+    "catalogVersion": "v0.1.9",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/xenoblade-chronicles-2-xc2-recomp"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/be832285cdb38d4402dbefe00a7f7f27.png",
     "sources": [
      "quiver"
     ]
@@ -61188,7 +61538,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "test-dx12",
+    "catalogVersion": "test-amd-windows",
     "links": [
      {
       "label": "Quiver",
@@ -75825,7 +76175,7 @@
   ]
  },
  "pocket": {
-  "updatedAt": "2026-11-04T19:55:48.147Z",
+  "updatedAt": "2026-11-05T00:56:45.621Z",
   "projects": [
    {
     "id": "gpzi994/chiskit",
@@ -82869,11 +83219,11 @@
     "targets": [
      "Analogue Pocket"
     ],
-    "catalogVersion": "1.0.1",
-    "catalogDate": "2026-10-14",
+    "catalogVersion": "1.0.2",
+    "catalogDate": "2026-11-04",
     "download": {
-     "label": "Pocket 1.0.1",
-     "url": "https://github.com/Frazilpop/Great-1000-Miles-Rally-Pocket/releases/download/v1.0.1/Great-1000-Miles-Rally-Pocket-1.0.1.zip"
+     "label": "Pocket 1.0.2",
+     "url": "https://github.com/Frazilpop/Great-1000-Miles-Rally-Pocket/releases/download/v1.0.2/Great-1000-Miles-Rally-Pocket-1.0.2.zip"
     },
     "links": [
      {
@@ -82908,11 +83258,11 @@
     "targets": [
      "Analogue Pocket"
     ],
-    "catalogVersion": "1.0.1",
-    "catalogDate": "2026-11-01",
+    "catalogVersion": "1.0.2",
+    "catalogDate": "2026-11-04",
     "download": {
-     "label": "Pocket 1.0.1",
-     "url": "https://github.com/Frazilpop/Toaplan-V2-Pocket/releases/download/v1.0.1/toaplan2-1.0.1.zip"
+     "label": "Pocket 1.0.2",
+     "url": "https://github.com/Frazilpop/Toaplan-V2-Pocket/releases/download/v1.0.2/toaplan2-1.0.2.zip"
     },
     "links": [
      {
@@ -90179,11 +90529,11 @@
     "targets": [
      "Analogue Pocket"
     ],
-    "catalogVersion": "0.7",
-    "catalogDate": "2026-10-31",
+    "catalogVersion": "0.8",
+    "catalogDate": "2026-11-04",
     "download": {
-     "label": "Pocket 0.7",
-     "url": "https://github.com/tortugaveloz/MIRLO64/releases/download/v0.7/tortuga.Mirlo64_0.7.zip"
+     "label": "Pocket 0.8",
+     "url": "https://github.com/tortugaveloz/MIRLO64/releases/download/v0.8/tortuga.Mirlo64_0.8.zip"
     },
     "links": [
      {
@@ -90257,11 +90607,11 @@
     "targets": [
      "Analogue Pocket"
     ],
-    "catalogVersion": "0.7.8",
-    "catalogDate": "2026-10-28",
+    "catalogVersion": "0.7.9",
+    "catalogDate": "2026-11-04",
     "download": {
-     "label": "Pocket 0.7.8",
-     "url": "https://github.com/zenibako/butterscotch-pocket/releases/download/v0.7.8/butterscotch-pocket.zip"
+     "label": "Pocket 0.7.9",
+     "url": "https://github.com/zenibako/butterscotch-pocket/releases/download/v0.7.9/butterscotch-pocket.zip"
     },
     "links": [
      {
@@ -90296,11 +90646,11 @@
     "targets": [
      "Analogue Pocket"
     ],
-    "catalogVersion": "0.0.36",
-    "catalogDate": "2026-10-28",
+    "catalogVersion": "0.1.0",
+    "catalogDate": "2026-11-04",
     "download": {
-     "label": "Pocket 0.0.36",
-     "url": "https://github.com/zenibako/pico8pocket/releases/download/v0.0.36/pico8pocket-v0.0.36.zip"
+     "label": "Pocket 0.1.0",
+     "url": "https://github.com/zenibako/pico8pocket/releases/download/v0.1.0/pico8pocket-v0.1.0.zip"
     },
     "links": [
      {
