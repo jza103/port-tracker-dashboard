@@ -1,6 +1,164 @@
 {
  "articles": [
   {
+   "title": "Ghost Squad Evolution Arcade VR Performance / New Meta Quest Standalone VR Mod / Meta Quest 3",
+   "url": "https://www.youtube.com/watch?v=RVbUmSJudeo",
+   "date": "2026-11-05T12:00:15.000Z",
+   "source": "YouTube: NotAGameAddict",
+   "outlet": "YouTube: NotAGameAddict",
+   "summary": "00:12 - VR settings 01:31 - VR gameplay lindbergh-recomp-ports - https://github.com/lialan/lindbergh-recomp-ports Totally optional: https://buymeacoffee.com/notagameaddict",
+   "image": "https://i3.ytimg.com/vi/RVbUmSJudeo/hqdefault.jpg",
+   "text": "Ghost Squad Evolution Arcade VR Performance / New Meta Quest Standalone VR Mod / Meta Quest 3 00:12 - VR settings 01:31 - VR gameplay lindbergh-recomp-ports - https://github.com/lialan/lindbergh-recomp-ports Totally optional: https://buymeacoffee.com/notagameaddict",
+   "repos": [
+    "github:lialan/lindbergh-recomp-ports"
+   ],
+   "firstSeen": "2026-11-05T12:33:40.140Z"
+  },
+  {
+   "title": "NVIDIA DLSS 5 Gives Astral Chain’s Native PC Port Richer Textures and Moodier Lighting, as PlatinumGames’ Switch Exclusive Starts Looking Like a Remaster",
+   "url": "https://wccftech.com/nvidia-dlss-5-astral-chain-pc-port-richer-textures-platinumgames-remaster/",
+   "date": "2026-11-05T11:35:10.000Z",
+   "source": "Wccftech",
+   "outlet": "Wccftech",
+   "summary": "Once NVIDIA DLSS 5 neural rendering was officially released in September, many have experimented with the technology to see how far it could be pushed. While it delivers the best results in games with realistic aesthetics such as Kingdom Come: Deliverance II and the upcoming Grand Theft Auto VI, we have also seen how it can work on games with different art styles, such as the classic Super Smash B",
+   "image": "https://cdn.wccftech.com/wp-content/uploads/2026/11/Astral-Chain-NVIDIA-DLSS-5-Remaster-1456x829.jpg",
+   "text": "NVIDIA DLSS 5 Gives Astral Chain’s Native PC Port Richer Textures and Moodier Lighting, as PlatinumGames’ Switch Exclusive Starts Looking Like a Remaster Once NVIDIA DLSS 5 neural rendering was officially released in September, many have experimented with the technology to see how far it could be pushed. While it delivers the best results in games with realistic aesthetics such as Kingdom Come: Deliverance II and the upcoming Grand Theft Auto VI, we have also seen how it can work on games with different art styles, such as the classic Super Smash Bros. Melee and the Switch 2 exclusive Mario Kart World. And in Astral Chain, NVIDIA's technology propels its native PC port into remaster territory. A new video shared on YouTube by [&hellip;] Read full article at https://wccftech.com/nvidia-dlss-5-astral-chain-pc-port-richer-textures-platinumgames-remaster/",
+   "repos": [],
+   "firstSeen": "2026-11-05T12:33:40.140Z"
+  },
+  {
+   "title": "NVIDIA DLSS 5 Gives Astral Chain’s Native PC Port Richer Textures and Moodier Lighting, as PlatinumGames’ Switch Exclusive Starts Looking Like a Remaster",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaTZhcEJKNnJnUy1KNXBYZ1dwWTVQakRlOURZUGlTUFY5c3JBMnBYOUZGLVlZTjRWWjNyZDZnOFZIU2hndEdOWlNGRHhsY0tLV2pNOWNrZTZLZTlNV1l0eUdiajQwVklhMjBNdHVpY0ZWbU01a1lyaldFR0xpX3BQMFhCRGk3V2w2YTdzb3BJSDVsVG5KQVUzbnc2RdIBoAFBVV95cUxNc3FQSEdYYjV2aVNydFh2Q2ZTdk5lYlRzRURjb2pnUGxKX0lVZWN1RTZnVFVfRk5pTGwzWEtVdzdfRXRpWTAtaVFOWkFoV2ljc3l1MnczdnpYYmM1VzVfTnpHX0lQYVhxLUtuc29LRGtsYnpuTkJGamlJUEFPZGRVbUhmMXBlMHNfOHd5UHFKVmx3UEI3QUZGd2ZkOExhamFX?oc=5",
+   "date": "2026-11-05T11:35:10.000Z",
+   "source": "Google News",
+   "outlet": "Wccftech",
+   "summary": "",
+   "image": null,
+   "text": "NVIDIA DLSS 5 Gives Astral Chain’s Native PC Port Richer Textures and Moodier Lighting, as PlatinumGames’ Switch Exclusive Starts Looking Like a Remaster - Wccftech NVIDIA DLSS 5 Gives Astral Chain’s Native PC Port Richer Textures and Moodier Lighting, as PlatinumGames’ Switch Exclusive Starts Looking Like a Remaster Wccftech",
+   "repos": [],
+   "firstSeen": "2026-11-05T12:33:40.140Z"
+  },
+  {
+   "title": "Anthropic loosens Claude's game cloning ban — AI will now offer to build original games in the requested genre",
+   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-loosens-game-restrictions-claude-will-now-offer-to-build-original-game-in-same-genre-if-asked-to-copy",
+   "date": "2026-11-05T11:00:00.000Z",
+   "source": "Tom's Hardware",
+   "outlet": "Tom's Hardware",
+   "summary": "The update is expected to reduce false positives and allow game developers to use the tool for their own legitimate projects without getting blocked.",
+   "image": "https://cdn.mos.cms.futurecdn.net/Kc5XZJfVxj3uECzne3uBJ3-1920-80.jpg",
+   "text": "Anthropic loosens Claude's game cloning ban — AI will now offer to build original games in the requested genre The explosion of cloning and reverse-engineering games with AI has forced Anthropic to completely block its AI tools from executing these tasks. However, this has also negatively impacted game developers, who have started complaining that they can no longer use the tool for their own legitimate purposes . The Anthropic team has updated the rule so that Claude will now offer to build an original game in the same genre when asked to copy an existing one, according to an X post by technical staff member Addy Osmani. Go deeper with TH Premium: AI and data centers (Image credit: Microsoft) The data center cooling state of play The custom AI ASIC state of play America’s AI chip rules keep changing — and the rest of the world is paying the price GTC 2026: Ian Buck press Q&A transcript — VP of Hyperscale and HPC speaks out on shelving CPX and shipping LPU decode this year Demand for data center CPUs has surged, and AI agents are responsible \"Last week some of you ran into Claude Code pushing back on game projects it should have just built. We'd added a short rule to the Opus 5.5 prompt to steer Claude away from recreating specific existing games, but it was also kicking in when you referenced one just to describe the mechanics you wanted,\" Osmani wrote. \"We've updated that rule in 2.1.317. You can name a game to describe what you want, and Claude should now build an original",
+   "repos": [],
+   "firstSeen": "2026-11-05T12:33:40.140Z"
+  },
+  {
+   "title": "I am the BEST Titanfall 2 VR Player in the World.",
+   "url": "https://www.youtube.com/shorts/E03EwdHttOo",
+   "date": "2026-11-05T09:31:33.000Z",
+   "source": "YouTube: VR DaD",
+   "outlet": "YouTube: VR DaD",
+   "summary": "They say confidence is key... but my Titanfall 2 VR multiplayer skills say otherwise! In this video, I take on CircuitLord’s incredible Titanfall 2 VR Multiplayer Beta, claiming to be the ultimate VR god while failing miserably at literally every single mechanic—from wall-running into solid steel to getting blown up inside my Titan in under 4 seconds. Whether you're a seasoned pilot or just here t",
+   "image": "https://i2.ytimg.com/vi/E03EwdHttOo/hqdefault.jpg",
+   "text": "I am the BEST Titanfall 2 VR Player in the World. They say confidence is key... but my Titanfall 2 VR multiplayer skills say otherwise! In this video, I take on CircuitLord’s incredible Titanfall 2 VR Multiplayer Beta, claiming to be the ultimate VR god while failing miserably at literally every single mechanic—from wall-running into solid steel to getting blown up inside my Titan in under 4 seconds. Whether you're a seasoned pilot or just here to watch me destroy my own KD ratio, this mod is an absolute blast to play! 👇 JOIN THE COMMUNITY 👇 💬 Discord: https://discord.gg/S2hpcXasER 💖 Support the channel by becoming a Member: https://www.youtube.com/channel/UCk3kCEYhdR6mJX1wsaYPsOw/join 🌐 Subreddit: r/PCVR 📌 Links: 🔗 [DISCOUNT LINK VR DAD – bHaptics] (https://bhaptics.com/referral/eq9YmCnA5b) 🔗 Titanfall 2 VR Mod (CircuitLord): https://github.com/CircuitLord/CircuitLordVRModInstaller What’s your worst VR gaming fail? Let me know in the comments below! 👍 Like & Subscribe for more no-nonsense PCVR coverage, VR mods, and comedy breakdowns! Ciao! #Titanfall2 #PCVR #VRGaming #Shorts #Titanfall2VR #MetaQuest3 #VRFail #Flat2VR",
+   "repos": [
+    "github:CircuitLord/CircuitLordVRModInstaller"
+   ],
+   "firstSeen": "2026-11-05T12:33:40.140Z"
+  },
+  {
+   "title": "Crysis Warhead VR Performance / New VR Mod with 6DOF Motion Controls / Quest 3 + RTX 4080 Super",
+   "url": "https://www.youtube.com/watch?v=WQo_c7Uh02Y",
+   "date": "2026-11-05T09:20:09.000Z",
+   "source": "YouTube: NotAGameAddict",
+   "outlet": "YouTube: NotAGameAddict",
+   "summary": "00:00 - VR settings 02:26 - Cutscene 03:19 - VR gameplay 09:21 - VR gameplay with FPS overlay Crysis Warhead VR mod is made by Discord user PC-Genie - https://discordapp.com/channels/747967102895390741/1567495411260858409 Crysis Warhead - https://store.steampowered.com/app/17330/Crysis_Warhead/ Totally optional: https://buymeacoffee.com/notagameaddict",
+   "image": "https://i4.ytimg.com/vi/WQo_c7Uh02Y/hqdefault.jpg",
+   "text": "Crysis Warhead VR Performance / New VR Mod with 6DOF Motion Controls / Quest 3 + RTX 4080 Super 00:00 - VR settings 02:26 - Cutscene 03:19 - VR gameplay 09:21 - VR gameplay with FPS overlay Crysis Warhead VR mod is made by Discord user PC-Genie - https://discordapp.com/channels/747967102895390741/1567495411260858409 Crysis Warhead - https://store.steampowered.com/app/17330/Crysis_Warhead/ Totally optional: https://buymeacoffee.com/notagameaddict",
+   "repos": [],
+   "firstSeen": "2026-11-05T12:33:40.140Z"
+  },
+  {
+   "title": "You Deliver More Than The Mail in Lake VR Mod - 1st or 3rd Person, Native Stereo, Head-Tracking",
+   "url": "https://www.youtube.com/watch?v=vNmvgIJKSGg",
+   "date": "2026-11-05T04:53:38.000Z",
+   "source": "YouTube: FastLawyer",
+   "outlet": "YouTube: FastLawyer",
+   "summary": "I bought this game! Lake is a narrative-driven adventure game / slice of life walking simulator. Lake can now be played in virtual reality with the FREE VR Mod from King EJ! Played on the Meta Quest 3 using Virtual Desktop on my RTX 5090. You can purchase game on Steam here: https://store.steampowered.com/app/1118240/Lake/ FREE VR mod from King EJ here: https://github.com/King-EJ/Lake-Lake---Seaso",
+   "image": "https://i3.ytimg.com/vi/vNmvgIJKSGg/hqdefault.jpg",
+   "text": "You Deliver More Than The Mail in Lake VR Mod - 1st or 3rd Person, Native Stereo, Head-Tracking I bought this game! Lake is a narrative-driven adventure game / slice of life walking simulator. Lake can now be played in virtual reality with the FREE VR Mod from King EJ! Played on the Meta Quest 3 using Virtual Desktop on my RTX 5090. You can purchase game on Steam here: https://store.steampowered.com/app/1118240/Lake/ FREE VR mod from King EJ here: https://github.com/King-EJ/Lake-Lake---Season-s-Greetings-VR Please support King EJ @K1ngGamer24 by joining his YouTube channel here: https://www.youtube.com/@UCrZzZmyrX6kD41umpn4xd6w",
+   "repos": [
+    "github:King-EJ/Lake-Lake---Season-s-Greetings-VR"
+   ],
+   "firstSeen": "2026-11-05T12:33:40.140Z"
+  },
+  {
+   "title": "Castlevania: Grimoire of Souls PC Port Out NOW! From Delisted to PC",
+   "url": "https://www.youtube.com/watch?v=RqeFP7_jAYM",
+   "date": "2026-11-05T02:00:05.000Z",
+   "source": "YouTube: Video Game Esoterica",
+   "outlet": "YouTube: Video Game Esoterica",
+   "summary": "SUPPORT THE CHANNEL : http://www.patreon.com/VideoGameEsoterica Fresh off yesterday's Castlevania: Symphony of the Night Ultimate release...we have Castlevania: Grimoire of Souls PC port to talk about! The Apple Arcade Castlevania exclusive that was delisted...now gets a PC port! and a new Castlevania game? Yes please! Because the Symphony of the Night recomp isn't enough! Check it out: https://gi",
+   "image": "https://i3.ytimg.com/vi/RqeFP7_jAYM/hqdefault.jpg",
+   "text": "Castlevania: Grimoire of Souls PC Port Out NOW! From Delisted to PC SUPPORT THE CHANNEL : http://www.patreon.com/VideoGameEsoterica Fresh off yesterday's Castlevania: Symphony of the Night Ultimate release...we have Castlevania: Grimoire of Souls PC port to talk about! The Apple Arcade Castlevania exclusive that was delisted...now gets a PC port! and a new Castlevania game? Yes please! Because the Symphony of the Night recomp isn't enough! Check it out: https://github.com/BLSNCVS/Castlevania-Grimoire-of-Souls-Recomp Join the recomps Discord: https://discord.gg/QYDhTBVV9 Questions? Comments? Just leave them below and I will do my best to answer each and every one of them! http://www.patreon.com/VideoGameEsoterica VGE",
+   "repos": [
+    "github:BLSNCVS/Castlevania-Grimoire-of-Souls-Recomp"
+   ],
+   "firstSeen": "2026-11-05T12:33:40.140Z"
+  },
+  {
+   "title": "Call of Duty 2 VR Performance / New VR Mod with 6DOF Motion Controls / Quest 3 + RTX 4080 Super",
+   "url": "https://www.youtube.com/watch?v=CBeMsUOV6b8",
+   "date": "2026-11-05T00:16:49.000Z",
+   "source": "YouTube: NotAGameAddict",
+   "outlet": "YouTube: NotAGameAddict",
+   "summary": "00:00 - VR gameplay 05:38 - VR gameplay with FPS overlay 14:25 - VR launcher overview Call of Duty 2 VR was made by Lambda-gab - https://github.com/lambda-gab/cod2-vr Call of Duty 2 - https://store.steampowered.com/app/2630/Call_of_Duty_2/ Totally optional: https://buymeacoffee.com/notagameaddict",
+   "image": "https://i4.ytimg.com/vi/CBeMsUOV6b8/hqdefault.jpg",
+   "text": "Call of Duty 2 VR Performance / New VR Mod with 6DOF Motion Controls / Quest 3 + RTX 4080 Super 00:00 - VR gameplay 05:38 - VR gameplay with FPS overlay 14:25 - VR launcher overview Call of Duty 2 VR was made by Lambda-gab - https://github.com/lambda-gab/cod2-vr Call of Duty 2 - https://store.steampowered.com/app/2630/Call_of_Duty_2/ Totally optional: https://buymeacoffee.com/notagameaddict",
+   "repos": [
+    "github:lambda-gab/cod2-vr"
+   ],
+   "firstSeen": "2026-11-05T12:33:40.140Z"
+  },
+  {
+   "title": "Demon's Souls PS3 Recomp Out NOW! More PS3 Recomps",
+   "url": "https://www.youtube.com/watch?v=Za6DRdpx7QU",
+   "date": "2026-11-04T22:00:29.000Z",
+   "source": "YouTube: Video Game Esoterica",
+   "outlet": "YouTube: Video Game Esoterica",
+   "summary": "SUPPORT THE CHANNEL : http://www.patreon.com/VideoGameEsoterica A new Demon's Souls recomp is out now! and its an OG Demon's Souls PS3 recomp! To go along with the recent Bloodborne PC port...and getting more PS3 recomps is always a fun time! AnyPS5 has PS5 \"recomps\" covered...and we have a LOT of PS4 PC ports, but PS3 PC ports / PS3 recomps are just getting started! Check it out here: https://git",
+   "image": "https://i3.ytimg.com/vi/Za6DRdpx7QU/hqdefault.jpg",
+   "text": "Demon's Souls PS3 Recomp Out NOW! More PS3 Recomps SUPPORT THE CHANNEL : http://www.patreon.com/VideoGameEsoterica A new Demon's Souls recomp is out now! and its an OG Demon's Souls PS3 recomp! To go along with the recent Bloodborne PC port...and getting more PS3 recomps is always a fun time! AnyPS5 has PS5 \"recomps\" covered...and we have a LOT of PS4 PC ports, but PS3 PC ports / PS3 recomps are just getting started! Check it out here: https://github.com/timboat/demons-souls-recomp Questions? Comments? Just leave them below and I will do my best to answer each and every one of them! http://www.patreon.com/VideoGameEsoterica You can follow us at IG : ChicagoGameCollector , or join our Discord Server : https://discord.gg/qhsbXgK4M2",
+   "repos": [
+    "github:timboat/demons-souls-recomp"
+   ],
+   "firstSeen": "2026-11-05T12:33:40.140Z"
+  },
+  {
+   "title": "DiRT 3 Complete Edition VR + Logitech G29 Performance / New VR Mod / Quest 3 + RTX 4080 Super",
+   "url": "https://www.youtube.com/watch?v=teBi8vy12C8",
+   "date": "2026-11-04T21:20:44.000Z",
+   "source": "YouTube: NotAGameAddict",
+   "outlet": "YouTube: NotAGameAddict",
+   "summary": "00:00 - VR gameplay 05:26 - VR gameplay with FPS overlay 10:24 - Game settings 10:38 - VR launcher DiRTVR mod made by Preseznik - https://github.com/preseznik/DiRT3VR Totally optional: https://buymeacoffee.com/notagameaddict",
+   "image": "https://i1.ytimg.com/vi/teBi8vy12C8/hqdefault.jpg",
+   "text": "DiRT 3 Complete Edition VR + Logitech G29 Performance / New VR Mod / Quest 3 + RTX 4080 Super 00:00 - VR gameplay 05:26 - VR gameplay with FPS overlay 10:24 - Game settings 10:38 - VR launcher DiRTVR mod made by Preseznik - https://github.com/preseznik/DiRT3VR Totally optional: https://buymeacoffee.com/notagameaddict",
+   "repos": [
+    "github:preseznik/DiRT3VR"
+   ],
+   "firstSeen": "2026-11-05T12:33:40.140Z"
+  },
+  {
+   "title": "Daytona USA 2 Gets a PC Port, Super Mario Odyssey Recomp, Lots of MiSTer & Pocket News - 382",
+   "url": "https://www.youtube.com/watch?v=ZoH0cZJ1Bt4",
+   "date": "2026-11-04T20:00:38.000Z",
+   "source": "YouTube: Pixel Cherry Ninja",
+   "outlet": "YouTube: Pixel Cherry Ninja",
+   "summary": "Buy a FightBox Product USE CODE \"PixelCherryNinja\" for 10% OFF https://fightboxarcade.com/ EARLY ACCESS TO NEWS VIDEOS AND OTHER EXCLUSIVES https://www.youtube.com/channel/UCEozS0uaZibXKTQSu10XgSw/join https://www.patreon.com/PixelCherryNinja Buy a Octopus TR Fightstick https://www.trfightstick.com/?ref=PCN Click link then use code \"PCN\" for $25 Off Buy a Morph2K https://www.pixelfx.co/product-pag",
+   "image": "https://i3.ytimg.com/vi/ZoH0cZJ1Bt4/hqdefault.jpg",
+   "text": "Daytona USA 2 Gets a PC Port, Super Mario Odyssey Recomp, Lots of MiSTer & Pocket News - 382 Buy a FightBox Product USE CODE \"PixelCherryNinja\" for 10% OFF https://fightboxarcade.com/ EARLY ACCESS TO NEWS VIDEOS AND OTHER EXCLUSIVES https://www.youtube.com/channel/UCEozS0uaZibXKTQSu10XgSw/join https://www.patreon.com/PixelCherryNinja Buy a Octopus TR Fightstick https://www.trfightstick.com/?ref=PCN Click link then use code \"PCN\" for $25 Off Buy a Morph2K https://www.pixelfx.co/product-page/morph-2k-analog-video-scaler?ref=PCN Buy a Zaparoo product (10% off) https://shop.zaparoo.com/discount/PixelCherryNinja or just enter code \"PixelCherryNinja\" (affiliate links above) Join the Pixel Cherry Ninja Gaming Discord https://discord.gg/5W9pCy2nXa Find all the sources here https://pixelcherryninja.blogspot.com/ Special thanks to channel Patreon's Silver Ninja's - John Gillotte, Meathax, RGM, SmoMo, VimDiesel Bronze Ninja's - Alessandro Gulli, Alexander Facchini, Anime0t4ku, anthony, Bjamiork, craigpow, Curt Dittmer, Ernie D, Fizzun Dirtnap, Juan Alvarez, Keith F. Kelly, Nicholas Robertson-Muir, Niallquinn, ncc1701p, Peter Davis, Scott Dowdle, Tamariel, theypsilon, ZXFace A special Thanks to all Channel Members I Really Really Like PCN! - RGM - Random Gaming Moments https://www.youtube.com/channel/UCIm6dft7oV92-zMCn4A6g2Q I Really Like PCN! - Aleem Tayyab, Bjamiork, CryptoCSguy, IÃ±aki Etxebarria, Silent253, Terry BD, VolJoe I Like PCN! - Alphanu1, BadWolf7888, batty, Boink, Chainy, C",
+   "repos": [],
+   "firstSeen": "2026-11-05T12:33:40.140Z"
+  },
+  {
    "title": "Analogue Pocket Just Keeps Getting Better - SO MANY NEW CORES!",
    "url": "https://www.youtube.com/watch?v=BDT5YUV0LdU",
    "date": "2026-11-04T19:36:46.000Z",
@@ -39,6 +197,18 @@
     "github:CircuitLord/CircuitLordVRModInstaller"
    ],
    "firstSeen": "2026-11-04T19:55:48.147Z"
+  },
+  {
+   "title": "This Bizarre Game is Hilariously Addictive...in VR😆",
+   "url": "https://www.youtube.com/watch?v=nQBnjT0AEwc",
+   "date": "2026-11-04T18:41:56.000Z",
+   "source": "YouTube: TheReclusiveGamer",
+   "outlet": "YouTube: TheReclusiveGamer",
+   "summary": "",
+   "image": "https://i3.ytimg.com/vi/nQBnjT0AEwc/hqdefault.jpg",
+   "text": "This Bizarre Game is Hilariously Addictive...in VR😆 ",
+   "repos": [],
+   "firstSeen": "2026-11-05T12:33:40.140Z"
   },
   {
    "title": "Gears of War VR is NEXT LEVEL... VR Mods Are Out of Control!",
@@ -91,14 +261,14 @@
    "firstSeen": "2026-11-04T19:55:48.147Z"
   },
   {
-   "title": "Indiana Jones VR is out! (Indiana Jones And The Great Circle)",
+   "title": "Indiana Jones VR mod is here!",
    "url": "https://www.youtube.com/watch?v=Bk8LYc0IFgI",
    "date": "2026-11-04T14:35:15.000Z",
    "source": "YouTube: LunchAndVR",
    "outlet": "YouTube: LunchAndVR",
    "summary": "Presenting Indiana Jones And The Great Circle in VR! This mod is called Kharvox-Circle by Cactus VR, the same guy who did the Doom VR mods. The latest version supports Steam, GOG and Microsoft Store (Gamepass) versions. It has motion controls and whip swinging! The visuals are fine, it has a mono mode too. Encountered some blurry distant visuals. Controls also need a bit more finessing. It's still",
    "image": "https://i3.ytimg.com/vi/Bk8LYc0IFgI/hqdefault.jpg",
-   "text": "Indiana Jones VR is out! (Indiana Jones And The Great Circle) Presenting Indiana Jones And The Great Circle in VR! This mod is called Kharvox-Circle by Cactus VR, the same guy who did the Doom VR mods. The latest version supports Steam, GOG and Microsoft Store (Gamepass) versions. It has motion controls and whip swinging! The visuals are fine, it has a mono mode too. Encountered some blurry distant visuals. Controls also need a bit more finessing. It's still a beta work in progress, expect updates. Mod here: https://github.com/CactusVRStudios/KHARVOX-CIRCLE Support the modder by getting Cactus VR games or by donating: https://ko-fi.com/cactusvrstudios/tip For discussion & updates, join the flat2vr discord: https://www.flat2vr.com Played on Quest 3, Virtual Desktop Ultra, 90hz Indiana Jones PC Gamepass Version PC: 4090 13900K _ Thanks for coming! Appreciate you dropping by here, you're a cool person. If you want to stay around, I do all things VR & gaming related. (lunch included) Lunch's Discounts/affiliates here: https://linktr.ee/lunchandvr On this LunchAndVR YouTube Channel you'll always find the latest VR gameplay, PCVR mods, and honest virtual reality hardware reviews across the best headsets like the Meta Quest 3, Meta Quest 3S, Pimax Crystal Super, Steam Frame, and PSVR2. We dive deep into flat-to-VR modding using Praydog's UEVR injector, OpenXR, and custom 6DOF conversions for massive games like Indiana Jones and The Great Circle VR (Kharvox-Circle), DOOM VR (Kharvox:",
+   "text": "Indiana Jones VR mod is here! Presenting Indiana Jones And The Great Circle in VR! This mod is called Kharvox-Circle by Cactus VR, the same guy who did the Doom VR mods. The latest version supports Steam, GOG and Microsoft Store (Gamepass) versions. It has motion controls and whip swinging! The visuals are fine, it has a mono mode too. Encountered some blurry distant visuals. Controls also need a bit more finessing. It's still a beta work in progress, expect updates. Mod here: https://github.com/CactusVRStudios/KHARVOX-CIRCLE Support the modder by getting Cactus VR games or by donating: https://ko-fi.com/cactusvrstudios/tip For discussion & updates, join the flat2vr discord: https://www.flat2vr.com Played on Quest 3, Virtual Desktop Ultra, 90hz Indiana Jones PC Gamepass Version PC: 4090 13900K _ Thanks for coming! Appreciate you dropping by here, you're a cool person. If you want to stay around, I do all things VR & gaming related. (lunch included) Lunch's Discounts/affiliates here: https://linktr.ee/lunchandvr On this LunchAndVR YouTube Channel you'll always find the latest VR gameplay, PCVR mods, and honest virtual reality hardware reviews across the best headsets like the Meta Quest 3, Meta Quest 3S, Pimax Crystal Super, Steam Frame, and PSVR2. We dive deep into flat-to-VR modding using Praydog's UEVR injector, OpenXR, and custom 6DOF conversions for massive games like Indiana Jones and The Great Circle VR (Kharvox-Circle), DOOM VR (Kharvox:Argent), Cyberpunk 2077 VR, Tita",
    "repos": [
     "github:CactusVRStudios/KHARVOX-CIRCLE"
    ],
@@ -119,14 +289,14 @@
    "firstSeen": "2026-11-04T19:55:48.147Z"
   },
   {
-   "title": "Aces of Thunder VR Is BETTER Than Expected! (Flight Sim & Motion Rig Test)",
+   "title": "Aces of Thunder VR Is BETTER Than Expected! (Motion sim Test)",
    "url": "https://www.youtube.com/watch?v=RZCzqewhasQ",
    "date": "2026-11-04T14:00:22.000Z",
    "source": "YouTube: VR DaD",
    "outlet": "YouTube: VR DaD",
    "summary": "🔗 Get yourself a motion sim with a $200 VR Dad discount: https://shallxr.com/products/yaw-u-the-only-full-360-motion-simulator-for-flight-sims?ref=VRDaD I jumped into Ace of Thunder VR on the motion simulator rig, and honestly... it is way better than expected! In this video, we go over my first impressions while taking to the skies. We talk about the impressive visual detail inside the cockpits,",
    "image": "https://i3.ytimg.com/vi/RZCzqewhasQ/hqdefault.jpg",
-   "text": "Aces of Thunder VR Is BETTER Than Expected! (Flight Sim & Motion Rig Test) 🔗 Get yourself a motion sim with a $200 VR Dad discount: https://shallxr.com/products/yaw-u-the-only-full-360-motion-simulator-for-flight-sims?ref=VRDaD I jumped into Ace of Thunder VR on the motion simulator rig, and honestly... it is way better than expected! In this video, we go over my first impressions while taking to the skies. We talk about the impressive visual detail inside the cockpits, the flight mechanics, and just how insanely satisfying—and challenging—it is to line up kills with zero automated targeting systems. When you land a shot relying purely on your own sightlines and physical tracking, the reward is unmatched. If you love WW2/classic dogfighting and high-immersion flight combat in VR, this game definitely deserves a look. 🎮 What You’ll See in This Video: First impressions & flight handling inside the motion simulator Cockpit visual detail & environmental graphics test Manual aiming combat & dogfight mechanics breakdown Final thoughts on immersion and physical rig integration 📌 Useful Links & Resources: 🔗 Ace of Thunder VR Game / Setup Link: https://store.steampowered.com/app/2754090/Aces_of_Thunder/ 🔗 Subreddit: r/PCVR 🔗 Discord: https://discord.gg/S2hpcXasER 💖 Support the channel by becoming a Member: https://www.youtube.com/channel/UCk3kCEYhdR6mJX1wsaYPsOw/join 💬 Join the Discussion: Do you prefer manual, skill-based gunnery in flight sims, or do you like modern lock-on ",
+   "text": "Aces of Thunder VR Is BETTER Than Expected! (Motion sim Test) 🔗 Get yourself a motion sim with a $200 VR Dad discount: https://shallxr.com/products/yaw-u-the-only-full-360-motion-simulator-for-flight-sims?ref=VRDaD I jumped into Ace of Thunder VR on the motion simulator rig, and honestly... it is way better than expected! In this video, we go over my first impressions while taking to the skies. We talk about the impressive visual detail inside the cockpits, the flight mechanics, and just how insanely satisfying—and challenging—it is to line up kills with zero automated targeting systems. When you land a shot relying purely on your own sightlines and physical tracking, the reward is unmatched. If you love WW2/classic dogfighting and high-immersion flight combat in VR, this game definitely deserves a look. 🎮 What You’ll See in This Video: First impressions & flight handling inside the motion simulator Cockpit visual detail & environmental graphics test Manual aiming combat & dogfight mechanics breakdown Final thoughts on immersion and physical rig integration 📌 Useful Links & Resources: 🔗 Ace of Thunder VR Game / Setup Link: https://store.steampowered.com/app/2754090/Aces_of_Thunder/ 🔗 Subreddit: r/PCVR 🔗 Discord: https://discord.gg/S2hpcXasER 💖 Support the channel by becoming a Member: https://www.youtube.com/channel/UCk3kCEYhdR6mJX1wsaYPsOw/join 💬 Join the Discussion: Do you prefer manual, skill-based gunnery in flight sims, or do you like modern lock-on targeting sys",
    "repos": [],
    "firstSeen": "2026-11-04T19:55:48.147Z"
   },
@@ -647,14 +817,14 @@
    "firstSeen": "2026-11-02T18:34:06.476Z"
   },
   {
-   "title": "Elden Ring VR: ERVR Mod Update",
+   "title": "Elden Ring VR: ERVR Mod Update (Alpha)",
    "url": "https://www.youtube.com/watch?v=iFz5bZTooWk",
    "date": "2026-11-02T15:30:00.000Z",
    "source": "YouTube: LunchAndVR",
    "outlet": "YouTube: LunchAndVR",
    "summary": "Elden Ring's VR Mod ERVR finally has an update after a long time, we now have weapon wheels! Motion controls and combat is better (no more weird penalty system), visually stereo looks better too. It also works crossplay in multiplayer with flatscreen or VR players. Mod still has a long way to go, but glad Ilya is working on it again. Important note: Offline or Seamless Co-op only. ERVR runs with E",
    "image": "https://i2.ytimg.com/vi/iFz5bZTooWk/hqdefault.jpg",
-   "text": "Elden Ring VR: ERVR Mod Update Elden Ring's VR Mod ERVR finally has an update after a long time, we now have weapon wheels! Motion controls and combat is better (no more weird penalty system), visually stereo looks better too. It also works crossplay in multiplayer with flatscreen or VR players. Mod still has a long way to go, but glad Ilya is working on it again. Important note: Offline or Seamless Co-op only. ERVR runs with Easy Anti-Cheat off, and the launcher starts the game that way. Never use it with EAC on or in FromSoftware's online play: that risks a ban on your account. Elden Ring Version 1.16.2, 1.17.1 or 1.17.2 Mod also has an installer now: https://github.com/IlyaMez/EldenringVR Played on Quest 3, Virtual Desktop Ultra 90hz Game res: 75%, Graphics Medium PC: 4090 13900k _ Thanks for coming! Appreciate you dropping by here, you're a cool person. If you want to stay around, I do all things VR & gaming related. (lunch included) Lunch's Discounts/affiliates here: https://linktr.ee/lunchandvr On this LunchAndVR YouTube Channel you'll always find the latest VR gameplay, PCVR mods, and honest virtual reality hardware reviews across the best headsets like the Meta Quest 3, Meta Quest 3S, Pimax Crystal Super, Steam Frame, and PSVR2. We dive deep into flat-to-VR modding using Praydog's UEVR injector, OpenXR, and custom 6DOF conversions for massive games like Elden Ring VR (ERVR Update by IlyaMez), Cyberpunk 2077 VR, Titanfall 2 VR, Bodycam VR, DOOM VR, Gunman Contracts, Re",
+   "text": "Elden Ring VR: ERVR Mod Update (Alpha) Elden Ring's VR Mod ERVR finally has an update after a long time, we now have weapon wheels! Motion controls and combat is better (no more weird penalty system), visually stereo looks better too. It also works crossplay in multiplayer with flatscreen or VR players. Mod still has a long way to go, but glad Ilya is working on it again. Important note: Offline or Seamless Co-op only. ERVR runs with Easy Anti-Cheat off, and the launcher starts the game that way. Never use it with EAC on or in FromSoftware's online play: that risks a ban on your account. Elden Ring Version 1.16.2, 1.17.1 or 1.17.2 Mod also has an installer now: https://github.com/IlyaMez/EldenringVR Played on Quest 3, Virtual Desktop Ultra 90hz Game res: 75%, Graphics Medium PC: 4090 13900k _ Thanks for coming! Appreciate you dropping by here, you're a cool person. If you want to stay around, I do all things VR & gaming related. (lunch included) Lunch's Discounts/affiliates here: https://linktr.ee/lunchandvr On this LunchAndVR YouTube Channel you'll always find the latest VR gameplay, PCVR mods, and honest virtual reality hardware reviews across the best headsets like the Meta Quest 3, Meta Quest 3S, Pimax Crystal Super, Steam Frame, and PSVR2. We dive deep into flat-to-VR modding using Praydog's UEVR injector, OpenXR, and custom 6DOF conversions for massive games like Elden Ring VR (ERVR Update by IlyaMez), Cyberpunk 2077 VR, Titanfall 2 VR, Bodycam VR, DOOM VR, Gunman Contr",
    "repos": [
     "github:IlyaMez/EldenringVR"
    ],
