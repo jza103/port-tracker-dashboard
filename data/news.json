@@ -1,6 +1,163 @@
 {
  "articles": [
   {
+   "title": "The BEST VR Mod for Gears Of War: E-Day! #MotionControls #6Dof #Roomscale",
+   "url": "https://www.youtube.com/watch?v=sVk0bKdImUw",
+   "date": "2026-11-06T21:30:08.000Z",
+   "source": "YouTube: Paradise Decay",
+   "outlet": "YouTube: Paradise Decay",
+   "summary": "►Get the Mod for FREE here: https://github.com/paultaran00/GoWEDay-VR ►PayPal (Buy me a coffee!): paradisedecay@virginmedia.com ►Patreon: https://www.patreon.com/ParadiseDecay ►Discord: https://discordapp.com/invite/hBgUqYD ►PD Steam Curator Group: http://store.steampowered.com/curator/6659922-Paradise-Decay-Game-Reviews/ ----------------------------------------------------------------------------",
+   "image": "https://i4.ytimg.com/vi/sVk0bKdImUw/hqdefault.jpg",
+   "text": "The BEST VR Mod for Gears Of War: E-Day! #MotionControls #6Dof #Roomscale ►Get the Mod for FREE here: https://github.com/paultaran00/GoWEDay-VR ►PayPal (Buy me a coffee!): paradisedecay@virginmedia.com ►Patreon: https://www.patreon.com/ParadiseDecay ►Discord: https://discordapp.com/invite/hBgUqYD ►PD Steam Curator Group: http://store.steampowered.com/curator/6659922-Paradise-Decay-Game-Reviews/ --------------------------------------------------------------------------------------------- ☆ MY PC Specs: https://www.scan.co.uk/products/3xs-edge-rtx-intel-core-ultra-9-285k-32gb-ddr5-16gb-nvidia-rtx-5080-2tb-ssd-win-11? ☆ My Dedicated Router: https://www.amazon.co.uk/dp/B0B42GCD76?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_1&th=1 ☆ Meta Quest 3 ☆ GeForce RTX 5080 ☆ Windows 11, 64 bit ☆ Intel(R) Core(TM) Ultra 9 285K 3.70 GHz ☆ 32.0GB Ram #gearsofwar #gearsofwareday #vr #VRMod #Quest3 #QuestCreatorPartner #quest3s #metaquest #metaquest3 #metaquest3s #quest3games #roomscale #steam #NativeVR #steamvr #Quest3 #valve #uevr #3rdperson #shootergames #actionshooter #gow #vrmods #GearsOfWar --------------------------------------------------------------- Thank you for watching the video! Please leave a 👍 Subscribe if you enjoy VR & hit the 🔔 🎵 - My NEW Digital Album 'Ai2': https://paradisedecay.bandcamp.com/album/ai2 👀➦ PayPal (Buy me a coffee!): paradisedecay@virginmedia.com 👾Patreon - https://www.patreon.com/ParadiseDecayTM 👕 PD Merch - https://paradise-decay-merch-shop.myspreadshop",
+   "repos": [
+    "github:paultaran00/GoWEDay-VR"
+   ],
+   "firstSeen": "2026-11-06T21:38:46.246Z"
+  },
+  {
+   "title": "MousePods Reverse Engineers Head Tracking Data From Stubborn AirPods",
+   "url": "https://hackaday.com/2026/11/06/mousepods-reverse-engineers-head-tracking-data-from-stubborn-airpods/",
+   "date": "2026-11-06T21:00:14.000Z",
+   "source": "Hackaday",
+   "outlet": "Hackaday",
+   "summary": "[Matteo Gaudioso] released MousePods, a Python tool which accesses the motion sensors in Apple AirPods on Linux, turning them into mouse input. No Apple host required. Doing this required reverse-engineering …read more",
+   "image": "https://hackaday.com/wp-content/uploads/2026/11/MousePods-anim-optimized.gif",
+   "text": "MousePods Reverse Engineers Head Tracking Data From Stubborn AirPods [Matteo Gaudioso] released MousePods , a Python tool which accesses the motion sensors in Apple AirPods on Linux, turning them into mouse input. No Apple host required. Doing this required reverse-engineering how the devices work and communicate, because it turns out the AirPods 3 do things differently than other models. Everything runs in a single Linux app, no Apple host involved. Head tracking with AirPods has been around for years. Apple uses the motion data for spatial audio and gesture detection, and there are a number of open source tools to access that data. But there was always a blind spot: no one could figure out how to talk to the AirPods 3. [Matteo] enlisted the help of Claude Code in digging out what was different, and found Claude pretty useful for running hundreds of probes and tests to the AirPods to eventually tease out what was going on, among other things. The findings are nicely summarized here . One interesting one is how the sensor data was indirectly hidden by the fact that on Linux the default MTU (Maximum Transmission Unit) is too small to hold the whole payload complete with motion sensors. Once the Linux MTU is increased to match the considerably larger iOS default, everything appears. There's one other feature we like: the ability to send the data to opentrack to use as head tracking input to things like flying or racing simulators. We've seen this done with flight sims using hea",
+   "repos": [
+    "github:starman-tech/mousepods",
+    "github:opentrack/opentrack"
+   ],
+   "firstSeen": "2026-11-06T21:38:46.246Z"
+  },
+  {
+   "title": "Metro Exodus VR Mod Is FINALLY Here!",
+   "url": "https://www.youtube.com/watch?v=8fqrfrd4S4c",
+   "date": "2026-11-06T20:26:24.000Z",
+   "source": "YouTube: VR DaD",
+   "outlet": "YouTube: VR DaD",
+   "summary": "The atmospheric post-apocalyptic wasteland of Metro Exodus in full 6DOF Virtual Reality is an absolute game-changer! In this video, we break down all the core features and mechanics brought to life by this incredible mod. From physical weapon handling and manual gas mask filters to immersive crafting, stealth, and exploring the Russian wilderness up close in the headset—this is hands-down one of t",
+   "image": "https://i1.ytimg.com/vi/8fqrfrd4S4c/hqdefault.jpg",
+   "text": "Metro Exodus VR Mod Is FINALLY Here! The atmospheric post-apocalyptic wasteland of Metro Exodus in full 6DOF Virtual Reality is an absolute game-changer! In this video, we break down all the core features and mechanics brought to life by this incredible mod. From physical weapon handling and manual gas mask filters to immersive crafting, stealth, and exploring the Russian wilderness up close in the headset—this is hands-down one of the most intense flat-to-VR experiences yet. Let's dive into how all the survival mechanics hold up inside VR and what makes this mod a must-play for PCVR enthusiasts! 🎮 What You’ll See in This Video: Detailed breakdown of the Metro Exodus VR mod features Motion control implementation & manual interaction overview Gas mask, filtering, and survival mechanic testing Atmospheric visual immersion & combat showcase Final verdict on the current state of the mod 📌 Useful Links & Resources: 🔗 Metro Exodus VR Mod Download: https://github.com/RippeR37/MetroExodusVR 🔗 Subreddit: r/PCVR 🔗 Discord: https://discord.gg/S2hpcXasER 💖 Support the channel by becoming a Member: https://www.youtube.com/channel/UCk3kCEYhdR6mJX1wsaYPsOw/join 💬 Join the Discussion: How long do you think you’d last in the Metro universe without panicking? Let me know in the comments below! 👍 Like & Subscribe for more no-nonsense PCVR benchmarks, VR mods, and immersive walkthroughs! Ciao! ⏱️ Timestamps: 00:00 - Intro: Metro Exodus in Full 6DOF VR 00:30 - Main Mod features and intera",
+   "repos": [
+    "github:RippeR37/MetroExodusVR"
+   ],
+   "firstSeen": "2026-11-06T21:38:46.246Z"
+  },
+  {
+   "title": "NDS Analogue Pocket, NS2 Emu/Recomps, Street Fighter Alpha 3 Upper on CPS2, MiSTer Stuff - 384",
+   "url": "https://www.youtube.com/watch?v=L__DB25Yk40",
+   "date": "2026-11-06T20:00:12.000Z",
+   "source": "YouTube: Pixel Cherry Ninja",
+   "outlet": "YouTube: Pixel Cherry Ninja",
+   "summary": "USE CODE \"PixelCherryNinja\" for 10% OFF https://fightboxarcade.com/ EARLY ACCESS TO NEWS VIDEOS AND OTHER EXCLUSIVES https://www.youtube.com/channel/UCEozS0uaZibXKTQSu10XgSw/join https://www.patreon.com/PixelCherryNinja Buy a Octopus TR Fightstick https://www.trfightstick.com/?ref=PCN Click link then use code \"PCN\" for $25 Off Buy a Morph2K https://www.pixelfx.co/product-page/morph-2k-analog-video",
+   "image": "https://i1.ytimg.com/vi/L__DB25Yk40/hqdefault.jpg",
+   "text": "NDS Analogue Pocket, NS2 Emu/Recomps, Street Fighter Alpha 3 Upper on CPS2, MiSTer Stuff - 384 USE CODE \"PixelCherryNinja\" for 10% OFF https://fightboxarcade.com/ EARLY ACCESS TO NEWS VIDEOS AND OTHER EXCLUSIVES https://www.youtube.com/channel/UCEozS0uaZibXKTQSu10XgSw/join https://www.patreon.com/PixelCherryNinja Buy a Octopus TR Fightstick https://www.trfightstick.com/?ref=PCN Click link then use code \"PCN\" for $25 Off Buy a Morph2K https://www.pixelfx.co/product-page/morph-2k-analog-video-scaler?ref=PCN Buy a Zaparoo product (10% off) https://shop.zaparoo.com/discount/PixelCherryNinja or just enter code \"PixelCherryNinja\" (affiliate links above) Join the Pixel Cherry Ninja Gaming Discord https://discord.gg/5W9pCy2nXa Find all the sources here https://pixelcherryninja.blogspot.com/ Special thanks to channel Patreon's Silver Ninja's - John Gillotte, Meathax, RGM, SmoMo, VimDiesel Bronze Ninja's - Alessandro Gulli, Alexander Facchini, Anime0t4ku, anthony, Bjamiork, craigpow, Curt Dittmer, Ernie D, Fizzun Dirtnap, Juan Alvarez, Keith F. Kelly, Nicholas Robertson-Muir, Niallquinn, ncc1701p, Peter Davis, Scott Dowdle, Tamariel, theypsilon, ZXFace A special Thanks to all Channel Members I Really Really Like PCN! - RGM - Random Gaming Moments https://www.youtube.com/channel/UCIm6dft7oV92-zMCn4A6g2Q I Really Like PCN! - Aleem Tayyab, Bjamiork, CryptoCSguy, IÃ±aki Etxebarria, Silent253, Terry BD, VolJoe I Like PCN! - Alphanu1, BadWolf7888, batty, Boink, Chainy, CursedToast, David Hen",
+   "repos": [],
+   "firstSeen": "2026-11-06T21:38:46.246Z"
+  },
+  {
+   "title": "Grand Theft Auto IV VR / New VR Mod With Updated Quest Bindings / Manual Reloading and Steering",
+   "url": "https://www.youtube.com/watch?v=5aNJ-CihoG8",
+   "date": "2026-11-06T19:44:39.000Z",
+   "source": "YouTube: NotAGameAddict",
+   "outlet": "YouTube: NotAGameAddict",
+   "summary": "00:00 - Game and VR settings 00:35 - VR gameplay with FPS overlay 06:09 - Manual steering 09:08 - Manual reloading GTA4VR mod made Bordplate - https://github.com/bordplate/GTA4VR Grand Theft Auto IV: The Complete Edition - https://store.steampowered.com/app/12210/Grand_Theft_Auto_IV_The_Complete_Edition/ Totally optional: https://buymeacoffee.com/notagameaddict",
+   "image": "https://i2.ytimg.com/vi/5aNJ-CihoG8/hqdefault.jpg",
+   "text": "Grand Theft Auto IV VR / New VR Mod With Updated Quest Bindings / Manual Reloading and Steering 00:00 - Game and VR settings 00:35 - VR gameplay with FPS overlay 06:09 - Manual steering 09:08 - Manual reloading GTA4VR mod made Bordplate - https://github.com/bordplate/GTA4VR Grand Theft Auto IV: The Complete Edition - https://store.steampowered.com/app/12210/Grand_Theft_Auto_IV_The_Complete_Edition/ Totally optional: https://buymeacoffee.com/notagameaddict",
+   "repos": [
+    "github:bordplate/GTA4VR"
+   ],
+   "firstSeen": "2026-11-06T21:38:46.246Z"
+  },
+  {
+   "title": "I Played Metro Exodus VR and It's Seriously Impressive",
+   "url": "https://www.youtube.com/watch?v=StIWxMHDF_I",
+   "date": "2026-11-06T19:10:50.000Z",
+   "source": "YouTube: Gamertag VR",
+   "outlet": "YouTube: Gamertag VR",
+   "summary": "Metro Exodus VR is looking absolutely incredible! I've been playing the upcoming PCVR mod from RippeR37, and honestly, the visuals, performance and VR mechanics have seriously impressed me. This isn't just Metro Exodus with a VR camera. We're talking full motion controls, physical weapon handling, manual reloading, interactive environments and proper 6DoF VR gameplay. But it's not perfect. The gam",
+   "image": "https://i4.ytimg.com/vi/StIWxMHDF_I/hqdefault.jpg",
+   "text": "I Played Metro Exodus VR and It's Seriously Impressive Metro Exodus VR is looking absolutely incredible! I've been playing the upcoming PCVR mod from RippeR37, and honestly, the visuals, performance and VR mechanics have seriously impressed me. This isn't just Metro Exodus with a VR camera. We're talking full motion controls, physical weapon handling, manual reloading, interactive environments and proper 6DoF VR gameplay. But it's not perfect. The game has a lot of cutscenes, and I've encountered a few technical issues, including freezing when a VR controller disconnects. So how good is Metro Exodus in VR, and could this become one of the best VR mods we've seen? METRO EXODUS VR MOD LINKS Mod developer & project updates: https://buymeacoffee.com/ripper37 Flat2VR Modding Discord: https://discord.gg/RgSnyuZExb Find the Metro Exodus VR mod thread in #new-vr-mods for updates and discussion. *The mod is still in development, with no confirmed public download date.* ⭐️How To Support The Channel and my Content: ⭐️Become a YouTube channel member with exclusive benefits: https://www.youtube.com/channel/UCnrAvt4i_2WV3yEKWyEUMlg/join ⭐️Sign up as aPatron with exclusive benefits: https://www.patreon.com/c/GamertagVR ⭐️Save 10% on all Meta Quest Games by using code ‘GTVR’ at the checkout ⭐️Grab some prescription lenses for your VR headsets Vr Rock and save 10% using code 'GTVR' https://www.vr-rock.com/?ref=gamertagvr ⭐️GFuel Energy and using my code 'GTVR' to save 20% on all your purchase",
+   "repos": [],
+   "firstSeen": "2026-11-06T21:38:46.246Z"
+  },
+  {
+   "title": "Turok 2: Seeds of Evil VR Performance / New VR Mod with 6DOF Motion Controls / Quest 3 + PCVR",
+   "url": "https://www.youtube.com/watch?v=DzYIzA8XIRY",
+   "date": "2026-11-06T17:13:47.000Z",
+   "source": "YouTube: NotAGameAddict",
+   "outlet": "YouTube: NotAGameAddict",
+   "summary": "00:00 - VR options 00:58 - VR gameplay 08:53 - VR gameplay with FPS overlay Turok 2 in VR mod made by Rafapim - https://www.nexusmods.com/turok2/mods/24?tab=description Turok 2: Seeds of Evil - https://store.steampowered.com/app/405830/Turok_2_Seeds_of_Evil/",
+   "image": "https://i1.ytimg.com/vi/DzYIzA8XIRY/hqdefault.jpg",
+   "text": "Turok 2: Seeds of Evil VR Performance / New VR Mod with 6DOF Motion Controls / Quest 3 + PCVR 00:00 - VR options 00:58 - VR gameplay 08:53 - VR gameplay with FPS overlay Turok 2 in VR mod made by Rafapim - https://www.nexusmods.com/turok2/mods/24?tab=description Turok 2: Seeds of Evil - https://store.steampowered.com/app/405830/Turok_2_Seeds_of_Evil/",
+   "repos": [],
+   "firstSeen": "2026-11-06T21:38:46.246Z"
+  },
+  {
+   "title": "Finally! A GOOD Ghostbusters VR Game!",
+   "url": "https://www.youtube.com/watch?v=-Cl_mEpoBqY",
+   "date": "2026-11-06T17:00:35.000Z",
+   "source": "YouTube: Beardo Benjo",
+   "outlet": "YouTube: Beardo Benjo",
+   "summary": "Finally I can bust ghosts alongside Bill Murray thanks to a new VR mod for Ghostbusters: The Video Game Remastered, you can now jump into the iconic world of Ghostbusters in virtual reality, physically wield a proton pack, a PKE meter and face off against a whole host of spooky ghouls, including the gigantic Stay Puft Marshmallow Man and the always loveable Slimer! The official Ghostbusters VR gam",
+   "image": "https://i2.ytimg.com/vi/-Cl_mEpoBqY/hqdefault.jpg",
+   "text": "Finally! A GOOD Ghostbusters VR Game! Finally I can bust ghosts alongside Bill Murray thanks to a new VR mod for Ghostbusters: The Video Game Remastered, you can now jump into the iconic world of Ghostbusters in virtual reality, physically wield a proton pack, a PKE meter and face off against a whole host of spooky ghouls, including the gigantic Stay Puft Marshmallow Man and the always loveable Slimer! The official Ghostbusters VR game was good fun but the overly cartoonish art style and repetitive gameplay loop left fans like myself wanting something more faithful, this mod is exactly that and with some more fine tuning and updates it could be the ultimate VR Ghostbusters game. You can try this mod for yourself here: https://github.com/ObjectivismV/GBVR Join this channel to get access to perks: https://www.youtube.com/channel/UCSzUG-hFZgaKpYA6w2WS8sQ/join If you want more VR gameplay videos, VR game reviews & VR first impressions then make sure to leave a like, drop a comment down below & hit subscribe to be rewarded with a constant stream of endless content made with love and care. I release a new pure gameplay video every Monday & cover first impressions & VR horror longplays 3 to 4 times a week. All your support is appreciated & simply engaging with these videos helps me to continue improving the content I make. Follow me on Twitter here - https://twitter.com/BeardoBenjoYT #VR #MetaQuest #VRGameplay #Quest3 #PSVR2 #Quest2 #PCVR #Questcreatorpartner - Ghostbusters VR Game ",
+   "repos": [
+    "github:ObjectivismV/GBVR"
+   ],
+   "firstSeen": "2026-11-06T21:38:46.246Z"
+  },
+  {
+   "title": "When Your Foot Gets Angry #angerfoot #fps #shootergames #gaming #vr #vrmods #metaquest3 #kick",
+   "url": "https://www.youtube.com/shorts/NAMUJpaYHis",
+   "date": "2026-11-06T16:30:38.000Z",
+   "source": "YouTube: FastLawyer",
+   "outlet": "YouTube: FastLawyer",
+   "summary": "Playing Anger Foot in VR with the latest FREE VR mod on the Meta Quest 3 (PCVR).",
+   "image": "https://i3.ytimg.com/vi/NAMUJpaYHis/hqdefault.jpg",
+   "text": "When Your Foot Gets Angry #angerfoot #fps #shootergames #gaming #vr #vrmods #metaquest3 #kick Playing Anger Foot in VR with the latest FREE VR mod on the Meta Quest 3 (PCVR).",
+   "repos": [],
+   "firstSeen": "2026-11-06T21:38:46.246Z"
+  },
+  {
+   "title": "Could potential AI clones of GTA VI force a quicker official port?",
+   "url": "https://arstechnica.com/gaming/2026/11/could-potential-ai-clones-of-gta-vi-force-a-quicker-official-port/",
+   "date": "2026-11-06T16:19:12.000Z",
+   "source": "Ars Technica",
+   "outlet": "Ars Technica",
+   "summary": "A former Rockstar tech director thinks the developer is facing new time pressures.",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/gta6-1152x648.jpg",
+   "text": "Could potential AI clones of GTA VI force a quicker official port? Yesterday, when reporting on emerging efforts to pipe the console version of GTA VI through a PC's DLSS-powered Nvidia GPU , we mentioned in passing that PC players could instead just wait for the AI-assisted decompilation port that will no doubt be coming in short order. Now, a former Rockstar tech director says he thinks that exact threat could cause the developer to work faster on the official PC version of its soon-to-release crime/lifestyle simulator. Obbe Vermeij hasn't worked at Rockstar since 2009 , but in a new interview with Rock Paper Shotgun , he recalled how artists for the PC version of the original top-down Grand Theft Auto were incensed when the console version squashed the game's 256-color textures down to 16 colors for the PS1 release. \"So it always has been that sort of awkward relationship between PC and the console,\" Vermeij said. \"So in those days, it was like PC first and then console second, even though that didn't really make much sense for the sales, because the PlayStation versions sold way better.\" Read full article Comments",
+   "repos": [
+    "github:morluto/rea"
+   ],
+   "firstSeen": "2026-11-06T21:38:46.246Z"
+  },
+  {
+   "title": "GTA 6 Could Cost “Tens of Thousands Of Dollars” in Tokens To Develop Unofficial PC Port, Yet Former Rockstar Tech Director Believes It Will Be Attempted",
+   "url": "https://wccftech.com/gta-6-tens-of-thousands-dollars-tokens-unofficial-pc-port/",
+   "date": "2026-11-06T16:18:11.000Z",
+   "source": "Wccftech",
+   "outlet": "Wccftech",
+   "summary": "GTA 6, much like Grand Theft Auto 5 and Red Dead Redemption 2, will launch on PC some time after its PlayStation 5 and Xbox Series X|S launch. However, the rise of generative AI that is making it extremely easy for anyone to port games to PC or improve emulation is likely going to pressure the studio and its parent company Take-Two Interactive into releasing the game officially on PC sooner than e",
+   "image": "https://cdn.wccftech.com/wp-content/uploads/2026/11/GTA-6-PC-Port-Thousands-Of-Dollars-of-Tokens-1456x819.jpg",
+   "text": "GTA 6 Could Cost “Tens of Thousands Of Dollars” in Tokens To Develop Unofficial PC Port, Yet Former Rockstar Tech Director Believes It Will Be Attempted GTA 6, much like Grand Theft Auto 5 and Red Dead Redemption 2, will launch on PC some time after its PlayStation 5 and Xbox Series X|S launch. However, the rise of generative AI that is making it extremely easy for anyone to port games to PC or improve emulation is likely going to pressure the studio and its parent company Take-Two Interactive into releasing the game officially on PC sooner than expected, as former Rockstar North technical director Obbe Vermeij believes some will cross any hurdle to get it on PC as soon as possible, even if it would [&hellip;] Read full article at https://wccftech.com/gta-6-tens-of-thousands-dollars-tokens-unofficial-pc-port/",
+   "repos": [],
+   "firstSeen": "2026-11-06T21:38:46.246Z"
+  },
+  {
+   "title": "GTA 6 Could Cost “Tens of Thousands Of Dollars” in Tokens To Develop Unofficial PC Port, Yet Former Rockstar Tech Director Believes It Will Be Attempted",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQQ2R3U0hJZ0tLNnZHbGxMbVJqclF3Umd0Z2t4N2ktM1Raa0VJbUprWDhJdHFZV21XTkl5Qzl3T1NUbkNJS3M2MnhuU0dISlY4QW8ycTZ0QllGazI5TFhUR0F1LUVEQzBQTjR6TnZ0OWZyOW5RakhBYWkxbjllYWZHbE15Zk1SUdIBiwFBVV95cUxQbTBxNzZVa3ctbWpnVng3VEZLc0JSSmV0WlptS3NKT2xURTdqM2xYLUQ2c3d2Rm5WYUZ0UThSaFlDUXFNbFBoTUJQcUJkWkEwZ1FENTBkSHhLeVMxd255c0U5QlZVSThfQ1NBMFBZbWlTOENteXJDUER4V2RHRzFra0pGM2hteklVUWpR?oc=5",
+   "date": "2026-11-06T16:18:11.000Z",
+   "source": "Google News",
+   "outlet": "Wccftech",
+   "summary": "",
+   "image": null,
+   "text": "GTA 6 Could Cost “Tens of Thousands Of Dollars” in Tokens To Develop Unofficial PC Port, Yet Former Rockstar Tech Director Believes It Will Be Attempted - Wccftech GTA 6 Could Cost “Tens of Thousands Of Dollars” in Tokens To Develop Unofficial PC Port, Yet Former Rockstar Tech Director Believes It Will Be Attempted Wccftech",
+   "repos": [],
+   "firstSeen": "2026-11-06T21:38:46.246Z"
+  },
+  {
    "title": "This Fallout VR Mod Is Something Else",
    "url": "https://www.youtube.com/shorts/oekbycOtDmA",
    "date": "2026-11-06T15:00:36.000Z",
@@ -13,14 +170,14 @@
    "firstSeen": "2026-11-06T16:01:46.307Z"
   },
   {
-   "title": "Paper Mario: The Thousand Year Door Recomp Out NOW!",
+   "title": "Paper Mario: The Thousand Year Door PC Port Out NOW!",
    "url": "https://www.youtube.com/watch?v=BL_lE71hAB4",
    "date": "2026-11-06T13:45:14.000Z",
    "source": "YouTube: Video Game Esoterica",
    "outlet": "YouTube: Video Game Esoterica",
    "summary": "SUPPORT THE CHANNEL : http://www.patreon.com/VideoGameEsoterica A Paper Mario: The Thousand Year Door PC port / Paper Mario: The Thousand Year Door Recomp is out now! More Nintendo PC ports! yay Enough about the Twilight Princess PC port Dusklight and Courage Reborn (ok both are epic and I will talk more about Zelda PC port fun soon)...it's time for a Super Paper Mario recomp! Because as far as ne",
    "image": "https://i3.ytimg.com/vi/BL_lE71hAB4/hqdefault.jpg",
-   "text": "Paper Mario: The Thousand Year Door Recomp Out NOW! SUPPORT THE CHANNEL : http://www.patreon.com/VideoGameEsoterica A Paper Mario: The Thousand Year Door PC port / Paper Mario: The Thousand Year Door Recomp is out now! More Nintendo PC ports! yay Enough about the Twilight Princess PC port Dusklight and Courage Reborn (ok both are epic and I will talk more about Zelda PC port fun soon)...it's time for a Super Paper Mario recomp! Because as far as new Mario games go Nintendo has given us NO info...so let's have another Nintendo PC port instead! Check it out here: youll have to find it yourself - Love VGE and maybe try my Discord. Its called PaperCut Questions? Comments? Just leave them below and I will do my best to answer each and every one of them! http://www.patreon.com/VideoGameEsoterica VGE https://discord.gg/kGAAtVywE",
+   "text": "Paper Mario: The Thousand Year Door PC Port Out NOW! SUPPORT THE CHANNEL : http://www.patreon.com/VideoGameEsoterica A Paper Mario: The Thousand Year Door PC port / Paper Mario: The Thousand Year Door Recomp is out now! More Nintendo PC ports! yay Enough about the Twilight Princess PC port Dusklight and Courage Reborn (ok both are epic and I will talk more about Zelda PC port fun soon)...it's time for a Super Paper Mario recomp! Because as far as new Mario games go Nintendo has given us NO info...so let's have another Nintendo PC port instead! Check it out here: youll have to find it yourself - Love VGE and maybe try my Discord. Its called PaperCut Questions? Comments? Just leave them below and I will do my best to answer each and every one of them! http://www.patreon.com/VideoGameEsoterica VGE https://discord.gg/kGAAtVywE",
    "repos": [],
    "firstSeen": "2026-11-06T16:01:46.307Z"
   },
@@ -87,14 +244,14 @@
    "firstSeen": "2026-11-06T16:01:46.307Z"
   },
   {
-   "title": "Become The Greatest - Undisputed VR Mod - 1st Person, Head-Tracking, 6DOF Motion Controls",
+   "title": "Undisputed VR Mod - 1st Person, Head-Tracking, 6DOF Motion Controlled Punches & Guard",
    "url": "https://www.youtube.com/watch?v=KIIzDG4pWEw",
    "date": "2026-11-06T06:49:57.000Z",
    "source": "YouTube: FastLawyer",
    "outlet": "YouTube: FastLawyer",
    "summary": "I bought this game! Undisputed is a boxing simulation game. Undisputed can be played in VR thanks to the FREE VR Mod from tomt113tomt113-star (version updated November 5, 2026). Played on the Meta Quest 3 using Virtual Destkop on my RTX 5090 (highest resolution for VR mod). You can purchase game on Steam here: https://store.steampowered.com/app/1451190/Undisputed/ Thank you tomt113tomt113-star for",
    "image": "https://i4.ytimg.com/vi/KIIzDG4pWEw/hqdefault.jpg",
-   "text": "Become The Greatest - Undisputed VR Mod - 1st Person, Head-Tracking, 6DOF Motion Controls I bought this game! Undisputed is a boxing simulation game. Undisputed can be played in VR thanks to the FREE VR Mod from tomt113tomt113-star (version updated November 5, 2026). Played on the Meta Quest 3 using Virtual Destkop on my RTX 5090 (highest resolution for VR mod). You can purchase game on Steam here: https://store.steampowered.com/app/1451190/Undisputed/ Thank you tomt113tomt113-star for the VR Mod! FREE VR Mod here: https://github.com/tomt113tomt113-star/Undisputed---VR Per the VR dev: The compiled plugin includes the current tracked gloves and forearms, first-person camera, motion punching and contact handling, guard calibration, haptics, VR menus, rope HUD and damage notifications, first-person glove replays, knockdown count, round transitions, Turner Gym-VR venue and lighting optimizations, and the retained frame pacing and HUD improvements. This update refreshes in-view HUD text between fights and includes the opponent tile alignment fix when returning to fighter selection. The bundled profile uses 95% fight speed and the 2400 gameplay eye-dimension limit. F6 recentres, F7 captures guard calibration, F8 toggles motion punching, F9 toggles first-person view, and F10 opens the VR resolution panel.",
+   "text": "Undisputed VR Mod - 1st Person, Head-Tracking, 6DOF Motion Controlled Punches & Guard I bought this game! Undisputed is a boxing simulation game. Undisputed can be played in VR thanks to the FREE VR Mod from tomt113tomt113-star (version updated November 5, 2026). Played on the Meta Quest 3 using Virtual Destkop on my RTX 5090 (highest resolution for VR mod). You can purchase game on Steam here: https://store.steampowered.com/app/1451190/Undisputed/ Thank you tomt113tomt113-star for the VR Mod! FREE VR Mod here: https://github.com/tomt113tomt113-star/Undisputed---VR Per the VR dev: The compiled plugin includes the current tracked gloves and forearms, first-person camera, motion punching and contact handling, guard calibration, haptics, VR menus, rope HUD and damage notifications, first-person glove replays, knockdown count, round transitions, Turner Gym-VR venue and lighting optimizations, and the retained frame pacing and HUD improvements. This update refreshes in-view HUD text between fights and includes the opponent tile alignment fix when returning to fighter selection. The bundled profile uses 95% fight speed and the 2400 gameplay eye-dimension limit. F6 recentres, F7 captures guard calibration, F8 toggles motion punching, F9 toggles first-person view, and F10 opens the VR resolution panel.",
    "repos": [
     "github:tomt113tomt113-star/Undisputed---VR"
    ],
