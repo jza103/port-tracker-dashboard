@@ -1,6 +1,18 @@
 {
  "articles": [
   {
+   "title": "Translating An Old Display To A New One",
+   "url": "https://hackaday.com/2026/11/05/translating-an-old-display-to-a-new-one/",
+   "date": "2026-11-06T03:00:11.000Z",
+   "source": "Hackaday",
+   "outlet": "Hackaday",
+   "summary": "A quick search through AliExpress will find PCBs that take HDMI or VGA and translate them to DSI lanes for TFT panels, and even boards that translate DSI to HDMI …read more",
+   "image": "https://hackaday.com/wp-content/uploads/2026/11/pico-stn-featured.jpg",
+   "text": "Translating An Old Display To A New One A quick search through AliExpress will find PCBs that take HDMI or VGA and translate them to DSI lanes for TFT panels, and even boards that translate DSI to HDMI in the other direction. Usually they need dedicated silicon or if you're doing it yourself, an FPGA, but depending on the display that need not be the case. As an example, [Voltage Ventures] has replaced a defective STN display with a more modern one using nothing more complex than a Raspberry Pi Pico. The display comes as part of a Samsung cash register that looks as though it comes from the 1990s, which is in keeping with it having a monochrome STN display. A replacement was going to cost a fortune, so some way of translating between the two was in order. It has a 4-bit data bus, so there's a description of how they sampled the bus and identified the timing used. It's hardly the highest resolution display by today's standards, being a meager 320 by 240 pixels. Once the format is known it's a case of transposing it to monochrome VGA in the microcontroller. Initial work was done with an STM series chip, later this was moved to the RP2040. We like this project, and it's a reminder that even something broken and old can still be rescued.",
+   "repos": [],
+   "firstSeen": "2026-11-06T07:02:43.643Z"
+  },
+  {
    "title": "Kane & Lynch 2: Dog Days VR Performance / New VR Mod with 6DOF Motion Controls / Quest 3 - PCVR",
    "url": "https://www.youtube.com/watch?v=4fURKPTQAG8",
    "date": "2026-11-05T20:36:21.000Z",
