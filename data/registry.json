@@ -584,6 +584,7 @@
   "eukaryot/sonic3air": "2026-10-23T22:25:39.434Z",
   "eusth/vookaraylee": "2026-10-25T15:36:27.479Z",
   "evaa-01/adam": "2026-11-04T00:42:58.054Z",
+  "evertec82/power-moon-vr": "2026-11-06T16:01:46.307Z",
   "exok/celeste64": "2026-10-25T15:36:27.479Z",
   "expansionpak/moderngekko": "2026-10-23T22:25:39.434Z",
   "exult/exult": "2026-10-27T14:45:45.436Z",
@@ -1013,6 +1014,7 @@
   "jotego/jtbin#jotego-jtxmen": "2026-10-25T15:56:57.670Z",
   "jotego/jtbin#jotego-jtyiear": "2026-10-25T15:56:57.670Z",
   "jotego/jtcores": "2026-10-25T15:56:57.670Z",
+  "jplakon/blackopsvr": "2026-11-06T16:01:46.307Z",
   "jplakon/callofduty4_vr": "2026-10-25T15:36:27.479Z",
   "jrbudda/vivecraft_110": "2026-10-25T15:36:27.479Z",
   "jrbudda/vivecraft_111": "2026-10-25T15:36:27.479Z",
@@ -1160,6 +1162,7 @@
   "madxbio97/sf-pc-port": "2026-10-23T22:25:39.434Z",
   "mahmoud-mess/tekken6-recomp": "2026-10-25T15:36:27.479Z",
   "mamcjr/lasrecompandroid": "2026-10-28T05:57:15.172Z",
+  "mamesj/pokemon-fulldex": "2026-11-06T16:01:46.307Z",
   "mamfro/monaka_vr": "2026-11-03T12:06:27.928Z",
   "mamfro/wolfenstein-games-vr": "2026-11-02T18:34:06.476Z",
   "mango77x/mhforever": "2026-11-03T02:28:07.541Z",
@@ -2196,6 +2199,7 @@
   "retropulse03/winbackrecomp": "2026-11-03T02:28:07.541Z",
   "retroreplay82/legendary-wings-nes-to-pc": "2026-10-25T15:36:27.479Z",
   "retroshrimp/arcade-segasystem32_mister": "2026-10-31T14:36:47.862Z",
+  "retux-game/retux": "2026-11-06T16:01:46.307Z",
   "revenantbob/mechcommanderredux": "2026-11-04T00:42:58.054Z",
   "revivedx/savagewindrecomp": "2026-10-25T15:36:27.479Z",
   "revosucks/bm64recomp": "2026-10-23T22:25:39.434Z",
@@ -2558,6 +2562,7 @@
   "toby01019/openfpga-c64-mister": "2026-10-27T20:48:40.902Z",
   "toffelskater/x4_vr": "2026-10-25T15:36:27.479Z",
   "tolotratlt/rival-schools-nekketsu-seishun-nikki-2-recomp": "2026-10-30T06:03:37.031Z",
+  "tomt113tomt113-star/undisputed---vr": "2026-11-06T16:01:46.307Z",
   "tomups/openmw-vr-quest": "2026-10-23T22:25:39.434Z",
   "tools81/flintstones-jetsons-timewarp-static-recomp": "2026-11-04T12:19:33.535Z",
   "tools81/hotel-mario-static-recomp": "2026-10-28T21:12:08.030Z",
@@ -5169,6 +5174,35 @@
    },
    "autoFollow": true
   },
+  "evertec82/power-moon-vr": {
+   "id": "evertec82/power-moon-vr",
+   "name": "power moon vr",
+   "game": "power moon vr",
+   "categories": [
+    "Other",
+    "VR Ports"
+   ],
+   "type": "port",
+   "tags": [
+    "VR"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "evertec82/power-moon-vr"
+   },
+   "links": [],
+   "sources": [
+    "news"
+   ],
+   "discoveredFrom": {
+    "kind": "news",
+    "title": "Super Mario Odyssey VR Performance / New VR Mod with First Person View / Quest 3 + RTX 4080 Super",
+    "url": "https://www.youtube.com/watch?v=mzqBv0L2bS0",
+    "source": "YouTube: NotAGameAddict",
+    "date": "2026-11-06T10:44:26.000Z"
+   },
+   "autoFollow": true
+  },
   "fable2recomp/beanrecomp": {
    "id": "fable2recomp/beanrecomp",
    "name": "bean Recomp",
@@ -6494,6 +6528,35 @@
     "date": "2026-10-26T15:18:29.150Z"
    },
    "autoFollow": false
+  },
+  "jplakon/blackopsvr": {
+   "id": "jplakon/blackopsvr",
+   "name": "Black Ops VR",
+   "game": "Black Ops VR",
+   "categories": [
+    "Other",
+    "VR Ports"
+   ],
+   "type": "port",
+   "tags": [
+    "VR"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "jplakon/BlackOpsVR"
+   },
+   "links": [],
+   "sources": [
+    "news"
+   ],
+   "discoveredFrom": {
+    "kind": "news",
+    "title": "Call of Duty: Black Ops VR Mod by Jplay Now for FREE / With Campaign / 6DOF Motion Controls / PCVR",
+    "url": "https://www.youtube.com/watch?v=hovscuVPZxM",
+    "source": "YouTube: NotAGameAddict",
+    "date": "2026-11-05T22:43:27.000Z"
+   },
+   "autoFollow": true
   },
   "jrbudda/vivecraft_110": {
    "id": "jrbudda/vivecraft_110",
@@ -11709,6 +11772,35 @@
    },
    "autoFollow": false
   },
+  "tomt113tomt113-star/undisputed---vr": {
+   "id": "tomt113tomt113-star/undisputed---vr",
+   "name": "Undisputed VR",
+   "game": "Undisputed VR",
+   "categories": [
+    "Other",
+    "VR Ports"
+   ],
+   "type": "port",
+   "tags": [
+    "VR"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "tomt113tomt113-star/Undisputed---VR"
+   },
+   "links": [],
+   "sources": [
+    "news"
+   ],
+   "discoveredFrom": {
+    "kind": "news",
+    "title": "Become The Greatest - Undisputed VR Mod - 1st Person, Head-Tracking, 6DOF Motion Controls",
+    "url": "https://www.youtube.com/watch?v=KIIzDG4pWEw",
+    "source": "YouTube: FastLawyer",
+    "date": "2026-11-06T06:49:57.000Z"
+   },
+   "autoFollow": true
+  },
   "treyturner/analogue-pocket-patches": {
    "id": "treyturner/analogue-pocket-patches",
    "name": "analogue pocket patches",
@@ -12388,6 +12480,7 @@
   "th0mk/nfsu2-web": "2026-10-23",
   "theypsilon/multidatabases_mister": "2026-10-23",
   "throatymumbo/nespc": "2026-10-26",
+  "tovarichtch/odin": "2026-11-06",
   "transentient/holodor": "2026-10-31",
   "vector35/binaryninja-api": "2026-10-23",
   "vita3k/vita3k": "2026-10-23",
