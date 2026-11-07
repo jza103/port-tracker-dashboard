@@ -1,6 +1,58 @@
 {
  "articles": [
   {
+   "title": "SoulCalibur Recomp Out NOW! A Dreamcast Recomp",
+   "url": "https://www.youtube.com/watch?v=MNe9F6-tvbg",
+   "date": "2026-11-07T14:00:19.000Z",
+   "source": "YouTube: Video Game Esoterica",
+   "outlet": "YouTube: Video Game Esoterica",
+   "summary": "SUPPORT THE CHANNEL : http://www.patreon.com/VideoGameEsoterica Dreamcast recomps are real and here is a SoulCalibur recomp! Or a Soul Calibur recomp for the search indexing! We have N64 Recomps and N64 PC ports, PS1 recomps and PS1 PC ports and Xbox 360 recomps...so why is Sega left out of the retro gaming recomp party! Well as of today...it's not! We have a beta Initial D Arcade Stage 3 recomp..",
+   "image": "https://i2.ytimg.com/vi/MNe9F6-tvbg/hqdefault.jpg",
+   "text": "SoulCalibur Recomp Out NOW! A Dreamcast Recomp SUPPORT THE CHANNEL : http://www.patreon.com/VideoGameEsoterica Dreamcast recomps are real and here is a SoulCalibur recomp! Or a Soul Calibur recomp for the search indexing! We have N64 Recomps and N64 PC ports, PS1 recomps and PS1 PC ports and Xbox 360 recomps...so why is Sega left out of the retro gaming recomp party! Well as of today...it's not! We have a beta Initial D Arcade Stage 3 recomp...which makes this a NAOMI 2 recomp NOT a Dreamcast recomp...but considering it's all the same Dreamcast hardware nuclear family that means Dreamcast PC ports are now possible...starting with an Initial D recomp! and now with an experimental Space Channel 5 recomp (which isn't worth playing but as a proof of concept...its quite something!) AND a Sonic Adventure Recomp! Jet Grind Radio recomp!? Lets hope soon! Check it out here: https://github.com/enrique363/voldorium Questions? Comments? Just leave them below and I will do my best to answer each and every one of them! http://www.patreon.com/VideoGameEsoterica You can follow us at IG : ChicagoGameCollector , or join our Discord Server : https://discord.gg/6uFNZmHs8",
+   "repos": [
+    "github:enrique363/voldorium"
+   ],
+   "firstSeen": "2026-11-07T14:57:40.219Z"
+  },
+  {
+   "title": "The Hidden Microcontroller Inside a LoRa chip",
+   "url": "https://hackaday.com/2026/11/07/the-hidden-microcontroller-inside-a-lora-chip/",
+   "date": "2026-11-07T12:00:34.000Z",
+   "source": "Hackaday",
+   "outlet": "Hackaday",
+   "summary": "If you've ever done anything with LoRa, the chances are you've used a LoRa chip or module as a peripheral for a microcontroller, and left it at that. But that's …read more",
+   "image": "https://hackaday.com/wp-content/uploads/2026/11/lora-up-featured.jpg",
+   "text": "The Hidden Microcontroller Inside a LoRa chip If you've ever done anything with LoRa, the chances are you've used a LoRa chip or module as a peripheral for a microcontroller, and left it at that. But that's not always the case. Rather than being a pre-programmed ASIC under the hood, the Semtech LR2021 has its own on-board microcontroller whose firmware can be updated. [Alex Beale] has managed to unlock its secrets . The use of LLMs can elicit strong opinions at times, but in this case we agree with him that the task of reverse engineering this hidden microcontoller would have been a near-impossible task without their help. Having done so though,he can write custom firmwares, which he's able to demonstrate. Running the required FFTs for a waterfall display on-chip for example is now possible, as is running your mesh network node on the chip itself. This work continues a streak of recent discoveries unlocking software-defined radio functionality inside dedicated radio chips, with both WiFi and LoRa chips falling prey to reverse engineering. It's an interesting time, if SDR is your thing. Thanks [Notbasa] for the tip.",
+   "repos": [],
+   "firstSeen": "2026-11-07T14:57:40.219Z"
+  },
+  {
+   "title": "Save The Planet in Dolphin Spirit: Ocean Mission VR Mod - 1st/3rd POV, 6DOF Hands, Head-Tracking",
+   "url": "https://www.youtube.com/watch?v=Ry7HfEmtbIk",
+   "date": "2026-11-07T11:19:28.000Z",
+   "source": "YouTube: FastLawyer",
+   "outlet": "YouTube: FastLawyer",
+   "summary": "I bought this game! Dolphin Spirit: Ocean Mission is a an educational adventure game with a touch of fantasy, set on the beautiful tropical island of Maupiroa. Dolphin Spirit can now be played in Virtual Reality with the FREE VR Mod from King EJ! Played on the Meta Quest 3 using Virtual Desktop on my RTX 5090. You can purchase game on Steam here: https://store.steampowered.com/app/2149120/Dolphin_",
+   "image": "https://i3.ytimg.com/vi/Ry7HfEmtbIk/hqdefault.jpg",
+   "text": "Save The Planet in Dolphin Spirit: Ocean Mission VR Mod - 1st/3rd POV, 6DOF Hands, Head-Tracking I bought this game! Dolphin Spirit: Ocean Mission is a an educational adventure game with a touch of fantasy, set on the beautiful tropical island of Maupiroa. Dolphin Spirit can now be played in Virtual Reality with the FREE VR Mod from King EJ! Played on the Meta Quest 3 using Virtual Desktop on my RTX 5090. You can purchase game on Steam here: https://store.steampowered.com/app/2149120/Dolphin_Spirit_Ocean_Mission/ FREE VR mod from King EJ here: https://github.com/King-EJ/Dolphin-Spirit-Ocean-Mission-VR Please support King EJ @K1ngGamer24 by joining his YouTube channel here: https://www.youtube.com/@UCrZzZmyrX6kD41umpn4xd6w Join my Steam Curator Group, Can I VR It? Here: https://steamcommunity.com/groups/CIVRI",
+   "repos": [
+    "github:King-EJ/Dolphin-Spirit-Ocean-Mission-VR"
+   ],
+   "firstSeen": "2026-11-07T14:57:40.219Z"
+  },
+  {
+   "title": "Guess Which Modder Was Brazen Enough to Bring This Amazing Game Back to...Virtual Reality?LOL",
+   "url": "https://www.youtube.com/watch?v=hyhRErS1aoM",
+   "date": "2026-11-07T08:30:54.000Z",
+   "source": "YouTube: TheReclusiveGamer",
+   "outlet": "YouTube: TheReclusiveGamer",
+   "summary": "Yup...he did it again,not like I'm complaining though,I like this dude's IDGAF attitude when it comes to sticking his digital weewee up Rockstar and TakeTwo's proverbial corporate assh*les...as soon as I was notified that he even brought back GTA 5 Enhanced to VR,I immediately paid the measly 10 dollar price of admission...well worth it for these 2 masterpieces in my opinion and he damn well knows",
+   "image": "https://i1.ytimg.com/vi/hyhRErS1aoM/hqdefault.jpg",
+   "text": "Guess Which Modder Was Brazen Enough to Bring This Amazing Game Back to...Virtual Reality?LOL Yup...he did it again,not like I'm complaining though,I like this dude's IDGAF attitude when it comes to sticking his digital weewee up Rockstar and TakeTwo's proverbial corporate assh*les...as soon as I was notified that he even brought back GTA 5 Enhanced to VR,I immediately paid the measly 10 dollar price of admission...well worth it for these 2 masterpieces in my opinion and he damn well knows it LOL this dude's slick,he must've noticed all of the new VR mods coming out and had to do something to save his livelyhood,can't say I blame him though...anyways,here it is folks,Red Dead Redemption 2 in VR...again.A link to Ross's mod page is down below. #RedDeadRedemption2 #VR #LukeRoss #VirtualReality #Mods #PCVR #MetaQuest3 Luke Ross's VR Mods: https://www.patreon.com/c/realvr/posts",
+   "repos": [],
+   "firstSeen": "2026-11-07T14:57:40.219Z"
+  },
+  {
    "title": "The Legend of Zelda: Ocarina of Time Remake Gets an Unofficial PC Port",
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRVI1Mi1RZDc1QWdHUXNKb0hJeWRzUEhnaVlvU0lqdUtwZUh0ZXc4WGR2N0tBaENBbFVxMTVlb1QyYWhlQWhFQzBKVHpXREp0Vy16d0tXYmJWWGVjWHlsTE9rM0Eyb0hVTHpqbGtGanRidGd5N2xtUmZ0b3VNVFlWa0poWWdIUVNMRWRXVHNHamtjOFpkTDRXOVotUnlNNE9KZi13?oc=5",
    "date": "2026-11-07T04:33:55.000Z",
@@ -13,6 +65,98 @@
    "firstSeen": "2026-11-07T06:15:55.641Z"
   },
   {
+   "title": "Zelda: Ocarina of Time VR Performance / Quest Standalone VR Mod / 1st Person - 6DOF Motion Control",
+   "url": "https://www.youtube.com/watch?v=qv1vQgCE5Mc",
+   "date": "2026-11-07T02:46:23.000Z",
+   "source": "YouTube: NotAGameAddict",
+   "outlet": "YouTube: NotAGameAddict",
+   "summary": "00:00 - VR settings 00:41 - Arena fights 04:40 - Kokiri Forest 11:28 - Inside The Deku Tree Note - This is a vr mod for the Nintendo 64 version of the game. A HD mod is installed with it. Oot VR mod made by Gibranfelix - https://github.com/gibranfelix/oot-vr",
+   "image": "https://i2.ytimg.com/vi/qv1vQgCE5Mc/hqdefault.jpg",
+   "text": "Zelda: Ocarina of Time VR Performance / Quest Standalone VR Mod / 1st Person - 6DOF Motion Control 00:00 - VR settings 00:41 - Arena fights 04:40 - Kokiri Forest 11:28 - Inside The Deku Tree Note - This is a vr mod for the Nintendo 64 version of the game. A HD mod is installed with it. Oot VR mod made by Gibranfelix - https://github.com/gibranfelix/oot-vr",
+   "repos": [
+    "github:gibranfelix/oot-vr"
+   ],
+   "firstSeen": "2026-11-07T14:57:40.219Z"
+  },
+  {
+   "title": "3DO M2 Gets a Recomp! A Lost Console Game Playable for ALL",
+   "url": "https://www.youtube.com/watch?v=bvQSak01gqY",
+   "date": "2026-11-07T02:00:16.000Z",
+   "source": "YouTube: Video Game Esoterica",
+   "outlet": "YouTube: Video Game Esoterica",
+   "summary": "SUPPORT THE CHANNEL : http://www.patreon.com/VideoGameEsoterica PS3 recomps? Boring! PS4 PC ports? Old news! Switch recomps? You can have them! N64 recomps...for kiddies! But a 3DO M2 recomp? NOW YOU HAVE MY ATTENTION! IMSA Racing on the 3DO M2 (a cancelled console that never existed) has a recomp! A 3DO M2 recomp...damn! Sure we have a TON of N64 recomps and N64 PC ports and even GameCube recomps",
+   "image": "https://i3.ytimg.com/vi/bvQSak01gqY/hqdefault.jpg",
+   "text": "3DO M2 Gets a Recomp! A Lost Console Game Playable for ALL SUPPORT THE CHANNEL : http://www.patreon.com/VideoGameEsoterica PS3 recomps? Boring! PS4 PC ports? Old news! Switch recomps? You can have them! N64 recomps...for kiddies! But a 3DO M2 recomp? NOW YOU HAVE MY ATTENTION! IMSA Racing on the 3DO M2 (a cancelled console that never existed) has a recomp! A 3DO M2 recomp...damn! Sure we have a TON of N64 recomps and N64 PC ports and even GameCube recomps and GameCube PC ports...but this is cooler! Check it out: https://github.com/rsantos722/imsa-wcr-m2-recomp Questions? Comments? Just leave them below and I will do my best to answer each and every one of them! http://www.patreon.com/VideoGameEsoterica You can follow us at IG : ChicagoGameCollector , or join our Discord Server : https://discord.gg/uBtfwD9b7 VGE",
+   "repos": [
+    "github:rsantos722/imsa-wcr-m2-recomp"
+   ],
+   "firstSeen": "2026-11-07T14:57:40.219Z"
+  },
+  {
+   "title": "Ratchet & Clank: Rift Apart VR Performance / New VR Mod with True Stereo / Quest 3 + RTX 4080 Super",
+   "url": "https://www.youtube.com/watch?v=8C0NwXBOxA0",
+   "date": "2026-11-07T01:50:12.000Z",
+   "source": "YouTube: NotAGameAddict",
+   "outlet": "YouTube: NotAGameAddict",
+   "summary": "00:00 - VR and graphics settings 00:50 - Medium graphics - FPS overlay 04:44 - High graphics - FPS overlay 09:08 - High graphics Rift Apart VR mod made by Scubasteve2365 - https://github.com/scubasteve2365/RiftApartVR Ratchet & Clank: Rift Apart - https://store.steampowered.com/app/1895880/Ratchet_Clank_Rift_Apart/",
+   "image": "https://i1.ytimg.com/vi/8C0NwXBOxA0/hqdefault.jpg",
+   "text": "Ratchet & Clank: Rift Apart VR Performance / New VR Mod with True Stereo / Quest 3 + RTX 4080 Super 00:00 - VR and graphics settings 00:50 - Medium graphics - FPS overlay 04:44 - High graphics - FPS overlay 09:08 - High graphics Rift Apart VR mod made by Scubasteve2365 - https://github.com/scubasteve2365/RiftApartVR Ratchet & Clank: Rift Apart - https://store.steampowered.com/app/1895880/Ratchet_Clank_Rift_Apart/",
+   "repos": [
+    "github:scubasteve2365/RiftApartVR"
+   ],
+   "firstSeen": "2026-11-07T14:57:40.219Z"
+  },
+  {
+   "title": "For Ages I've Been Praying for This Amazing Game to Get The VR Treatment...and Now It Has Arrived",
+   "url": "https://www.youtube.com/watch?v=0ibkYK_0f3Y",
+   "date": "2026-11-06T23:49:17.000Z",
+   "source": "YouTube: TheReclusiveGamer",
+   "outlet": "YouTube: TheReclusiveGamer",
+   "summary": "Yes…another classic masterpiece has been VRified…I’ve been looking forward to this one for a long while now but then again,I’ve been saying the same thing about half of these latest newly vr modded games that keeping popping up…too many games too little time is all I have to say…enjoy the brief gameplay test,I’m going to have to play the prologue again flatscreen though because I can’t seem to get",
+   "image": "https://i1.ytimg.com/vi/0ibkYK_0f3Y/hqdefault.jpg",
+   "text": "For Ages I've Been Praying for This Amazing Game to Get The VR Treatment...and Now It Has Arrived Yes…another classic masterpiece has been VRified…I’ve been looking forward to this one for a long while now but then again,I’ve been saying the same thing about half of these latest newly vr modded games that keeping popping up…too many games too little time is all I have to say…enjoy the brief gameplay test,I’m going to have to play the prologue again flatscreen though because I can’t seem to get past the first mutant in VR smh lol huge shoutout to Ripper37 for all his hardwork…this is definately up there with Titanfall2 and FEAR VR in terms of quality…I’ll post a link to the mod down below shortly… #MetroExodus #VR #Ripper37 #VRMod #MetaQuest3 #VirtualDesktop #PCVR #Oculus",
+   "repos": [],
+   "firstSeen": "2026-11-07T14:57:40.219Z"
+  },
+  {
+   "title": "Gears of War E-Day UEVR Third Person Gameplay Test...",
+   "url": "https://www.youtube.com/watch?v=Rfe8wcynzM4",
+   "date": "2026-11-06T22:31:59.000Z",
+   "source": "YouTube: TheReclusiveGamer",
+   "outlet": "YouTube: TheReclusiveGamer",
+   "summary": "So since trying this game out in first person with hand controls,naturally I was curious about how playing this in third person with a gamepad would be like...so here it is.I honestly can't decide which method is better but playing this in third person with an xbox controller is honestly alot easier,although less immersive...guess I'll have to do 2 different playthroughs? #GearsOfWarE-Day #GearsOf",
+   "image": "https://i3.ytimg.com/vi/Rfe8wcynzM4/hqdefault.jpg",
+   "text": "Gears of War E-Day UEVR Third Person Gameplay Test... So since trying this game out in first person with hand controls,naturally I was curious about how playing this in third person with a gamepad would be like...so here it is.I honestly can't decide which method is better but playing this in third person with an xbox controller is honestly alot easier,although less immersive...guess I'll have to do 2 different playthroughs? #GearsOfWarE-Day #GearsOfWar #UEVR #VR #Praydog #MetaQuest3 #VirtualDesktop #PCVR",
+   "repos": [],
+   "firstSeen": "2026-11-07T14:57:40.219Z"
+  },
+  {
+   "title": "Metro Exodus VR Performance / New VR Mod with 6DOF Motion Controls / Quest 3 + RTX 4080 Super",
+   "url": "https://www.youtube.com/watch?v=bRvNQmWxTz8",
+   "date": "2026-11-06T22:02:49.000Z",
+   "source": "YouTube: NotAGameAddict",
+   "outlet": "YouTube: NotAGameAddict",
+   "summary": "00:00 - VR gameplay 09:05 - VR gameplay with FPS Overlay 14:19 - VR and game settings Metro Exodus VR was made by RippeR37 - https://github.com/RippeR37/MetroExodusVR Metro Exodus - https://store.steampowered.com/app/412020/Metro_Exodus/",
+   "image": "https://i3.ytimg.com/vi/bRvNQmWxTz8/hqdefault.jpg",
+   "text": "Metro Exodus VR Performance / New VR Mod with 6DOF Motion Controls / Quest 3 + RTX 4080 Super 00:00 - VR gameplay 09:05 - VR gameplay with FPS Overlay 14:19 - VR and game settings Metro Exodus VR was made by RippeR37 - https://github.com/RippeR37/MetroExodusVR Metro Exodus - https://store.steampowered.com/app/412020/Metro_Exodus/",
+   "repos": [
+    "github:RippeR37/MetroExodusVR"
+   ],
+   "firstSeen": "2026-11-07T14:57:40.219Z"
+  },
+  {
+   "title": "When You Start Channeling The Spirit of Muhammad Ali #undisputed #vr #vrmods #boxing #muhammadali",
+   "url": "https://www.youtube.com/shorts/oTJ1QnELc7M",
+   "date": "2026-11-06T22:00:07.000Z",
+   "source": "YouTube: FastLawyer",
+   "outlet": "YouTube: FastLawyer",
+   "summary": "Playing Undisputed in VR with the latest FREE VR mod on the Meta Quest 3 (PCVR).",
+   "image": "https://i4.ytimg.com/vi/oTJ1QnELc7M/hqdefault.jpg",
+   "text": "When You Start Channeling The Spirit of Muhammad Ali #undisputed #vr #vrmods #boxing #muhammadali Playing Undisputed in VR with the latest FREE VR mod on the Meta Quest 3 (PCVR).",
+   "repos": [],
+   "firstSeen": "2026-11-07T14:57:40.219Z"
+  },
+  {
    "title": "Project Hail Mary is coming to mixed reality next week, and you'll work alongside Rocky",
    "url": "https://mixed-news.com/en/project-hail-mary-mixed-reality-rocky-november-12/",
    "date": "2026-11-06T22:00:00.000Z",
@@ -23,6 +167,18 @@
    "text": "Project Hail Mary is coming to mixed reality next week, and you'll work alongside Rocky Project Hail Mary: Journey Among the Stars will put players aboard the Hail Mary on November 12, with a new mixed-reality story about keeping the spacecraft alive alongside Rocky. Developer Maze Theory says the experience is coming to Meta Quest 3 and 3S and Pico 4, with a free VR update to follow after launch. ... Project Hail Mary is coming to mixed reality next week, and you'll work alongside Rocky The post Project Hail Mary is coming to mixed reality next week, and you'll work alongside Rocky appeared first on MIXED News .",
    "repos": [],
    "firstSeen": "2026-11-07T06:15:55.641Z"
+  },
+  {
+   "title": "Ocarina of Time Remake Emulation Tested! Switch 2 Emulation News",
+   "url": "https://www.youtube.com/watch?v=jld-FNsY5Ow",
+   "date": "2026-11-06T22:00:00.000Z",
+   "source": "YouTube: Video Game Esoterica",
+   "outlet": "YouTube: Video Game Esoterica",
+   "summary": "SUPPORT THE CHANNEL : http://www.patreon.com/VideoGameEsoterica Switch 2 emulators exist, a Switch 2 recomp is in development...and more Switch 2 news for everyone...through a mosaic! and now The Legend of Zelda: Ocarina of Time Remake emulation...works! Tested via Lichii emulator from my legally owned game and console. It's VERY early...but you asked! Lichii is a fork of Eden with traces of Elgan",
+   "image": "https://i3.ytimg.com/vi/jld-FNsY5Ow/hqdefault.jpg",
+   "text": "Ocarina of Time Remake Emulation Tested! Switch 2 Emulation News SUPPORT THE CHANNEL : http://www.patreon.com/VideoGameEsoterica Switch 2 emulators exist, a Switch 2 recomp is in development...and more Switch 2 news for everyone...through a mosaic! and now The Legend of Zelda: Ocarina of Time Remake emulation...works! Tested via Lichii emulator from my legally owned game and console. It's VERY early...but you asked! Lichii is a fork of Eden with traces of Elgantine and Sudachi emulation FYI This is a pivot on my previous Nintendo Switch 2 news video with all of the different Nintendo Switch 2 discoveries being made lately...with humor! Because people keep asking about whether or not you can run a Nintendo Switch 2 game on your PC? or your iPhone? and while you WONT find the answer to that here...we are going to talk about the current Nintendo Switch 2 news in a fun way :) all while using ZERO Mario Kart World footage Note: There is no INSTRUCTION, EXPLANATION, GUIDES on any HOW in this video nor will there ever be on this channel. This video is purely news based on Nintendo Switch 2 news and nothing else Questions? Comments? Just leave them below and I will do my best to answer each and every one of them! http://www.patreon.com/VideoGameEsoterica VGE",
+   "repos": [],
+   "firstSeen": "2026-11-07T14:57:40.219Z"
   },
   {
    "title": "The BEST VR Mod for Gears Of War: E-Day! #MotionControls #6Dof #Roomscale",
@@ -101,7 +257,7 @@
    "outlet": "YouTube: Gamertag VR",
    "summary": "Metro Exodus VR is looking absolutely incredible! I've been playing the upcoming PCVR mod from RippeR37, and honestly, the visuals, performance and VR mechanics have seriously impressed me. This isn't just Metro Exodus with a VR camera. We're talking full motion controls, physical weapon handling, manual reloading, interactive environments and proper 6DoF VR gameplay. But it's not perfect. The gam",
    "image": "https://i4.ytimg.com/vi/StIWxMHDF_I/hqdefault.jpg",
-   "text": "I Played Metro Exodus VR and It's Seriously Impressive Metro Exodus VR is looking absolutely incredible! I've been playing the upcoming PCVR mod from RippeR37, and honestly, the visuals, performance and VR mechanics have seriously impressed me. This isn't just Metro Exodus with a VR camera. We're talking full motion controls, physical weapon handling, manual reloading, interactive environments and proper 6DoF VR gameplay. But it's not perfect. The game has a lot of cutscenes, and I've encountered a few technical issues, including freezing when a VR controller disconnects. So how good is Metro Exodus in VR, and could this become one of the best VR mods we've seen? METRO EXODUS VR MOD LINKS Mod developer & project updates: https://buymeacoffee.com/ripper37 Flat2VR Modding Discord: https://discord.gg/RgSnyuZExb Find the Metro Exodus VR mod thread in #new-vr-mods for updates and discussion. *The mod is still in development, with no confirmed public download date.* ⭐️How To Support The Channel and my Content: ⭐️Become a YouTube channel member with exclusive benefits: https://www.youtube.com/channel/UCnrAvt4i_2WV3yEKWyEUMlg/join ⭐️Sign up as aPatron with exclusive benefits: https://www.patreon.com/c/GamertagVR ⭐️Save 10% on all Meta Quest Games by using code ‘GTVR’ at the checkout ⭐️Grab some prescription lenses for your VR headsets Vr Rock and save 10% using code 'GTVR' https://www.vr-rock.com/?ref=gamertagvr ⭐️GFuel Energy and using my code 'GTVR' to save 20% on all your purchase",
+   "text": "I Played Metro Exodus VR and It's Seriously Impressive Metro Exodus VR is looking absolutely incredible! I've been playing the upcoming PCVR mod from RippeR37, and honestly, the visuals, performance and VR mechanics have seriously impressed me. This isn't just Metro Exodus with a VR camera. We're talking full motion controls, physical weapon handling, manual reloading, interactive environments and proper 6DoF VR gameplay. But it's not perfect. The game has a lot of cutscenes, and I've encountered a few technical issues, including freezing when a VR controller disconnects. So how good is Metro Exodus in VR, and could this become one of the best VR mods we've seen? METRO EXODUS VR MOD LINKS Mod developer & project updates: https://buymeacoffee.com/ripper37 Flat2VR Modding Discord: https://discord.gg/RgSnyuZExb Find the Metro Exodus VR mod thread in #new-vr-mods for updates and discussion. *The mod is still in development, with no confirmed public download date.* My PC Specs CPU: Intel Core i9-14900K GPU: NVIDIA GeForce RTX 5070 Ti 16GB RAM: 32GB DDR5 6000MHz OS: Windows 64-bit ⭐️How To Support The Channel and my Content: ⭐️Become a YouTube channel member with exclusive benefits: https://www.youtube.com/channel/UCnrAvt4i_2WV3yEKWyEUMlg/join ⭐️Sign up as aPatron with exclusive benefits: https://www.patreon.com/c/GamertagVR ⭐️Save 10% on all Meta Quest Games by using code ‘GTVR’ at the checkout ⭐️Grab some prescription lenses for your VR headsets Vr Rock and save 10% using code 'G",
    "repos": [],
    "firstSeen": "2026-11-06T21:38:46.246Z"
   },
@@ -933,14 +1089,14 @@
    "firstSeen": "2026-11-04T12:19:33.535Z"
   },
   {
-   "title": "Cyberpunk VR Has Never Been This Good",
+   "title": "Cyberpunk 2077 VR Is Becoming a Masterpiece",
    "url": "https://www.youtube.com/watch?v=av6RKmgtFgc",
    "date": "2026-11-03T18:04:45.000Z",
    "source": "YouTube: Gamertag VR",
    "outlet": "YouTube: Gamertag VR",
    "summary": "Cyberpunk 2077 VR has never been this good! I've been testing the latest VR mod update with my 5070ti, Meta Quest 3 and Virtual Desktop and the visuals, performance and physical VR interactions are absolutely incredible. This is getting seriously close to being one of my favourite VR mods of all time. Developer dariulone has taken Cyberpunk 2077 VR to another level with proper motion-controlled we",
    "image": "https://i2.ytimg.com/vi/av6RKmgtFgc/hqdefault.jpg",
-   "text": "Cyberpunk VR Has Never Been This Good Cyberpunk 2077 VR has never been this good! I've been testing the latest VR mod update with my 5070ti, Meta Quest 3 and Virtual Desktop and the visuals, performance and physical VR interactions are absolutely incredible. This is getting seriously close to being one of my favourite VR mods of all time. Developer dariulone has taken Cyberpunk 2077 VR to another level with proper motion-controlled weapons, physical reloading, dual-wielding, interactive menus and a fully realised VR lobby. The latest v0.2.0 update, followed by the v0.2.1 hotfix, brings improved performance, better weapon handling, left-handed support, visual improvements and a much simpler installation process. And thanks to MrSurviv0r's VR HUB, getting Cyberpunk running in VR is now easier than ever. DOWNLOADS & LINKS 🎮 Cyberpunk 2077 VR Mod (dariulone): https://github.com/dariulone/cyberpunk-vr-port/releases 🛠️ MrSurviv0r's VR HUB — Easy Installer: https://mrsurvivor-installers.com/ 📦 MrSurviv0r's GitHub Downloads: https://github.com/MrSurviv0r/MRSURVIV0R-S-VR-HUB/releases LATEST VR MOD FEATURES - Fully interactive VR main menu and lobby - Physical weapon handling, reloading and dual-wielding - Motion-controlled melee combat and cyberware - Improved stereo rendering, visuals and performance - Physical interactions with objects and in-game screens - Left-handed VR support - Improved controller haptics and VR settings Requires Cyberpunk 2077 PC version 2.5. This is a free ",
+   "text": "Cyberpunk 2077 VR Is Becoming a Masterpiece Cyberpunk 2077 VR has never been this good! I've been testing the latest VR mod update with my 5070ti, Meta Quest 3 and Virtual Desktop and the visuals, performance and physical VR interactions are absolutely incredible. This is getting seriously close to being one of my favourite VR mods of all time. Developer dariulone has taken Cyberpunk 2077 VR to another level with proper motion-controlled weapons, physical reloading, dual-wielding, interactive menus and a fully realised VR lobby. The latest v0.2.0 update, followed by the v0.2.1 hotfix, brings improved performance, better weapon handling, left-handed support, visual improvements and a much simpler installation process. And thanks to MrSurviv0r's VR HUB, getting Cyberpunk running in VR is now easier than ever. DOWNLOADS & LINKS 🎮 Cyberpunk 2077 VR Mod (dariulone): https://github.com/dariulone/cyberpunk-vr-port/releases 🛠️ MrSurviv0r's VR HUB — Easy Installer: https://mrsurvivor-installers.com/ 📦 MrSurviv0r's GitHub Downloads: https://github.com/MrSurviv0r/MRSURVIV0R-S-VR-HUB/releases LATEST VR MOD FEATURES - Fully interactive VR main menu and lobby - Physical weapon handling, reloading and dual-wielding - Motion-controlled melee combat and cyberware - Improved stereo rendering, visuals and performance - Physical interactions with objects and in-game screens - Left-handed VR support - Improved controller haptics and VR settings Requires Cyberpunk 2077 PC version 2.5. This is a",
    "repos": [
     "github:dariulone/cyberpunk-vr-port",
     "github:MrSurviv0r/MRSURVIV0R-S-VR-HUB"
