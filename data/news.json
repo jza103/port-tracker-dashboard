@@ -1,6 +1,136 @@
 {
  "articles": [
   {
+   "title": "Paper Mario PC Port, Star Wars Arcade Trilogy PC Port, EA Classics & SEGA Model 3 on MiSTer - 385",
+   "url": "https://www.youtube.com/watch?v=bltw7lwjj1w",
+   "date": "2026-11-07T20:00:15.000Z",
+   "source": "YouTube: Pixel Cherry Ninja",
+   "outlet": "YouTube: Pixel Cherry Ninja",
+   "summary": "USE CODE \"PixelCherryNinja\" for 10% OFF https://fightboxarcade.com/ EARLY ACCESS TO NEWS VIDEOS AND OTHER EXCLUSIVES https://www.youtube.com/channel/UCEozS0uaZibXKTQSu10XgSw/join https://www.patreon.com/PixelCherryNinja Buy a Octopus TR Fightstick https://www.trfightstick.com/?ref=PCN Click link then use code \"PCN\" for $25 Off Buy a Morph2K https://www.pixelfx.co/product-page/morph-2k-analog-video",
+   "image": "https://i3.ytimg.com/vi/bltw7lwjj1w/hqdefault.jpg",
+   "text": "Paper Mario PC Port, Star Wars Arcade Trilogy PC Port, EA Classics & SEGA Model 3 on MiSTer - 385 USE CODE \"PixelCherryNinja\" for 10% OFF https://fightboxarcade.com/ EARLY ACCESS TO NEWS VIDEOS AND OTHER EXCLUSIVES https://www.youtube.com/channel/UCEozS0uaZibXKTQSu10XgSw/join https://www.patreon.com/PixelCherryNinja Buy a Octopus TR Fightstick https://www.trfightstick.com/?ref=PCN Click link then use code \"PCN\" for $25 Off Buy a Morph2K https://www.pixelfx.co/product-page/morph-2k-analog-video-scaler?ref=PCN Buy a Zaparoo product (10% off) https://shop.zaparoo.com/discount/PixelCherryNinja or just enter code \"PixelCherryNinja\" (affiliate links above) Join the Pixel Cherry Ninja Gaming Discord https://discord.gg/5W9pCy2nXa Find all the sources here https://pixelcherryninja.blogspot.com/ Special thanks to channel Patreon's Silver Ninja's - John Gillotte, Meathax, RGM, SmoMo, VimDiesel Bronze Ninja's - Alessandro Gulli, Alexander Facchini, Anime0t4ku, anthony, Bjamiork, craigpow, Curt Dittmer, Ernie D, Fizzun Dirtnap, Juan Alvarez, Keith F. Kelly, Nicholas Robertson-Muir, Niallquinn, ncc1701p, Peter Davis, Scott Dowdle, Tamariel, theypsilon, ZXFace A special Thanks to all Channel Members I Really Really Like PCN! - RGM - Random Gaming Moments https://www.youtube.com/channel/UCIm6dft7oV92-zMCn4A6g2Q I Really Like PCN! - Aleem Tayyab, Bjamiork, CryptoCSguy, IÃ±aki Etxebarria, Silent253, Terry BD, VolJoe I Like PCN! - Alphanu1, BadWolf7888, batty, Boink, Chainy, CursedToast, David ",
+   "repos": [],
+   "firstSeen": "2026-11-07T20:20:18.275Z"
+  },
+  {
+   "title": "Building a Homemade Induction Soldering Iron",
+   "url": "https://hackaday.com/2026/11/07/building-a-homemade-induction-soldering-iron/",
+   "date": "2026-11-07T19:30:38.000Z",
+   "source": "Hackaday",
+   "outlet": "Hackaday",
+   "summary": "Despite not being inherently any better at converting electricity into heat, induction-heated soldering irons often considerably outperform conventional irons with an identical power rating. They manage this by directly heating …read more",
+   "image": "https://hackaday.com/wp-content/uploads/2026/11/induction_soldering_iron.png",
+   "text": "Building a Homemade Induction Soldering Iron Despite not being inherently any better at converting electricity into heat, induction-heated soldering irons often considerably outperform conventional irons with an identical power rating. They manage this by directly heating the iron tip with an internal induction coil, rather than conducting heat from a heater cartridge farther back — a design which makes induction irons very responsive, stable, and, unfortunately, expensive. [Frank Zhao], though, managed to design and build two induction soldering irons of his own. In some ways, the handpiece of an induction-heated soldering iron is simpler than a resistive iron. Induction-powered soldering irons don’t have temperature sensors or any kind of electronic temperature control. Instead, the tip’s temperature is set by the cartridge material’s Curie point; once the cartridge reaches this temperature, the heating efficiency drops off sharply. This self-regulation means that most of the project’s complexity is contained in the power supply, which supplies an RF signal to the induction coil. Here, [Frank] had two previous projects to work off of, and he based one design on each. The first was the work of [SergeyMax], who’d reverse-engineered a Metcal soldering iron and built his own induction iron based on it. This relied, however, on components hard to find outside of Russia, so [Frank] updated it to use parts available in America. It uses a frequency of 13.56 MHz and an F-type connec",
+   "repos": [
+    "github:RadioThermal/RadioThermal_Soldering_OSHW"
+   ],
+   "firstSeen": "2026-11-07T20:20:18.275Z"
+  },
+  {
+   "title": "Dead Space VR (2008) is out! (Talemann)",
+   "url": "https://www.youtube.com/watch?v=W8E_JocmQqo",
+   "date": "2026-11-07T18:26:09.000Z",
+   "source": "YouTube: LunchAndVR",
+   "outlet": "YouTube: LunchAndVR",
+   "summary": "Dead Space (2008) VR Mod by Talemann is out! Works with Steam, GOG & EA store versions. Mod here: https://dspacevr.com/index.html Tested on Quest 3, Virtual Desktop Ultra 90hz EA Store version of Dead Space (2008) PC: 4090 13900K _ Thanks for coming! Appreciate you dropping by here, you're a cool person. If you want to stay around, I do all things VR & gaming related. (lunch included) Lunch's Disc",
+   "image": "https://i4.ytimg.com/vi/W8E_JocmQqo/hqdefault.jpg",
+   "text": "Dead Space VR (2008) is out! (Talemann) Dead Space (2008) VR Mod by Talemann is out! Works with Steam, GOG & EA store versions. Mod here: https://dspacevr.com/index.html Tested on Quest 3, Virtual Desktop Ultra 90hz EA Store version of Dead Space (2008) PC: 4090 13900K _ Thanks for coming! Appreciate you dropping by here, you're a cool person. If you want to stay around, I do all things VR & gaming related. (lunch included) Lunch's Discounts/affiliates here: https://linktr.ee/lunchandvr #vr #virtualreality #ar #mr #deadspace",
+   "repos": [],
+   "firstSeen": "2026-11-07T20:20:18.275Z"
+  },
+  {
+   "title": "Exceptional Metro Exodus VR Mod",
+   "url": "https://www.youtube.com/watch?v=nSIta3E7mcE",
+   "date": "2026-11-07T18:15:23.000Z",
+   "source": "YouTube: Paradise Decay",
+   "outlet": "YouTube: Paradise Decay",
+   "summary": "►►Get the Mod for FREE here: https://github.com/RippeR37/MetroExodusVR ►PayPal (Buy me a coffee!): paradisedecay@virginmedia.com ►Patreon: https://www.patreon.com/ParadiseDecay ►Discord: https://discordapp.com/invite/hBgUqYD ►PD Steam Curator Group: http://store.steampowered.com/curator/6659922-Paradise-Decay-Game-Reviews/ ---------------------------------------------------------------------------",
+   "image": "https://i3.ytimg.com/vi/nSIta3E7mcE/hqdefault.jpg",
+   "text": "Exceptional Metro Exodus VR Mod ►►Get the Mod for FREE here: https://github.com/RippeR37/MetroExodusVR ►PayPal (Buy me a coffee!): paradisedecay@virginmedia.com ►Patreon: https://www.patreon.com/ParadiseDecay ►Discord: https://discordapp.com/invite/hBgUqYD ►PD Steam Curator Group: http://store.steampowered.com/curator/6659922-Paradise-Decay-Game-Reviews/ --------------------------------------------------------------------------------------------- ☆ MY PC Specs: https://www.scan.co.uk/products/3xs-edge-rtx-intel-core-ultra-9-285k-32gb-ddr5-16gb-nvidia-rtx-5080-2tb-ssd-win-11? ☆ My Dedicated Router: https://www.amazon.co.uk/dp/B0B42GCD76?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_1&th=1 ☆ Meta Quest 3 ☆ GeForce RTX 5080 ☆ Windows 11, 64 bit ☆ Intel(R) Core(TM) Ultra 9 285K 3.70 GHz ☆ 32.0GB Ram #metroexodus #vr #VRMod #Quest3 #QuestCreatorPartner #quest3s #metaquest #metaquest3 #metaquest3s #quest3games #roomscale #steam #NativeVR #steamvr #Quest3 #valve #uevr #3rdperson #1stpersonshooters #1stperson #horrorshooter #vrmods --------------------------------------------------------------- Thank you for watching the video! Please leave a 👍 Subscribe if you enjoy VR & hit the 🔔 🎵 - My NEW Digital Album 'Ai2': https://paradisedecay.bandcamp.com/album/ai2 👀➦ PayPal (Buy me a coffee!): paradisedecay@virginmedia.com 👾Patreon - https://www.patreon.com/ParadiseDecayTM 👕 PD Merch - https://paradise-decay-merch-shop.myspreadshop.co.uk/ 🐦 X - https://x.com/ParadiseDecayVR 📽️ Youtube ",
+   "repos": [
+    "github:RippeR37/MetroExodusVR"
+   ],
+   "firstSeen": "2026-11-07T20:20:18.275Z"
+  },
+  {
+   "title": "Dead Space VR is Finally Everything I Wanted",
+   "url": "https://www.youtube.com/watch?v=1CnFXj2OKFI",
+   "date": "2026-11-07T18:11:28.000Z",
+   "source": "YouTube: Gamertag VR",
+   "outlet": "YouTube: Gamertag VR",
+   "summary": "Dead Space VR is absolutely incredible! The original 2008 survival horror classic has been transformed into a fully playable VR experience, and it genuinely feels like a native VR game rather than a mod. Created by Talemann, this incredible VR conversion brings full motion controls, physical weapon handling, two-handed aiming, immersive interactions, Stasis and Kinesis abilities, a wrist-based inv",
+   "image": "https://i2.ytimg.com/vi/1CnFXj2OKFI/hqdefault.jpg",
+   "text": "Dead Space VR is Finally Everything I Wanted Dead Space VR is absolutely incredible! The original 2008 survival horror classic has been transformed into a fully playable VR experience, and it genuinely feels like a native VR game rather than a mod. Created by Talemann, this incredible VR conversion brings full motion controls, physical weapon handling, two-handed aiming, immersive interactions, Stasis and Kinesis abilities, a wrist-based inventory system and much more. Even better, there's now a simple one-click installer, making it easier than ever to experience Dead Space in virtual reality. In this video, I jump back aboard the USG Ishimura to see just how good Dead Space VR really is, explore its features and share my impressions of yet another amazing flat to vr port DEAD SPACE VR MOD IS NOW LIVE Official website, download and installer: https://dspacevr.com FEATURES - Full 6DoF VR and roomscale support - Motion-controlled weapons and two-handed aiming - Physical melee combat and stomping - Motion-controlled Stasis and Kinesis - Interactive doors, lockers and holographic menus - Wrist-based inventory and health display - Enhanced textures, shadows and visual effects - Simple one-click installer IMPORTANT: This mod is designed for the original Dead Space (2008) PC release, not the 2023 remake. MY PC SPECS CPU: Intel Core i9-14900K GPU: NVIDIA GeForce RTX 5070 Ti 16GB RAM: 32GB DDR5 6000MHz OS: Windows 64-bit ⭐️How To Support The Channel and my Content: ⭐️Become a YouTube ",
+   "repos": [],
+   "firstSeen": "2026-11-07T20:20:18.275Z"
+  },
+  {
+   "title": "A Zelda Ocarina of Time Remake recomp port is already here",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORnZuZ1lNYVBQaE9GMjNsVk04SkcwZjVMVXo2SzN5WlFIcTZJb2VEdEQ4bU1Zd1d0YjlZQTVtcXhWX1BhSzNHeER5UWhzTGRCWDRFZjV3cTZRMUZxVThXd0gtS3NCd3BUa21HcFRWOVY1VVpHd0FYWWdGQ0NGUzJETU1SZnFOSkZwVkVPUkNOYUkwYzduSTZ5MUJ5XzZmMWZLMHVaUktn?oc=5",
+   "date": "2026-11-07T17:49:00.000Z",
+   "source": "Google News",
+   "outlet": "Notebookcheck",
+   "summary": "",
+   "image": null,
+   "text": "A Zelda Ocarina of Time Remake recomp port is already here - Notebookcheck A Zelda Ocarina of Time Remake recomp port is already here Notebookcheck",
+   "repos": [],
+   "firstSeen": "2026-11-07T20:20:18.275Z"
+  },
+  {
+   "title": "Doom Eternal VR With Motion Controls Is Unbelievable (Guide & Settings)",
+   "url": "https://www.youtube.com/watch?v=Hy9DicGMhL4",
+   "date": "2026-11-07T16:45:31.000Z",
+   "source": "YouTube: ReaperzVR",
+   "outlet": "YouTube: ReaperzVR",
+   "summary": "Install Guide and Recommended Settings! Doom Eternal in VR with the dedicated VR Mod by CactusVRStudios https://github.com/CactusVRStudios/KHARVOX-ARGENT I am currently using the XBOX PC Version of the game, but any version should work. Doom Eternal - Steam https://store.steampowered.com/app/782330/DOOM_Eternal/ Doom Eternal - GOG https://www.gog.com/en/game/doom_eternal Doom Eternal - XBOX https:",
+   "image": "https://i1.ytimg.com/vi/Hy9DicGMhL4/hqdefault.jpg",
+   "text": "Doom Eternal VR With Motion Controls Is Unbelievable (Guide & Settings) Install Guide and Recommended Settings! Doom Eternal in VR with the dedicated VR Mod by CactusVRStudios https://github.com/CactusVRStudios/KHARVOX-ARGENT I am currently using the XBOX PC Version of the game, but any version should work. Doom Eternal - Steam https://store.steampowered.com/app/782330/DOOM_Eternal/ Doom Eternal - GOG https://www.gog.com/en/game/doom_eternal Doom Eternal - XBOX https://www.xbox.com/en-AU/games/store/doom-eternal-standard-edition/9p5s26314hwq VR Mod by CactusVRStudios https://github.com/CactusVRStudios/KHARVOX-ARGENT Recommended In-Game Settings - Display Mode: Borderless Windowed - Vertical Sync: Off - Motion Blur: Off - Raytracing: Off - DLSS: On (Balanced) - Chromatic Aberration: Off - Graphics Quality: High (Or lower depending on GPU and FPS) VR Launcher Settings Default Make sure you set your game location correctly With these settings and my 4090 I was achieving a steam 80-90 frames per second. If you experience any stutters or lag, try reduce your settings. ------------------------------------------------------------------------------------------------------------- ✨Support the channel by : 🔴 Subscribing and watching my videos - https://www.youtube.com/@ReaperzVR 🔴 Using the Hype Video Button 🔴 Using the Super Thanks Button under the video 🔴 Buying me a coffee through paypal : https://www.paypal.com/paypalme/slayerazazel 🔴 Support me on my Patreon : https://www.pat",
+   "repos": [
+    "github:CactusVRStudios/KHARVOX-ARGENT"
+   ],
+   "firstSeen": "2026-11-07T20:20:18.275Z"
+  },
+  {
+   "title": "The Legend of Zelda: Tears of the Kingdom Recomp Performance / SteamOS 3.9.5",
+   "url": "https://www.youtube.com/watch?v=XLCKSgWFUC8",
+   "date": "2026-11-07T16:39:31.000Z",
+   "source": "YouTube: NotAGameAddict",
+   "outlet": "YouTube: NotAGameAddict",
+   "summary": "00:00 - Gameplay 03:05 - Settings overview 03:57 - LSFG-VK 2X 08:22 - LSFG-VK 2X - 30 fps cap The Legend of Zelda: Tears of the Kingdom Recomp mod - https://github.com/valentderah/totk-pc-recomp",
+   "image": "https://i1.ytimg.com/vi/XLCKSgWFUC8/hqdefault.jpg",
+   "text": "The Legend of Zelda: Tears of the Kingdom Recomp Performance / SteamOS 3.9.5 00:00 - Gameplay 03:05 - Settings overview 03:57 - LSFG-VK 2X 08:22 - LSFG-VK 2X - 30 fps cap The Legend of Zelda: Tears of the Kingdom Recomp mod - https://github.com/valentderah/totk-pc-recomp",
+   "repos": [
+    "github:valentderah/totk-pc-recomp"
+   ],
+   "firstSeen": "2026-11-07T20:20:18.275Z"
+  },
+  {
+   "title": "Times are changing! - Ori and the Blind Forest (Definitive Edition) VR Mod!",
+   "url": "https://www.youtube.com/watch?v=C7sUbJclU1k",
+   "date": "2026-11-07T16:00:09.000Z",
+   "source": "YouTube: Paradise Decay",
+   "outlet": "YouTube: Paradise Decay",
+   "summary": "►►Get the Mod for FREE here: https://github.com/scubasteve2365/OriVR ►PayPal (Buy me a coffee!): paradisedecay@virginmedia.com ►Patreon: https://www.patreon.com/ParadiseDecay ►Discord: https://discordapp.com/invite/hBgUqYD ►PD Steam Curator Group: http://store.steampowered.com/curator/6659922-Paradise-Decay-Game-Reviews/ -----------------------------------------------------------------------------",
+   "image": "https://i4.ytimg.com/vi/C7sUbJclU1k/hqdefault.jpg",
+   "text": "Times are changing! - Ori and the Blind Forest (Definitive Edition) VR Mod! ►►Get the Mod for FREE here: https://github.com/scubasteve2365/OriVR ►PayPal (Buy me a coffee!): paradisedecay@virginmedia.com ►Patreon: https://www.patreon.com/ParadiseDecay ►Discord: https://discordapp.com/invite/hBgUqYD ►PD Steam Curator Group: http://store.steampowered.com/curator/6659922-Paradise-Decay-Game-Reviews/ --------------------------------------------------------------------------------------------- ☆ MY PC Specs: https://www.scan.co.uk/products/3xs-edge-rtx-intel-core-ultra-9-285k-32gb-ddr5-16gb-nvidia-rtx-5080-2tb-ssd-win-11? ☆ My Dedicated Router: https://www.amazon.co.uk/dp/B0B42GCD76?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_1&th=1 ☆ Meta Quest 3 ☆ GeForce RTX 5080 ☆ Windows 11, 64 bit ☆ Intel(R) Core(TM) Ultra 9 285K 3.70 GHz ☆ 32.0GB Ram #oriandtheblindforestdefinitiveedition #oriandtheblindforest #vr #VRMod #Quest3 #QuestCreatorPartner #quest3s #metaquest #metaquest3 #metaquest3s #quest3games #roomscale #steam #NativeVR #steamvr #Quest3 #valve #uevr #3rdperson #platformer #platformgames #sidescroller #vrmods --------------------------------------------------------------- Thank you for watching the video! Please leave a 👍 Subscribe if you enjoy VR & hit the 🔔 🎵 - My NEW Digital Album 'Ai2': https://paradisedecay.bandcamp.com/album/ai2 👀➦ PayPal (Buy me a coffee!): paradisedecay@virginmedia.com 👾Patreon - https://www.patreon.com/ParadiseDecayTM 👕 PD Merch - https://paradise-",
+   "repos": [
+    "github:scubasteve2365/OriVR"
+   ],
+   "firstSeen": "2026-11-07T20:20:18.275Z"
+  },
+  {
+   "title": "Kingdom Come: Deliverance II VR Performance / New VR Mod with 6DOF Motion Controls / PCVR",
+   "url": "https://www.youtube.com/watch?v=rlthT9KFgyw",
+   "date": "2026-11-07T15:27:52.000Z",
+   "source": "YouTube: NotAGameAddict",
+   "outlet": "YouTube: NotAGameAddict",
+   "summary": "00:00 - Sword fight 05:15 - VR gameplay with VR overlay 09:11 - Dice game 11:15 - Bow 12:31 - VR settings KCD2VR mod made by 0Nicolas125 - https://www.nexusmods.com/kingdomcomedeliverance2/mods/3607?tab=description Kingdom Come: Deliverance II - https://store.steampowered.com/app/1771300/Kingdom_Come_Deliverance_II/",
+   "image": "https://i3.ytimg.com/vi/rlthT9KFgyw/hqdefault.jpg",
+   "text": "Kingdom Come: Deliverance II VR Performance / New VR Mod with 6DOF Motion Controls / PCVR 00:00 - Sword fight 05:15 - VR gameplay with VR overlay 09:11 - Dice game 11:15 - Bow 12:31 - VR settings KCD2VR mod made by 0Nicolas125 - https://www.nexusmods.com/kingdomcomedeliverance2/mods/3607?tab=description Kingdom Come: Deliverance II - https://store.steampowered.com/app/1771300/Kingdom_Come_Deliverance_II/",
+   "repos": [],
+   "firstSeen": "2026-11-07T20:20:18.275Z"
+  },
+  {
    "title": "SoulCalibur Recomp Out NOW! A Dreamcast Recomp",
    "url": "https://www.youtube.com/watch?v=MNe9F6-tvbg",
    "date": "2026-11-07T14:00:19.000Z",
@@ -250,14 +380,14 @@
    "firstSeen": "2026-11-06T21:38:46.246Z"
   },
   {
-   "title": "I Played Metro Exodus VR and It's Seriously Impressive",
+   "title": "Metro Exodus VR is an Incredible Achievement",
    "url": "https://www.youtube.com/watch?v=StIWxMHDF_I",
    "date": "2026-11-06T19:10:50.000Z",
    "source": "YouTube: Gamertag VR",
    "outlet": "YouTube: Gamertag VR",
    "summary": "Metro Exodus VR is looking absolutely incredible! I've been playing the upcoming PCVR mod from RippeR37, and honestly, the visuals, performance and VR mechanics have seriously impressed me. This isn't just Metro Exodus with a VR camera. We're talking full motion controls, physical weapon handling, manual reloading, interactive environments and proper 6DoF VR gameplay. But it's not perfect. The gam",
    "image": "https://i4.ytimg.com/vi/StIWxMHDF_I/hqdefault.jpg",
-   "text": "I Played Metro Exodus VR and It's Seriously Impressive Metro Exodus VR is looking absolutely incredible! I've been playing the upcoming PCVR mod from RippeR37, and honestly, the visuals, performance and VR mechanics have seriously impressed me. This isn't just Metro Exodus with a VR camera. We're talking full motion controls, physical weapon handling, manual reloading, interactive environments and proper 6DoF VR gameplay. But it's not perfect. The game has a lot of cutscenes, and I've encountered a few technical issues, including freezing when a VR controller disconnects. So how good is Metro Exodus in VR, and could this become one of the best VR mods we've seen? METRO EXODUS VR MOD LINKS Mod developer & project updates: https://buymeacoffee.com/ripper37 Flat2VR Modding Discord: https://discord.gg/RgSnyuZExb Find the Metro Exodus VR mod thread in #new-vr-mods for updates and discussion. *The mod is still in development, with no confirmed public download date.* My PC Specs CPU: Intel Core i9-14900K GPU: NVIDIA GeForce RTX 5070 Ti 16GB RAM: 32GB DDR5 6000MHz OS: Windows 64-bit ⭐️How To Support The Channel and my Content: ⭐️Become a YouTube channel member with exclusive benefits: https://www.youtube.com/channel/UCnrAvt4i_2WV3yEKWyEUMlg/join ⭐️Sign up as aPatron with exclusive benefits: https://www.patreon.com/c/GamertagVR ⭐️Save 10% on all Meta Quest Games by using code ‘GTVR’ at the checkout ⭐️Grab some prescription lenses for your VR headsets Vr Rock and save 10% using code 'G",
+   "text": "Metro Exodus VR is an Incredible Achievement Metro Exodus VR is looking absolutely incredible! I've been playing the upcoming PCVR mod from RippeR37, and honestly, the visuals, performance and VR mechanics have seriously impressed me. This isn't just Metro Exodus with a VR camera. We're talking full motion controls, physical weapon handling, manual reloading, interactive environments and proper 6DoF VR gameplay. But it's not perfect. The game has a lot of cutscenes, and I've encountered a few technical issues, including freezing when a VR controller disconnects. So how good is Metro Exodus in VR, and could this become one of the best VR mods we've seen? METRO EXODUS VR MOD LINKS Mod developer & project updates: https://buymeacoffee.com/ripper37 Flat2VR Modding Discord: https://discord.gg/RgSnyuZExb Find the Metro Exodus VR mod thread in #new-vr-mods for updates and discussion. *The mod is still in development, with no confirmed public download date.* My PC Specs CPU: Intel Core i9-14900K GPU: NVIDIA GeForce RTX 5070 Ti 16GB RAM: 32GB DDR5 6000MHz OS: Windows 64-bit ⭐️How To Support The Channel and my Content: ⭐️Become a YouTube channel member with exclusive benefits: https://www.youtube.com/channel/UCnrAvt4i_2WV3yEKWyEUMlg/join ⭐️Sign up as aPatron with exclusive benefits: https://www.patreon.com/c/GamertagVR ⭐️Save 10% on all Meta Quest Games by using code ‘GTVR’ at the checkout ⭐️Grab some prescription lenses for your VR headsets Vr Rock and save 10% using code 'GTVR' https",
    "repos": [],
    "firstSeen": "2026-11-06T21:38:46.246Z"
   },
@@ -842,14 +972,14 @@
    "firstSeen": "2026-11-04T19:55:48.147Z"
   },
   {
-   "title": "Indiana Jones VR is out!",
+   "title": "Indiana Jones VR is out! (Beta)",
    "url": "https://www.youtube.com/watch?v=Bk8LYc0IFgI",
    "date": "2026-11-04T14:35:15.000Z",
    "source": "YouTube: LunchAndVR",
    "outlet": "YouTube: LunchAndVR",
    "summary": "Presenting Indiana Jones And The Great Circle in VR! This mod is called Kharvox-Circle by Cactus VR, the same guy who did the Doom VR mods. The latest version supports Steam, GOG and Microsoft Store (Gamepass) versions. It has motion controls and whip swinging! The visuals are fine, it has a mono mode too. Encountered some blurry distant visuals. Controls also need a bit more finessing. It's still",
    "image": "https://i3.ytimg.com/vi/Bk8LYc0IFgI/hqdefault.jpg",
-   "text": "Indiana Jones VR is out! Presenting Indiana Jones And The Great Circle in VR! This mod is called Kharvox-Circle by Cactus VR, the same guy who did the Doom VR mods. The latest version supports Steam, GOG and Microsoft Store (Gamepass) versions. It has motion controls and whip swinging! The visuals are fine, it has a mono mode too. Encountered some blurry distant visuals. Controls also need a bit more finessing. It's still a beta work in progress, expect updates. Mod here: https://github.com/CactusVRStudios/KHARVOX-CIRCLE Support the modder by getting Cactus VR games or by donating: https://ko-fi.com/cactusvrstudios/tip For discussion & updates, join the flat2vr discord: https://www.flat2vr.com Played on Quest 3, Virtual Desktop Ultra, 90hz Indiana Jones PC Gamepass Version PC: 4090 13900K _ Thanks for coming! Appreciate you dropping by here, you're a cool person. If you want to stay around, I do all things VR & gaming related. (lunch included) Lunch's Discounts/affiliates here: https://linktr.ee/lunchandvr On this LunchAndVR YouTube Channel you'll always find the latest VR gameplay, PCVR mods, and honest virtual reality hardware reviews across the best headsets like the Meta Quest 3, Meta Quest 3S, Pimax Crystal Super, Steam Frame, and PSVR2. We dive deep into flat-to-VR modding using Praydog's UEVR injector, OpenXR, and custom 6DOF conversions for massive games like Indiana Jones and The Great Circle VR (Kharvox-Circle), DOOM VR (Kharvox:Argent), Cyberpunk 2077 VR, Titanfall",
+   "text": "Indiana Jones VR is out! (Beta) Presenting Indiana Jones And The Great Circle in VR! This mod is called Kharvox-Circle by Cactus VR, the same guy who did the Doom VR mods. The latest version supports Steam, GOG and Microsoft Store (Gamepass) versions. It has motion controls and whip swinging! The visuals are fine, it has a mono mode too. Encountered some blurry distant visuals. Controls also need a bit more finessing. It's still a beta work in progress, expect updates. Mod here: https://github.com/CactusVRStudios/KHARVOX-CIRCLE Support the modder by getting Cactus VR games or by donating: https://ko-fi.com/cactusvrstudios/tip For discussion & updates, join the flat2vr discord: https://www.flat2vr.com Played on Quest 3, Virtual Desktop Ultra, 90hz Indiana Jones PC Gamepass Version PC: 4090 13900K _ Thanks for coming! Appreciate you dropping by here, you're a cool person. If you want to stay around, I do all things VR & gaming related. (lunch included) Lunch's Discounts/affiliates here: https://linktr.ee/lunchandvr On this LunchAndVR YouTube Channel you'll always find the latest VR gameplay, PCVR mods, and honest virtual reality hardware reviews across the best headsets like the Meta Quest 3, Meta Quest 3S, Pimax Crystal Super, Steam Frame, and PSVR2. We dive deep into flat-to-VR modding using Praydog's UEVR injector, OpenXR, and custom 6DOF conversions for massive games like Indiana Jones and The Great Circle VR (Kharvox-Circle), DOOM VR (Kharvox:Argent), Cyberpunk 2077 VR, Ti",
    "repos": [
     "github:CactusVRStudios/KHARVOX-CIRCLE"
    ],
@@ -6958,14 +7088,14 @@
    "firstSeen": "2026-10-31T20:06:38.932Z"
   },
   {
-   "title": "THIS NEW TOOL ACTUALLY WORKS! | OFXR-Bridge Setup & MSFS 2024 Test",
+   "title": "SQUEEZE More FPS from your GPU with this NEW Tool| OFXR-Bridge Setup & MSFS 2024 Test",
    "url": "https://www.youtube.com/watch?v=KauwJht9LgY",
    "date": "2026-10-05T23:00:18.000Z",
    "source": "YouTube: VR DaD",
    "outlet": "YouTube: VR DaD",
    "summary": "We are taking a look at OFXR-Bridge—a game-changing OpenXR tool that brings frame generation into PCVR without the heavy artifacting and distortion you usually get from traditional SpaceWarp techniques like ASW or SSW. We start off in Microsoft Flight Simulator 2024 to test how it feels inside the headset during flight, followed by a step-by-step tutorial on how to install, configure, and get OFXR",
    "image": "https://i4.ytimg.com/vi/KauwJht9LgY/hqdefault.jpg",
-   "text": "THIS NEW TOOL ACTUALLY WORKS! | OFXR-Bridge Setup & MSFS 2024 Test We are taking a look at OFXR-Bridge—a game-changing OpenXR tool that brings frame generation into PCVR without the heavy artifacting and distortion you usually get from traditional SpaceWarp techniques like ASW or SSW. We start off in Microsoft Flight Simulator 2024 to test how it feels inside the headset during flight, followed by a step-by-step tutorial on how to install, configure, and get OFXR-Bridge running on your setup. If you are looking for smoother frame rates and motion in demanding VR simulators, this tool is well worth testing on your rig! 📌 Useful Links & Resources: 🔗 Save $200 on a motion simulator with my discount link: https://shallxr.com/products/yaw-u-the-only-full-360-motion-simulator-for-flight-sims?ref=VRDaD 🔗 OFXR-Bridge on GitHub: https://github.com/djules75/OFXR-Bridge 🔗 Discord: https://discord.gg/S2hpcXasER 💖 Support the channel by becoming a Member: https://www.youtube.com/channel/UCk3kCEYhdR6mJX1wsaYPsOw/join 💬 Join the Discussion: Are you using motion reprojection/SpaceWarp in your VR setup, or do you prefer running native frame rates? Let me know in the comments below! 👍 Like & Subscribe for more no-nonsense PCVR benchmarks, tutorials, and hardware guides! Ciao! TIMESTAMPS 00:00 - Introduction & MSFS 2024 Gameplay Showcase 03:05 - Tutorial Hashtags #MSFS2024 #PCVR #VRGaming #OpenXR #MetaQuest3 #FlightSim #VRMods #VirtualReality #steamframe",
+   "text": "SQUEEZE More FPS from your GPU with this NEW Tool| OFXR-Bridge Setup & MSFS 2024 Test We are taking a look at OFXR-Bridge—a game-changing OpenXR tool that brings frame generation into PCVR without the heavy artifacting and distortion you usually get from traditional SpaceWarp techniques like ASW or SSW. We start off in Microsoft Flight Simulator 2024 to test how it feels inside the headset during flight, followed by a step-by-step tutorial on how to install, configure, and get OFXR-Bridge running on your setup. If you are looking for smoother frame rates and motion in demanding VR simulators, this tool is well worth testing on your rig! 📌 Useful Links & Resources: 🔗 Save $200 on a motion simulator with my discount link: https://shallxr.com/products/yaw-u-the-only-full-360-motion-simulator-for-flight-sims?ref=VRDaD 🔗 OFXR-Bridge on GitHub: https://github.com/djules75/OFXR-Bridge 🔗 Discord: https://discord.gg/S2hpcXasER 💖 Support the channel by becoming a Member: https://www.youtube.com/channel/UCk3kCEYhdR6mJX1wsaYPsOw/join 💬 Join the Discussion: Are you using motion reprojection/SpaceWarp in your VR setup, or do you prefer running native frame rates? Let me know in the comments below! 👍 Like & Subscribe for more no-nonsense PCVR benchmarks, tutorials, and hardware guides! Ciao! TIMESTAMPS 00:00 - Introduction & MSFS 2024 Gameplay Showcase 03:05 - Tutorial Hashtags #MSFS2024 #PCVR #VRGaming #OpenXR #MetaQuest3 #FlightSim #VRMods #VirtualReality #steamframe",
    "repos": [
     "github:djules75/OFXR-Bridge"
    ],
