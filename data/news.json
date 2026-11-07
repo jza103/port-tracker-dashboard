@@ -1,6 +1,20 @@
 {
  "articles": [
   {
+   "title": "Pokémon Fulldex Brings Every DS Pokémon Game To One Widescreen, Switch Included",
+   "url": "https://retrohandhelds.gg/pokemon-fulldex-brings-every-ds-pokemon-game-to-one-widescreen-switch-included/",
+   "date": "2026-11-07T21:47:38.000Z",
+   "source": "Retro Handhelds",
+   "outlet": "Retro Handhelds",
+   "summary": "Pokémon Fulldex promises all nine DS Pokémon games in single-screen widescreen at 60fps on Switch, PC, and mobile. The post Pokémon Fulldex Brings Every DS Pokémon Game To One Widescreen, Switch Included first appeared on Retro Handhelds .",
+   "image": null,
+   "text": "Pokémon Fulldex Brings Every DS Pokémon Game To One Widescreen, Switch Included The DS Pokémon library just got a lot easier to actually play. Pokémon Fulldex, a project from developer mamesj, runs every mainline DS Pokémon game as a single widescreen image, promising 60 fps, on Windows, Mac, Linux, Steam Deck, Android, iPhone and iPad, and on a modded Nintendo Switch. That covers nine DS titles: Black and White , Black 2 and White 2 , HeartGold and SoulSilver , Platinum , Diamond , and Pearl . Six GBA games come along for the ride too: Emerald, Ruby, Sapphire, FireRed, LeafGreen , and romhack favorite Ultra Violet . The project says the Switch runs the games at 720p, while a PC can push them all the way to 4K. RetroAchievements, cheats, save states, and custom colors and backgrounds are built in from the start. Check it out in this video from our friend Team Retrogue. What makes the magic all the more impressive is that this is not a native port. Fulldex runs the games on a built-in melonDS core, with a layer on top that understands what the game is doing – which screen, which menu, which battle – and rearranges it into one proper 16:9 picture. There is nothing else to install, but the downloads obviously ship no game files: you bring your own legally obtained ROMs. The project builds on years of decomp-community work, including a fork of ClickingMaster's ssrecomp. The project is open source under GPLv3, and the GitHub repository passed 700 stars within two weeks of going pu",
+   "repos": [
+    "github:mamesj/pokemon-fulldex"
+   ],
+   "firstSeen": "2026-11-07T23:44:36.420Z"
+  },
+  {
    "title": "Paper Mario PC Port, Star Wars Arcade Trilogy PC Port, EA Classics & SEGA Model 3 on MiSTer - 385",
    "url": "https://www.youtube.com/watch?v=bltw7lwjj1w",
    "date": "2026-11-07T20:00:15.000Z",
