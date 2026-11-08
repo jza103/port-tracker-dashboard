@@ -1,6 +1,162 @@
 {
  "articles": [
   {
+   "title": "An FPGA Version of the AT&T UNIX PC for MiSTer",
+   "url": "https://hackaday.com/2026/11/08/an-fpga-version-of-the-att-unix-pc-for-mister/",
+   "date": "2026-11-08T15:00:46.000Z",
+   "source": "Hackaday",
+   "outlet": "Hackaday",
+   "summary": "We all have our childhood heroes, which in the case of [Hrvoje Cavrak] was the 1985 AT&T UNIX PC. This 18 kg behemoth of a workstation computer boasted a 10 MHz …read more",
+   "image": "https://hackaday.com/wp-content/uploads/2026/11/att_unix_pc_jda_wikimedia_cropped.jpg",
+   "text": "An FPGA Version of the AT&T UNIX PC for MiSTer We all have our childhood heroes, which in the case of [Hrvoje Cavrak] was the 1985 AT&T UNIX PC. This 18 kg behemoth of a workstation computer boasted a 10 MHz Motorola 68010 CPU, up to 4 MB of RAM and dozens of megabytes of storage in addition to endless expansion options, making it a powerhouse of a personal computer for the discerning professional. Now, many decades later [Hrvoje] has an FPGA-based version to tinker with . This project targets the MiSTer project, meaning that this softcore with SystemVerilog, Verilog and VHDL components should synthesize and run on any MiSTer-compatible FPGA system, such as the DE10 Nano. For that board the SDRAM add-on board is required due to the DE10 Nano Cyclone V SoC's FPGA side only having access to a fraction of the 4 MB required by the softcore. Obviously the boot ROM and disk images for AT&T UNIX are still under copyright, so although you can download both you should be wary of provoking the current copyright holder. With that in place, however, you now have got access to a very complete UNIX PC experience, as can be seen in the demonstration video . Some aspects of the code were written and validated by LLM coding chatbots, so this is still a ‘works on my MiSTer board' project. In lieu of getting access to the real hardware – meanwhile priced at unobtanium levels – this seems like a fair enough trade-off if old workstations like these are your thing. The UNIX PC obviously didn't mak",
+   "repos": [
+    "github:hrvach/unixpc"
+   ],
+   "firstSeen": "2026-11-08T15:23:40.938Z"
+  },
+  {
+   "title": "Dead Space VR Feels Like a REAL VR Game Now",
+   "url": "https://www.youtube.com/shorts/9E4uuL1vGkc",
+   "date": "2026-11-08T15:00:21.000Z",
+   "source": "YouTube: Gamertag VR",
+   "outlet": "YouTube: Gamertag VR",
+   "summary": "Dead Space VR genuinely feels like a proper VR game now! This incredible mod transforms the original 2008 classic with motion-controlled weapons, physical interactions, Stasis, Kinesis and a full wrist-mounted VR interface. One of the most impressive flat-to-VR conversions I've played. Watch my full Dead Space VR video for gameplay, impressions and installation details. #DeadSpaceVR #DeadSpace #VR",
+   "image": "https://i2.ytimg.com/vi/9E4uuL1vGkc/hqdefault.jpg",
+   "text": "Dead Space VR Feels Like a REAL VR Game Now Dead Space VR genuinely feels like a proper VR game now! This incredible mod transforms the original 2008 classic with motion-controlled weapons, physical interactions, Stasis, Kinesis and a full wrist-mounted VR interface. One of the most impressive flat-to-VR conversions I've played. Watch my full Dead Space VR video for gameplay, impressions and installation details. #DeadSpaceVR #DeadSpace #VRMods #metaquest3 #questcreatorpartner #gamertagvr",
+   "repos": [],
+   "firstSeen": "2026-11-08T15:23:40.938Z"
+  },
+  {
+   "title": "Zelda: Ocarina of Time Remake already runs on ultrawide PC monitors through native recompilation, DLSS and FSR support included",
+   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPYkI2dlBDM3BhWUgwUzF3b1l5aUI4MzlYNERtX0c3b2s3aGhqZmxiUmFFQ05sOUJkZmdnaGE5aGxvWWxxOXlwOVBTUjI3cDMydGU3X2VxTGstUS1NcWhMSVVGOF8tc1pVRWpTdzVxaWl6XzNyTzZWMVZJLXVnRkltNVZuQVI3OHo4alUybUhOSHVMRmtVRTRZYmRMMXVIcUlCeThuWG5aa055SmFGQ3BVYW1Za0lISHlxR2htbzNCMDliSmFEU2NLSFQwb0dRblMwN0JKN0JiMEtxeXZSUDZZZkllUUNoYms3?oc=5",
+   "date": "2026-11-08T14:50:56.000Z",
+   "source": "Google News",
+   "outlet": "VideoCardz.com",
+   "summary": "",
+   "image": null,
+   "text": "Zelda: Ocarina of Time Remake already runs on ultrawide PC monitors through native recompilation, DLSS and FSR support included - VideoCardz.com Zelda: Ocarina of Time Remake already runs on ultrawide PC monitors through native recompilation, DLSS and FSR support included VideoCardz.com",
+   "repos": [],
+   "firstSeen": "2026-11-08T15:23:40.938Z"
+  },
+  {
+   "title": "The Game Reverse Engineering Community Is The Latest Casualty Of AI",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRnhKWjJhOTdYYWI5ZnhfVDNycFltcmdrTENkRFhzSFA4MUo2MkU5dXdMcmlNMDVNdDduRmlCVlZhSWpFUHpqNm9pUnZlQXNqQl93U2RPeGRPSGktaWowWG9BR21JMkRPTUtvSFZhSFRvVFhrSXdSa014ejRzUlZZa0YyZFIxUndpemZlc2hsY1I?oc=5",
+   "date": "2026-11-08T14:15:00.000Z",
+   "source": "Google News",
+   "outlet": "Engadget",
+   "summary": "",
+   "image": null,
+   "text": "The Game Reverse Engineering Community Is The Latest Casualty Of AI - Engadget The Game Reverse Engineering Community Is The Latest Casualty Of AI Engadget",
+   "repos": [],
+   "firstSeen": "2026-11-08T15:23:40.938Z"
+  },
+  {
+   "title": "Ratchet and Clank: Tools of Destruction Recomp Out NOW! More PS3 Recomps",
+   "url": "https://www.youtube.com/watch?v=zkKoBaS6y6o",
+   "date": "2026-11-08T14:00:30.000Z",
+   "source": "YouTube: Video Game Esoterica",
+   "outlet": "YouTube: Video Game Esoterica",
+   "summary": "SUPPORT THE CHANNEL : http://www.patreon.com/VideoGameEsoterica Enjoy a new Ratchet and Clank recomp! A Ratchet and Clank: Tools of Destruction recomp that is! Yes we have PS4 PC ports, PS2 recomps, Switch recomps, N64 Recomps...and more! But its been a wait until we got our first PS3 recomp...and now we get a bunch more! A New PS3 recomp is out now and the PlayStation 3 recomp generation / PS3 PC",
+   "image": "https://i3.ytimg.com/vi/zkKoBaS6y6o/hqdefault.jpg",
+   "text": "Ratchet and Clank: Tools of Destruction Recomp Out NOW! More PS3 Recomps SUPPORT THE CHANNEL : http://www.patreon.com/VideoGameEsoterica Enjoy a new Ratchet and Clank recomp! A Ratchet and Clank: Tools of Destruction recomp that is! Yes we have PS4 PC ports, PS2 recomps, Switch recomps, N64 Recomps...and more! But its been a wait until we got our first PS3 recomp...and now we get a bunch more! A New PS3 recomp is out now and the PlayStation 3 recomp generation / PS3 PC port generation is kicking off now! PlayStation PC ports without PlayStation? SURE! (note; this is the first PS3 recomp I have gotten working and had quality enough to recommend) Check it out here: https://github.com/Re-TeRo17/ratchet-tod-recomp Questions? Comments? Just leave them below and I will do my best to answer each and every one of them! http://www.patreon.com/VideoGameEsoterica VGE",
+   "repos": [
+    "github:Re-TeRo17/ratchet-tod-recomp"
+   ],
+   "firstSeen": "2026-11-08T15:23:40.938Z"
+  },
+  {
+   "title": "Riding to Gorillaz Feel Good Inc. #musicrhythm #vr #vrmods #gaming #motorcycle #gorillaz #metaquest3",
+   "url": "https://www.youtube.com/shorts/a83O-bT_n1w",
+   "date": "2026-11-08T13:58:04.000Z",
+   "source": "YouTube: FastLawyer",
+   "outlet": "YouTube: FastLawyer",
+   "summary": "Playing Beat For Speed in VR with the latest FREE VR mod from King EJ on the Meta Quest 3 (PCVR).",
+   "image": "https://i2.ytimg.com/vi/a83O-bT_n1w/hqdefault.jpg",
+   "text": "Riding to Gorillaz Feel Good Inc. #musicrhythm #vr #vrmods #gaming #motorcycle #gorillaz #metaquest3 Playing Beat For Speed in VR with the latest FREE VR mod from King EJ on the Meta Quest 3 (PCVR).",
+   "repos": [],
+   "firstSeen": "2026-11-08T15:23:40.938Z"
+  },
+  {
+   "title": "Mafia II (Classic) VR Performance / New VR Mod with 6DOF Motion Controls / Quest 3 + RTX 4080 Super",
+   "url": "https://www.youtube.com/watch?v=HzHwBG0EQzk",
+   "date": "2026-11-08T13:49:36.000Z",
+   "source": "YouTube: NotAGameAddict",
+   "outlet": "YouTube: NotAGameAddict",
+   "summary": "00:00 - VR gameplay 05:44 - VR gameplay with FPS overlay Note - This mod build is still rough and could use some fixes. M2VR mod made by Josvitorkjr45 - https://github.com/josvitorkjr45/mafia2-vr-mod Mafia II (Classic) - https://store.steampowered.com/app/50130/Mafia_II_Classic/ Totally optional: https://buymeacoffee.com/notagameaddict",
+   "image": "https://i1.ytimg.com/vi/HzHwBG0EQzk/hqdefault.jpg",
+   "text": "Mafia II (Classic) VR Performance / New VR Mod with 6DOF Motion Controls / Quest 3 + RTX 4080 Super 00:00 - VR gameplay 05:44 - VR gameplay with FPS overlay Note - This mod build is still rough and could use some fixes. M2VR mod made by Josvitorkjr45 - https://github.com/josvitorkjr45/mafia2-vr-mod Mafia II (Classic) - https://store.steampowered.com/app/50130/Mafia_II_Classic/ Totally optional: https://buymeacoffee.com/notagameaddict",
+   "repos": [
+    "github:josvitorkjr45/mafia2-vr-mod"
+   ],
+   "firstSeen": "2026-11-08T15:23:40.938Z"
+  },
+  {
+   "title": "Pulling Mario Out Into Your Living Room!",
+   "url": "https://www.youtube.com/watch?v=lSqAwwhxGdQ",
+   "date": "2026-11-08T13:00:03.000Z",
+   "source": "YouTube: LunchAndVR",
+   "outlet": "YouTube: LunchAndVR",
+   "summary": "We're living in the Augmented Reality future now! Super cool stuff, I hope more things are made like this. I will say, it does take a bit of work to get it installed. Hopefully it's recompiled into an easier install method soon. You will need: - A legally owned copy of Mario 64 USA (A game you own legally) - Quest Headset - Mac/Linux to dump (Windows also works with WSL) The mod is called Mario64M",
+   "image": "https://i1.ytimg.com/vi/lSqAwwhxGdQ/hqdefault.jpg",
+   "text": "Pulling Mario Out Into Your Living Room! We're living in the Augmented Reality future now! Super cool stuff, I hope more things are made like this. I will say, it does take a bit of work to get it installed. Hopefully it's recompiled into an easier install method soon. You will need: - A legally owned copy of Mario 64 USA (A game you own legally) - Quest Headset - Mac/Linux to dump (Windows also works with WSL) The mod is called Mario64MR by lucas martinic: https://github.com/lucas-martinic/mario64mr I did run into a multimodal issue, where it's supposed to let you play with one hand controller and one hand hand tracking, it didn't work on my latest Quest 3S version. _ Thanks for coming! Appreciate you dropping by here, you're a cool person. If you want to stay around, I do all things VR & gaming related. (lunch included) Lunch's Discounts/affiliates here: https://linktr.ee/lunchandvr #vr #virtualreality #ar #mr #questcreatorpartner #gaming",
+   "repos": [
+    "github:lucas-martinic/mario64mr"
+   ],
+   "firstSeen": "2026-11-08T15:23:40.938Z"
+  },
+  {
+   "title": "Sega Saturn on the Analogue Pocket",
+   "url": "https://www.youtube.com/watch?v=3evA5m0T5wk",
+   "date": "2026-11-08T12:01:20.000Z",
+   "source": "YouTube: Pixel Cherry Ninja",
+   "outlet": "YouTube: Pixel Cherry Ninja",
+   "summary": "Ways to Support the Channel (some affiliate links) EARLY ACCESS TO NEWS VIDEOS AND OTHER EXCLUSIVES https://www.youtube.com/channel/UCEozS0uaZibXKTQSu10XgSw/join https://www.patreon.com/PixelCherryNinja Buy a FightBox R10-Pro Arcade Stick with Trackball & Spinner USE CODE \"PixelCherryNinja\" for 10% OFF https://fightboxarcade.com/collections/best-sellers/products/fightbox-r10-pro-arcade-fight-stick",
+   "image": "https://i4.ytimg.com/vi/3evA5m0T5wk/hqdefault.jpg",
+   "text": "Sega Saturn on the Analogue Pocket Ways to Support the Channel (some affiliate links) EARLY ACCESS TO NEWS VIDEOS AND OTHER EXCLUSIVES https://www.youtube.com/channel/UCEozS0uaZibXKTQSu10XgSw/join https://www.patreon.com/PixelCherryNinja Buy a FightBox R10-Pro Arcade Stick with Trackball & Spinner USE CODE \"PixelCherryNinja\" for 10% OFF https://fightboxarcade.com/collections/best-sellers/products/fightbox-r10-pro-arcade-fight-stick-with-trackball-spinner-retro-game-controller-for-pc-ps3-switch Buy a Octopus TR Fightstick https://www.trfightstick.com/?ref=PCN Click link then use code \"PCN\" for $25 Off Buy a Morph2K https://www.pixelfx.co/product-page/morph-2k-analog-video-scaler?ref=PCN Buy a Zaparoo product (10% off) https://shop.zaparoo.com/discount/PixelCherryNinja or just enter code \"PixelCherryNinja\" Join the Pixel Cherry Ninja Gaming Discord https://discord.gg/5W9pCy2nXa Special thanks to channel Patreon's Silver Ninja's - John Gillotte, Meathax, RGM, SmoMo, VimDiesel Bronze Ninja's - Alessandro Gulli, Alexander Facchini, Anime0t4ku, anthony, Bjamiork, craigpow, Curt Dittmer, Ernie D, Fizzun Dirtnap, Juan Alvarez, Keith F. Kelly, Nicholas Robertson-Muir, Niallquinn, ncc1701p, Peter Davis, Scott Dowdle, Tamariel, theypsilon, ZXFace A special Thanks to all Channel Members I Really Really Like PCN! - RGM - Random Gaming Moments https://www.youtube.com/channel/UCIm6dft7oV92-zMCn4A6g2Q I Really Like PCN! - Aleem Tayyab, Alphanu1, Anime0t4ku, ArinoSeb, Bjamiork, CryptoCSguy, G",
+   "repos": [],
+   "firstSeen": "2026-11-08T15:23:40.938Z"
+  },
+  {
+   "title": "Ride and Chill in Beat For Speed VR Mod - Native Stereo & Head-Tracking - Meta Quest 3 (PCVR)",
+   "url": "https://www.youtube.com/watch?v=0CdKCk2n0eE",
+   "date": "2026-11-08T02:54:36.000Z",
+   "source": "YouTube: FastLawyer",
+   "outlet": "YouTube: FastLawyer",
+   "summary": "I bought this game! Beat For Speed is a budget-priced motorcycle music rhythm game where you can ride and chill to your own music or in-game music indie catalog. You can play Beat For Speed in full VR with the latest FREE VR Mod from King EJ! Played on the Meta Quest 3 using Virtual Desktop on my RTX 5090. You can purchase game on Steam here: https://store.steampowered.com/app/4430260/Beat_For_Spe",
+   "image": "https://i1.ytimg.com/vi/0CdKCk2n0eE/hqdefault.jpg",
+   "text": "Ride and Chill in Beat For Speed VR Mod - Native Stereo & Head-Tracking - Meta Quest 3 (PCVR) I bought this game! Beat For Speed is a budget-priced motorcycle music rhythm game where you can ride and chill to your own music or in-game music indie catalog. You can play Beat For Speed in full VR with the latest FREE VR Mod from King EJ! Played on the Meta Quest 3 using Virtual Desktop on my RTX 5090. You can purchase game on Steam here: https://store.steampowered.com/app/4430260/Beat_For_Speed/ FREE VR Mod here: https://github.com/King-EJ/Beat-For-Speed-VR Please support King EJ @K1ngGamer24 by joining his YouTube channel here: https://www.youtube.com/@UCrZzZmyrX6kD41umpn4xd6w Join my Steam Curator Group, Can I VR It? Here: https://steamcommunity.com/groups/CIVRI 0:00 Introduction and gameplay 2:40 First challenge completed 5:53 Steam workshop music testing 10:15 Sicko mode performance 12:35 Godzilla performance 16:25 Closing thoughts and wrap up",
+   "repos": [
+    "github:King-EJ/Beat-For-Speed-VR"
+   ],
+   "firstSeen": "2026-11-08T15:23:40.938Z"
+  },
+  {
+   "title": "The Darkness II VR Performance / VR Mod with 6DOF Motion Controls / Quest 3 + RTX 4080 Super",
+   "url": "https://www.youtube.com/watch?v=ux3NvpxTmDw",
+   "date": "2026-11-07T23:19:12.000Z",
+   "source": "YouTube: NotAGameAddict",
+   "outlet": "YouTube: NotAGameAddict",
+   "summary": "00:00 - VR gameplay 08:08 - VR gameplay with FPS overlay Trilex Mod installer was made by Trilex07 - https://github.com/trilex07/TrilexModInstaller The Darkness II - https://store.steampowered.com/app/67370/The_Darkness_II/",
+   "image": "https://i2.ytimg.com/vi/ux3NvpxTmDw/hqdefault.jpg",
+   "text": "The Darkness II VR Performance / VR Mod with 6DOF Motion Controls / Quest 3 + RTX 4080 Super 00:00 - VR gameplay 08:08 - VR gameplay with FPS overlay Trilex Mod installer was made by Trilex07 - https://github.com/trilex07/TrilexModInstaller The Darkness II - https://store.steampowered.com/app/67370/The_Darkness_II/",
+   "repos": [
+    "github:trilex07/TrilexModInstaller"
+   ],
+   "firstSeen": "2026-11-08T15:23:40.938Z"
+  },
+  {
+   "title": "Bayonetta 3 Recomp Out NOW! More Switch Recomps",
+   "url": "https://www.youtube.com/watch?v=6_zOim858rQ",
+   "date": "2026-11-07T22:00:16.000Z",
+   "source": "YouTube: Video Game Esoterica",
+   "outlet": "YouTube: Video Game Esoterica",
+   "summary": "SUPPORT THE CHANNEL : http://www.patreon.com/VideoGameEsoterica Another Nintendo Switch recomp is out now! A Bayonetta 3 recomp! Following the first 100% playable Nintendo Switch Recomp...The Legend of Zelda: Link's Awakening Recomp, the Super Mario Odyssey recomp AND the Tears of the Kingdom recomp! Sure we have a TON of N64 recomps and N64 PC ports and even GameCube recomps and GameCube PC ports",
+   "image": "https://i3.ytimg.com/vi/6_zOim858rQ/hqdefault.jpg",
+   "text": "Bayonetta 3 Recomp Out NOW! More Switch Recomps SUPPORT THE CHANNEL : http://www.patreon.com/VideoGameEsoterica Another Nintendo Switch recomp is out now! A Bayonetta 3 recomp! Following the first 100% playable Nintendo Switch Recomp...The Legend of Zelda: Link's Awakening Recomp, the Super Mario Odyssey recomp AND the Tears of the Kingdom recomp! Sure we have a TON of N64 recomps and N64 PC ports and even GameCube recomps and GameCube PC ports with the Twilight Princess PC port...and even a few Wii recomps! But what about Nintendo Switch recomps? Well that was never possible...until now! Nintendo PC ports from the Nintendo Switch generation...coming soon! This is a find the link yourself situation k thx Questions? Comments? Just leave them below and I will do my best to answer each and every one of them! http://www.patreon.com/VideoGameEsoterica You can follow us at IG : ChicagoGameCollector , or join our Discord Server : https://discord.gg/uBtfwD9b7 VGE",
+   "repos": [],
+   "firstSeen": "2026-11-08T15:23:40.938Z"
+  },
+  {
    "title": "Pokémon Fulldex Brings Every DS Pokémon Game To One Widescreen, Switch Included",
    "url": "https://retrohandhelds.gg/pokemon-fulldex-brings-every-ds-pokemon-game-to-one-widescreen-switch-included/",
    "date": "2026-11-07T21:47:38.000Z",
@@ -13,6 +169,42 @@
     "github:mamesj/pokemon-fulldex"
    ],
    "firstSeen": "2026-11-07T23:44:36.420Z"
+  },
+  {
+   "title": "Dying Light VR Mod is Achieving PERFECTION!",
+   "url": "https://www.youtube.com/watch?v=sdr32y_eN3k",
+   "date": "2026-11-07T21:44:23.000Z",
+   "source": "YouTube: VR DaD",
+   "outlet": "YouTube: VR DaD",
+   "summary": "One month after our first deep dive into the Dying Light VR Mod, we’re back to check out all the massive updates and improvements! In this video, we re-test the experience to see how far it’s come in just 30 days. We look at the overhauled melee mechanics, refined weapon handling, the addition of crossbow physics, smoother parkour traversal, and substantial performance optimization to keep your fr",
+   "image": "https://i4.ytimg.com/vi/sdr32y_eN3k/hqdefault.jpg",
+   "text": "Dying Light VR Mod is Achieving PERFECTION! One month after our first deep dive into the Dying Light VR Mod, we’re back to check out all the massive updates and improvements! In this video, we re-test the experience to see how far it’s come in just 30 days. We look at the overhauled melee mechanics, refined weapon handling, the addition of crossbow physics, smoother parkour traversal, and substantial performance optimization to keep your frame rate locked in during heavy zombie action. If you tried the initial build or were waiting for updates before jumping into Harran, here is everything you need to know about the current state of the mod! 🎮 What You’ll See in This Video: 1-Month progress overview & update summary Weapon handling & manual reloading polish Crossbow combat & melee hit registration test Parkour movement & traversal physics updates PCVR performance & frame rate comparison 📌 Useful Links & Resources: 🔗 Dying Light VR Mod Download/Repo: TBC 🔗 Subreddit: r/PCVR 🔗 VR Dad Discord: https://discord.gg/S2hpcXasER 💖 Support the channel by becoming a Member: https://www.youtube.com/channel/UCk3kCEYhdR6mJX1wsaYPsOw/join 💬 Join the Discussion: Have you been playing the latest Dying Light VR update? How is your parkour leg feeling? Drop your thoughts in the comments! 👍 Like & Subscribe for more honest PCVR benchmarks, VR mods, and update breakdowns! Ciao! ⏱️ Timestamps: 00:00 Intro 00:50 Movement update 01:31 Melee Combat 02:22 Parkour 03:10 Weapons Overhaul and han",
+   "repos": [],
+   "firstSeen": "2026-11-08T15:23:40.938Z"
+  },
+  {
+   "title": "When Your Virtual Girlfriend Ends Up Being a Scammer #miside #vr #vrmods #metaquest3 #horrorgame",
+   "url": "https://www.youtube.com/shorts/_doUKtm-98Y",
+   "date": "2026-11-07T21:41:59.000Z",
+   "source": "YouTube: FastLawyer",
+   "outlet": "YouTube: FastLawyer",
+   "summary": "Playing Miside in VR with the latest FREE VR Mod on the Meta Quest 3 (PCVR).",
+   "image": "https://i4.ytimg.com/vi/_doUKtm-98Y/hqdefault.jpg",
+   "text": "When Your Virtual Girlfriend Ends Up Being a Scammer #miside #vr #vrmods #metaquest3 #horrorgame Playing Miside in VR with the latest FREE VR Mod on the Meta Quest 3 (PCVR).",
+   "repos": [],
+   "firstSeen": "2026-11-08T15:23:40.938Z"
+  },
+  {
+   "title": "Dead Space HD (2008) VR Performance / New VR Mod with 6DOF Motion Controls / Quest 3 PCVR",
+   "url": "https://www.youtube.com/watch?v=u0_oRUFopxU",
+   "date": "2026-11-07T20:39:21.000Z",
+   "source": "YouTube: NotAGameAddict",
+   "outlet": "YouTube: NotAGameAddict",
+   "summary": "00:00 - VR gameplay 05:02 - VR gameplay with FPS overlay 16:10 - VR settings Dead Space VR mod was made by Talemann - https://dspacevr.com/ Dead Space (2008) - https://store.steampowered.com/app/17470/Dead_Space_2008/",
+   "image": "https://i2.ytimg.com/vi/u0_oRUFopxU/hqdefault.jpg",
+   "text": "Dead Space HD (2008) VR Performance / New VR Mod with 6DOF Motion Controls / Quest 3 PCVR 00:00 - VR gameplay 05:02 - VR gameplay with FPS overlay 16:10 - VR settings Dead Space VR mod was made by Talemann - https://dspacevr.com/ Dead Space (2008) - https://store.steampowered.com/app/17470/Dead_Space_2008/",
+   "repos": [],
+   "firstSeen": "2026-11-08T15:23:40.938Z"
   },
   {
    "title": "Paper Mario PC Port, Star Wars Arcade Trilogy PC Port, EA Classics & SEGA Model 3 on MiSTer - 385",
@@ -487,9 +679,9 @@
    "date": "2026-11-06T15:00:36.000Z",
    "source": "YouTube: Gamertag VR",
    "outlet": "YouTube: Gamertag VR",
-   "summary": "Fallout VR is getting seriously impressive! Fallout 3 and Fallout New Vegas are being transformed into fully interactive VR experiences with A Tale of Two Realities, an ambitious PCVR mod by KUPOkinz. We're talking over 500 weapons adapted for VR, manual reloading, physical melee combat, full-body interactions, a wrist-mounted Pip-Boy and working VATS! Could this become one of the greatest Fallout",
+   "summary": "Fallout 3 and Fallout New Vegas are being transformed into fully interactive VR experiences with A Tale of Two Realities, an ambitious PCVR mod by KUPOkinz. We're talking over 500 weapons adapted for VR, manual reloading, physical melee combat, full-body interactions, a wrist-mounted Pip-Boy and working VATS! Could this become one of the greatest Fallout VR mods ever made? Watch my full Fallout VR",
    "image": "https://i4.ytimg.com/vi/oekbycOtDmA/hqdefault.jpg",
-   "text": "This Fallout VR Mod Is Something Else Fallout VR is getting seriously impressive! Fallout 3 and Fallout New Vegas are being transformed into fully interactive VR experiences with A Tale of Two Realities, an ambitious PCVR mod by KUPOkinz. We're talking over 500 weapons adapted for VR, manual reloading, physical melee combat, full-body interactions, a wrist-mounted Pip-Boy and working VATS! Could this become one of the greatest Fallout VR mods ever made? Watch my full Fallout VR video on Gamertag VR for more details. #FalloutVR #FalloutNewVegas #VRMods #metaquest3 #questcreatorpartner #gamertagvr",
+   "text": "This Fallout VR Mod Is Something Else Fallout 3 and Fallout New Vegas are being transformed into fully interactive VR experiences with A Tale of Two Realities, an ambitious PCVR mod by KUPOkinz. We're talking over 500 weapons adapted for VR, manual reloading, physical melee combat, full-body interactions, a wrist-mounted Pip-Boy and working VATS! Could this become one of the greatest Fallout VR mods ever made? Watch my full Fallout VR video on Gamertag VR for more details. #FalloutVR #FalloutNewVegas #VRMods #metaquest3 #questcreatorpartner #gamertagvr",
    "repos": [],
    "firstSeen": "2026-11-06T16:01:46.307Z"
   },
@@ -646,6 +838,18 @@
    "text": "Astral Chain Recomp is Out NOW! The Best Switch Recomp So Far SUPPORT THE CHANNEL : http://www.patreon.com/VideoGameEsoterica Ask and you shall receive! The number 1 most requested Nintendo Switch recomp is an Astral Chain Recomp! And as of 18 hours ago...you can play Astral Chain on your PC! and that is no small feat! Directly after The Legend of Zelda: Tears of the Kingdom Recomp too! Sure we have a TON of N64 recomps and N64 PC ports and even GameCube recomps and GameCube PC ports with the Twilight Princess PC port...and even a few Wii recomps! But what about Nintendo Switch recomps? Well that was never possible...until now! Nintendo PC ports from the Nintendo Switch generation...coming soon! Its a find the repo situation. Maybe on my Discord Questions? Comments? Just leave them below and I will do my best to answer each and every one of them! http://www.patreon.com/VideoGameEsoterica You can follow us at IG : ChicagoGameCollector , or join our Discord Server : https://discord.gg/YFjy6YccD VGE",
    "repos": [],
    "firstSeen": "2026-11-06T16:01:46.307Z"
+  },
+  {
+   "title": "Donkey Kong Bananza gets NATIVE port for Android",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNV095NUhORFZPOXBqNzlJYWUzeGJvSDl3ODlLWC1TRHh0SXlUT1hXTTA3NUx1aC1VLVd0NEV3ZnZYZzF4WmdnTERzYUpFc0N5cjZtaENzLU5Ga0JQVC1DdW1Wb1QtVzFOLWVwd3VlLUZhN1JiZ2JQcWlxNFdoSkZGXzE5ZkNYbGZSZ1F4WHVPZ3JtLUhodHNhSndPRQ?oc=5",
+   "date": "2026-11-05T21:53:30.000Z",
+   "source": "Google News",
+   "outlet": "Mobile Gamer Brasil",
+   "summary": "",
+   "image": null,
+   "text": "Donkey Kong Bananza gets NATIVE port for Android - Mobile Gamer Brasil Donkey Kong Bananza gets NATIVE port for Android Mobile Gamer Brasil",
+   "repos": [],
+   "firstSeen": "2026-11-08T15:23:40.938Z"
   },
   {
    "title": "Kane & Lynch 2: Dog Days VR Performance / New VR Mod with 6DOF Motion Controls / Quest 3 - PCVR",
@@ -6014,6 +6218,18 @@
    "text": "Killzone Shadowfall Unofficial PC Port Available for Download - DSOGaming Killzone Shadowfall Unofficial PC Port Available for Download DSOGaming",
    "repos": [],
    "firstSeen": "2026-10-25T15:56:57.670Z"
+  },
+  {
+   "title": "Sega Genesis Static Recompilation",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBLbFR6VEU2RktSbE9helYzdDN3SThTdi1ZRmhDdng0bjE3T0Z6QmNQQ18wWUhuMmItVjBObWlONnl3bnRWb1dwT295Y2dCbEFtX0ZMbDBaZjlBWFp1?oc=5",
+   "date": "2026-10-17T07:00:00.000Z",
+   "source": "Google News",
+   "outlet": "YouTube",
+   "summary": "",
+   "image": null,
+   "text": "Sega Genesis Static Recompilation - YouTube Sega Genesis Static Recompilation YouTube",
+   "repos": [],
+   "firstSeen": "2026-11-08T15:23:40.938Z"
   },
   {
    "title": "Virtua Racing Mega Drive/Genesis enhanced (60fps decompilation)",

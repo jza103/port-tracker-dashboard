@@ -112,6 +112,9 @@
   "am2r-community-developers/am2rlauncher": "2026-10-27T14:45:45.436Z",
   "amwatson/citravr": "2026-10-23T22:25:39.434Z",
   "amykaname/smbcd": "2026-11-06T21:38:46.246Z",
+  "andiweli/zgloom-android": "2026-11-08T15:23:40.938Z",
+  "andiweli/zgloom-macos": "2026-11-08T15:23:40.938Z",
+  "andiweli/zgloom-x86": "2026-11-08T15:23:40.938Z",
   "andrei-drexler/ironwail": "2026-11-02T06:28:55.587Z",
   "andrewnakas/gtav-recomp": "2026-11-03T19:39:16.255Z",
   "andrey04o/peakvr": "2026-10-25T15:36:27.479Z",
@@ -140,6 +143,7 @@
   "ares-emulator/ares": "2026-10-25T15:36:27.479Z",
   "arichmondphoto/dragonwarrior4nesrecomp": "2026-11-01T15:19:44.427Z",
   "armagetronad/armagetronad": "2026-10-27T14:45:45.436Z",
+  "armducks/digimonworld3-recomp": "2026-11-08T15:23:40.938Z",
   "armsx2/armsx3": "2026-10-31T20:06:38.932Z",
   "armyofgnomes/analogue-pocket-32x": "2026-10-25T15:56:57.670Z",
   "arnautdaniel/openhuey": "2026-11-04T00:42:58.054Z",
@@ -320,6 +324,7 @@
   "chrissotraidis/maskpad": "2026-10-23T22:25:39.434Z",
   "chrissotraidis/projectreach": "2026-10-24T18:51:55.727Z",
   "chrissotraidis/sunpad": "2026-10-23T22:25:39.434Z",
+  "chunchunq/fifa09-recomp": "2026-11-08T15:23:40.938Z",
   "ciphernovaa/twine-pc": "2026-11-03T02:28:07.541Z",
   "circuitlord/circuitlordvrmodinstaller#big-walk-vr": "2026-10-25T15:36:27.479Z",
   "circuitlord/circuitlordvrmodinstaller#titanfall-2-vr": "2026-10-25T15:36:27.479Z",
@@ -555,6 +560,7 @@
   "ec-/quake3e": "2026-11-02T06:28:55.587Z",
   "ecstatic-magician/persona_project_philemon": "2026-11-07T06:15:55.641Z",
   "ed1z19/valkyrierecomp": "2026-10-23T22:25:39.434Z",
+  "eddizege/anka": "2026-11-08T15:23:40.938Z",
   "edwin2929/sma3-recomp-android.": "2026-10-23T22:25:39.434Z",
   "efabless/clear_old": "2026-10-26T15:18:29.150Z",
   "efraim2704/bladeofdarknessvr": "2026-10-25T15:36:27.479Z",
@@ -673,6 +679,7 @@
   "frazilpop/toaplan-v2-pocket": "2026-10-30T20:54:21.398Z",
   "frederickk/pocketmidilink": "2026-10-26T15:18:29.150Z",
   "freefrank/lostodysseyrecomp": "2026-10-23T22:25:39.434Z",
+  "freeorion/freeorion": "2026-11-08T15:23:40.938Z",
   "fridinator1/safehouse": "2026-11-06T07:02:43.643Z",
   "frightworks/frightworks-no100f": "2026-11-04T00:42:58.054Z",
   "fselich/redcomp-dream": "2026-11-03T02:28:07.541Z",
@@ -979,6 +986,7 @@
   "josiahg2502-glitch/oogiesrevengerecompiled": "2026-11-06T21:38:46.246Z",
   "josiahg2502-glitch/smash4pc": "2026-10-28T05:57:15.172Z",
   "josiahg2502-glitch/tomodachilife-recomp": "2026-11-04T00:42:58.054Z",
+  "josvitorkjr45/mafia2-vr-mod": "2026-11-08T15:23:40.938Z",
   "jotd666/gods-deluxe": "2026-11-07T14:57:40.219Z",
   "jotego/jtbin#jotego-jt1942": "2026-10-25T15:56:57.670Z",
   "jotego/jtbin#jotego-jt1943": "2026-10-25T15:56:57.670Z",
@@ -1121,6 +1129,7 @@
   "khasinski/rage-racer-pc": "2026-10-23T22:25:39.434Z",
   "kiexster/god-of-war-recomp": "2026-10-23T22:46:33.769Z",
   "king-ej/among-the-sleep-vr": "2026-10-27T14:45:45.436Z",
+  "king-ej/beat-for-speed-vr": "2026-11-08T15:23:40.938Z",
   "king-ej/blood-west-vr": "2026-10-25T15:36:27.479Z",
   "king-ej/cop-bastard-vr": "2026-11-01T20:38:30.957Z",
   "king-ej/dementium-ii-hd-vr": "2026-10-29T06:03:16.453Z",
@@ -1184,6 +1193,7 @@
   "lialan/lindbergh-recomp-ports#ghost-squad-evolution-vr": "2026-10-30T20:54:21.398Z",
   "lialan/lindbergh-recomp-ports#hotd4-vr": "2026-10-30T20:54:21.398Z",
   "libretro/ludo": "2026-11-06T21:38:46.246Z",
+  "link4electronics/carpocalypse2": "2026-11-08T15:23:40.938Z",
   "linkssy2/darkwatchdarkeredition": "2026-10-23T22:25:39.434Z",
   "linkssy2/roadrash64recompiled": "2026-10-23T22:25:39.434Z",
   "linkssy2/urbanchaosriotresponseburneredition": "2026-10-25T15:36:27.479Z",
@@ -1727,11 +1737,14 @@
   "moshferatu/zombies-ate-my-neighbors-pc-port": "2026-10-25T15:36:27.479Z",
   "motor-dev/nfs-recompiled": "2026-10-23T22:25:39.434Z",
   "mourix/vcthunder": "2026-10-28T05:57:15.172Z",
+  "mpolizel/bttsnesrecomp": "2026-11-08T15:23:40.938Z",
   "mpolizel/dk1snesrecomp": "2026-11-06T21:38:46.246Z",
   "mpolizel/dk2snsrecomp": "2026-11-06T21:38:46.246Z",
   "mpolizel/dk3snesrecomp": "2026-11-06T21:38:46.246Z",
+  "mpolizel/dssnesrecomp": "2026-11-08T15:23:40.938Z",
   "mpolizel/fbsnesrecomp": "2026-11-06T21:38:46.246Z",
   "mpolizel/ksssnesrecomp": "2026-11-06T21:38:46.246Z",
+  "mpolizel/scivrecomp": "2026-11-08T15:23:40.938Z",
   "mpolizel/sfiitrecomp": "2026-11-06T21:38:46.246Z",
   "mpolizel/smksnesrecomp": "2026-11-06T21:38:46.246Z",
   "mpolizel/smw2recomp": "2026-11-06T21:38:46.246Z",
@@ -2286,6 +2299,7 @@
   "rayrod-tv/ringracers-vr": "2026-10-25T15:36:27.479Z",
   "rayrod-tv/srb2-vr": "2026-10-25T15:36:27.479Z",
   "rayrod-tv/starfox64-vr": "2026-10-25T15:36:27.479Z",
+  "razzconnect/basara4-native-pc": "2026-11-08T15:23:40.938Z",
   "re-rac/rerac-launcher": "2026-10-23T22:25:39.434Z",
   "re-tero17/ratchet-tod-recomp": "2026-11-04T00:42:58.054Z",
   "reacher-z/awesome-rea": "2026-10-23T22:46:33.769Z",
@@ -2819,6 +2833,8 @@
   "wootbeer/paxdino": "2026-10-25T15:36:27.479Z",
   "wootbeer/snprecomp": "2026-10-24T18:51:55.727Z",
   "wouterpleizier/albavr": "2026-10-25T15:36:27.479Z",
+  "wrexxial/harmonyrecomp": "2026-11-08T15:23:40.938Z",
+  "wyrelade/dw2-pc": "2026-11-08T15:23:40.938Z",
   "xander-haj/z3r": "2026-10-25T15:36:27.479Z",
   "xander-haj/z3r-launcher": "2026-10-23T22:25:39.434Z",
   "xavieran/bakgl": "2026-11-06T21:38:46.246Z",
@@ -2841,6 +2857,7 @@
   "yaz-myst/zoe-recompiled": "2026-10-30T15:07:53.073Z",
   "yell0wsuit/cuttherope-dx": "2026-10-23T22:25:39.434Z",
   "yestermester/thesimpsonsgamerecomp": "2026-10-23T22:25:39.434Z",
+  "ymir-emu/ymir": "2026-11-08T15:23:40.938Z",
   "yokimitsuro/khdays-port": "2026-10-25T15:36:27.479Z",
   "yoshicrystal9/re-gh2": "2026-10-23T22:46:33.769Z",
   "youkaicountry/yknytt": "2026-10-25T15:36:27.479Z",
@@ -6688,6 +6705,35 @@
    },
    "autoFollow": false
   },
+  "josvitorkjr45/mafia2-vr-mod": {
+   "id": "josvitorkjr45/mafia2-vr-mod",
+   "name": "mafia2 vr mod",
+   "game": "mafia2 vr mod",
+   "categories": [
+    "Other",
+    "VR Ports"
+   ],
+   "type": "port",
+   "tags": [
+    "VR"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "josvitorkjr45/mafia2-vr-mod"
+   },
+   "links": [],
+   "sources": [
+    "news"
+   ],
+   "discoveredFrom": {
+    "kind": "news",
+    "title": "Mafia II (Classic) VR Performance / New VR Mod with 6DOF Motion Controls / Quest 3 + RTX 4080 Super",
+    "url": "https://www.youtube.com/watch?v=HzHwBG0EQzk",
+    "source": "YouTube: NotAGameAddict",
+    "date": "2026-11-08T13:49:36.000Z"
+   },
+   "autoFollow": true
+  },
   "jplakon/blackopsvr": {
    "id": "jplakon/blackopsvr",
    "name": "Black Ops VR",
@@ -7381,6 +7427,35 @@
     "url": "https://www.youtube.com/watch?v=Srr0I0xUv4Q",
     "source": "YouTube: FastLawyer",
     "date": "2026-10-27T06:40:34.000Z"
+   },
+   "autoFollow": true
+  },
+  "king-ej/beat-for-speed-vr": {
+   "id": "king-ej/beat-for-speed-vr",
+   "name": "Beat For Speed VR",
+   "game": "Beat For Speed VR",
+   "categories": [
+    "Other",
+    "VR Ports"
+   ],
+   "type": "port",
+   "tags": [
+    "VR"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "King-EJ/Beat-For-Speed-VR"
+   },
+   "links": [],
+   "sources": [
+    "news"
+   ],
+   "discoveredFrom": {
+    "kind": "news",
+    "title": "Ride and Chill in Beat For Speed VR Mod - Native Stereo & Head-Tracking - Meta Quest 3 (PCVR)",
+    "url": "https://www.youtube.com/watch?v=0CdKCk2n0eE",
+    "source": "YouTube: FastLawyer",
+    "date": "2026-11-08T02:54:36.000Z"
    },
    "autoFollow": true
   },
@@ -12712,6 +12787,7 @@
   "hollie/misterhouse": "2026-10-26",
   "hookmanuk/mcla-recomp": "2026-11-01",
   "hookmanuk/uncharted_pc": "2026-10-31",
+  "hrvach/unixpc": "2026-11-08",
   "ilyamez/eldenringvr": "2026-11-02",
   "inorirus/kyty": "2026-10-23",
   "istark/ps5pcem": "2026-10-31",
@@ -12726,6 +12802,7 @@
   "lab313ru/ghidra_psx_ldr": "2026-11-02",
   "lialan/lindbergh-recomp-ports": "2026-11-02",
   "lightvelox/sotc-vibe-pc": "2026-10-23",
+  "lucas-martinic/mario64mr": "2026-11-08",
   "mabec-games/f-zero-glinux": "2026-10-27",
   "maluramichael/awesome-reverse-engineer-anything": "2026-11-04",
   "marty-suzuki/misterfusion": "2026-10-26",
@@ -12785,6 +12862,7 @@
   "throatymumbo/nespc": "2026-10-26",
   "tovarichtch/odin": "2026-11-06",
   "transentient/holodor": "2026-10-31",
+  "trilex07/trilexmodinstaller": "2026-11-08",
   "vector35/binaryninja-api": "2026-10-23",
   "vita3k/vita3k": "2026-10-23",
   "waffle565/god-of-war-native-port": "2026-10-23",

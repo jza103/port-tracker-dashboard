@@ -26970,7 +26970,7 @@
   ]
  },
  "quiver": {
-  "updatedAt": "2026-11-08T06:21:14.020Z",
+  "updatedAt": "2026-11-08T15:23:40.938Z",
   "projects": [
    {
     "id": "hk21x/007-agentunderfire-recomp",
@@ -27871,7 +27871,7 @@
     "targets": [
      "Linux"
     ],
-    "catalogVersion": "v1.3.3",
+    "catalogVersion": "v1.3.4",
     "links": [
      {
       "label": "Quiver",
@@ -28137,7 +28137,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "v1.4.5",
+    "catalogVersion": "v1.5.0",
     "links": [
      {
       "label": "Quiver",
@@ -28348,6 +28348,38 @@
      }
     ],
     "image": "https://cdn2.steamgriddb.com/grid/d9e16849e6c8440f27574666b9e9735a.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
+    "id": "eddizege/anka",
+    "aliases": [
+     "quiver:nintento-switch-2-emulator-anka"
+    ],
+    "name": "Anka",
+    "game": "Anka",
+    "categories": [
+     "Other"
+    ],
+    "type": "emulator",
+    "repo": {
+     "host": "github",
+     "path": "EddizEge/Anka"
+    },
+    "description": "Anka is a Nintendo Switch 2 emulator for Windows focused on performance.",
+    "developer": "EddizEge",
+    "targets": [
+     "Windows"
+    ],
+    "catalogVersion": "anka-v1.0.1",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/nintento-switch-2-emulator-anka"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/7f9e01e2f8e2046600e1975787802a0f.png",
     "sources": [
      "quiver"
     ]
@@ -29505,6 +29537,38 @@
     ]
    },
    {
+    "id": "razzconnect/basara4-native-pc",
+    "aliases": [
+     "quiver:sengoku-basara-4-sumeragi-basara-4-pc"
+    ],
+    "name": "Basara 4 PC",
+    "game": "Sengoku Basara 4 Sumeragi",
+    "categories": [
+     "PlayStation 4"
+    ],
+    "type": "reimplementation",
+    "repo": {
+     "host": "github",
+     "path": "razzconnect/basara4-native-pc"
+    },
+    "description": "Basara 4 PC is a native PC port and launcher for Sengoku Basara 4 Sumeragi that runs the game's original code directly on your CPU and translates GPU commands to Vulkan.",
+    "developer": "Razz",
+    "targets": [
+     "Windows"
+    ],
+    "catalogVersion": "v1.0.7",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/sengoku-basara-4-sumeragi-basara-4-pc"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/ed58906a911330087fb18ae321c26061.jpg",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
     "id": "omegakatana92/battle-arena-toshinden-gb-recomp",
     "aliases": [
      "quiver:battle-arena-toshinden-battle-arena-toshinden-gb-recomp"
@@ -29665,6 +29729,38 @@
      }
     ],
     "image": "https://cdn2.steamgriddb.com/grid/dd9b3c422d830f2d03f296f81239a156.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
+    "id": "mpolizel/bttsnesrecomp",
+    "aliases": [
+     "quiver:battletoads-in-battlemaniacs-battletoads-in-battlemaniacs-recomp"
+    ],
+    "name": "Battletoads in Battlemaniacs Recomp",
+    "game": "Battletoads in Battlemaniacs",
+    "categories": [
+     "SNES"
+    ],
+    "type": "recompilation",
+    "repo": {
+     "host": "github",
+     "path": "mpolizel/BTTSNESRecomp"
+    },
+    "description": "Battletoads in Battlemaniacs Recomp is a native PC port of Battletoads in Battlemaniacs for SNES with support for ScaleFX and NNEDI3 upscalers.",
+    "developer": "mpolizel",
+    "targets": [
+     "Windows"
+    ],
+    "catalogVersion": "v0.1.4",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/battletoads-in-battlemaniacs-battletoads-in-battlemaniacs-recomp"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/bd9621ecf67967eb5f03c3675c8662d3.png",
     "sources": [
      "quiver"
     ]
@@ -30315,7 +30411,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.3.2",
+    "catalogVersion": "v0.3.3",
     "links": [
      {
       "label": "Quiver",
@@ -30379,7 +30475,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "windows-v1.9.8.3",
+    "catalogVersion": "windows-v1.9.8.4",
     "links": [
      {
       "label": "Quiver",
@@ -31679,6 +31775,41 @@
     ]
    },
    {
+    "id": "link4electronics/carpocalypse2",
+    "aliases": [
+     "quiver:carmageddon-2-carpocalypse-now-carpocalypse-2"
+    ],
+    "name": "Carpocalypse 2",
+    "game": "Carmageddon 2: Carpocalypse Now",
+    "categories": [
+     "PC"
+    ],
+    "type": "port",
+    "repo": {
+     "host": "github",
+     "path": "Link4Electronics/Carpocalypse2"
+    },
+    "description": "Carpocalypse 2 is a decompilation and native port of Carmageddon 2: Carpocalypse Now for PC and mobile platforms.",
+    "developer": "Link4Electronics",
+    "targets": [
+     "Android",
+     "Linux",
+     "macOS",
+     "Windows"
+    ],
+    "catalogVersion": "0.60",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/carmageddon-2-carpocalypse-now-carpocalypse-2"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/63b2bcd96a3981153de8111edeeca175.jpg",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
     "id": "tekrantgaming/cartoon-network-racing-recompiled",
     "aliases": [
      "quiver:cartoon-network-racing-cartoon-network-racing-recompiled"
@@ -31797,7 +31928,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "v1.9.1",
+    "catalogVersion": "v1.9.2",
     "links": [
      {
       "label": "Quiver",
@@ -31965,7 +32096,7 @@
      "macOS",
      "Windows"
     ],
-    "catalogVersion": "cdda-experimental-2026-11-08-0250",
+    "catalogVersion": "cdda-experimental-2026-11-08-1158",
     "links": [
      {
       "label": "Quiver",
@@ -32434,8 +32565,8 @@
     "developer": "gru2007",
     "targets": [
      "Linux",
-     "macOS",
-     "Windows"
+     "Windows",
+     "macOS"
     ],
     "catalogVersion": "Alpha-500",
     "links": [
@@ -32733,7 +32864,7 @@
      "macOS",
      "Windows"
     ],
-    "catalogVersion": "v0.2.0",
+    "catalogVersion": "v0.3.0",
     "links": [
      {
       "label": "Quiver",
@@ -33100,7 +33231,7 @@
      "Windows",
      "Android"
     ],
-    "catalogVersion": "v1.3.0",
+    "catalogVersion": "v1.4.0",
     "links": [
      {
       "label": "Quiver",
@@ -33853,7 +33984,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "v0.7.7",
+    "catalogVersion": "v0.7.8",
     "links": [
      {
       "label": "Quiver",
@@ -34082,7 +34213,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "windows-v1.6-difficulty",
+    "catalogVersion": "dreamcast-v0.1",
     "links": [
      {
       "label": "Quiver",
@@ -34213,7 +34344,7 @@
      "macOS",
      "Windows"
     ],
-    "catalogVersion": "v1.0.1",
+    "catalogVersion": "v1.1.0",
     "links": [
      {
       "label": "Quiver",
@@ -34319,6 +34450,38 @@
      }
     ],
     "image": "https://cdn2.steamgriddb.com/grid/9815b648fb13d661e3f844764c5af87b.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
+    "id": "mpolizel/dssnesrecomp",
+    "aliases": [
+     "quiver:desert-strike-return-to-the-gulf-desert-strike-recomp"
+    ],
+    "name": "Desert Strike Recomp",
+    "game": "Desert Strike: Return to the Gulf",
+    "categories": [
+     "SNES"
+    ],
+    "type": "recompilation",
+    "repo": {
+     "host": "github",
+     "path": "mpolizel/DSSNESRecomp"
+    },
+    "description": "Desert Strike Recomp is a native recompilation of Desert Strike Return to the Gulf for Windows with support for upscaler shaders like ScaleFX and NNEDI3.",
+    "developer": "mpolizel",
+    "targets": [
+     "Windows"
+    ],
+    "catalogVersion": "v0.1.2",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/desert-strike-return-to-the-gulf-desert-strike-recomp"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/f03923abada8ac4917edee2c9d817a71.png",
     "sources": [
      "quiver"
     ]
@@ -34487,6 +34650,40 @@
      }
     ],
     "image": "https://cdn2.steamgriddb.com/grid/cfb0ad9812331c8f4ef0dbd67979c01f.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
+    "id": "armducks/digimonworld3-recomp",
+    "aliases": [
+     "quiver:digimon-world-3-digimon-world-3-recomp"
+    ],
+    "name": "Digimon World 3 Recomp",
+    "game": "Digimon World 3",
+    "categories": [
+     "PlayStation"
+    ],
+    "type": "recompilation",
+    "repo": {
+     "host": "github",
+     "path": "ArmDucks/DigimonWorld3-Recomp"
+    },
+    "description": "Digimon World 3 Recomp is a native PC port of Digimon World 3 for Windows, Linux, and macOS with enhanced graphics and gameplay options.",
+    "developer": "ArmDucks",
+    "targets": [
+     "Linux",
+     "macOS",
+     "Windows"
+    ],
+    "catalogVersion": "v0.0.1",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/digimon-world-3-digimon-world-3-recomp"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/1f84bd630d2fb2b6aaf1473bc25cac4a.png",
     "sources": [
      "quiver"
     ]
@@ -35860,7 +36057,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "v1.0.0",
+    "catalogVersion": "v1.1.1",
     "links": [
      {
       "label": "Quiver",
@@ -36224,7 +36421,7 @@
     "description": "Dune II - The Maker is a Dune 2 remake and port for Windows, Linux, and macOS.",
     "developer": "Stefan Hendriks",
     "targets": [],
-    "catalogVersion": "bleeding-edge-b7dda265",
+    "catalogVersion": "bleeding-edge-037a564d",
     "links": [
      {
       "label": "Quiver",
@@ -36333,6 +36530,39 @@
      }
     ],
     "image": "https://cdn2.steamgriddb.com/grid/156d3a9afd99486f563e39e85ed3acdb.jpg",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
+    "id": "wyrelade/dw2-pc",
+    "aliases": [
+     "quiver:digimon-world-2-dw2-pc"
+    ],
+    "name": "DW2-PC",
+    "game": "Digimon World 2",
+    "categories": [
+     "PlayStation"
+    ],
+    "type": "recompilation",
+    "repo": {
+     "host": "github",
+     "path": "Wyrelade/DW2-PC"
+    },
+    "description": "DW2-PC is a native PC port of Digimon World 2 for Windows and Linux, built from the game's decompiled code.",
+    "developer": "Wyrelade",
+    "targets": [
+     "Linux",
+     "Windows"
+    ],
+    "catalogVersion": "v1.0.0-beta",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/digimon-world-2-dw2-pc"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/a5f17d14c70ea058fec30c6ad70fa179.png",
     "sources": [
      "quiver"
     ]
@@ -37162,7 +37392,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.7.8-beta",
+    "catalogVersion": "v0.7.9-beta",
     "links": [
      {
       "label": "Quiver",
@@ -37775,6 +38005,38 @@
     ]
    },
    {
+    "id": "chunchunq/fifa09-recomp",
+    "aliases": [
+     "quiver:fifa-09-fifa-09-pc"
+    ],
+    "name": "FIFA 09 PC",
+    "game": "FIFA 09",
+    "categories": [
+     "Xbox 360"
+    ],
+    "type": "recompilation",
+    "repo": {
+     "host": "github",
+     "path": "ChunchunQ/fifa09-recomp"
+    },
+    "description": "FIFA 09 PC is a native PC port of FIFA 09 that brings back online modes and supports modern resolutions.",
+    "developer": "ChunchunQ",
+    "targets": [
+     "Windows"
+    ],
+    "catalogVersion": "v1.4.0",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/fifa-09-fifa-09-pc"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/970457cbb97508ef7dd348b6f987498d.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
     "id": "djultra64/fight-night-round-3-recomp",
     "aliases": [
      "quiver:fight-night-round-3-fight-night-round-3-recomp"
@@ -38353,7 +38615,7 @@
      "iOS",
      "macOS"
     ],
-    "catalogVersion": "v0.10.49",
+    "catalogVersion": "v0.10.50",
     "links": [
      {
       "label": "Quiver",
@@ -38427,6 +38689,39 @@
      }
     ],
     "image": "https://cdn2.steamgriddb.com/grid/cc9ee3b9dd8c82b2f32fbdab8c8946c4.jpg",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
+    "id": "freeorion/freeorion",
+    "aliases": [
+     "quiver:freeorion"
+    ],
+    "name": "FreeOrion",
+    "game": "freeorion",
+    "categories": [
+     "PC"
+    ],
+    "type": "port",
+    "repo": {
+     "host": "github",
+     "path": "freeorion/freeorion"
+    },
+    "description": "FreeOrion is a free, open-source, turn-based space empire and galactic conquest game inspired by the Master of Orion series.",
+    "developer": "freeorion",
+    "targets": [
+     "macOS",
+     "Windows"
+    ],
+    "catalogVersion": "v0.5.1.2",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/freeorion"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/db1360687b0190e5dce50e1fceb2cd8b.png",
     "sources": [
      "quiver"
     ]
@@ -38518,9 +38813,9 @@
     "description": "Friday Night Funkin': Benjine is a game engine for Friday Night Funkin' mods made with Godot that supports flexible modding and quality-of-life changes.",
     "developer": "this-is-bennyk",
     "targets": [
+     "Windows",
      "Linux",
-     "macOS",
-     "Windows"
+     "macOS"
     ],
     "catalogVersion": "v2.2.1",
     "links": [
@@ -39181,7 +39476,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.1.0",
+    "catalogVersion": "v0.1.1",
     "links": [
      {
       "label": "Quiver",
@@ -40260,7 +40555,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.1.9",
+    "catalogVersion": "v0.2.0",
     "links": [
      {
       "label": "Quiver",
@@ -40328,7 +40623,7 @@
      "macOS",
      "Windows"
     ],
-    "catalogVersion": "v0.6.2",
+    "catalogVersion": "v0.6.3",
     "links": [
      {
       "label": "Quiver",
@@ -40597,7 +40892,7 @@
      "macOS",
      "Windows"
     ],
-    "catalogVersion": "v0.7.7-beta",
+    "catalogVersion": "v0.7.8-beta",
     "links": [
      {
       "label": "Quiver",
@@ -40671,6 +40966,38 @@
      }
     ],
     "image": "https://cdn2.steamgriddb.com/grid/879051d59e50d70df95e88bbdee9f187.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
+    "id": "wrexxial/harmonyrecomp",
+    "aliases": [
+     "quiver:castlevania-harmony-of-despair-harmonyrecomp"
+    ],
+    "name": "HarmonyRecomp",
+    "game": "Castlevania: Harmony of Despair",
+    "categories": [
+     "Xbox 360"
+    ],
+    "type": "recompilation",
+    "repo": {
+     "host": "github",
+     "path": "Wrexxial/HarmonyRecomp"
+    },
+    "description": "HarmonyRecomp is a native Windows port of Castlevania: Harmony of Despair that supports online co-op and DLC.",
+    "developer": "Wrexxial",
+    "targets": [
+     "Windows"
+    ],
+    "catalogVersion": "v0.5.1",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/castlevania-harmony-of-despair-harmonyrecomp"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/4843753069533b0452053f05142dc8ca.png",
     "sources": [
      "quiver"
     ]
@@ -41377,7 +41704,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "device-lost-fix",
+    "catalogVersion": "low-vram",
     "links": [
      {
       "label": "Quiver",
@@ -41772,7 +42099,7 @@
      "macOS",
      "iOS"
     ],
-    "catalogVersion": "v0.10.5",
+    "catalogVersion": "v0.11.0",
     "links": [
      {
       "label": "Quiver",
@@ -42332,7 +42659,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.2.1",
+    "catalogVersion": "v0.2.2",
     "links": [
      {
       "label": "Quiver",
@@ -45104,7 +45431,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.3.2",
+    "catalogVersion": "v0.3.4",
     "links": [
      {
       "label": "Quiver",
@@ -45898,7 +46225,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "v0.9.105",
+    "catalogVersion": "v0.9.106",
     "links": [
      {
       "label": "Quiver",
@@ -46435,7 +46762,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v2.6.2",
+    "catalogVersion": "v2.6.3-beta.1",
     "links": [
      {
       "label": "Quiver",
@@ -46993,7 +47320,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.0.1",
+    "catalogVersion": "v0.0.2",
     "links": [
      {
       "label": "Quiver",
@@ -47059,7 +47386,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "0.10.1",
+    "catalogVersion": "0.10.2",
     "links": [
      {
       "label": "Quiver",
@@ -47811,7 +48138,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "v0.5.57",
+    "catalogVersion": "v0.5.58",
     "links": [
      {
       "label": "Quiver",
@@ -47978,7 +48305,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "v0.4.1",
+    "catalogVersion": "v0.5.0",
     "links": [
      {
       "label": "Quiver",
@@ -48873,7 +49200,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.5.1",
+    "catalogVersion": "v0.5.2",
     "links": [
      {
       "label": "Quiver",
@@ -49752,7 +50079,7 @@
      "macOS",
      "Android"
     ],
-    "catalogVersion": "sdk-v1.14.0",
+    "catalogVersion": "sdk-v1.14.2",
     "links": [
      {
       "label": "Quiver",
@@ -51356,7 +51683,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.5.2",
+    "catalogVersion": "v0.6.0",
     "links": [
      {
       "label": "Quiver",
@@ -52136,7 +52463,7 @@
      "Android",
      "Windows"
     ],
-    "catalogVersion": "v0.1.3-beta",
+    "catalogVersion": "v0.1.4-beta",
     "links": [
      {
       "label": "Quiver",
@@ -52303,7 +52630,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.7.9",
+    "catalogVersion": "v0.8.0",
     "links": [
      {
       "label": "Quiver",
@@ -52932,7 +53259,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.3.0-hfr-test1",
+    "catalogVersion": "v0.3.0-hfr-test2",
     "links": [
      {
       "label": "Quiver",
@@ -53259,7 +53586,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "android-alpha-1",
+    "catalogVersion": "v1.1.0",
     "links": [
      {
       "label": "Quiver",
@@ -53783,10 +54110,10 @@
     "description": "Racing 8 DX Recomp is a native PC port of Mario Kart 8 Deluxe with modern upscaling and frame generation.",
     "developer": "galarianpikachu2021-hue",
     "targets": [
-     "Linux",
-     "Windows"
+     "Windows",
+     "Linux"
     ],
-    "catalogVersion": "v0.2.1",
+    "catalogVersion": "v0.2.2",
     "links": [
      {
       "label": "Quiver",
@@ -54644,7 +54971,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v1.4",
+    "catalogVersion": "v1.5",
     "links": [
      {
       "label": "Quiver",
@@ -55836,7 +56163,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "v1.0.47",
+    "catalogVersion": "v1.0.48",
     "links": [
      {
       "label": "Quiver",
@@ -56064,7 +56391,7 @@
      "path": "n64hub/rush-2049-recomp"
     },
     "description": "San Francisco Rush 2049: Recompiled is a native PC port of the N64 game that runs the game's code natively with high resolutions and 60fps.",
-    "developer": "amazingalek",
+    "developer": "n64hub",
     "targets": [
      "Windows",
      "Linux"
@@ -57058,8 +57385,8 @@
     "description": "Shin Ryu Mod Manager is a PC port mod manager for the Yakuza series that allows loading loose files from a mods folder.",
     "developer": "SRMM-Studio",
     "targets": [
-     "Linux",
-     "Windows"
+     "Windows",
+     "Linux"
     ],
     "catalogVersion": "v5.0.5",
     "links": [
@@ -58411,7 +58738,7 @@
      "macOS",
      "Windows"
     ],
-    "catalogVersion": "v0.9.18",
+    "catalogVersion": "v0.9.19",
     "links": [
      {
       "label": "Quiver",
@@ -58907,7 +59234,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v1.0.1",
+    "catalogVersion": "v1.0.2",
     "links": [
      {
       "label": "Quiver",
@@ -59101,14 +59428,14 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.2.40",
+    "catalogVersion": "v0.2.43",
     "links": [
      {
       "label": "Quiver",
       "url": "https://quiverlauncher.com/apps/super-smash-bros-ultimate-ssbu-arena"
      }
     ],
-    "image": "https://cdn2.steamgriddb.com/grid/be966365a964d2ed9a4ebe573b031d57.jpg",
+    "image": "https://cdn2.steamgriddb.com/grid/1e584c11092f0feed1373939e6275306.png",
     "sources": [
      "quiver"
     ]
@@ -59369,7 +59696,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.4.0",
+    "catalogVersion": "v1.0.0",
     "links": [
      {
       "label": "Quiver",
@@ -59832,7 +60159,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v0.1.6-beta",
+    "catalogVersion": "v0.1.7-beta",
     "links": [
      {
       "label": "Quiver",
@@ -60234,6 +60561,38 @@
      }
     ],
     "image": "https://cdn2.steamgriddb.com/grid/4ae895de21512e5ab771ee7e3194a09b.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
+    "id": "mpolizel/scivrecomp",
+    "aliases": [
+     "quiver:super-castlevania-iv-super-castlevania-iv-recomp"
+    ],
+    "name": "Super Castlevania IV Recomp",
+    "game": "Super Castlevania IV",
+    "categories": [
+     "SNES"
+    ],
+    "type": "recompilation",
+    "repo": {
+     "host": "github",
+     "path": "mpolizel/SCIVRecomp"
+    },
+    "description": "Super Castlevania IV Recomp is a native recompilation of Super Castlevania IV for Windows with support for upscaling shaders like ScaleFX and NNEDI3.",
+    "developer": "mpolizel",
+    "targets": [
+     "Windows"
+    ],
+    "catalogVersion": "v0.1.1",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/super-castlevania-iv-super-castlevania-iv-recomp"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/06277c373fd4be8ecb96de3776dd0963.png",
     "sources": [
      "quiver"
     ]
@@ -60984,7 +61343,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v0.15.6",
+    "catalogVersion": "v0.15.7",
     "links": [
      {
       "label": "Quiver",
@@ -62091,7 +62450,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.8.0",
+    "catalogVersion": "v0.8.1",
     "links": [
      {
       "label": "Quiver",
@@ -62453,7 +62812,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "v1.0.5a",
+    "catalogVersion": "v1.0.5b",
     "links": [
      {
       "label": "Quiver",
@@ -63836,7 +64195,7 @@
     "targets": [
      "Android"
     ],
-    "catalogVersion": "v0.2.14",
+    "catalogVersion": "v0.3.0",
     "links": [
      {
       "label": "Quiver",
@@ -64227,7 +64586,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "v0.15",
+    "catalogVersion": "v0.16",
     "links": [
      {
       "label": "Quiver",
@@ -64627,7 +64986,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "v0.1.0",
+    "catalogVersion": "v0.1.1",
     "links": [
      {
       "label": "Quiver",
@@ -64827,7 +65186,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "v0.1.18",
+    "catalogVersion": "v0.1.19",
     "links": [
      {
       "label": "Quiver",
@@ -64861,7 +65220,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "v0.1.17-alpha",
+    "catalogVersion": "v0.1.18-alpha",
     "links": [
      {
       "label": "Quiver",
@@ -64895,7 +65254,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "v1.5.1",
+    "catalogVersion": "v1.6.0",
     "links": [
      {
       "label": "Quiver",
@@ -65517,7 +65876,7 @@
      "macOS",
      "Windows"
     ],
-    "catalogVersion": "v0.9.2",
+    "catalogVersion": "v0.9.3",
     "links": [
      {
       "label": "Quiver",
@@ -66982,7 +67341,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v0.1.15-save-test2",
+    "catalogVersion": "v0.1.16-fixes-test",
     "links": [
      {
       "label": "Quiver",
@@ -67325,6 +67684,40 @@
      }
     ],
     "image": "https://cdn2.steamgriddb.com/grid/d9829247517e5aef85b8e8da2f635083.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
+    "id": "ymir-emu/ymir",
+    "aliases": [
+     "quiver:sega-saturn-ymir"
+    ],
+    "name": "Ymir",
+    "game": "Sega Saturn",
+    "categories": [
+     "Sega Saturn"
+    ],
+    "type": "emulator",
+    "repo": {
+     "host": "github",
+     "path": "ymir-emu/Ymir"
+    },
+    "description": "Ymir is a Sega Saturn emulator for Windows, macOS, and Linux that supports various disc image formats and offers features like save states and rewinding.",
+    "developer": "StrikerX3",
+    "targets": [
+     "Linux",
+     "macOS",
+     "Windows"
+    ],
+    "catalogVersion": "latest-nightly",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/sega-saturn-ymir"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/5c4538d4b2c72b0f77b0106056b545e0.png",
     "sources": [
      "quiver"
     ]
@@ -67790,6 +68183,102 @@
      }
     ],
     "image": "https://gamesdb-images.launchbox.gg/r2_ff5a0053-1cba-412a-a279-d62cfedff35f.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
+    "id": "andiweli/zgloom-android",
+    "aliases": [
+     "quiver:gloom-zgloom-android"
+    ],
+    "name": "ZGloom Collection (Android)",
+    "game": "Gloom",
+    "categories": [
+     "Mobile"
+    ],
+    "type": "reimplementation",
+    "repo": {
+     "host": "github",
+     "path": "Andiweli/ZGloom-Android"
+    },
+    "description": "ZGloom Collection (Android) is a port of the Gloom engine to Android and OUYA, supporting Gloom, Gloom Deluxe, Gloom 3, and Zombie Massacre with a fixed renderer and widescreen support.",
+    "developer": "Andiweli",
+    "targets": [
+     "Android"
+    ],
+    "catalogVersion": "v09.2026",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/gloom-zgloom-android"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/d4cdb5c3197b8d77ba42e10a10d3e8be.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
+    "id": "andiweli/zgloom-macos",
+    "aliases": [
+     "quiver:gloom-zgloom-macos"
+    ],
+    "name": "ZGloom Collection (macOS)",
+    "game": "Gloom",
+    "categories": [
+     "Other"
+    ],
+    "type": "reimplementation",
+    "repo": {
+     "host": "github",
+     "path": "Andiweli/ZGloom-macOS"
+    },
+    "description": "ZGloom Collection (macOS) is a native macOS port of the Amiga FPS Gloom engine, supporting Gloom, Gloom Deluxe, Gloom 3, and Zombie Massacre with widescreen and save/load position.",
+    "developer": "Andiweli",
+    "targets": [
+     "macOS"
+    ],
+    "catalogVersion": "v08.2026",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/gloom-zgloom-macos"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/d4cdb5c3197b8d77ba42e10a10d3e8be.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
+    "id": "andiweli/zgloom-x86",
+    "aliases": [
+     "quiver:gloom-zgloom-x86"
+    ],
+    "name": "ZGloom Collection (Windows)",
+    "game": "Gloom",
+    "categories": [
+     "PC"
+    ],
+    "type": "reimplementation",
+    "repo": {
+     "host": "github",
+     "path": "Andiweli/ZGloom-x86"
+    },
+    "description": "ZGloom Collection is a Windows PC port of the Amiga FPS Gloom that supports widescreen, post-processing, and saving game progress.",
+    "developer": "Andiweli",
+    "targets": [
+     "Windows"
+    ],
+    "catalogVersion": "v08.2026",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/gloom-zgloom-x86"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/d4cdb5c3197b8d77ba42e10a10d3e8be.png",
     "sources": [
      "quiver"
     ]
@@ -82344,7 +82833,7 @@
   ]
  },
  "pocket": {
-  "updatedAt": "2026-11-08T06:21:14.020Z",
+  "updatedAt": "2026-11-08T15:23:40.938Z",
   "projects": [
    {
     "id": "gpzi994/chiskit",
@@ -83539,11 +84028,11 @@
     "targets": [
      "Analogue Pocket"
     ],
-    "catalogVersion": "1.0.0",
-    "catalogDate": "2026-10-03",
+    "catalogVersion": "1.0.1",
+    "catalogDate": "2026-11-08",
     "download": {
-     "label": "Pocket 1.0.0",
-     "url": "https://github.com/McNast13/OpenFPGA_Dragon32/releases/download/v1.0.0/Dragon32-pocket-core-v1.0.0.zip"
+     "label": "Pocket 1.0.1",
+     "url": "https://github.com/McNast13/OpenFPGA_Dragon32/releases/download/v1.0.1/Dragon32-pocket-core-v1.0.1.zip"
     },
     "links": [
      {
@@ -83656,11 +84145,11 @@
     "targets": [
      "Analogue Pocket"
     ],
-    "catalogVersion": "2.2.5",
-    "catalogDate": "2026-10-31",
+    "catalogVersion": "2.2.6",
+    "catalogDate": "2026-11-08",
     "download": {
-     "label": "Pocket 2.2.5",
-     "url": "https://github.com/Miasmark/openFPGA-7800/releases/download/2.2.5/M_Atari7800_Pocket_2.2.5.zip"
+     "label": "Pocket 2.2.6",
+     "url": "https://github.com/Miasmark/openFPGA-7800/releases/download/2.2.6/M_Atari7800_Pocket_2.2.6.zip"
     },
     "links": [
      {
@@ -85996,11 +86485,11 @@
     "targets": [
      "Analogue Pocket"
     ],
-    "catalogVersion": "0.6.1",
-    "catalogDate": "2026-10-21",
+    "catalogVersion": "0.7.0",
+    "catalogDate": "2026-11-08",
     "download": {
-     "label": "Pocket 0.6.1",
-     "url": "https://github.com/alfatreze/Tau-Alpha/releases/download/v0.6.1/alfatreze.TAU_0.6.1_2026-10-21.zip"
+     "label": "Pocket 0.7.0",
+     "url": "https://github.com/alfatreze/Tau-Alpha/releases/download/v0.7.0/alfatreze.TAU_0.7.0_2026-11-08.zip"
     },
     "links": [
      {
