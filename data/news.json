@@ -1,6 +1,187 @@
 {
  "articles": [
   {
+   "title": "Someone got multiplayer working in the Switch 2's Zelda: Ocarina of Time remake on PC, and it runs surprisingly well",
+   "url": "https://www.xda-developers.com/someone-got-multiplayer-working-switch2-ocarina-of-time-remake-pc-runs-well/",
+   "date": "2026-11-09T17:49:01.000Z",
+   "source": "XDA",
+   "outlet": "XDA",
+   "summary": "The game doesn't even run smoothly on PC through an emulator yet, but there's already a multiplayer mod",
+   "image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/11/zelda-ocarina-of-time-1.jpg",
+   "text": "Someone got multiplayer working in the Switch 2's Zelda: Ocarina of Time remake on PC, and it runs surprisingly well The race to get the Switch 2's The Legend of Zelda: Ocarina of Time remake running smoothly on PC continues, with emulators like Lichii and Fritzi leading the way, alongside static recompilation tools like Hookshot . The experience isn't perfect yet, but as long as you have a powerful gaming PC, the remake of the N64 classic seems to run at an okay frame rate most of the time, and it even supports features like DLSS 5 and frame generation .",
+   "repos": [
+    "github:zortos293/Lichii",
+    "github:Frizti/Fritchii",
+    "github:NotRexed/Hookshot",
+    "github:Djihads80/Eglantine"
+   ],
+   "firstSeen": "2026-11-09T18:56:51.851Z"
+  },
+  {
+   "title": "Dissidia 012’s PC Recompilation Is Perfect on the Steam Deck",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPTzFENGFXMmFLcnpjZjZTQTFFYnFlUzUzM3h2a1gtb1ktd1dUMGF0dUNXeE5yQkxaYlRKaWNaWG5CdHgzajZVVlVnbGV4cXZyRV9vSXBEQm1jUDVVeHQwaE1IUHVqWDVPNGRHeUR4dUl4elZkZlhCLXJ1a1VBUll2WVNLYnctdw?oc=5",
+   "date": "2026-11-09T16:58:04.000Z",
+   "source": "Google News",
+   "outlet": "Steam Deck HQ",
+   "summary": "",
+   "image": null,
+   "text": "Dissidia 012’s PC Recompilation Is Perfect on the Steam Deck - Steam Deck HQ Dissidia 012’s PC Recompilation Is Perfect on the Steam Deck Steam Deck HQ",
+   "repos": [],
+   "firstSeen": "2026-11-09T18:56:51.851Z"
+  },
+  {
+   "title": "Reverse Engineering a 1960s Diode-Transistor Logic IC",
+   "url": "https://hackaday.com/2026/11/09/reverse-engineering-a-1960s-diode-transistor-logic-ic/",
+   "date": "2026-11-09T16:30:02.000Z",
+   "source": "Hackaday",
+   "outlet": "Hackaday",
+   "summary": "Before transistor-transistor logic (TTL) took over, diode-transistor logic (DTL) was a common sight especially in pre-IC circuits where it was a major improvement over resistor-transistor logic (RTL). That said, it's …read more",
+   "image": "https://hackaday.com/wp-content/uploads/2026/11/signetics-ad.jpg",
+   "text": "Reverse Engineering a 1960s Diode-Transistor Logic IC Before transistor-transistor logic (TTL) took over, diode-transistor logic (DTL) was a common sight especially in pre-IC circuits where it was a major improvement over resistor-transistor logic (RTL). That said, it's rare to see DTL used in ICs considering how e.g. TI's 5400 and 7400 series set the trend in the 1960s. This makes the Signetics ST680a quad-NAND gate DTL DIP IC that [Ken Shirriff] ogled recently a bit of a treat . This was also one of the earliest ICs to use the then brand new plastic dual in-line package (PDIP) for modular convenience, even if [Ken] was none too happy about as unlike ceramic DIP, PDIP requires more extreme methods to decap to access the die for reverse-engineering. Overall, TTL is faster and less power-hungry than DTL, but it took a while to work out its issues, including noise immunity and fan-in/out issues. Until then alternatives like DTL still made sense as a well-understood and mature technology. In the article an example is provided of how a DTL NAND gate as used in this IC works, which is really quite simple in how it uses multiple diodes to sum the inputs, which subsequently drives the transistors. We'd like to thank [CuriousMarc] for finding this IC in his strategic reserve of unknown ICs and for doing the initial decapping using hot air, as well as [Ken] for doing the analysis and documenting of this fascinating glimpse into early semiconductor logic history.",
+   "repos": [],
+   "firstSeen": "2026-11-09T18:56:51.851Z"
+  },
+  {
+   "title": "No Russian in VR: COD MW2 VR!",
+   "url": "https://www.youtube.com/shorts/2oA6aNLN0kY",
+   "date": "2026-11-09T15:49:15.000Z",
+   "source": "YouTube: LunchAndVR",
+   "outlet": "YouTube: LunchAndVR",
+   "summary": "_ Thanks for coming! Appreciate you dropping by here, you're a cool person. If you want to stay around, I do all things VR & gaming related. (lunch included) Lunch's Discounts/affiliates here: https://linktr.ee/lunchandvr #vr #virtualreality #ar #cod #mw2 #vrmod",
+   "image": "https://i3.ytimg.com/vi/2oA6aNLN0kY/hqdefault.jpg",
+   "text": "No Russian in VR: COD MW2 VR! _ Thanks for coming! Appreciate you dropping by here, you're a cool person. If you want to stay around, I do all things VR & gaming related. (lunch included) Lunch's Discounts/affiliates here: https://linktr.ee/lunchandvr #vr #virtualreality #ar #cod #mw2 #vrmod",
+   "repos": [],
+   "firstSeen": "2026-11-09T18:56:51.851Z"
+  },
+  {
+   "title": "No Russian in VR: COD Modern Warfare 2 VR!",
+   "url": "https://www.youtube.com/watch?v=Yuqng2vsBSs",
+   "date": "2026-11-09T15:47:49.000Z",
+   "source": "YouTube: LunchAndVR",
+   "outlet": "YouTube: LunchAndVR",
+   "summary": "*VIEWER WARNING IS ADVISED* Playing Call of Duty: Modern Warfare 2 Campaign Remastered with the VR mod! It's pretty cool, it has full motion controls, manual reloading, and a bunch of VR tweaking options. This is the Battlenet version of the game, it only exists on Battlenet unfortunately. VR mod by Overlord here: https://github.com/Aeka0/Overlord Overall I think it's a freaking great mod, but som",
+   "image": "https://i2.ytimg.com/vi/Yuqng2vsBSs/hqdefault.jpg",
+   "text": "No Russian in VR: COD Modern Warfare 2 VR! *VIEWER WARNING IS ADVISED* Playing Call of Duty: Modern Warfare 2 Campaign Remastered with the VR mod! It's pretty cool, it has full motion controls, manual reloading, and a bunch of VR tweaking options. This is the Battlenet version of the game, it only exists on Battlenet unfortunately. VR mod by Overlord here: https://github.com/Aeka0/Overlord Overall I think it's a freaking great mod, but some bugs do get in the way of the game. Sometimes guns wouldn't fire and you have to drop them and pick them back up again, and sometimes ammo goes missing. But overall the mod is still playable from start to finish! Music: Scott Buckley - Legionnaire is under a Creative Commons BY 4.0 license. https://creativecommons.org/licenses/... / musicbyscottb Music powered by BreakingCopyright: • 💣 Copyright Free Military Music - \"Legionn... 🔎 Find more music here: https://breakingcopyright.com _ Thanks for coming! Appreciate you dropping by here, you're a cool person. If you want to stay around, I do all things VR & gaming related. (lunch included) Lunch's Discounts/affiliates here: https://linktr.ee/lunchandvr #vr #virtualreality #ar #mr #callofduty #mw2vr #modernwarfare2 #overlord #vrmod #pcvr #quest3 - Call of Duty VR / Call of Duty Modern Warfare 2 VR Mod - Aeka0 Overlord VR Mod / MW2 Campaign Remastered VR - How to Play COD MW2 in VR / Modern Warfare 2 VR Gameplay - MW2 VR Motion Controls / COD VR Manual Reloading - Battlenet MW2 VR Mod / Overl",
+   "repos": [
+    "github:Aeka0/Overlord"
+   ],
+   "firstSeen": "2026-11-09T18:56:51.851Z"
+  },
+  {
+   "title": "Singularity VR Performance / New VR Mod with 6DOF Motion Controls / Quest 3 + RTX 4080 Super",
+   "url": "https://www.youtube.com/watch?v=wigQ-_RsY3I",
+   "date": "2026-11-09T15:00:15.000Z",
+   "source": "YouTube: NotAGameAddict",
+   "outlet": "YouTube: NotAGameAddict",
+   "summary": "00:00 - VR gameplay 04:41 - VR gameplay with FPS overlay Note - After I got the shotgun, my game crashed. This is something that need to be fixed. Trilex Mod Installer made by Trilex07 - https://github.com/trilex07/TrilexModInstaller Singularity - https://store.steampowered.com/app/42670/Singularity/",
+   "image": "https://i4.ytimg.com/vi/wigQ-_RsY3I/hqdefault.jpg",
+   "text": "Singularity VR Performance / New VR Mod with 6DOF Motion Controls / Quest 3 + RTX 4080 Super 00:00 - VR gameplay 04:41 - VR gameplay with FPS overlay Note - After I got the shotgun, my game crashed. This is something that need to be fixed. Trilex Mod Installer made by Trilex07 - https://github.com/trilex07/TrilexModInstaller Singularity - https://store.steampowered.com/app/42670/Singularity/",
+   "repos": [
+    "github:trilex07/TrilexModInstaller"
+   ],
+   "firstSeen": "2026-11-09T18:56:51.851Z"
+  },
+  {
+   "title": "Super Mario All Stars PC \"Port\" Out NOW! With Coop and More!",
+   "url": "https://www.youtube.com/watch?v=XUT9y4XyJPI",
+   "date": "2026-11-09T13:30:37.000Z",
+   "source": "YouTube: Video Game Esoterica",
+   "outlet": "YouTube: Video Game Esoterica",
+   "summary": "SUPPORT THE CHANNEL : http://www.patreon.com/VideoGameEsoterica We dont get a TON of SNES recomps and SNES PC ports...but we just got a Super Mario All Stars PC port...sort of! Taking Super Mario All Stars, giving it a launcher, GOOD 16:9 Support...and more! Check it out here: https://github.com/Darhkfox/SuperMarioAllStars Questions? Comments? Just leave them below and I will do my best to answer ",
+   "image": "https://i1.ytimg.com/vi/XUT9y4XyJPI/hqdefault.jpg",
+   "text": "Super Mario All Stars PC \"Port\" Out NOW! With Coop and More! SUPPORT THE CHANNEL : http://www.patreon.com/VideoGameEsoterica We dont get a TON of SNES recomps and SNES PC ports...but we just got a Super Mario All Stars PC port...sort of! Taking Super Mario All Stars, giving it a launcher, GOOD 16:9 Support...and more! Check it out here: https://github.com/Darhkfox/SuperMarioAllStars Questions? Comments? Just leave them below and I will do my best to answer each and every one of them! http://www.patreon.com/VideoGameEsoterica You can follow us at IG : ChicagoGameCollector , or join our Discord Server : https://discord.gg/qhsbXgK4M2",
+   "repos": [
+    "github:Darhkfox/SuperMarioAllStars"
+   ],
+   "firstSeen": "2026-11-09T18:56:51.851Z"
+  },
+  {
+   "title": "Pokémon FullDex Converts Dual-Screen Poke'Games To A Single Screen You Actually Enjoy Using",
+   "url": "https://retrododo.com/pokemon-full-dex-converts-dual-screen-pokegames-to-a-single-screen-you-actually-enjoy-using/",
+   "date": "2026-11-09T11:58:35.000Z",
+   "source": "Retro Dodo",
+   "outlet": "Retro Dodo",
+   "summary": "🤝 Don't want to see ads? Become a premium member for $3 a month and support an independent publication today! This news comes at the perfect time for me because I'm currently deep in an array of Pokémon ROM hacks for Nintendo DS/",
+   "image": "https://storage.ghost.io/c/58/fd/58fdc82a-ad84-44e2-ad58-166d1b419bc4/content/images/2026/11/pokemon-fulldex.webp",
+   "text": "Pokémon FullDex Converts Dual-Screen Poke'Games To A Single Screen You Actually Enjoy Using 🤝 Don't want to see ads? Become a premium member for $3 a month and support an independent publication today! This news comes at the perfect time for me because I'm currently deep in an array of Pokémon ROM hacks for Nintendo DS/3DS , so much so that I recently updated our best lists after dropping over 30 hours into one. So when I heard that a new bit of software launched that converts dual-screen Pokémon games into a single-screen 60FPS output, I was very excited. This new development is called Pokémon Fulldex (made by mamesj ), and it quite simply plays all your favourite dual-screen Pokémon games on a PC, Linux, Mac, Steam Deck, handheld PCs, Android handhelds, iPhone/iPod, modded Nintendo Switch and more on one screen, in widescreen, with 60fps output and up to 4K resolution. Credit: mamesj It does this inside the melonDS emulator core (built in: there is nothing else to install), plus a layer that knows what the game is doing (which screen, which menu, which battle) and rearranges it into one proper widescreen picture. It is not a native port; it's the DS game, presented the way it should look on a modern screen using your own personal ROMs. They won't provide that, for obvious reasons. Supported Pokémon Games Pokémon Black Pokémon White Pokémon Black 2 Pokémon White 2 Pokémon HeartGold Pokémon SoulSilver Pokémon Platinum Pokémon Emerald Pokémon FireRed Pokémon LeafGreen Pokémon",
+   "repos": [
+    "github:mamesj/pokemon-fulldex"
+   ],
+   "firstSeen": "2026-11-09T18:56:51.851Z"
+  },
+  {
+   "title": "Synaptics sends cease-and-desist order to creator of open-source DisplayLink driver, dares him to publicize its threats",
+   "url": "https://www.tomshardware.com/peripherals/docking-stations-hubs/synaptics-sends-cease-and-desist-order-to-creator-of-open-source-displaylink-driver-dares-him-to-publicize-its-threats-dev-reverse-engineers-displaylink-using-claude-ai-and-rust-synaptics-threatens-to-bill-creator-for-legal-documentation",
+   "date": "2026-11-09T11:00:00.000Z",
+   "source": "Tom's Hardware",
+   "outlet": "Tom's Hardware",
+   "summary": "A hobbyist's effort to make DisplayLink work better on Linux is turning into a legal saga.",
+   "image": "https://cdn.mos.cms.futurecdn.net/2UAKwnmLDdHNiioqp6MpYE-1920-80.png",
+   "text": "Synaptics sends cease-and-desist order to creator of open-source DisplayLink driver, dares him to publicize its threats A hobbyist building on open-source driver for DisplayLink hardware received a cease-and-desist from Synaptics, resulting in a lengthy written argument and a threat to sue from the company. According to Phoronix , the Vino driver was “clean-room reverse-engineered” and partly developed using AI and written in Rust. However, even though the person behind the open-source driver, Mike Lothian, did not break the copyright of the code behind the driver, Synaptics argued that his work violates its patent on the DisplayLink technology. The story began in July 2026, when Lothian reached out to Łukasz Spintzyk, a software engineer working at Synaptics, to help solve a few bugs he’s been encountering. However, Michal Lukaszek, the Strategic Engineering Partnerships Lead at the company, replied a couple of weeks later, saying that the company is concerned that Lothian is attempting to implement the DisplayLink protocol itself, which is a violation of its patents. This resulted in a cease-and-desist letter from Synaptics’ legal department asking him to take down the Vino GitHub repo, among other things. Synaptics claims that Lothian’s work infringes on two patents: GB2484736 and GB2485613. The former, called Image generation, is about sending screen updates over a general-purpose data network like USB or Ethernet using a specific architecture and compression method, whil",
+   "repos": [],
+   "firstSeen": "2026-11-09T18:56:51.851Z"
+  },
+  {
+   "title": "Security researcher had to jailbreak their car just to update the clock",
+   "url": "https://www.tomshardware.com/tech-industry/cyber-security/security-researcher-had-to-jailbreak-their-car-just-to-update-the-clock-missing-tomtom-sd-card-locked-settings-menu-custom-linux-exploit-deployed-to-adjust-daylight-saving-time",
+   "date": "2026-11-09T10:40:00.000Z",
+   "source": "Tom's Hardware",
+   "outlet": "Tom's Hardware",
+   "summary": "A security researcher has revealed how they managed to update the time on their car infotainment system using reverse engineering techniques.",
+   "image": "https://cdn.mos.cms.futurecdn.net/uWPfVwnAzVfG87r5UBkxc5-1920-80.jpg",
+   "text": "Security researcher had to jailbreak their car just to update the clock A security researcher has revealed how they were forced to update the time on their car infotainment system using reverse engineering techniques. Of course, invasive tech surgery shouldn’t be needed for this kind of basic routine daylight saving time tweaking task. However, Rasmus Moorats’ 2014 Renault Latitude wouldn’t allow him to adjust the time because the original navigation map SD card was missing. Moorats had been warned. When he bought the used car, the previous owner noted that the SD card would be required to change the time on the in-car display. “I didn't really find that believable,” recalls the security researcher. They seem to have believed it was a skill issue of the prior owner and, because the maps it contained were chronically out of date, they decided to confidently decide they didn’t need the SD card... The time to adjust non-connected clocks to daylight saving time inevitably came, and Moorats decided to adjust the in-car time display, which had become an hour out of sync. Two settings menus were available via the in-dash system. One allowed the adjustment of Bluetooth and Phonebook settings – clearly no use here. But the second settings menu wouldn’t produce any submenu. Instead, an error message \"No maps detected!\" popped up every time it was prodded. With a certain set of skills under his belt, Moorats decided to “just RE it,” where RE = reverse engineer . He found out that the he",
+   "repos": [],
+   "firstSeen": "2026-11-09T18:56:51.851Z"
+  },
+  {
+   "title": "Zelda: Ocarina of Time Remake Has Two Native PC Recompilations with Frame Generation and DLSS, While a Switch 2 Emulator Fork Runs It on Jailbroken PS5s",
+   "url": "https://wccftech.com/zelda-ocarina-of-time-remake-pc-recompilation-switch-2-emulator-ps5/",
+   "date": "2026-11-09T10:00:00.000Z",
+   "source": "Wccftech",
+   "outlet": "Wccftech",
+   "summary": "We've reported that the newly released Nintendo Switch 2 game The Legend of Zelda: Ocarina of Time has run on PC emulators since day one, but modder NotRexed (the same one who ported Tears of the Kingdom last month) has successfully recompiled a native PC version titled Hookshot with built-in custom frame generation up to 8x. NotRexed is not the only one, either: fellow modder tangerineturtle1 has",
+   "image": "https://cdn.wccftech.com/wp-content/uploads/2026/11/zelda-ocarina-of-time-remake-screenshot-HD-1456x819.jpeg",
+   "text": "Zelda: Ocarina of Time Remake Has Two Native PC Recompilations with Frame Generation and DLSS, While a Switch 2 Emulator Fork Runs It on Jailbroken PS5s We've reported that the newly released Nintendo Switch 2 game The Legend of Zelda: Ocarina of Time has run on PC emulators since day one, but modder NotRexed (the same one who ported Tears of the Kingdom last month) has successfully recompiled a native PC version titled Hookshot with built-in custom frame generation up to 8x. NotRexed is not the only one, either: fellow modder tangerineturtle1 has released another native PC recompilation titled NX2navi, which supports AMD FSR 3.1 and NVIDIA DLSS upscaling, as well as FSR 3.1 Frame Generation and even HDR displays. Hookshot Builder compiles the game on [&hellip;] Read full article at https://wccftech.com/zelda-ocarina-of-time-remake-pc-recompilation-switch-2-emulator-ps5/",
+   "repos": [],
+   "firstSeen": "2026-11-09T18:56:51.851Z"
+  },
+  {
+   "title": "Super Mario All-Stars Unofficial PC Port Brings Ultrawide Support & Co-op",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbWxsUHUzOVlxSTZ3OHdMYkRqWWJaNmF5OXY4ZjFIeDdYMnFYWlpXenBzVlRoSFZidGszRmU3YVBOVUo4andGU2lBTWljQXdSRVdRLUhGelUtWkxvTHpXUDhVSGVyaEJvcS1qQVZlVXg5NkhYZDFMMkRvMjVBV0FCd29XUHRMSUlZQmI4MVFfOHF1Y3FSM1JCd0trVQ?oc=5",
+   "date": "2026-11-09T08:25:05.000Z",
+   "source": "Google News",
+   "outlet": "eTeknix",
+   "summary": "",
+   "image": null,
+   "text": "Super Mario All-Stars Unofficial PC Port Brings Ultrawide Support & Co-op - eTeknix Super Mario All-Stars Unofficial PC Port Brings Ultrawide Support & Co-op eTeknix",
+   "repos": [],
+   "firstSeen": "2026-11-09T18:56:51.851Z"
+  },
+  {
+   "title": "God of War is EPIC in VR #godofwar #vr #vrmods #metaquest3 #gaming #videogames",
+   "url": "https://www.youtube.com/shorts/tP31-A45ktI",
+   "date": "2026-11-09T05:10:08.000Z",
+   "source": "YouTube: FastLawyer",
+   "outlet": "YouTube: FastLawyer",
+   "summary": "Playing God of War in VR with the latest FREE VR mod on the Meta Quest 3 (PCVR).",
+   "image": "https://i1.ytimg.com/vi/tP31-A45ktI/hqdefault.jpg",
+   "text": "God of War is EPIC in VR #godofwar #vr #vrmods #metaquest3 #gaming #videogames Playing God of War in VR with the latest FREE VR mod on the Meta Quest 3 (PCVR).",
+   "repos": [],
+   "firstSeen": "2026-11-09T18:56:51.851Z"
+  },
+  {
+   "title": "Phantom Blade Zero in Virtual Reality is Otherworldly….It Definately Has Game of The Year Potential🔥",
+   "url": "https://www.youtube.com/watch?v=bdLSKHD5w3s",
+   "date": "2026-11-09T02:54:35.000Z",
+   "source": "YouTube: TheReclusiveGamer",
+   "outlet": "YouTube: TheReclusiveGamer",
+   "summary": "This game just gets better and better…it’s like Sekiro on anabolic steroids…and with a VR headset?For me,this just might be better then Black Myth Wukong…the scenery and vistas are breathtaking…. #PhantomBladeZero #VR #VirtualReality #PCVR #UEVR #UnrealEngine5 #MetaQuest3",
+   "image": "https://i3.ytimg.com/vi/bdLSKHD5w3s/hqdefault.jpg",
+   "text": "Phantom Blade Zero in Virtual Reality is Otherworldly….It Definately Has Game of The Year Potential🔥 This game just gets better and better…it’s like Sekiro on anabolic steroids…and with a VR headset?For me,this just might be better then Black Myth Wukong…the scenery and vistas are breathtaking…. #PhantomBladeZero #VR #VirtualReality #PCVR #UEVR #UnrealEngine5 #MetaQuest3",
+   "repos": [],
+   "firstSeen": "2026-11-09T18:56:51.851Z"
+  },
+  {
    "title": "Zelda: Ocarina of Time Remake Gets a Native PC Port Through Static Recompilation",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNzROUElnYzl2Mi1PcXhDZVdhTFEzQWtES01MSXhFT01BSEo1WFV3NzZkM3lzNms2eWhMR0FFS1NwTmRpQkV5S1ozeGd3UXpFcjNINHZKcWREb091d3B4b1ZUNV93R1pZZHd3VHByQlJ4NnFGU0xZb0FyUzZxRGk0M0JGclZSN1pYRDVOTWRlaHZhSXBEemdNSG5yYWZwT3RyMnQ3T0p5dEJHVW9sU2lYaFpRUWTSAboBQVVfeXFMUDFtZk5kSFI1cVVyNmJqSThNOG51NkdPalFRUzdUNVJFemhLTWVWVGlxYTd0LVNOeDZoZzhCTGJVYTFxSWhNRXNYTWpldTJhRE1NbUxhSDUwWm81UmgtTzJTSDhMRHFZUGluQmcwLUNfU0ZHN09xTEJDMm9HcUYtM3FtY3VkM0ptemk1b29ZSVVmZ1hXNnZfbUszSFRoZUFRQWFTVjZhNU5WMzg5N3JIQkRCTlFqRk5oSkxn?oc=5",
    "date": "2026-11-09T00:04:05.000Z",
@@ -11,6 +192,32 @@
    "text": "Zelda: Ocarina of Time Remake Gets a Native PC Port Through Static Recompilation - TechPowerUp Zelda: Ocarina of Time Remake Gets a Native PC Port Through Static Recompilation TechPowerUp",
    "repos": [],
    "firstSeen": "2026-11-09T06:54:58.282Z"
+  },
+  {
+   "title": "Xenoblade Chronicles 2 Recomp Out NOW! More Switch Recomps",
+   "url": "https://www.youtube.com/watch?v=5CCJriqwAxI",
+   "date": "2026-11-08T22:00:16.000Z",
+   "source": "YouTube: Video Game Esoterica",
+   "outlet": "YouTube: Video Game Esoterica",
+   "summary": "SUPPORT THE CHANNEL : http://www.patreon.com/VideoGameEsoterica Ask and you shall receive! One of the most requested Nintendo Switch recomp is a Xenoblade Chronicles 2 recomp! And as of 18 hours ago...you can play Xenoblade Chronicles 2 on your PC! and that is no small feat! More Switch PC ports and Switch recomps? yes please! Directly after The Legend of Zelda: Tears of the Kingdom Recomp too! Su",
+   "image": "https://i2.ytimg.com/vi/5CCJriqwAxI/hqdefault.jpg",
+   "text": "Xenoblade Chronicles 2 Recomp Out NOW! More Switch Recomps SUPPORT THE CHANNEL : http://www.patreon.com/VideoGameEsoterica Ask and you shall receive! One of the most requested Nintendo Switch recomp is a Xenoblade Chronicles 2 recomp! And as of 18 hours ago...you can play Xenoblade Chronicles 2 on your PC! and that is no small feat! More Switch PC ports and Switch recomps? yes please! Directly after The Legend of Zelda: Tears of the Kingdom Recomp too! Sure we have a TON of N64 recomps and N64 PC ports and even GameCube recomps and GameCube PC ports with the Twilight Princess PC port...and even a few Wii recomps! But what about Nintendo Switch recomps? Well that was never possible...until now! Nintendo PC ports from the Nintendo Switch generation...coming soon! Its a find the repo situation. Maybe on my Discord https://discord.gg/7RXTbB7thg Questions? Comments? Just leave them below and I will do my best to answer each and every one of them! http://www.patreon.com/VideoGameEsoterica You can follow us at IG : ChicagoGameCollector , or join our Discord Server : https://discord.gg/YFjy6YccD VGE",
+   "repos": [],
+   "firstSeen": "2026-11-09T18:56:51.851Z"
+  },
+  {
+   "title": "Ratchet & Clank: Rift Apart VR Mod is Absolute EYE CANDY! #VR #VRMod",
+   "url": "https://www.youtube.com/watch?v=weiLIgHSpdU",
+   "date": "2026-11-08T21:15:08.000Z",
+   "source": "YouTube: Paradise Decay",
+   "outlet": "YouTube: Paradise Decay",
+   "summary": "►►Get the Mod for FREE here: https://github.com/scubasteve2365/RiftApartVR ►PayPal (Buy me a coffee!): paradisedecay@virginmedia.com ►Patreon: https://www.patreon.com/ParadiseDecay ►Discord: https://discordapp.com/invite/hBgUqYD ►PD Steam Curator Group: http://store.steampowered.com/curator/6659922-Paradise-Decay-Game-Reviews/ -----------------------------------------------------------------------",
+   "image": "https://i4.ytimg.com/vi/weiLIgHSpdU/hqdefault.jpg",
+   "text": "Ratchet & Clank: Rift Apart VR Mod is Absolute EYE CANDY! #VR #VRMod ►►Get the Mod for FREE here: https://github.com/scubasteve2365/RiftApartVR ►PayPal (Buy me a coffee!): paradisedecay@virginmedia.com ►Patreon: https://www.patreon.com/ParadiseDecay ►Discord: https://discordapp.com/invite/hBgUqYD ►PD Steam Curator Group: http://store.steampowered.com/curator/6659922-Paradise-Decay-Game-Reviews/ --------------------------------------------------------------------------------------------- ☆ MY PC Specs: https://www.scan.co.uk/products/3xs-edge-rtx-intel-core-ultra-9-285k-32gb-ddr5-16gb-nvidia-rtx-5080-2tb-ssd-win-11? ☆ My Dedicated Router: https://www.amazon.co.uk/dp/B0B42GCD76?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_1&th=1 ☆ Meta Quest 3 ☆ GeForce RTX 5080 ☆ Windows 11, 64 bit ☆ Intel(R) Core(TM) Ultra 9 285K 3.70 GHz ☆ 32.0GB Ram #ratchetandclank #ratchetandclankriftapart #vr #VRMod #Quest3 #QuestCreatorPartner #quest3s #metaquest #metaquest3 #metaquest3s #quest3games #roomscale #steam #NativeVR #steamvr #Quest3 #valve #uevr #3rdperson #platformer #platformgames #vrmods --------------------------------------------------------------- Thank you for watching the video! Please leave a 👍 Subscribe if you enjoy VR & hit the 🔔 🎵 - My NEW Digital Album 'Ai2': https://paradisedecay.bandcamp.com/album/ai2 👀➦ PayPal (Buy me a coffee!): paradisedecay@virginmedia.com 👾Patreon - https://www.patreon.com/ParadiseDecayTM 👕 PD Merch - https://paradise-decay-merch-shop.myspreadshop.co.",
+   "repos": [
+    "github:scubasteve2365/RiftApartVR"
+   ],
+   "firstSeen": "2026-11-09T18:56:51.851Z"
   },
   {
    "title": "South Park (N64) VR Performance / New Meta Quest Standalone VR Mod with Head Aiming / Quest 3",
@@ -78,9 +285,9 @@
    "date": "2026-11-08T16:33:54.000Z",
    "source": "YouTube: VR DaD",
    "outlet": "YouTube: VR DaD",
-   "summary": "Pimax sent over the Pimax Crystal Super Ultra-Wide, so I had to put it through the ultimate PCVR test by jumping straight back into Half-Life: Alyx! In this video, we break down what it’s like rediscovering Valve's masterpiece with mind-blowing clarity and ultra-wide FOV. I share my honest hands-on impressions covering display resolution, edge-to-edge sharpness, headstrap comfort, controller integ",
+   "summary": "Get a Pimax Crystal Super, Use code VRDad and support the channel at no additional cost : 🔗 https://store.pimax.com/products/pimax-headset-with-pimax-evo-software?ref=VrDad Pimax sent over the Pimax Crystal Super Ultra-Wide, so I had to put it through the ultimate PCVR test by jumping straight back into Half-Life: Alyx! In this video, we break down what it’s like rediscovering Valve's masterpiece",
    "image": "https://i1.ytimg.com/vi/HZ3-OdELE9A/hqdefault.jpg",
-   "text": "Pimax Crystal Super Ultra-Wide First Impressions: Mind-Blowing Clarity in Half-Life: Alyx Pimax sent over the Pimax Crystal Super Ultra-Wide, so I had to put it through the ultimate PCVR test by jumping straight back into Half-Life: Alyx! In this video, we break down what it’s like rediscovering Valve's masterpiece with mind-blowing clarity and ultra-wide FOV. I share my honest hands-on impressions covering display resolution, edge-to-edge sharpness, headstrap comfort, controller integration, and how the Pimax software stack holds up in real-world gameplay. If you’ve been wondering whether high-end PCVR headsets are still worth the investment for classic titles, let's take a look at what this headset can really do! 🎮 What You’ll See in This Video: First impressions of the Pimax Crystal Super Ultra-Wide optical clarity Rediscovering Half-Life: Alyx graphics & environmental immersion Physical ergonomics, weight distribution, and comfort testing Controller tracking, haptics, and setup experience Pimax software performance & final verdict 📌 Useful Links & Resources: 🔗 Pimax Crystal Super: https://store.pimax.com/products/pimax-headset-with-pimax-evo-software?ref=VrDad Discount Code: VRDad 🔗 Subreddit: r/PCVR 🔗 Discord: https://discord.gg/S2hpcXasER 💖 Support the channel by becoming a Member: https://www.youtube.com/channel/UCk3kCEYhdR6mJX1wsaYPsOw/join 💬 Join the Discussion: What classic PCVR game would you revisit first with this level of visual clarity? Let me know in th",
+   "text": "Pimax Crystal Super Ultra-Wide First Impressions: Mind-Blowing Clarity in Half-Life: Alyx Get a Pimax Crystal Super, Use code VRDad and support the channel at no additional cost : 🔗 https://store.pimax.com/products/pimax-headset-with-pimax-evo-software?ref=VrDad Pimax sent over the Pimax Crystal Super Ultra-Wide, so I had to put it through the ultimate PCVR test by jumping straight back into Half-Life: Alyx! In this video, we break down what it’s like rediscovering Valve's masterpiece with mind-blowing clarity and ultra-wide FOV. I share my honest hands-on impressions covering display resolution, edge-to-edge sharpness, headstrap comfort, controller integration, and how the Pimax software stack holds up in real-world gameplay. If you’ve been wondering whether high-end PCVR headsets are still worth the investment for classic titles, let's take a look at what this headset can really do! 🎮 What You’ll See in This Video: First impressions of the Pimax Crystal Super Ultra-Wide optical clarity Rediscovering Half-Life: Alyx graphics & environmental immersion Physical ergonomics, weight distribution, and comfort testing Controller tracking, haptics, and setup experience Pimax software performance & final verdict 📌 Useful Links & Resources: 🔗 Subreddit: r/PCVR 🔗 Discord: https://discord.gg/S2hpcXasER 💖 Support the channel by becoming a Member: https://www.youtube.com/channel/UCk3kCEYhdR6mJX1wsaYPsOw/join 💬 Join the Discussion: What classic PCVR game would you revisit first with",
    "repos": [],
    "firstSeen": "2026-11-08T20:37:47.848Z"
   },
@@ -6700,6 +6907,18 @@
    "text": "A Massive Decompilation Community Is Shutting Down, Thanks to the Deluge of AI Decomps and Ports - IGN India A Massive Decompilation Community Is Shutting Down, Thanks to the Deluge of AI Decomps and Ports IGN India",
    "repos": [],
    "firstSeen": "2026-10-31T14:36:47.862Z"
+  },
+  {
+   "title": "Zelda: Tears of the Kingdom's Unofficial Native PC Port Still Runs 'Sluggish', but Modder NotRexed Estimates Release in 2-4 Weeks",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPU1l2X3h4VmlpSWdQU212UmdiajVvbWVpbHVDTURQWkRkX0lSdU1fSmhjdVBoWGs4ZlhnTkx4SDZYVFlCTGdyUlR3UmtvcHhuRlNYVTNCQWV1T0VDMVdZOG80N2J5Nmk2ZE1BcThRVGM1MXh3T2ZELUFsQk5yNWk5M3owbUIxWlFBZ1lERFplSWxabTFQb0RoRVNpbnhPWnI5R0hYRnpETDVxbFVPTVRN?oc=5",
+   "date": "2026-10-15T07:00:00.000Z",
+   "source": "Google News",
+   "outlet": "Wccftech",
+   "summary": "",
+   "image": null,
+   "text": "Zelda: Tears of the Kingdom's Unofficial Native PC Port Still Runs 'Sluggish', but Modder NotRexed Estimates Release in 2-4 Weeks - Wccftech Zelda: Tears of the Kingdom's Unofficial Native PC Port Still Runs 'Sluggish', but Modder NotRexed Estimates Release in 2-4 Weeks Wccftech",
+   "repos": [],
+   "firstSeen": "2026-11-09T18:56:51.851Z"
   },
   {
    "title": "Would it be Surprising if I Told You That Batman Arkham Origins is Now Playable in Virtual Reality?",
