@@ -184,6 +184,7 @@
   "baliebox4916/daytona-arcade-recomp": "2026-10-31T05:58:24.466Z",
   "bananawifi/openfpga-game-boy-printer": "2026-10-25T15:56:57.670Z",
   "banjorecomp/banjorecomp": "2026-10-23T22:25:39.434Z",
+  "barabashkad/radio86-rk-pocket": "2026-11-09T06:54:58.282Z",
   "barthes-recompiled/barthes-launcher": "2026-11-02T06:28:55.587Z",
   "barthes-recompiled/hp1-recompiled": "2026-11-03T02:28:07.541Z",
   "barthes-recompiled/hp2-recompiled": "2026-11-03T02:28:07.541Z",
@@ -5548,7 +5549,7 @@
     "title": "topic:recompilation stars:>20",
     "date": "2026-11-08T20:37:47.848Z"
    },
-   "autoFollow": false
+   "autoFollow": true
   },
   "fh1-reimagined/forzahorizon1-reimagined": {
    "id": "fh1-reimagined/forzahorizon1-reimagined",
