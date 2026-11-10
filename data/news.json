@@ -1,16 +1,156 @@
 {
  "articles": [
   {
+   "title": "$10 programmer saves BIOS-locked Lenovo ThinkPads from the dump",
+   "url": "https://www.tomshardware.com/laptops/usd10-programmer-saves-bios-locked-lenovo-thinkpads-from-the-dump-exploit-bypasses-supervisor-passwords-to-save-4th-to-8th-gen-intel-models-from-e-waste",
+   "date": "2026-11-10T12:20:00.000Z",
+   "source": "Tom's Hardware",
+   "outlet": "Tom's Hardware",
+   "summary": "Many cheap company ThinkPads come with supervisor passwords and often end up as e-waste. Ukrainian YouTuber Hileeq shows how easy it is to bypass the password with a $10 programmer.",
+   "image": "https://cdn.mos.cms.futurecdn.net/ngNTtyvcneBTnREftZgRMn-1920-80.jpg",
+   "text": "$10 programmer saves BIOS-locked Lenovo ThinkPads from the dump Rebooted by Hileeq has shared how others can get cheap Lenovo ThinkPads and save them from becoming e-waste by using a simple BIOS unlock hack that only requires a $10 programmer and another laptop or PC. The technique is niche, known mostly by technicians, but Hileeq is the first to give this bypass mass attention with an easy-to-follow YouTube tutorial. BIOS Lock? A simple lifehack to score cheap ThinkPads from ebay from r/pcmasterrace Rebooted by Hileeq's channel, dedicated to fixing cheap eBay finds, documents the process and what he learned while fixing the laptops. Three weeks ago, he posted a video explaining how to bypass locked Lenovo ThinkPads with Intel 4th- to 8th-generation CPUs using a cheap CH431A programmer to read, write, erase, and save EEPROM and SPI flash memory. Companies often add supervisor passwords to the fleet of ThinkPads they hand out to their employees as an IT security measure. When these ThinkPads are disposed of, often with the storage removed and destroyed, it’s rare that the supervisor passwords are included and documented. These locked ThinkPads are then incredibly cheap because of the lack of access, ending up as e-waste most of the time. However, Victor Voinea shared a post in a Romanian forum containing his ThinkPad supervisor removal exploits. Unfortunately, Voinea’s method generated a random password every time the exploit was run, requiring users to contact Voinea for the ",
+   "repos": [],
+   "firstSeen": "2026-11-10T12:48:43.559Z"
+  },
+  {
+   "title": "Software engineer Rickrolls his Prusa 3D printer via remote code execution exploit",
+   "url": "https://www.tomshardware.com/tech-industry/cyber-security/software-engineer-rickrolls-his-prusa-3d-printer-via-remote-code-execution-exploit-one-week-of-testing-with-claude-opus-uncovers-23-prusa-buddy-firmware-defects",
+   "date": "2026-11-10T12:18:07.000Z",
+   "source": "Tom's Hardware",
+   "outlet": "Tom's Hardware",
+   "summary": "A software engineer demonstrated the ability to Rickroll a 3D printer via remote code execution (RCE). This security flaw has been fixed in the latest Prusa software.",
+   "image": "https://cdn.mos.cms.futurecdn.net/WgmX8yre42vFoXgk4wu397-1920-80.jpg",
+   "text": "Software engineer Rickrolls his Prusa 3D printer via remote code execution exploit Software engineer Yannick Dixken spent a week attacking his Prusa MK4S 3D printer in the name of science. At the end of the relatively short but intense period, he produced a video demonstrating the ability to Rickroll the printer via remote code execution (RCE). Dixken shared the video and findings – charting “roughly 23 individual defects” with Prusa and published his amusing but detailed Never gonna print you up! blog in coordination with the 3D printer maker. Yes, all the vulnerabilities are now patched in the Buddy firmware versions >7.0.0. Dixken is an experienced Freelance Cloud Architect, DevOps and Platform Engineer. Security research is more of a hobby, he notes in the blog post, but it is clearly a passion strong enough to spend a whole week probing the MK4S for vulnerabilities. The result is far more than the funny old Rickroll . The week of debugging, fuzzing and reverse engineering “armed with Opus 4.8 and a fuzzer” resulted in “14 findings, roughly 23 individual defects, and a chain that ends with the printer's main controller running code I sent it over the network,” noted Dixken. “Yup, fully fledged RCE.” The headlining RCE scored 8.1 and is officially described as High Severity. This serious bug was in the cloud (or self-hosted) management platform called Prusa Connect. You can see proof-of-concept code Rickrolling the user in Dixken’s embedded video. He sent this video to Pru",
+   "repos": [],
+   "firstSeen": "2026-11-10T12:48:43.559Z"
+  },
+  {
+   "title": "The Legend of Zelda: Ocarina of Time Remake Gets Online Multiplayer Mod on PC via the Lichii Emulator or Native Recompilation",
+   "url": "https://wccftech.com/zelda-ocarina-of-time-remake-online-multiplayer-mod-pc/",
+   "date": "2026-11-10T12:00:00.000Z",
+   "source": "Wccftech",
+   "outlet": "Wccftech",
+   "summary": "Another day, another impressive feat accomplished by PC modders with The Legend of Zelda: Ocarina of Time. The remake of the best-reviewed game of all time now has optional online multiplayer, thanks to the efforts of user daurosk, who had already done the same for The Legend of Zelda: Tears of the Kingdom following that game's PC recompilation, which was released in late October. For the Ocarina ",
+   "image": "https://cdn.wccftech.com/wp-content/uploads/2026/11/Ocarina-of-Time-Multiplayer-1456x819.jpg",
+   "text": "The Legend of Zelda: Ocarina of Time Remake Gets Online Multiplayer Mod on PC via the Lichii Emulator or Native Recompilation Another day, another impressive feat accomplished by PC modders with The Legend of Zelda: Ocarina of Time. The remake of the best-reviewed game of all time now has optional online multiplayer, thanks to the efforts of user daurosk, who had already done the same for The Legend of Zelda: Tears of the Kingdom following that game's PC recompilation, which was released in late October. For the Ocarina of Time multiplayer project, daurosk decided to first add it to the Lichii emulator (more specifically, Frizti's build) and then carry that to native PC recompilations like those we covered yesterday. Now, to [&hellip;] Read full article at https://wccftech.com/zelda-ocarina-of-time-remake-online-multiplayer-mod-pc/",
+   "repos": [],
+   "firstSeen": "2026-11-10T12:48:43.559Z"
+  },
+  {
+   "title": "The Legend of Zelda: Ocarina of Time Remake Gets Online Multiplayer Mod on PC via the Lichii Emulator or Native Recompilation",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNRmh1M2Z6ejNVS2sybldnZ1FEQ1htc2JVUnJBMEMwdVRzenlNeEZfdWJ4NU1qbEdxZmhzdnFfekMzTzI5NjB5NWM3TjRvQWs1Rk4zam1EcWZmN0NiNEZRdHFvXzNoNWR3YlUzQjRwOVFoMjJJWEFqSDVDV01RRGVjWE9R0gGHAUFVX3lxTE41cjUycE5YZzZQel91a3JPdUVFMGVNNDN0dlZwdTduU3JEcHBycG9ZRmxmNjUxQUdYdV9xNDBHVTJKRkczMnA3bmQ4czRBcFdHN3ZWRE05SkoxWDF0WlNzWHFkMkRnVTNxOGNQVkU0b1I2OExCakNIWWg0d2RjaGlXRzB5eUtWRQ?oc=5",
+   "date": "2026-11-10T12:00:00.000Z",
+   "source": "Google News",
+   "outlet": "Wccftech",
+   "summary": "",
+   "image": null,
+   "text": "The Legend of Zelda: Ocarina of Time Remake Gets Online Multiplayer Mod on PC via the Lichii Emulator or Native Recompilation - Wccftech The Legend of Zelda: Ocarina of Time Remake Gets Online Multiplayer Mod on PC via the Lichii Emulator or Native Recompilation Wccftech",
+   "repos": [],
+   "firstSeen": "2026-11-10T12:48:43.559Z"
+  },
+  {
+   "title": "Dishonored 2 VR Performance / New VR Mod (Hollownett) with 6DOF Motion Controls / Quest 3 PCVR",
+   "url": "https://www.youtube.com/watch?v=LHy0VGXSU2E",
+   "date": "2026-11-10T11:00:11.000Z",
+   "source": "YouTube: NotAGameAddict",
+   "outlet": "YouTube: NotAGameAddict",
+   "summary": "00:00 - VR gameplay 15:14 - Game settings 15:38 - VR settings Dishonored 2 VR mod made by Hollownett - https://github.com/Hollownett/dishonored2-vr Dishonored 2 - https://store.steampowered.com/app/403640/Dishonored_2/",
+   "image": "https://i1.ytimg.com/vi/LHy0VGXSU2E/hqdefault.jpg",
+   "text": "Dishonored 2 VR Performance / New VR Mod (Hollownett) with 6DOF Motion Controls / Quest 3 PCVR 00:00 - VR gameplay 15:14 - Game settings 15:38 - VR settings Dishonored 2 VR mod made by Hollownett - https://github.com/Hollownett/dishonored2-vr Dishonored 2 - https://store.steampowered.com/app/403640/Dishonored_2/",
+   "repos": [
+    "github:Hollownett/dishonored2-vr"
+   ],
+   "firstSeen": "2026-11-10T12:48:43.559Z"
+  },
+  {
+   "title": "All net-connected vehicles from two major automakers allowed hackers to remotely unlock doors and start the engine",
+   "url": "https://www.tomshardware.com/tech-industry/cyber-security/all-net-connected-vehicles-from-two-major-automakers-allowed-hackers-to-remotely-unlock-doors-and-start-the-engine-now-patched-hard-coded-credentials-and-bypassed-mfa-security-showcase-a-lack-of-101-level-best-practices",
+   "date": "2026-11-10T10:50:00.000Z",
+   "source": "Tom's Hardware",
+   "outlet": "Tom's Hardware",
+   "summary": "Any net-connected vehicle from two automakers could be remotely opened and started — now-patched failures with API backend security showcase a lack of 101-level best practices",
+   "image": "https://cdn.mos.cms.futurecdn.net/upqeugEFFHioBpGYEJwHye-1920-80.jpg",
+   "text": "All net-connected vehicles from two major automakers allowed hackers to remotely unlock doors and start the engine Before proceeding further, we'd like to advise our dear reader to sit down and perhaps grab a helmet, for this post will elicit quite a few face-palms and forehead-slaps. Two security researchers joined forces and, during early 2026, managed to hack the vehicle connectivity backend infrastructure of two automakers , managing to remotely open the doors on any of their net-connected cars and start their engines across multiple world regions. The vulnerabilities were quickly fixed, and they pertained to a handful of belief-begging security issues with multiple server APIs that their respective mobile applications use. Furthermore, although remotely opening the cars and starting them were the most concerning bits, the vulnerabilities also exposed the vehicles' location, mileage, fuel, range, door states, and the customers' personal information. The white-hat hacking duo isn't disclosing the name of the impacted automakers, but they managed to get access to Automaker #1's U.S. vehicles, while vehicles from Automaker #2 were susceptible to unplanned lock disengagement in Australia, the U.S., and Canada. As far as we can tell by visual inspection alone, the second firm may be Toyota, as the hack demonstration video appears to depict a RAV4 SUV. Both affected automakers use ForgeRock's authentication and authorization services, though with the one small exception, the vu",
+   "repos": [],
+   "firstSeen": "2026-11-10T12:48:43.559Z"
+  },
+  {
+   "title": "Watch Me Fall - Driftwood VR Mod - 1st POV, Native Stereo, Head-Tracking, Motion Control Gestures",
+   "url": "https://www.youtube.com/watch?v=CordAY3lu2A",
+   "date": "2026-11-10T06:59:52.000Z",
+   "source": "YouTube: FastLawyer",
+   "outlet": "YouTube: FastLawyer",
+   "summary": "I bought this game! Driftwood is a game about high-speed downhill longboarding and a sloth named Eddy. You can play Driftwood in VR thanks to the amazing mod from Astien. Played on the Meta Quest 3 using Virtual Desktop on my RTX 5090. You can purchase game on Steam here: https://store.steampowered.com/app/2223700/Driftwood/ Thank you Astien for all the work you've done for the VR modding communit",
+   "image": "https://i4.ytimg.com/vi/CordAY3lu2A/hqdefault.jpg",
+   "text": "Watch Me Fall - Driftwood VR Mod - 1st POV, Native Stereo, Head-Tracking, Motion Control Gestures I bought this game! Driftwood is a game about high-speed downhill longboarding and a sloth named Eddy. You can play Driftwood in VR thanks to the amazing mod from Astien. Played on the Meta Quest 3 using Virtual Desktop on my RTX 5090. You can purchase game on Steam here: https://store.steampowered.com/app/2223700/Driftwood/ Thank you Astien for all the work you've done for the VR modding community! FREE VR mod download here (with Bhaptic support): https://github.com/Astienth/DriftWood_VR_bHaptics/releases Join my Steam Curator Group here: https://steamcommunity.com/groups/CIVRI",
+   "repos": [
+    "github:Astienth/DriftWood_VR_bHaptics"
+   ],
+   "firstSeen": "2026-11-10T12:48:43.559Z"
+  },
+  {
+   "title": "OutRunners PC Port is Out NOW! AND SO GOOD",
+   "url": "https://www.youtube.com/watch?v=sW06ErKt5XM",
+   "date": "2026-11-10T02:00:06.000Z",
+   "source": "YouTube: Video Game Esoterica",
+   "outlet": "YouTube: Video Game Esoterica",
+   "summary": "SUPPORT THE CHANNEL : http://www.patreon.com/VideoGameEsoterica Sure we got a Scud Race PC port last week for the first Model 3 PC port...but what about OutRunners? Well an OutRunners PC port based upon an OutRunners decomp is out now...and more Sega racing is a good thing! So many of the best recomps and best PC ports have been hitting lately! Now how about an OutRun 2 recomp and OutRun 2006 reco",
+   "image": "https://i4.ytimg.com/vi/sW06ErKt5XM/hqdefault.jpg",
+   "text": "OutRunners PC Port is Out NOW! AND SO GOOD SUPPORT THE CHANNEL : http://www.patreon.com/VideoGameEsoterica Sure we got a Scud Race PC port last week for the first Model 3 PC port...but what about OutRunners? Well an OutRunners PC port based upon an OutRunners decomp is out now...and more Sega racing is a good thing! So many of the best recomps and best PC ports have been hitting lately! Now how about an OutRun 2 recomp and OutRun 2006 recomp? Check it out here: https://github.com/cheviman/outrunners-port Questions? Comments? Just leave them below and I will do my best to answer each and every one of them! http://www.patreon.com/VideoGameEsoterica You can follow us at IG : ChicagoGameCollector , or join our Discord Server : https://discord.gg/6uFNZmHs8",
+   "repos": [
+    "github:cheviman/outrunners-port"
+   ],
+   "firstSeen": "2026-11-10T12:48:43.559Z"
+  },
+  {
+   "title": "Ocarina of Time Remake Recomps Are Here! So I Tested It",
+   "url": "https://www.youtube.com/watch?v=4Q-jcNNtJE0",
+   "date": "2026-11-09T22:00:17.000Z",
+   "source": "YouTube: Video Game Esoterica",
+   "outlet": "YouTube: Video Game Esoterica",
+   "summary": "SUPPORT THE CHANNEL : http://www.patreon.com/VideoGameEsoterica Switch 2 emulators exist, multiple Ocarina of Time Remake recomps and Switch 2 recomps are in development...and more Switch 2 news for everyone...through a mosaic! and now The Legend of Zelda: Ocarina of Time Remake emulation...works! Tested via Lichii emulator from my legally owned game and console. It's VERY early...but you asked! L",
+   "image": "https://i1.ytimg.com/vi/4Q-jcNNtJE0/hqdefault.jpg",
+   "text": "Ocarina of Time Remake Recomps Are Here! So I Tested It SUPPORT THE CHANNEL : http://www.patreon.com/VideoGameEsoterica Switch 2 emulators exist, multiple Ocarina of Time Remake recomps and Switch 2 recomps are in development...and more Switch 2 news for everyone...through a mosaic! and now The Legend of Zelda: Ocarina of Time Remake emulation...works! Tested via Lichii emulator from my legally owned game and console. It's VERY early...but you asked! Lichii is a fork of Eden with traces of Elgantine and Sudachi emulation FYI and now with Ocarina of Time Remake recomps! This is a pivot on my previous Nintendo Switch 2 news video with all of the different Nintendo Switch 2 discoveries being made lately...with humor! Because people keep asking about whether or not you can run a Nintendo Switch 2 game on your PC? or your iPhone? and while you WONT find the answer to that here...we are going to talk about the current Nintendo Switch 2 news in a fun way :) all while using ZERO Mario Kart World footage Note: There is NO INSTRUCTION, EXPLANATION, GUIDES on any HOW in this video nor will there ever be on this channel. This video is purely news based on Nintendo Switch 2 news and nothing else Questions? Comments? Just leave them below and I will do my best to answer each and every one of them! http://www.patreon.com/VideoGameEsoterica VGE",
+   "repos": [],
+   "firstSeen": "2026-11-10T12:48:43.559Z"
+  },
+  {
    "title": "Monster Hunter Freedom Unite Gets a Native PC and Android Recompilation With 60 FPS",
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5jS0VuT3V5Z2cyalo5ZG00OHFERlBYbnNCMU5RX09tNHJOTFdNdVlYd3RXaExmdExyeHpCYnZZckk3ZVZ0WlROTTR2bHBGcVBUVnU1RVY3NG9KZjVZY0pNR3Z2WkZDQ0RzR2ZHdktzTQ?oc=5",
    "date": "2026-11-09T21:37:07.000Z",
    "source": "Google News",
-   "outlet": "happygamer.com",
+   "outlet": "Happy Gamer",
    "summary": "",
    "image": null,
-   "text": "Monster Hunter Freedom Unite Gets a Native PC and Android Recompilation With 60 FPS - happygamer.com Monster Hunter Freedom Unite Gets a Native PC and Android Recompilation With 60 FPS happygamer.com",
+   "text": "Monster Hunter Freedom Unite Gets a Native PC and Android Recompilation With 60 FPS - Happy Gamer Monster Hunter Freedom Unite Gets a Native PC and Android Recompilation With 60 FPS Happy Gamer",
    "repos": [],
    "firstSeen": "2026-11-10T02:48:55.931Z"
+  },
+  {
+   "title": "The STUNNING Planet Of Lana VR Mod! #VR #VRMods",
+   "url": "https://www.youtube.com/watch?v=GQo9leZVSQI",
+   "date": "2026-11-09T20:30:21.000Z",
+   "source": "YouTube: Paradise Decay",
+   "outlet": "YouTube: Paradise Decay",
+   "summary": "►►Get the Mod for FREE here (1 click install): https://github.com/FlukeRogi/LanaVR ►PayPal (Buy me a coffee!): paradisedecay@virginmedia.com ►Patreon: https://www.patreon.com/ParadiseDecay ►Discord: https://discordapp.com/invite/hBgUqYD ►PD Steam Curator Group: http://store.steampowered.com/curator/6659922-Paradise-Decay-Game-Reviews/ ---------------------------------------------------------------",
+   "image": "https://i4.ytimg.com/vi/GQo9leZVSQI/hqdefault.jpg",
+   "text": "The STUNNING Planet Of Lana VR Mod! #VR #VRMods ►►Get the Mod for FREE here (1 click install): https://github.com/FlukeRogi/LanaVR ►PayPal (Buy me a coffee!): paradisedecay@virginmedia.com ►Patreon: https://www.patreon.com/ParadiseDecay ►Discord: https://discordapp.com/invite/hBgUqYD ►PD Steam Curator Group: http://store.steampowered.com/curator/6659922-Paradise-Decay-Game-Reviews/ --------------------------------------------------------------------------------------------- ☆ MY PC Specs: https://www.scan.co.uk/products/3xs-edge-rtx-intel-core-ultra-9-285k-32gb-ddr5-16gb-nvidia-rtx-5080-2tb-ssd-win-11? ☆ My Dedicated Router: https://www.amazon.co.uk/dp/B0B42GCD76?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_1&th=1 ☆ Meta Quest 3 ☆ GeForce RTX 5080 ☆ Windows 11, 64 bit ☆ Intel(R) Core(TM) Ultra 9 285K 3.70 GHz ☆ 32.0GB Ram #PlanetOfLana #vr #VRMod #Quest3 #QuestCreatorPartner #quest3s #metaquest #metaquest3 #metaquest3s #quest3games #roomscale #steam #NativeVR #steamvr #Quest3 #valve #uevr #3rdperson #platformer #platformgames #vrmods --------------------------------------------------------------- Thank you for watching the video! Please leave a 👍 Subscribe if you enjoy VR & hit the 🔔 🎵 - My NEW Digital Album 'Ai2': https://paradisedecay.bandcamp.com/album/ai2 👀➦ PayPal (Buy me a coffee!): paradisedecay@virginmedia.com 👾Patreon - https://www.patreon.com/ParadiseDecayTM 👕 PD Merch - https://paradise-decay-merch-shop.myspreadshop.co.uk/ 🐦 X - https://x.com/ParadiseDecayVR \ud83d",
+   "repos": [
+    "github:FlukeRogi/LanaVR"
+   ],
+   "firstSeen": "2026-11-10T12:48:43.559Z"
+  },
+  {
+   "title": "Pokémon Colosseum PC Port, CPS2 Recomp, Sega Model 3 MiSTer, Zelda OOT Remake Multiplayer - 387",
+   "url": "https://www.youtube.com/watch?v=oEKmGetAvd4",
+   "date": "2026-11-09T20:00:28.000Z",
+   "source": "YouTube: Pixel Cherry Ninja",
+   "outlet": "YouTube: Pixel Cherry Ninja",
+   "summary": "USE CODE \"PixelCherryNinja\" for 10% OFF https://fightboxarcade.com/ EARLY ACCESS TO NEWS VIDEOS AND OTHER EXCLUSIVES https://www.youtube.com/channel/UCEozS0uaZibXKTQSu10XgSw/join https://www.patreon.com/PixelCherryNinja Buy a Octopus TR Fightstick https://www.trfightstick.com/?ref=PCN Click link then use code \"PCN\" for $25 Off Buy a Morph2K https://www.pixelfx.co/product-page/morph-2k-analog-video",
+   "image": "https://i4.ytimg.com/vi/oEKmGetAvd4/hqdefault.jpg",
+   "text": "Pokémon Colosseum PC Port, CPS2 Recomp, Sega Model 3 MiSTer, Zelda OOT Remake Multiplayer - 387 USE CODE \"PixelCherryNinja\" for 10% OFF https://fightboxarcade.com/ EARLY ACCESS TO NEWS VIDEOS AND OTHER EXCLUSIVES https://www.youtube.com/channel/UCEozS0uaZibXKTQSu10XgSw/join https://www.patreon.com/PixelCherryNinja Buy a Octopus TR Fightstick https://www.trfightstick.com/?ref=PCN Click link then use code \"PCN\" for $25 Off Buy a Morph2K https://www.pixelfx.co/product-page/morph-2k-analog-video-scaler?ref=PCN Buy a Zaparoo product (10% off) https://shop.zaparoo.com/discount/PixelCherryNinja or just enter code \"PixelCherryNinja\" (affiliate links above) Join the Pixel Cherry Ninja Gaming Discord https://discord.gg/5W9pCy2nXa Find all the sources here https://pixelcherryninja.blogspot.com/ Special thanks to channel Patreon's Silver Ninja's - John Gillotte, Meathax, RGM, SmoMo, VimDiesel Bronze Ninja's - Alessandro Gulli, Alexander Facchini, Anime0t4ku, anthony, Bjamiork, craigpow, Curt Dittmer, Ernie D, Fizzun Dirtnap, Juan Alvarez, Keith F. Kelly, Nicholas Robertson-Muir, Niallquinn, ncc1701p, Peter Davis, Scott Dowdle, Tamariel, theypsilon, ZXFace A special Thanks to all Channel Members I Really Really Like PCN! - RGM - Random Gaming Moments https://www.youtube.com/channel/UCIm6dft7oV92-zMCn4A6g2Q I Really Like PCN! - Aleem Tayyab, Alphanu1, Anime0t4ku, ArinoSeb, Bjamiork, CryptoCSguy, Giuliano Pedersoli, Iñaki Etxebarria, Michael O’Hara, RaudoKun, Silent253, Terry BD, VolJoe I L",
+   "repos": [],
+   "firstSeen": "2026-11-10T12:48:43.559Z"
   },
   {
    "title": "Someone got multiplayer working in the Switch 2's Zelda: Ocarina of Time remake on PC, and it runs surprisingly well",
@@ -66,14 +206,14 @@
    "firstSeen": "2026-11-09T18:56:51.851Z"
   },
   {
-   "title": "No Russian in VR: COD Modern Warfare 2 VR!",
+   "title": "Modern Warfare 2 in VR is bonkers!",
    "url": "https://www.youtube.com/watch?v=Yuqng2vsBSs",
    "date": "2026-11-09T15:47:49.000Z",
    "source": "YouTube: LunchAndVR",
    "outlet": "YouTube: LunchAndVR",
    "summary": "*VIEWER WARNING IS ADVISED* Playing Call of Duty: Modern Warfare 2 Campaign Remastered with the VR mod! It's pretty cool, it has full motion controls, manual reloading, and a bunch of VR tweaking options. This is the Battlenet version of the game, it only exists on Battlenet unfortunately. VR mod by Overlord here: https://github.com/Aeka0/Overlord Overall I think it's a freaking great mod, but som",
    "image": "https://i2.ytimg.com/vi/Yuqng2vsBSs/hqdefault.jpg",
-   "text": "No Russian in VR: COD Modern Warfare 2 VR! *VIEWER WARNING IS ADVISED* Playing Call of Duty: Modern Warfare 2 Campaign Remastered with the VR mod! It's pretty cool, it has full motion controls, manual reloading, and a bunch of VR tweaking options. This is the Battlenet version of the game, it only exists on Battlenet unfortunately. VR mod by Overlord here: https://github.com/Aeka0/Overlord Overall I think it's a freaking great mod, but some bugs do get in the way of the game. Sometimes guns wouldn't fire and you have to drop them and pick them back up again, and sometimes ammo goes missing. But overall the mod is still playable from start to finish! Music: Scott Buckley - Legionnaire is under a Creative Commons BY 4.0 license. https://creativecommons.org/licenses/... / musicbyscottb Music powered by BreakingCopyright: • 💣 Copyright Free Military Music - \"Legionn... 🔎 Find more music here: https://breakingcopyright.com _ Thanks for coming! Appreciate you dropping by here, you're a cool person. If you want to stay around, I do all things VR & gaming related. (lunch included) Lunch's Discounts/affiliates here: https://linktr.ee/lunchandvr #vr #virtualreality #ar #mr #callofduty #mw2vr #modernwarfare2 #overlord #vrmod #pcvr #quest3 - Call of Duty VR / Call of Duty Modern Warfare 2 VR Mod - Aeka0 Overlord VR Mod / MW2 Campaign Remastered VR - How to Play COD MW2 in VR / Modern Warfare 2 VR Gameplay - MW2 VR Motion Controls / COD VR Manual Reloading - Battlenet MW2 VR Mod / Overl",
+   "text": "Modern Warfare 2 in VR is bonkers! *VIEWER WARNING IS ADVISED* Playing Call of Duty: Modern Warfare 2 Campaign Remastered with the VR mod! It's pretty cool, it has full motion controls, manual reloading, and a bunch of VR tweaking options. This is the Battlenet version of the game, it only exists on Battlenet unfortunately. VR mod by Overlord here: https://github.com/Aeka0/Overlord Overall I think it's a freaking great mod, but some bugs do get in the way of the game. Sometimes guns wouldn't fire and you have to drop them and pick them back up again, and sometimes ammo goes missing. But overall the mod is still playable from start to finish! Music: Scott Buckley - Legionnaire is under a Creative Commons BY 4.0 license. https://creativecommons.org/licenses/... / musicbyscottb Music powered by BreakingCopyright: • 💣 Copyright Free Military Music - \"Legionn... 🔎 Find more music here: https://breakingcopyright.com _ Thanks for coming! Appreciate you dropping by here, you're a cool person. If you want to stay around, I do all things VR & gaming related. (lunch included) Lunch's Discounts/affiliates here: https://linktr.ee/lunchandvr #vr #virtualreality #ar #mr #callofduty #mw2vr #modernwarfare2 #overlord #vrmod #pcvr #quest3 - Call of Duty VR / Call of Duty Modern Warfare 2 VR Mod - Aeka0 Overlord VR Mod / MW2 Campaign Remastered VR - How to Play COD MW2 in VR / Modern Warfare 2 VR Gameplay - MW2 VR Motion Controls / COD VR Manual Reloading - Battlenet MW2 VR Mod / Overlord VR M",
    "repos": [
     "github:Aeka0/Overlord"
    ],
@@ -422,14 +562,14 @@
    "firstSeen": "2026-11-08T15:23:40.938Z"
   },
   {
-   "title": "Pulling Mario Out Into Your Living Room!",
+   "title": "Mario ran out from the game and into reality",
    "url": "https://www.youtube.com/watch?v=lSqAwwhxGdQ",
    "date": "2026-11-08T13:00:03.000Z",
    "source": "YouTube: LunchAndVR",
    "outlet": "YouTube: LunchAndVR",
    "summary": "We're living in the Augmented Reality future now! Super cool stuff, I hope more things are made like this. I will say, it does take a bit of work to get it installed. Hopefully it's recompiled into an easier install method soon. You will need: - A legally owned copy of Mario 64 USA (A game you own legally) - Quest Headset - Mac/Linux to dump (Windows also works with WSL) The mod is called Mario64M",
    "image": "https://i1.ytimg.com/vi/lSqAwwhxGdQ/hqdefault.jpg",
-   "text": "Pulling Mario Out Into Your Living Room! We're living in the Augmented Reality future now! Super cool stuff, I hope more things are made like this. I will say, it does take a bit of work to get it installed. Hopefully it's recompiled into an easier install method soon. You will need: - A legally owned copy of Mario 64 USA (A game you own legally) - Quest Headset - Mac/Linux to dump (Windows also works with WSL) The mod is called Mario64MR by lucas martinic: https://github.com/lucas-martinic/mario64mr I did run into a multimodal issue, where it's supposed to let you play with one hand controller and one hand hand tracking, it didn't work on my latest Quest 3S version. _ Thanks for coming! Appreciate you dropping by here, you're a cool person. If you want to stay around, I do all things VR & gaming related. (lunch included) Lunch's Discounts/affiliates here: https://linktr.ee/lunchandvr #vr #virtualreality #ar #mr #questcreatorpartner #gaming",
+   "text": "Mario ran out from the game and into reality We're living in the Augmented Reality future now! Super cool stuff, I hope more things are made like this. I will say, it does take a bit of work to get it installed. Hopefully it's recompiled into an easier install method soon. You will need: - A legally owned copy of Mario 64 USA (A game you own legally) - Quest Headset - Mac/Linux to dump (Windows also works with WSL) The mod is called Mario64MR by lucas martinic: https://github.com/lucas-martinic/mario64mr _ Thanks for coming! Appreciate you dropping by here, you're a cool person. If you want to stay around, I do all things VR & gaming related. (lunch included) Lunch's Discounts/affiliates here: https://linktr.ee/lunchandvr #vr #virtualreality #ar #mr #questcreatorpartner #gaming",
    "repos": [
     "github:lucas-martinic/mario64mr"
    ],

@@ -713,6 +713,7 @@
   "florinp93/xmd-recompiled": "2026-10-23T22:25:39.434Z",
   "fluffyquack/rexglue-exit": "2026-10-23T22:25:39.434Z",
   "fluffyquack/rexglue-soulcaliburiv": "2026-10-28T15:14:34.148Z",
+  "flukerogi/lanavr": "2026-11-10T12:48:43.559Z",
   "fluorescenthallucinogen/painkiller-vr-mod": "2026-10-25T15:36:27.479Z",
   "flyinghead/flycast": "2026-11-05T12:33:40.140Z",
   "flyngmt/acgc-pc-port": "2026-10-23T22:25:39.434Z",
@@ -918,6 +919,7 @@
   "hojoworks/likethewind": "2026-11-10T02:48:55.931Z",
   "holdmysocks/mcla-recomp": "2026-10-23T22:46:33.769Z",
   "holdmysocks/rusty-mcla": "2026-10-30T06:03:37.031Z",
+  "hollownett/dishonored2-vr": "2026-11-10T12:48:43.559Z",
   "hollywoodakeem/svr07-recomp": "2026-10-23T22:25:39.434Z",
   "hookmanuk/rpcs3": "2026-10-25T15:36:27.479Z",
   "hopeaero/mlbpowerpros2008recomp": "2026-10-25T15:36:27.479Z",
@@ -2899,6 +2901,8 @@
   "undecuple/project-helghast": "2026-10-31T05:58:24.466Z",
   "undecuple/project-pyrrhus": "2026-11-01T15:19:44.427Z",
   "underdecoded/gen2recomped": "2026-10-25T15:36:27.479Z",
+  "uniplexed/neomillie#uniplexed-neomillie": "2026-11-10T12:48:43.559Z",
+  "uniplexed/neomillie#uniplexed-neomilliecd": "2026-11-10T12:48:43.559Z",
   "unvanquished/unvanquished": "2026-11-09T18:56:51.851Z",
   "uosdwashi/dgenerationport": "2026-11-10T02:48:55.931Z",
   "updeshxp/sf3tsoereborn": "2026-11-03T02:28:07.541Z",
@@ -5703,6 +5707,35 @@
    },
    "autoFollow": false
   },
+  "flukerogi/lanavr": {
+   "id": "flukerogi/lanavr",
+   "name": "Lana VR",
+   "game": "Lana VR",
+   "categories": [
+    "Other",
+    "VR Ports"
+   ],
+   "type": "port",
+   "tags": [
+    "VR"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "FlukeRogi/LanaVR"
+   },
+   "links": [],
+   "sources": [
+    "news"
+   ],
+   "discoveredFrom": {
+    "kind": "news",
+    "title": "The STUNNING Planet Of Lana VR Mod! #VR #VRMods",
+    "url": "https://www.youtube.com/watch?v=GQo9leZVSQI",
+    "source": "YouTube: Paradise Decay",
+    "date": "2026-11-09T20:30:21.000Z"
+   },
+   "autoFollow": true
+  },
   "fogleman/misterqueen": {
    "id": "fogleman/misterqueen",
    "name": "Mister Queen",
@@ -6343,6 +6376,35 @@
     "date": "2026-10-23T22:46:33.769Z"
    },
    "autoFollow": false
+  },
+  "hollownett/dishonored2-vr": {
+   "id": "hollownett/dishonored2-vr",
+   "name": "dishonored2 vr",
+   "game": "dishonored2 vr",
+   "categories": [
+    "Other",
+    "VR Ports"
+   ],
+   "type": "port",
+   "tags": [
+    "VR"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "Hollownett/dishonored2-vr"
+   },
+   "links": [],
+   "sources": [
+    "news"
+   ],
+   "discoveredFrom": {
+    "kind": "news",
+    "title": "Dishonored 2 VR Performance / New VR Mod (Hollownett) with 6DOF Motion Controls / Quest 3 PCVR",
+    "url": "https://www.youtube.com/watch?v=LHy0VGXSU2E",
+    "source": "YouTube: NotAGameAddict",
+    "date": "2026-11-10T11:00:11.000Z"
+   },
+   "autoFollow": true
   },
   "hossez/fifa-world-cup-2014-recompiled": {
    "id": "hossez/fifa-world-cup-2014-recompiled",
