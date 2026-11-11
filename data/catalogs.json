@@ -26970,7 +26970,7 @@
   ]
  },
  "quiver": {
-  "updatedAt": "2026-11-11T06:49:15.500Z",
+  "updatedAt": "2026-11-11T14:23:02.719Z",
   "projects": [
    {
     "id": "hk21x/007-agentunderfire-recomp",
@@ -28134,7 +28134,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.2.1",
+    "catalogVersion": "v0.2.2",
     "links": [
      {
       "label": "Quiver",
@@ -28240,6 +28240,38 @@
      }
     ],
     "image": "https://cdn2.steamgriddb.com/grid/f87fbff5bb3761ac2db01c763af3ec1b.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
+    "id": "fuzzybark/akujitheheartlessrecomp",
+    "aliases": [
+     "quiver:akuji-the-heartless-akuji-the-heartless-recompiled"
+    ],
+    "name": "Akuji the Heartless Recompiled",
+    "game": "Akuji the Heartless",
+    "categories": [
+     "PlayStation"
+    ],
+    "type": "recompilation",
+    "repo": {
+     "host": "github",
+     "path": "fuzzybark/AkujiTheHeartlessRecomp"
+    },
+    "description": "Akuji the Heartless Recompiled is a native Windows recompilation of Akuji the Heartless for PlayStation with high-resolution rendering and PGXP support.",
+    "developer": "fuzzybark",
+    "targets": [
+     "Windows"
+    ],
+    "catalogVersion": "v0.1.0",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/akuji-the-heartless-akuji-the-heartless-recompiled"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/4f076d4ad7f3545f9c1ede1b815d3cb0.png",
     "sources": [
      "quiver"
     ]
@@ -29123,7 +29155,7 @@
     "description": "AstralChain-PC is an unofficial Windows port of Astral Chain made by static recompilation with Vulkan support.",
     "developer": "Puddz",
     "targets": [],
-    "catalogVersion": "2026-11-10.7",
+    "catalogVersion": "2026-11-11.7",
     "links": [
      {
       "label": "Quiver",
@@ -29254,7 +29286,7 @@
      "macOS",
      "Linux"
     ],
-    "catalogVersion": "v0.6.0",
+    "catalogVersion": "v0.6.1",
     "links": [
      {
       "label": "Quiver",
@@ -30127,7 +30159,7 @@
      "quiver:supersmashbros-battleship"
     ],
     "name": "BattleShip",
-    "game": "Smash Remix",
+    "game": "Super Smash Bros.",
     "categories": [
      "Nintendo 64"
     ],
@@ -30151,7 +30183,7 @@
       "url": "https://quiverlauncher.com/apps/supersmashbros-battleship"
      }
     ],
-    "image": "https://cdn2.steamgriddb.com/grid/4e90fdfc090b7f3d3ddffb3b3ec8c10d.png",
+    "image": "https://raw.githubusercontent.com/JRickey/BattleShip/refs/heads/main/assets/icon.ico",
     "sources": [
      "quiver"
     ]
@@ -30276,7 +30308,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v0.2.31",
+    "catalogVersion": "v0.2.32",
     "links": [
      {
       "label": "Quiver",
@@ -30374,7 +30406,7 @@
      "macOS",
      "Windows"
     ],
-    "catalogVersion": "v1.0.4",
+    "catalogVersion": "v1.0.5",
     "links": [
      {
       "label": "Quiver",
@@ -31556,7 +31588,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "0.2.0",
+    "catalogVersion": "v0.2.1",
     "links": [
      {
       "label": "Quiver",
@@ -32444,7 +32476,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.1.2",
+    "catalogVersion": "v0.1.3",
     "links": [
      {
       "label": "Quiver",
@@ -32943,7 +32975,7 @@
      "macOS",
      "Windows"
     ],
-    "catalogVersion": "cataclysm-tlg-1.0-2026-11-11-0522",
+    "catalogVersion": "cataclysm-tlg-1.0-2026-11-11-0835",
     "links": [
      {
       "label": "Quiver",
@@ -33939,7 +33971,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.2.4",
+    "catalogVersion": "v0.3.0",
     "links": [
      {
       "label": "Quiver",
@@ -34464,7 +34496,8 @@
     "developer": "jake-r-r-w",
     "targets": [
      "Windows",
-     "Linux"
+     "Linux",
+     "Android"
     ],
     "catalogVersion": "v1.1.0",
     "links": [
@@ -35318,7 +35351,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "netplay-v1.0.10",
+    "catalogVersion": "alpha-v0.3.1",
     "links": [
      {
       "label": "Quiver",
@@ -35887,6 +35920,39 @@
      }
     ],
     "image": "https://cdn2.steamgriddb.com/grid/cfb0ad9812331c8f4ef0dbd67979c01f.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
+    "id": "gabrielmedeiros1337/digimonra2-recomp",
+    "aliases": [
+     "quiver:digimon-rumble-arena-2-digimon-rumble-arena-2-recomp"
+    ],
+    "name": "Digimon Rumble Arena 2 Recomp",
+    "game": "Digimon Rumble Arena 2",
+    "categories": [
+     "GameCube"
+    ],
+    "type": "recompilation",
+    "repo": {
+     "host": "github",
+     "path": "gabrielmedeiros1337/digimonra2-recomp"
+    },
+    "description": "Digimon Rumble Arena 2 Recomp is a native PC port of Digimon Rumble Arena 2 for Windows and Linux that runs at 60 FPS with internal resolution scaling and widescreen support.",
+    "developer": "Gabriel Medeiros",
+    "targets": [
+     "Windows",
+     "Linux"
+    ],
+    "catalogVersion": "1.0.0",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/digimon-rumble-arena-2-digimon-rumble-arena-2-recomp"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/bf59aaafb2d7eef459b48b5a0d49fac4.png",
     "sources": [
      "quiver"
     ]
@@ -37533,6 +37599,39 @@
     ]
    },
    {
+    "id": "urxp/drally",
+    "aliases": [
+     "quiver:death-rally-drally"
+    ],
+    "name": "dRally",
+    "game": "Death Rally",
+    "categories": [
+     "PC"
+    ],
+    "type": "recompilation",
+    "repo": {
+     "host": "github",
+     "path": "urxp/dRally"
+    },
+    "description": "dRally is a native port of Death Rally for Linux and BSD based operating systems.",
+    "developer": "urxp",
+    "targets": [
+     "Linux",
+     "Windows"
+    ],
+    "catalogVersion": "v0.2",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/death-rally-drally"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/c15d6ce6ff90066b048c0188aa4b7c83.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
     "id": "dorpxp/driftdroid",
     "aliases": [
      "quiver:mario-kart-wii-driftdroid"
@@ -37654,7 +37753,7 @@
      "Linux",
      "macOS"
     ],
-    "catalogVersion": "v1.0.0",
+    "catalogVersion": "v1.0.1",
     "links": [
      {
       "label": "Quiver",
@@ -37818,7 +37917,7 @@
     "description": "Dune II - The Maker is a Dune 2 remake and port for Windows, Linux, and macOS.",
     "developer": "Stefan Hendriks",
     "targets": [],
-    "catalogVersion": "bleeding-edge-3d7b5843",
+    "catalogVersion": "bleeding-edge-cc7d6c30",
     "links": [
      {
       "label": "Quiver",
@@ -38967,6 +39066,39 @@
     ]
    },
    {
+    "id": "catsandsoup/eod-recomp",
+    "aliases": [
+     "quiver:eve-of-destruction-recomp"
+    ],
+    "name": "Eve of Destruction Remaster",
+    "game": "Test Drive: Eve of Destruction",
+    "categories": [
+     "PlayStation 2"
+    ],
+    "type": "recompilation",
+    "repo": {
+     "host": "github",
+     "path": "catsandsoup/eod-recomp"
+    },
+    "description": "Eve of Destruction Remaster is a native recomp PC and Mac port of Eve of Destruction for PlayStation 2 that supports custom soundtracks and split-screen multiplayer.",
+    "developer": "catsandsoup",
+    "targets": [
+     "macOS",
+     "Windows"
+    ],
+    "catalogVersion": "creation-kit-v0.3.2-preview",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/eve-of-destruction-recomp"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/b40e5b74c99c00beefd16200e679b3be.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
     "id": "markpremier/evolutionrecomp",
     "aliases": [
      "quiver:turok-evolution-evolutionrecomp"
@@ -38986,7 +39118,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.7.14-beta",
+    "catalogVersion": "v0.7.15-beta",
     "links": [
      {
       "label": "Quiver",
@@ -39518,7 +39650,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.1.9",
+    "catalogVersion": "v0.1.10",
     "links": [
      {
       "label": "Quiver",
@@ -39558,6 +39690,38 @@
      }
     ],
     "image": "https://cdn2.steamgriddb.com/grid/7486d0b0cb0c9ca143146002b89a6833.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
+    "id": "zelkin1/fe-awakening-recomp",
+    "aliases": [
+     "quiver:fire-emblem-awakening-fe-awakening-recomp"
+    ],
+    "name": "fe-awakening-recomp",
+    "game": "Fire Emblem: Awakening",
+    "categories": [
+     "Nintendo DS"
+    ],
+    "type": "recompilation",
+    "repo": {
+     "host": "github",
+     "path": "Zelkin1/fe-awakening-recomp"
+    },
+    "description": "fe-awakening-recomp is a Windows port of Fire Emblem: Awakening that runs the game natively with higher resolutions and frame interpolation.",
+    "developer": "Zelkin1",
+    "targets": [
+     "Windows"
+    ],
+    "catalogVersion": "v1.0.14",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/fire-emblem-awakening-fe-awakening-recomp"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/7961f44653b3a08379349e2c8e1ff14d.png",
     "sources": [
      "quiver"
     ]
@@ -40307,7 +40471,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "v0.10.15",
+    "catalogVersion": "v0.11.0",
     "links": [
      {
       "label": "Quiver",
@@ -41180,6 +41344,39 @@
      }
     ],
     "image": "https://cdn2.steamgriddb.com/grid/7b9bbffc7373392b1e90e80876542d5e.jpg",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
+    "id": "obesecatlord/galaxy-angel-2-pc",
+    "aliases": [
+     "quiver:galaxy-angel-ii-galaxy-angel-2-pc"
+    ],
+    "name": "Galaxy Angel 2 PC",
+    "game": "Galaxy Angel II: Zettai Ryōiki no Tobira",
+    "categories": [
+     "PlayStation 2"
+    ],
+    "type": "recompilation",
+    "repo": {
+     "host": "github",
+     "path": "ObeseCatLord/galaxy-angel-2-pc"
+    },
+    "description": "Galaxy Angel 2 PC is a native PC port of the PlayStation 2 game trilogy, offering higher resolutions and frame rates.",
+    "developer": "ObeseCatLord",
+    "targets": [
+     "Linux",
+     "Windows"
+    ],
+    "catalogVersion": "v0.9.0",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/galaxy-angel-ii-galaxy-angel-2-pc"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/fb42a94891846cc9a3c077dd79d043ba.png",
     "sources": [
      "quiver"
     ]
@@ -45064,6 +45261,39 @@
     ]
    },
    {
+    "id": "salmon85/james-pond-3-recomp",
+    "aliases": [
+     "quiver:james-pond-3-operation-starfish-james-pond-3-static-recompilation"
+    ],
+    "name": "James Pond 3 Recomp",
+    "game": "James Pond 3: Operation Starfish",
+    "categories": [
+     "Mega Drive"
+    ],
+    "type": "recompilation",
+    "repo": {
+     "host": "github",
+     "path": "salmon85/James-Pond-3-Recomp"
+    },
+    "description": "James Pond 3 Recomp is a source-level recompilation of James Pond 3: Operation Starfish for Sega Genesis Mega Drive with a trainer for infinite lives, health, jumps, and ammo type override.",
+    "developer": "mstan",
+    "targets": [
+     "Linux",
+     "Windows"
+    ],
+    "catalogVersion": "continuous",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/james-pond-3-operation-starfish-james-pond-3-static-recompilation"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/a55bb9195f55fec213dec52886ff27be.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
     "id": "tk22-26/jetforcegemini-recomp",
     "aliases": [
      "quiver:jet-force-gemini-jetforcegemini-recomp"
@@ -45579,7 +45809,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.3.2",
+    "catalogVersion": "v0.3.3",
     "links": [
      {
       "label": "Quiver",
@@ -45916,6 +46146,38 @@
      }
     ],
     "image": "https://cdn2.steamgriddb.com/grid/1404fe8527667e6b6c1d29e2a6390312.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
+    "id": "josiahg2502-glitch/kirby-redream",
+    "aliases": [
+     "quiver:kirby-s-return-to-dream-land-deluxe-kirby-redream"
+    ],
+    "name": "Kirby Redream",
+    "game": "Kirby's Return to Dream Land Deluxe",
+    "categories": [
+     "Nintendo Switch"
+    ],
+    "type": "reimplementation",
+    "repo": {
+     "host": "github",
+     "path": "josiahg2502-glitch/Kirby-Redream"
+    },
+    "description": "Kirby-Redream is a native PC port of Kirby's Return to Dream Land Deluxe that translates the game's code to C for PC.",
+    "developer": "josiahg2502-glitch",
+    "targets": [
+     "Windows"
+    ],
+    "catalogVersion": "v1.0.0",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/kirby-s-return-to-dream-land-deluxe-kirby-redream"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/51bd49687a20bb1336523c8d5339fb8b.jpg",
     "sources": [
      "quiver"
     ]
@@ -47036,6 +47298,39 @@
      }
     ],
     "image": "https://cdn2.steamgriddb.com/grid/c935ae5eb3f0ae34220b8ea163a59d43.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
+    "id": "fwha/lost-paradise",
+    "aliases": [
+     "quiver:fist-of-the-north-star-lost-paradise-lost-paradise-native"
+    ],
+    "name": "lost-paradise-native",
+    "game": "Fist of the North Star: Lost Paradise",
+    "categories": [
+     "PlayStation 4"
+    ],
+    "type": "recompilation",
+    "repo": {
+     "host": "github",
+     "path": "Fwha/Lost-Paradise"
+    },
+    "description": "Runs Fist of the North Star: Lost Paradise natively on Linux and Windows. A C++ host loads the game's original x86-64 code, answers its PS4 system calls itself, and recompiles its GPU shaders to Vulkan.",
+    "developer": "Fwha",
+    "targets": [
+     "Windows",
+     "Linux"
+    ],
+    "catalogVersion": "v1.5.0",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/fist-of-the-north-star-lost-paradise-lost-paradise-native"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/a201464ed3e13188553a869cfaed5fdf.jpg",
     "sources": [
      "quiver"
     ]
@@ -48520,6 +48815,38 @@
     ]
    },
    {
+    "id": "neonoxd/mohrs-xberecomp",
+    "aliases": [
+     "quiver:medal-of-honor-rising-sun-mohrs-xberecomp"
+    ],
+    "name": "Medal of Honor: Rising Sun XBERecomp",
+    "game": "Medal of Honor: Rising Sun",
+    "categories": [
+     "Xbox"
+    ],
+    "type": "recompilation",
+    "repo": {
+     "host": "github",
+     "path": "neonoxd/MOHRS-XBERecomp"
+    },
+    "description": "MOHRS-XBERecomp is an unofficial native PC port of Medal of Honor: Rising Sun for Windows with widescreen and 60 FPS support.",
+    "developer": "neonoxd",
+    "targets": [
+     "Windows"
+    ],
+    "catalogVersion": "v.0.1.7",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/medal-of-honor-rising-sun-mohrs-xberecomp"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/923c5f28baa1870eabbd174ea6a1221d.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
     "id": "bc160201983/medievil_2019_pc_port",
     "aliases": [
      "quiver:medievil-medievil-2019-pc-port"
@@ -48571,7 +48898,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v2.1.1",
+    "catalogVersion": "v2.2.0",
     "links": [
      {
       "label": "Quiver",
@@ -49039,7 +49366,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "v0.9.111",
+    "catalogVersion": "v0.9.113",
     "links": [
      {
       "label": "Quiver",
@@ -49511,7 +49838,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v0.9.3",
+    "catalogVersion": "v0.9.5",
     "links": [
      {
       "label": "Quiver",
@@ -49545,7 +49872,7 @@
      "Linux",
      "Android"
     ],
-    "catalogVersion": "0.16.0",
+    "catalogVersion": "0.16.1",
     "links": [
      {
       "label": "Quiver",
@@ -49618,6 +49945,39 @@
      }
     ],
     "image": "https://cdn2.steamgriddb.com/grid/9cf18de50ca98ddcd1ba09034ae1a2c5.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
+    "id": "taktloss/micromanrecomp",
+    "aliases": [
+     "quiver:micro-maniacs-micro-maniacs-recompiled"
+    ],
+    "name": "Micro Maniacs Recompiled",
+    "game": "Micro Maniacs",
+    "categories": [
+     "PlayStation"
+    ],
+    "type": "recompilation",
+    "repo": {
+     "host": "github",
+     "path": "Taktloss/MicroManRecomp"
+    },
+    "description": "Micro Maniacs Recompiled is a native PC port of Micro Maniacs for PlayStation with online multiplayer and experimental smooth motion.",
+    "developer": "Taktloss",
+    "targets": [
+     "Linux",
+     "Windows"
+    ],
+    "catalogVersion": "v0.1.1",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/micro-maniacs-micro-maniacs-recompiled"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/90470668ceeb6e3a383243a142ff548f.jpg",
     "sources": [
      "quiver"
     ]
@@ -51182,7 +51542,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.2.0",
+    "catalogVersion": "v0.2.1",
     "links": [
      {
       "label": "Quiver",
@@ -51351,6 +51711,38 @@
      }
     ],
     "image": "https://cdn2.steamgriddb.com/grid/50e9b99c2a260821f8f8df9667fc3956.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
+    "id": "yodammm/nightfireport",
+    "aliases": [
+     "quiver:007-nightfire-nightfire-rust"
+    ],
+    "name": "Nightfire Rust",
+    "game": "007: NightFire",
+    "categories": [
+     "PlayStation 2"
+    ],
+    "type": "reimplementation",
+    "repo": {
+     "host": "github",
+     "path": "YodaMMM/NightfirePort"
+    },
+    "description": "Nightfire Rust is a native PC port of 007: Nightfire for Windows, featuring mouse look and online multiplayer.",
+    "developer": "YodaMMM",
+    "targets": [
+     "Windows"
+    ],
+    "catalogVersion": "v0.1.37",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/007-nightfire-nightfire-rust"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/26f6228f1cd86f3296f0c885dcac87bf.png",
     "sources": [
      "quiver"
     ]
@@ -52672,7 +53064,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.5.5",
+    "catalogVersion": "v0.5.6",
     "links": [
      {
       "label": "Quiver",
@@ -52706,7 +53098,7 @@
      "Android",
      "Windows"
     ],
-    "catalogVersion": "mobile-v1.9.2",
+    "catalogVersion": "v1.0.10",
     "links": [
      {
       "label": "Quiver",
@@ -55420,7 +55812,7 @@
      "macOS",
      "Windows"
     ],
-    "catalogVersion": "v2.9.172",
+    "catalogVersion": "v2.9.169",
     "links": [
      {
       "label": "Quiver",
@@ -55616,7 +56008,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.9.1",
+    "catalogVersion": "v0.9.1a",
     "links": [
      {
       "label": "Quiver",
@@ -56466,7 +56858,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "v0.10.3",
+    "catalogVersion": "v0.10.4-beta.1",
     "links": [
      {
       "label": "Quiver",
@@ -56612,6 +57004,39 @@
      }
     ],
     "image": "https://cdn2.steamgriddb.com/grid/28f108967ae96b335e87aa08d9db0cb3.jpg",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
+    "id": "zexk/portable-ops-native",
+    "aliases": [
+     "quiver:metal-gear-solid-portable-ops-portable-ops-native"
+    ],
+    "name": "Portable Ops Native",
+    "game": "Metal Gear Solid: Portable Ops",
+    "categories": [
+     "PlayStation Portable"
+    ],
+    "type": "recompilation",
+    "repo": {
+     "host": "github",
+     "path": "zexk/portable-ops-native"
+    },
+    "description": "Portable Ops Native is a native PC port of Metal Gear Solid Portable Ops and Portable Ops+ using static recompilation with Vulkan and SDL3.",
+    "developer": "zexk",
+    "targets": [
+     "Linux",
+     "Windows"
+    ],
+    "catalogVersion": "v0.1.0-rc1",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/metal-gear-solid-portable-ops-portable-ops-native"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/0d637f2fcede3fabb4247146127eb331.png",
     "sources": [
      "quiver"
     ]
@@ -57494,6 +57919,39 @@
      }
     ],
     "image": "https://cdn2.steamgriddb.com/grid/dd55802d0d54d57e54e503150916fe3b.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
+    "id": "gustavomorinaga/project-vekta",
+    "aliases": [
+     "quiver:killzone-hd-project-vekta"
+    ],
+    "name": "Project Vekta",
+    "game": "Killzone",
+    "categories": [
+     "PlayStation 3"
+    ],
+    "type": "recompilation",
+    "repo": {
+     "host": "github",
+     "path": "gustavomorinaga/project-vekta"
+    },
+    "description": "Project Vekta is a static recompilation of Killzone HD for PC that runs the game at higher frame rates and resolutions.",
+    "developer": "Gustavo Morinaga",
+    "targets": [
+     "Linux",
+     "Windows"
+    ],
+    "catalogVersion": "v0.4.0",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/killzone-hd-project-vekta"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/54471ac958809fb5a9cf40c49f2fc7d8.jpg",
     "sources": [
      "quiver"
     ]
@@ -58515,7 +58973,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v1.2.6",
+    "catalogVersion": "v1.2.8",
     "links": [
      {
       "label": "Quiver",
@@ -59106,7 +59564,7 @@
      "macOS",
      "Windows"
     ],
-    "catalogVersion": "test-pr111-71a1e6112f85",
+    "catalogVersion": "test-pr164-258805645902",
     "links": [
      {
       "label": "Quiver",
@@ -59504,7 +59962,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.2.0-alpha",
+    "catalogVersion": "v0.2.1-alpha",
     "links": [
      {
       "label": "Quiver",
@@ -60919,7 +61377,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "v1.0.50",
+    "catalogVersion": "v1.0.51",
     "links": [
      {
       "label": "Quiver",
@@ -61216,7 +61674,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v2026.11.16",
+    "catalogVersion": "v2026.11.18",
     "links": [
      {
       "label": "Quiver",
@@ -61813,7 +62271,8 @@
     "developer": "updeshxp",
     "targets": [
      "Linux",
-     "Windows"
+     "Windows",
+     "macOS"
     ],
     "catalogVersion": "v0.2.0-beta",
     "links": [
@@ -62832,7 +63291,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v1.0.8-skate3.20261110",
+    "catalogVersion": "v1.0.9-skate3.20261111",
     "links": [
      {
       "label": "Quiver",
@@ -64527,6 +64986,38 @@
     ]
    },
    {
+    "id": "spaced1127/spongebobrecomp",
+    "aliases": [
+     "quiver:spongebob-squarepants-revenge-of-the-flying-dutchman-spongebobrecomp"
+    ],
+    "name": "SpongeBobRecomp",
+    "game": "SpongeBob SquarePants: Revenge of the Flying Dutchman",
+    "categories": [
+     "GameCube"
+    ],
+    "type": "recompilation",
+    "repo": {
+     "host": "github",
+     "path": "Spaced1127/SpongeBobRecomp"
+    },
+    "description": "SpongeBobRecomp is a standalone PC port of SpongeBob SquarePants Revenge of the Flying Dutchman for Windows.",
+    "developer": "Spaced1127",
+    "targets": [
+     "Windows"
+    ],
+    "catalogVersion": "v0.1.4",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/spongebob-squarepants-revenge-of-the-flying-dutchman-spongebobrecomp"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/9a87e541c0d221bb8a0667dd4c6dd0f7.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
     "id": "starkka15/spyro-aht-pc",
     "aliases": [
      "quiver:spyro-a-hero-s-tail-spyro-a-hero-s-tail-pc-port"
@@ -64644,7 +65135,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.2.48",
+    "catalogVersion": "v0.2.49",
     "links": [
      {
       "label": "Quiver",
@@ -65471,7 +65962,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v2.9.1",
+    "catalogVersion": "v2.9.2",
     "links": [
      {
       "label": "Quiver",
@@ -66902,6 +67393,38 @@
     ]
    },
    {
+    "id": "raulzrrs/swsh-recomp",
+    "aliases": [
+     "quiver:pokemon-sword-swsh-recomp"
+    ],
+    "name": "SwSh Recomp",
+    "game": "Pokémon Sword",
+    "categories": [
+     "Nintendo Switch"
+    ],
+    "type": "recompilation",
+    "repo": {
+     "host": "github",
+     "path": "raulzrrs/swsh-recomp"
+    },
+    "description": "SwSh Recomp is a native Windows port of Pokémon Sword and Shield made by static recompilation, translating ARM64 code to C and compiling it for PC.",
+    "developer": "raulzrrs",
+    "targets": [
+     "Windows"
+    ],
+    "catalogVersion": "v0.1.0",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/pokemon-sword-swsh-recomp"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/a4b0aeb45563a15d2f9092917180245b.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
     "id": "blacklabelhq/symphonyrecomp",
     "aliases": [
      "quiver:castlevaniasymphonyofthenight-symphonyrecomp"
@@ -66995,6 +67518,38 @@
      }
     ],
     "image": "https://cdn2.steamgriddb.com/grid/1e678e9360c5239e67ce536f9abd5f92.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
+    "id": "astromen2009/syphon-filter-3-pc-port",
+    "aliases": [
+     "quiver:syphon-filter-3-pc-port"
+    ],
+    "name": "Syphon Filter 3 PC Port",
+    "game": "Syphon Filter 3",
+    "categories": [
+     "PlayStation"
+    ],
+    "type": "port",
+    "repo": {
+     "host": "github",
+     "path": "astromen2009/Syphon-Filter-3-pc-port"
+    },
+    "description": "Syphon Filter 3 PC Port is a native PC port of Syphon Filter 3 for PlayStation.",
+    "developer": "astromen2009",
+    "targets": [
+     "Windows"
+    ],
+    "catalogVersion": "v0.9.1",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/syphon-filter-3-pc-port"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/514bf02a1d22890607708eb42b778a4c.png",
     "sources": [
      "quiver"
     ]
@@ -68093,7 +68648,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v1.0.2",
+    "catalogVersion": "v1.0.3",
     "links": [
      {
       "label": "Quiver",
@@ -68915,7 +69470,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.5.0",
+    "catalogVersion": "v0.6.0",
     "links": [
      {
       "label": "Quiver",
@@ -68957,6 +69512,39 @@
      }
     ],
     "image": "https://cdn2.steamgriddb.com/grid/ed8ed7dd7e0836bc79f7543fca7de56f.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
+    "id": "naparuba-retro/tmnt-recomp",
+    "aliases": [
+     "quiver:teenage-mutant-ninja-turtles-tmnt-recomp"
+    ],
+    "name": "tmnt-recomp",
+    "game": "Teenage Mutant Ninja Turtles",
+    "categories": [
+     "NES"
+    ],
+    "type": "recompilation",
+    "repo": {
+     "host": "github",
+     "path": "naparuba-retro/tmnt-recomp"
+    },
+    "description": "tmnt-recomp is a C port of the NES game Teenage Mutant Ninja Turtles with an in-game menu and optional fixes and improvements.",
+    "developer": "naparuba-retro",
+    "targets": [
+     "Linux",
+     "Windows"
+    ],
+    "catalogVersion": "v1.6.0",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/teenage-mutant-ninja-turtles-tmnt-recomp"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/4e9cee83771497315ab4e7a43c96218c.png",
     "sources": [
      "quiver"
     ]
@@ -69246,7 +69834,7 @@
      "macOS",
      "Windows"
     ],
-    "catalogVersion": "v0.1.0",
+    "catalogVersion": "v0.2.0",
     "links": [
      {
       "label": "Quiver",
@@ -69473,7 +70061,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "setup-v0.4.9",
+    "catalogVersion": "setup-v0.5.1",
     "links": [
      {
       "label": "Quiver",
@@ -70429,7 +71017,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v0.19.1",
+    "catalogVersion": "v0.19.2",
     "links": [
      {
       "label": "Quiver",
@@ -72061,6 +72649,38 @@
     ]
    },
    {
+    "id": "mattiasribera/warriorsreborn",
+    "aliases": [
+     "quiver:the-warriors-warriorsreborn"
+    ],
+    "name": "WarriorsReborn",
+    "game": "The Warriors",
+    "categories": [
+     "Xbox"
+    ],
+    "type": "reimplementation",
+    "repo": {
+     "host": "github",
+     "path": "mattiasribera/WarriorsReborn"
+    },
+    "description": "WarriorsReborn is a native PC port of The Warriors for Xbox that runs your own copy of the game with features like 60 fps mode and widescreen support.",
+    "developer": "mattiasribera",
+    "targets": [
+     "Windows"
+    ],
+    "catalogVersion": "v0.1.6",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/the-warriors-warriorsreborn"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/4d895b36f6022d8abc0a30249da4df56.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
     "id": "warzone2100/warzone2100",
     "aliases": [
      "quiver:warzone-2100"
@@ -72705,7 +73325,7 @@
      "macOS",
      "Linux"
     ],
-    "catalogVersion": "v0.9.7",
+    "catalogVersion": "v0.9.8",
     "links": [
      {
       "label": "Quiver",
@@ -73388,7 +74008,7 @@
      "Windows",
      "Android"
     ],
-    "catalogVersion": "v2.2.2",
+    "catalogVersion": "v2.2.3",
     "links": [
      {
       "label": "Quiver",
@@ -74290,6 +74910,38 @@
      }
     ],
     "image": "https://cdn2.steamgriddb.com/grid/fb3fb416095812f23a22302e9efe50b6.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
+    "id": "ilfforever/yw4recomp",
+    "aliases": [
+     "quiver:yo-kai-watch-4-yw4-recomp"
+    ],
+    "name": "YW4 Recomp",
+    "game": "Yo-kai Watch 4",
+    "categories": [
+     "Nintendo Switch"
+    ],
+    "type": "recompilation",
+    "repo": {
+     "host": "github",
+     "path": "ILFforever/YW4Recomp"
+    },
+    "description": "YW4 Recomp is a PC port of Yo-kai Watch 4++ that offers higher resolutions, ultrawide support, and improved shadow and anti-aliasing effects.",
+    "developer": "ILFforever",
+    "targets": [
+     "Windows"
+    ],
+    "catalogVersion": "deps-mirror",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/yo-kai-watch-4-yw4-recomp"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/3a1a6def34f8603baa1e2b33495e632c.png",
     "sources": [
      "quiver"
     ]
@@ -89415,7 +90067,7 @@
   ]
  },
  "pocket": {
-  "updatedAt": "2026-11-11T06:49:15.500Z",
+  "updatedAt": "2026-11-11T14:23:02.719Z",
   "projects": [
    {
     "id": "gpzi994/chiskit",
@@ -101069,11 +101721,11 @@
     "targets": [
      "Analogue Pocket"
     ],
-    "catalogVersion": "0.1.3",
-    "catalogDate": "2026-10-29",
+    "catalogVersion": "0.2.0",
+    "catalogDate": "2026-11-10",
     "download": {
-     "label": "Pocket 0.1.3",
-     "url": "https://github.com/mmnbass/openfpga-Jaguar/releases/download/v0.1.3/mmnbass.Jaguar_0.1.3.zip"
+     "label": "Pocket 0.2.0",
+     "url": "https://github.com/mmnbass/openfpga-Jaguar/releases/download/v0.2.0/mmnbass.Jaguar_0.2.0.zip"
     },
     "links": [
      {
