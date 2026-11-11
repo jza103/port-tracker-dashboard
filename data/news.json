@@ -1,6 +1,18 @@
 {
  "articles": [
   {
+   "title": "Pokémon FireRed Has Been Turned Into A Fully 3D Game",
+   "url": "https://retrododo.com/pokemon-firered-has-been-turned-into-a-fully-3d-game/",
+   "date": "2026-11-11T14:24:01.000Z",
+   "source": "Retro Dodo",
+   "outlet": "Retro Dodo",
+   "summary": "After the Ocarina of Time remake, I'm really on a 'remake all of my favourite games' train now. FireRed is probably the most coveted Pokémon game of all time, the ultimate version of Pokémon Red and the best game on the GBA.",
+   "image": "https://storage.ghost.io/c/58/fd/58fdc82a-ad84-44e2-ad58-166d1b419bc4/content/images/2026/11/fire-red-1.jpg",
+   "text": "Pokémon FireRed Has Been Turned Into A Fully 3D Game After the Ocarina of Time remake, I'm really on a 'remake all of my favourite games' train now. FireRed is probably the most coveted Pokémon game of all time, the ultimate version of Pokémon Red and the best game on the GBA. And someone has managed to take the game and turn into a fully fledged 3D title. I'm not talking about the 3D voxel MOD for Pokémon Red, either. This isn't just 2D sprites in a 3D environment; it's a version of FireRed that looks like it's part of the Let's Go game series. So how has this come about? Well, the maker of the new fan-made game, LIME6622 , has rewritten the game using Rust, which for those who are not in the know and wondering if I'm talking about old metal, is a programming language. LIME6622 has recompiled the original GBA code, and they've used the same animations and graphics from Let's Go Pikachu/Eevee. Fly on Charizard, ride your other Pokémon, and make your way through stunning visuals that do the Pokémon series proud. Not bad for a fanmade game, huh? Here's the cool bit (and I know what you're thinking: how can it get more exciting?) - everything runs on the original FireRed code. The in-game AI, battles, and interactions run on the original code, but we now have the addition of an expanded world and a free camera that you can move to your heart's content while adventuring. Credit: LIME6622 Writing in the description of the YouTube video above, LIME6622 says: This is a convergent mo",
+   "repos": [],
+   "firstSeen": "2026-11-11T16:22:20.057Z"
+  },
+  {
    "title": "Red Dead Revolver Recomp Out NOW! Xbox Recomp Fun",
    "url": "https://www.youtube.com/watch?v=5dZvUwcooTY",
    "date": "2026-11-11T13:45:13.000Z",
