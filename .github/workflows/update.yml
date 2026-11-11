@@ -23,7 +23,7 @@ jobs:
     timeout-minutes: 30
     environment:
       name: github-pages
-      url: ${{ steps.deploy.outputs.page_url }}
+      url: ${{ steps.deploy.outputs.page_url || steps.deploy-retry-1.outputs.page_url || steps.deploy-retry-2.outputs.page_url }}
     steps:
       - uses: actions/checkout@v5
 
@@ -48,13 +48,44 @@ jobs:
             echo "No state changes"
           else
             git commit -m "Update dashboard data"
-            git pull --rebase origin "${GITHUB_REF_NAME}" || true
-            git push
+            # Another workflow (e.g. "Apply dashboard changes") may have pushed to
+            # this branch since checkout, so the push can be rejected. Rebase onto
+            # the latest commit and try again.
+            for attempt in 1 2 3 4 5; do
+              if git pull --rebase origin "${GITHUB_REF_NAME}" && git push; then
+                pushed=1; break
+              fi
+              git rebase --abort 2>/dev/null || true
+              echo "Push attempt $attempt failed; retrying in $((attempt * 10))s"
+              sleep $((attempt * 10))
+            done
+            if [ -z "${pushed:-}" ]; then echo "::error::Could not push after 5 attempts"; exit 1; fi
           fi
 
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v4
         with:
           path: site
+
+      # deploy-pages looks up the artifact just uploaded above, but the Actions
+      # artifact listing is eventually consistent: a fraction of a second after
+      # the upload it can still report "Found 0 artifact(s)", and deploy-pages
+      # gives up on the first try. When that happens, wait and try again.
       - id: deploy
+        uses: actions/deploy-pages@v4
+        continue-on-error: true
+
+      - name: Wait before retrying deploy
+        if: steps.deploy.outcome == 'failure'
+        run: sleep 30
+      - id: deploy-retry-1
+        if: steps.deploy.outcome == 'failure'
+        uses: actions/deploy-pages@v4
+        continue-on-error: true
+
+      - name: Wait before retrying deploy again
+        if: steps.deploy.outcome == 'failure' && steps.deploy-retry-1.outcome == 'failure'
+        run: sleep 60
+      - id: deploy-retry-2
+        if: steps.deploy.outcome == 'failure' && steps.deploy-retry-1.outcome == 'failure'
         uses: actions/deploy-pages@v4
