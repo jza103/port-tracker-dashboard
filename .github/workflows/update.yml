@@ -23,7 +23,7 @@ jobs:
     timeout-minutes: 30
     environment:
       name: github-pages
-      url: ${{ steps.deploy.outputs.page_url }}
+      url: ${{ steps.deploy.outputs.page_url || steps.deploy-retry-1.outputs.page_url || steps.deploy-retry-2.outputs.page_url }}
     steps:
       - uses: actions/checkout@v5
 
@@ -56,5 +56,26 @@ jobs:
       - uses: actions/upload-pages-artifact@v4
         with:
           path: site
+
+      # deploy-pages looks up the artifact just uploaded above, but the Actions
+      # artifact listing is eventually consistent: a fraction of a second after
+      # the upload it can still report "Found 0 artifact(s)", and deploy-pages
+      # gives up on the first try. When that happens, wait and try again.
       - id: deploy
+        uses: actions/deploy-pages@v4
+        continue-on-error: true
+
+      - name: Wait before retrying deploy
+        if: steps.deploy.outcome == 'failure'
+        run: sleep 30
+      - id: deploy-retry-1
+        if: steps.deploy.outcome == 'failure'
+        uses: actions/deploy-pages@v4
+        continue-on-error: true
+
+      - name: Wait before retrying deploy again
+        if: steps.deploy.outcome == 'failure' && steps.deploy-retry-1.outcome == 'failure'
+        run: sleep 60
+      - id: deploy-retry-2
+        if: steps.deploy.outcome == 'failure' && steps.deploy-retry-1.outcome == 'failure'
         uses: actions/deploy-pages@v4
