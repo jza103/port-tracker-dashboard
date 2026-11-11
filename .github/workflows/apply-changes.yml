@@ -42,8 +42,16 @@ jobs:
           git add config/projects.yml
           if ! git diff --cached --quiet; then
             git commit -m "Apply dashboard changes from #${{ github.event.issue.number }}"
-            git pull --rebase origin "${GITHUB_REF_NAME}"
-            git push
+            # "Update dashboard" may have pushed data since checkout; rebase and retry.
+            for attempt in 1 2 3 4 5; do
+              if git pull --rebase origin "${GITHUB_REF_NAME}" && git push; then
+                pushed=1; break
+              fi
+              git rebase --abort 2>/dev/null || true
+              echo "Push attempt $attempt failed; retrying in $((attempt * 10))s"
+              sleep $((attempt * 10))
+            done
+            if [ -z "${pushed:-}" ]; then echo "::error::Could not push after 5 attempts"; exit 1; fi
           fi
 
       # Pushes made with GITHUB_TOKEN don't trigger workflows, so start the update directly.
