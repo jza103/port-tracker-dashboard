@@ -567,6 +567,7 @@
   "dos-ise/settlers-remake": "2026-10-30T06:03:37.031Z",
   "dothacktranslate/dothack-recompilation": "2026-10-23T22:46:33.769Z",
   "doukutsu-rs/doukutsu-rs": "2026-10-25T15:36:27.479Z",
+  "dpjudas/surrealengine": "2026-11-12T16:54:15.494Z",
   "dr-89/crisis-zone-vr": "2026-10-23T22:25:39.434Z",
   "dr-89/fear-vr": "2026-10-25T15:36:27.479Z",
   "dr-89/nfsu-vr": "2026-10-23T22:25:39.434Z",
@@ -606,6 +607,7 @@
   "dubrovskiy-yevhen-stakelogic/vice-city-vr": "2026-10-25T15:36:27.479Z",
   "dubrovskiy-yevhen-stakelogic/vice-city-vr-quest": "2026-10-23T22:25:39.434Z",
   "dudux42/freedomunbound": "2026-10-25T15:36:27.479Z",
+  "dunecity-project/dunecity": "2026-11-12T16:54:15.494Z",
   "dvilelaf/battlestadium-don": "2026-11-04T00:42:58.054Z",
   "dwreckgg/doa4-online": "2026-11-10T02:48:55.931Z",
   "dxx-redux/dxx-redux": "2026-11-02T18:34:06.476Z",
@@ -624,6 +626,7 @@
   "ed1z19/valkyrierecomp": "2026-10-23T22:25:39.434Z",
   "eddizege/anka": "2026-11-08T15:23:40.938Z",
   "edgx73/kon-houkago-live-recompiled": "2026-11-08T20:37:47.848Z",
+  "editthewall/bunkervr": "2026-11-12T16:54:15.494Z",
   "edwin2929/sma3-recomp-android.": "2026-10-23T22:25:39.434Z",
   "efabless/clear_old": "2026-10-26T15:18:29.150Z",
   "efraim2704/bladeofdarknessvr": "2026-10-25T15:36:27.479Z",
@@ -972,6 +975,7 @@
   "hrvach/life_mister": "2026-10-26T15:18:29.150Z",
   "hrydgard/ppsspp": "2026-11-05T12:33:40.140Z",
   "htheb/dstroy-analoguepocket": "2026-10-25T15:56:57.670Z",
+  "humbertodias/rockbot": "2026-11-12T16:54:15.494Z",
   "humbletim/firestorm-gha": "2026-10-25T15:36:27.479Z",
   "hyant4/knack-ii-pc-port": "2026-11-04T00:42:58.054Z",
   "i12bp8/decomp.wtf": "2026-10-23T22:46:33.769Z",
@@ -1235,6 +1239,7 @@
   "kandowontu2/smb-crossover": "2026-11-11T14:23:02.719Z",
   "kandowontu2/starfox-enhanced": "2026-10-23T22:25:39.434Z",
   "kandowontu2/urbanrecomp": "2026-10-25T15:36:27.479Z",
+  "kartkrewdev/ringracers": "2026-11-12T16:54:15.494Z",
   "kastieloficial/re-code-veronica-ps3-hd-recomp-pc": "2026-10-29T15:18:58.463Z",
   "kathoc/brickboy-dmg-fpgacore": "2026-10-25T15:56:57.670Z",
   "kawaiibunga/mkvdcu-recomp": "2026-10-23T22:25:39.434Z",
@@ -1309,6 +1314,7 @@
   "leanndroguedes/re3-19feb21": "2026-10-25T15:36:27.479Z",
   "legend-of-dragoon-modding/severed-chains": "2026-10-23T22:25:39.434Z",
   "leithsilver/mgsm": "2026-10-25T15:36:27.479Z",
+  "lemon32767/ccleste": "2026-11-12T16:54:15.494Z",
   "leproide/medievilrecomp-esp": "2026-10-27T14:45:45.436Z",
   "leproide/medievilrecomp-ita": "2026-10-27T14:45:45.436Z",
   "lesan0622/mwr-vr": "2026-11-08T20:37:47.848Z",
@@ -1447,6 +1453,7 @@
   "mee55237/openfpga-minicube64": "2026-10-25T15:56:57.670Z",
   "megaglest/megaglest-source": "2026-11-07T14:57:40.219Z",
   "megaman64recomp/megaman64recompiled": "2026-10-23T22:25:39.434Z",
+  "megamek/mekhq": "2026-11-12T16:54:15.494Z",
   "megazeux/megazeux": "2026-11-07T14:57:40.219Z",
   "melonds-emu/melonds": "2026-11-05T12:33:40.140Z",
   "menaman123/twinsanityevolved": "2026-11-10T21:51:16.482Z",
@@ -3032,6 +3039,7 @@
   "vcmi/vcmi": "2026-10-25T15:36:27.479Z",
   "vector35/binaryninja-api": "2026-10-23T22:46:33.769Z",
   "veemyu/strahlender-xnu": "2026-11-04T00:42:58.054Z",
+  "vegastrike/vega-strike-engine-source": "2026-11-12T16:54:15.494Z",
   "venice1200/mister_snac2iec": "2026-10-26T15:18:29.150Z",
   "venice1200/mister_tty2oled": "2026-10-26T15:18:29.150Z",
   "vfjoo888/superwonders": "2026-11-10T21:51:16.482Z",
@@ -5354,6 +5362,35 @@
     "date": "2026-10-25T15:36:27.479Z"
    },
    "autoFollow": false
+  },
+  "editthewall/bunkervr": {
+   "id": "editthewall/bunkervr",
+   "name": "Bunker VR",
+   "game": "Bunker VR",
+   "categories": [
+    "Other",
+    "VR Ports"
+   ],
+   "type": "port",
+   "tags": [
+    "VR"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "EdittheWall/BunkerVR"
+   },
+   "links": [],
+   "sources": [
+    "news"
+   ],
+   "discoveredFrom": {
+    "kind": "news",
+    "title": "Amnesia: The Bunker VR Performance / New VR Mod with 6DOF Motion Controls / Quest 3 + RTX 4080 Super",
+    "url": "https://www.youtube.com/watch?v=3_Tx6nC8diA",
+    "source": "YouTube: NotAGameAddict",
+    "date": "2026-11-12T10:15:20.000Z"
+   },
+   "autoFollow": true
   },
   "efabless/clear_old": {
    "id": "efabless/clear_old",
@@ -12787,7 +12824,7 @@
     "title": "\"static recompilation\" in:description stars:>30",
     "date": "2026-10-27T14:45:45.436Z"
    },
-   "autoFollow": false
+   "autoFollow": true
   },
   "underdecoded/gen2recomped": {
    "id": "underdecoded/gen2recomped",
@@ -13302,6 +13339,7 @@
   }
  },
  "rejected": {
+  "16bithi5/celeste64": "2026-11-12",
   "abduznik/awesome-android-native-ports": "2026-11-10",
   "abduznik/awesome-x360-recomps": "2026-10-28",
   "addvans/classic-bf2vr-mod": "2026-11-02",
@@ -13387,6 +13425,7 @@
   "mr-nlce/pcvr-mods-installer-hub": "2026-10-25",
   "mutars/anvilengine2vr": "2026-10-25",
   "nbcraft-org/nbcraft": "2026-10-23",
+  "neto1495mn-sudo/recvx-enhanced-port-pcvr": "2026-11-12",
   "nmlgc/rec98": "2026-10-23",
   "notrexed/skyboundtotk": "2026-10-31",
   "obalfour/flooder": "2026-10-26",
