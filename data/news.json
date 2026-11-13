@@ -1,6 +1,49 @@
 {
  "articles": [
   {
+   "title": "Upgrade Your CoCo The Modern Way",
+   "url": "https://hackaday.com/2026/11/12/upgrade-your-coco-the-modern-way/",
+   "date": "2026-11-12T21:00:38.000Z",
+   "source": "Hackaday",
+   "outlet": "Hackaday",
+   "summary": "The Radio Shack TRS-80 Colour Computer may never have achieved the sales volume of its competitors from Commodore or Apple, but it offered a surprisingly capable set of hardware. There …read more",
+   "image": "https://hackaday.com/wp-content/uploads/2026/11/coco-tang-featured.jpg",
+   "text": "Upgrade Your CoCo The Modern Way The Radio Shack TRS-80 Colour Computer may never have achieved the sales volume of its competitors from Commodore or Apple, but it offered a surprisingly capable set of hardware. There were three versions, with the final one being a significant upgrade in many ways. There was no upgrade path for owners of version 1 and 2 machines to have a version 3 back in the day, but now thanks to [Felipe Antoniosi] such an upgrade is possible. How? With a Tang Nano 20K FPGA board , of course! The CoCo 3 had a paged memory system for expansion up to 512k, as well as a significantly more capable graphics chip which while compatible with the original Motorola part offered enhanced graphics. The upgrade emulates these, and connects to the CoCo via a set of daughter boards that connect to where the various motherboard chips sat. it offers an HDMI output as well as analog video and enhanced sound capability, bringing the machine firmly into the 21st century. As mods go to classic hardware, this is quite an invasive one. Whether or not you'd prefer to do this to your CoCo is up to you, but ask yourself this, would you have done this had this board been available in the 1980s? Of course you would. Meanwhile should you become bored with the CoCo, it can also be persuaded to emulate an Apple ][ .",
+   "repos": [
+    "github:lfantoniosi/CoCoTANG"
+   ],
+   "firstSeen": "2026-11-13T01:13:49.326Z"
+  },
+  {
+   "title": "Baochip-1x: A Mostly-Open, 22nm SoC for High Assurance Applications",
+   "url": "https://hackaday.com/2026/11/12/baochip-1x-a-mostly-open-22nm-soc-for-high-assurance-applications/",
+   "date": "2026-11-12T19:30:16.000Z",
+   "source": "Hackaday",
+   "outlet": "Hackaday",
+   "summary": "For most people, just getting any old microcontroller or system on chip (SoC) from our favorite – or cheapest – vendor is more than good enough. But if you're really …read more",
+   "image": "https://hackaday.com/wp-content/uploads/2026/11/dabao-thechip-narrow.jpg",
+   "text": "Baochip-1x: A Mostly-Open, 22nm SoC for High Assurance Applications For most people, just getting any old microcontroller or system on chip (SoC) from our favorite – or cheapest – vendor is more than good enough. But if you're really into high assurance computing where every transistor has to be accounted for, you got a bit of a problem. This is basically why [Andrew “Bunnie” Huang] pitched in and had the Baochip-1x produced . This SoC's design is based heavily on the FPGA-based CPU in the Precursor device , which itself is claimed to be a fully verifiable communicator design. Since it does have an MMU, you can run any software on it that supports the RV32IMAC RISC-V instruction set, with a Coder's Guide available for those who might feel interested in this SoC, along with the SystemVerilog and Verilog-based sources . In addition to the DIY assembly process, you can even get a physical hardware version, including the ‘Dabao' evaluation board with a very Raspberry Pi Pico-shaped form factor. Inside this SoC is a single-core, 350 MHz VexRISC-V core, 4 MB resistive RAM (RRAM) and 2 MB of SRAM, along with a whole heap of security-related features.",
+   "repos": [
+    "github:baochip/baochip-1x"
+   ],
+   "firstSeen": "2026-11-13T01:13:49.326Z"
+  },
+  {
+   "title": "Just Use QWIIC Already",
+   "url": "https://hackaday.com/2026/11/12/just-use-qwiic-already/",
+   "date": "2026-11-12T18:00:54.000Z",
+   "source": "Hackaday",
+   "outlet": "Hackaday",
+   "summary": "Years ago, I wrote an article describing different I2C-on-a-connector ecosystems, explaining their strengths, weaknesses, and implementation details, as well as piling on a heap of fun stories. Looking back at …read more",
+   "image": "https://hackaday.com/wp-content/uploads/2026/10/hadimg_use_qwiic_feat.jpg",
+   "text": "Just Use QWIIC Already Years ago, I wrote an article describing different I2C-on-a-connector ecosystems , explaining their strengths, weaknesses, and implementation details, as well as piling on a heap of fun stories. Looking back at it, it's a great reference article, if I do say so myself. In particular, I highlighted QWIIC, which is a Sparkfun-borne standard for putting 3.3 V I2C on a JST-SH (or compatible) 4-pin connector. I've since implemented a fair bit of QWIIC, and grew to like it so much more. I'm here to explain to you why you ought to be putting those JST-SH connectors in everything you design that touches I2C, all the cool things they let you do, where to buy a lot of cheap cables at once, and all the references you could need. I will also tell you about my USB pinout for QWIIC, something you should definitely know about. In2ispensable Interconnect There's myriads of devices that speak I2C, and all of them are incredibly useful. Environmental sensors, GPIO expanders, ADCs, PWM chips, motor drivers, LED drivers, small displays, GPS and LoRa chips, voltage and current sensors, memory chips, TPMs, touchpads, NFC readers… You can go to any hobbyist storefront, search for QWIIC compatible sensors, and find gadgets most fitting to a project of yours. I'm not making an argument that you should buy QWIIC devices for everything, even if it's convenient, because this is not Buy-a-Day. I haven't intentionally bought anything branded QWIIC to date, either. Instead, standardi",
+   "repos": [
+    "github:ZeroPhone/ZeroPhone-Mod-PCBs",
+    "github:CRImier/MyKiCad"
+   ],
+   "firstSeen": "2026-11-13T01:13:49.326Z"
+  },
+  {
    "title": "Resident Evil Code: Veronica X VR HD Performance / Quest Standalone VR Mod with 6DOF Motion Controls",
    "url": "https://www.youtube.com/watch?v=t-bBOIVYMaY",
    "date": "2026-11-12T15:18:50.000Z",
@@ -2483,14 +2526,14 @@
    "firstSeen": "2026-11-03T12:06:27.928Z"
   },
   {
-   "title": "Power Moon Recomp: Mario Odyssey on PC, 60 FPS [2026]",
+   "title": "Power Moon Recomp Runs Mario Odyssey at 4K, 60 FPS [2026]",
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTi0xX2hJUmJrUDhDWk40QzAwNVFlTzBHTjlZZHdVandWTUdtSnZac3ZvcmhPY19aWG41SEd0NF82Wm9NWGpsSEJaRjFpdXVETC03T3hRcGxzR0JYeGstUkRLNWNVOUVfVzVPUUg5bEhUZjl2eWg3Q1haaEJDb1pBYzAtX04xaDZ3QXk0aA?oc=5",
    "date": "2026-11-03T10:32:44.000Z",
    "source": "Google News",
    "outlet": "shattered.io",
    "summary": "",
    "image": null,
-   "text": "Power Moon Recomp: Mario Odyssey on PC, 60 FPS [2026] - shattered.io Power Moon Recomp: Mario Odyssey on PC, 60 FPS [2026] shattered.io",
+   "text": "Power Moon Recomp Runs Mario Odyssey at 4K, 60 FPS [2026] - shattered.io Power Moon Recomp Runs Mario Odyssey at 4K, 60 FPS [2026] shattered.io",
    "repos": [],
    "firstSeen": "2026-11-05T22:08:09.109Z"
   },
