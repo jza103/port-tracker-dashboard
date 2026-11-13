@@ -184,6 +184,7 @@
   "atrblizzard/vtmb-vr": "2026-10-25T19:08:26.092Z",
   "atsb/burgerdoom": "2026-11-04T12:19:33.535Z",
   "atsb/nakedavp": "2026-11-04T00:42:58.054Z",
+  "attacquesuperior/valiantshades": "2026-11-13T12:24:20.391Z",
   "augustinwinter/openfpga-cave": "2026-11-01T15:19:44.427Z",
   "augustinwinter/openfpga-macross2": "2026-10-25T15:56:57.670Z",
   "augustinwinter/openfpga-nmk16": "2026-10-25T15:56:57.670Z",
@@ -442,6 +443,7 @@
   "compalarios18/mh4ultimatedc": "2026-11-04T12:19:33.535Z",
   "confetti3/sf4-ember-netplay": "2026-10-30T06:03:37.031Z",
   "contactvirgilio/tetroiddx": "2026-11-10T21:51:16.482Z",
+  "cookgreen/yuris-revenge": "2026-11-13T12:24:20.391Z",
   "cookingwithsimon/skate1recompiled": "2026-10-25T15:36:27.479Z",
   "cookingwithsimon/skate2recompiled": "2026-10-25T15:36:27.479Z",
   "coole42-pixel/psprecomp-msae": "2026-11-04T00:42:58.054Z",
@@ -1014,6 +1016,7 @@
   "infernosupernova/novr": "2026-10-25T15:36:27.479Z",
   "inflamesgo/motogp0910-recomp": "2026-11-10T02:48:55.931Z",
   "inliner495/bblit-remaster": "2026-10-25T15:36:27.479Z",
+  "inq8/camod": "2026-11-13T12:24:20.391Z",
   "insanitybringer/piccuengine": "2026-10-25T15:36:27.479Z",
   "interface-2037/pocketambient": "2026-10-25T15:56:57.670Z",
   "interface-2037/pocketir": "2026-10-25T15:56:57.670Z",
@@ -1891,6 +1894,7 @@
   "misterorganize/mister_frontier": "2026-10-26T15:18:29.150Z",
   "mkalkhoven-po/nfs-carbon-ce-recomp": "2026-11-02T06:28:55.587Z",
   "mkalkhoven-po/wolf3d-x64": "2026-11-02T06:28:55.587Z",
+  "mlemandpurrs/ora-sovra": "2026-11-13T12:24:20.391Z",
   "mlemandpurrs/raplusmod": "2026-11-10T21:51:16.482Z",
   "mlgprorektm8/rygt": "2026-10-23T22:25:39.434Z",
   "mmatyas/supermariowar": "2026-11-07T14:57:40.219Z",
@@ -2738,6 +2742,7 @@
   "snesrev/sm": "2026-10-23T22:25:39.434Z",
   "snesrev/smw": "2026-10-23T22:25:39.434Z",
   "snesrev/zelda3": "2026-10-23T22:25:39.434Z",
+  "snicolast/segarally2native": "2026-11-13T12:24:20.391Z",
   "snuri00/ps2-web-recomp": "2026-10-25T15:36:27.479Z",
   "snuri00/psp-web-recomp": "2026-10-23T22:46:33.769Z",
   "solarcookies/tip-recomp": "2026-10-23T22:25:39.434Z",
@@ -11765,6 +11770,32 @@
     "date": "2026-11-01T15:19:44.427Z"
    },
    "autoFollow": false
+  },
+  "snicolast/segarally2native": {
+   "id": "snicolast/segarally2native",
+   "name": "Sega Rally2Native",
+   "game": "Sega Rally2Native",
+   "categories": [
+    "Other"
+   ],
+   "type": "recompilation",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "snicolast/SegaRally2Native"
+   },
+   "links": [],
+   "sources": [
+    "news"
+   ],
+   "discoveredFrom": {
+    "kind": "news",
+    "title": "Sega Rally 2 Recomp Out NOW! With RTX and More",
+    "url": "https://www.youtube.com/watch?v=G8Bbfofz0U8",
+    "source": "YouTube: Video Game Esoterica",
+    "date": "2026-11-12T22:00:31.000Z"
+   },
+   "autoFollow": true
   },
   "snuri00/ps2-web-recomp": {
    "id": "snuri00/ps2-web-recomp",
