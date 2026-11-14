@@ -1,6 +1,82 @@
 {
  "articles": [
   {
+   "title": "Counter Strike 1.6 VR Multiplayer / Quest Standalone VR Mod with 6DOF Motion Controls / Quest 3",
+   "url": "https://www.youtube.com/watch?v=Uuwe-AAGROQ",
+   "date": "2026-11-14T15:00:25.000Z",
+   "source": "YouTube: NotAGameAddict",
+   "outlet": "YouTube: NotAGameAddict",
+   "summary": "CSVR mod - https://www.csvr.online/ This game was played with https://www.youtube.com/@Tkillaahh/featured",
+   "image": "https://i2.ytimg.com/vi/Uuwe-AAGROQ/hqdefault.jpg",
+   "text": "Counter Strike 1.6 VR Multiplayer / Quest Standalone VR Mod with 6DOF Motion Controls / Quest 3 CSVR mod - https://www.csvr.online/ This game was played with https://www.youtube.com/@Tkillaahh/featured",
+   "repos": [],
+   "firstSeen": "2026-11-14T15:13:09.537Z"
+  },
+  {
+   "title": "Dead or Alive 4 Recomp Out Now! Bouncy! With Netplay",
+   "url": "https://www.youtube.com/watch?v=t9g53rxM9U0",
+   "date": "2026-11-14T14:00:25.000Z",
+   "source": "YouTube: Video Game Esoterica",
+   "outlet": "YouTube: Video Game Esoterica",
+   "summary": "SUPPORT THE CHANNEL : http://www.patreon.com/VideoGameEsoterica Everyone loves Xbox 360 recomps and everyone loves Dead or Alive...so do you want a Dead or Alive 4 recomp? yes please! More Xbox PC ports for everyone! Sonic Unleashed Recompilation proved that Xbox 360 games could get Xbox 360 recomps...and RexGlue pivoted up that formula with PPC recompilation with a Xenia backend....and now we hav",
+   "image": "https://i1.ytimg.com/vi/t9g53rxM9U0/hqdefault.jpg",
+   "text": "Dead or Alive 4 Recomp Out Now! Bouncy! With Netplay SUPPORT THE CHANNEL : http://www.patreon.com/VideoGameEsoterica Everyone loves Xbox 360 recomps and everyone loves Dead or Alive...so do you want a Dead or Alive 4 recomp? yes please! More Xbox PC ports for everyone! Sonic Unleashed Recompilation proved that Xbox 360 games could get Xbox 360 recomps...and RexGlue pivoted up that formula with PPC recompilation with a Xenia backend....and now we have a Burnout Takedown PC port with a native renderer! Get it here: https://github.com/dwreckgg/doa4-online Questions? Comments? Just leave them below and I will do my best to answer each and every one of them! http://www.patreon.com/VideoGameEsoterica VGE",
+   "repos": [
+    "github:dwreckgg/doa4-online"
+   ],
+   "firstSeen": "2026-11-14T15:13:09.537Z"
+  },
+  {
+   "title": "Sega Mega Drive Turns Street Fighter 1 Into a Brilliant Game",
+   "url": "https://www.youtube.com/watch?v=uL6UsllEg2c",
+   "date": "2026-11-14T13:00:02.000Z",
+   "source": "YouTube: Pixel Cherry Ninja",
+   "outlet": "YouTube: Pixel Cherry Ninja",
+   "summary": "Ways to Support the Channel (some affiliate links) EARLY ACCESS TO NEWS VIDEOS AND OTHER EXCLUSIVES https://www.youtube.com/channel/UCEozS0uaZibXKTQSu10XgSw/join https://www.patreon.com/PixelCherryNinja Buy a FightBox R10-Pro Arcade Stick with Trackball & Spinner USE CODE \"PixelCherryNinja\" for 10% OFF https://fightboxarcade.com/collections/best-sellers/products/fightbox-r10-pro-arcade-fight-stick",
+   "image": "https://i2.ytimg.com/vi/uL6UsllEg2c/hqdefault.jpg",
+   "text": "Sega Mega Drive Turns Street Fighter 1 Into a Brilliant Game Ways to Support the Channel (some affiliate links) EARLY ACCESS TO NEWS VIDEOS AND OTHER EXCLUSIVES https://www.youtube.com/channel/UCEozS0uaZibXKTQSu10XgSw/join https://www.patreon.com/PixelCherryNinja Buy a FightBox R10-Pro Arcade Stick with Trackball & Spinner USE CODE \"PixelCherryNinja\" for 10% OFF https://fightboxarcade.com/collections/best-sellers/products/fightbox-r10-pro-arcade-fight-stick-with-trackball-spinner-retro-game-controller-for-pc-ps3-switch Buy a Octopus TR Fightstick https://www.trfightstick.com/?ref=PCN Click link then use code \"PCN\" for $25 Off Buy a Morph2K https://www.pixelfx.co/product-page/morph-2k-analog-video-scaler?ref=PCN Buy a Zaparoo product (10% off) https://shop.zaparoo.com/discount/PixelCherryNinja or just enter code \"PixelCherryNinja\" Join the Pixel Cherry Ninja Gaming Discord https://discord.gg/5W9pCy2nXa Grab here https://io8066.itch.io/fighting Special thanks to channel Patreon's Silver Ninja's - John Gillotte, Meathax, RGM, SmoMo, VimDiesel Bronze Ninja's - Alessandro Gulli, Alexander Facchini, Anime0t4ku, anthony, Bjamiork, craigpow, Curt Dittmer, Ernie D, Fizzun Dirtnap, Juan Alvarez, Keith F. Kelly, Nicholas Robertson-Muir, Niallquinn, ncc1701p, Peter Davis, Scott Dowdle, Tamariel, theypsilon, ZXFace A special Thanks to all Channel Members I Really Really Like PCN! - RGM - Random Gaming Moments https://www.youtube.com/channel/UCIm6dft7oV92-zMCn4A6g2Q I Really Like PCN! - Al",
+   "repos": [],
+   "firstSeen": "2026-11-14T15:13:09.537Z"
+  },
+  {
+   "title": "Reverse Engineering Score Perfect to Rescue its Files",
+   "url": "https://hackaday.com/2026/11/14/reverse-engineering-score-perfect-to-rescue-its-files/",
+   "date": "2026-11-14T12:00:47.000Z",
+   "source": "Hackaday",
+   "outlet": "Hackaday",
+   "summary": "There are myriad challenges associated with data preservation – bit rot, loss of metadata, and hardware failures, among others – but one of the hardest is making sure that the …read more",
+   "image": "https://hackaday.com/wp-content/uploads/2026/11/score_perfect.png",
+   "text": "Reverse Engineering Score Perfect to Rescue its Files There are myriad challenges associated with data preservation – bit rot, loss of metadata, and hardware failures, among others – but one of the hardest is making sure that the data remains usable as software goes out of date. [Maarten Tromp]’s father, for instance, had been using the Score Perfect music notation program for years, but since development ceased in 2012, the files would eventually need to be transferred to more modern software. To do this, [Maarten] undertook a four-year project to reverse-engineer the structure of Score Perfect’s files. Score Perfect was first released in 1990 for Atari and later ported to Windows, and after version four, it switched to a different file format. It had the option to export to MusicXML, but it only exported notes, not chords, lyrics, or other important details. [Maarten] first tried disassembling the program itself to find the file structure; he had hoped that the Visual Basic code might have been compiled to P-code, which is relatively easy to disassemble, but it had been compiled to native code. Interestingly, through version four, the program had been written for Atari and ran in Windows through a simple emulator. It wasn't fully rewritten for Windows until later. After some investigation into the file-export function with Ghidra, he moved on to reverse-engineering the file format itself. This consumed the majority of the project’s time. To investigate the file’s structure,",
+   "repos": [],
+   "firstSeen": "2026-11-14T15:13:09.537Z"
+  },
+  {
+   "title": "Little Witch Nobeta VR Performance / VR Mod with 6DOF Motion Controls / Quest 3 + RTX 4080 Super",
+   "url": "https://www.youtube.com/watch?v=9B4ldskHAmk",
+   "date": "2026-11-14T11:44:50.000Z",
+   "source": "YouTube: NotAGameAddict",
+   "outlet": "YouTube: NotAGameAddict",
+   "summary": "WitchNobetaVR mod made by Pk-c - https://github.com/Pk-c/WitchNobetaVR Little Witch Nobeta - https://store.steampowered.com/app/1049890/Little_Witch_Nobeta/",
+   "image": "https://i2.ytimg.com/vi/9B4ldskHAmk/hqdefault.jpg",
+   "text": "Little Witch Nobeta VR Performance / VR Mod with 6DOF Motion Controls / Quest 3 + RTX 4080 Super WitchNobetaVR mod made by Pk-c - https://github.com/Pk-c/WitchNobetaVR Little Witch Nobeta - https://store.steampowered.com/app/1049890/Little_Witch_Nobeta/",
+   "repos": [
+    "github:Pk-c/WitchNobetaVR"
+   ],
+   "firstSeen": "2026-11-14T15:13:09.537Z"
+  },
+  {
+   "title": "Astro Bot Unofficial Native PC Port Brings DLSS Super Resolution and Frame Generation Support",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSk02NjBiVkJmZEdYcEtNUlA4WjlEXzN3b21aa0pwcmVsbUFrWHdGeGItaHVYVHpUU21fM01HTGlFWVJjSkI1aUhpOE5PLTQ5RU8wWDZFT3piNHVwLWhfREwyUmJCSjEwYnFDMmh5TlhnVGVPQVM0TTR1QWg0YWIwZ2ZySUI3SXFxRU0zaE82SjhyeXJHbXduWUJSOExSZmhTWE5aZHkyODdkbF9HSWJxdklZdnk5V1U4UkE?oc=5",
+   "date": "2026-11-14T11:09:10.000Z",
+   "source": "Google News",
+   "outlet": "xiaomitoday.com",
+   "summary": "",
+   "image": null,
+   "text": "Astro Bot Unofficial Native PC Port Brings DLSS Super Resolution and Frame Generation Support - xiaomitoday.com Astro Bot Unofficial Native PC Port Brings DLSS Super Resolution and Frame Generation Support xiaomitoday.com",
+   "repos": [],
+   "firstSeen": "2026-11-14T15:13:09.537Z"
+  },
+  {
    "title": "Astro Bot becomes the first PS5 exclusive to get an unofficial native PC port, with DLSS pushing it past 120 FPS",
    "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQQUhIOTBNVHk2aW10c0hIVVB1RHVZdGFZVFZFcWQxRDZTb1lMbkNDR3p2SHlrNUxGSTY5SHhld3M2aG5xbUJPTk5UT04xS0NzU1QzeHYxTmtKVmt3dDhGMll5N3J3R3UwcmNBejRsbFc2S1lXeXJtYzVnSUM4QW5tUFZOYzQwenB3R3NiOWgtNU5FbGk2QUdVcURxLWVyeF9sUG80eU1sWVZfSklYNTFRMHFOTVJoV3AtQ1ZSQjh1UjdJQ2kzeUk0UjY3QVdmU2s1NnlWOTh5bFpkMEVwczdId2Y0U1dXckcwNlVCU0Q1MUp0QQ?oc=5",
    "date": "2026-11-14T03:25:14.000Z",
@@ -13,6 +89,34 @@
    "firstSeen": "2026-11-14T06:46:01.984Z"
   },
   {
+   "title": "Draw Your Aquarium in Drawquarium VR - UEVR Mod - Gameplay & Commentary on the Meta Quest 3 (PCVR)",
+   "url": "https://www.youtube.com/watch?v=At6LMdoUejg",
+   "date": "2026-11-14T03:08:16.000Z",
+   "source": "YouTube: FastLawyer",
+   "outlet": "YouTube: FastLawyer",
+   "summary": "Please note: I received a FREE Steam key through the Steam Curator Connect program to review this game! You can play Drawquarium in VR using the UEVR Mod (nightly version) by Praydog and the Joey Hodge fork. Played on the Meta Quest 3 using Virtual Desktop on my RTX 5090. You can purchase game on Steam here: https://store.steampowered.com/app/4045480/Drawquarium/ You can download the UEVR nightly ",
+   "image": "https://i2.ytimg.com/vi/At6LMdoUejg/hqdefault.jpg",
+   "text": "Draw Your Aquarium in Drawquarium VR - UEVR Mod - Gameplay & Commentary on the Meta Quest 3 (PCVR) Please note: I received a FREE Steam key through the Steam Curator Connect program to review this game! You can play Drawquarium in VR using the UEVR Mod (nightly version) by Praydog and the Joey Hodge fork. Played on the Meta Quest 3 using Virtual Desktop on my RTX 5090. You can purchase game on Steam here: https://store.steampowered.com/app/4045480/Drawquarium/ You can download the UEVR nightly build on Github here: https://github.com/praydog/UEVR-nightly Join the Flatscreen to VR modding community here: https://discord.com/invite/flat2vr Please join my Steam Curator Group here: https://steamcommunity.com/groups/CIVRI",
+   "repos": [
+    "github:praydog/UEVR-nightly"
+   ],
+   "firstSeen": "2026-11-14T15:13:09.537Z"
+  },
+  {
+   "title": "Castlevania: Rondo of Blood Recomp Out NOW! PC Engine Recomps are Here!",
+   "url": "https://www.youtube.com/watch?v=X-MOkjPxkno",
+   "date": "2026-11-14T02:00:14.000Z",
+   "source": "YouTube: Video Game Esoterica",
+   "outlet": "YouTube: Video Game Esoterica",
+   "summary": "SUPPORT THE CHANNEL : http://www.patreon.com/VideoGameEsoterica Sure we have a Castlevania: Symphony of the Night recomp so we have the best Metroidvania covered...but what about a Castlevania: Rondo of Blood recomp? Well now we have that too! One of the first PC Engine recmps / TurboGrafx 16 recomps is here! Note: recomp is early and this is more about PC Engine recomps than the game in and of it",
+   "image": "https://i1.ytimg.com/vi/X-MOkjPxkno/hqdefault.jpg",
+   "text": "Castlevania: Rondo of Blood Recomp Out NOW! PC Engine Recomps are Here! SUPPORT THE CHANNEL : http://www.patreon.com/VideoGameEsoterica Sure we have a Castlevania: Symphony of the Night recomp so we have the best Metroidvania covered...but what about a Castlevania: Rondo of Blood recomp? Well now we have that too! One of the first PC Engine recmps / TurboGrafx 16 recomps is here! Note: recomp is early and this is more about PC Engine recomps than the game in and of itself With so many retro gaming recomps and retro gaming PC ports recently it's hard to keep up! And while I have talked about the Castlevania: Symphony of the Night decomp project on the channel before today is different as a Castlevania: Rondo of Blood recomp is here and ready! Check it out: https://github.com/gminustwo/RondoRecomp Questions? Comments? Just leave them below and I will do my best to answer each and every one of them! http://www.patreon.com/VideoGameEsoterica VGE",
+   "repos": [
+    "github:gminustwo/RondoRecomp"
+   ],
+   "firstSeen": "2026-11-14T15:13:09.537Z"
+  },
+  {
    "title": "Mothergunship: Forge Is Available Now On PlayStation VR2",
    "url": "https://www.uploadvr.com/mothergunship-forge-is-available-now-on-playstation-vr2/",
    "date": "2026-11-13T22:39:33.000Z",
@@ -23,6 +127,34 @@
    "text": "Mothergunship: Forge Is Available Now On PlayStation VR2 Impact Inked and Flat2VR Studios have surprise-launched Mothergunship: Forge for PlayStation VR2, the latest title in their ongoing initiative to bring established VR games to PlayStation's headset. Revealed by popular PlayStation-centric YouTuber Ryan Biniecki (aka MysticRyan ) during today's Let's Talk PlayStation on YouTube, Mothergunship: Forge is the second game so far revealed in Flat2VR Studios' and Impact Inked's \" Unlock the Vault \" publishing initiative, which aims to bring a series of new titles to PlayStation's VR headset. 0:00 / 1:05 1× Flat2VR Studios' and Impact Inked's Unlock The Vault was initially revealed in August via a video in which Flat2VR Studios' Myles Dyer introduced several PlayStation personalities who will \"unlock the vault\" and announce the games. The first vault was unlocked by Jamie Feltham, who revealed Drop Dead: The Cabin . Now that we've seen Ryan Biniecki's reveal, we'll have to wait to see what games are announced by former PlayStation executive Shuhei Yoshida, and the PlayStation-focused YouTubers Rob Pearson (PlayStation Access) and Bryan Paul (WithoutParole). The game recently received its first major update in over three years on Quest. The update upgraded the game's engine from Unreal 4 to Unreal 5.7, added two new modes including daily runs, added optional hand tracking controls, and what the developers call \"a ton of polishing, balancing fixes, bug fixes, and connecting issue",
    "repos": [],
    "firstSeen": "2026-11-14T06:46:01.984Z"
+  },
+  {
+   "title": "Grand Theft Auto V VR - GTAVXR / Is this The Perfect GTA V VR Mod? / 6DOF Motion Controls / PCVR",
+   "url": "https://www.youtube.com/watch?v=jzejXf7YsXg",
+   "date": "2026-11-13T22:13:22.000Z",
+   "source": "YouTube: NotAGameAddict",
+   "outlet": "YouTube: NotAGameAddict",
+   "summary": "00:00 - VR gameplay 07:21 - VR gameplay with FPS overlay 10:43 - Phone usage 11:05 - Weapons and manual reloading 14:35 - Manual steering wheel 17:51 - Flying 20:31 - VR settings overview GTAVXR mod by LVL 1.0 - https://github.com/LVL-VR/GTAVXR Grand Theft Auto V Legacy - https://store.steampowered.com/app/271590/Grand_Theft_Auto_V_Legacy/",
+   "image": "https://i3.ytimg.com/vi/jzejXf7YsXg/hqdefault.jpg",
+   "text": "Grand Theft Auto V VR - GTAVXR / Is this The Perfect GTA V VR Mod? / 6DOF Motion Controls / PCVR 00:00 - VR gameplay 07:21 - VR gameplay with FPS overlay 10:43 - Phone usage 11:05 - Weapons and manual reloading 14:35 - Manual steering wheel 17:51 - Flying 20:31 - VR settings overview GTAVXR mod by LVL 1.0 - https://github.com/LVL-VR/GTAVXR Grand Theft Auto V Legacy - https://store.steampowered.com/app/271590/Grand_Theft_Auto_V_Legacy/",
+   "repos": [
+    "github:LVL-VR/GTAVXR"
+   ],
+   "firstSeen": "2026-11-14T15:13:09.537Z"
+  },
+  {
+   "title": "Killer Instinct Gold Recomp Out Now! The N64 Recomp You Wanted",
+   "url": "https://www.youtube.com/watch?v=9BXMP8ezGLg",
+   "date": "2026-11-13T22:00:18.000Z",
+   "source": "YouTube: Video Game Esoterica",
+   "outlet": "YouTube: Video Game Esoterica",
+   "summary": "SUPPORT THE CHANNEL : http://www.patreon.com/VideoGameEsoterica The day is here! A Killer Instinct Gold recomp is out now! Or just a Killer Instinct Recomp if you want to search it that way haha! To go along with the rest of the N64 recomps and N64 PC port we already have! and considering its one of the most requested N64 recomps or N64 PC ports...I think you will have fun! Who cares about Switch ",
+   "image": "https://i2.ytimg.com/vi/9BXMP8ezGLg/hqdefault.jpg",
+   "text": "Killer Instinct Gold Recomp Out Now! The N64 Recomp You Wanted SUPPORT THE CHANNEL : http://www.patreon.com/VideoGameEsoterica The day is here! A Killer Instinct Gold recomp is out now! Or just a Killer Instinct Recomp if you want to search it that way haha! To go along with the rest of the N64 recomps and N64 PC port we already have! and considering its one of the most requested N64 recomps or N64 PC ports...I think you will have fun! Who cares about Switch 2 recomps when we have this Check it out: https://github.com/geno55/kigold-recomp Questions? Comments? Just leave them below and I will do my best to answer each and every one of them! http://www.patreon.com/VideoGameEsoterica You can follow us at IG : ChicagoGameCollector , or join our Discord Server : https://discord.gg/DjcrGc9 VGE",
+   "repos": [
+    "github:geno55/kigold-recomp"
+   ],
+   "firstSeen": "2026-11-14T15:13:09.537Z"
   },
   {
    "title": "CPS3 SF3 Recomps, Castlevania 64 with Ray Tracing, MiSTer, Analogue Pocket News & More - 391",
@@ -54,9 +186,9 @@
    "date": "2026-11-13T19:15:07.000Z",
    "source": "YouTube: Paradise Decay",
    "outlet": "YouTube: Paradise Decay",
-   "summary": "Mod will be available HERE when Ready! (For now check out the Recentered Discord and potentially the Flat2VR Modding Discord) ►PayPal (Buy me a coffee!): paradisedecay@virginmedia.com ►Patreon: https://www.patreon.com/ParadiseDecay ►Discord: https://discordapp.com/invite/hBgUqYD ►PD Steam Curator Group: http://store.steampowered.com/curator/6659922-Paradise-Decay-Game-Reviews/ --------------------",
+   "summary": "Mod will be available HERE when Ready! (For now check out the Recentered Discord and potentially the Flat2VR Modding Discord) *Please Note: There is another TRON 2.0 VR Mod in the works as well from 'Game or Die' I have featured his mods previously and It's a no brainer that multiple mods will be a factor going forward, there's so much creativity out there and NO holding it back. The problem we fa",
    "image": "https://i4.ytimg.com/vi/351hzqQIbkY/hqdefault.jpg",
-   "text": "NEW TRON 2.0 VR Mod looks BETTER than the ORIGINAL game! - HOW is this possible? (Passion Project) Mod will be available HERE when Ready! (For now check out the Recentered Discord and potentially the Flat2VR Modding Discord) ►PayPal (Buy me a coffee!): paradisedecay@virginmedia.com ►Patreon: https://www.patreon.com/ParadiseDecay ►Discord: https://discordapp.com/invite/hBgUqYD ►PD Steam Curator Group: http://store.steampowered.com/curator/6659922-Paradise-Decay-Game-Reviews/ --------------------------------------------------------------------------------------------- ☆ MY PC Specs: https://www.scan.co.uk/products/3xs-edge-rtx-intel-core-ultra-9-285k-32gb-ddr5-16gb-nvidia-rtx-5080-2tb-ssd-win-11? ☆ My Dedicated Router: https://www.amazon.co.uk/dp/B0B42GCD76?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_1&th=1 ☆ Meta Quest 3 ☆ GeForce RTX 5080 ☆ Windows 11, 64 bit ☆ Intel(R) Core(TM) Ultra 9 285K 3.70 GHz ☆ 32.0GB Ram #tron #Tron20 #vr #VRMod #Quest3 #QuestCreatorPartner #quest3s #metaquest #metaquest3 #metaquest3s #quest3games #roomscale #steam #NativeVR #steamvr #Quest3 #valve #action #adventure #vrmods --------------------------------------------------------------- Thank you for watching the video! Please leave a 👍 Subscribe if you enjoy VR & hit the 🔔 🎵 - My NEW Digital Album 'Ai2': https://paradisedecay.bandcamp.com/album/ai2 👀➦ PayPal (Buy me a coffee!): paradisedecay@virginmedia.com 👾Patreon - https://www.patreon.com/ParadiseDecayTM 👕 PD Merch - https://paradise-decay-",
+   "text": "NEW TRON 2.0 VR Mod looks BETTER than the ORIGINAL game! - HOW is this possible? (Passion Project) Mod will be available HERE when Ready! (For now check out the Recentered Discord and potentially the Flat2VR Modding Discord) *Please Note: There is another TRON 2.0 VR Mod in the works as well from 'Game or Die' I have featured his mods previously and It's a no brainer that multiple mods will be a factor going forward, there's so much creativity out there and NO holding it back. The problem we face will be finding the best ones! ;) ►PayPal (Buy me a coffee!): paradisedecay@virginmedia.com ►Patreon: https://www.patreon.com/ParadiseDecay ►Discord: https://discordapp.com/invite/hBgUqYD ►PD Steam Curator Group: http://store.steampowered.com/curator/6659922-Paradise-Decay-Game-Reviews/ --------------------------------------------------------------------------------------------- ☆ MY PC Specs: https://www.scan.co.uk/products/3xs-edge-rtx-intel-core-ultra-9-285k-32gb-ddr5-16gb-nvidia-rtx-5080-2tb-ssd-win-11? ☆ My Dedicated Router: https://www.amazon.co.uk/dp/B0B42GCD76?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_1&th=1 ☆ Meta Quest 3 ☆ GeForce RTX 5080 ☆ Windows 11, 64 bit ☆ Intel(R) Core(TM) Ultra 9 285K 3.70 GHz ☆ 32.0GB Ram #tron #Tron20 #vr #VRMod #Quest3 #QuestCreatorPartner #quest3s #metaquest #metaquest3 #metaquest3s #quest3games #roomscale #steam #NativeVR #steamvr #Quest3 #valve #action #adventure #vrmods --------------------------------------------------------------- Thank yo",
    "repos": [],
    "firstSeen": "2026-11-13T22:02:20.106Z"
   },
@@ -85,14 +217,14 @@
    "firstSeen": "2026-11-13T22:02:20.106Z"
   },
   {
-   "title": "Dying Light VR Mod Multiplayer - Releasing Soon!",
+   "title": "Dying Light 1 VR: Multiplayer is hilarious",
    "url": "https://www.youtube.com/watch?v=yD_znFdrrH0",
    "date": "2026-11-13T16:01:16.000Z",
    "source": "YouTube: LunchAndVR",
    "outlet": "YouTube: LunchAndVR",
    "summary": "Dying Light 1 VR Multiplayer Tests, mod is releasing very, very soon. I will post here when it's out! This is the Dying Light 1 VR Mod by sadboi. Testing multiplayer day and night with VR Dad. For all the latest updates, find it on Flat2VR discord: https://www.flat2vr.com Playing Dying Light 1 Definitive Edition on Steam VR: Quest 3, Virtual Desktop, VDXR Ultra 90hz PC: 4090 13900k 64ram _ Thanks ",
    "image": "https://i2.ytimg.com/vi/yD_znFdrrH0/hqdefault.jpg",
-   "text": "Dying Light VR Mod Multiplayer - Releasing Soon! Dying Light 1 VR Multiplayer Tests, mod is releasing very, very soon. I will post here when it's out! This is the Dying Light 1 VR Mod by sadboi. Testing multiplayer day and night with VR Dad. For all the latest updates, find it on Flat2VR discord: https://www.flat2vr.com Playing Dying Light 1 Definitive Edition on Steam VR: Quest 3, Virtual Desktop, VDXR Ultra 90hz PC: 4090 13900k 64ram _ Thanks for coming! Appreciate you dropping by here, you're a cool person. If you want to stay around, I do all things VR & gaming related. (lunch included) Lunch's Discounts/affiliates here: https://linktr.ee/lunchandvr #vr #virtualreality #dyinglight #vrmod",
+   "text": "Dying Light 1 VR: Multiplayer is hilarious Dying Light 1 VR Multiplayer Tests, mod is releasing very, very soon. I will post here when it's out! This is the Dying Light 1 VR Mod by sadboi. Testing multiplayer day and night with VR Dad. For all the latest updates, find it on Flat2VR discord: https://www.flat2vr.com Playing Dying Light 1 Definitive Edition on Steam VR: Quest 3, Virtual Desktop, VDXR Ultra 90hz PC: 4090 13900k 64ram _ Thanks for coming! Appreciate you dropping by here, you're a cool person. If you want to stay around, I do all things VR & gaming related. (lunch included) Lunch's Discounts/affiliates here: https://linktr.ee/lunchandvr #vr #virtualreality #dyinglight #vrmod",
    "repos": [],
    "firstSeen": "2026-11-13T22:02:20.106Z"
   },
@@ -292,10 +424,12 @@
    "date": "2026-11-12T20:55:23.000Z",
    "source": "YouTube: NotAGameAddict",
    "outlet": "YouTube: NotAGameAddict",
-   "summary": "00:00 - VR gameplay 07:43 - VR gameplay with FPS overlay 12:05 - Vehicular combat Note - This mod is still not out for pucblic and in experimental phase. LEGO Star Wars: The Complete Saga - https://store.steampowered.com/app/32440/LEGO_Star_Wars_The_Complete_Saga/",
+   "summary": "00:00 - VR gameplay 07:43 - VR gameplay with FPS overlay 12:05 - Vehicular combat LEGO Star Wars: The Complete Saga — VR mod made by RanitaVR - https://github.com/ranitadesign/LEGO-STAR-WARS-TCS-VR LEGO Star Wars: The Complete Saga - https://store.steampowered.com/app/32440/LEGO_Star_Wars_The_Complete_Saga/",
    "image": "https://i4.ytimg.com/vi/KkSyoxgt-fc/hqdefault.jpg",
-   "text": "LEGO Star Wars: The Complete Saga VR Performance / New VR Mod with 6DOF Motion Controls / PCVR 00:00 - VR gameplay 07:43 - VR gameplay with FPS overlay 12:05 - Vehicular combat Note - This mod is still not out for pucblic and in experimental phase. LEGO Star Wars: The Complete Saga - https://store.steampowered.com/app/32440/LEGO_Star_Wars_The_Complete_Saga/",
-   "repos": [],
+   "text": "LEGO Star Wars: The Complete Saga VR Performance / New VR Mod with 6DOF Motion Controls / PCVR 00:00 - VR gameplay 07:43 - VR gameplay with FPS overlay 12:05 - Vehicular combat LEGO Star Wars: The Complete Saga — VR mod made by RanitaVR - https://github.com/ranitadesign/LEGO-STAR-WARS-TCS-VR LEGO Star Wars: The Complete Saga - https://store.steampowered.com/app/32440/LEGO_Star_Wars_The_Complete_Saga/",
+   "repos": [
+    "github:ranitadesign/LEGO-STAR-WARS-TCS-VR"
+   ],
    "firstSeen": "2026-11-13T12:24:20.391Z"
   },
   {
@@ -7193,6 +7327,18 @@
    "firstSeen": "2026-10-30T20:54:21.398Z"
   },
   {
+   "title": "[WR] Snowboard Kids Recompiled | Copper Pass: 34:37 (v1.0.6)",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA4Ykw5eUNyVFVEMWNudTh5LTQtemMtQXQtM2lFZ05SN1ZMRGFjSzVtdFU3MTU2RTBqODVJREU0c3RBUHUyZU1oS1BsNDlBb2JQQXFIeXJnRWFMVm0x?oc=5",
+   "date": "2026-10-19T07:00:00.000Z",
+   "source": "Google News",
+   "outlet": "YouTube",
+   "summary": "",
+   "image": null,
+   "text": "[WR] Snowboard Kids Recompiled | Copper Pass: 34:37 (v1.0.6) - YouTube [WR] Snowboard Kids Recompiled | Copper Pass: 34:37 (v1.0.6) YouTube",
+   "repos": [],
+   "firstSeen": "2026-11-14T15:13:09.537Z"
+  },
+  {
    "title": "I Am Your Beast VR Adds Nine New Levels In Free Support Group Update Available Now",
    "url": "https://www.uploadvr.com/i-am-your-beast-vr-adds-nine-new-levels-in-free-support-group-update-available-now/",
    "date": "2026-10-18T21:58:52.000Z",
@@ -9441,18 +9587,6 @@
    "text": "Gears of War 2 Gets Unofficial PC Port – Available for Download - DSOGaming Gears of War 2 Gets Unofficial PC Port – Available for Download DSOGaming",
    "repos": [],
    "firstSeen": "2026-10-31T20:06:38.932Z"
-  },
-  {
-   "title": "Mario Kart Wii recompiled for PC using AI, with 4K potential and uncapped frame rates — 'first static recompilation of a Wii game' supports over 200 tracks thanks to Retro Rewind compatibility",
-   "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxPOExBQThOeDR1dUdMZjgzT244ODVCUGVHSXQ5MVZZV1R0b1BfR05JY2QwczhxNVdwU25ia0tiTjYwbW5Oby03N2NCOFh2QTVDVHZjVFFsQlNITG40Y2JaYnpYbDBza2tlb0ZJbGF2Sk5sZVBJNGlmUmJvdUlJNXA2Q1FNT2tic1VydlZsalNwc2xyOE9vOFlMQmtFeDE4RFluU2czb2UwZGpld1Q4WjFzLWZMTl91cTlrT0V1Q0N0QTJmcDFYN3hkNXVHSVFuZE5jbm1qTWRndTBWV3V5Rzk5elNNbTAta3RtZE1YUDBud0VRZk9JcFVNaDd0MFR5ajJ1QzR1TkItOG9fTjRoY0RMS3BuSlpPdzhtd0xOZkZLM1p6Z2hqVm9NVWxyTS1tNFBMc2lZdmYzWGU3Z29IRUE4QzlTWGZsT1UyY1NmRmxrYnRGS3JiQ1dkcnpWWUVKQQ?oc=5",
-   "date": "2026-07-17T07:00:00.000Z",
-   "source": "Google News",
-   "outlet": "Tom's Hardware",
-   "summary": "",
-   "image": null,
-   "text": "Mario Kart Wii recompiled for PC using AI, with 4K potential and uncapped frame rates — 'first static recompilation of a Wii game' supports over 200 tracks thanks to Retro Rewind compatibility - Tom's Hardware Mario Kart Wii recompiled for PC using AI, with 4K potential and uncapped frame rates — 'first static recompilation of a Wii game' supports over 200 tracks thanks to Retro Rewind compatibility Tom's Hardware",
-   "repos": [],
-   "firstSeen": "2026-11-08T06:21:14.020Z"
   }
  ]
 }

@@ -310,6 +310,7 @@
   "budude2/openfpga-atarilynx": "2026-10-25T15:56:57.670Z",
   "budude2/openfpga-gbc#budude2-gb": "2026-10-25T15:56:57.670Z",
   "budude2/openfpga-gbc#budude2-gbc": "2026-10-25T15:56:57.670Z",
+  "bugcoder00/farcryinstinctspredatorrecomp": "2026-11-14T15:13:09.537Z",
   "buku313/skate3-mobile": "2026-10-23T22:46:33.769Z",
   "buyukcaglar/td2": "2026-10-31T05:58:24.466Z",
   "bvschaik/julius": "2026-10-25T15:36:27.479Z",
@@ -351,6 +352,7 @@
   "centollos/switchwakerhd": "2026-10-24T18:51:55.727Z",
   "cerroverb/espgaluda2-recomp": "2026-11-02T06:28:55.587Z",
   "cerroverb/futari-linux": "2026-10-31T05:58:24.466Z",
+  "cesarboss2022/couriercrisisrecomp": "2026-11-14T15:13:09.537Z",
   "cesarus85/generals-zero-hour-xr": "2026-10-23T22:25:39.434Z",
   "cesarus85/mjolnir-vr": "2026-10-29T21:15:48.323Z",
   "cesarus85/ringfall-mjolnir-vr": "2026-10-25T15:36:27.479Z",
@@ -515,7 +517,9 @@
   "dariasteam/cows-revenge": "2026-11-13T01:13:49.326Z",
   "dariulone/cyberpunk-vr-port": "2026-10-25T15:36:27.479Z",
   "darkflameuniverse/darkflameserver": "2026-11-10T02:48:55.931Z",
+  "darkuni/alien-crush-returns-recomp": "2026-11-14T15:13:09.537Z",
   "darkuni/castlevania-rebirth-recomp": "2026-11-14T06:46:01.984Z",
+  "darkuni/contra-rebirth-recomp": "2026-11-14T15:13:09.537Z",
   "darrcoh/reckless-drivin-sdl": "2026-11-10T02:48:55.931Z",
   "darthmdev/pmd-sky-recomp": "2026-11-10T02:48:55.931Z",
   "dave18/memtest_pocket": "2026-10-25T15:56:57.670Z",
@@ -632,6 +636,7 @@
   "dubrovskiy-yevhen-stakelogic/vice-city-vr": "2026-10-25T15:36:27.479Z",
   "dubrovskiy-yevhen-stakelogic/vice-city-vr-quest": "2026-10-23T22:25:39.434Z",
   "dudux42/freedomunbound": "2026-10-25T15:36:27.479Z",
+  "duislingr/cr1-u": "2026-11-14T15:13:09.537Z",
   "dunecity-project/dunecity": "2026-11-12T16:54:15.494Z",
   "dvilelaf/battlestadium-don": "2026-11-04T00:42:58.054Z",
   "dwreckgg/doa4-online": "2026-11-10T02:48:55.931Z",
@@ -840,6 +845,7 @@
   "gascarcella/dw2003recomp": "2026-11-10T21:51:16.482Z",
   "gawkyorange5/bf2-vr": "2026-11-02T18:34:06.476Z",
   "gborgogno/a3vr-arma3": "2026-10-25T15:36:27.479Z",
+  "geno55/kigold-recomp": "2026-11-14T15:13:09.537Z",
   "geno55/wg3d-recomp": "2026-10-25T15:36:27.479Z",
   "genrythefox0/project-2099": "2026-10-23T22:25:39.434Z",
   "gensokyoclub/th06": "2026-10-23T22:46:33.769Z",
@@ -1419,6 +1425,7 @@
   "lukeross00/nolf2-real-mod": "2026-10-25T15:36:27.479Z",
   "lunarmeadow/barrett": "2026-11-12T07:26:48.272Z",
   "luvabyss/b3-express": "2026-11-06T21:38:46.246Z",
+  "lvl-vr/gtavxr": "2026-11-14T15:13:09.537Z",
   "lxe97/ugvr-idolsofash": "2026-10-25T15:36:27.479Z",
   "m-x-d/heretic2r": "2026-10-25T15:36:27.479Z",
   "m1ndcrap/sega-superstars-tennis-rematch": "2026-10-23T22:25:39.434Z",
@@ -2547,9 +2554,12 @@
   "rac08241988/demonscrestsnesrecomp": "2026-10-31T05:58:24.466Z",
   "rac08241988/incrediblecrashdummies-recomp": "2026-11-04T00:42:58.054Z",
   "rac08241988/magicalblocks": "2026-10-31T05:58:24.466Z",
+  "rac08241988/megaman7-recomp": "2026-11-14T15:13:09.537Z",
   "rac08241988/superryuworld1-recomp": "2026-11-02T06:28:55.587Z",
+  "rac08241988/uniracers-recomp": "2026-11-14T15:13:09.537Z",
   "rac08241988/urbanstrike-recomp": "2026-11-11T22:54:38.255Z",
   "rac08241988/waynesworld-recomp": "2026-11-11T22:54:38.255Z",
+  "rac08241988/wilywars-recomp": "2026-11-14T15:13:09.537Z",
   "rac08241988/xalabaiasadventure-recomp": "2026-11-03T02:28:07.541Z",
   "raceintospace/raceintospace": "2026-11-06T21:38:46.246Z",
   "raddspencer/bionick2": "2026-11-11T22:54:38.255Z",
@@ -2573,6 +2583,7 @@
   "ran-j/ps2recomp": "2026-10-23T22:25:39.434Z",
   "randygil/megaman64recompiledvr": "2026-10-27T05:17:56.999Z",
   "rangerxt/army-men-sarges-heroes-64-recompiled": "2026-11-08T06:21:14.020Z",
+  "ranitadesign/lego-star-wars-tcs-vr": "2026-11-14T15:13:09.537Z",
   "raposomiguel50/system-shock-android": "2026-10-23T22:25:39.434Z",
   "rappudoggu/dark-reign-2-reigncarnated": "2026-11-10T02:48:55.931Z",
   "raulzrrs/letsgo-recomp": "2026-10-23T22:46:33.769Z",
@@ -2589,6 +2600,7 @@
   "rayrod-tv/srb2-vr": "2026-10-25T15:36:27.479Z",
   "rayrod-tv/starfox64-vr": "2026-10-25T15:36:27.479Z",
   "razzconnect/basara4-native-pc": "2026-11-08T15:23:40.938Z",
+  "rcostanza/dead-nation-ps4-recomp": "2026-11-14T15:13:09.537Z",
   "rcostanza/deception-iv-nightmareprincess-recomp": "2026-11-11T22:54:38.255Z",
   "rcostanza/resogun-recomp": "2026-11-10T02:48:55.931Z",
   "re-rac/rerac-launcher": "2026-10-23T22:25:39.434Z",
@@ -2728,6 +2740,7 @@
   "sciaschi/cbfd-recompiled": "2026-10-23T22:25:39.434Z",
   "scotho/socom-unzipped": "2026-10-23T22:46:33.769Z",
   "scottjco/sssv_recomp": "2026-11-06T21:38:46.246Z",
+  "scottjco/wetrix_recomp": "2026-11-14T15:13:09.537Z",
   "scubasteve2365/orivr": "2026-11-07T20:20:18.275Z",
   "sd805/l4d2vr": "2026-10-25T15:36:27.479Z",
   "sdlpal/sdlpal": "2026-10-25T15:36:27.479Z",
@@ -3045,6 +3058,7 @@
   "theokyr/project8recomp": "2026-10-23T22:25:39.434Z",
   "theonlyzac/sly1": "2026-10-23T22:25:39.434Z",
   "thepeacockproject/peacock": "2026-11-07T20:20:18.275Z",
+  "therealafsan/shinobi-ps2-recomp": "2026-11-14T15:13:09.537Z",
   "therunaway5/phase-distorter": "2026-10-25T15:36:27.479Z",
   "theshaneobrien/mister-disc-drive-support": "2026-10-26T15:18:29.150Z",
   "theurbanninja1993-sketch/army-men-sarges-heroes-recomp": "2026-11-06T21:38:46.246Z",
@@ -3075,6 +3089,7 @@
   "tinsarfal/sourcevr": "2026-10-23T22:25:39.434Z",
   "tk22-26/jetforcegemini-recomp": "2026-10-25T15:36:27.479Z",
   "tmcleroy/cps2recomp": "2026-10-24T18:51:55.727Z",
+  "tmcleroy/muscle-march-recomp": "2026-11-14T15:13:09.537Z",
   "tmcleroy/soulcalibur2-recomp": "2026-11-04T00:42:58.054Z",
   "tmewett/broguece": "2026-11-02T06:28:55.587Z",
   "tmodloader/tmodloader": "2026-11-07T20:20:18.275Z",
@@ -6334,6 +6349,32 @@
    },
    "autoFollow": true
   },
+  "geno55/kigold-recomp": {
+   "id": "geno55/kigold-recomp",
+   "name": "kigold recomp",
+   "game": "kigold recomp",
+   "categories": [
+    "Nintendo 64"
+   ],
+   "type": "recompilation",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "geno55/kigold-recomp"
+   },
+   "links": [],
+   "sources": [
+    "news"
+   ],
+   "discoveredFrom": {
+    "kind": "news",
+    "title": "Killer Instinct Gold Recomp Out Now! The N64 Recomp You Wanted",
+    "url": "https://www.youtube.com/watch?v=9BXMP8ezGLg",
+    "source": "YouTube: Video Game Esoterica",
+    "date": "2026-11-13T22:00:18.000Z"
+   },
+   "autoFollow": true
+  },
   "gensokyoclub/th06": {
    "id": "gensokyoclub/th06",
    "name": "th06",
@@ -6434,30 +6475,6 @@
     "url": "https://www.youtube.com/watch?v=vnjV5pgHbzs",
     "source": "YouTube: TheReclusiveGamer",
     "date": "2026-10-23T21:05:59.000Z"
-   },
-   "autoFollow": true
-  },
-  "goldoire/fefw-recomp": {
-   "id": "goldoire/fefw-recomp",
-   "name": "fefw recomp",
-   "game": "fefw recomp",
-   "categories": [
-    "Other"
-   ],
-   "type": "recompilation",
-   "tags": [],
-   "repo": {
-    "host": "github",
-    "path": "Goldoire/fefw-recomp"
-   },
-   "links": [],
-   "sources": [
-    "search"
-   ],
-   "discoveredFrom": {
-    "kind": "search",
-    "title": "topic:static-recompilation stars:>20",
-    "date": "2026-11-09T18:56:51.851Z"
    },
    "autoFollow": true
   },
@@ -8843,6 +8860,35 @@
    },
    "autoFollow": false
   },
+  "lvl-vr/gtavxr": {
+   "id": "lvl-vr/gtavxr",
+   "name": "GTAVXR",
+   "game": "GTAVXR",
+   "categories": [
+    "Other",
+    "VR Ports"
+   ],
+   "type": "port",
+   "tags": [
+    "VR"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "LVL-VR/GTAVXR"
+   },
+   "links": [],
+   "sources": [
+    "news"
+   ],
+   "discoveredFrom": {
+    "kind": "news",
+    "title": "Grand Theft Auto V VR - GTAVXR / Is this The Perfect GTA V VR Mod? / 6DOF Motion Controls / PCVR",
+    "url": "https://www.youtube.com/watch?v=jzejXf7YsXg",
+    "source": "YouTube: NotAGameAddict",
+    "date": "2026-11-13T22:13:22.000Z"
+   },
+   "autoFollow": true
+  },
   "mabec-games/iss2000-recomp": {
    "id": "mabec-games/iss2000-recomp",
    "name": "iss2000 recomp",
@@ -10934,6 +10980,35 @@
     "date": "2026-10-25T15:36:27.479Z"
    },
    "autoFollow": false
+  },
+  "ranitadesign/lego-star-wars-tcs-vr": {
+   "id": "ranitadesign/lego-star-wars-tcs-vr",
+   "name": "LEGO STAR WARS TCS VR",
+   "game": "LEGO STAR WARS TCS VR",
+   "categories": [
+    "Other",
+    "VR Ports"
+   ],
+   "type": "port",
+   "tags": [
+    "VR"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "ranitadesign/LEGO-STAR-WARS-TCS-VR"
+   },
+   "links": [],
+   "sources": [
+    "news"
+   ],
+   "discoveredFrom": {
+    "kind": "news",
+    "title": "LEGO Star Wars: The Complete Saga VR Performance / New VR Mod with 6DOF Motion Controls / PCVR",
+    "url": "https://www.youtube.com/watch?v=KkSyoxgt-fc",
+    "source": "YouTube: NotAGameAddict",
+    "date": "2026-11-12T20:55:23.000Z"
+   },
+   "autoFollow": true
   },
   "raulzrrs/letsgo-recomp": {
    "id": "raulzrrs/letsgo-recomp",
