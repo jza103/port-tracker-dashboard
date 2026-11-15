@@ -1,7 +1,7 @@
 {
  "meta": {
   "seededAt": "2026-10-25T14:56:57.670Z",
-  "lastSearchAt": "2026-11-14T20:48:58.968Z"
+  "lastSearchAt": "2026-11-15T21:07:03.522Z"
  },
  "firstSeen": {
   "07th-mod/python-patcher": "2026-11-09T18:56:51.851Z",
@@ -71,6 +71,7 @@
   "aikatore/recvx-enhanced-port": "2026-10-25T15:36:27.479Z",
   "ajgowans/alt-cores": "2026-10-25T15:56:57.670Z",
   "ajncsystem/shadowofthecolossus-pc": "2026-10-23T22:25:39.434Z",
+  "ajusa/vnds-love": "2026-11-15T21:07:03.522Z",
   "akemin-dayo/opensyobonaction": "2026-11-02T06:28:55.587Z",
   "akimitsu76/lantern-recomp": "2026-11-08T20:37:47.848Z",
   "akitaonrails/rea-colin-mcrae": "2026-11-04T00:42:58.054Z",
@@ -171,6 +172,7 @@
   "arch61s/baroque-decomp": "2026-11-04T00:42:58.054Z",
   "ares-emulator/ares": "2026-10-25T15:36:27.479Z",
   "arichmondphoto/dragonwarrior4nesrecomp": "2026-11-01T15:19:44.427Z",
+  "arkana-mechanika-studios/darklands-restoration": "2026-11-15T21:07:03.522Z",
   "armagetronad/armagetronad": "2026-10-27T14:45:45.436Z",
   "armducks/digimonworld3-recomp": "2026-11-08T15:23:40.938Z",
   "armsx2/armsx3": "2026-10-31T20:06:38.932Z",
@@ -375,6 +377,8 @@
   "chermenin/reminiscence": "2026-10-31T23:29:04.947Z",
   "cheviman/outrunners-port": "2026-11-02T06:28:55.587Z",
   "cheviman/segasonic-port": "2026-10-27T14:45:45.436Z",
+  "cheviman/simpsons-decomp": "2026-11-15T21:07:03.522Z",
+  "cheviman/simpsons-port": "2026-11-15T21:07:03.522Z",
   "cheviman/tmnt-port": "2026-11-08T20:37:47.848Z",
   "chocotorp/shipwright-vr": "2026-10-23T22:25:39.434Z",
   "chomenor/ioef-cmod": "2026-11-10T02:48:55.931Z",
@@ -474,6 +478,7 @@
   "cookingwithsimon/skate2recompiled": "2026-10-25T15:36:27.479Z",
   "coole42-pixel/psprecomp-msae": "2026-11-04T00:42:58.054Z",
   "coop-deluxe/sm64coopdx": "2026-10-23T22:25:39.434Z",
+  "corriedivitt/boomboomrocketrevolution": "2026-11-15T21:07:03.522Z",
   "corriedivitt/shadowgreat": "2026-11-10T21:51:16.482Z",
   "corsixth/corsixth": "2026-10-25T15:36:27.479Z",
   "cortex-command-community/cortex-command-community-project": "2026-11-03T02:28:07.541Z",
@@ -679,6 +684,7 @@
   "eddizege/anka": "2026-11-08T15:23:40.938Z",
   "edgx73/kon-houkago-live-recompiled": "2026-11-08T20:37:47.848Z",
   "editthewall/bunkervr": "2026-11-12T16:54:15.494Z",
+  "edoood/realboutspecial-neocd-recreation": "2026-11-15T21:07:03.522Z",
   "edwin2929/sma3-recomp-android.": "2026-10-23T22:25:39.434Z",
   "eemulator/eemulator": "2026-11-13T22:02:20.106Z",
   "efabless/clear_old": "2026-10-26T15:18:29.150Z",
@@ -1120,6 +1126,7 @@
   "jacquesdupontd/port0r#sega-rally-vr": "2026-10-23T22:25:39.434Z",
   "jacquesdupontd/port0r#virtua-cop-vr": "2026-10-23T22:25:39.434Z",
   "jacquesdupontd/port0r": "2026-10-25T15:36:27.479Z",
+  "jacquesdupontd/zelda-inside-the-dream": "2026-11-15T21:07:03.522Z",
   "jaigner-hub/metroid-prime-4-recomp": "2026-11-13T01:13:49.326Z",
   "jaigner-hub/ocarina-of-time-recomp": "2026-11-08T20:37:47.848Z",
   "jake-r-r-w/crash_bash_decomp": "2026-11-10T02:48:55.931Z",
@@ -1305,6 +1312,7 @@
   "jrdevo/ets2-ats-dlaa-dlss-injection-mod": "2026-10-25T15:36:27.479Z",
   "jrickey/battleship": "2026-10-23T22:25:39.434Z",
   "jrickey/gba-recomp": "2026-11-14T20:48:58.968Z",
+  "jsgroth/jgenesis": "2026-11-15T21:07:03.522Z",
   "jstar269/nakagawa-recomp": "2026-11-04T00:42:58.054Z",
   "juggymcnutty/port-ex-machina": "2026-11-03T02:28:07.541Z",
   "juliocacko/the-order-1886_pc": "2026-11-11T22:54:38.255Z",
@@ -1377,6 +1385,7 @@
   "knivesdevilish/sr-zgs": "2026-11-13T01:13:49.326Z",
   "knossosnet/knossos.net": "2026-10-25T15:36:27.479Z",
   "kobayashi90/beach_recomp": "2026-11-10T21:51:16.482Z",
+  "kocxyz/launcher": "2026-11-15T21:07:03.522Z",
   "koenhendriks/ssx3-recomp": "2026-10-25T15:36:27.479Z",
   "korvonordico/hollywood-monsters-enhanced": "2026-11-07T20:20:18.275Z",
   "korvonordico/shadow-of-rome-recompiled": "2026-11-08T06:21:14.020Z",
@@ -1477,6 +1486,7 @@
   "mabec-games/stunt-race-fx-decomp": "2026-11-04T12:19:33.535Z",
   "mabec-games/top-spin-4-launcher": "2026-11-01T15:19:44.427Z",
   "machinaaeon/respect": "2026-11-10T21:51:16.482Z",
+  "machinebreak/mk9-lauta": "2026-11-15T21:07:03.522Z",
   "madcatse/mech1989-recoded": "2026-10-31T05:58:24.466Z",
   "madelrandel-blip/nfsmw-recompiled": "2026-10-23T22:25:39.434Z",
   "madsbuvi/openmw": "2026-10-25T15:36:27.479Z",
@@ -2068,6 +2078,7 @@
   "mstan/sonicthehedgehog2recomp": "2026-10-25T15:36:27.479Z",
   "mstan/supermarioadvance2recomp": "2026-10-25T15:36:27.479Z",
   "mstan/supermarioadvance4recomp": "2026-10-25T15:36:27.479Z",
+  "mstan/supermariobrosnesrecomp": "2026-11-15T21:07:03.522Z",
   "mstan/supermariorpgrecomp": "2026-10-25T15:36:27.479Z",
   "mstan/supermarioworldrecomp": "2026-10-23T22:25:39.434Z",
   "mstan/supermetroidrecomp": "2026-10-23T22:25:39.434Z",
@@ -2170,6 +2181,7 @@
   "no6969el/gevr": "2026-10-25T15:36:27.479Z",
   "noahvl/birdman64": "2026-10-23T22:25:39.434Z",
   "nobbie248/primedgun": "2026-10-23T22:25:39.434Z",
+  "nocss42/gardengate": "2026-11-15T21:07:03.522Z",
   "noelo-lab/kuna": "2026-10-23T22:46:33.769Z",
   "noodlecollie/nightfire-open": "2026-11-13T22:02:20.106Z",
   "norain211/doa2u-re": "2026-10-26T15:18:29.150Z",
@@ -2579,6 +2591,8 @@
   "prismaticshape/dramaticshapevr": "2026-10-25T15:36:27.479Z",
   "prismlauncher/prismlauncher": "2026-11-07T20:20:18.275Z",
   "project-holon/eidos": "2026-11-05T22:08:09.109Z",
+  "project-lylat/ishiiruka": "2026-11-15T21:07:03.522Z",
+  "project-slippi/slippi-launcher": "2026-11-15T21:07:03.522Z",
   "projectedan/mcrae05-xbe-recomp": "2026-11-01T15:19:44.427Z",
   "projectedan/outlawgolf2-xbe-recomp": "2026-11-10T21:51:16.482Z",
   "projectedan/tigerwoods2004-xbe-recomp": "2026-11-04T00:42:58.054Z",
@@ -2610,6 +2624,8 @@
   "quietclubgames/reburiki": "2026-11-13T22:02:20.106Z",
   "quietclubgames/relayer": "2026-11-09T18:56:51.851Z",
   "qurious-pixel/smas_launcher": "2026-10-23T22:25:39.434Z",
+  "r1delta/r1delta": "2026-11-15T21:07:03.522Z",
+  "r2northstar/northstarlauncher": "2026-11-15T21:07:03.522Z",
   "rac-native/rac1-native-game": "2026-10-28T21:12:08.030Z",
   "rac08241988/beavisandbutthead-recomp": "2026-11-11T22:54:38.255Z",
   "rac08241988/demonscrestsnesrecomp": "2026-10-31T05:58:24.466Z",
@@ -2670,6 +2686,7 @@
   "re-tero17/ratchet-tod-recomp": "2026-11-04T00:42:58.054Z",
   "reacher-z/awesome-rea": "2026-10-23T22:46:33.769Z",
   "realdantalion/metal-fatigue-retrofit": "2026-11-14T20:48:58.968Z",
+  "recomp-code/dbz-bt4-recomp": "2026-11-15T21:07:03.522Z",
   "recomp-code/street-recomp-v3": "2026-10-23T22:46:33.769Z",
   "recompteam/disruptorrecomp": "2026-11-08T20:37:47.848Z",
   "red-tv141/dc2-ps2recomp": "2026-10-23T22:25:39.434Z",
@@ -2843,10 +2860,12 @@
   "shagg88/cogbox": "2026-10-29T15:18:58.463Z",
   "shaneomac1337/top-spin-4-recomp": "2026-11-04T00:42:58.054Z",
   "shaneomac1337/wwe-allstars-recomp": "2026-10-25T15:36:27.479Z",
+  "shanytc/snes9x": "2026-11-15T21:07:03.522Z",
   "shaunsingh/pgr4-native": "2026-10-31T05:58:24.466Z",
   "shdecompilations/silent-hill-decomp": "2026-10-23T22:46:33.769Z",
   "sheerst/pokewilds": "2026-11-04T00:42:58.054Z",
   "shehab4546/ratchetport": "2026-11-04T00:42:58.054Z",
+  "shiburizu/concerto-mbaacc": "2026-11-15T21:07:03.522Z",
   "shiffo0/mgs2-pcvr": "2026-10-25T15:36:27.479Z",
   "shihabal3amri/tekken-tag-tournament-2-pc": "2026-10-23T22:25:39.434Z",
   "shiiion/dolphin": "2026-11-10T02:48:55.931Z",
@@ -2931,6 +2950,7 @@
   "speedydevil007/road-sdl2-rash": "2026-11-10T21:51:16.482Z",
   "speedyjustice2/ridge-racer-psp-static-recomp": "2026-10-30T06:03:37.031Z",
   "spencer0187/portal2vr-roomscale": "2026-10-25T15:36:27.479Z",
+  "spicy-eagle-90/nvidia-dlss-2-desktop": "2026-11-15T21:07:03.522Z",
   "spicylobstergames/spicylauncher": "2026-11-14T20:48:58.968Z",
   "spicywonda/castlevania-chronicles-recomp": "2026-10-25T15:36:27.479Z",
   "spiritualized1997/openfpga-2600": "2026-10-25T15:56:57.670Z",
@@ -3186,6 +3206,7 @@
   "tools81/mutant-rampage-bodyslam-static-recomp": "2026-10-25T15:36:27.479Z",
   "tools81/nfl-head-coach-09-static-recomp": "2026-10-25T15:36:27.479Z",
   "tools81/the-apprentice-static-recomp": "2026-11-11T22:54:38.255Z",
+  "tools81/thunder-in-paradise-static-recomp": "2026-11-15T21:07:03.522Z",
   "tools81/voyeur-static-recomp": "2026-11-13T22:02:20.106Z",
   "tools81/zelda-adventures-static-recomp": "2026-10-31T14:36:47.862Z",
   "tools81/zelda-wand-of-gamelon-static-recomp": "2026-10-25T15:36:27.479Z",
@@ -4779,6 +4800,32 @@
     "url": "https://www.youtube.com/watch?v=0R36sf-Tomw",
     "source": "YouTube: Gamertag VR",
     "date": "2026-10-18T16:43:50.000Z"
+   },
+   "autoFollow": true
+  },
+  "cheviman/simpsons-decomp": {
+   "id": "cheviman/simpsons-decomp",
+   "name": "simpsons decomp",
+   "game": "simpsons decomp",
+   "categories": [
+    "Arcade"
+   ],
+   "type": "decompilation",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "cheviman/simpsons-decomp"
+   },
+   "links": [],
+   "sources": [
+    "news"
+   ],
+   "discoveredFrom": {
+    "kind": "news",
+    "title": "The Simpsons Arcade (Konami) Decomp on Windows – Early Days but Looking Good",
+    "url": "https://www.youtube.com/watch?v=v6rbOYqunpM",
+    "source": "YouTube: Pixel Cherry Ninja",
+    "date": "2026-11-15T16:00:38.000Z"
    },
    "autoFollow": true
   },
@@ -7362,6 +7409,35 @@
     "date": "2026-10-18T16:43:50.000Z"
    },
    "autoFollow": false
+  },
+  "jacquesdupontd/zelda-inside-the-dream": {
+   "id": "jacquesdupontd/zelda-inside-the-dream",
+   "name": "zelda inside the dream",
+   "game": "zelda inside the dream",
+   "categories": [
+    "Other",
+    "VR Ports"
+   ],
+   "type": "recompilation",
+   "tags": [
+    "VR"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "jacquesdupontd/zelda-inside-the-dream"
+   },
+   "links": [],
+   "sources": [
+    "news"
+   ],
+   "discoveredFrom": {
+    "kind": "news",
+    "title": "The Legend of Zelda Links Awakening VR Performance / New VR Mod with First Person View / PCVR",
+    "url": "https://www.youtube.com/watch?v=1o1DyjXoY3Q",
+    "source": "YouTube: NotAGameAddict",
+    "date": "2026-11-15T15:53:44.000Z"
+   },
+   "autoFollow": true
   },
   "jakeschincariol/console-skill": {
    "id": "jakeschincariol/console-skill",
@@ -11306,6 +11382,30 @@
    },
    "autoFollow": true
   },
+  "recomp-code/dbz-bt4-recomp": {
+   "id": "recomp-code/dbz-bt4-recomp",
+   "name": "dbz bt4 recomp",
+   "game": "dbz bt4 recomp",
+   "categories": [
+    "PlayStation 2"
+   ],
+   "type": "recompilation",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "recomp-code/dbz-bt4-recomp"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "PS2Recomp in:readme stars:>20",
+    "date": "2026-11-15T21:07:03.522Z"
+   },
+   "autoFollow": false
+  },
   "recomp-code/street-recomp-v3": {
    "id": "recomp-code/street-recomp-v3",
    "name": "street recomp v3",
@@ -12640,6 +12740,33 @@
     "date": "2026-10-23T22:46:33.769Z"
    },
    "autoFollow": true
+  },
+  "spicy-eagle-90/nvidia-dlss-2-desktop": {
+   "id": "spicy-eagle-90/nvidia-dlss-2-desktop",
+   "name": "nvidia dlss 2 desktop",
+   "game": "nvidia dlss 2 desktop",
+   "categories": [
+    "Other",
+    "VR Ports"
+   ],
+   "type": "tool",
+   "tags": [
+    "VR"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "spicy-eagle-90/nvidia-dlss-2-desktop"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "topic:openxr mod stars:>30",
+    "date": "2026-11-15T21:07:03.522Z"
+   },
+   "autoFollow": false
   },
   "splashdev88/nds4mister": {
    "id": "splashdev88/nds4mister",
