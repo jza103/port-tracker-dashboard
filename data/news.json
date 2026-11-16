@@ -1,6 +1,38 @@
 {
  "articles": [
   {
+   "title": "VapourDeck is the 486 Handheld You Didn’t Know You Needed",
+   "url": "https://hackaday.com/2026/11/15/vapourdeck-is-the-486-handheld-you-didnt-know-you-needed/",
+   "date": "2026-11-16T03:00:56.000Z",
+   "source": "Hackaday",
+   "outlet": "Hackaday",
+   "summary": "Do you need a 486-based handheld computer for DOS games? Well, we didn't think so either — until we saw [Sprite_tm]'s impressive and excellently documented VapourDeck homebrew handheld PC. Now …read more",
+   "image": "https://hackaday.com/wp-content/uploads/2026/11/vapourdeck1.jpeg",
+   "text": "VapourDeck is the 486 Handheld You Didn’t Know You Needed Do you need a 486-based handheld computer for DOS games? Well, we didn't think so either — until we saw [Sprite_tm]'s impressive and excellently documented VapourDeck homebrew handheld PC. Now we want one for Christmas and to be [Sprite_tm] when we grow up. There exist industrial single-board computers designed around the Intel 486, and you'd be forgiven for thinking that's what lives inside this build– but no. [Sprite_tm] was tired of thinking of a motherboard as “deep magic” and decided it was high time he designed his own. He chose the 486 because Intel actually let mere mortals at the documentation in those days, and it would let him play all his favourite DOS games on the fly. The board contains a period-appropriate VGA chip — complete with whopping 1MB of VRAM!– though most of the glue logic, I/Om and sound are on a modern FPGA and ESP32-S3, respectively. The writeup gives a good idea of the thinking behind this machine, but if you want to build one yourself, you can get all the files on Codeburg , because [Sprite_tm] was kind enough to open-source his work even if he's not sure anyone else would want to replicate it. We've seen a lot of [Sprite_tm]'s work on Hackaday over the years, including a portable Vectrex he walked us through at Supercon one year. Thanks to [Vital] for the tip!",
+   "repos": [],
+   "firstSeen": "2026-11-16T06:50:57.087Z"
+  },
+  {
+   "title": "Ocarina of Time just proved every Nintendo game is a PC game now — and we are not ready for what comes next",
+   "url": "https://readonlymemo.com/ocarina-of-time-recomp-hookshot-vibe-coding/",
+   "date": "2026-11-16T02:12:41.000Z",
+   "source": "ReadOnlyMemo",
+   "outlet": "ReadOnlyMemo",
+   "summary": "It's hard to truly get a sense of the scale and speed at which vibe coding is changing the face of software until you see it up close.",
+   "image": "https://cdn.synaps.media/readonlymemo/content/images/2026/11/oot-ganondorf-header.jpg",
+   "text": "Ocarina of Time just proved every Nintendo game is a PC game now — and we are not ready for what comes next There's a poetic symmetry to The Legend of Zelda: Ocarina of Time heralding both the frontier technical achievements of emulation development and the vengeful scrutiny of the games industry's most protective company. In early 1999, just weeks after the release of Ocarina of Time on the N64, a couple hackers were on the cusp of doing something that had never been done before: making a 3D console game playable on the nascent 3D accelerator cards that PC gamers were starting to slot into their PCs. Emulators like Nesticle playing years-old games had not stirred the sleeping giant to make loud legal threats, but UltraHLE was too dramatic a development to ignore. The whole thing flamed out before Nintendo actually needed to make good on its legal threats — probably in part because it made those threats. UltraHLE never played Ocarina of Time well , but the fact it could play it at all, on modest computer hardware after just a few months, was a sign of how technology was changing. Also representative of that time and place was that no one with the technical know-how immediately picked up the pieces from UltraHLE and perfected it; N64 emulation remained incredibly fickle. You still realistically needed a Nintendo console to play most Nintendo games for many more years, and the only people who could change that, emulator developers, were rare as unicorns. Almost 30 years later, ",
+   "repos": [
+    "github:Frizti/Fritchii",
+    "github:N64Recomp/N64Recomp",
+    "github:sonicnext-dev/MarathonRecomp",
+    "github:FoxWorkshop/ShadowRecomp",
+    "github:RPCS3/rpcs3",
+    "github:Vita3K/Vita3K",
+    "github:DerekPascarella/CastleofShikigamiII-EnglishPatchDreamcast"
+   ],
+   "firstSeen": "2026-11-16T06:50:57.087Z"
+  },
+  {
    "title": "It Ain't called Wreckest for Nothing #vr #wreckfest #vrmods #gaming #racinggames #crash #metaquest3",
    "url": "https://www.youtube.com/shorts/mOusQ-nbcvk",
    "date": "2026-11-15T20:15:11.000Z",
@@ -7271,6 +7303,18 @@
    "text": "Get more fun VR games in the Flat2VR Humble Bundle In the need for more good VR experiences? Got you covered here with our round-up of the brand new Flat2VR Humble Bundle. Read the full article on GamingOnLinux .",
    "repos": [],
    "firstSeen": "2026-10-23T22:25:39.434Z"
+  },
+  {
+   "title": "Forza Motorsport 5 unofficial PC Port Max settings 1080p 30fps tested on Asus Rog Ally 15 watt TDP.",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE93WHR0MGo0WVJ0VVlFbUlTbDlCLVhyenJMaEFjR1prc2ViYUZ6bndhZHlnMnEzV2JnYjczUmU4YkhFdWVIc0ZkbnpmX3hrUGV0N0R0Y2ZpU2h2clR6?oc=5",
+   "date": "2026-10-21T07:00:00.000Z",
+   "source": "Google News",
+   "outlet": "YouTube",
+   "summary": "",
+   "image": null,
+   "text": "Forza Motorsport 5 unofficial PC Port Max settings 1080p 30fps tested on Asus Rog Ally 15 watt TDP. - YouTube Forza Motorsport 5 unofficial PC Port Max settings 1080p 30fps tested on Asus Rog Ally 15 watt TDP. YouTube",
+   "repos": [],
+   "firstSeen": "2026-11-16T06:50:57.087Z"
   },
   {
    "title": "Zelda: Tears of the Kingdom native port hits Apple Silicon MacBooks, runs at 90 FPS on an M4 Air",
