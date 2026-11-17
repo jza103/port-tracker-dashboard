@@ -1,6 +1,71 @@
 {
  "articles": [
   {
+   "title": "Two Sonic the Hedgehog Recomps Out Now!",
+   "url": "https://www.youtube.com/watch?v=ew9QEgIBssg",
+   "date": "2026-11-17T02:00:29.000Z",
+   "source": "YouTube: Video Game Esoterica",
+   "outlet": "YouTube: Video Game Esoterica",
+   "summary": "SUPPORT THE CHANNEL : http://www.patreon.com/VideoGameEsoterica Sonic Unleashed Recompilation proved that Xbox 360 games could get Xbox 360 recomps...but lately everyone has been asking about Marathon Recomp, the Sonic the Hedgehog 06 recomp in development. Well the Sonic the Hedgehog Recomp is out now....AND so is a Shadow the Hedgehog recomp for the OG Xbox...giving us an Xbox 360 recomp AND an ",
+   "image": "https://i2.ytimg.com/vi/ew9QEgIBssg/hqdefault.jpg",
+   "text": "Two Sonic the Hedgehog Recomps Out Now! SUPPORT THE CHANNEL : http://www.patreon.com/VideoGameEsoterica Sonic Unleashed Recompilation proved that Xbox 360 games could get Xbox 360 recomps...but lately everyone has been asking about Marathon Recomp, the Sonic the Hedgehog 06 recomp in development. Well the Sonic the Hedgehog Recomp is out now....AND so is a Shadow the Hedgehog recomp for the OG Xbox...giving us an Xbox 360 recomp AND an Xbox recomp all in one! Sonic 06 recomp: https://github.com/sonicnext-dev/MarathonRecomp Shadow the Hedgehog Recomp: https://github.com/FoxWorkshop/ShadowRecomp Questions? Comments? Just leave them below and I will do my best to answer each and every one of them! http://www.patreon.com/VideoGameEsoterica VGE",
+   "repos": [
+    "github:sonicnext-dev/MarathonRecomp",
+    "github:FoxWorkshop/ShadowRecomp"
+   ],
+   "firstSeen": "2026-11-17T02:59:38.190Z"
+  },
+  {
+   "title": "Silent Hill (1999) VR Performance / New Meta Quest Standalone VR Mod with 6DOF Motion Controls / Q3",
+   "url": "https://www.youtube.com/watch?v=jmQHxjxKQUk",
+   "date": "2026-11-17T00:07:45.000Z",
+   "source": "YouTube: NotAGameAddict",
+   "outlet": "YouTube: NotAGameAddict",
+   "summary": "00:00 - Game intro 04:36 - VR settings 06:06 - VR gameplay Silent Hill VR mod made by Renangto15722-arch - https://github.com/renangto15722-arch/Silent-Hill-1999-Quest-Standalone",
+   "image": "https://i3.ytimg.com/vi/jmQHxjxKQUk/hqdefault.jpg",
+   "text": "Silent Hill (1999) VR Performance / New Meta Quest Standalone VR Mod with 6DOF Motion Controls / Q3 00:00 - Game intro 04:36 - VR settings 06:06 - VR gameplay Silent Hill VR mod made by Renangto15722-arch - https://github.com/renangto15722-arch/Silent-Hill-1999-Quest-Standalone",
+   "repos": [
+    "github:renangto15722-arch/Silent-Hill-1999-Quest-Standalone"
+   ],
+   "firstSeen": "2026-11-17T02:59:38.190Z"
+  },
+  {
+   "title": "Astro Bot PC Port Out NOW! PS5 PC Port Fun",
+   "url": "https://www.youtube.com/watch?v=nFiVcdvF6oI",
+   "date": "2026-11-16T22:00:31.000Z",
+   "source": "YouTube: Video Game Esoterica",
+   "outlet": "YouTube: Video Game Esoterica",
+   "summary": "SUPPORT THE CHANNEL : http://www.patreon.com/VideoGameEsoterica AnyPS5, the PS5 PC port tool...has given us an Astro Bot PC Port! NOT PS5 emulation or a PS5 emulator...a proper PC port! Its still early but...wow! GO SUB TO NBW DOUGHBOY: https://www.youtube.com/@NBWDOUGHBOY/featured We have talked a lot about retro gaming recomps and retro gaming PC ports on the channel along with PS5 emulation imp",
+   "image": "https://i3.ytimg.com/vi/nFiVcdvF6oI/hqdefault.jpg",
+   "text": "Astro Bot PC Port Out NOW! PS5 PC Port Fun SUPPORT THE CHANNEL : http://www.patreon.com/VideoGameEsoterica AnyPS5, the PS5 PC port tool...has given us an Astro Bot PC Port! NOT PS5 emulation or a PS5 emulator...a proper PC port! Its still early but...wow! GO SUB TO NBW DOUGHBOY: https://www.youtube.com/@NBWDOUGHBOY/featured We have talked a lot about retro gaming recomps and retro gaming PC ports on the channel along with PS5 emulation improvements with KytyPS5 and SharpEmu...but now a suite of tools known as AnyPS5 has appeared on GitHub with plans to translate PS5 games to PC like how we get with Valve and Proton on Steam Deck and Steam Machine AND Teknoparrot and Lindeberg Loader with Linux translation layers! Honestly it's a smart idea as PS5 hardware is just a PC in a box with a custom OS and not Windows! Sony may have stopped releasing PS5 PC ports...but fans are planning on doing it anyway! and now AnyPS5 has hit 100% functionality on the PS5 GPU side of things meaning every shader and call to hardware from PS5 can be translated to PC! So it's not just the PS4 Bloodborne PC port this week! try my discord if you need the Git : https://discord.gg/V6ghGVC6Ts But PS5 exclusives can now be ported to PC...this is just an example of HOW its done! Questions? Comments? Just leave them below and I will do my best to answer each and every one of them! http://www.patreon.com/VideoGameEsoterica You can follow us at IG : ChicagoGameCollector , or join our Discord Server : https://di",
+   "repos": [],
+   "firstSeen": "2026-11-17T02:59:38.190Z"
+  },
+  {
+   "title": "MiSTer NEO-GEO NetPlay, New JT Cores, Taito F3 Hits Updaters Analogue Pocket & More - 394",
+   "url": "https://www.youtube.com/watch?v=0VdJ6gZSPAw",
+   "date": "2026-11-16T20:00:09.000Z",
+   "source": "YouTube: Pixel Cherry Ninja",
+   "outlet": "YouTube: Pixel Cherry Ninja",
+   "summary": "USE CODE \"PixelCherryNinja\" for 10% OFF https://fightboxarcade.com/ EARLY ACCESS TO NEWS VIDEOS AND OTHER EXCLUSIVES https://www.youtube.com/channel/UCEozS0uaZibXKTQSu10XgSw/join https://www.patreon.com/PixelCherryNinja Buy a Octopus TR Fightstick https://www.trfightstick.com/?ref=PCN Click link then use code \"PCN\" for $25 Off Buy a Morph2K https://www.pixelfx.co/product-page/morph-2k-analog-video",
+   "image": "https://i1.ytimg.com/vi/0VdJ6gZSPAw/hqdefault.jpg",
+   "text": "MiSTer NEO-GEO NetPlay, New JT Cores, Taito F3 Hits Updaters Analogue Pocket & More - 394 USE CODE \"PixelCherryNinja\" for 10% OFF https://fightboxarcade.com/ EARLY ACCESS TO NEWS VIDEOS AND OTHER EXCLUSIVES https://www.youtube.com/channel/UCEozS0uaZibXKTQSu10XgSw/join https://www.patreon.com/PixelCherryNinja Buy a Octopus TR Fightstick https://www.trfightstick.com/?ref=PCN Click link then use code \"PCN\" for $25 Off Buy a Morph2K https://www.pixelfx.co/product-page/morph-2k-analog-video-scaler?ref=PCN Buy a Zaparoo product (10% off) https://shop.zaparoo.com/discount/PixelCherryNinja or just enter code \"PixelCherryNinja\" (affiliate links above) Join the Pixel Cherry Ninja Gaming Discord https://discord.gg/5W9pCy2nXa Find all the sources here https://pixelcherryninja.blogspot.com/ Special thanks to channel Patreon's Silver Ninja's - John Gillotte, Meathax, RGM, SmoMo, VimDiesel Bronze Ninja's - Alessandro Gulli, Alexander Facchini, Anime0t4ku, anthony, Bjamiork, craigpow, Curt Dittmer, Ernie D, Fizzun Dirtnap, Juan Alvarez, Keith F. Kelly, Nicholas Robertson-Muir, Niallquinn, ncc1701p, Peter Davis, Rap, Scott Dowdle, Tamariel, theypsilon, ZXFace A special Thanks to all Channel Members I Really Really Like PCN! - RGM - Random Gaming Moments https://www.youtube.com/channel/UCIm6dft7oV92-zMCn4A6g2Q I Really Like PCN! - Aleem Tayyab, Alphanu1, Anime0t4ku, ArinoSeb, Bjamiork, CryptoCSguy, Giuliano Pedersoli, Iñaki Etxebarria, Michael O’Hara, RaudoKun, Silent253, Terry BD, VolJoe I Li",
+   "repos": [],
+   "firstSeen": "2026-11-17T02:59:38.190Z"
+  },
+  {
+   "title": "I Didn't Know What To Expect After Shining My Flashlight at Random Dudes in the Park in Alan Wake VR",
+   "url": "https://www.youtube.com/shorts/xmr99zl-qFo",
+   "date": "2026-11-16T19:51:52.000Z",
+   "source": "YouTube: FastLawyer",
+   "outlet": "YouTube: FastLawyer",
+   "summary": "Playing Alan Wake in VR with the latest FREE VR mod on the Meta Quest 3 (PCVR).",
+   "image": "https://i1.ytimg.com/vi/xmr99zl-qFo/hqdefault.jpg",
+   "text": "I Didn't Know What To Expect After Shining My Flashlight at Random Dudes in the Park in Alan Wake VR Playing Alan Wake in VR with the latest FREE VR mod on the Meta Quest 3 (PCVR).",
+   "repos": [],
+   "firstSeen": "2026-11-17T02:59:38.190Z"
+  },
+  {
    "title": "Hunter Bro VR VR - Live Gameplay & Commentary on the Meta Quest 3 (PCVR)",
    "url": "https://www.youtube.com/watch?v=PHm4UR9FkH0",
    "date": "2026-11-16T18:38:10.000Z",
@@ -37,6 +102,18 @@
    "text": "Shadow the Hedgehog Gets an 'Unofficial PC Port' — and It Isn’t Vibe Coded - IGN Southeast Asia Shadow the Hedgehog Gets an 'Unofficial PC Port' — and It Isn’t Vibe Coded IGN Southeast Asia",
    "repos": [],
    "firstSeen": "2026-11-16T18:41:30.564Z"
+  },
+  {
+   "title": "Shadow The Hedgehog Gets Unofficial PC Port That Isn't Vibe Coded",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPc0xIUFFEdWhxTXVoNE03OHQ0MXJRbURkSnVtMVJPd2F2QkNJT3lOeHhrY2V5LWVIWW5CLVg1U0pFbF9LR0ktdVl6RTl0T1hYVkYxSDBmRmFTOUY1UXlQbzNKU3RtT0VUOTNmXzdDLWtnaTd4M3NqaXhLQjJObUVlN3dvREctV3FEeEJlMFJISGhYSnZsS0JFNm1nempPZw?oc=5",
+   "date": "2026-11-16T17:29:43.000Z",
+   "source": "Google News",
+   "outlet": "IGN",
+   "summary": "",
+   "image": null,
+   "text": "Shadow The Hedgehog Gets Unofficial PC Port That Isn't Vibe Coded - IGN Shadow The Hedgehog Gets Unofficial PC Port That Isn't Vibe Coded IGN",
+   "repos": [],
+   "firstSeen": "2026-11-17T02:59:38.190Z"
   },
   {
    "title": "Alan Wake VR Feels Like a Brand New Game!",
@@ -3750,14 +3827,14 @@
    "firstSeen": "2026-11-03T12:06:27.928Z"
   },
   {
-   "title": "Power Moon Recomp Runs Mario Odyssey at 4K, 60 FPS [2026]",
+   "title": "Power Moon Recomp: Mario Odyssey on PC, 60 FPS [2026]",
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTi0xX2hJUmJrUDhDWk40QzAwNVFlTzBHTjlZZHdVandWTUdtSnZac3ZvcmhPY19aWG41SEd0NF82Wm9NWGpsSEJaRjFpdXVETC03T3hRcGxzR0JYeGstUkRLNWNVOUVfVzVPUUg5bEhUZjl2eWg3Q1haaEJDb1pBYzAtX04xaDZ3QXk0aA?oc=5",
    "date": "2026-11-03T10:32:44.000Z",
    "source": "Google News",
    "outlet": "shattered.io",
    "summary": "",
    "image": null,
-   "text": "Power Moon Recomp Runs Mario Odyssey at 4K, 60 FPS [2026] - shattered.io Power Moon Recomp Runs Mario Odyssey at 4K, 60 FPS [2026] shattered.io",
+   "text": "Power Moon Recomp: Mario Odyssey on PC, 60 FPS [2026] - shattered.io Power Moon Recomp: Mario Odyssey on PC, 60 FPS [2026] shattered.io",
    "repos": [],
    "firstSeen": "2026-11-05T22:08:09.109Z"
   },
