@@ -1,6 +1,111 @@
 {
  "articles": [
   {
+   "title": "The Xbox Version of Sonic's Edgy Spin-Off 'Shadow the Hedgehog' Just Got a Recomp, with a Ton of Great Enhancements",
+   "url": "https://www.timeextension.com/news/2026/11/the-xbox-version-of-sonics-edgy-spin-off-shadow-the-hedgehog-just-got-a-recomp-with-a-ton-of-great-enhancements",
+   "date": "2026-11-17T13:00:00.000Z",
+   "source": "Time Extension",
+   "outlet": "Time Extension",
+   "summary": "High frame rates! Widescreen! Ultra-wide! & Mod support. Released in 2005 as a spin-off to Sega's long-running Sonic the Hedgehog series, Shadow the Hedgehog didn't necessarily get the best reviews when it was released on consoles back in the mid-2000s. Many critics at the time described its darker, edgier tone as \" ill-advised \" and complained about the accuracy of the game's controls , awarding ",
+   "image": "https://images.timeextension.com/b05d51fe35aab/large.jpg",
+   "text": "The Xbox Version of Sonic's Edgy Spin-Off 'Shadow the Hedgehog' Just Got a Recomp, with a Ton of Great Enhancements High frame rates! Widescreen! Ultra-wide! & Mod support. Released in 2005 as a spin-off to Sega's long-running Sonic the Hedgehog series, Shadow the Hedgehog didn't necessarily get the best reviews when it was released on consoles back in the mid-2000s. Many critics at the time described its darker, edgier tone as \" ill-advised \" and complained about the accuracy of the game's controls , awarding it mostly middling to low review scores. Read the full article on timeextension.com",
+   "repos": [
+    "github:FoxWorkshop/ShadowRecomp",
+    "github:sonicnext-dev/marathonrecomp"
+   ],
+   "firstSeen": "2026-11-17T13:39:44.494Z"
+  },
+  {
+   "title": "Luigi's Mansion VR Performance / New VR Mod with 6DOF Motion Controls / Quest + RTX 4080 Super",
+   "url": "https://www.youtube.com/watch?v=In4suSwL1d8",
+   "date": "2026-11-17T11:00:19.000Z",
+   "source": "YouTube: NotAGameAddict",
+   "outlet": "YouTube: NotAGameAddict",
+   "summary": "00:00 - VR settings 00:24 - VR gameplay Note - This mod is still in alpha phase. There is no public build of the mod yet.",
+   "image": "https://i2.ytimg.com/vi/In4suSwL1d8/hqdefault.jpg",
+   "text": "Luigi's Mansion VR Performance / New VR Mod with 6DOF Motion Controls / Quest + RTX 4080 Super 00:00 - VR settings 00:24 - VR gameplay Note - This mod is still in alpha phase. There is no public build of the mod yet.",
+   "repos": [],
+   "firstSeen": "2026-11-17T13:39:44.494Z"
+  },
+  {
+   "title": "SEGA's Spikeout Final Edition Recomp on PC Is 10/10 Awesome!",
+   "url": "https://www.youtube.com/watch?v=-YKFsC_6lmw",
+   "date": "2026-11-17T11:00:05.000Z",
+   "source": "YouTube: Pixel Cherry Ninja",
+   "outlet": "YouTube: Pixel Cherry Ninja",
+   "summary": "Ways to Support the Channel (some affiliate links) EARLY ACCESS TO NEWS VIDEOS AND OTHER EXCLUSIVES https://www.youtube.com/channel/UCEozS0uaZibXKTQSu10XgSw/join https://www.patreon.com/PixelCherryNinja Buy a FightBox R10-Pro Arcade Stick with Trackball & Spinner USE CODE \"PixelCherryNinja\" for 10% OFF https://fightboxarcade.com/collections/best-sellers/products/fightbox-r10-pro-arcade-fight-stick",
+   "image": "https://i2.ytimg.com/vi/-YKFsC_6lmw/hqdefault.jpg",
+   "text": "SEGA's Spikeout Final Edition Recomp on PC Is 10/10 Awesome! Ways to Support the Channel (some affiliate links) EARLY ACCESS TO NEWS VIDEOS AND OTHER EXCLUSIVES https://www.youtube.com/channel/UCEozS0uaZibXKTQSu10XgSw/join https://www.patreon.com/PixelCherryNinja Buy a FightBox R10-Pro Arcade Stick with Trackball & Spinner USE CODE \"PixelCherryNinja\" for 10% OFF https://fightboxarcade.com/collections/best-sellers/products/fightbox-r10-pro-arcade-fight-stick-with-trackball-spinner-retro-game-controller-for-pc-ps3-switch Buy a Octopus TR Fightstick https://www.trfightstick.com/?ref=PCN Click link then use code \"PCN\" for $25 Off Buy a Morph2K https://www.pixelfx.co/product-page/morph-2k-analog-video-scaler?ref=PCN Buy a Zaparoo product (10% off) https://shop.zaparoo.com/discount/PixelCherryNinja or just enter code \"PixelCherryNinja\" Join the Pixel Cherry Ninja Gaming Discord https://discord.gg/5W9pCy2nXa Get it here https://github.com/tastyrepublic/spikeout-recomp Special thanks to channel Patreon's Silver Ninja's - John Gillotte, Meathax, RGM, SmoMo, VimDiesel Bronze Ninja's - Alessandro Gulli, Alexander Facchini, Anime0t4ku, anthony, Bjamiork, craigpow, Curt Dittmer, Ernie D, Fizzun Dirtnap, Juan Alvarez, Keith F. Kelly, Nicholas Robertson-Muir, Niallquinn, ncc1701p, Peter Davis, Rap, Scott Dowdle, Tamariel, theypsilon, ZXFace A special Thanks to all Channel Members I Really Really Like PCN! - RGM - Random Gaming Moments https://www.youtube.com/channel/UCIm6dft7oV92-zMCn4A6g2Q",
+   "repos": [
+    "github:tastyrepublic/spikeout-recomp"
+   ],
+   "firstSeen": "2026-11-17T13:39:44.494Z"
+  },
+  {
+   "title": "Shadow The Hedgehog Gets Unofficial Native PC Port",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1CRm5rTXVyYzF1bWQzOGQ5M0RMV2ROSzFBdGJwZnpqbFJSd09keGxQUHVuSE9KMDFNdkt0OVMyWUpzSlZrREtIaHBqd3lpQUtJZzlBenNiZHNka0lvUk9CYTVvTEsyNHRXU1J3am9JOHhjN1BnQjhHamFtVFU?oc=5",
+   "date": "2026-11-17T10:44:54.000Z",
+   "source": "Google News",
+   "outlet": "80 Level",
+   "summary": "",
+   "image": null,
+   "text": "Shadow The Hedgehog Gets Unofficial Native PC Port - 80 Level Shadow The Hedgehog Gets Unofficial Native PC Port 80 Level",
+   "repos": [],
+   "firstSeen": "2026-11-17T13:39:44.494Z"
+  },
+  {
+   "title": "Someone used Claude to make a 3D racing game that fits in an HTML file",
+   "url": "https://www.xda-developers.com/someone-used-claude-to-make-a-3d-racing-game-that-fits-in-an-html-file/",
+   "date": "2026-11-17T08:51:14.000Z",
+   "source": "XDA",
+   "outlet": "XDA",
+   "summary": "A possible start of a trend?",
+   "image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/macbook-showing-claude-with-the-canva-connector-beside-an-ipad-home-screen.jpeg",
+   "text": "Someone used Claude to make a 3D racing game that fits in an HTML file A little while ago, people were using Claude Code to create decompilations and ports of games for consoles and PCs. It created a huge gold rush where it felt like a new big-hitting decompilation was being released every day.",
+   "repos": [
+    "github:viktorkav/uno-com-escada"
+   ],
+   "firstSeen": "2026-11-17T13:39:44.494Z"
+  },
+  {
+   "title": "Good Night & Good Luck in Dying Light VR Mod - Native Stereo, Head-Tracking, & 6DOF Motion Controls",
+   "url": "https://www.youtube.com/watch?v=RlBKeiCZ8KY",
+   "date": "2026-11-17T07:14:20.000Z",
+   "source": "YouTube: FastLawyer",
+   "outlet": "YouTube: FastLawyer",
+   "summary": "I bought this game! Dying Light is a first-person action survival game set in a post-apocalyptic open world overrun by flesh-hungry zombies. Dying Light can now be played in Full VR thanks to the VR mod from Sadboi. Played on the Meta Quest 3 using Virtual Desktop on my RTX 5090. You can purchase game on Steam here: https://store.steampowered.com/app/239140/Dying_Light/ Thank you at Sadboi for mak",
+   "image": "https://i3.ytimg.com/vi/RlBKeiCZ8KY/hqdefault.jpg",
+   "text": "Good Night & Good Luck in Dying Light VR Mod - Native Stereo, Head-Tracking, & 6DOF Motion Controls I bought this game! Dying Light is a first-person action survival game set in a post-apocalyptic open world overrun by flesh-hungry zombies. Dying Light can now be played in Full VR thanks to the VR mod from Sadboi. Played on the Meta Quest 3 using Virtual Desktop on my RTX 5090. You can purchase game on Steam here: https://store.steampowered.com/app/239140/Dying_Light/ Thank you at Sadboi for making this great mod! VR mod download here: https://github.com/bymodify-ux/Dying-Light-VR Played version 1.0.2. Join my Steam Curator Group here: https://steamcommunity.com/groups/CIVRI",
+   "repos": [
+    "github:bymodify-ux/Dying-Light-VR"
+   ],
+   "firstSeen": "2026-11-17T13:39:44.494Z"
+  },
+  {
+   "title": "Shadow the Hedgehog Gets an 'Unofficial PC Port' — and It Isn’t Vibe Coded",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVUFoSi1MY3F6bEpzNDgwZHpBWmFZeWxJQ0ZZWWZjZHpPQmNBWFREMnIycEdyczQ0OHZEdEYzTHFuNEU4ZkUtenhNX1ozanppSUNSTVQ2LVBXNXlfbF83ZG0yazFIMHlUeEJVemVublh1ZmU4dVJFLV9IbTdSYWJqZDZPTVVMQ2ctX21EVW1STnpHZTZyZFZ1LW5FTlh4UWhheWpDdkNoVTFGazQ?oc=5",
+   "date": "2026-11-17T06:19:54.000Z",
+   "source": "Google News",
+   "outlet": "IGN",
+   "summary": "",
+   "image": null,
+   "text": "Shadow the Hedgehog Gets an 'Unofficial PC Port' — and It Isn’t Vibe Coded - IGN Shadow the Hedgehog Gets an 'Unofficial PC Port' — and It Isn’t Vibe Coded IGN",
+   "repos": [],
+   "firstSeen": "2026-11-17T13:39:44.494Z"
+  },
+  {
+   "title": "Draw Your Own Whimsical Fishes in this Game #drawquarium #vr #uevr #fish #aquarium #metaquest3",
+   "url": "https://www.youtube.com/shorts/x-nBv0v1YRw",
+   "date": "2026-11-17T06:00:03.000Z",
+   "source": "YouTube: FastLawyer",
+   "outlet": "YouTube: FastLawyer",
+   "summary": "Playing Drawquarium in VR with the UEVR Mod from Praydog (nightly version, Joey Hodge fork) on the Meta Quest 3 (PCVR).",
+   "image": "https://i1.ytimg.com/vi/x-nBv0v1YRw/hqdefault.jpg",
+   "text": "Draw Your Own Whimsical Fishes in this Game #drawquarium #vr #uevr #fish #aquarium #metaquest3 Playing Drawquarium in VR with the UEVR Mod from Praydog (nightly version, Joey Hodge fork) on the Meta Quest 3 (PCVR).",
+   "repos": [],
+   "firstSeen": "2026-11-17T13:39:44.494Z"
+  },
+  {
    "title": "Two Sonic the Hedgehog Recomps Out Now!",
    "url": "https://www.youtube.com/watch?v=ew9QEgIBssg",
    "date": "2026-11-17T02:00:29.000Z",
@@ -10397,18 +10502,6 @@
     "github:praydog/UEVR-nightly"
    ],
    "firstSeen": "2026-10-25T15:36:27.479Z"
-  },
-  {
-   "title": "\"Truly An Injustice\" - Looks Like This Mischief Makers Recomp Is Another Vibe-Coded Disappointment",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSEhIOWlZUXJnYWVhekZPSW1IcXV1LTNoVjBmbDlGMXVHc0dWc3I2dW9Zc3RkWlo5RHFJTlhraVFDWVNmWV9hdUh4amRDX1cza2FETnNaVXZPa29fOVdPQ0tGSWhTeThEdFlfRDdDTzZwYlE4eTljNlJTRWQxWWZOZHpVdzhCOFhFVEFNQlFGdUMwZEx0QVZZd1VtM21xN3MwVjJhTmhCUDVibFJuMEJUQnZMTlJGemxpNjc0SVNsRk1PYVhVSFFiMGdnbDlFRHRVS2Fn?oc=5",
-   "date": "2026-07-20T07:00:00.000Z",
-   "source": "Google News",
-   "outlet": "Time Extension",
-   "summary": "",
-   "image": null,
-   "text": "\"Truly An Injustice\" - Looks Like This Mischief Makers Recomp Is Another Vibe-Coded Disappointment - Time Extension \"Truly An Injustice\" - Looks Like This Mischief Makers Recomp Is Another Vibe-Coded Disappointment Time Extension",
-   "repos": [],
-   "firstSeen": "2026-10-24T12:47:37.455Z"
   }
  ]
 }
