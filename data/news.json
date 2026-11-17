@@ -1,6 +1,143 @@
 {
  "articles": [
   {
+   "title": "Command & Conquer Renegade VR Performance / New VR Mod with 6DOF Motion Controls / PCVR",
+   "url": "https://www.youtube.com/watch?v=yKvwoiV1hEA",
+   "date": "2026-11-17T22:26:19.000Z",
+   "source": "YouTube: NotAGameAddict",
+   "outlet": "YouTube: NotAGameAddict",
+   "summary": "00:00 - VR gameplay 06:28 - VR gameplay with FPS overlay Brutal Renegade VR mod made by SkarKasm - https://github.com/SkarKasm/Brutal-Renegade Command & Conquer Renegade - https://store.steampowered.com/app/2229890/Command_Conquer_Renegade/",
+   "image": "https://i2.ytimg.com/vi/yKvwoiV1hEA/hqdefault.jpg",
+   "text": "Command & Conquer Renegade VR Performance / New VR Mod with 6DOF Motion Controls / PCVR 00:00 - VR gameplay 06:28 - VR gameplay with FPS overlay Brutal Renegade VR mod made by SkarKasm - https://github.com/SkarKasm/Brutal-Renegade Command & Conquer Renegade - https://store.steampowered.com/app/2229890/Command_Conquer_Renegade/",
+   "repos": [
+    "github:SkarKasm/Brutal-Renegade"
+   ],
+   "firstSeen": "2026-11-17T23:34:42.428Z"
+  },
+  {
+   "title": "Daytona USA 2 Recomp Out NOW! FINALLY...and SO GOOD",
+   "url": "https://www.youtube.com/watch?v=s5XneA6pM7I",
+   "date": "2026-11-17T22:00:36.000Z",
+   "source": "YouTube: Video Game Esoterica",
+   "outlet": "YouTube: Video Game Esoterica",
+   "summary": "SUPPORT THE CHANNEL : http://www.patreon.com/VideoGameEsoterica A Sega Model 3 PC port is out now! A Daytona USA 2 recomp....aka a Daytona 2 recomp! Hot on the heels of the Scud Race PC port based upon a decomp...Sega racing fans are really winning lately! Two of the best racing games ever made, best arcade games ever AND best Sega games ever...on PC! Sure people are excited about Switch 2 recomps",
+   "image": "https://i4.ytimg.com/vi/s5XneA6pM7I/hqdefault.jpg",
+   "text": "Daytona USA 2 Recomp Out NOW! FINALLY...and SO GOOD SUPPORT THE CHANNEL : http://www.patreon.com/VideoGameEsoterica A Sega Model 3 PC port is out now! A Daytona USA 2 recomp....aka a Daytona 2 recomp! Hot on the heels of the Scud Race PC port based upon a decomp...Sega racing fans are really winning lately! Two of the best racing games ever made, best arcade games ever AND best Sega games ever...on PC! Sure people are excited about Switch 2 recomps and PS5 PC ports...but Daytona USA wins again! Check it out here: https://johannruiz.github.io/daytona-usa-2-web/ Questions? Comments? Just leave them below and I will do my best to answer each and every one of them! http://www.patreon.com/VideoGameEsoterica You can follow us at IG : ChicagoGameCollector , or join our Discord Server : https://discord.gg/6uFNZmHs8",
+   "repos": [],
+   "firstSeen": "2026-11-17T23:34:42.428Z"
+  },
+  {
+   "title": "Custom Firmware for Fortinet FortiGate 60 Firewall/Router",
+   "url": "https://hackaday.com/2026/11/17/custom-firmware-for-fortinet-fortigate-60-firewall-router/",
+   "date": "2026-11-17T21:00:26.000Z",
+   "source": "Hackaday",
+   "outlet": "Hackaday",
+   "summary": "When [Matt Williams] found an old enterprise firewall in the trash, he knew he had to do something with it. After cracking it open, he found that this 2000s-era Fortinet FortiGate …read more",
+   "image": "https://hackaday.com/wp-content/uploads/2026/11/Linux_fbdoom.jpg",
+   "text": "Custom Firmware for Fortinet FortiGate 60 Firewall/Router When [Matt Williams] found an old enterprise firewall in the trash, he knew he had to do something with it. After cracking it open, he found that this 2000s-era Fortinet FortiGate 60 hardware firewall has some very hackable hardware in the form of a VIA C3 mainboard. This is an x86-compatible CPU that was very popular in small form-factor and industrial solutions around 2000s, meaning that it should be able to run just about anything that's happy to run on its 400 MHz single core. Unfortunately it wasn't a standard Mini-ITX C3 board like the one that [Matt] also has kicking around, as that one features standard DIMMs for the memory modules. For this firewall the 128 MB of SDRAM was soldered to the board, with the only clue as to how to initialize it in the original firmware. Ergo this firmware had to be reverse-engineered to figure out just how this was supposed to happen. With that done, Linux 2.4 was happy enough to boot on it with a bit more tweaking. Using the framebuffer driver applications like DOOM happily ran, as the above graphic shows. That it's very much green is due to only the green pin on the VGA connector being probed. Since it's a firewall Fortinet only added a physical DE-9 port in addition to the internal IDE interface and CF card slot. If one were to wire up these pads on the mainboard to physical connectors, it would actually make for a pretty decent little system for what the kids call retro gaming",
+   "repos": [
+    "github:seishuku/FortiGate_Firmware"
+   ],
+   "firstSeen": "2026-11-17T23:34:42.428Z"
+  },
+  {
+   "title": "MiSTer NetLink, NES Improvements, Paprium, Fix-It Felix Jr, Amiga on DE25-NANO - 395",
+   "url": "https://www.youtube.com/watch?v=AgrKG9kFoI8",
+   "date": "2026-11-17T20:00:39.000Z",
+   "source": "YouTube: Pixel Cherry Ninja",
+   "outlet": "YouTube: Pixel Cherry Ninja",
+   "summary": "USE CODE \"PixelCherryNinja\" for 10% OFF https://fightboxarcade.com/ EARLY ACCESS TO NEWS VIDEOS AND OTHER EXCLUSIVES https://www.youtube.com/channel/UCEozS0uaZibXKTQSu10XgSw/join https://www.patreon.com/PixelCherryNinja Buy a Octopus TR Fightstick https://www.trfightstick.com/?ref=PCN Click link then use code \"PCN\" for $25 Off Buy a Morph2K https://www.pixelfx.co/product-page/morph-2k-analog-video",
+   "image": "https://i2.ytimg.com/vi/AgrKG9kFoI8/hqdefault.jpg",
+   "text": "MiSTer NetLink, NES Improvements, Paprium, Fix-It Felix Jr, Amiga on DE25-NANO - 395 USE CODE \"PixelCherryNinja\" for 10% OFF https://fightboxarcade.com/ EARLY ACCESS TO NEWS VIDEOS AND OTHER EXCLUSIVES https://www.youtube.com/channel/UCEozS0uaZibXKTQSu10XgSw/join https://www.patreon.com/PixelCherryNinja Buy a Octopus TR Fightstick https://www.trfightstick.com/?ref=PCN Click link then use code \"PCN\" for $25 Off Buy a Morph2K https://www.pixelfx.co/product-page/morph-2k-analog-video-scaler?ref=PCN Buy a Zaparoo product (10% off) https://shop.zaparoo.com/discount/PixelCherryNinja or just enter code \"PixelCherryNinja\" (affiliate links above) Join the Pixel Cherry Ninja Gaming Discord https://discord.gg/5W9pCy2nXa Find all the sources here https://pixelcherryninja.blogspot.com/ Special thanks to channel Patreon's Silver Ninja's - John Gillotte, Meathax, RGM, SmoMo, VimDiesel Bronze Ninja's - Alessandro Gulli, Alexander Facchini, Anime0t4ku, anthony, Bjamiork, craigpow, Curt Dittmer, Ernie D, Fizzun Dirtnap, Juan Alvarez, Keith F. Kelly, Nicholas Robertson-Muir, Niallquinn, ncc1701p, Peter Davis, Rap, Scott Dowdle, Tamariel, theypsilon, ZXFace A special Thanks to all Channel Members I Really Really Like PCN! - RGM - Random Gaming Moments https://www.youtube.com/channel/UCIm6dft7oV92-zMCn4A6g2Q I Really Like PCN! - Aleem Tayyab, Alphanu1, Anime0t4ku, ArinoSeb, Bjamiork, CryptoCSguy, Giuliano Pedersoli, Iñaki Etxebarria, Michael O’Hara, RaudoKun, Silent253, Terry BD, VolJoe I Like PC",
+   "repos": [],
+   "firstSeen": "2026-11-17T23:34:42.428Z"
+  },
+  {
+   "title": "Gravity Rush 2’s Native PC Port Is Incredible on the Steam Deck",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5tV2xpQ2pYMk4tQlZ0a2hocUdNWm5MbXk5cDF0YU5ibG9qU19fSDFOVjgzSVVHYk1kV20zWmxyRl82dUJXT2F4Z2xiOWVaeVdhVDlSbUdGTmZiaUdrR3Z5bGJGbHRsUEE1dnBBb1NNc1dhdkN3emU0Z2ZfZVR4cmM?oc=5",
+   "date": "2026-11-17T18:17:48.000Z",
+   "source": "Google News",
+   "outlet": "Steam Deck HQ",
+   "summary": "",
+   "image": null,
+   "text": "Gravity Rush 2’s Native PC Port Is Incredible on the Steam Deck - Steam Deck HQ Gravity Rush 2’s Native PC Port Is Incredible on the Steam Deck Steam Deck HQ",
+   "repos": [],
+   "firstSeen": "2026-11-17T23:34:42.428Z"
+  },
+  {
+   "title": "The FM-1: Open Source Hacked Open, Vibe Coding, and Farting Synthesizers",
+   "url": "https://hackaday.com/2026/11/17/the-fm-1-open-source-hacked-open-vibe-coding-and-farting-synthesizers/",
+   "date": "2026-11-17T18:00:07.000Z",
+   "source": "Hackaday",
+   "outlet": "Hackaday",
+   "summary": "The M-Vave FM-1 was a pretty unremarkable little synthesizer “toy” until the open-source synth hackers took it over. Now, it’s a sweet platform for exploration, the incredible work done by …read more",
+   "image": "https://hackaday.com/wp-content/uploads/2026/11/fm_1_featured.jpg",
+   "text": "The FM-1: Open Source Hacked Open, Vibe Coding, and Farting Synthesizers The M-Vave FM-1 was a pretty unremarkable little synthesizer “toy” until the open-source synth hackers took it over. Now, it’s a sweet platform for exploration, the incredible work done by the community has encouraged the manufacturer to release an open SDK, and it has recently taken the global synth nerd community by storm. (It has sadly also gotten about a 50% markup in the last month due to this popularity.) It’s the perfect storm of inexpensive hardware, vibe-coded software, and easy-to-use tooling that enables synthesizer firmware-hacking for the mainstream. It is also the fashionable box of the moment in a nerdy niche of the synthesizer world at the moment and it’s something that we’re going to see in non-synthesizer contexts as well, so buckle up. Opening Already Open Software The funny thing about the FM-1 is that most of the good stuff inside it was open-source all along. As it is sold, it is a Yamaha DX7 emulator, and it appears to be running the same sound engine as Dexed , which is an open-source DX7 clone based on the even older music synthesizer for android (msfa). Dexed, and its smaller brother MiniDexed , has given birth to many sweet synthesizer hacks that we’ve seen here, including a personal favorite: a Yamaha TX816 clone based on a Raspberry Pi . So it certainly looked to everyone at the time as if M-vave wrapped a not-entirely-inspiring user interface around this sound engine and shi",
+   "repos": [
+    "github:google/music-synthesizer-for-android",
+    "github:AL-255/FM-1-RE",
+    "github:hugelton/Felucca",
+    "github:isod89/sloop-fm1",
+    "github:m-vave/fm1_open",
+    "github:korginc/logue-sdk"
+   ],
+   "firstSeen": "2026-11-17T23:34:42.428Z"
+  },
+  {
+   "title": "The Witcher 2: Assassins of Kings Enhanced Edition / New VR Mod with First Person View / PCVR",
+   "url": "https://www.youtube.com/watch?v=PHxAepIL2gQ",
+   "date": "2026-11-17T16:12:27.000Z",
+   "source": "YouTube: NotAGameAddict",
+   "outlet": "YouTube: NotAGameAddict",
+   "summary": "00:00 - Third person 04:47 - First person 08:01 - VR gameplay with FPS overlay 13:18 - VR settings The Witcher 2 VR mod made by BerZerker96 - https://github.com/BerZerker96/Witcher2-VR The Witcher 2: Assassins of Kings Enhanced Edition - https://store.steampowered.com/app/20920/The_Witcher_2_Assassins_of_Kings_Enhanced_Edition/",
+   "image": "https://i1.ytimg.com/vi/PHxAepIL2gQ/hqdefault.jpg",
+   "text": "The Witcher 2: Assassins of Kings Enhanced Edition / New VR Mod with First Person View / PCVR 00:00 - Third person 04:47 - First person 08:01 - VR gameplay with FPS overlay 13:18 - VR settings The Witcher 2 VR mod made by BerZerker96 - https://github.com/BerZerker96/Witcher2-VR The Witcher 2: Assassins of Kings Enhanced Edition - https://store.steampowered.com/app/20920/The_Witcher_2_Assassins_of_Kings_Enhanced_Edition/",
+   "repos": [
+    "github:BerZerker96/Witcher2-VR"
+   ],
+   "firstSeen": "2026-11-17T23:34:42.428Z"
+  },
+  {
+   "title": "DonPachi Recompiled for PC - This Is Seriously Smooth!",
+   "url": "https://www.youtube.com/watch?v=Xlfqc4D7M2s",
+   "date": "2026-11-17T15:00:22.000Z",
+   "source": "YouTube: Pixel Cherry Ninja",
+   "outlet": "YouTube: Pixel Cherry Ninja",
+   "summary": "Ways to Support the Channel (some affiliate links) EARLY ACCESS TO NEWS VIDEOS AND OTHER EXCLUSIVES https://www.youtube.com/channel/UCEozS0uaZibXKTQSu10XgSw/join https://www.patreon.com/PixelCherryNinja Buy a FightBox R10-Pro Arcade Stick with Trackball & Spinner USE CODE \"PixelCherryNinja\" for 10% OFF https://fightboxarcade.com/collections/best-sellers/products/fightbox-r10-pro-arcade-fight-stick",
+   "image": "https://i1.ytimg.com/vi/Xlfqc4D7M2s/hqdefault.jpg",
+   "text": "DonPachi Recompiled for PC - This Is Seriously Smooth! Ways to Support the Channel (some affiliate links) EARLY ACCESS TO NEWS VIDEOS AND OTHER EXCLUSIVES https://www.youtube.com/channel/UCEozS0uaZibXKTQSu10XgSw/join https://www.patreon.com/PixelCherryNinja Buy a FightBox R10-Pro Arcade Stick with Trackball & Spinner USE CODE \"PixelCherryNinja\" for 10% OFF https://fightboxarcade.com/collections/best-sellers/products/fightbox-r10-pro-arcade-fight-stick-with-trackball-spinner-retro-game-controller-for-pc-ps3-switch Buy a Octopus TR Fightstick https://www.trfightstick.com/?ref=PCN Click link then use code \"PCN\" for $25 Off Buy a Morph2K https://www.pixelfx.co/product-page/morph-2k-analog-video-scaler?ref=PCN Buy a Zaparoo product (10% off) https://shop.zaparoo.com/discount/PixelCherryNinja or just enter code \"PixelCherryNinja\" Join the Pixel Cherry Ninja Gaming Discord https://discord.gg/5W9pCy2nXa Get it here https://github.com/CapsLock4284/DonPachi-Recomp Special thanks to channel Patreon's Silver Ninja's - John Gillotte, Meathax, RGM, SmoMo, VimDiesel Bronze Ninja's - Alessandro Gulli, Alexander Facchini, Anime0t4ku, anthony, Bjamiork, craigpow, Curt Dittmer, Ernie D, Fizzun Dirtnap, Juan Alvarez, Keith F. Kelly, Nicholas Robertson-Muir, Niallquinn, ncc1701p, Peter Davis, Rap, Scott Dowdle, Tamariel, theypsilon, ZXFace A special Thanks to all Channel Members I Really Really Like PCN! - RGM - Random Gaming Moments https://www.youtube.com/channel/UCIm6dft7oV92-zMCn4A6g2Q I Real",
+   "repos": [
+    "github:CapsLock4284/DonPachi-Recomp"
+   ],
+   "firstSeen": "2026-11-17T23:34:42.428Z"
+  },
+  {
+   "title": "Astro Bot Unofficial PC Port Now Runs at Over 60 FPS With Ray Tracing",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTzRPTzVxSWEyNExoMVV6aEF4NnZEQk1xTzR0MkpaNW94T2M5VU5ibWlxdjRiN1R4Mm5hUHpKZWZhVDl0X1Y0TlliUm5yZ0hjamdSNHZHaGRmTV9ucmRBaXA2MjZnNkk4eTh3cERnTmZ6UjRYZUxfU1BJOHRyT3VJOFJTd3BBR25VdENRZlZBbVFHVlF5ZGFoTW16eUc?oc=5",
+   "date": "2026-11-17T14:30:42.000Z",
+   "source": "Google News",
+   "outlet": "DSOGaming",
+   "summary": "",
+   "image": null,
+   "text": "Astro Bot Unofficial PC Port Now Runs at Over 60 FPS With Ray Tracing - DSOGaming Astro Bot Unofficial PC Port Now Runs at Over 60 FPS With Ray Tracing DSOGaming",
+   "repos": [],
+   "firstSeen": "2026-11-17T23:34:42.428Z"
+  },
+  {
+   "title": "Ratchet and Clank: A Crack in Time Recomp Out NOW! PS3 Recomp Fun",
+   "url": "https://www.youtube.com/watch?v=H_jeCdNIiiI",
+   "date": "2026-11-17T13:45:37.000Z",
+   "source": "YouTube: Video Game Esoterica",
+   "outlet": "YouTube: Video Game Esoterica",
+   "summary": "SUPPORT THE CHANNEL : http://www.patreon.com/VideoGameEsoterica Enjoy a new Ratchet and Clank recomp! A Ratchet and Clank: A Crack in Time recomp that is! A new PS3 recomp after we got a Ratchet and Clank: Tools of Destruction recomp! Yes we have PS4 PC ports, PS2 recomps, Switch recomps, N64 Recomps...and more! But its been a wait until we got our first PS3 recomp...and now we get a bunch more! A",
+   "image": "https://i1.ytimg.com/vi/H_jeCdNIiiI/hqdefault.jpg",
+   "text": "Ratchet and Clank: A Crack in Time Recomp Out NOW! PS3 Recomp Fun SUPPORT THE CHANNEL : http://www.patreon.com/VideoGameEsoterica Enjoy a new Ratchet and Clank recomp! A Ratchet and Clank: A Crack in Time recomp that is! A new PS3 recomp after we got a Ratchet and Clank: Tools of Destruction recomp! Yes we have PS4 PC ports, PS2 recomps, Switch recomps, N64 Recomps...and more! But its been a wait until we got our first PS3 recomp...and now we get a bunch more! A New PS3 recomp is out now and the PlayStation 3 recomp generation / PS3 PC port generation is kicking off now! PlayStation PC ports without PlayStation? SURE! Check it out here: https://github.com/HighDrexler/RACiT Questions? Comments? Just leave them below and I will do my best to answer each and every one of them! http://www.patreon.com/VideoGameEsoterica VGE",
+   "repos": [
+    "github:HighDrexler/RACiT"
+   ],
+   "firstSeen": "2026-11-17T23:34:42.428Z"
+  },
+  {
    "title": "The Xbox Version of Sonic's Edgy Spin-Off 'Shadow the Hedgehog' Just Got a Recomp, with a Ton of Great Enhancements",
    "url": "https://www.timeextension.com/news/2026/11/the-xbox-version-of-sonics-edgy-spin-off-shadow-the-hedgehog-just-got-a-recomp-with-a-ton-of-great-enhancements",
    "date": "2026-11-17T13:00:00.000Z",
