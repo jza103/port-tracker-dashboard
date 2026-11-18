@@ -27434,7 +27434,7 @@
   ]
  },
  "quiver": {
-  "updatedAt": "2026-11-18T07:43:56.086Z",
+  "updatedAt": "2026-11-18T17:22:23.764Z",
   "projects": [
    {
     "id": "thefixinhixon/splosionmanrecomp",
@@ -28967,7 +28967,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "ra2606",
+    "catalogVersion": "ra2611",
     "links": [
      {
       "label": "Quiver",
@@ -30318,7 +30318,7 @@
     "description": "AstralChain-PC is an unofficial Windows port of Astral Chain made by static recompilation with Vulkan support.",
     "developer": "Puddz",
     "targets": [],
-    "catalogVersion": "2026-11-17",
+    "catalogVersion": "2026-11-18.3",
     "links": [
      {
       "label": "Quiver",
@@ -30350,7 +30350,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v1.2.1",
+    "catalogVersion": "v1.2.3",
     "links": [
      {
       "label": "Quiver",
@@ -30479,7 +30479,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "1.8.7",
+    "catalogVersion": "1.9.0",
     "links": [
      {
       "label": "Quiver",
@@ -30513,7 +30513,7 @@
      "macOS",
      "Linux"
     ],
-    "catalogVersion": "v0.8.0",
+    "catalogVersion": "v0.8.1",
     "links": [
      {
       "label": "Quiver",
@@ -30988,6 +30988,38 @@
      }
     ],
     "image": "https://cdn2.steamgriddb.com/grid/2a5efddcf08d3f78afa4de13dc978dd1.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
+    "id": "efroemling/ballistica",
+    "aliases": [
+     "quiver:bombsquad-ballistica"
+    ],
+    "name": "Ballistica",
+    "game": "BombSquad",
+    "categories": [
+     "PC"
+    ],
+    "type": "recompilation",
+    "repo": {
+     "host": "github",
+     "path": "efroemling/ballistica"
+    },
+    "description": "Ballistica is the engine for BombSquad and other future projects, built on a C++ core with a Python layer for game logic.",
+    "developer": "efroemling",
+    "targets": [
+     "Linux"
+    ],
+    "catalogVersion": "v1.8.7",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/bombsquad-ballistica"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/60cabc1b49194c77953525a20c79ce37.png",
     "sources": [
      "quiver"
     ]
@@ -32583,7 +32615,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "v0.5.6",
+    "catalogVersion": "v0.5.7",
     "links": [
      {
       "label": "Quiver",
@@ -32745,7 +32777,7 @@
     "targets": [
      "macOS"
     ],
-    "catalogVersion": "v0.10.1",
+    "catalogVersion": "coop-test-1",
     "links": [
      {
       "label": "Quiver",
@@ -33177,7 +33209,7 @@
      "macOS",
      "Windows"
     ],
-    "catalogVersion": "nightly-44036560833",
+    "catalogVersion": "nightly-44252337178",
     "links": [
      {
       "label": "Quiver",
@@ -33657,7 +33689,7 @@
     "categories": [
      "SNES"
     ],
-    "type": "recompilation",
+    "type": "emulator",
     "repo": {
      "host": "github",
      "path": "bsnes-emu/bsnes"
@@ -33737,7 +33769,7 @@
      "macOS",
      "Windows"
     ],
-    "catalogVersion": "v0.1.39.6-R1.4",
+    "catalogVersion": "v0.1.39.6-R1.5",
     "links": [
      {
       "label": "Quiver",
@@ -34691,7 +34723,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "v1.13.0",
+    "catalogVersion": "v1.14.0",
     "links": [
      {
       "label": "Quiver",
@@ -34924,7 +34956,7 @@
      "macOS",
      "Windows"
     ],
-    "catalogVersion": "cdda-experimental-2026-11-18-0543",
+    "catalogVersion": "cdda-experimental-2026-11-18-1252",
     "links": [
      {
       "label": "Quiver",
@@ -35371,6 +35403,70 @@
     ]
    },
    {
+    "id": "gitlab:choria/code",
+    "aliases": [
+     "quiver:choria"
+    ],
+    "name": "choria",
+    "game": "choria",
+    "categories": [
+     "PC"
+    ],
+    "type": "port",
+    "repo": {
+     "host": "gitlab",
+     "path": "choria/code"
+    },
+    "description": "Finally, an MMORPG that's all about grinding and doing chores.",
+    "developer": "Alan Witkowski",
+    "targets": [
+     "Windows"
+    ],
+    "catalogVersion": "v1.1.2",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/choria"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/eaab6f7ff8c29ca90220d8ae6a09edb7.jpg",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
+    "id": "tidegear/chuchu-rocket-re-nyastered",
+    "aliases": [
+     "quiver:chuchu-rocket-chuchu-rocket-re-nyastered"
+    ],
+    "name": "ChuChu Rocket! Re-Nyastered",
+    "game": "ChuChu Rocket!",
+    "categories": [
+     "Dreamcast"
+    ],
+    "type": "reimplementation",
+    "repo": {
+     "host": "github",
+     "path": "TideGear/ChuChu-Rocket-Re-Nyastered"
+    },
+    "description": "ChuChu Rocket! Re-Nyastered is a reimplementation of ChuChu Rocket! for Windows that combines features from the Dreamcast, Game Boy Advance, iOS, and Android versions.",
+    "developer": "TideGear",
+    "targets": [
+     "Windows"
+    ],
+    "catalogVersion": "v2026.11.20",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/chuchu-rocket-chuchu-rocket-re-nyastered"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/7441ff48c2da3592c56dfd31d7338faf.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
     "id": "ioritree/kyoei_toshi_pc",
     "aliases": [
      "quiver:city-shrouded-in-shadow-city-shrouded-in-shadow-pc"
@@ -35531,6 +35627,38 @@
      }
     ],
     "image": "https://cdn2.steamgriddb.com/grid/a1bd57771a744bb9000a21f6e82187d3.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
+    "id": "legendarysavagegamer/clocktower3recompiled",
+    "aliases": [
+     "quiver:clock-tower-3-clock-tower-3-recompiled"
+    ],
+    "name": "Clock Tower 3 Recompiled",
+    "game": "Clock Tower 3",
+    "categories": [
+     "PlayStation 2"
+    ],
+    "type": "recompilation",
+    "repo": {
+     "host": "github",
+     "path": "LegendarySavageGamer/ClockTower3Recompiled"
+    },
+    "description": "Clock Tower 3 Recompiled is a native PC port of Clock Tower 3 for Windows that allows in-game settings adjustments.",
+    "developer": "ThyHeroOfTime",
+    "targets": [
+     "Windows"
+    ],
+    "catalogVersion": "1.4.0",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/clock-tower-3-clock-tower-3-recompiled"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/e66c60de95c9371fbabd7da9944984a3.png",
     "sources": [
      "quiver"
     ]
@@ -36623,6 +36751,38 @@
     ]
    },
    {
+    "id": "arkana-mechanika-studios/covert-action-enhanced",
+    "aliases": [
+     "quiver:covert-action-covert-action-enhanced"
+    ],
+    "name": "Covert Action Enhanced",
+    "game": "Sid Meier's Covert Action",
+    "categories": [
+     "PC"
+    ],
+    "type": "recompilation",
+    "repo": {
+     "host": "github",
+     "path": "Arkana-Mechanika-Studios/covert-action-enhanced"
+    },
+    "description": "Covert Action Enhanced is a native Windows port of Sid Meier's Covert Action, faithfully recreating the original game with options for mouse support and different sound cards.",
+    "developer": "Arkana Mechanika Studios",
+    "targets": [
+     "Windows"
+    ],
+    "catalogVersion": "v1.3.1",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/covert-action-covert-action-enhanced"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/fe509ad83ef98dc279ff72284f3189e6.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
     "id": "dariasteam/cows-revenge",
     "aliases": [
      "quiver:cow-s-revenge"
@@ -37107,7 +37267,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v0.9.0",
+    "catalogVersion": "v0.9.1",
     "links": [
      {
       "label": "Quiver",
@@ -38154,7 +38314,7 @@
      "macOS",
      "Windows"
     ],
-    "catalogVersion": "v3.1",
+    "catalogVersion": "v3.2",
     "links": [
      {
       "label": "Quiver",
@@ -38251,7 +38411,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "alpha-v0.3.5",
+    "catalogVersion": "alpha-v0.3.6",
     "links": [
      {
       "label": "Quiver",
@@ -38945,7 +39105,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "1.0.0",
+    "catalogVersion": "1.0.1",
     "links": [
      {
       "label": "Quiver",
@@ -40847,7 +41007,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.1.26",
+    "catalogVersion": "v0.1.28",
     "links": [
      {
       "label": "Quiver",
@@ -42544,7 +42704,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.7.33-beta",
+    "catalogVersion": "v0.7.35-beta",
     "links": [
      {
       "label": "Quiver",
@@ -42741,7 +42901,7 @@
      "Android",
      "Windows"
     ],
-    "catalogVersion": "snapshot-v1.13.1.20261117",
+    "catalogVersion": "snapshot-v1.13.1.20261118",
     "links": [
      {
       "label": "Quiver",
@@ -42905,7 +43065,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v0.1.14",
+    "catalogVersion": "v0.1.16",
     "links": [
      {
       "label": "Quiver",
@@ -44821,7 +44981,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "fritchii-v5.8.4",
+    "catalogVersion": "fritchii-v6.1",
     "links": [
      {
       "label": "Quiver",
@@ -45663,6 +45823,40 @@
     ]
    },
    {
+    "id": "jwvhewitt/gearhead-caramel",
+    "aliases": [
+     "quiver:gearhead-caramel"
+    ],
+    "name": "GearHead Caramel",
+    "game": "GearHead Caramel",
+    "categories": [
+     "PC"
+    ],
+    "type": "port",
+    "repo": {
+     "host": "github",
+     "path": "jwvhewitt/gearhead-caramel"
+    },
+    "description": "GearHead Caramel is a port of the third game in the GearHead series, written in Python.",
+    "developer": "jwvhewitt",
+    "targets": [
+     "Linux",
+     "macOS",
+     "Windows"
+    ],
+    "catalogVersion": "v1.022",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/gearhead-caramel"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/f1a013888af2044b84aa638a290a8d3a.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
     "id": "santiquiroz/gears-of-war-2-pc-port",
     "aliases": [
      "quiver:gears-of-war-2-gears-of-war-2-pc-port"
@@ -45756,6 +45950,40 @@
      }
     ],
     "image": "https://cdn2.steamgriddb.com/grid/90312847c3a184e8d643607b8bfb2094.jpg",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
+    "id": "mustaphatr/generals-alpha",
+    "aliases": [
+     "quiver:generals-alpha"
+    ],
+    "name": "Generals Alpha",
+    "game": "Generals Alpha",
+    "categories": [
+     "PC"
+    ],
+    "type": "port",
+    "repo": {
+     "host": "github",
+     "path": "MustaphaTR/Generals-Alpha"
+    },
+    "description": "Generals Alpha is an OpenRA mod that recreates Command & Conquer: Generals using Red Alert and Tiberian Dawn artworks.",
+    "developer": "MustaphaTR",
+    "targets": [
+     "Windows",
+     "Linux",
+     "macOS"
+    ],
+    "catalogVersion": "gen-20250825",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/generals-alpha"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/5ed5f2378df453a3c1079f09c66efa85.png",
     "sources": [
      "quiver"
     ]
@@ -46956,7 +47184,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "Pre-release-GR2port-2026-11-18-d5b2be037f15ec8a9b0f62de1efb3b22cb4cac13",
+    "catalogVersion": "v1.12",
     "links": [
      {
       "label": "Quiver",
@@ -47319,7 +47547,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "0.8.3",
+    "catalogVersion": "0.8.4",
     "links": [
      {
       "label": "Quiver",
@@ -47459,6 +47687,39 @@
      }
     ],
     "image": "https://cdn2.steamgriddb.com/grid/c8aa48a3667e7a29486f3f978b0e0279.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
+    "id": "trev82usa/guardians-of-heroes-static-recomp",
+    "aliases": [
+     "quiver:guardian-heroes-guardians-of-heroes"
+    ],
+    "name": "Guardians of Heroes",
+    "game": "Guardian Heroes",
+    "categories": [
+     "Xbox 360"
+    ],
+    "type": "recompilation",
+    "repo": {
+     "host": "github",
+     "path": "trev82usa/Guardians-of-Heroes-static-recomp"
+    },
+    "description": "Guardians of Heroes is a native Linux and Windows port of Guardian Heroes that supports 60 FPS at any resolution and up to 4 players on one PC.",
+    "developer": "trev82usa",
+    "targets": [
+     "Linux",
+     "Windows"
+    ],
+    "catalogVersion": "v0.3.0",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/guardian-heroes-guardians-of-heroes"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/d5fe985a5aec034fb20b323050485690.png",
     "sources": [
      "quiver"
     ]
@@ -48533,7 +48794,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "v1.7.0",
+    "catalogVersion": "v1.8.0",
     "links": [
      {
       "label": "Quiver",
@@ -49260,7 +49521,7 @@
      "macOS",
      "iOS"
     ],
-    "catalogVersion": "v0.11.9",
+    "catalogVersion": "v0.11.10",
     "links": [
      {
       "label": "Quiver",
@@ -49859,6 +50120,38 @@
      }
     ],
     "image": "https://cdn2.steamgriddb.com/grid/48b9c2af600b0d0aa1c231f4a5251eee.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
+    "id": "gitlab:irrlamb/code",
+    "aliases": [
+     "quiver:irrlamb"
+    ],
+    "name": "irrlamb",
+    "game": "irrlamb",
+    "categories": [
+     "PC"
+    ],
+    "type": "port",
+    "repo": {
+     "host": "gitlab",
+     "path": "irrlamb/code"
+    },
+    "description": "irrlamb is a 3D game that probably involves a lot of physics and frustrating gameplay.",
+    "developer": "Alan Witkowski",
+    "targets": [
+     "Windows"
+    ],
+    "catalogVersion": "v1.0.7",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/irrlamb"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/cebff2f948ad4a9f5e1378bf4fb46210.png",
     "sources": [
      "quiver"
     ]
@@ -52828,7 +53121,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v1.0.0-rc.11",
+    "catalogVersion": "nightly-140-87b70727",
     "links": [
      {
       "label": "Quiver",
@@ -52928,7 +53221,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v1.8.4",
+    "catalogVersion": "v1.8.5",
     "links": [
      {
       "label": "Quiver",
@@ -52960,7 +53253,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.1.2",
+    "catalogVersion": "v0.1.3",
     "links": [
      {
       "label": "Quiver",
@@ -53852,7 +54145,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v0.2.16",
+    "catalogVersion": "v0.2.17",
     "links": [
      {
       "label": "Quiver",
@@ -53885,7 +54178,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v0.2.25",
+    "catalogVersion": "v0.2.26",
     "links": [
      {
       "label": "Quiver",
@@ -54899,7 +55192,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v.0.4.1",
+    "catalogVersion": "v.0.5.0",
     "links": [
      {
       "label": "Quiver",
@@ -55625,7 +55918,7 @@
     "description": "MekHQ is a Java helper program for MegaMek that allows users to run a campaign.",
     "developer": "MegaMek",
     "targets": [],
-    "catalogVersion": "v0.51.01.8",
+    "catalogVersion": "v0.51.01.9",
     "links": [
      {
       "label": "Quiver",
@@ -55658,7 +55951,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "v0.9.211",
+    "catalogVersion": "v0.9.213",
     "links": [
      {
       "label": "Quiver",
@@ -56258,7 +56551,7 @@
      "Linux",
      "Android"
     ],
-    "catalogVersion": "0.17.7",
+    "catalogVersion": "0.17.8",
     "links": [
      {
       "label": "Quiver",
@@ -56420,7 +56713,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.1.2",
+    "catalogVersion": "v0.2.3",
     "links": [
      {
       "label": "Quiver",
@@ -56453,7 +56746,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "v2.7.4",
+    "catalogVersion": "v2.8",
     "links": [
      {
       "label": "Quiver",
@@ -56562,6 +56855,36 @@
      }
     ],
     "image": "https://cdn2.steamgriddb.com/grid/7a24d02eb0319677f00f4f83118487e9.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
+    "id": "anuken/mindustry",
+    "aliases": [
+     "quiver:mindustry"
+    ],
+    "name": "Mindustry",
+    "game": "Mindustry",
+    "categories": [
+     "PC"
+    ],
+    "type": "port",
+    "repo": {
+     "host": "github",
+     "path": "Anuken/Mindustry"
+    },
+    "description": "The automation tower defense RTS, written in Java.",
+    "developer": "Anuken",
+    "targets": [],
+    "catalogVersion": "v160.7",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/mindustry"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/16c9d5e82987fd3e7cb80f4064b1dce5.png",
     "sources": [
      "quiver"
     ]
@@ -56719,7 +57042,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "v1.4.0",
+    "catalogVersion": "v1.4.1",
     "links": [
      {
       "label": "Quiver",
@@ -57997,7 +58320,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v1.0.4",
+    "catalogVersion": "v1.0.5",
     "links": [
      {
       "label": "Quiver",
@@ -58618,7 +58941,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.9.3a",
+    "catalogVersion": "v0.9.3b",
     "links": [
      {
       "label": "Quiver",
@@ -58748,7 +59071,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.1.38",
+    "catalogVersion": "v0.1.39",
     "links": [
      {
       "label": "Quiver",
@@ -60074,7 +60397,7 @@
      "Windows",
      "Android"
     ],
-    "catalogVersion": "v0.1.8-beta",
+    "catalogVersion": "v0.1.13-beta",
     "links": [
      {
       "label": "Quiver",
@@ -60339,7 +60662,7 @@
     "targets": [
      "Android"
     ],
-    "catalogVersion": "v0.2",
+    "catalogVersion": "v0.3",
     "links": [
      {
       "label": "Quiver",
@@ -61078,7 +61401,7 @@
      "macOS",
      "Windows"
     ],
-    "catalogVersion": "v0.6.2",
+    "catalogVersion": "v0.6.5",
     "links": [
      {
       "label": "Quiver",
@@ -61286,6 +61609,38 @@
      }
     ],
     "image": "https://cdn2.steamgriddb.com/grid/93770d7c4fd32b3083adfb98e1ab381c.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
+    "id": "tidegear/opennighthawk",
+    "aliases": [
+     "quiver:f-117a-nighthawk-stealth-fighter-2-0-opennighthawk"
+    ],
+    "name": "OpenNighthawk",
+    "game": "F-117A Nighthawk Stealth Fighter 2.0",
+    "categories": [
+     "PC"
+    ],
+    "type": "recompilation",
+    "repo": {
+     "host": "github",
+     "path": "TideGear/OpenNighthawk"
+    },
+    "description": "OpenNighthawk is a Windows recompilation and decompilation of F-117A Nighthawk Stealth Fighter 2.0 that aims for 1:1 parity with the original game.",
+    "developer": "TideGear",
+    "targets": [
+     "Windows"
+    ],
+    "catalogVersion": "v2026.11.13",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/f-117a-nighthawk-stealth-fighter-2-0-opennighthawk"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/ee14945086d572755523c029963a5eab.png",
     "sources": [
      "quiver"
     ]
@@ -61583,7 +61938,7 @@
      "Windows",
      "Android"
     ],
-    "catalogVersion": "launcher-dev-feat-rac2-prebuilt",
+    "catalogVersion": "sdk-v1.20.0",
     "links": [
      {
       "label": "Quiver",
@@ -61819,7 +62174,7 @@
      "macOS",
      "Windows"
     ],
-    "catalogVersion": "v0.8.4",
+    "catalogVersion": "v0.8.5",
     "links": [
      {
       "label": "Quiver",
@@ -62054,7 +62409,7 @@
      "Windows",
      "macOS"
     ],
-    "catalogVersion": "v1.7.1",
+    "catalogVersion": "v1.7.2",
     "links": [
      {
       "label": "Quiver",
@@ -63604,7 +63959,7 @@
     "categories": [
      "PC"
     ],
-    "type": "recompilation",
+    "type": "emulator",
     "repo": {
      "host": "github",
      "path": "sarah-walker-pcem/pcem"
@@ -63650,7 +64005,7 @@
      "macOS",
      "Windows"
     ],
-    "catalogVersion": "v2.9.181",
+    "catalogVersion": "v2.9.183",
     "links": [
      {
       "label": "Quiver",
@@ -64012,7 +64367,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v0.1.15",
+    "catalogVersion": "v0.1.16",
     "links": [
      {
       "label": "Quiver",
@@ -64761,7 +65116,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v0.2.51",
+    "catalogVersion": "v0.2.53",
     "links": [
      {
       "label": "Quiver",
@@ -65123,7 +65478,7 @@
      "Windows",
      "iOS"
     ],
-    "catalogVersion": "v1.12.2.7-389",
+    "catalogVersion": "v1.12.2.8-390",
     "links": [
      {
       "label": "Quiver",
@@ -65523,7 +65878,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.4.2.1",
+    "catalogVersion": "v0.4.3.1",
     "links": [
      {
       "label": "Quiver",
@@ -65734,6 +66089,40 @@
     ]
    },
    {
+    "id": "bithack/principia",
+    "aliases": [
+     "quiver:principia"
+    ],
+    "name": "Principia",
+    "game": "Principia",
+    "categories": [
+     "PC"
+    ],
+    "type": "recompilation",
+    "repo": {
+     "host": "github",
+     "path": "Bithack/principia"
+    },
+    "description": "Principia is an open source sandbox physics game and the successor to Apparatus.",
+    "developer": "Principia community",
+    "targets": [
+     "Android",
+     "Windows",
+     "Linux"
+    ],
+    "catalogVersion": "2026.10.22",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/principia"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/0885bcb80685dab792ca2506bb3cc0e3.jpg",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
     "id": "prismlauncher/prismlauncher",
     "aliases": [
      "quiver:prism-launcher"
@@ -65903,7 +66292,7 @@
     "aliases": [
      "quiver:ssx-project-avalanche"
     ],
-    "name": "Project Avalanche",
+    "name": "Project Avalanche (SSX 2012 Port)",
     "game": "SSX",
     "categories": [
      "Xbox 360"
@@ -65913,7 +66302,7 @@
      "host": "github",
      "path": "MnkyArts/ProjectAvalanche"
     },
-    "description": "Project Avalanche is a native PC port of SSX built from the ground up in Rust, allowing players to experience the game on Windows and Linux.",
+    "description": "Project Avalanche is a native PC port of SSX 2012 built from the ground up in Rust, allowing players to experience the game on Windows and Linux.",
     "developer": "MnkyArts",
     "targets": [
      "Linux",
@@ -66599,7 +66988,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "deps-ffmpeg-n9.0.2-57-gd838f9f9ae",
+    "catalogVersion": "v0.5.2",
     "links": [
      {
       "label": "Quiver",
@@ -66607,6 +66996,39 @@
      }
     ],
     "image": "https://cdn2.steamgriddb.com/grid/54471ac958809fb5a9cf40c49f2fc7d8.jpg",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
+    "id": "cmdrlucid/project-friday",
+    "aliases": [
+     "quiver:landstalker-project-friday"
+    ],
+    "name": "Project-Friday",
+    "game": "Landstalker",
+    "categories": [
+     "Mega Drive"
+    ],
+    "type": "recompilation",
+    "repo": {
+     "host": "github",
+     "path": "CmdrLucid/Project-Friday"
+    },
+    "description": "Project-Friday is a native PC port of Landstalker for Sega Genesis that recompiles the game to native code and adds features like widescreen support and quick saves.",
+    "developer": "CmdrLucid",
+    "targets": [
+     "Windows",
+     "Linux"
+    ],
+    "catalogVersion": "v1.9.7",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/landstalker-project-friday"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/f6f184c693ec706dfd628495066a91af.png",
     "sources": [
      "quiver"
     ]
@@ -67200,7 +67622,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "a4o-v0.3.1",
+    "catalogVersion": "launcher-v0.4.0",
     "links": [
      {
       "label": "Quiver",
@@ -68650,7 +69072,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.2.3-beta.11",
+    "catalogVersion": "v0.2.3-beta.13",
     "links": [
      {
       "label": "Quiver",
@@ -69378,7 +69800,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v0.0.10",
+    "catalogVersion": "v0.1.0",
     "links": [
      {
       "label": "Quiver",
@@ -70544,6 +70966,40 @@
     ]
    },
    {
+    "id": "mustaphatr/romanovs-vengeance",
+    "aliases": [
+     "quiver:command-conquer-red-alert-2-romanov-s-vengeance"
+    ],
+    "name": "Romanov's Vengeance",
+    "game": "Command & Conquer: Red Alert 2",
+    "categories": [
+     "PC"
+    ],
+    "type": "reimplementation",
+    "repo": {
+     "host": "github",
+     "path": "MustaphaTR/Romanovs-Vengeance"
+    },
+    "description": "Romanov's Vengeance is an OpenRA mod for Command & Conquer: Red Alert 2 aiming for a balanced multiplayer experience with improvements from OpenRA and modern Command & Conquer games.",
+    "developer": "MustaphaTR",
+    "targets": [
+     "Windows",
+     "Linux",
+     "macOS"
+    ],
+    "catalogVersion": "playtest-20241215",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/command-conquer-red-alert-2-romanov-s-vengeance"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/6a02b3842ec0f28ab2a8705f684fa33f.jpg",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
     "id": "gminustwo/rondorecomp",
     "aliases": [
      "quiver:castlevania-rondo-of-blood-rondorecomp"
@@ -70586,7 +71042,7 @@
     "categories": [
      "Nintendo 64"
     ],
-    "type": "reimplementation",
+    "type": "emulator",
     "repo": {
      "host": "github",
      "path": "Rosalie241/RMG"
@@ -70748,7 +71204,7 @@
     "aliases": [
      "quiver:retro-engine-rsdkv4-decompilation"
     ],
-    "name": "RSDKv4 (Sonic 1 and 2 Mobile and Origins)",
+    "name": "RSDKv4 (Sonic 1 and 2 Mobile)",
     "game": "Sonic the Hedgehog",
     "categories": [
      "Mobile"
@@ -70837,6 +71293,38 @@
      }
     ],
     "image": "https://cdn2.steamgriddb.com/grid/8f1fbec081c675cb4641784029247c3b.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
+    "id": "wbalmung/rugrats-search-for-reptar-recomp",
+    "aliases": [
+     "quiver:rugrats-search-for-reptar-rugrats-search-for-reptar-recomp"
+    ],
+    "name": "Rugrats: Search for Reptar (Recomp)",
+    "game": "Rugrats: Search for Reptar",
+    "categories": [
+     "PlayStation"
+    ],
+    "type": "recompilation",
+    "repo": {
+     "host": "github",
+     "path": "wbalmung/Rugrats-Search-for-Reptar-Recomp"
+    },
+    "description": "Rugrats: Search for Reptar (Recomp) is a native PC port of Rugrats: Search for Reptar for Windows with widescreen support and high frame rates.",
+    "developer": "wbalmung",
+    "targets": [
+     "Windows"
+    ],
+    "catalogVersion": "pre-release",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/rugrats-search-for-reptar-rugrats-search-for-reptar-recomp"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/79709d10581bb926717ae722258bc531.jpg",
     "sources": [
      "quiver"
     ]
@@ -72344,7 +72832,7 @@
      "macOS",
      "Android"
     ],
-    "catalogVersion": "v0.70.0",
+    "catalogVersion": "v0.70.2",
     "links": [
      {
       "label": "Quiver",
@@ -72777,7 +73265,7 @@
      "macOS",
      "Windows"
     ],
-    "catalogVersion": "xbox360-alpha-1",
+    "catalogVersion": "uwp-alpha-1",
     "links": [
      {
       "label": "Quiver",
@@ -73235,7 +73723,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.4.0-beta.6",
+    "catalogVersion": "v0.4.0-beta.7",
     "links": [
      {
       "label": "Quiver",
@@ -74227,7 +74715,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v0.8.6",
+    "catalogVersion": "v0.8.6-switch2-alpha.1",
     "links": [
      {
       "label": "Quiver",
@@ -75332,6 +75820,38 @@
     ]
    },
    {
+    "id": "oneup03/srb2persona3d",
+    "aliases": [
+     "quiver:srb2-persona"
+    ],
+    "name": "SRB2 Persona",
+    "game": "SRB2 Persona",
+    "categories": [
+     "PC"
+    ],
+    "type": "port",
+    "repo": {
+     "host": "github",
+     "path": "oneup03/SRB2Persona3D"
+    },
+    "description": "SRB2 Persona is a 3D Sonic the Hedgehog fangame based on Doom Legacy that supports stereoscopic 3D with seven display modes.",
+    "developer": "oneup03",
+    "targets": [
+     "Windows"
+    ],
+    "catalogVersion": "latest",
+    "links": [
+     {
+      "label": "Quiver",
+      "url": "https://quiverlauncher.com/apps/srb2-persona"
+     }
+    ],
+    "image": "https://cdn2.steamgriddb.com/grid/b9528d938a3d6ac64865aee2324d84da.png",
+    "sources": [
+     "quiver"
+    ]
+   },
+   {
     "id": "cande/cherry",
     "aliases": [
      "quiver:sonic-robo-blast-2-srb2-cherry"
@@ -75449,7 +75969,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v0.2.50",
+    "catalogVersion": "v0.2.51",
     "links": [
      {
       "label": "Quiver",
@@ -76905,7 +77425,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v0.1.13",
+    "catalogVersion": "v0.1.14",
     "links": [
      {
       "label": "Quiver",
@@ -77397,7 +77917,7 @@
      "Windows",
      "Linux"
     ],
-    "catalogVersion": "v0.4.3",
+    "catalogVersion": "v0.4.5",
     "links": [
      {
       "label": "Quiver",
@@ -77462,7 +77982,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v0.1.13",
+    "catalogVersion": "v0.1.14",
     "links": [
      {
       "label": "Quiver",
@@ -78254,7 +78774,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "0.2.0-beta.3",
+    "catalogVersion": "0.2.0-beta.4",
     "links": [
      {
       "label": "Quiver",
@@ -78751,7 +79271,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v0.6.2",
+    "catalogVersion": "v0.7.0",
     "links": [
      {
       "label": "Quiver",
@@ -80360,7 +80880,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "v1.2.7",
+    "catalogVersion": "v1.2.8",
     "links": [
      {
       "label": "Quiver",
@@ -81576,7 +82096,7 @@
      "Android",
      "Linux"
     ],
-    "catalogVersion": "2.4.0",
+    "catalogVersion": "2.5.0",
     "links": [
      {
       "label": "Quiver",
@@ -81608,7 +82128,7 @@
     "targets": [
      "Windows"
     ],
-    "catalogVersion": "setup-v0.8.5",
+    "catalogVersion": "setup-v0.8.6",
     "links": [
      {
       "label": "Quiver",
@@ -81972,7 +82492,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v0.2.8",
+    "catalogVersion": "v0.2.9",
     "links": [
      {
       "label": "Quiver",
@@ -82005,7 +82525,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v0.2.7",
+    "catalogVersion": "v0.2.8",
     "links": [
      {
       "label": "Quiver",
@@ -82038,7 +82558,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v0.2.7",
+    "catalogVersion": "v0.2.8",
     "links": [
      {
       "label": "Quiver",
@@ -82240,7 +82760,7 @@
      "Linux",
      "macOS"
     ],
-    "catalogVersion": "2.0.2",
+    "catalogVersion": "2.0.3",
     "links": [
      {
       "label": "Quiver",
@@ -83777,12 +84297,8 @@
     },
     "description": "Vanilla Conquer is a port of the Command & Conquer: Tiberian Dawn engine for Windows, Linux, and macOS that provides bug fixes and quality of life improvements.",
     "developer": "TheAssemblyArmada",
-    "targets": [
-     "Linux",
-     "macOS",
-     "Windows"
-    ],
-    "catalogVersion": "latest",
+    "targets": [],
+    "catalogVersion": "",
     "links": [
      {
       "label": "Quiver",
@@ -85695,7 +86211,7 @@
      "macOS",
      "Linux"
     ],
-    "catalogVersion": "v0.9.15",
+    "catalogVersion": "v0.9.16",
     "links": [
      {
       "label": "Quiver",
@@ -86832,7 +87348,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "v0.2.18",
+    "catalogVersion": "dlaa-flash-test-2",
     "links": [
      {
       "label": "Quiver",
@@ -86865,7 +87381,7 @@
      "Linux",
      "Windows"
     ],
-    "catalogVersion": "test-0.1.21-fixes7",
+    "catalogVersion": "test-0.1.21-fixes8",
     "links": [
      {
       "label": "Quiver",
@@ -86921,7 +87437,7 @@
     "categories": [
      "Xbox"
     ],
-    "type": "recompilation",
+    "type": "emulator",
     "repo": {
      "host": "github",
      "path": "flowa1911you/xemu-sinden-lightgun"
@@ -87432,7 +87948,7 @@
      "Linux",
      "macOS"
     ],
-    "catalogVersion": "v0.97.2",
+    "catalogVersion": "v0.97.3",
     "links": [
      {
       "label": "Quiver",

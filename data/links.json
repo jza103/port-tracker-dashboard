@@ -199,6 +199,10 @@
   "discord": null,
   "checked": "2026-11-17"
  },
+ "github:aenu1/aps3e": {
+  "discord": null,
+  "checked": "2026-11-18"
+ },
  "github:aether-ar/aether-ar": {
   "discord": null,
   "checked": "2026-11-15"
@@ -651,6 +655,10 @@
   "discord": null,
   "checked": "2026-11-11"
  },
+ "github:anuken/mindustry": {
+  "discord": "https://discord.gg/mindustry",
+  "checked": "2026-11-18"
+ },
  "github:ao-libre/ao-cliente": {
   "discord": null,
   "checked": "2026-11-17"
@@ -714,6 +722,10 @@
  "github:arichmondphoto/dragonwarrior4nesrecomp": {
   "discord": null,
   "checked": "2026-11-15"
+ },
+ "github:arkana-mechanika-studios/covert-action-enhanced": {
+  "discord": null,
+  "checked": "2026-11-18"
  },
  "github:arkana-mechanika-studios/darklands-restoration": {
   "discord": "https://discord.gg/HjzWvmHhqZ",
@@ -1115,6 +1127,10 @@
   "discord": "https://discord.gg/TFc3hKD",
   "checked": "2026-11-11"
  },
+ "github:bithack/principia": {
+  "discord": null,
+  "checked": "2026-11-18"
+ },
  "github:bitsandbreakpoints/d-psx-pc-recomp": {
   "discord": null,
   "checked": "2026-11-15"
@@ -1286,6 +1302,10 @@
  "github:bryanthaboi/gen1recomp-mod-index": {
   "discord": null,
   "checked": "2026-11-11"
+ },
+ "github:bryanthaboi/pokemon-gen1-recomp-project": {
+  "discord": null,
+  "checked": "2026-11-18"
  },
  "github:bryantmh/rush2recompiled": {
   "discord": "https://discord.gg/nYfFAKMnyx",
@@ -1670,6 +1690,10 @@
  "github:clockwork-recompdev/clockwork": {
   "discord": null,
   "checked": "2026-11-12"
+ },
+ "github:cmdrlucid/project-friday": {
+  "discord": null,
+  "checked": "2026-11-18"
  },
  "github:cmpayc/arxlibertatisvr": {
   "discord": null,
@@ -2618,6 +2642,10 @@
  "github:efraim2704/bladeofdarknessvr": {
   "discord": null,
   "checked": "2026-11-17"
+ },
+ "github:efroemling/ballistica": {
+  "discord": null,
+  "checked": "2026-11-18"
  },
  "github:egerion/open-atomic-bomberman-97": {
   "discord": null,
@@ -4767,6 +4795,10 @@
   "discord": null,
   "checked": "2026-11-11"
  },
+ "github:jwvhewitt/gearhead-caramel": {
+  "discord": null,
+  "checked": "2026-11-18"
+ },
  "github:k0nl/b2recomp": {
   "discord": null,
   "checked": "2026-11-15"
@@ -4926,6 +4958,10 @@
  "github:king-ej/dolphin-spirit-ocean-mission-vr": {
   "discord": null,
   "checked": "2026-11-15"
+ },
+ "github:king-ej/ferocious-vr": {
+  "discord": null,
+  "checked": "2026-11-18"
  },
  "github:king-ej/high-entropy-challenges-vr": {
   "discord": null,
@@ -5134,6 +5170,10 @@
  "github:legend-of-dragoon-modding/severed-chains": {
   "discord": null,
   "checked": "2026-11-13"
+ },
+ "github:legendarysavagegamer/clocktower3recompiled": {
+  "discord": null,
+  "checked": "2026-11-18"
  },
  "github:leithsilver/mgsm": {
   "discord": null,
@@ -6085,59 +6125,59 @@
  },
  "github:mister-devel/arcade-bubsys_mister": {
   "discord": null,
-  "checked": "2026-11-10"
+  "checked": "2026-11-18"
  },
  "github:mister-devel/arcade-bubsysrom_mister": {
   "discord": null,
-  "checked": "2026-11-10"
+  "checked": "2026-11-18"
  },
  "github:mister-devel/arcade-burgertime_mister": {
   "discord": null,
-  "checked": "2026-11-10"
+  "checked": "2026-11-18"
  },
  "github:mister-devel/arcade-burningrubber_mister": {
   "discord": null,
-  "checked": "2026-11-10"
+  "checked": "2026-11-18"
  },
  "github:mister-devel/arcade-canyonbomber_mister": {
   "discord": null,
-  "checked": "2026-11-10"
+  "checked": "2026-11-18"
  },
  "github:mister-devel/arcade-cave_mister": {
   "discord": null,
-  "checked": "2026-11-10"
+  "checked": "2026-11-18"
  },
  "github:mister-devel/arcade-cavebanpresto_mister": {
   "discord": null,
-  "checked": "2026-11-10"
+  "checked": "2026-11-18"
  },
  "github:mister-devel/arcade-centipede_mister": {
   "discord": null,
-  "checked": "2026-11-10"
+  "checked": "2026-11-18"
  },
  "github:mister-devel/arcade-chameleon_mister": {
   "discord": null,
-  "checked": "2026-11-10"
+  "checked": "2026-11-18"
  },
  "github:mister-devel/arcade-championbaseball_mister": {
   "discord": null,
-  "checked": "2026-11-10"
+  "checked": "2026-11-18"
  },
  "github:mister-devel/arcade-chinagate_mister": {
   "discord": null,
-  "checked": "2026-11-10"
+  "checked": "2026-11-18"
  },
  "github:mister-devel/arcade-cityconnection_mister": {
   "discord": null,
-  "checked": "2026-11-10"
+  "checked": "2026-11-18"
  },
  "github:mister-devel/arcade-computerspace_mister": {
   "discord": null,
-  "checked": "2026-11-10"
+  "checked": "2026-11-18"
  },
  "github:mister-devel/arcade-congobongo_mister": {
   "discord": null,
-  "checked": "2026-11-10"
+  "checked": "2026-11-18"
  },
  "github:mister-devel/arcade-cosmic_mister": {
   "discord": null,
@@ -6145,79 +6185,79 @@
  },
  "github:mister-devel/arcade-cosmicguerilla_mister": {
   "discord": null,
-  "checked": "2026-11-10"
+  "checked": "2026-11-18"
  },
  "github:mister-devel/arcade-crazyballoon_mister": {
   "discord": null,
-  "checked": "2026-11-10"
+  "checked": "2026-11-18"
  },
  "github:mister-devel/arcade-crazyclimber_mister": {
   "discord": null,
-  "checked": "2026-11-10"
+  "checked": "2026-11-18"
  },
  "github:mister-devel/arcade-crazykong_mister": {
   "discord": null,
-  "checked": "2026-11-10"
+  "checked": "2026-11-18"
  },
  "github:mister-devel/arcade-crystalcastles_mister": {
   "discord": null,
-  "checked": "2026-11-10"
+  "checked": "2026-11-18"
  },
  "github:mister-devel/arcade-darius2ninjawarriors_mister": {
   "discord": null,
-  "checked": "2026-11-10"
+  "checked": "2026-11-18"
  },
  "github:mister-devel/arcade-darius2warriorblade_mister": {
   "discord": null,
-  "checked": "2026-11-10"
+  "checked": "2026-11-18"
  },
  "github:mister-devel/arcade-darius_mister": {
   "discord": null,
-  "checked": "2026-11-10"
+  "checked": "2026-11-18"
  },
  "github:mister-devel/arcade-dcon_mister": {
   "discord": null,
-  "checked": "2026-11-10"
+  "checked": "2026-11-18"
  },
  "github:mister-devel/arcade-deco16_mister": {
   "discord": null,
-  "checked": "2026-11-10"
+  "checked": "2026-11-18"
  },
  "github:mister-devel/arcade-decocassette_mister": {
   "discord": null,
-  "checked": "2026-11-10"
+  "checked": "2026-11-18"
  },
  "github:mister-devel/arcade-defender_mister": {
   "discord": null,
-  "checked": "2026-11-10"
+  "checked": "2026-11-18"
  },
  "github:mister-devel/arcade-denjinmakai_mister": {
   "discord": null,
-  "checked": "2026-11-10"
+  "checked": "2026-11-18"
  },
  "github:mister-devel/arcade-digdug_mister": {
   "discord": null,
-  "checked": "2026-11-10"
+  "checked": "2026-11-18"
  },
  "github:mister-devel/arcade-dominos_mister": {
   "discord": null,
-  "checked": "2026-11-10"
+  "checked": "2026-11-18"
  },
  "github:mister-devel/arcade-donkeykong3_mister": {
   "discord": null,
-  "checked": "2026-11-10"
+  "checked": "2026-11-18"
  },
  "github:mister-devel/arcade-donkeykong_mister": {
   "discord": null,
-  "checked": "2026-11-10"
+  "checked": "2026-11-18"
  },
  "github:mister-devel/arcade-donkeykongjunior_mister": {
   "discord": null,
-  "checked": "2026-11-10"
+  "checked": "2026-11-18"
  },
  "github:mister-devel/arcade-dottorikun_mister": {
   "discord": null,
-  "checked": "2026-11-10"
+  "checked": "2026-11-18"
  },
  "github:mister-devel/arcade-druaga_mister": {
   "discord": null,
@@ -6225,183 +6265,183 @@
  },
  "github:mister-devel/arcade-escape_mister": {
   "discord": null,
-  "checked": "2026-11-10"
+  "checked": "2026-11-18"
  },
  "github:mister-devel/arcade-exerion_mister": {
   "discord": null,
-  "checked": "2026-11-10"
+  "checked": "2026-11-18"
  },
  "github:mister-devel/arcade-exidy2_mister": {
   "discord": null,
-  "checked": "2026-11-10"
+  "checked": "2026-11-18"
  },
  "github:mister-devel/arcade-expressraider_mister": {
   "discord": null,
-  "checked": "2026-11-10"
+  "checked": "2026-11-18"
  },
  "github:mister-devel/arcade-finalizer_mister": {
   "discord": null,
-  "checked": "2026-11-10"
+  "checked": "2026-11-18"
  },
  "github:mister-devel/arcade-foodfight_mister": {
   "discord": null,
-  "checked": "2026-11-10"
+  "checked": "2026-11-18"
  },
  "github:mister-devel/arcade-freeze_mister": {
   "discord": null,
-  "checked": "2026-11-10"
+  "checked": "2026-11-18"
  },
  "github:mister-devel/arcade-frenzy_mister": {
   "discord": null,
-  "checked": "2026-11-10"
+  "checked": "2026-11-18"
  },
  "github:mister-devel/arcade-fuuki_mister": {
   "discord": null,
-  "checked": "2026-11-10"
+  "checked": "2026-11-18"
  },
  "github:mister-devel/arcade-galaga_mister": {
   "discord": null,
-  "checked": "2026-11-10"
+  "checked": "2026-11-18"
  },
  "github:mister-devel/arcade-galaxian_mister": {
   "discord": null,
-  "checked": "2026-11-10"
+  "checked": "2026-11-18"
  },
  "github:mister-devel/arcade-galivan_mister": {
   "discord": null,
-  "checked": "2026-11-10"
+  "checked": "2026-11-18"
  },
  "github:mister-devel/arcade-gaplus_mister": {
   "discord": null,
-  "checked": "2026-11-10"
+  "checked": "2026-11-18"
  },
  "github:mister-devel/arcade-gauntlet_mister": {
   "discord": null,
-  "checked": "2026-11-10"
+  "checked": "2026-11-18"
  },
  "github:mister-devel/arcade-godzilla_mister": {
   "discord": null,
-  "checked": "2026-11-10"
+  "checked": "2026-11-18"
  },
  "github:mister-devel/arcade-guardians_mister": {
   "discord": null,
-  "checked": "2026-11-10"
+  "checked": "2026-11-18"
  },
  "github:mister-devel/arcade-gulfwarii_mister": {
   "discord": null,
-  "checked": "2026-11-10"
+  "checked": "2026-11-18"
  },
  "github:mister-devel/arcade-gundamsd_mister": {
   "discord": null,
-  "checked": "2026-11-10"
+  "checked": "2026-11-18"
  },
  "github:mister-devel/arcade-gyruss_mister": {
   "discord": null,
-  "checked": "2026-11-10"
+  "checked": "2026-11-18"
  },
  "github:mister-devel/arcade-heatedbarrel_mister": {
   "discord": null,
-  "checked": "2026-11-10"
+  "checked": "2026-11-18"
  },
  "github:mister-devel/arcade-hyperduel_mister": {
   "discord": null,
-  "checked": "2026-11-10"
+  "checked": "2026-11-18"
  },
  "github:mister-devel/arcade-igspgm_mister": {
   "discord": null,
-  "checked": "2026-11-10"
+  "checked": "2026-11-18"
  },
  "github:mister-devel/arcade-ikariwarriors_mister": {
   "discord": null,
-  "checked": "2026-11-10"
+  "checked": "2026-11-18"
  },
  "github:mister-devel/arcade-inferno_mister": {
   "discord": null,
-  "checked": "2026-11-10"
+  "checked": "2026-11-18"
  },
  "github:mister-devel/arcade-iremm107_mister": {
   "discord": null,
-  "checked": "2026-11-10"
+  "checked": "2026-11-18"
  },
  "github:mister-devel/arcade-iremm62_mister": {
   "discord": null,
-  "checked": "2026-11-10"
+  "checked": "2026-11-18"
  },
  "github:mister-devel/arcade-iremm72_mister": {
   "discord": null,
-  "checked": "2026-11-10"
+  "checked": "2026-11-18"
  },
  "github:mister-devel/arcade-iremm90_mister": {
   "discord": null,
-  "checked": "2026-11-10"
+  "checked": "2026-11-18"
  },
  "github:mister-devel/arcade-iremm92_mister": {
   "discord": null,
-  "checked": "2026-11-10"
+  "checked": "2026-11-18"
  },
  "github:mister-devel/arcade-ironhorse_mister": {
   "discord": null,
-  "checked": "2026-11-10"
+  "checked": "2026-11-18"
  },
  "github:mister-devel/arcade-jackal_mister": {
   "discord": null,
-  "checked": "2026-11-10"
+  "checked": "2026-11-18"
  },
  "github:mister-devel/arcade-jailbreak_mister": {
   "discord": null,
-  "checked": "2026-11-10"
+  "checked": "2026-11-18"
  },
  "github:mister-devel/arcade-joust2_mister": {
   "discord": null,
-  "checked": "2026-11-10"
+  "checked": "2026-11-18"
  },
  "github:mister-devel/arcade-junofirst_mister": {
   "discord": null,
-  "checked": "2026-11-10"
+  "checked": "2026-11-18"
  },
  "github:mister-devel/arcade-kangaroo_mister": {
   "discord": null,
-  "checked": "2026-11-10"
+  "checked": "2026-11-18"
  },
  "github:mister-devel/arcade-kickandrun_mister": {
   "discord": null,
-  "checked": "2026-11-10"
+  "checked": "2026-11-18"
  },
  "github:mister-devel/arcade-klax_mister": {
   "discord": null,
-  "checked": "2026-11-10"
+  "checked": "2026-11-18"
  },
  "github:mister-devel/arcade-kyugo_mister": {
   "discord": null,
-  "checked": "2026-11-10"
+  "checked": "2026-11-18"
  },
  "github:mister-devel/arcade-ladybug_mister": {
   "discord": null,
-  "checked": "2026-11-10"
+  "checked": "2026-11-18"
  },
  "github:mister-devel/arcade-laserdiscgames_mister": {
   "discord": null,
-  "checked": "2026-11-10"
+  "checked": "2026-11-18"
  },
  "github:mister-devel/arcade-legionnaire_mister": {
   "discord": null,
-  "checked": "2026-11-10"
+  "checked": "2026-11-18"
  },
  "github:mister-devel/arcade-leland_mister": {
   "discord": null,
-  "checked": "2026-11-10"
+  "checked": "2026-11-18"
  },
  "github:mister-devel/arcade-majorhavoc_mister": {
   "discord": null,
-  "checked": "2026-11-10"
+  "checked": "2026-11-18"
  },
  "github:mister-devel/arcade-marblemadness2_mister": {
   "discord": null,
-  "checked": "2026-11-10"
+  "checked": "2026-11-18"
  },
  "github:mister-devel/arcade-mariobros_mister": {
   "discord": null,
-  "checked": "2026-11-10"
+  "checked": "2026-11-18"
  },
  "github:mister-devel/arcade-mcr1_mister": {
   "discord": null,
@@ -6429,119 +6469,119 @@
  },
  "github:mister-devel/arcade-missilecommand_mister": {
   "discord": null,
-  "checked": "2026-11-10"
+  "checked": "2026-11-18"
  },
  "github:mister-devel/arcade-moonpatrol_mister": {
   "discord": null,
-  "checked": "2026-11-10"
+  "checked": "2026-11-18"
  },
  "github:mister-devel/arcade-mrdo_mister": {
   "discord": null,
-  "checked": "2026-11-10"
+  "checked": "2026-11-18"
  },
  "github:mister-devel/arcade-mrjong_mister": {
   "discord": null,
-  "checked": "2026-11-10"
+  "checked": "2026-11-18"
  },
  "github:mister-devel/arcade-mysticmarathon_mister": {
   "discord": null,
-  "checked": "2026-11-10"
+  "checked": "2026-11-18"
  },
  "github:mister-devel/arcade-naughtyboy_mister": {
   "discord": null,
-  "checked": "2026-11-10"
+  "checked": "2026-11-18"
  },
  "github:mister-devel/arcade-nightslashers_mister": {
   "discord": null,
-  "checked": "2026-11-10"
+  "checked": "2026-11-18"
  },
  "github:mister-devel/arcade-ninjakun_mister": {
   "discord": null,
-  "checked": "2026-11-10"
+  "checked": "2026-11-18"
  },
  "github:mister-devel/arcade-offthewall_mister": {
   "discord": null,
-  "checked": "2026-11-10"
+  "checked": "2026-11-18"
  },
  "github:mister-devel/arcade-pacman_mister": {
   "discord": null,
-  "checked": "2026-11-10"
+  "checked": "2026-11-18"
  },
  "github:mister-devel/arcade-pengo_mister": {
   "discord": null,
-  "checked": "2026-11-10"
+  "checked": "2026-11-18"
  },
  "github:mister-devel/arcade-penguinkunwars_mister": {
   "discord": null,
-  "checked": "2026-11-10"
+  "checked": "2026-11-18"
  },
  "github:mister-devel/arcade-performan_mister": {
   "discord": null,
-  "checked": "2026-11-10"
+  "checked": "2026-11-18"
  },
  "github:mister-devel/arcade-phoenix_mister": {
   "discord": null,
-  "checked": "2026-11-10"
+  "checked": "2026-11-18"
  },
  "github:mister-devel/arcade-pinballaction": {
   "discord": null,
-  "checked": "2026-11-10"
+  "checked": "2026-11-18"
  },
  "github:mister-devel/arcade-pleiads_mister": {
   "discord": null,
-  "checked": "2026-11-10"
+  "checked": "2026-11-18"
  },
  "github:mister-devel/arcade-poleposition_mister": {
   "discord": null,
-  "checked": "2026-11-10"
+  "checked": "2026-11-18"
  },
  "github:mister-devel/arcade-polyplay_mister": {
   "discord": null,
-  "checked": "2026-11-10"
+  "checked": "2026-11-18"
  },
  "github:mister-devel/arcade-pong_mister": {
   "discord": null,
-  "checked": "2026-11-10"
+  "checked": "2026-11-18"
  },
  "github:mister-devel/arcade-pooyan_mister": {
   "discord": null,
-  "checked": "2026-11-10"
+  "checked": "2026-11-18"
  },
  "github:mister-devel/arcade-popeye_mister": {
   "discord": null,
-  "checked": "2026-11-10"
+  "checked": "2026-11-18"
  },
  "github:mister-devel/arcade-primalrage_mister": {
   "discord": null,
-  "checked": "2026-11-10"
+  "checked": "2026-11-18"
  },
  "github:mister-devel/arcade-psikyo_mister": {
   "discord": null,
-  "checked": "2026-11-10"
+  "checked": "2026-11-18"
  },
  "github:mister-devel/arcade-psikyosh2_mister": {
   "discord": null,
-  "checked": "2026-11-10"
+  "checked": "2026-11-18"
  },
  "github:mister-devel/arcade-psychic5_mister": {
   "discord": null,
-  "checked": "2026-11-10"
+  "checked": "2026-11-18"
  },
  "github:mister-devel/arcade-qbert_mister": {
   "discord": null,
-  "checked": "2026-11-10"
+  "checked": "2026-11-18"
  },
  "github:mister-devel/arcade-qix_mister": {
   "discord": null,
-  "checked": "2026-11-10"
+  "checked": "2026-11-18"
  },
  "github:mister-devel/arcade-raiden2_mister": {
   "discord": null,
-  "checked": "2026-11-10"
+  "checked": "2026-11-18"
  },
  "github:mister-devel/arcade-raiden_mister": {
   "discord": null,
-  "checked": "2026-11-10"
+  "checked": "2026-11-18"
  },
  "github:mister-devel/arcade-raizingmd_mister": {
   "discord": null,
@@ -6549,55 +6589,55 @@
  },
  "github:mister-devel/arcade-rallyx_mister": {
   "discord": null,
-  "checked": "2026-11-10"
+  "checked": "2026-11-18"
  },
  "github:mister-devel/arcade-rampart_mister": {
   "discord": null,
-  "checked": "2026-11-10"
+  "checked": "2026-11-18"
  },
  "github:mister-devel/arcade-reliefpitcher_mister": {
   "discord": null,
-  "checked": "2026-11-10"
+  "checked": "2026-11-18"
  },
  "github:mister-devel/arcade-ringking_mister": {
   "discord": null,
-  "checked": "2026-11-10"
+  "checked": "2026-11-18"
  },
  "github:mister-devel/arcade-riverpatrol_mister": {
   "discord": null,
-  "checked": "2026-11-10"
+  "checked": "2026-11-18"
  },
  "github:mister-devel/arcade-robotron_mister": {
   "discord": null,
-  "checked": "2026-11-10"
+  "checked": "2026-11-18"
  },
  "github:mister-devel/arcade-rushnattack_mister": {
   "discord": null,
-  "checked": "2026-11-10"
+  "checked": "2026-11-18"
  },
  "github:mister-devel/arcade-salamander_mister": {
   "discord": null,
-  "checked": "2026-11-10"
+  "checked": "2026-11-18"
  },
  "github:mister-devel/arcade-scootershooter_mister": {
   "discord": null,
-  "checked": "2026-11-10"
+  "checked": "2026-11-18"
  },
  "github:mister-devel/arcade-scramble_mister": {
   "discord": null,
-  "checked": "2026-11-10"
+  "checked": "2026-11-18"
  },
  "github:mister-devel/arcade-sdgundamrainbow_mister": {
   "discord": null,
-  "checked": "2026-11-10"
+  "checked": "2026-11-18"
  },
  "github:mister-devel/arcade-segag80v_mister": {
   "discord": null,
-  "checked": "2026-11-10"
+  "checked": "2026-11-18"
  },
  "github:mister-devel/arcade-segasys1_mister": {
   "discord": null,
-  "checked": "2026-11-10"
+  "checked": "2026-11-18"
  },
  "github:mister-devel/arcade-segasystem32_mister": {
   "discord": null,
@@ -6605,27 +6645,27 @@
  },
  "github:mister-devel/arcade-segavco_mister": {
   "discord": null,
-  "checked": "2026-11-10"
+  "checked": "2026-11-18"
  },
  "github:mister-devel/arcade-segavicz80_mister": {
   "discord": null,
-  "checked": "2026-11-10"
+  "checked": "2026-11-18"
  },
  "github:mister-devel/arcade-segaxboard_mister": {
   "discord": null,
-  "checked": "2026-11-10"
+  "checked": "2026-11-18"
  },
  "github:mister-devel/arcade-shuuz_mister": {
   "discord": null,
-  "checked": "2026-11-10"
+  "checked": "2026-11-18"
  },
  "github:mister-devel/arcade-silverland_mister": {
   "discord": null,
-  "checked": "2026-11-10"
+  "checked": "2026-11-18"
  },
  "github:mister-devel/arcade-skullxbones_mister": {
   "discord": null,
-  "checked": "2026-11-10"
+  "checked": "2026-11-18"
  },
  "github:mister-devel/arcade-slapfight_mister": {
   "discord": null,
@@ -7843,9 +7883,17 @@
   "discord": "https://discord.gg/Hb8tUsaHrW",
   "checked": "2026-11-13"
  },
+ "github:mustaphatr/generals-alpha": {
+  "discord": null,
+  "checked": "2026-11-18"
+ },
  "github:mustaphatr/mustaphatr-s-d2k-mod": {
   "discord": null,
   "checked": "2026-11-15"
+ },
+ "github:mustaphatr/romanovs-vengeance": {
+  "discord": "https://discord.gg/SrvArjQ",
+  "checked": "2026-11-18"
  },
  "github:mustaphatr/sole-survivor": {
   "discord": null,
@@ -8486,6 +8534,10 @@
  "github:oneup03/goemon64recomp3d": {
   "discord": null,
   "checked": "2026-11-11"
+ },
+ "github:oneup03/srb2persona3d": {
+  "discord": null,
+  "checked": "2026-11-18"
  },
  "github:oofz/vrmod-releases": {
   "discord": null,
@@ -9879,6 +9931,10 @@
   "discord": null,
   "checked": "2026-11-12"
  },
+ "github:rommapp/argosy-launcher": {
+  "discord": null,
+  "checked": "2026-11-18"
+ },
  "github:ronniecloud/re-wor": {
   "discord": null,
   "checked": "2026-11-13"
@@ -10186,6 +10242,10 @@
  "github:segovia-no/motoracerrecomp": {
   "discord": null,
   "checked": "2026-11-15"
+ },
+ "github:seleuco/mame4droid-current": {
+  "discord": null,
+  "checked": "2026-11-18"
  },
  "github:senhorflibble/astroseries": {
   "discord": null,
@@ -10624,6 +10684,10 @@
   "checked": "2026-11-15"
  },
  "github:space-wizards/space-station-14": {
+  "discord": null,
+  "checked": "2026-11-18"
+ },
+ "github:space001000/ddds-declassify": {
   "discord": null,
   "checked": "2026-11-18"
  },
@@ -11567,6 +11631,14 @@
   "discord": null,
   "checked": "2026-11-18"
  },
+ "github:tidegear/chuchu-rocket-re-nyastered": {
+  "discord": null,
+  "checked": "2026-11-18"
+ },
+ "github:tidegear/opennighthawk": {
+  "discord": null,
+  "checked": "2026-11-18"
+ },
  "github:tig3rmast3r/ofxr-bridge": {
   "discord": "https://discord.gg/flat2vr",
   "checked": "2026-11-10"
@@ -11731,6 +11803,10 @@
   "discord": null,
   "checked": "2026-11-12"
  },
+ "github:trev82usa/guardians-of-heroes-static-recomp": {
+  "discord": null,
+  "checked": "2026-11-18"
+ },
  "github:trevtv/dawnvr": {
   "discord": null,
   "checked": "2026-11-16"
@@ -11874,6 +11950,10 @@
  "github:urxp/drally": {
   "discord": null,
   "checked": "2026-11-11"
+ },
+ "github:utkarshdalal/gamenative": {
+  "discord": "https://discord.gg/2hKv4VfZfE",
+  "checked": "2026-11-18"
  },
  "github:uzdoom/uzdoom": {
   "discord": null,
@@ -12130,6 +12210,10 @@
  "github:wavebend/frostytoolsuite": {
   "discord": null,
   "checked": "2026-11-15"
+ },
+ "github:wbalmung/rugrats-search-for-reptar-recomp": {
+  "discord": null,
+  "checked": "2026-11-18"
  },
  "github:wearrrrr/9launcher": {
   "discord": "https://discord.gg/zxksAmB4am",
@@ -12623,6 +12707,10 @@
   "discord": null,
   "checked": "2026-11-13"
  },
+ "gitlab:choria/code": {
+  "discord": null,
+  "checked": "2026-11-18"
+ },
  "gitlab:dringgstein/commander-genius": {
   "discord": null,
   "checked": "2026-11-12"
@@ -12646,6 +12734,10 @@
  "gitlab:gardens-of-kadesh/gardens-of-kadesh": {
   "discord": null,
   "checked": "2026-11-13"
+ },
+ "gitlab:irrlamb/code": {
+  "discord": null,
+  "checked": "2026-11-18"
  },
  "gitlab:m210/buildgdx": {
   "discord": null,
