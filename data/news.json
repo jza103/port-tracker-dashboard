@@ -1,6 +1,126 @@
 {
  "articles": [
   {
+   "title": "Switch 2 Emulation and Recomps Go WILD! Big Progress Made",
+   "url": "https://www.youtube.com/watch?v=iAEj0ewQQJ4",
+   "date": "2026-11-19T22:00:35.000Z",
+   "source": "YouTube: Video Game Esoterica",
+   "outlet": "YouTube: Video Game Esoterica",
+   "summary": "SUPPORT THE CHANNEL : http://www.patreon.com/VideoGameEsoterica Switch 2 emulators exist, a Switch 2 Ocarina of Time recomp exists as does a Donkey Kong Bananza Recomp...along with a Mario Kart World recomp...and more Switch 2 emulation is in development...and more Switch 2 news for everyone...through a mosaic! This is a pivot on my previous Nintendo Switch 2 news video with all of the different N",
+   "image": "https://i2.ytimg.com/vi/iAEj0ewQQJ4/hqdefault.jpg",
+   "text": "Switch 2 Emulation and Recomps Go WILD! Big Progress Made SUPPORT THE CHANNEL : http://www.patreon.com/VideoGameEsoterica Switch 2 emulators exist, a Switch 2 Ocarina of Time recomp exists as does a Donkey Kong Bananza Recomp...along with a Mario Kart World recomp...and more Switch 2 emulation is in development...and more Switch 2 news for everyone...through a mosaic! This is a pivot on my previous Nintendo Switch 2 news video with all of the different Nintendo Switch 2 discoveries being made lately...with humor! Because people keep asking about whether or not you can run a Nintendo Switch 2 game on your PC? or your iPhone? and while you WONT find the answer to that here...we are going to talk about the current Nintendo Switch 2 news in a fun way :) all while using ZERO Mario Kart World footage Vorace: https://www.youtube.com/watch?v=it0eJmvFVlU iBied: https://www.youtube.com/@iBied NBW Doughboy: https://www.youtube.com/@NBWDOUGHBOY Note: There is no INSTRUCTION, EXPLANATION, GUIDES on any HOW in this video nor will there ever be on this channel. This video is purely news based on Nintendo Switch 2 news and nothing else Questions? Comments? Just leave them below and I will do my best to answer each and every one of them! http://www.patreon.com/VideoGameEsoterica VGE",
+   "repos": [],
+   "firstSeen": "2026-11-19T23:07:39.871Z"
+  },
+  {
+   "title": "MiSTer Konami Polygonet, Analogue 3DOS Wi-Fi, Killer Instinct Arcade Analogue Pocket & More - 397",
+   "url": "https://www.youtube.com/watch?v=yfm9T-In_xA",
+   "date": "2026-11-19T20:00:22.000Z",
+   "source": "YouTube: Pixel Cherry Ninja",
+   "outlet": "YouTube: Pixel Cherry Ninja",
+   "summary": "USE CODE \"PixelCherryNinja\" for 10% OFF https://fightboxarcade.com/ EARLY ACCESS TO NEWS VIDEOS AND OTHER EXCLUSIVES https://www.youtube.com/channel/UCEozS0uaZibXKTQSu10XgSw/join https://www.patreon.com/PixelCherryNinja Buy a Octopus TR Fightstick https://www.trfightstick.com/?ref=PCN Click link then use code \"PCN\" for $25 Off Buy a Morph2K https://www.pixelfx.co/product-page/morph-2k-analog-video",
+   "image": "https://i2.ytimg.com/vi/yfm9T-In_xA/hqdefault.jpg",
+   "text": "MiSTer Konami Polygonet, Analogue 3DOS Wi-Fi, Killer Instinct Arcade Analogue Pocket & More - 397 USE CODE \"PixelCherryNinja\" for 10% OFF https://fightboxarcade.com/ EARLY ACCESS TO NEWS VIDEOS AND OTHER EXCLUSIVES https://www.youtube.com/channel/UCEozS0uaZibXKTQSu10XgSw/join https://www.patreon.com/PixelCherryNinja Buy a Octopus TR Fightstick https://www.trfightstick.com/?ref=PCN Click link then use code \"PCN\" for $25 Off Buy a Morph2K https://www.pixelfx.co/product-page/morph-2k-analog-video-scaler?ref=PCN Buy a Zaparoo product (10% off) https://shop.zaparoo.com/discount/PixelCherryNinja or just enter code \"PixelCherryNinja\" (affiliate links above) Join the Pixel Cherry Ninja Gaming Discord https://discord.gg/5W9pCy2nXa Find all the sources here https://pixelcherryninja.blogspot.com/ Special thanks to channel Patreon's Silver Ninja's - John Gillotte, Meathax, RGM, SmoMo, VimDiesel Bronze Ninja's - Alessandro Gulli, Alexander Facchini, Anime0t4ku, anthony, Bjamiork, craigpow, Curt Dittmer, Ernie D, Fizzun Dirtnap, Juan Alvarez, Keith F. Kelly, Nicholas Robertson-Muir, Niallquinn, ncc1701p, Peter Davis, Rap, Scott Dowdle, Tamariel, theypsilon, ZXFace A special Thanks to all Channel Members I Really Really Like PCN! - RGM - Random Gaming Moments https://www.youtube.com/channel/UCIm6dft7oV92-zMCn4A6g2Q I Really Like PCN! - Aleem Tayyab, Alphanu1, Anime0t4ku, ArinoSeb, Bjamiork, CryptoCSguy, Giuliano Pedersoli, Iñaki Etxebarria, Michael O’Hara, RaudoKun, Silent253, Terry BD, Vol",
+   "repos": [],
+   "firstSeen": "2026-11-19T23:07:39.871Z"
+  },
+  {
+   "title": "Digital Badge Gets Reverse Engineered",
+   "url": "https://hackaday.com/2026/11/19/digital-badge-gets-reverse-engineered/",
+   "date": "2026-11-19T18:00:00.000Z",
+   "source": "Hackaday",
+   "outlet": "Hackaday",
+   "summary": "The JieLi AC707N is a cheap $10 digital badge that actually packs in a fair bit of interesting hardware. [Sabas] reverse-engineered the product and figured out how to flash custom …read more",
+   "image": "https://hackaday.com/wp-content/uploads/2026/11/I-Bought-a-10-E-Badge-and-Ended-Up-Open-Sourcing-Its-SDK-–-Andres-Sabas-18-23-screenshot-1-e1795094155782.png",
+   "text": "Digital Badge Gets Reverse Engineered The JieLi AC707N is a cheap $10 digital badge that actually packs in a fair bit of interesting hardware. [Sabas] reverse-engineered the product and figured out how to flash custom firmware onto sealed OEM-fresh units. The AC707N badge, of the BR35 family, comes well equipped out of the box. It has a 360×360 pixel round display, driven over QSPI. It comes equipped with a AXS5106L capacitive touch controller for interacting with the screen. There are also two buttons, 4MB of flash, and Bluetooth Low Energy capability on board. Plenty to play with, right there! [Sabas] gave a talk about how the device was first physically torn down, before the APK was decompiled in Ghidra. From there, it was possible to download the firmware without authentication and then develop an open SDK for working with the cheap device. There's a custom firmware available on Github that was developed a a result of these efforts, and it can do all kinds of neat things. You can use it as a Bluetooth Mouse, or a Bluetooth scanner, for example. Or, if so desired, you could build on this work and develop your own firmware for the device to suit your own use cases. We see stuff like this repurposed all the time. The GeekMagic SmallTV is a great example of a cheap device given greater functionality through custom firmware . Video after the break.",
+   "repos": [
+    "github:ElectronicCats/jieli-ble-badge-research"
+   ],
+   "firstSeen": "2026-11-19T23:07:39.871Z"
+  },
+  {
+   "title": "House of the Dead: Overkill VR Mod / New VR Mod with 6DOF Motion Control / Quest 3 + RTX 4080 Super",
+   "url": "https://www.youtube.com/watch?v=Rkrr8XiG98U",
+   "date": "2026-11-19T17:29:45.000Z",
+   "source": "YouTube: NotAGameAddict",
+   "outlet": "YouTube: NotAGameAddict",
+   "summary": "00:00 - VR gameplay 05:39 - VR gameplay with FPS overlay House of the Dead: Overkill VR made by Idio-sync - https://github.com/idio-sync/hotd-overkill-vr The Typing of The Dead: Overkill - https://store.steampowered.com/app/246580/The_Typing_of_The_Dead_Overkill/",
+   "image": "https://i3.ytimg.com/vi/Rkrr8XiG98U/hqdefault.jpg",
+   "text": "House of the Dead: Overkill VR Mod / New VR Mod with 6DOF Motion Control / Quest 3 + RTX 4080 Super 00:00 - VR gameplay 05:39 - VR gameplay with FPS overlay House of the Dead: Overkill VR made by Idio-sync - https://github.com/idio-sync/hotd-overkill-vr The Typing of The Dead: Overkill - https://store.steampowered.com/app/246580/The_Typing_of_The_Dead_Overkill/",
+   "repos": [
+    "github:idio-sync/hotd-overkill-vr"
+   ],
+   "firstSeen": "2026-11-19T23:07:39.871Z"
+  },
+  {
+   "title": "We Got GTA VR Before GTA 6!",
+   "url": "https://www.youtube.com/watch?v=McJ8OpRO6nQ",
+   "date": "2026-11-19T17:00:16.000Z",
+   "source": "YouTube: Beardo Benjo",
+   "outlet": "YouTube: Beardo Benjo",
+   "summary": "We got GTA VR before GTA 6! GTA 5 VR just received the upgrade everyone has been waiting for...full VR motion controls which let you physically interact with Los Santos like never before! Manually reload, physically fight, open car doors and cause chaos in a much more immersive way than ever before! This promising new GTA V VR mod brings tracked hands, motion-controlled weapons and immersive first",
+   "image": "https://i2.ytimg.com/vi/McJ8OpRO6nQ/hqdefault.jpg",
+   "text": "We Got GTA VR Before GTA 6! We got GTA VR before GTA 6! GTA 5 VR just received the upgrade everyone has been waiting for...full VR motion controls which let you physically interact with Los Santos like never before! Manually reload, physically fight, open car doors and cause chaos in a much more immersive way than ever before! This promising new GTA V VR mod brings tracked hands, motion-controlled weapons and immersive first-person gameplay to Grand Theft Auto 5 BUT it doesn't look great right now, it definitely needs more time to cook as it has the potential to become something very impressive, it just needs a little longer in the oven. Try GTA VR with motion controls yourself right here: https://github.com/LVL-VR/GTAVXR/tree/main Join this channel to get access to perks: https://www.youtube.com/channel/UCSzUG-hFZgaKpYA6w2WS8sQ/join If you want more VR gameplay videos, VR game reviews & VR first impressions then make sure to leave a like, drop a comment down below & hit subscribe to be rewarded with a constant stream of endless content made with love and care. I release a new pure gameplay video every Monday & cover first impressions & VR horror longplays 3 to 4 times a week. All your support is appreciated & simply engaging with these videos helps me to continue improving the content I make. Follow me on Twitter here - https://twitter.com/BeardoBenjoYT #VR #MetaQuest #VRGameplay #Quest3 #PSVR2 #Quest2 #PCVR #Questcreatorpartner - GTA 5 VR Mod / New GTA 5 VR Gameplay - VR GT",
+   "repos": [
+    "github:LVL-VR/GTAVXR"
+   ],
+   "firstSeen": "2026-11-19T23:07:39.871Z"
+  },
+  {
+   "title": "GTA 6 Is Incredible... But GTA 5 VR Ruined It For Me",
+   "url": "https://www.youtube.com/watch?v=B2a8U-X5WCQ",
+   "date": "2026-11-19T16:00:26.000Z",
+   "source": "YouTube: Gamertag VR",
+   "outlet": "YouTube: Gamertag VR",
+   "summary": "GTA 6 is finally here, but playing the new GTA 5 VR mod has completely changed how I experience Grand Theft Auto. GTA VI looks incredible, but after exploring Los Santos in virtual reality, I can't help feeling a little disconnected playing in third person. So I'm heading back into GTA V VR to answer one big question. Can you actually play through the entire story in virtual reality? The new GTAVX",
+   "image": "https://i3.ytimg.com/vi/B2a8U-X5WCQ/hqdefault.jpg",
+   "text": "GTA 6 Is Incredible... But GTA 5 VR Ruined It For Me GTA 6 is finally here, but playing the new GTA 5 VR mod has completely changed how I experience Grand Theft Auto. GTA VI looks incredible, but after exploring Los Santos in virtual reality, I can't help feeling a little disconnected playing in third person. So I'm heading back into GTA V VR to answer one big question. Can you actually play through the entire story in virtual reality? The new GTAVXR mod by LVL brings native stereoscopic 3D, full motion controls, physical weapon handling, interactive driving and full-body VR interactions to Grand Theft Auto V. But how well does all of this work when you start playing proper missions? What happens during cutscenes, character switching and all the scripted moments Rockstar's games are famous for? GTA V in VR has seriously impressed me so far, and with GTA VI now here, it's made me appreciate just how much immersion changes the experience. GTA V VR MOD — Download and Installation: https://github.com/LVL-VR/GTAVXR Requires GTA V Legacy on PC. This mod is intended for Story Mode. MY PC SPECS GPU: MSI GeForce RTX 5070 Ti Ventus 3X OC 16GB CPU: Intel Core i9-14900K Motherboard: MSI Z790 Gaming Plus WiFi RAM: 32GB Corsair Vengeance DDR5 6000MHz CPU Cooler: Corsair iCUE LINK TITAN 360 RX RGB Cooling: Approximately 9 Corsair RGB fans Operating System: Windows 64-bit Subscribe to Gamertag VR for VR gaming, PCVR mods, gameplay, reviews and the latest virtual reality experiences. ⭐️How To",
+   "repos": [
+    "github:LVL-VR/GTAVXR"
+   ],
+   "firstSeen": "2026-11-19T23:07:39.871Z"
+  },
+  {
+   "title": "DRAGON BALL: Sparking! ZERO VR Performance / New First Person VR Mod / Quest 3 + RTX 4080 Super",
+   "url": "https://www.youtube.com/watch?v=BBK682Jo_7E",
+   "date": "2026-11-19T15:24:06.000Z",
+   "source": "YouTube: NotAGameAddict",
+   "outlet": "YouTube: NotAGameAddict",
+   "summary": "00:00 - VR gameplay 05:41 - VR gameplay with FPS overlay 11:22 - Game graphics Sparking! ZERO VR mod made by Pillowforge - https://github.com/pillowforge/SparkingZeroVR DRAGON BALL: Sparking! ZERO - https://store.steampowered.com/app/1790600/DRAGON_BALL_Sparking_ZERO/",
+   "image": "https://i3.ytimg.com/vi/BBK682Jo_7E/hqdefault.jpg",
+   "text": "DRAGON BALL: Sparking! ZERO VR Performance / New First Person VR Mod / Quest 3 + RTX 4080 Super 00:00 - VR gameplay 05:41 - VR gameplay with FPS overlay 11:22 - Game graphics Sparking! ZERO VR mod made by Pillowforge - https://github.com/pillowforge/SparkingZeroVR DRAGON BALL: Sparking! ZERO - https://store.steampowered.com/app/1790600/DRAGON_BALL_Sparking_ZERO/",
+   "repos": [
+    "github:pillowforge/SparkingZeroVR"
+   ],
+   "firstSeen": "2026-11-19T23:07:39.871Z"
+  },
+  {
+   "title": "Smash TV Recomp Looks Incredible – Ray Tracing & Widescreen!",
+   "url": "https://www.youtube.com/watch?v=OxuSdhAlWZs",
+   "date": "2026-11-19T15:00:23.000Z",
+   "source": "YouTube: Pixel Cherry Ninja",
+   "outlet": "YouTube: Pixel Cherry Ninja",
+   "summary": "Ways to Support the Channel (some affiliate links) EARLY ACCESS TO NEWS VIDEOS AND OTHER EXCLUSIVES https://www.youtube.com/channel/UCEozS0uaZibXKTQSu10XgSw/join https://www.patreon.com/PixelCherryNinja Buy a FightBox R10-Pro Arcade Stick with Trackball & Spinner USE CODE \"PixelCherryNinja\" for 10% OFF https://fightboxarcade.com/collections/best-sellers/products/fightbox-r10-pro-arcade-fight-stick",
+   "image": "https://i4.ytimg.com/vi/OxuSdhAlWZs/hqdefault.jpg",
+   "text": "Smash TV Recomp Looks Incredible – Ray Tracing & Widescreen! Ways to Support the Channel (some affiliate links) EARLY ACCESS TO NEWS VIDEOS AND OTHER EXCLUSIVES https://www.youtube.com/channel/UCEozS0uaZibXKTQSu10XgSw/join https://www.patreon.com/PixelCherryNinja Buy a FightBox R10-Pro Arcade Stick with Trackball & Spinner USE CODE \"PixelCherryNinja\" for 10% OFF https://fightboxarcade.com/collections/best-sellers/products/fightbox-r10-pro-arcade-fight-stick-with-trackball-spinner-retro-game-controller-for-pc-ps3-switch Buy a Octopus TR Fightstick https://www.trfightstick.com/?ref=PCN Click link then use code \"PCN\" for $25 Off Buy a Morph2K https://www.pixelfx.co/product-page/morph-2k-analog-video-scaler?ref=PCN Buy a Zaparoo product (10% off) https://shop.zaparoo.com/discount/PixelCherryNinja or just enter code \"PixelCherryNinja\" Join the Pixel Cherry Ninja Gaming Discord https://discord.gg/5W9pCy2nXa Special thanks to channel Patreon's Silver Ninja's - John Gillotte, Meathax, RGM, SmoMo, VimDiesel Bronze Ninja's - Alessandro Gulli, Alexander Facchini, Anime0t4ku, anthony, Bjamiork, craigpow, Curt Dittmer, Ernie D, Fizzun Dirtnap, Juan Alvarez, Keith F. Kelly, Nicholas Robertson-Muir, Niallquinn, ncc1701p, Peter Davis, Rap, Scott Dowdle, Tamariel, theypsilon, ZXFace A special Thanks to all Channel Members I Really Really Like PCN! - RGM - Random Gaming Moments https://www.youtube.com/channel/UCIm6dft7oV92-zMCn4A6g2Q I Really Like PCN! - Aleem Tayyab, Alphanu1, Anime0t4ku, Ari",
+   "repos": [],
+   "firstSeen": "2026-11-19T23:07:39.871Z"
+  },
+  {
+   "title": "Star Wars Rogue Squadron II Recomp Out NOW! It's HERE",
+   "url": "https://www.youtube.com/watch?v=X69AC0pRZjY",
+   "date": "2026-11-19T13:45:17.000Z",
+   "source": "YouTube: Video Game Esoterica",
+   "outlet": "YouTube: Video Game Esoterica",
+   "summary": "SUPPORT THE CHANNEL : http://www.patreon.com/VideoGameEsoterica MORE GameCube recomps are here and its the one everyone has been asking for! A Rogue Squadron II recomp! or A Star Wars: Rogue Leader Recomp...since the title is SO long with Star Wars: Rogue Squadron II Rogue Leader The Legend of Zelda: Twilight Princess PC port may have been the GameCube decomp that started the GameCube PC port tren",
+   "image": "https://i1.ytimg.com/vi/X69AC0pRZjY/hqdefault.jpg",
+   "text": "Star Wars Rogue Squadron II Recomp Out NOW! It's HERE SUPPORT THE CHANNEL : http://www.patreon.com/VideoGameEsoterica MORE GameCube recomps are here and its the one everyone has been asking for! A Rogue Squadron II recomp! or A Star Wars: Rogue Leader Recomp...since the title is SO long with Star Wars: Rogue Squadron II Rogue Leader The Legend of Zelda: Twilight Princess PC port may have been the GameCube decomp that started the GameCube PC port trend...but now it's Luigi's Mansion time to shine as there is a NEW Luigi's Mansion Recomp / Luigis Mansion Recomp with a ton of enhancements, a new lighting model and more! More Nintendo PC ports? More GameCube recomps? yes please! Check it out: https://github.com/gminustwo/red_two Questions? Comments? Just leave them below and I will do my best to answer each and every one of them! http://www.patreon.com/VideoGameEsoterica VGE",
+   "repos": [
+    "github:gminustwo/red_two"
+   ],
+   "firstSeen": "2026-11-19T23:07:39.871Z"
+  },
+  {
    "title": "VR Realms adds standalone Steam Frame support and a new route to Quest",
    "url": "https://mixed-news.com/en/vr-realms-045-steam-frame-quest-sidequest-fantasy-realm/",
    "date": "2026-11-19T13:30:00.000Z",
@@ -245,14 +365,14 @@
    "firstSeen": "2026-11-18T17:22:23.764Z"
   },
   {
-   "title": "Zelda: Breath of the Wild Just Got a HUGE VR Upgrade",
+   "title": "I Can't Believe How Far Zelda VR Has Come",
    "url": "https://www.youtube.com/watch?v=ZKjrd236wz8",
    "date": "2026-11-18T16:17:10.000Z",
    "source": "YouTube: Gamertag VR",
    "outlet": "YouTube: Gamertag VR",
    "summary": "The Legend of Zelda: Breath of the Wild VR just received its biggest update yet! BetterVR 1.0 brings massive PCVR performance improvements, new motion controls and more immersive gameplay to one of Nintendo's greatest adventures. Developer Crementif has rebuilt the VR rendering system with Cemu, delivering up to 3X better performance alongside realistic bow drawing, physical object throwing, impro",
    "image": "https://i3.ytimg.com/vi/ZKjrd236wz8/hqdefault.jpg",
-   "text": "Zelda: Breath of the Wild Just Got a HUGE VR Upgrade The Legend of Zelda: Breath of the Wild VR just received its biggest update yet! BetterVR 1.0 brings massive PCVR performance improvements, new motion controls and more immersive gameplay to one of Nintendo's greatest adventures. Developer Crementif has rebuilt the VR rendering system with Cemu, delivering up to 3X better performance alongside realistic bow drawing, physical object throwing, improved Magnesis controls and much more. I'm returning to Hyrule to check out the latest Zelda Breath of the Wild VR mod update, explore what's changed and see how this incredible Nintendo game holds up in virtual reality. DOWNLOAD BETTERVR 1.0: https://github.com/Crementif/BotW-BetterVR LATEST UPDATE & RELEASE NOTES: https://github.com/Crementif/BotW-BetterVR/releases/tag/1.0.0 BetterVR is a free PCVR mod requiring Cemu, a compatible PCVR headset and a legally obtained Wii U copy of Breath of the Wild. MY PC SPECS: GPU: MSI GeForce RTX 5070 Ti Ventus 3X OC 16GB CPU: Intel Core i9-14900K Motherboard: MSI Z790 Gaming Plus WiFi RAM: 32GB Corsair Vengeance DDR5 6000MHz Cooler: Corsair iCUE LINK TITAN 360 RX RGB Cooling: Approximately 9 Corsair RGB fans OS: Windows 64-bit Subscribe to Gamertag VR for honest VR reviews, PCVR mods, gameplay and the latest in virtual reality gaming. ⭐️How To Support The Channel and my Content: ⭐️Become a YouTube channel member with exclusive benefits: https://www.youtube.com/channel/UCnrAvt4i_2WV3yEKWyEUMlg/j",
+   "text": "I Can't Believe How Far Zelda VR Has Come The Legend of Zelda: Breath of the Wild VR just received its biggest update yet! BetterVR 1.0 brings massive PCVR performance improvements, new motion controls and more immersive gameplay to one of Nintendo's greatest adventures. Developer Crementif has rebuilt the VR rendering system with Cemu, delivering up to 3X better performance alongside realistic bow drawing, physical object throwing, improved Magnesis controls and much more. I'm returning to Hyrule to check out the latest Zelda Breath of the Wild VR mod update, explore what's changed and see how this incredible Nintendo game holds up in virtual reality. DOWNLOAD BETTERVR 1.0: https://github.com/Crementif/BotW-BetterVR LATEST UPDATE & RELEASE NOTES: https://github.com/Crementif/BotW-BetterVR/releases/tag/1.0.0 BetterVR is a free PCVR mod requiring Cemu, a compatible PCVR headset and a legally obtained Wii U copy of Breath of the Wild. MY PC SPECS: GPU: MSI GeForce RTX 5070 Ti Ventus 3X OC 16GB CPU: Intel Core i9-14900K Motherboard: MSI Z790 Gaming Plus WiFi RAM: 32GB Corsair Vengeance DDR5 6000MHz Cooler: Corsair iCUE LINK TITAN 360 RX RGB Cooling: Approximately 9 Corsair RGB fans OS: Windows 64-bit Subscribe to Gamertag VR for honest VR reviews, PCVR mods, gameplay and the latest in virtual reality gaming. ⭐️How To Support The Channel and my Content: ⭐️Become a YouTube channel member with exclusive benefits: https://www.youtube.com/channel/UCnrAvt4i_2WV3yEKWyEUMlg/join ⭐️Sign ",
    "repos": [
     "github:Crementif/BotW-BetterVR"
    ],
