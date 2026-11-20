@@ -1,6 +1,84 @@
 {
  "articles": [
   {
+   "title": "Darkwatch Darker HD VR Performance / New VR Mod with 6DOF Motion Controls / Quest 3 + RTX 4080 Super",
+   "url": "https://www.youtube.com/watch?v=VsPD1scTDcE",
+   "date": "2026-11-20T14:55:07.000Z",
+   "source": "YouTube: NotAGameAddict",
+   "outlet": "YouTube: NotAGameAddict",
+   "summary": "00:00 - VR settings 01:01 - VR gameplay 06:42 - VR gameplay with FPS overlay Darkwatch Darker VR mod made by Stevethetitan92 - https://github.com/stevethetitan92/DarkwatchDarkerVR",
+   "image": "https://i3.ytimg.com/vi/VsPD1scTDcE/hqdefault.jpg",
+   "text": "Darkwatch Darker HD VR Performance / New VR Mod with 6DOF Motion Controls / Quest 3 + RTX 4080 Super 00:00 - VR settings 01:01 - VR gameplay 06:42 - VR gameplay with FPS overlay Darkwatch Darker VR mod made by Stevethetitan92 - https://github.com/stevethetitan92/DarkwatchDarkerVR",
+   "repos": [
+    "github:stevethetitan92/DarkwatchDarkerVR"
+   ],
+   "firstSeen": "2026-11-20T17:03:06.972Z"
+  },
+  {
+   "title": "Phison details SSD with a built-in NPU and 64GB of memory that supports AI frameworks on the drive",
+   "url": "https://www.tomshardware.com/pc-components/ssds/phison-details-ssd-with-a-built-in-npu-and-64gb-of-memory-that-supports-pytorch-and-llama-cpp-running-on-the-drive-second-design-merges-fast-pslc-cache-and-qlc-capacity-behind-one-controller",
+   "date": "2026-11-20T14:00:00.000Z",
+   "source": "Tom's Hardware",
+   "outlet": "Tom's Hardware",
+   "summary": "Phison showed a computational-storage SSD with an NPU and 64GB of memory, plus Mixed Media pSLC and QLC drives, at SC26.",
+   "image": "https://cdn.mos.cms.futurecdn.net/BzuF4iUiRQ36JLAhHEkUKF-1920-80.jpg",
+   "text": "Phison details SSD with a built-in NPU and 64GB of memory that supports AI frameworks on the drive Phison detailed two new enterprise SSD designs at Supercomputer 2026 ( SC26 ) that aim to answer two separate problems: one with a built-in NPU and 64GB of 130 GB/s memory that supports running PyTorch, vLLM, OpenVINO, and llama.cpp directly on the drive, and another that merges fast pSLC cache with large QLC capacity behind just one controller. The company notes that “many of the products and features mentioned are still in development” and will arrive once finalized. The computational-storage design’s premise is that a server can offload more to the SSD, which runs AI code on the data where it already resides and sends back results, instead of whole datasets. The pSLC-QLC design, meanwhile, puts the cache inside each drive, which may reduce system complexity, as every drive bay contributes usable capacity and none goes to dedicated cache drives. Phison says that the integrated NPU is expected to deliver “36,800 DMIPS of compute performance,” or Dhrystone Million Instructions Per Second, a typical synthetic benchmark. This is admittedly an old CPU integer benchmark from the 1980s, while NPUs tend to be rated in TOPS, but that figure was not given. For reference, the Topaz NPU add-in card Phison showed at Computex carried eight NPUs rated at up to 40 TOPS each. The DMIPS figure therefore likely refers to, instead, the CPU cores that work alongside it, which we would expect to be",
+   "repos": [],
+   "firstSeen": "2026-11-20T17:03:06.972Z"
+  },
+  {
+   "title": "God Hand Recomp Out NOW! The Weirdest PS2 Game is Here",
+   "url": "https://www.youtube.com/watch?v=RdsUdbNojDc",
+   "date": "2026-11-20T13:45:00.000Z",
+   "source": "YouTube: Video Game Esoterica",
+   "outlet": "YouTube: Video Game Esoterica",
+   "summary": "SUPPORT THE CHANNEL : http://www.patreon.com/VideoGameEsoterica I told everyone PS2 recomps and PS2 PC ports were about to start heating up...and now we have a God Hand Recomp to go along with all the other PS2 recomps and PS2 PC ports! and considering God Hand is one of the best PS2 games ever...let's talk about more PlayStation PC ports! While PS5 emulation and PS5 recomps heat up...let's now fo",
+   "image": "https://i3.ytimg.com/vi/RdsUdbNojDc/hqdefault.jpg",
+   "text": "God Hand Recomp Out NOW! The Weirdest PS2 Game is Here SUPPORT THE CHANNEL : http://www.patreon.com/VideoGameEsoterica I told everyone PS2 recomps and PS2 PC ports were about to start heating up...and now we have a God Hand Recomp to go along with all the other PS2 recomps and PS2 PC ports! and considering God Hand is one of the best PS2 games ever...let's talk about more PlayStation PC ports! While PS5 emulation and PS5 recomps heat up...let's now forget about the beloved PlayStation 2! Check it out here: https://github.com/God-Hand-Rearmed/God-Hand-Rearmed Questions? Comments? Just leave them below and I will do my best to answer each and every one of them! http://www.patreon.com/VideoGameEsoterica VGE",
+   "repos": [
+    "github:God-Hand-Rearmed/God-Hand-Rearmed"
+   ],
+   "firstSeen": "2026-11-20T17:03:06.972Z"
+  },
+  {
+   "title": "This Street Fighter and Mortal Kombat Crossover Is Absolutely Ridiculous",
+   "url": "https://www.youtube.com/watch?v=dYsN9Fjr4Bo",
+   "date": "2026-11-20T13:00:09.000Z",
+   "source": "YouTube: Pixel Cherry Ninja",
+   "outlet": "YouTube: Pixel Cherry Ninja",
+   "summary": "Ways to Support the Channel (some affiliate links) EARLY ACCESS TO NEWS VIDEOS AND OTHER EXCLUSIVES https://www.youtube.com/channel/UCEozS0uaZibXKTQSu10XgSw/join https://www.patreon.com/PixelCherryNinja Buy a FightBox R10-Pro Arcade Stick with Trackball & Spinner USE CODE \"PixelCherryNinja\" for 10% OFF https://fightboxarcade.com/collections/best-sellers/products/fightbox-r10-pro-arcade-fight-stick",
+   "image": "https://i1.ytimg.com/vi/dYsN9Fjr4Bo/hqdefault.jpg",
+   "text": "This Street Fighter and Mortal Kombat Crossover Is Absolutely Ridiculous Ways to Support the Channel (some affiliate links) EARLY ACCESS TO NEWS VIDEOS AND OTHER EXCLUSIVES https://www.youtube.com/channel/UCEozS0uaZibXKTQSu10XgSw/join https://www.patreon.com/PixelCherryNinja Buy a FightBox R10-Pro Arcade Stick with Trackball & Spinner USE CODE \"PixelCherryNinja\" for 10% OFF https://fightboxarcade.com/collections/best-sellers/products/fightbox-r10-pro-arcade-fight-stick-with-trackball-spinner-retro-game-controller-for-pc-ps3-switch Buy a Octopus TR Fightstick https://www.trfightstick.com/?ref=PCN Click link then use code \"PCN\" for $25 Off Buy a Morph2K https://www.pixelfx.co/product-page/morph-2k-analog-video-scaler?ref=PCN Buy a Zaparoo product (10% off) https://shop.zaparoo.com/discount/PixelCherryNinja or just enter code \"PixelCherryNinja\" Join the Pixel Cherry Ninja Gaming Discord https://discord.gg/5W9pCy2nXa Special thanks to channel Patreon's Silver Ninja's - John Gillotte, Meathax, RGM, SmoMo, VimDiesel Bronze Ninja's - Alessandro Gulli, Alexander Facchini, Anime0t4ku, anthony, Bjamiork, craigpow, Curt Dittmer, Ernie D, Fizzun Dirtnap, Juan Alvarez, Keith F. Kelly, Nicholas Robertson-Muir, Niallquinn, ncc1701p, Peter Davis, Scott Dowdle, Tamariel, theypsilon, ZXFace A special Thanks to all Channel Members I Really Really Like PCN! - RGM - Random Gaming Moments https://www.youtube.com/channel/UCIm6dft7oV92-zMCn4A6g2Q I Really Like PCN! - Aleem Tayyab, Alphanu1, Anime0t4",
+   "repos": [],
+   "firstSeen": "2026-11-20T17:03:06.972Z"
+  },
+  {
+   "title": "Deus Ex: Human Revolution - Director's Cut VR Performance / VR Mod with 6DOF Motion Controls / PCVR",
+   "url": "https://www.youtube.com/watch?v=OJZuw_7DTdw",
+   "date": "2026-11-20T11:03:42.000Z",
+   "source": "YouTube: NotAGameAddict",
+   "outlet": "YouTube: NotAGameAddict",
+   "summary": "00:00 - VR gameplay 15:12 - VR settings DeusExHRVR mod made by BuckleBean - https://github.com/BuckleBean/DeusExHRVR Deus Ex: Human Revolution - Director's Cut - https://store.steampowered.com/app/238010/Deus_Ex_Human_Revolution_Directors_Cut/",
+   "image": "https://i4.ytimg.com/vi/OJZuw_7DTdw/hqdefault.jpg",
+   "text": "Deus Ex: Human Revolution - Director's Cut VR Performance / VR Mod with 6DOF Motion Controls / PCVR 00:00 - VR gameplay 15:12 - VR settings DeusExHRVR mod made by BuckleBean - https://github.com/BuckleBean/DeusExHRVR Deus Ex: Human Revolution - Director's Cut - https://store.steampowered.com/app/238010/Deus_Ex_Human_Revolution_Directors_Cut/",
+   "repos": [
+    "github:BuckleBean/DeusExHRVR"
+   ],
+   "firstSeen": "2026-11-20T17:03:06.972Z"
+  },
+  {
+   "title": "CAPCOM’s Monster Hunter Generations Ultimate Hits 240 FPS on PC Through an Unofficial Native Port, Up From the Switch’s 30 FPS, Complete With AMD FSR 4",
+   "url": "https://wccftech.com/monster-hunter-generations-ultimate-240-fps-pc-port-amd-fsr-4/",
+   "date": "2026-11-20T10:37:52.000Z",
+   "source": "Wccftech",
+   "outlet": "Wccftech",
+   "summary": "Early last year, CAPCOM released Monster Hunter Wilds to critical acclaim, yet the reception among players was mixed, as many believed that the Japanese developer had taken streamlining the series' mechanics a bit too far. However, PC players disappointed by the latest entry in the series who haven't returned to it following the game's many updates, as director Yuya Tokuda hoped, now have the oppo",
+   "image": "https://cdn.wccftech.com/wp-content/uploads/2026/11/Monster-Hunter-Generations-Ultimate-PC-Port-1456x813.jpg",
+   "text": "CAPCOM’s Monster Hunter Generations Ultimate Hits 240 FPS on PC Through an Unofficial Native Port, Up From the Switch’s 30 FPS, Complete With AMD FSR 4 Early last year, CAPCOM released Monster Hunter Wilds to critical acclaim, yet the reception among players was mixed, as many believed that the Japanese developer had taken streamlining the series' mechanics a bit too far. However, PC players disappointed by the latest entry in the series who haven't returned to it following the game's many updates, as director Yuya Tokuda hoped, now have the opportunity to experience the classic Monster Hunter experience at its best with the unofficial native PC port of Monster Hunter Generations Ultimate, complete with new features that outpace emulation. \"A native PC port of Monster Hunter [&hellip;] Read full article at https://wccftech.com/monster-hunter-generations-ultimate-240-fps-pc-port-amd-fsr-4/",
+   "repos": [],
+   "firstSeen": "2026-11-20T17:03:06.972Z"
+  },
+  {
    "title": "Geometry Wars 3: Dimensions Evolved - VR Mod - Native Stereo & Head-Tracking",
    "url": "https://www.youtube.com/watch?v=jZoZIEyxxFk",
    "date": "2026-11-20T06:01:03.000Z",
