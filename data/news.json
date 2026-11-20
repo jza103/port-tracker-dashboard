@@ -1,6 +1,58 @@
 {
  "articles": [
   {
+   "title": "Geometry Wars 3: Dimensions Evolved - VR Mod - Native Stereo & Head-Tracking",
+   "url": "https://www.youtube.com/watch?v=jZoZIEyxxFk",
+   "date": "2026-11-20T06:01:03.000Z",
+   "source": "YouTube: FastLawyer",
+   "outlet": "YouTube: FastLawyer",
+   "summary": "I bought this game! Geometry Wars™ 3: Dimensions Evolved is an arcade twin-stick shooter / shoot em up / shmup. Geometry Wars 3 can be played in fully immersive virtual reality with the VR Mod by hookman. The mod has native stereo and head-tracking. Played on the Meta Quest 3 using Virtual Desktop on my RTX 5090. You can purchase game on Steam here: https://store.steampowered.com/app/310790/Geomet",
+   "image": "https://i3.ytimg.com/vi/jZoZIEyxxFk/hqdefault.jpg",
+   "text": "Geometry Wars 3: Dimensions Evolved - VR Mod - Native Stereo & Head-Tracking I bought this game! Geometry Wars™ 3: Dimensions Evolved is an arcade twin-stick shooter / shoot em up / shmup. Geometry Wars 3 can be played in fully immersive virtual reality with the VR Mod by hookman. The mod has native stereo and head-tracking. Played on the Meta Quest 3 using Virtual Desktop on my RTX 5090. You can purchase game on Steam here: https://store.steampowered.com/app/310790/Geometry_Wars_3_Dimensions_Evolved/ FREE VR mod by hookman here: https://github.com/hookmanuk/geometry-wars-3-vr Version 0.1.1 played. Join my Steam Curator Group here: https://steamcommunity.com/groups/CIVRI",
+   "repos": [
+    "github:hookmanuk/geometry-wars-3-vr"
+   ],
+   "firstSeen": "2026-11-20T07:31:34.975Z"
+  },
+  {
+   "title": "GTA 6 Xbox build reportedly leaked online, bringing an unofficial PC port closer",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVElVSWZVaVNmblM3N1hqU25NVzJ2b1FFU0VQWUx1NFJQYU9fRFVhUVhUdXAwbVY5Z25fV1BpTjF2UGhvY096Z1FYSVRLbERQSmNQa0RqVHJvNDVPNENaeDhTWXhiUVFzRDFIX1U5LXVGa3hoRFd3SlV3QnN5WUZFRE5reHV2eUNDZTVKLUhPeHVSUTFmVmdJWHNSTTB2YWV0QnJjZGFxN3ZZUGdGV3dQNS1ncGd0ZEliTkJ0ZGNQQQ?oc=5",
+   "date": "2026-11-20T04:58:26.000Z",
+   "source": "Google News",
+   "outlet": "Sportskeeda Tech",
+   "summary": "",
+   "image": null,
+   "text": "GTA 6 Xbox build reportedly leaked online, bringing an unofficial PC port closer - Sportskeeda Tech GTA 6 Xbox build reportedly leaked online, bringing an unofficial PC port closer Sportskeeda Tech",
+   "repos": [],
+   "firstSeen": "2026-11-20T07:31:34.975Z"
+  },
+  {
+   "title": "The Simpsons Decomp PC Port Out NOW! So Good",
+   "url": "https://www.youtube.com/watch?v=zm5drgJW3so",
+   "date": "2026-11-20T02:00:33.000Z",
+   "source": "YouTube: Video Game Esoterica",
+   "outlet": "YouTube: Video Game Esoterica",
+   "summary": "SUPPORT THE CHANNEL : http://www.patreon.com/VideoGameEsoterica We have so many retro gaming recomps and retro gaming decomps with N64 recomps, Xbox 360 recomps, Switch recomps and Switch 2 recomps...but what about our beloved arcade games? Arcade recomps and arcade decomps that lead to source ports are very rare...but as of today there is a The Simpsons decomp / The Simpsons PC port out! Forget N",
+   "image": "https://i3.ytimg.com/vi/zm5drgJW3so/hqdefault.jpg",
+   "text": "The Simpsons Decomp PC Port Out NOW! So Good SUPPORT THE CHANNEL : http://www.patreon.com/VideoGameEsoterica We have so many retro gaming recomps and retro gaming decomps with N64 recomps, Xbox 360 recomps, Switch recomps and Switch 2 recomps...but what about our beloved arcade games? Arcade recomps and arcade decomps that lead to source ports are very rare...but as of today there is a The Simpsons decomp / The Simpsons PC port out! Forget Nintendo PC ports or PlayStation PC ports or Bloodborne PC ports...this is the good stuff! directly after the Teenage Mutant Ninja Turtles Arcade PC port too! Check it out here: https://github.com/cheviman/simpsons-port Questions? Comments? Just leave them below and I will do my best to answer each and every one of them! http://www.patreon.com/VideoGameEsoterica You can follow us at IG : ChicagoGameCollector , or join our Discord Server : https://discord.gg/DjcrGc9 VGE",
+   "repos": [
+    "github:cheviman/simpsons-port"
+   ],
+   "firstSeen": "2026-11-20T07:31:34.975Z"
+  },
+  {
+   "title": "Get Road Rash in VR #roadrash #motorcycle #biker #vr #vrmods #metaquest3 #racinggames",
+   "url": "https://www.youtube.com/shorts/r8Z8OJYDMbY",
+   "date": "2026-11-20T01:03:16.000Z",
+   "source": "YouTube: FastLawyer",
+   "outlet": "YouTube: FastLawyer",
+   "summary": "Playing Road Rash™: 30th Anniversary Edition in VR with the latest FREE VR Mod on the Meta Quest 3 (PCVR).",
+   "image": "https://i3.ytimg.com/vi/r8Z8OJYDMbY/hqdefault.jpg",
+   "text": "Get Road Rash in VR #roadrash #motorcycle #biker #vr #vrmods #metaquest3 #racinggames Playing Road Rash™: 30th Anniversary Edition in VR with the latest FREE VR Mod on the Meta Quest 3 (PCVR).",
+   "repos": [],
+   "firstSeen": "2026-11-20T07:31:34.975Z"
+  },
+  {
    "title": "Switch 2 Emulation and Recomps Go WILD! Big Progress Made",
    "url": "https://www.youtube.com/watch?v=iAEj0ewQQJ4",
    "date": "2026-11-19T22:00:35.000Z",
@@ -39,6 +91,18 @@
    "firstSeen": "2026-11-19T23:07:39.871Z"
   },
   {
+   "title": "The native PC port of Astro Bot, based on AstroHybrid v1.2.4, runs at 60 FPS on an RTX 4080.",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPck8ydGstUmVoT2JhWVNsMmZoQ2tiN3lLeVdwbDJUU21oTGYwMGgyS1djR3BVUkd5dWtwaE1VbHdDSXhvNkZzRzBLSlh3aEVXYXQ3bmVVY0JxTUtra2l6a0RVd2pPeFJBYzh2Y2dSc0h4aHVHRFYzemF3NUFFSF9nWEJEamZ0dnA3TWRRNmJaV01SZXFiR3BTQzl5VzY5YmpIT0lZeEhFVHc3RkhfdFZQcWJrN0Nxa1dG?oc=5",
+   "date": "2026-11-19T17:59:40.000Z",
+   "source": "Google News",
+   "outlet": "GameGPU",
+   "summary": "",
+   "image": null,
+   "text": "The native PC port of Astro Bot, based on AstroHybrid v1.2.4, runs at 60 FPS on an RTX 4080. - GameGPU The native PC port of Astro Bot, based on AstroHybrid v1.2.4, runs at 60 FPS on an RTX 4080. GameGPU",
+   "repos": [],
+   "firstSeen": "2026-11-20T07:31:34.975Z"
+  },
+  {
    "title": "House of the Dead: Overkill VR Mod / New VR Mod with 6DOF Motion Control / Quest 3 + RTX 4080 Super",
    "url": "https://www.youtube.com/watch?v=Rkrr8XiG98U",
    "date": "2026-11-19T17:29:45.000Z",
@@ -65,6 +129,18 @@
     "github:LVL-VR/GTAVXR"
    ],
    "firstSeen": "2026-11-19T23:07:39.871Z"
+  },
+  {
+   "title": "The SSX Tricky Unofficial PC Port Feels Like a Dream on the Steam Deck",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBxdThuY00wTnEwZDdFQlotNFVnRUF2SWVGYlZkWHNSWkVRN1BDNHYyd3lpeUxxS0RINmE3TzdWX1Z2dDlVbXpKbFE0Ylp0WTlXTlE4SzludEphVjBqSE5TZzhvazhXQ1g3clFaUHhjR0hQUkoxRkUwQ2hyVjJZdw?oc=5",
+   "date": "2026-11-19T16:42:59.000Z",
+   "source": "Google News",
+   "outlet": "Steam Deck HQ",
+   "summary": "",
+   "image": null,
+   "text": "The SSX Tricky Unofficial PC Port Feels Like a Dream on the Steam Deck - Steam Deck HQ The SSX Tricky Unofficial PC Port Feels Like a Dream on the Steam Deck Steam Deck HQ",
+   "repos": [],
+   "firstSeen": "2026-11-20T07:31:34.975Z"
   },
   {
    "title": "GTA 6 Is Incredible... But GTA 5 VR Ruined It For Me",
@@ -105,6 +181,30 @@
    "text": "Smash TV Recomp Looks Incredible – Ray Tracing & Widescreen! Ways to Support the Channel (some affiliate links) EARLY ACCESS TO NEWS VIDEOS AND OTHER EXCLUSIVES https://www.youtube.com/channel/UCEozS0uaZibXKTQSu10XgSw/join https://www.patreon.com/PixelCherryNinja Buy a FightBox R10-Pro Arcade Stick with Trackball & Spinner USE CODE \"PixelCherryNinja\" for 10% OFF https://fightboxarcade.com/collections/best-sellers/products/fightbox-r10-pro-arcade-fight-stick-with-trackball-spinner-retro-game-controller-for-pc-ps3-switch Buy a Octopus TR Fightstick https://www.trfightstick.com/?ref=PCN Click link then use code \"PCN\" for $25 Off Buy a Morph2K https://www.pixelfx.co/product-page/morph-2k-analog-video-scaler?ref=PCN Buy a Zaparoo product (10% off) https://shop.zaparoo.com/discount/PixelCherryNinja or just enter code \"PixelCherryNinja\" Join the Pixel Cherry Ninja Gaming Discord https://discord.gg/5W9pCy2nXa Special thanks to channel Patreon's Silver Ninja's - John Gillotte, Meathax, RGM, SmoMo, VimDiesel Bronze Ninja's - Alessandro Gulli, Alexander Facchini, Anime0t4ku, anthony, Bjamiork, craigpow, Curt Dittmer, Ernie D, Fizzun Dirtnap, Juan Alvarez, Keith F. Kelly, Nicholas Robertson-Muir, Niallquinn, ncc1701p, Peter Davis, Rap, Scott Dowdle, Tamariel, theypsilon, ZXFace A special Thanks to all Channel Members I Really Really Like PCN! - RGM - Random Gaming Moments https://www.youtube.com/channel/UCIm6dft7oV92-zMCn4A6g2Q I Really Like PCN! - Aleem Tayyab, Alphanu1, Anime0t4ku, Ari",
    "repos": [],
    "firstSeen": "2026-11-19T23:07:39.871Z"
+  },
+  {
+   "title": "The recompiled version of GTA VI with firmware 14.23 worked on PC through Vulkan",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZmh1N1VTdm5NcklXQmUzclFKcV9MSjlUaXJta3ZKa3FyWXJOQ1E0aVpZTE5IQXUwSmZaLVFXVkl5MUpqRkhpWUZEUjd0Z05OTUtFQi1YUGtzSnJSUHFXQWFXVGgzTlJtaW8wdk0tR0MzTnZMU0tqX1loXzlfbDdVR1pfOW1ZV21BemZnYXh4VzViTm1vN0RESE4xWUVWRHd3b1dFZ1pUamZwVzk3NkJrMkFTN3BrUFNGQ0FrTmRWd1VnUkxtMTg3aQ?oc=5",
+   "date": "2026-11-19T13:59:15.000Z",
+   "source": "Google News",
+   "outlet": "GameGPU",
+   "summary": "",
+   "image": null,
+   "text": "The recompiled version of GTA VI with firmware 14.23 worked on PC through Vulkan - GameGPU The recompiled version of GTA VI with firmware 14.23 worked on PC through Vulkan GameGPU",
+   "repos": [],
+   "firstSeen": "2026-11-20T07:31:34.975Z"
+  },
+  {
+   "title": "New ‘decompilation’ videos allege Monopoly Go borrows from slot machines and Royal Kingdom secretly makes levels harder",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNS2VONzVDWW90WjFHU3pYODJUOHpFbHlYUWE2MmJELXA3aU03MVU4b0R4Ml9MalVPVG1FSF9UMUVTMTdXY1Zpc1A4Y2NUYWxxcUhLWlY3UFFkOUNFZm9NaUllVTFseFVsc3pleUVidW9sZkNQenhEb3dYeVNRVUxCSjAtMnhsSjVTRUYzQS1NMm5aRkprS3NyVF9DamF1WHltUkVQTnktV3U1MkZxaDdWUHQ0N0tYdVZxZHVNTk00REJDa20tWjBfNWg2SGNPVFJLWmJPZGNYRQ?oc=5",
+   "date": "2026-11-19T13:48:53.000Z",
+   "source": "Google News",
+   "outlet": "Mobilegamer.biz",
+   "summary": "",
+   "image": null,
+   "text": "New ‘decompilation’ videos allege Monopoly Go borrows from slot machines and Royal Kingdom secretly makes levels harder - Mobilegamer.biz New ‘decompilation’ videos allege Monopoly Go borrows from slot machines and Royal Kingdom secretly makes levels harder Mobilegamer.biz",
+   "repos": [],
+   "firstSeen": "2026-11-20T07:31:34.975Z"
   },
   {
    "title": "Star Wars Rogue Squadron II Recomp Out NOW! It's HERE",

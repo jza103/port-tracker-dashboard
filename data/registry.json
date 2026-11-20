@@ -18,6 +18,7 @@
   "1oom-fork/1oom": "2026-10-25T15:36:27.479Z",
   "2023perfectdark/perfect-dark-zero-reinstated": "2026-10-31T05:58:24.466Z",
   "21suspect/scrap-mechanic-native-vr": "2026-10-25T15:36:27.479Z",
+  "26f-studio/techmino": "2026-11-20T07:31:34.975Z",
   "360recomper/rumblerosesrex": "2026-11-10T02:48:55.931Z",
   "360recomper/svr07-recomp": "2026-11-10T02:48:55.931Z",
   "360recomper/ufc3rex": "2026-11-09T18:56:51.851Z",
@@ -166,6 +167,7 @@
   "android-xr-bridge/axrb": "2026-10-25T15:36:27.479Z",
   "andyvand/opentyrian2000": "2026-10-25T15:36:27.479Z",
   "angband/angband": "2026-11-17T02:59:38.190Z",
+  "angelauramc/amethyst-android": "2026-11-20T07:31:34.975Z",
   "anishchandra24/juiced2-recompiled": "2026-10-30T06:03:37.031Z",
   "anishchandra24/maddennfl08-recompiled": "2026-10-28T21:12:08.030Z",
   "anishchandra24/nhl2k8-recompiled": "2026-10-28T21:12:08.030Z",
@@ -198,6 +200,7 @@
   "armsx2/armsx3": "2026-10-31T20:06:38.932Z",
   "armyofgnomes/analogue-pocket-32x": "2026-10-25T15:56:57.670Z",
   "arnautdaniel/openhuey": "2026-11-04T00:42:58.054Z",
+  "arnoansems/catacombgl": "2026-11-20T07:31:34.975Z",
   "artfulrascal8/xrkart-64": "2026-10-23T22:25:39.434Z",
   "arx/arxlibertatis": "2026-10-25T15:36:27.479Z",
   "asarafanov/fracturerecomp": "2026-11-01T15:19:44.427Z",
@@ -219,7 +222,15 @@
   "atrblizzard/vtmb-vr": "2026-10-25T19:08:26.092Z",
   "atroel/open-greedy": "2026-11-19T23:07:39.871Z",
   "atsb/burgerdoom": "2026-11-04T12:19:33.535Z",
+  "atsb/call-to-power-2-sdl": "2026-11-20T07:31:34.975Z",
+  "atsb/daikatana-restoration-project": "2026-11-20T07:31:34.975Z",
+  "atsb/freelarn": "2026-11-20T07:31:34.975Z",
+  "atsb/hiigara": "2026-11-20T07:31:34.975Z",
+  "atsb/jezzball": "2026-11-20T07:31:34.975Z",
+  "atsb/kaos-resurrected": "2026-11-20T07:31:34.975Z",
+  "atsb/minesweeper": "2026-11-20T07:31:34.975Z",
   "atsb/nakedavp": "2026-11-04T00:42:58.054Z",
+  "atsb/rl_m": "2026-11-20T07:31:34.975Z",
   "attacquesuperior/valiantshades": "2026-11-13T12:24:20.391Z",
   "augustinwinter/openfpga-cave": "2026-11-01T15:19:44.427Z",
   "augustinwinter/openfpga-macross2": "2026-10-25T15:56:57.670Z",
@@ -273,6 +284,7 @@
   "beren5556/w40krt_vr-downloads": "2026-11-15T15:43:49.692Z",
   "bertibertig/amped2-recomp": "2026-10-25T15:36:27.479Z",
   "bertibertig/ssx3-recomp": "2026-10-25T15:36:27.479Z",
+  "bertrandom/skyroads-pocket": "2026-11-20T07:31:34.975Z",
   "berzerker96/witcher2-vr": "2026-11-17T23:34:42.428Z",
   "betotron/maxpayne2vr-release": "2026-10-25T15:36:27.479Z",
   "beveltipdrip/medievil_2019_pc_port": "2026-11-10T02:48:55.931Z",
@@ -1142,6 +1154,7 @@
   "hollownett/dishonored2-vr": "2026-11-10T12:48:43.559Z",
   "hollywoodakeem/svr07-recomp": "2026-10-23T22:25:39.434Z",
   "homflattovr/farcryvvr_release": "2026-11-19T13:34:23.519Z",
+  "hookmanuk/geometry-wars-3-vr": "2026-11-20T07:31:34.975Z",
   "hookmanuk/rpcs3": "2026-10-25T15:36:27.479Z",
   "hookshot/hookshot": "2026-11-17T02:59:38.190Z",
   "hopeaero/mlbpowerpros2008recomp": "2026-10-25T15:36:27.479Z",
@@ -1187,6 +1200,7 @@
   "imnotsharingmyname/pcportastrobot": "2026-11-14T20:48:58.968Z",
   "imrburn/wwe2k15-pc": "2026-11-04T00:42:58.054Z",
   "imyourhuckleberryponcho/pokemon-xd-pc-port": "2026-11-12T07:26:48.272Z",
+  "in0finite/sanandreasunity": "2026-11-20T07:31:34.975Z",
   "indicozy/razdor": "2026-11-05T12:33:40.140Z",
   "inferno214221/cmc-mod-manager": "2026-11-15T15:43:49.692Z",
   "infernosupernova/novr": "2026-10-25T15:36:27.479Z",
@@ -1214,6 +1228,7 @@
   "itsbybanshee/wwe2k14-pc": "2026-10-25T15:36:27.479Z",
   "itsbybanshee/wwe2k16-pc": "2026-11-04T12:19:33.535Z",
   "itsdanik/dethrace_mister": "2026-10-26T15:18:29.150Z",
+  "itsdanik/renfs": "2026-11-20T07:31:34.975Z",
   "itzzace/gta4-web": "2026-11-13T01:13:49.326Z",
   "ivanprestef2/monado-fix-portable": "2026-11-05T22:08:09.109Z",
   "izzy2lost/ghostship": "2026-10-23T22:25:39.434Z",
@@ -2164,6 +2179,7 @@
   "misterorganize/mister_frontier": "2026-10-26T15:18:29.150Z",
   "mixidthesilly/kart-recomp": "2026-11-13T22:02:20.106Z",
   "mjrgh/pinbally": "2026-11-17T02:59:38.190Z",
+  "mkalkhoven-po/new-legends-recomp": "2026-11-20T07:31:34.975Z",
   "mkalkhoven-po/nfs-carbon-ce-recomp": "2026-11-02T06:28:55.587Z",
   "mkalkhoven-po/wolf3d-x64": "2026-11-02T06:28:55.587Z",
   "mlemandpurrs/ora-pink-dawn": "2026-11-16T18:41:30.564Z",
@@ -2350,6 +2366,7 @@
   "nikolaygorb/perfectdarkzerorecomp": "2026-10-30T20:54:21.398Z",
   "nikolaygorb/wetrecomp": "2026-11-02T06:28:55.587Z",
   "ninjacornix/reo": "2026-11-03T02:28:07.541Z",
+  "nitorikoskye/n-larged-xs": "2026-11-20T07:31:34.975Z",
   "njh-1001/finfantacrecomp": "2026-10-23T22:25:39.434Z",
   "njh-1001/sexyparorecomp": "2026-10-25T15:36:27.479Z",
   "njh-1001/wipeout2k97xl": "2026-10-23T22:25:39.434Z",
@@ -2420,6 +2437,7 @@
   "omegakatana92/gundam-seed-battle-assault-recomp": "2026-10-23T22:25:39.434Z",
   "omegakatana92/kirby-dream-land-recomp": "2026-10-23T22:25:39.434Z",
   "omegakatana92/kirby-pinball-land-recomp": "2026-10-25T15:36:27.479Z",
+  "omegakatana92/ridgeracer4recomp": "2026-11-20T07:31:34.975Z",
   "omegakatana92/samuai-shodown-warriors-rage-recomp": "2026-10-23T22:25:39.434Z",
   "omegakatana92/super-mario-land-3-wario-land-recomp-": "2026-10-25T15:36:27.479Z",
   "omegakatana92/the-king-of-fighters-2000-recomp": "2026-11-13T01:13:49.326Z",
@@ -2797,6 +2815,7 @@
   "proxydllvines/nox-modernized": "2026-11-06T21:38:46.246Z",
   "ps1recomp/ps1-recomp": "2026-10-23T22:46:33.769Z",
   "ps2homebrew-arcade/pcsx2x6": "2026-11-14T20:48:58.968Z",
+  "ps4star/whiterecomp": "2026-11-20T07:31:34.975Z",
   "psxrestore/condemned2recomp": "2026-10-23T22:25:39.434Z",
   "puckhead73/nhl-legacy-recomp": "2026-10-28T21:12:08.030Z",
   "puddingstudio/mister-toasty-squadron": "2026-10-26T15:18:29.150Z",
@@ -3424,6 +3443,7 @@
   "tk22-26/jetforcegemini-recomp": "2026-10-25T15:36:27.479Z",
   "tmcleroy/cps2recomp": "2026-10-24T18:51:55.727Z",
   "tmcleroy/fighters-megamix-recomp": "2026-11-17T23:34:42.428Z",
+  "tmcleroy/fighting-vipers-recomp": "2026-11-20T07:31:34.975Z",
   "tmcleroy/muscle-march-recomp": "2026-11-14T15:13:09.537Z",
   "tmcleroy/sf3comp": "2026-11-14T20:48:58.968Z",
   "tmcleroy/soulcalibur2-recomp": "2026-11-04T00:42:58.054Z",
@@ -3624,6 +3644,7 @@
   "yanm1103/war_of_the_monsters_recomp": "2026-10-30T15:07:53.073Z",
   "yaphoa/theatrhythm-fbl-pc": "2026-11-04T00:42:58.054Z",
   "yash-singh1/wipeout-xl-rewrite": "2026-10-30T06:03:37.031Z",
+  "yasumitsuru/banjo-tooie-xbla-recomp": "2026-11-20T07:31:34.975Z",
   "yavsrg/yavsrg": "2026-11-13T22:02:20.106Z",
   "yaz-myst/zoe-recompiled": "2026-10-30T15:07:53.073Z",
   "yell0wsuit/cuttherope-dx": "2026-10-23T22:25:39.434Z",
@@ -7523,6 +7544,35 @@
    },
    "autoFollow": true
   },
+  "hookmanuk/geometry-wars-3-vr": {
+   "id": "hookmanuk/geometry-wars-3-vr",
+   "name": "geometry wars 3 vr",
+   "game": "geometry wars 3 vr",
+   "categories": [
+    "Other",
+    "VR Ports"
+   ],
+   "type": "port",
+   "tags": [
+    "VR"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "hookmanuk/geometry-wars-3-vr"
+   },
+   "links": [],
+   "sources": [
+    "news"
+   ],
+   "discoveredFrom": {
+    "kind": "news",
+    "title": "Geometry Wars 3: Dimensions Evolved - VR Mod - Native Stereo & Head-Tracking",
+    "url": "https://www.youtube.com/watch?v=jZoZIEyxxFk",
+    "source": "YouTube: FastLawyer",
+    "date": "2026-11-20T06:01:03.000Z"
+   },
+   "autoFollow": true
+  },
   "hossez/fifa-world-cup-2014-recompiled": {
    "id": "hossez/fifa-world-cup-2014-recompiled",
    "name": "fifa world cup 2014 recompiled",
@@ -9690,7 +9740,7 @@
     "title": "topic:static-recompilation stars:>20",
     "date": "2026-11-05T22:08:09.109Z"
    },
-   "autoFollow": false
+   "autoFollow": true
   },
   "luisxl15/gta-iv-recomp-xbox-360": {
    "id": "luisxl15/gta-iv-recomp-xbox-360",
@@ -13688,9 +13738,9 @@
    "name": "Resident Evil 4 Native Port",
    "game": "Resident Evil 4 Native Port",
    "categories": [
-    "Other"
+    "GameCube"
    ],
-   "type": "port",
+   "type": "decompilation",
    "tags": [],
    "repo": {
     "host": "github",
