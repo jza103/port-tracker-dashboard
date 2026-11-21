@@ -1,7 +1,7 @@
 {
  "meta": {
   "seededAt": "2026-10-25T14:56:57.670Z",
-  "lastSearchAt": "2026-11-19T23:07:39.871Z"
+  "lastSearchAt": "2026-11-21T01:36:40.961Z"
  },
  "firstSeen": {
   "00-evan/shattered-pixel-dungeon": "2026-11-18T07:43:56.086Z",
@@ -54,6 +54,7 @@
   "adil192/super_nonogram": "2026-11-04T00:42:58.054Z",
   "adore11s/beyond-two-souls-vr-mod": "2026-10-25T15:36:27.479Z",
   "adore11s/god-of-war-vr-mod": "2026-10-25T15:36:27.479Z",
+  "adore11s/heavy-rain-vr-mod": "2026-11-21T01:36:40.961Z",
   "adoregabriel2005/vib-ribbon-recomp": "2026-11-19T01:55:00.306Z",
   "adrbn/bo2-mac": "2026-11-13T22:02:20.106Z",
   "adriadam10/mkw-recomp": "2026-11-11T22:54:38.255Z",
@@ -78,7 +79,9 @@
   "agg23/openfpga-wonderswan": "2026-10-25T15:56:57.670Z",
   "agg23/sdram-controller": "2026-10-26T15:18:29.150Z",
   "agrofubris/conker-3d-stereo": "2026-11-19T13:34:23.519Z",
+  "aidp2/tssm-ports": "2026-11-21T01:36:40.961Z",
   "aikatore/recvx-enhanced-port": "2026-10-25T15:36:27.479Z",
+  "aitorgomez-net/pcxt_mister": "2026-11-21T01:36:40.961Z",
   "ajgowans/alt-cores": "2026-10-25T15:56:57.670Z",
   "ajncsystem/shadowofthecolossus-pc": "2026-10-23T22:25:39.434Z",
   "ajusa/vnds-love": "2026-11-15T21:07:03.522Z",
@@ -137,6 +140,7 @@
   "alextreumer/balatrovrmod": "2026-10-25T15:36:27.479Z",
   "alfatreze/tau-alpha": "2026-10-25T15:56:57.670Z",
   "alfatreze/tau-gallery": "2026-11-14T20:48:58.968Z",
+  "alissonkn/opensimfarm": "2026-11-21T01:36:40.961Z",
   "alistert/openjazz": "2026-10-25T15:36:27.479Z",
   "aliveteam/alive_reversing": "2026-10-25T15:36:27.479Z",
   "almost-drowned-rat/orta-recompiled": "2026-11-07T14:57:40.219Z",
@@ -226,13 +230,21 @@
   "atsb/burgerdoom": "2026-11-04T12:19:33.535Z",
   "atsb/call-to-power-2-sdl": "2026-11-20T07:31:34.975Z",
   "atsb/daikatana-restoration-project": "2026-11-20T07:31:34.975Z",
+  "atsb/efmm-3do-modern": "2026-11-21T01:36:40.961Z",
+  "atsb/exhumedex-plus": "2026-11-21T01:36:40.961Z",
   "atsb/freelarn": "2026-11-20T07:31:34.975Z",
+  "atsb/gauntlet-of-thyrion": "2026-11-21T01:36:40.961Z",
   "atsb/hiigara": "2026-11-20T07:31:34.975Z",
   "atsb/jezzball": "2026-11-20T07:31:34.975Z",
   "atsb/kaos-resurrected": "2026-11-20T07:31:34.975Z",
   "atsb/minesweeper": "2026-11-20T07:31:34.975Z",
+  "atsb/nakedamnesiathedarkdescent": "2026-11-21T01:36:40.961Z",
   "atsb/nakedavp": "2026-11-04T00:42:58.054Z",
+  "atsb/nakedmachineforpigs": "2026-11-21T01:36:40.961Z",
+  "atsb/nakedpenumbra": "2026-11-21T01:36:40.961Z",
   "atsb/rl_m": "2026-11-20T07:31:34.975Z",
+  "atsb/strife-the-order-edition": "2026-11-21T01:36:40.961Z",
+  "atsb/wrathplaces": "2026-11-21T01:36:40.961Z",
   "attacquesuperior/valiantshades": "2026-11-13T12:24:20.391Z",
   "augustinwinter/openfpga-cave": "2026-11-01T15:19:44.427Z",
   "augustinwinter/openfpga-macross2": "2026-10-25T15:56:57.670Z",
@@ -523,6 +535,7 @@
   "coin-opcollection/distribution-openfpga#pram0d-wrestlefest": "2026-10-25T15:56:57.670Z",
   "coin-opcollection/distribution-openfpga": "2026-10-26T15:18:29.150Z",
   "collapselauncher/collapse": "2026-11-15T15:43:49.692Z",
+  "collinsmith/riiablo": "2026-11-21T01:36:40.961Z",
   "colobot/colobotlauncher": "2026-11-19T23:07:39.871Z",
   "combinec-r/medieval-warfare": "2026-11-15T06:50:56.415Z",
   "commanderkeen83/doom-3-bfg-vr": "2026-10-25T15:36:27.479Z",
@@ -573,6 +586,7 @@
   "dahsidiabdallah/conkerbfdreloaded": "2026-10-23T22:46:33.769Z",
   "daid/emptyepsilon": "2026-11-10T02:48:55.931Z",
   "dalerank/akhenaten": "2026-11-10T02:48:55.931Z",
+  "dalerank/tutankhamun": "2026-11-21T01:36:40.961Z",
   "dallasxc/red-dead-recompilation": "2026-11-13T22:02:20.106Z",
   "dalves408/mvsc2-recomp": "2026-11-10T21:51:16.482Z",
   "dalves408/nhlhitz2003recomp": "2026-11-06T21:38:46.246Z",
@@ -623,11 +637,13 @@
   "dea7hsmiless/midnight-club-3-redub": "2026-11-15T15:43:49.692Z",
   "deadinside28/bloodborne_pc": "2026-10-25T15:36:27.479Z",
   "deavid/unhaunter": "2026-11-17T23:34:42.428Z",
+  "decomp-and-recomp/samurai-vs-zombies": "2026-11-21T01:36:40.961Z",
   "decompals/ido-static-recomp": "2026-10-25T15:36:27.479Z",
   "decompme/decomp.me": "2026-10-23T22:46:33.769Z",
   "decoryah/arcade-gaiapolis_mister": "2026-10-26T15:18:29.150Z",
   "decoryah/arcade-igspgm2_mister": "2026-10-26T15:18:29.150Z",
   "decoryah/arcade-jackiechan_mister": "2026-10-26T15:18:29.150Z",
+  "decoryah/arcade-konamim2_mister": "2026-11-21T01:36:40.961Z",
   "decoryah/arcade-magicalcatadventure_nostradamus_mister": "2026-10-26T15:18:29.150Z",
   "decoryah/arcade-monstermaulers_mister": "2026-10-26T15:18:29.150Z",
   "decoryah/arcade-taitolsystem_mister": "2026-11-04T19:55:48.147Z",
@@ -944,6 +960,8 @@
   "fulldivegames/sm64coopdx-vr-standalone-physics-based": "2026-10-23T22:25:39.434Z",
   "funkincrew/funkin": "2026-11-04T00:42:58.054Z",
   "fuzzybark/akujitheheartlessrecomp": "2026-11-11T14:23:02.719Z",
+  "fwgs/cs16-client": "2026-11-21T01:36:40.961Z",
+  "fwgs/tf15-client": "2026-11-21T01:36:40.961Z",
   "fwgs/xash3d-fwgs": "2026-10-28T21:12:08.030Z",
   "fwha/lost-paradise": "2026-11-11T14:23:02.719Z",
   "g30vamv/mh3u-nativepc": "2026-11-13T22:02:20.106Z",
@@ -1557,9 +1575,12 @@
   "kromenak/gengine": "2026-11-07T14:57:40.219Z",
   "kroplabeskidu/flipendo": "2026-11-13T22:02:20.106Z",
   "kroy-the-rabbit/openfpga-carttools": "2026-10-25T15:56:57.670Z",
+  "kujeger/openregent": "2026-11-21T01:36:40.961Z",
   "kumapauz/project-reignition": "2026-10-25T15:36:27.479Z",
   "kuraeow/ultratears": "2026-10-26T15:18:29.150Z",
+  "kvark/vange-rs": "2026-11-21T01:36:40.961Z",
   "kvasir94/killing-floor-2-vr": "2026-10-25T15:36:27.479Z",
+  "kvse/dsr-native": "2026-11-21T01:36:40.961Z",
   "kwstasg/unreal-revived": "2026-10-25T15:36:27.479Z",
   "kyanite-rock/descendersvrmod": "2026-10-25T15:36:27.479Z",
   "kyanite-rock/white_knuckle_vr": "2026-10-25T15:36:27.479Z",
@@ -1767,6 +1788,7 @@
   "mercurialw0rld/thebeatlesrockband-pcport": "2026-11-08T20:37:47.848Z",
   "merrit/nyrna": "2026-11-19T01:55:00.306Z",
   "meteo-dream/mf-community-edition": "2026-10-25T15:36:27.479Z",
+  "mezeporta/erupe": "2026-11-21T01:36:40.961Z",
   "mg1937/asc": "2026-10-23T22:46:33.769Z",
   "mgba-emu/mgba": "2026-10-25T15:36:27.479Z",
   "mgrz18/sdlpop-android": "2026-10-25T15:36:27.479Z",
@@ -1810,6 +1832,7 @@
   "mister-devel/aquarius_mister": "2026-10-25T15:56:57.670Z",
   "mister-devel/arcade-10yardfight_mister": "2026-11-17T13:39:44.494Z",
   "mister-devel/arcade-actfancer_mister": "2026-10-25T15:56:57.670Z",
+  "mister-devel/arcade-alpha68k_mister": "2026-11-21T01:36:40.961Z",
   "mister-devel/arcade-arabian_mister": "2026-10-25T15:56:57.670Z",
   "mister-devel/arcade-arkanoid_mister": "2026-10-25T15:56:57.670Z",
   "mister-devel/arcade-armedf_mister": "2026-11-16T06:50:57.087Z",
@@ -1927,6 +1950,7 @@
   "mister-devel/arcade-mrjong_mister": "2026-10-25T15:56:57.670Z",
   "mister-devel/arcade-mysticmarathon_mister": "2026-10-25T15:56:57.670Z",
   "mister-devel/arcade-naughtyboy_mister": "2026-10-25T15:56:57.670Z",
+  "mister-devel/arcade-nextspace_mister": "2026-11-21T01:36:40.961Z",
   "mister-devel/arcade-nightslashers_mister": "2026-10-25T15:56:57.670Z",
   "mister-devel/arcade-ninjakun_mister": "2026-10-25T15:56:57.670Z",
   "mister-devel/arcade-offthewall_mister": "2026-10-25T15:56:57.670Z",
@@ -2119,6 +2143,7 @@
   "mister-devel/ondraspo186_mister": "2026-10-25T15:56:57.670Z",
   "mister-devel/orao_mister": "2026-10-25T15:56:57.670Z",
   "mister-devel/oric_mister": "2026-10-25T15:56:57.670Z",
+  "mister-devel/pasopia7_mister": "2026-11-21T01:36:40.961Z",
   "mister-devel/pc-6001_mister": "2026-11-11T22:54:38.255Z",
   "mister-devel/pc-8001_mister": "2026-11-15T15:43:49.692Z",
   "mister-devel/pc88_mister": "2026-10-25T15:56:57.670Z",
@@ -3026,6 +3051,7 @@
   "rubocopter/penumbra_vr_framework#penumbra-overture-vr": "2026-10-25T15:36:27.479Z",
   "rubocopter/penumbra_vr_framework#penumbra-requiem-vr": "2026-10-25T15:36:27.479Z",
   "runedevros/storyofalostsky": "2026-11-04T00:42:58.054Z",
+  "runelite/launcher": "2026-11-21T01:36:40.961Z",
   "runig006/and-beyond": "2026-10-31T14:36:47.862Z",
   "rwcrosk-arch/dfu-quest3": "2026-10-31T05:58:24.466Z",
   "rwwo8/odysseyrecomp": "2026-11-17T02:59:38.190Z",
@@ -3510,6 +3536,8 @@
   "try/opengothic": "2026-11-07T14:57:40.219Z",
   "tsalvo/openfpga-varvara": "2026-10-25T15:56:57.670Z",
   "tsapz/skylanderscoreoflight": "2026-10-28T21:12:08.030Z",
+  "ttom795/lbm_android": "2026-11-21T01:36:40.961Z",
+  "ttom795/lms_android": "2026-11-21T01:36:40.961Z",
   "ttom795/skyrim_android": "2026-10-27T14:45:45.436Z",
   "tukidev-lgtm/tera-recomp": "2026-11-13T22:02:20.106Z",
   "tuxemon/tuxemon": "2026-11-07T20:20:18.275Z",
@@ -3517,7 +3545,9 @@
   "twilitrealm/dusklight": "2026-10-23T22:25:39.434Z",
   "twoayem/blurvr": "2026-10-29T06:03:16.453Z",
   "tx00100xt/serioussamclassic": "2026-10-25T15:36:27.479Z",
+  "tx00100xt/serioussamclassic-vk": "2026-11-21T01:36:40.961Z",
   "txukie/xboxrecomp-conker": "2026-10-31T05:58:24.466Z",
+  "tyscorp/openpete": "2026-11-21T01:36:40.961Z",
   "u2-bot/udpre": "2026-11-03T02:28:07.541Z",
   "ufodriverr/jade-cocoon-bevy-public-v1": "2026-10-30T06:03:37.031Z",
   "ugatec/grand-prix-circuit-recomp": "2026-10-31T05:58:24.466Z",
@@ -3686,6 +3716,7 @@
   "yuutatsubasa/chaotixrecompiled": "2026-10-25T15:36:27.479Z",
   "yuutatsubasa/free-riders-recompiled": "2026-10-25T15:36:27.479Z",
   "yuutatsubasa/marbleknightsrecompiled": "2026-11-10T02:48:55.931Z",
+  "yvt/openspades": "2026-11-21T01:36:40.961Z",
   "yyozcan/tobiichi-port": "2026-10-23T22:46:33.769Z",
   "z2442/oot-psp": "2026-10-23T22:25:39.434Z",
   "z3xox/bt3-recomp": "2026-10-23T22:46:33.769Z",
@@ -3835,6 +3866,35 @@
     "url": "https://www.youtube.com/watch?v=7A6ZVYrBZsI",
     "source": "YouTube: Paradise Decay",
     "date": "2026-10-19T17:00:06.000Z"
+   },
+   "autoFollow": true
+  },
+  "adore11s/heavy-rain-vr-mod": {
+   "id": "adore11s/heavy-rain-vr-mod",
+   "name": "Heavy Rain VR Mod",
+   "game": "Heavy Rain VR Mod",
+   "categories": [
+    "Other",
+    "VR Ports"
+   ],
+   "type": "port",
+   "tags": [
+    "VR"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "adore11s/Heavy-Rain-VR-Mod"
+   },
+   "links": [],
+   "sources": [
+    "news"
+   ],
+   "discoveredFrom": {
+    "kind": "news",
+    "title": "Heavy Rain VR Performance / New VR Mod With First Person Mode in True 3D / PCVR",
+    "url": "https://www.youtube.com/watch?v=BpTKW8VR3OU",
+    "source": "YouTube: NotAGameAddict",
+    "date": "2026-11-20T21:16:50.000Z"
    },
    "autoFollow": true
   },
@@ -4073,6 +4133,32 @@
     "date": "2026-10-26T15:18:29.150Z"
    },
    "autoFollow": false
+  },
+  "aitorgomez-net/pcxt_mister": {
+   "id": "aitorgomez-net/pcxt_mister",
+   "name": "PCXT Mi STer",
+   "game": "PCXT",
+   "categories": [
+    "MiSTer FPGA"
+   ],
+   "type": "core",
+   "tags": [
+    "FPGA"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "aitorgomez-net/PCXT_MiSTer"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "topic:mister-fpga stars:>5",
+    "date": "2026-11-21T01:36:40.961Z"
+   },
+   "autoFollow": true
   },
   "al-255/fm-1-re": {
    "id": "al-255/fm-1-re",
@@ -5765,6 +5851,32 @@
     "kind": "search",
     "title": "topic:mister-fpga stars:>5",
     "date": "2026-10-26T15:18:29.150Z"
+   },
+   "autoFollow": false
+  },
+  "decoryah/arcade-konamim2_mister": {
+   "id": "decoryah/arcade-konamim2_mister",
+   "name": "Arcade Konami M2 Mi STer",
+   "game": "Konami M2",
+   "categories": [
+    "MiSTer FPGA"
+   ],
+   "type": "core",
+   "tags": [
+    "FPGA"
+   ],
+   "repo": {
+    "host": "github",
+    "path": "decoryah/Arcade-KonamiM2_MiSTer"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "topic:mister-fpga stars:>5",
+    "date": "2026-11-21T01:36:40.961Z"
    },
    "autoFollow": false
   },
@@ -9464,6 +9576,30 @@
     "date": "2026-10-26T15:18:29.150Z"
    },
    "autoFollow": true
+  },
+  "kvse/dsr-native": {
+   "id": "kvse/dsr-native",
+   "name": "dsr native",
+   "game": "dsr native",
+   "categories": [
+    "Nintendo Switch"
+   ],
+   "type": "recompilation",
+   "tags": [],
+   "repo": {
+    "host": "github",
+    "path": "kvse/dsr-native"
+   },
+   "links": [],
+   "sources": [
+    "search"
+   ],
+   "discoveredFrom": {
+    "kind": "search",
+    "title": "\"static recompilation\" in:description stars:>30",
+    "date": "2026-11-21T01:36:40.961Z"
+   },
+   "autoFollow": false
   },
   "lambda-gab/cod1-vr": {
    "id": "lambda-gab/cod1-vr",
