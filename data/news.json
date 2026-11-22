@@ -1,6 +1,111 @@
 {
  "articles": [
   {
+   "title": "Heavy Rain VR Mod - 1st or 3rd Person POV, Native Stereo, Head-Tracking, Motion Controlled Hands",
+   "url": "https://www.youtube.com/watch?v=4DqZIsi6AGI",
+   "date": "2026-11-22T04:18:47.000Z",
+   "source": "YouTube: FastLawyer",
+   "outlet": "YouTube: FastLawyer",
+   "summary": "I bought this game! Heavy Rain is a cinematic, narrative-driven, psychological thriller. Heavy Rain can be played in Virtual Reality with the FREE VR Mod from Frenchiecore! Played on the Meta Quest 3 using Virtual Desktop on my RTX 5090. You can purchase game on Steam here: https://store.steampowered.com/app/960910/Heavy_Rain/ FREE VR mod from frenchiecore / adore11s here: https://github.com/adore",
+   "image": "https://i1.ytimg.com/vi/4DqZIsi6AGI/hqdefault.jpg",
+   "text": "Heavy Rain VR Mod - 1st or 3rd Person POV, Native Stereo, Head-Tracking, Motion Controlled Hands I bought this game! Heavy Rain is a cinematic, narrative-driven, psychological thriller. Heavy Rain can be played in Virtual Reality with the FREE VR Mod from Frenchiecore! Played on the Meta Quest 3 using Virtual Desktop on my RTX 5090. You can purchase game on Steam here: https://store.steampowered.com/app/960910/Heavy_Rain/ FREE VR mod from frenchiecore / adore11s here: https://github.com/adore11s/Heavy-Rain-VR-Mod Version 1.1 played. Join my Steam Curator Group, Can I VR It? Here: https://steamcommunity.com/groups/CIVRI",
+   "repos": [
+    "github:adore11s/Heavy-Rain-VR-Mod"
+   ],
+   "firstSeen": "2026-11-22T07:08:10.493Z"
+  },
+  {
+   "title": "ItsNotRexed builds Leonida, an early static recompilation project for Grand Theft Auto VI",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPV191OHkzZjliSC0xQV9wcVNfajlSSEdZbzNORWZsaDNGRW53ZGNSMDVpQkVzTGZDYVlwVzJiaTQ4b29PaHl1TFQ4dkg3Y01tREIxd2EzZXdSZWhMT1BqQTVEUEkyWDdLZ0tOMDB5SEFScDBoRHZwdVZqM0M3NUtrVWMtNmNFQXM5R0hweDRsQU5XWHRacl9JYkRtcnhpOFVzb1p6UDBWb3YxTGc4WE5welhIcWV2T0Fh?oc=5",
+   "date": "2026-11-22T04:09:57.000Z",
+   "source": "Google News",
+   "outlet": "news.lavx.hu",
+   "summary": "",
+   "image": null,
+   "text": "ItsNotRexed builds Leonida, an early static recompilation project for Grand Theft Auto VI - news.lavx.hu ItsNotRexed builds Leonida, an early static recompilation project for Grand Theft Auto VI news.lavx.hu",
+   "repos": [],
+   "firstSeen": "2026-11-22T07:08:10.493Z"
+  },
+  {
+   "title": "Samtronic 4:3 Arcade Briefcase Review! A 10/10 Weird and Fun Time",
+   "url": "https://www.youtube.com/watch?v=_OeIq620yjA",
+   "date": "2026-11-22T02:00:26.000Z",
+   "source": "YouTube: Video Game Esoterica",
+   "outlet": "YouTube: Video Game Esoterica",
+   "summary": "SUPPORT THE CHANNEL : http://www.patreon.com/VideoGameEsoterica Samtronic makes some REALLY off the wall arcade hardware and they wanted me to review the Samtronic 15 inch 4:3 LCD monitor arcade...briefcase! and it was so out of the ordinary I figured...why not! It's not every day you see a 4:3 LCD panel for arcade games and retro games...especially NOT in a metal briefcase as a full arcade stick!",
+   "image": "https://i4.ytimg.com/vi/_OeIq620yjA/hqdefault.jpg",
+   "text": "Samtronic 4:3 Arcade Briefcase Review! A 10/10 Weird and Fun Time SUPPORT THE CHANNEL : http://www.patreon.com/VideoGameEsoterica Samtronic makes some REALLY off the wall arcade hardware and they wanted me to review the Samtronic 15 inch 4:3 LCD monitor arcade...briefcase! and it was so out of the ordinary I figured...why not! It's not every day you see a 4:3 LCD panel for arcade games and retro games...especially NOT in a metal briefcase as a full arcade stick! So here is a Samtronic review Yes its basically a Pandora's Box review...but that can be fun! You can check it out here: https://www.samtronic.co/collections/all-products/products/folding-15-inch-arcade-console?dt_id=3559223 Note: not an affiliate link, I make no money from you clicking it and if you STILL dont believe that just google the company and find it! Legit...cool with me! Questions? Comments? Just leave them below and I will do my best to answer each and every one of them! http://www.patreon.com/VideoGameEsoterica VGE",
+   "repos": [],
+   "firstSeen": "2026-11-22T07:08:10.493Z"
+  },
+  {
+   "title": "GTA 6 could arrive on PC sooner than expected, thanks to a developer behind an unofficial Switch 2 Zelda: Ocarina of Time remake port",
+   "url": "https://www.xda-developers.com/gta-6-arrive-pc-soon-developer-unofficial-switch-2-zelda-ocarina-of-time-remake-port/",
+   "date": "2026-11-22T01:42:18.000Z",
+   "source": "XDA",
+   "outlet": "XDA",
+   "summary": "The project is still in the early stages and the game doesn't currently even boot.",
+   "image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/gta-6-lucia-jason-1.jpg",
+   "text": "GTA 6 could arrive on PC sooner than expected, thanks to a developer behind an unofficial Switch 2 Zelda: Ocarina of Time remake port NotRexed , a key developer behind Hookshot , one of the first projects to bring the Switch 2 remake of The Legend of Zelda: Ocarina of Time to PC through static recompilation, says they're now working on an unofficial PC version of Grand Theft Auto 6 (the project was first announced on their Discord ). Leonida seems to be built around the leaked Xbox build of GTA 6 , which recently appeared online courtesy of Cyberleek , the same person or team behind major leaks surrounding the game from earlier this year.",
+   "repos": [
+    "github:ItsNotRexed/Hookshot",
+    "github:Likely7/Veyra-NRVideo"
+   ],
+   "firstSeen": "2026-11-22T07:08:10.493Z"
+  },
+  {
+   "title": "STAR WARS Battlefront II (2107) VR Performance / VR Mod with First Person Mode / PCVR",
+   "url": "https://www.youtube.com/watch?v=cYKyUQi1NdQ",
+   "date": "2026-11-22T00:38:49.000Z",
+   "source": "YouTube: NotAGameAddict",
+   "outlet": "YouTube: NotAGameAddict",
+   "summary": "00:00 - First person 06:02 - Third person 09:35 - VR gameplay with FPS overlay Note - At this moment I can not recommend this mod. Your view is both with first and third person above your character. Also the aim cursor is not correct. I played with keyboard and mouse BF2VR mod was made by Horsellcommon - https://github.com/horsellcommon/BF2VR STAR WARS™ Battlefront™ II - https://store.steampowered",
+   "image": "https://i4.ytimg.com/vi/cYKyUQi1NdQ/hqdefault.jpg",
+   "text": "STAR WARS Battlefront II (2107) VR Performance / VR Mod with First Person Mode / PCVR 00:00 - First person 06:02 - Third person 09:35 - VR gameplay with FPS overlay Note - At this moment I can not recommend this mod. Your view is both with first and third person above your character. Also the aim cursor is not correct. I played with keyboard and mouse BF2VR mod was made by Horsellcommon - https://github.com/horsellcommon/BF2VR STAR WARS™ Battlefront™ II - https://store.steampowered.com/app/1237950/STAR_WARS_Battlefront_II/",
+   "repos": [
+    "github:horsellcommon/BF2VR"
+   ],
+   "firstSeen": "2026-11-22T07:08:10.493Z"
+  },
+  {
+   "title": "Flying a Star Wars N-1 Starfighter in VR on a Motion Sim Is UNREAL!",
+   "url": "https://www.youtube.com/watch?v=SK4OLMAo5Fc",
+   "date": "2026-11-21T23:00:31.000Z",
+   "source": "YouTube: VR DaD",
+   "outlet": "YouTube: VR DaD",
+   "summary": "🔗 Get a Pimax Crystal Super, Use code VRDad and support the channel at no additional cost : https://store.pimax.com/products/pimax-headset-with-pimax-evo-software?ref=VrDad 🔗 Get yourself a motion sim with a $200 VR Dad discount: https://shallxr.com/products/yaw-u-the-only-full-360-motion-simulator-for-flight-sims?ref=VRDaD 🔗 Mod link: https://flightsim.to/addon/119206/n-1-starfighter 🔗 Discor",
+   "image": "https://i4.ytimg.com/vi/SK4OLMAo5Fc/hqdefault.jpg",
+   "text": "Flying a Star Wars N-1 Starfighter in VR on a Motion Sim Is UNREAL! 🔗 Get a Pimax Crystal Super, Use code VRDad and support the channel at no additional cost : https://store.pimax.com/products/pimax-headset-with-pimax-evo-software?ref=VrDad 🔗 Get yourself a motion sim with a $200 VR Dad discount: https://shallxr.com/products/yaw-u-the-only-full-360-motion-simulator-for-flight-sims?ref=VRDaD 🔗 Mod link: https://flightsim.to/addon/119206/n-1-starfighter 🔗 Discord: https://discord.gg/S2hpcXasER 💖 Support the channel by becoming a Member: https://www.youtube.com/channel/UCk3kCEYhdR6mJX1wsaYPsOw/join Strapping into the cockpit of the iconic Naboo N-1 Starfighter mod in Microsoft Flight Simulator—and taking it all the way into orbit in VR on my motion simulator! Paired with the razor-sharp clarity of the Pimax Crystal Super and full motion feedback, pushing this Starfighter through the upper atmosphere and out into space feels completely surreal. In this video, I share my honest impressions of how the mod handles, what the cockpit looks like up close in high-res VR, and how well it translates to a motion rig. 💬 Join the Discussion: What’s your dream sci-fi ship to fly in VR on a motion simulator? Drop your picks in the comments below! 👍 Like & Subscribe for more honest PCVR flight sim tests, mod showcases, and hardware reviews! Ciao!",
+   "repos": [],
+   "firstSeen": "2026-11-22T07:08:10.493Z"
+  },
+  {
+   "title": "3D Dot Game Heroes Recomp Out NOW! The BEST PS3 Recomp Yet",
+   "url": "https://www.youtube.com/watch?v=PECn48M0AXY",
+   "date": "2026-11-21T22:00:00.000Z",
+   "source": "YouTube: Video Game Esoterica",
+   "outlet": "YouTube: Video Game Esoterica",
+   "summary": "SUPPORT THE CHANNEL : http://www.patreon.com/VideoGameEsoterica A new PS3 recomp is here! A 3D Dot Game Heroes recomp...and its GOOD for being so early! and its, IMO, the best PS3 recompilation yet! It just does EVERYTHING right! Cubic Heroes is the name...and wow! Yes we have PS4 PC ports, PS2 recomps, Switch recomps, N64 Recomps...and more! But its been a wait until we got our first PS3 recomp..",
+   "image": "https://i1.ytimg.com/vi/PECn48M0AXY/hqdefault.jpg",
+   "text": "3D Dot Game Heroes Recomp Out NOW! The BEST PS3 Recomp Yet SUPPORT THE CHANNEL : http://www.patreon.com/VideoGameEsoterica A new PS3 recomp is here! A 3D Dot Game Heroes recomp...and its GOOD for being so early! and its, IMO, the best PS3 recompilation yet! It just does EVERYTHING right! Cubic Heroes is the name...and wow! Yes we have PS4 PC ports, PS2 recomps, Switch recomps, N64 Recomps...and more! But its been a wait until we got our first PS3 recomp...and we got that with the Resistance PS3 recomp! The PlayStation 3 recomp generation / PS3 PC port generation is kicking off now! PlayStation PC ports without PlayStation? SURE! Check it out here: https://github.com/irnutsmurt/Cubic.Heroes Questions? Comments? Just leave them below and I will do my best to answer each and every one of them! http://www.patreon.com/VideoGameEsoterica VGE Discord: https://discord.gg/V6ghGVC6Ts",
+   "repos": [
+    "github:irnutsmurt/Cubic.Heroes"
+   ],
+   "firstSeen": "2026-11-22T07:08:10.493Z"
+  },
+  {
+   "title": "GTA 6 Xbox Series Version Is Being Recompiled to Run Natively on PC, but It Doesn't Boot Yet",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9zb3ptRlhXVVEyZ1I0TmRXdlpvWmU5RV9uaU9lSm95UC1UdkhCVHpMVWJNT2lfN2RuS2xsRk5iNkJMa28tV2cwZzB4TWpBUHVNd0txNWxtbU5HSVBfb0Q2X2lRQnhZSDNHV1k4clBHX0x4Mlk?oc=5",
+   "date": "2026-11-21T21:10:34.000Z",
+   "source": "Google News",
+   "outlet": "TwistedVoxel",
+   "summary": "",
+   "image": null,
+   "text": "GTA 6 Xbox Series Version Is Being Recompiled to Run Natively on PC, but It Doesn't Boot Yet - TwistedVoxel GTA 6 Xbox Series Version Is Being Recompiled to Run Natively on PC, but It Doesn't Boot Yet TwistedVoxel",
+   "repos": [],
+   "firstSeen": "2026-11-22T07:08:10.493Z"
+  },
+  {
    "title": "MiSTer Double Axle, Galactic Storm & The Fonz Core + Native Ports, Wonderswan Color Game Bub - 399",
    "url": "https://www.youtube.com/watch?v=QpwFGBf3Fw8",
    "date": "2026-11-21T20:00:18.000Z",
@@ -118,6 +223,18 @@
    "text": "Tekken 2, Soul Blade, Point Blank 2 & More on Analogue Pocket – Impossible Made Possible! Ways to Support the Channel (some affiliate links) EARLY ACCESS TO NEWS VIDEOS AND OTHER EXCLUSIVES https://www.youtube.com/channel/UCEozS0uaZibXKTQSu10XgSw/join https://www.patreon.com/PixelCherryNinja Buy a FightBox R10-Pro Arcade Stick with Trackball & Spinner USE CODE \"PixelCherryNinja\" for 10% OFF https://fightboxarcade.com/collections/best-sellers/products/fightbox-r10-pro-arcade-fight-stick-with-trackball-spinner-retro-game-controller-for-pc-ps3-switch Buy a Octopus TR Fightstick https://www.trfightstick.com/?ref=PCN Click link then use code \"PCN\" for $25 Off Buy a Morph2K https://www.pixelfx.co/product-page/morph-2k-analog-video-scaler?ref=PCN Buy a Zaparoo product (10% off) https://shop.zaparoo.com/discount/PixelCherryNinja or just enter code \"PixelCherryNinja\" Join the Pixel Cherry Ninja Gaming Discord https://discord.gg/5W9pCy2nXa Special thanks to channel Patreon's Silver Ninja's - John Gillotte, Meathax, RGM, SmoMo, VimDiesel Bronze Ninja's - Alessandro Gulli, Alexander Facchini, Anime0t4ku, anthony, Bjamiork, craigpow, Curt Dittmer, Ernie D, Fizzun Dirtnap, Juan Alvarez, Keith F. Kelly, Nicholas Robertson-Muir, Niallquinn, ncc1701p, Peter Davis, Rap, Scott Dowdle, Tamariel, theypsilon, ZXFace A special Thanks to all Channel Members I Really Really Like PCN! - RGM - Random Gaming Moments https://www.youtube.com/channel/UCIm6dft7oV92-zMCn4A6g2Q I Really Like PCN! - Aleem Tayy",
    "repos": [],
    "firstSeen": "2026-11-21T21:43:39.396Z"
+  },
+  {
+   "title": "GTA 6 Xbox leak sparks hopes for quick unofficial PC port",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPOENJWm5OX09hVURNZDZyaElxaFJvWlBrSjJ4c2E2V041TUxhNnhPRElFOFlteEFjcHcxeFV0bkxWTHA5YUpuQmp1cExLdkxpS0JvQS01c3dSQi1SUTVoS0dHdGpCYmxaUFlORzNJNnBQbE5yWWMyYS1xcG1YUTRFUnd3?oc=5",
+   "date": "2026-11-21T12:55:31.000Z",
+   "source": "Google News",
+   "outlet": "ARYnews.tv",
+   "summary": "",
+   "image": null,
+   "text": "GTA 6 Xbox leak sparks hopes for quick unofficial PC port - ARYnews.tv GTA 6 Xbox leak sparks hopes for quick unofficial PC port ARYnews.tv",
+   "repos": [],
+   "firstSeen": "2026-11-22T07:08:10.493Z"
   },
   {
    "title": "GTA 6: PC gamers welcome unofficial PC port despite potential damage to the industry",
