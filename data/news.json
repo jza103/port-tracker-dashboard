@@ -1,6 +1,158 @@
 {
  "articles": [
   {
+   "title": "GTA 6’s unofficial PC port has an 8GB GPU claim, but the game still won’t boot",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPaW1jRnZYUEJhSDQ3THZULUw2TDc0Y3lpS1pHanVHTHdUNHdSMnZZV3Y5R3YwUWR1REl1RElqdVVKUzF0b21qOXloX2huUUxVc1M1MDJqemM0UDY5VFhPZGtlUUpDb0J3VTYxRkROTkFEaTFoeG9nemtvMVlfU2hsMFNwRF8?oc=5",
+   "date": "2026-11-23T14:33:21.000Z",
+   "source": "Google News",
+   "outlet": "MIXED News",
+   "summary": "",
+   "image": null,
+   "text": "GTA 6’s unofficial PC port has an 8GB GPU claim, but the game still won’t boot - MIXED News GTA 6’s unofficial PC port has an 8GB GPU claim, but the game still won’t boot MIXED News",
+   "repos": [],
+   "firstSeen": "2026-11-23T14:59:46.330Z"
+  },
+  {
+   "title": "GTA 6’s unofficial PC port has an 8GB GPU claim, but the game still won’t boot",
+   "url": "https://mixed-news.com/en/gta-6-unofficial-pc-port-8gb-gpu-claim-not-playable/",
+   "date": "2026-11-23T14:03:59.000Z",
+   "source": "MIXED",
+   "outlet": "MIXED",
+   "summary": "A list circulating online suggests that an unofficial GTA 6 PC project could eventually support an RTX 30-series graphics card with 8GB of video memory. If you have been wondering whether your existing GPU might be enough, though, there is a catch: the project says it still cannot boot the game. The claim concerns Leonida, ... GTA 6’s unofficial PC port has an 8GB GPU claim, but the game still won",
+   "image": null,
+   "text": "GTA 6’s unofficial PC port has an 8GB GPU claim, but the game still won’t boot A list circulating online suggests that an unofficial GTA 6 PC project could eventually support an RTX 30-series graphics card with 8GB of video memory. If you have been wondering whether your existing GPU might be enough, though, there is a catch: the project says it still cannot boot the game. The claim concerns Leonida, ... GTA 6’s unofficial PC port has an 8GB GPU claim, but the game still won’t boot The post GTA 6’s unofficial PC port has an 8GB GPU claim, but the game still won’t boot appeared first on MIXED News .",
+   "repos": [
+    "github:ItsNotRexed/Leonida"
+   ],
+   "firstSeen": "2026-11-23T14:59:46.330Z"
+  },
+  {
+   "title": "Mass Effect VR with Motion Controls - Early Testing",
+   "url": "https://www.youtube.com/shorts/TPYa1BQX91I",
+   "date": "2026-11-23T14:02:20.000Z",
+   "source": "YouTube: LunchAndVR",
+   "outlet": "YouTube: LunchAndVR",
+   "summary": "Early testing of the Mass Effect 1 VR mod with motion controls, it has a long way to go before being ready. A lot of messy visuals. However motion controls do work and is pretty cool to try. If you want to test early: https://github.com/dnehring/MEVR Tested with Mass Effect Legendary Edition on EA App _ Thanks for coming! Appreciate you dropping by here, you're a cool person. If you want to stay a",
+   "image": "https://i1.ytimg.com/vi/TPYa1BQX91I/hqdefault.jpg",
+   "text": "Mass Effect VR with Motion Controls - Early Testing Early testing of the Mass Effect 1 VR mod with motion controls, it has a long way to go before being ready. A lot of messy visuals. However motion controls do work and is pretty cool to try. If you want to test early: https://github.com/dnehring/MEVR Tested with Mass Effect Legendary Edition on EA App _ Thanks for coming! Appreciate you dropping by here, you're a cool person. If you want to stay around, I do all things VR & gaming related. (lunch included) Lunch's Discounts/affiliates here: https://linktr.ee/lunchandvr",
+   "repos": [
+    "github:dnehring/MEVR"
+   ],
+   "firstSeen": "2026-11-23T14:59:46.330Z"
+  },
+  {
+   "title": "'Kaos', a compact Sega Master System & Game Gear FPGA Console, Appears Online",
+   "url": "https://www.timeextension.com/news/2026/11/kaos-a-compact-sega-master-system-and-game-gear-fpga-console-appears-online",
+   "date": "2026-11-23T14:00:00.000Z",
+   "source": "Time Extension",
+   "outlet": "Time Extension",
+   "summary": "F(lat)PGA. This weekend, homebrew outfit \"Ryutekk\" posted images of a brand-new compact console dedicated to Sega's 8-bit era. \"Kaos\" appears to be a small, slimline FPGA console focusing on Sega's mega-selling Master System and its handheld equivalent, Game Gear . Kaos debuted on the X account of \"Ced\" , who previously released the Sega Saturn drive emulator \"Fenrir\" through their outlet, Ryutekk",
+   "image": "https://images.timeextension.com/8bffccd28ac34/large.jpg",
+   "text": "'Kaos', a compact Sega Master System & Game Gear FPGA Console, Appears Online F(lat)PGA. This weekend, homebrew outfit \"Ryutekk\" posted images of a brand-new compact console dedicated to Sega's 8-bit era. \"Kaos\" appears to be a small, slimline FPGA console focusing on Sega's mega-selling Master System and its handheld equivalent, Game Gear . Kaos debuted on the X account of \"Ced\" , who previously released the Sega Saturn drive emulator \"Fenrir\" through their outlet, Ryutekk. The teaser offers very little in the way of details regarding Ryutekk's, uhh, tech, but digging through the replies unearths further tidbits about the dinky device. Read the full article on timeextension.com",
+   "repos": [],
+   "firstSeen": "2026-11-23T14:59:46.330Z"
+  },
+  {
+   "title": "MediEvil PS4 PC Port Out and Updated! SO Good",
+   "url": "https://www.youtube.com/watch?v=Ud3q7M3TfYA",
+   "date": "2026-11-23T13:30:20.000Z",
+   "source": "YouTube: Video Game Esoterica",
+   "outlet": "YouTube: Video Game Esoterica",
+   "summary": "SUPPORT THE CHANNEL : http://www.patreon.com/VideoGameEsoterica AnyPS5 has PS5 \"recomps\" covered...but what about PS4 PC ports? and PS4 recomps? Now we have a MediEvil PC port / MediEvil Resurrected PC port that will do 4K60 or even higher frame rates! MediEvil Resurrected on pc after someone decompiled P.T. (the cancelled Silent Hill game playable trailer) and ported it to PC...and also the Blood",
+   "image": "https://i2.ytimg.com/vi/Ud3q7M3TfYA/hqdefault.jpg",
+   "text": "MediEvil PS4 PC Port Out and Updated! SO Good SUPPORT THE CHANNEL : http://www.patreon.com/VideoGameEsoterica AnyPS5 has PS5 \"recomps\" covered...but what about PS4 PC ports? and PS4 recomps? Now we have a MediEvil PC port / MediEvil Resurrected PC port that will do 4K60 or even higher frame rates! MediEvil Resurrected on pc after someone decompiled P.T. (the cancelled Silent Hill game playable trailer) and ported it to PC...and also the Bloodborne PC port, the Uncharted: The Nathan Drake Collection PC port, the Shadow of the Colossus PC port...and more! We have talked a lot about retro gaming recomps and retro gaming PC ports on the channel along with PS5 emulation improvements with KytyPS5 and SharpEmu...but today its all about PS4! Check it out: https://github.com/bc160201983/medievil_2019_pc_port Questions? Comments? Just leave them below and I will do my best to answer each and every one of them! http://www.patreon.com/VideoGameEsoterica You can follow us at IG : ChicagoGameCollector , or join our Discord Server : https://discord.gg/qhsbXgK4M2",
+   "repos": [
+    "github:bc160201983/medievil_2019_pc_port"
+   ],
+   "firstSeen": "2026-11-23T14:59:46.330Z"
+  },
+  {
+   "title": "WaterField Launches New Cases For Retroid Pocket Nova & AYN Thor",
+   "url": "https://retrododo.com/waterfield-launches-new-cases-for-retroid-pocket-nova-ayn-thor/",
+   "date": "2026-11-23T13:14:04.000Z",
+   "source": "Retro Dodo",
+   "outlet": "Retro Dodo",
+   "summary": "🤝 Don't want to see ads? Become a premium member for $3 a month and support an independent publication today! There aren't enough well-designed cases, pouches or sleeves for retro handhelds these days. We always get those cheap ones that typically come free with",
+   "image": "https://storage.ghost.io/c/58/fd/58fdc82a-ad84-44e2-ad58-166d1b419bc4/content/images/2026/11/waterfield-nova.webp",
+   "text": "WaterField Launches New Cases For Retroid Pocket Nova & AYN Thor 🤝 Don't want to see ads? Become a premium member for $3 a month and support an independent publication today! There aren't enough well-designed cases, pouches or sleeves for retro handhelds these days. We always get those cheap ones that typically come free with the handheld, or we're forced to use something that doesn't really fit, or worse, doesn't look great. I've even looked at designing my own in the past, but it never led to anything. So, when I heard that WaterField Designs was working on a case for my favourite retro handheld of the year, the Retroid Pocket Nova, I was over the moon. I have yet to try their cases, but I know they started dabbling in cases for handhelds back a year or two ago when they launched one for the Analogue Pocket. It seems like it went down well because they're back making more for other devices, including the AYN Thor. They build protective carrying cases for retro handhelds and other consumer tech products. The Nova edition comes in two variants, one that fits the device without the TPU grip, and one that fits it with the TPU grip. Their cases are handcrafted in San Frasico, or wqater-resistant and combines fleece lining with a quick open/close magnet top that can be opened and closed by adding force to the sides. \"A gaming case doesn't need to look like a gaming case,\" said company founder Gary Waterfield. \"We wanted something with a more refined, professional look, but still",
+   "repos": [],
+   "firstSeen": "2026-11-23T14:59:46.330Z"
+  },
+  {
+   "title": "New SNES Mortal Kombat Cheats Discovered 33 Years After Mortal Monday",
+   "url": "https://www.timeextension.com/news/2026/11/new-snes-mortal-kombat-cheats-discovered-33-years-after-mortal-monday",
+   "date": "2026-11-23T11:40:00.000Z",
+   "source": "Time Extension",
+   "outlet": "Time Extension",
+   "summary": "And no, there's no Blood Code. A ROM hacker has discovered a fistful of seemingly undocumented cheats for the SNES port of Midway's groundbreaking (at least in terms of on-screen violence) one-on-one fighter, Mortal Kombat . The new cheats include a credit boost and a level skip, instantly whisking the player to the tournament's boss battles. YouTuber Nekorun uncovered the 33-year-old cheats by re",
+   "image": "https://images.timeextension.com/0d77678de3f73/large.jpg",
+   "text": "New SNES Mortal Kombat Cheats Discovered 33 Years After Mortal Monday And no, there's no Blood Code. A ROM hacker has discovered a fistful of seemingly undocumented cheats for the SNES port of Midway's groundbreaking (at least in terms of on-screen violence) one-on-one fighter, Mortal Kombat . The new cheats include a credit boost and a level skip, instantly whisking the player to the tournament's boss battles. YouTuber Nekorun uncovered the 33-year-old cheats by reverse-engineering the ROM of the 1993 release to uncover the code's accepted inputs during its load screen. This was then followed by a period of testing to ascertain the correct combination. While one code, affording the player a bonus 10 credits, was previously known by the kommunity, it was believed to only work in the JPN edition of the game. Read the full article on timeextension.com",
+   "repos": [],
+   "firstSeen": "2026-11-23T14:59:46.330Z"
+  },
+  {
+   "title": "GTA 6 system requirements for unofficial PC port reveal it should run fine on an 8GB graphics card",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNEdEVWtVWld2Uk8zQnpqajUxRk1fQ0JaeFN0ZlM5OXB4clVTN3hFajRfTVl5bHBoWFhkbEw0aDh2NkVTU1ctcVFvNlg4YmhDR1poOG9TVUEzMnNJbXhBNVc0NFRIMzNVai1sTlA4LVpNUEVwdFh1UXRRaWRscjFZWmU2UjlmU0VVQkpfdWpnaEdtZU44LUVuVktId0MxR2h4RXlpb2tyQkpHNUlRZm1Zcmh1Z3Brd0ZSRW5tQjJUZC1tTGRDUkt3?oc=5",
+   "date": "2026-11-23T11:19:11.000Z",
+   "source": "Google News",
+   "outlet": "PC Guide",
+   "summary": "",
+   "image": null,
+   "text": "GTA 6 system requirements for unofficial PC port reveal it should run fine on an 8GB graphics card - PC Guide GTA 6 system requirements for unofficial PC port reveal it should run fine on an 8GB graphics card PC Guide",
+   "repos": [],
+   "firstSeen": "2026-11-23T14:59:46.330Z"
+  },
+  {
+   "title": "Diablo 1 VR Performance / New First Person VR Mod with 6DOF Motion Controls / PCVR",
+   "url": "https://www.youtube.com/watch?v=xv3UspjHc0I",
+   "date": "2026-11-23T11:18:18.000Z",
+   "source": "YouTube: NotAGameAddict",
+   "outlet": "YouTube: NotAGameAddict",
+   "summary": "00:00 - Sorcerer - FPS overlay 03:51 - Warrior 06:38 - Bow handling 07:35 - Warrior Diablo Veilbreak mod made by Discord user Sintek - https://discordapp.com/channels/747967102895390741/1573683651441590354 Diablo 1 - https://www.gog.com/en/game/diablo",
+   "image": "https://i1.ytimg.com/vi/xv3UspjHc0I/hqdefault.jpg",
+   "text": "Diablo 1 VR Performance / New First Person VR Mod with 6DOF Motion Controls / PCVR 00:00 - Sorcerer - FPS overlay 03:51 - Warrior 06:38 - Bow handling 07:35 - Warrior Diablo Veilbreak mod made by Discord user Sintek - https://discordapp.com/channels/747967102895390741/1573683651441590354 Diablo 1 - https://www.gog.com/en/game/diablo",
+   "repos": [],
+   "firstSeen": "2026-11-23T14:59:46.330Z"
+  },
+  {
+   "title": "Mega Man 9 Gets a Native MiSTer FPGA Port!",
+   "url": "https://www.youtube.com/watch?v=voTJW1EE7Do",
+   "date": "2026-11-23T11:00:26.000Z",
+   "source": "YouTube: Pixel Cherry Ninja",
+   "outlet": "YouTube: Pixel Cherry Ninja",
+   "summary": "Ways to Support the Channel (some affiliate links) EARLY ACCESS TO NEWS VIDEOS AND OTHER EXCLUSIVES https://www.youtube.com/channel/UCEozS0uaZibXKTQSu10XgSw/join https://www.patreon.com/PixelCherryNinja Buy a FightBox R10-Pro Arcade Stick with Trackball & Spinner USE CODE \"PixelCherryNinja\" for 10% OFF https://fightboxarcade.com/collections/best-sellers/products/fightbox-r10-pro-arcade-fight-stick",
+   "image": "https://i3.ytimg.com/vi/voTJW1EE7Do/hqdefault.jpg",
+   "text": "Mega Man 9 Gets a Native MiSTer FPGA Port! Ways to Support the Channel (some affiliate links) EARLY ACCESS TO NEWS VIDEOS AND OTHER EXCLUSIVES https://www.youtube.com/channel/UCEozS0uaZibXKTQSu10XgSw/join https://www.patreon.com/PixelCherryNinja Buy a FightBox R10-Pro Arcade Stick with Trackball & Spinner USE CODE \"PixelCherryNinja\" for 10% OFF https://fightboxarcade.com/collections/best-sellers/products/fightbox-r10-pro-arcade-fight-stick-with-trackball-spinner-retro-game-controller-for-pc-ps3-switch Buy a Octopus TR Fightstick https://www.trfightstick.com/?ref=PCN Click link then use code \"PCN\" for $25 Off Buy a Morph2K https://www.pixelfx.co/product-page/morph-2k-analog-video-scaler?ref=PCN Buy a Zaparoo product (10% off) https://shop.zaparoo.com/discount/PixelCherryNinja or just enter code \"PixelCherryNinja\" Join the Pixel Cherry Ninja Gaming Discord https://discord.gg/5W9pCy2nXa Get it here https://youtu.be/gQsKmxXLeQc?si=YaRZHawEsEmUYcVF Special thanks to channel Patreon's Silver Ninja's - John Gillotte, Meathax, RGM, SmoMo, VimDiesel Bronze Ninja's - Alessandro Gulli, Alexander Facchini, Anime0t4ku, anthony, Bjamiork, craigpow, Curt Dittmer, Ernie D, Fizzun Dirtnap, Juan Alvarez, Keith F. Kelly, Nicholas Robertson-Muir, Niallquinn, ncc1701p, Peter Davis, Rap, Scott Dowdle, Tamariel, theypsilon, ZXFace A special Thanks to all Channel Members I Really Really Like PCN! - RGM - Random Gaming Moments https://www.youtube.com/channel/UCIm6dft7oV92-zMCn4A6g2Q I Really Like PCN",
+   "repos": [],
+   "firstSeen": "2026-11-23T14:59:46.330Z"
+  },
+  {
+   "title": "Zelda: Ocarina of Time Remake Has Only Just Released On Switch 2, Yet Its First VR Mod Already Puts Players Behind Link’s Eyes",
+   "url": "https://wccftech.com/zelda-ocarina-of-time-remake-switch-2-vr-mod/",
+   "date": "2026-11-23T10:13:16.000Z",
+   "source": "Wccftech",
+   "outlet": "Wccftech",
+   "summary": "The launch of The Legend of Zelda: Ocarina of Time remake earlier this month quickly became notable not only for its smashing success (which Eiji Aonuma didn't take for granted, considering the series' dark days up to the release of Breath of the Wild) but also for invigorating Nintendo Switch 2 emulation. Alongside emulation, another way to enjoy the remake is via unofficial PC ports like Hooksho",
+   "image": "https://cdn.wccftech.com/wp-content/uploads/2026/11/Zelda-Ocarina-of-Time-Remake-VR-mod-1456x813.jpg",
+   "text": "Zelda: Ocarina of Time Remake Has Only Just Released On Switch 2, Yet Its First VR Mod Already Puts Players Behind Link’s Eyes The launch of The Legend of Zelda: Ocarina of Time remake earlier this month quickly became notable not only for its smashing success (which Eiji Aonuma didn't take for granted, considering the series' dark days up to the release of Breath of the Wild) but also for invigorating Nintendo Switch 2 emulation. Alongside emulation, another way to enjoy the remake is via unofficial PC ports like Hookshot, which has just become even better with the game's first VR mod that shows great attention to detail. \"OcarinaVR is a mod for Hookshot, the native PC recompilation of The Legend of Zelda: Ocarina [&hellip;] Read full article at https://wccftech.com/zelda-ocarina-of-time-remake-switch-2-vr-mod/",
+   "repos": [],
+   "firstSeen": "2026-11-23T14:59:46.330Z"
+  },
+  {
+   "title": "TANUKI: Pon's Summer VR Mod (WIP) - 1st or 3rd POV, Native Stereo, Head-Tracking, 6DOF Paws",
+   "url": "https://www.youtube.com/watch?v=Joq5-k5TWy8",
+   "date": "2026-11-23T06:52:06.000Z",
+   "source": "YouTube: FastLawyer",
+   "outlet": "YouTube: FastLawyer",
+   "summary": "I bought this game! TANUKI Pon's Summer is an open-world cozy life-sim and adventure game blended with arcade BMX trick action. TANUKI: Pon's Summer can now be played in Virtual Reality with the FREE VR Mod from King EJ! Played on the Meta Quest 3 using Virtual Desktop on my RTX 5090. You can purchase game on Steam here: https://store.steampowered.com/app/3218570/TANUKI_Pons_Summer/ FREE VR mod fr",
+   "image": "https://i3.ytimg.com/vi/Joq5-k5TWy8/hqdefault.jpg",
+   "text": "TANUKI: Pon's Summer VR Mod (WIP) - 1st or 3rd POV, Native Stereo, Head-Tracking, 6DOF Paws I bought this game! TANUKI Pon's Summer is an open-world cozy life-sim and adventure game blended with arcade BMX trick action. TANUKI: Pon's Summer can now be played in Virtual Reality with the FREE VR Mod from King EJ! Played on the Meta Quest 3 using Virtual Desktop on my RTX 5090. You can purchase game on Steam here: https://store.steampowered.com/app/3218570/TANUKI_Pons_Summer/ FREE VR mod from King EJ here: https://github.com/King-EJ/Tanuki-Pons-Summer-VR Please support King EJ @K1ngGamer24 by joining his YouTube channel here: https://www.youtube.com/@UCrZzZmyrX6kD41umpn4xd6w Join my Steam Curator Group, Can I VR It? Here: https://steamcommunity.com/groups/CIVRI",
+   "repos": [
+    "github:King-EJ/Tanuki-Pons-Summer-VR"
+   ],
+   "firstSeen": "2026-11-23T14:59:46.330Z"
+  },
+  {
    "title": "Street Fighter III 3rd Strike Plus - Adds Lots, Takes Nothing Away! Tested on MiSTer",
    "url": "https://www.youtube.com/watch?v=27e0u0ESYTc",
    "date": "2026-11-22T23:00:23.000Z",
@@ -8,7 +160,7 @@
    "outlet": "YouTube: Pixel Cherry Ninja",
    "summary": "Ways to Support the Channel (some affiliate links) EARLY ACCESS TO NEWS VIDEOS AND OTHER EXCLUSIVES https://www.youtube.com/channel/UCEozS0uaZibXKTQSu10XgSw/join https://www.patreon.com/PixelCherryNinja Buy a FightBox R10-Pro Arcade Stick with Trackball & Spinner USE CODE \"PixelCherryNinja\" for 10% OFF https://fightboxarcade.com/collections/best-sellers/products/fightbox-r10-pro-arcade-fight-stick",
    "image": "https://i3.ytimg.com/vi/27e0u0ESYTc/hqdefault.jpg",
-   "text": "Street Fighter III 3rd Strike Plus - Adds Lots, Takes Nothing Away! Tested on MiSTer Ways to Support the Channel (some affiliate links) EARLY ACCESS TO NEWS VIDEOS AND OTHER EXCLUSIVES https://www.youtube.com/channel/UCEozS0uaZibXKTQSu10XgSw/join https://www.patreon.com/PixelCherryNinja Buy a FightBox R10-Pro Arcade Stick with Trackball & Spinner USE CODE \"PixelCherryNinja\" for 10% OFF https://fightboxarcade.com/collections/best-sellers/products/fightbox-r10-pro-arcade-fight-stick-with-trackball-spinner-retro-game-controller-for-pc-ps3-switch Buy a Octopus TR Fightstick https://www.trfightstick.com/?ref=PCN Click link then use code \"PCN\" for $25 Off Buy a Morph2K https://www.pixelfx.co/product-page/morph-2k-analog-video-scaler?ref=PCN Buy a Zaparoo product (10% off) https://shop.zaparoo.com/discount/PixelCherryNinja or just enter code \"PixelCherryNinja\" Join the Pixel Cherry Ninja Gaming Discord https://discord.gg/5W9pCy2nXa This is a must-play! Think of it as free premium DLC for arguably the best 2D fighting game of all time. It runs perfectly fine on the MiSTer FPGA, as shown in this video. Get it here: https://drewdos.io/ Special thanks to channel Patreon's Silver Ninja's - John Gillotte, Matt Rogers, Meathax, RGM, SmoMo, VimDiesel Bronze Ninja's - Alessandro Gulli, Alexander Facchini, Anime0t4ku, anthony, Bjamiork, craigpow, Curt Dittmer, Ernie D, Fizzun Dirtnap, Juan Alvarez, Keith F. Kelly, Nicholas Robertson-Muir, Niallquinn, ncc1701p, Peter Davis, Rap, Scott Dowdle, ",
+   "text": "Street Fighter III 3rd Strike Plus - Adds Lots, Takes Nothing Away! Tested on MiSTer Ways to Support the Channel (some affiliate links) EARLY ACCESS TO NEWS VIDEOS AND OTHER EXCLUSIVES https://www.youtube.com/channel/UCEozS0uaZibXKTQSu10XgSw/join https://www.patreon.com/PixelCherryNinja Buy a FightBox R10-Pro Arcade Stick with Trackball & Spinner USE CODE \"PixelCherryNinja\" for 10% OFF https://fightboxarcade.com/collections/best-sellers/products/fightbox-r10-pro-arcade-fight-stick-with-trackball-spinner-retro-game-controller-for-pc-ps3-switch Buy a Octopus TR Fightstick https://www.trfightstick.com/?ref=PCN Click link then use code \"PCN\" for $25 Off Buy a Morph2K https://www.pixelfx.co/product-page/morph-2k-analog-video-scaler?ref=PCN Buy a Zaparoo product (10% off) https://shop.zaparoo.com/discount/PixelCherryNinja or just enter code \"PixelCherryNinja\" Join the Pixel Cherry Ninja Gaming Discord https://discord.gg/5W9pCy2nXa This is a must-play! Think of it as free premium DLC for arguably the best 2D fighting game of all time. It runs perfectly fine on the MiSTer FPGA, as shown in this video. Get it here: https://drewdos.io/ get MiSTer MRA here https://discord.com/channels/1166475109477920878/1190931492986171452/1574306675807092826 Special thanks to channel Patreon's Silver Ninja's - John Gillotte, Matt Rogers, Meathax, RGM, SmoMo, VimDiesel Bronze Ninja's - Alessandro Gulli, Alexander Facchini, Anime0t4ku, anthony, Bjamiork, craigpow, Curt Dittmer, Ernie D, Fizzun Dirtnap, ",
    "repos": [],
    "firstSeen": "2026-11-23T00:58:07.892Z"
   },
