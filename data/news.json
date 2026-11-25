@@ -1,6 +1,238 @@
 {
  "articles": [
   {
+   "title": "Castlevania: Dawn of Sorrow Recomp Out NOW! Nintendo DS Recomp Fun",
+   "url": "https://www.youtube.com/watch?v=exgfW2iUQ94",
+   "date": "2026-11-25T13:45:39.000Z",
+   "source": "YouTube: Video Game Esoterica",
+   "outlet": "YouTube: Video Game Esoterica",
+   "summary": "SUPPORT THE CHANNEL : http://www.patreon.com/VideoGameEsoterica Who wouldn't want a new Castlevania Recomp! A Castlevania: Dawn of Sorrow recomp to go along with the Symphony of the Night recomp and Symphony of the Night Ultimate edition! Metroidvania recomps...yes please! Plus don't forget all the Switch 2 recomps and Switch recomps as well as the PS5 recomps for the modern era fans! Grab it here",
+   "image": "https://i2.ytimg.com/vi/exgfW2iUQ94/hqdefault.jpg",
+   "text": "Castlevania: Dawn of Sorrow Recomp Out NOW! Nintendo DS Recomp Fun SUPPORT THE CHANNEL : http://www.patreon.com/VideoGameEsoterica Who wouldn't want a new Castlevania Recomp! A Castlevania: Dawn of Sorrow recomp to go along with the Symphony of the Night recomp and Symphony of the Night Ultimate edition! Metroidvania recomps...yes please! Plus don't forget all the Switch 2 recomps and Switch recomps as well as the PS5 recomps for the modern era fans! Grab it here: https://github.com/Neguchads/cdos-nintendods-recomp Questions? Comments? Just leave them below and I will do my best to answer each and every one of them! http://www.patreon.com/VideoGameEsoterica You can follow us at IG : ChicagoGameCollector , or join our Discord Server : https://discord.gg/qhsbXgK4M2",
+   "repos": [
+    "github:Neguchads/cdos-nintendods-recomp"
+   ],
+   "firstSeen": "2026-11-25T14:40:02.244Z"
+  },
+  {
+   "title": "GRID Autosport + Logitech G29 Steering Wheel VR Performance / New VR Racing Mod / PCVR",
+   "url": "https://www.youtube.com/watch?v=Z4fRKqPIUjo",
+   "date": "2026-11-25T13:41:26.000Z",
+   "source": "YouTube: NotAGameAddict",
+   "outlet": "YouTube: NotAGameAddict",
+   "summary": "00:00 - VR gameplay 03:43 - VR gameplay with FPS overlay 09:40 - VR launcher overview GRID Autosport VR mod made by Preseznik - https://github.com/preseznik/GRIDAutosportVR GRID Autosport is not available anymore on Steam",
+   "image": "https://i3.ytimg.com/vi/Z4fRKqPIUjo/hqdefault.jpg",
+   "text": "GRID Autosport + Logitech G29 Steering Wheel VR Performance / New VR Racing Mod / PCVR 00:00 - VR gameplay 03:43 - VR gameplay with FPS overlay 09:40 - VR launcher overview GRID Autosport VR mod made by Preseznik - https://github.com/preseznik/GRIDAutosportVR GRID Autosport is not available anymore on Steam",
+   "repos": [
+    "github:preseznik/GRIDAutosportVR"
+   ],
+   "firstSeen": "2026-11-25T14:40:02.244Z"
+  },
+  {
+   "title": "The Impossible? SEGA Saturn Is Running on Analogue Pocket!",
+   "url": "https://www.youtube.com/watch?v=9GZ0Hge_clo",
+   "date": "2026-11-25T13:00:07.000Z",
+   "source": "YouTube: Pixel Cherry Ninja",
+   "outlet": "YouTube: Pixel Cherry Ninja",
+   "summary": "Ways to Support the Channel (some affiliate links) EARLY ACCESS TO NEWS VIDEOS AND OTHER EXCLUSIVES https://www.youtube.com/channel/UCEozS0uaZibXKTQSu10XgSw/join https://www.patreon.com/PixelCherryNinja Buy a FightBox R10-Pro Arcade Stick with Trackball & Spinner USE CODE \"PixelCherryNinja\" for 10% OFF https://fightboxarcade.com/collections/best-sellers/products/fightbox-r10-pro-arcade-fight-stick",
+   "image": "https://i2.ytimg.com/vi/9GZ0Hge_clo/hqdefault.jpg",
+   "text": "The Impossible? SEGA Saturn Is Running on Analogue Pocket! Ways to Support the Channel (some affiliate links) EARLY ACCESS TO NEWS VIDEOS AND OTHER EXCLUSIVES https://www.youtube.com/channel/UCEozS0uaZibXKTQSu10XgSw/join https://www.patreon.com/PixelCherryNinja Buy a FightBox R10-Pro Arcade Stick with Trackball & Spinner USE CODE \"PixelCherryNinja\" for 10% OFF https://fightboxarcade.com/collections/best-sellers/products/fightbox-r10-pro-arcade-fight-stick-with-trackball-spinner-retro-game-controller-for-pc-ps3-switch Buy a Octopus TR Fightstick https://www.trfightstick.com/?ref=PCN Click link then use code \"PCN\" for $25 Off Buy a Morph2K https://www.pixelfx.co/product-page/morph-2k-analog-video-scaler?ref=PCN Buy a Zaparoo product (10% off) https://shop.zaparoo.com/discount/PixelCherryNinja or just enter code \"PixelCherryNinja\" Join the Pixel Cherry Ninja Gaming Discord https://discord.gg/5W9pCy2nXa SEGA Saturn running on the Analogue Pocket is an exciting development for FPGA gaming. The Saturn is known for its complex hardware, making any attempt to bring it to a handheld FPGA system particularly ambitious. In this video, we take a first look at this remarkable project and explore what it could mean for the future of the Analogue Pocket. Get it here: https://github.com/akoaysigod/pocket_saturn_core Special thanks to channel Patreon's Silver Ninja's - John Gillotte, Meathax, RGM, SmoMo, VimDiesel Bronze Ninja's - Alessandro Gulli, Alexander Facchini, Anime0t4ku, anthony, Bja",
+   "repos": [
+    "github:akoaysigod/pocket_saturn_core"
+   ],
+   "firstSeen": "2026-11-25T14:40:02.244Z"
+  },
+  {
+   "title": "Has vibe coding made open source the new normal for synths?",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1040081/vibe-coding-open-source-music-firmware",
+   "date": "2026-11-25T13:00:00.000Z",
+   "source": "The Verge",
+   "outlet": "The Verge",
+   "summary": "The emergence of powerful vibe-coding agents and tools like Reverse Engineer Anything has caused chaos in the music gear world, leaving companies scrambling to figure out how to respond. While some, like Roland, have remained silent for now, others have embraced the modding community. In the last several weeks, as it's become clear that no […]",
+   "image": null,
+   "text": "Has vibe coding made open source the new normal for synths? The emergence of powerful vibe-coding agents and tools like Reverse Engineer Anything has caused chaos in the music gear world , leaving companies scrambling to figure out how to respond. While some, like Roland, have remained silent for now, others have embraced the modding community. In the last several weeks, as it's become clear that no piece of music gear is safe from Claude and a subreddit full of curious tinkerers, companies have begun making more and more of their devices open source. The biggest name to decide \"if you can't beat 'em, join 'em\" is inMusic , the parent company of Akai, Moog, Native Instruments, and more. \"We're going t … Read the full story at The Verge.",
+   "repos": [
+    "github:morluto/rea"
+   ],
+   "firstSeen": "2026-11-25T14:40:02.244Z"
+  },
+  {
+   "title": "The original Silent Hill gets another unofficial PC port, this time with ray tracing and mod support",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMW83blJ6T2UzRkNwRXNHWWxmZzY3dnU4VU4yNGtUWHJWZ3d4Q1JWMlJiSHNMWFE0dktWYml2YjZva180OHdPWUlVWjVQa0NWLWF6N19uYXA0Njl5RXFNY09rNVI5dzRpekNiZ09DajVJNklkSHRfajBhVDFRYVJ0RHhXdXY?oc=5",
+   "date": "2026-11-25T12:10:44.000Z",
+   "source": "Google News",
+   "outlet": "Mezha.net",
+   "summary": "",
+   "image": null,
+   "text": "The original Silent Hill gets another unofficial PC port, this time with ray tracing and mod support - Mezha.net The original Silent Hill gets another unofficial PC port, this time with ray tracing and mod support Mezha.net",
+   "repos": [],
+   "firstSeen": "2026-11-25T14:40:02.244Z"
+  },
+  {
+   "title": "Cyberpunk VR in 3 MINUTES!!! / And ANY OTHER Flat Game with a VR Mod)",
+   "url": "https://www.youtube.com/watch?v=h96S5xZOba0",
+   "date": "2026-11-25T11:54:43.000Z",
+   "source": "YouTube: VR DaD",
+   "outlet": "YouTube: VR DaD",
+   "summary": "In this video I show how simple is to mod Cyberpunk 2077 from Flat to VR using the Mr-Nice VR Mods Hub ( Link here: https://github.com/Mr-Nlce/PCVR-Mods-Installer-Hub ). The process is very similar for ANY Flat game that has a released VR mod. All VR Tutorials out there are pretty much obsolete. This is the way to go! Like and subscribe for more tutorials!",
+   "image": "https://i1.ytimg.com/vi/h96S5xZOba0/hqdefault.jpg",
+   "text": "Cyberpunk VR in 3 MINUTES!!! / And ANY OTHER Flat Game with a VR Mod) In this video I show how simple is to mod Cyberpunk 2077 from Flat to VR using the Mr-Nice VR Mods Hub ( Link here: https://github.com/Mr-Nlce/PCVR-Mods-Installer-Hub ). The process is very similar for ANY Flat game that has a released VR mod. All VR Tutorials out there are pretty much obsolete. This is the way to go! Like and subscribe for more tutorials!",
+   "repos": [
+    "github:Mr-Nlce/PCVR-Mods-Installer-Hub"
+   ],
+   "firstSeen": "2026-11-25T14:40:02.244Z"
+  },
+  {
+   "title": "The original Silent Hill gets another unofficial PC port, this time with ray tracing and mod support",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNX29RelhZdERNWEpiekFDTndLUW51RHN5Zm5yWTlnSVpFaHRpM0NTV0lUYmpsV2VoN1Q2WUUzNGRDRlM1V21hVmtHZGpfOFVNd1FDYXNFVGJkS01VYmJQYlQyN0RFX0R2TkU0YkF2Ym5XRDZmUU1tVjNwVzd0R3lpc3BKUlhNVUtLOGNwRi1wYmJWUWpGWEQtQlZzWEtCbE5Oa05wTHlGMXpmV1dhSXBLdXNLQWxyTDZyMVNFQ2FKNGVFdC1IRU1OUGhSekZuSG1wUDF5dE5xZEFxYzJH?oc=5",
+   "date": "2026-11-25T11:48:00.000Z",
+   "source": "Google News",
+   "outlet": "Notebookcheck",
+   "summary": "",
+   "image": null,
+   "text": "The original Silent Hill gets another unofficial PC port, this time with ray tracing and mod support - Notebookcheck The original Silent Hill gets another unofficial PC port, this time with ray tracing and mod support Notebookcheck",
+   "repos": [],
+   "firstSeen": "2026-11-25T14:40:02.244Z"
+  },
+  {
+   "title": "Borderlands 3 VR Performance / New VR Mod with 6DOF Motion Controls / Quest 3 + RTX 4080 Super",
+   "url": "https://www.youtube.com/watch?v=HRiLfJS3KFM",
+   "date": "2026-11-25T11:04:14.000Z",
+   "source": "YouTube: NotAGameAddict",
+   "outlet": "YouTube: NotAGameAddict",
+   "summary": "00:00 - VR gameplay 06:42 - VR gameplay with FPS overlay 12:09 - Game and VR settings Trilex mod made by Trilex07 - https://github.com/trilex07/TrilexModInstaller/releases/tag/installer-1.1.5 Borderlands 3 - https://store.steampowered.com/app/397540/Borderlands_3/",
+   "image": "https://i1.ytimg.com/vi/HRiLfJS3KFM/hqdefault.jpg",
+   "text": "Borderlands 3 VR Performance / New VR Mod with 6DOF Motion Controls / Quest 3 + RTX 4080 Super 00:00 - VR gameplay 06:42 - VR gameplay with FPS overlay 12:09 - Game and VR settings Trilex mod made by Trilex07 - https://github.com/trilex07/TrilexModInstaller/releases/tag/installer-1.1.5 Borderlands 3 - https://store.steampowered.com/app/397540/Borderlands_3/",
+   "repos": [
+    "github:trilex07/TrilexModInstaller"
+   ],
+   "firstSeen": "2026-11-25T14:40:02.244Z"
+  },
+  {
+   "title": "AI-generated GTA 6 PC ports get nuked in alleged Rockstar takedown spree, as former Bungie dev hails \"most ridiculous dumpster fire ever\"",
+   "url": "https://www.rockpapershotgun.com/ai-generated-gta-6-pc-ports-get-nuked-in-alleged-rockstar-takedown-spree-as-former-bungie-dev-hails-most-ridiculous-dumpster-fire-ever",
+   "date": "2026-11-25T10:38:50.000Z",
+   "source": "Rock Paper Shotgun",
+   "outlet": "Rock Paper Shotgun",
+   "summary": "One of the creators of an unofficial AI-generated PC \"port\" of Grand Theft Auto 6 claims that Rockstar and Take-Two Interactive have already stepped in to shut down the project, though the fearful work of slop-and-pasting GTA 6 to PC appears to be continuing in other hands. Titled \"Leonida\", after the game's setting, the port is a recompilation &ndash; that is, a translation of the game's original",
+   "image": "https://assetsio.gnwcdn.com/gta6-dancing-on-car.jpeg?width=690&quality=85&format=jpg&auto=webp",
+   "text": "AI-generated GTA 6 PC ports get nuked in alleged Rockstar takedown spree, as former Bungie dev hails \"most ridiculous dumpster fire ever\" One of the creators of an unofficial AI-generated PC \"port\" of Grand Theft Auto 6 claims that Rockstar and Take-Two Interactive have already stepped in to shut down the project, though the fearful work of slop-and-pasting GTA 6 to PC appears to be continuing in other hands. Titled \"Leonida\", after the game's setting, the port is a recompilation &ndash; that is, a translation of the game's original code into code that'll run natively on different hardware, rather than being live translated by an emulator as you play. It's based on an incomplete GTA 6 Xbox build of the game, including the all-important executable file, which was leaked earlier in the week by crypto grifter Cyberleek . Read more",
+   "repos": [],
+   "firstSeen": "2026-11-25T14:40:02.244Z"
+  },
+  {
+   "title": "Nintendo’s Super Smash Bros. Ultimate Is Rejuvenated on PC Ahead of Its 8th Anniversary With Rollback Netcode, Reduced Input Lag, and 240 FPS Support",
+   "url": "https://wccftech.com/super-smash-bros-ultimate-pc-port-rollback-240-fps/",
+   "date": "2026-11-25T10:27:32.000Z",
+   "source": "Wccftech",
+   "outlet": "Wccftech",
+   "summary": "It's been almost eight years since the release of Super Smash Bros. Ultimate on Nintendo Switch (December 7, 2018), and while the game was supported up until 2021 with the launch of the final DLC character, Sora from the Kingdom Hearts series, it definitely feels like it's time for a new entry in the series. While Nintendo and series director Masahiro Sakurai remain silent on the matter, the lates",
+   "image": "https://cdn.wccftech.com/wp-content/uploads/2026/11/Super-Smash-Bros.-Ultimate-PC-Port-1456x813.jpg",
+   "text": "Nintendo’s Super Smash Bros. Ultimate Is Rejuvenated on PC Ahead of Its 8th Anniversary With Rollback Netcode, Reduced Input Lag, and 240 FPS Support It's been almost eight years since the release of Super Smash Bros. Ultimate on Nintendo Switch (December 7, 2018), and while the game was supported up until 2021 with the launch of the final DLC character, Sora from the Kingdom Hearts series, it definitely feels like it's time for a new entry in the series. While Nintendo and series director Masahiro Sakurai remain silent on the matter, the latest entry in the series has been rejuvenated on PC (as Super Smash Bros. Melee was with NVIDIA DLSS 5) through an unofficial PC port that delivers every feature fans have been asking for, including rollback netcode. \"OpenSmash-Ultimate turns [&hellip;] Read full article at https://wccftech.com/super-smash-bros-ultimate-pc-port-rollback-240-fps/",
+   "repos": [],
+   "firstSeen": "2026-11-25T14:40:02.244Z"
+  },
+  {
+   "title": "“I want this as plug and play as possible”: Classic Thief games get a new PC VR mod",
+   "url": "https://mixed-news.com/en/thief-gold-thief-2-darkprojectvr-pc-vr-mod/",
+   "date": "2026-11-25T10:15:00.000Z",
+   "source": "MIXED",
+   "outlet": "MIXED",
+   "summary": "The first two Thief games are famous for making players pay attention to shadows and sound. Now a new fan-made PC VR project aims to put you much closer to those creaking doors and dark corridors, with tracked hand interactions for Thief Gold and Thief II: The Metal Age. Called DarkProjectVR, the unofficial mod has ... “I want this as plug and play as possible”: Classic Thief games get a new PC VR",
+   "image": null,
+   "text": "“I want this as plug and play as possible”: Classic Thief games get a new PC VR mod The first two Thief games are famous for making players pay attention to shadows and sound. Now a new fan-made PC VR project aims to put you much closer to those creaking doors and dark corridors, with tracked hand interactions for Thief Gold and Thief II: The Metal Age. Called DarkProjectVR, the unofficial mod has ... “I want this as plug and play as possible”: Classic Thief games get a new PC VR mod The post “I want this as plug and play as possible”: Classic Thief games get a new PC VR mod appeared first on MIXED News .",
+   "repos": [
+    "github:jrubimf/DarkProjectVR"
+   ],
+   "firstSeen": "2026-11-25T14:40:02.244Z"
+  },
+  {
+   "title": "GTA 6 PC port takedown confirmed: Take-Two cites Rockstar's ban on reverse engineering",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOa0hZMUZrS2Zqc3RHNzE2WWNTVTU5YUN4QlY1OUFxcjdrUVEtTElyb3g2emJjcENHV1g5dTE2ZWI5V3hMTmgxeE1BdkJlNkNURGRLY2liZTdUOE1zNW5mcWJJd2dnSnFsMGNFWUJpY1B0RVNwMXVwZl9qeGU4VENkU0NRakRFMS1FTVplbng0X0R3dkxyQW1DWVVnQ2VraHVtdUhsNHpkZHZpTFBoTjdwdW03dndUZUJpcFV0SUo1SVc3YnRMVDV3dkNVM0Q5UQ?oc=5",
+   "date": "2026-11-25T07:00:03.000Z",
+   "source": "Google News",
+   "outlet": "TweakTown",
+   "summary": "",
+   "image": null,
+   "text": "GTA 6 PC port takedown confirmed: Take-Two cites Rockstar's ban on reverse engineering - TweakTown GTA 6 PC port takedown confirmed: Take-Two cites Rockstar's ban on reverse engineering TweakTown",
+   "repos": [],
+   "firstSeen": "2026-11-25T14:40:02.244Z"
+  },
+  {
+   "title": "PEAK VR Mod (works with latest build) - Native Stereo, Head-Tracking, 6DOF Motion Controls, Climbing",
+   "url": "https://www.youtube.com/watch?v=x0ymnQ6F740",
+   "date": "2026-11-25T06:58:13.000Z",
+   "source": "YouTube: FastLawyer",
+   "outlet": "YouTube: FastLawyer",
+   "summary": "I bought this game! Peak is a first-person climbing game with multiplayer co-op. PEAK can be played in virtual reality with the latest FREE VR mod from Andrey04o! Played on the Meta Quest 3 using Virtual Desktop on my RTX 5090. You can purchase PEAK on Steam here: https://store.steampowered.com/app/3527290/PEAK/ FREE VR mod here: https://github.com/Andrey04o/PeakVR I only installed this though (r2",
+   "image": "https://i1.ytimg.com/vi/x0ymnQ6F740/hqdefault.jpg",
+   "text": "PEAK VR Mod (works with latest build) - Native Stereo, Head-Tracking, 6DOF Motion Controls, Climbing I bought this game! Peak is a first-person climbing game with multiplayer co-op. PEAK can be played in virtual reality with the latest FREE VR mod from Andrey04o! Played on the Meta Quest 3 using Virtual Desktop on my RTX 5090. You can purchase PEAK on Steam here: https://store.steampowered.com/app/3527290/PEAK/ FREE VR mod here: https://github.com/Andrey04o/PeakVR I only installed this though (r2modmansetup.exe) here: https://github.com/ebkr/r2modmanPlus/releases Mod Manager Version 3.2.21.",
+   "repos": [
+    "github:Andrey04o/PeakVR",
+    "github:ebkr/r2modmanPlus"
+   ],
+   "firstSeen": "2026-11-25T14:40:02.244Z"
+  },
+  {
+   "title": "Portal 2’s “Overwhelmingly Positive” fan campaign has a new VR mod, but it isn’t fully tested yet",
+   "url": "https://mixed-news.com/en/portal-stories-mel-portal-2-vr-enriched-update/",
+   "date": "2026-11-25T06:15:00.000Z",
+   "source": "MIXED",
+   "outlet": "MIXED",
+   "summary": "If you have already finished Portal 2 and want another reason to put on a PC VR headset, a free fan campaign has a new option. The latest release of the unofficial Portal 2 VR Enriched project adds support for Portal Stories: Mel, the community-made adventure set in Aperture’s past. There is a catch, though. ... Portal 2’s “Overwhelmingly Positive” fan campaign has a new VR mod, but it isn’t fully",
+   "image": null,
+   "text": "Portal 2’s “Overwhelmingly Positive” fan campaign has a new VR mod, but it isn’t fully tested yet If you have already finished Portal 2 and want another reason to put on a PC VR headset, a free fan campaign has a new option. The latest release of the unofficial Portal 2 VR Enriched project adds support for Portal Stories: Mel, the community-made adventure set in Aperture’s past. There is a catch, though. ... Portal 2’s “Overwhelmingly Positive” fan campaign has a new VR mod, but it isn’t fully tested yet The post Portal 2’s “Overwhelmingly Positive” fan campaign has a new VR mod, but it isn’t fully tested yet appeared first on MIXED News .",
+   "repos": [
+    "github:oxenar7/portal2-vr-enriched"
+   ],
+   "firstSeen": "2026-11-25T14:40:02.244Z"
+  },
+  {
+   "title": "Play What? Ghosts, Dinosaurs and a WonderSwan",
+   "url": "https://retrohandhelds.gg/play-what-ghosts-dinosaurs-and-a-wonderswan/",
+   "date": "2026-11-25T03:14:34.000Z",
+   "source": "Retro Handhelds",
+   "outlet": "Retro Handhelds",
+   "summary": "Gauntlet IV, Trespasser and Rule of Rose get native ports, SawGod revisits WonderSwan SaGa, and Pokémon Rhythm adds more e-Reader games. The post Play What? Ghosts, Dinosaurs and a WonderSwan first appeared on Retro Handhelds .",
+   "image": null,
+   "text": "Play What? Ghosts, Dinosaurs and a WonderSwan A WonderSwan RPG is trying on three different looks, Gauntlet is gathering the family for another dungeon crawl, and Trespasser' s dinosaurs have found a new way onto modern PCs. After the cards, castles and arcade detours of our last roundup, this batch has a few more sharp teeth. Pokémon Rhythm 1.6.0 sends players back to Vedeo with the remaining Generation 9 moves and cries, more rideable Pokémon, and ten more e-Reader mini-games on the Rotom Phone. The FireRed hack follows Meloetta and Team Echo through an original story, with crafting, raids and a photo album along the way. There's now an option to play without level scaling or caps. Released yesterday, the patch needs a clean FireRed Rev 0 ROM. Its creator flags graphic violence (???) and discloses limited AI help with code, including e-Reader content. SawGod rebuilds the WonderSwan Color version of Makai Toushi SaGa , better known in the West as The Final Fantasy Legend . The main Windows, macOS, Linux and Android release lets you switch between Game Boy, WonderSwan Color and Enhanced presentation, with a new English translation and an arranged soundtrack. The project credits AI assistance. Ghost brings Gauntlet IV to Windows and Linux, with four-player online play and a rather greedy appetite for more Gauntlet. Feed its builder your own supported arcade and computer copies and it can add Gauntlet II ‘s 117 mazes and the Deeper Dungeons material. The November 23 public test",
+   "repos": [
+    "github:projectsawgod/sawgod",
+    "github:ReeseKaine/Ghost",
+    "github:saulob/jurassic-park-trespasser-recomp",
+    "github:ptfpinho23/rule-of-rose-recomp",
+    "github:takasky85/classicmacapeiron",
+    "github:PortBREW/uMario-U"
+   ],
+   "firstSeen": "2026-11-25T14:40:02.244Z"
+  },
+  {
+   "title": "Planet Harriers Recomp Out Now! IT FINALLY HAPPENED! Sega's Rarest Hidden Gem",
+   "url": "https://www.youtube.com/watch?v=OrlD0-FxhKQ",
+   "date": "2026-11-25T02:00:31.000Z",
+   "source": "YouTube: Video Game Esoterica",
+   "outlet": "YouTube: Video Game Esoterica",
+   "summary": "SUPPORT THE CHANNEL : http://www.patreon.com/VideoGameEsoterica We have a Planet Harriers Recomp! a Sega Hikaru recomp! Directly after we got the Scud Race PC port and the Daytona 2 recomp! A Sega win for Sega PC ports and recomps! Sure Switch 2 recomps and PS5 recomps are all the rage along with the PS4 PC ports we keep getting...but retro is always best! Check it out here: https://github.com/Poc",
+   "image": "https://i4.ytimg.com/vi/OrlD0-FxhKQ/hqdefault.jpg",
+   "text": "Planet Harriers Recomp Out Now! IT FINALLY HAPPENED! Sega's Rarest Hidden Gem SUPPORT THE CHANNEL : http://www.patreon.com/VideoGameEsoterica We have a Planet Harriers Recomp! a Sega Hikaru recomp! Directly after we got the Scud Race PC port and the Daytona 2 recomp! A Sega win for Sega PC ports and recomps! Sure Switch 2 recomps and PS5 recomps are all the rage along with the PS4 PC ports we keep getting...but retro is always best! Check it out here: https://github.com/PocketLucho/Planet-Harriers---Recompilation Questions? Comments? Just leave them below and I will do my best to answer each and every one of them! http://www.patreon.com/VideoGameEsoterica You can follow us at IG : ChicagoGameCollector , or join our Discord Server : https://discord.gg/6uFNZmHs8",
+   "repos": [
+    "github:PocketLucho/Planet-Harriers---Recompilation"
+   ],
+   "firstSeen": "2026-11-25T14:40:02.244Z"
+  },
+  {
+   "title": "GTA 6 leak raises prospect of unofficial PC port and earlier official release",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBqbEFOY0g4cHRDZzB1bTNVYi1IMzFOSDQtUkgtWkRCejVxZndsU1VuX09UbExCRHJjbVZXcnhtZks2NXpVQ2U0bWc4YUpabEJDWks5aC10TGRKbmxmQ2RtU2NaZTlaN2RSOFZoNy1GenhmMU1VWGZaN2dn0gGOAUFVX3lxTFBxVDZzZUQyaWlRSjZtdlZxSjJINWVWTEVuZzdnNnphbVdxLXlMNmMyZUQzYkNFd3ZuZm8yWGttN2ZZMzltRW9GY3RyR2twT0RPTWEyVF9NZDVobXc3QlROV2VjdG1yWVlMRTBTMVk3OFdPTDBKVHBJbHVZOGNocnFDY1poNUpOSXJ6U0tKSEE?oc=5",
+   "date": "2026-11-25T00:58:00.000Z",
+   "source": "Google News",
+   "outlet": "Chosunbiz",
+   "summary": "",
+   "image": null,
+   "text": "GTA 6 leak raises prospect of unofficial PC port and earlier official release - Chosunbiz GTA 6 leak raises prospect of unofficial PC port and earlier official release Chosunbiz",
+   "repos": [],
+   "firstSeen": "2026-11-25T14:40:02.244Z"
+  },
+  {
    "title": "Zelda: Ocarina of Time’s Switch 2 remake has a new first-person VR mod for PC",
    "url": "https://mixed-news.com/en/zelda-ocarina-of-time-switch-2-hookshotvr-mod-pc/",
    "date": "2026-11-25T00:15:00.000Z",
@@ -677,14 +909,14 @@
    "firstSeen": "2026-11-24T02:57:44.937Z"
   },
   {
-   "title": "This Is The Closest We've Come to a REAL Cyberpunk 2077 VR Game",
+   "title": "Cyberpunk 2077 VR Is More Playable Than EVER!",
    "url": "https://www.youtube.com/watch?v=V19-fyHph2c",
    "date": "2026-11-23T18:14:17.000Z",
    "source": "YouTube: Gamertag VR",
    "outlet": "YouTube: Gamertag VR",
    "summary": "The latest Cyberpunk 2077 VR mod is the closest I’ve come to playing a proper Cyberpunk VR game. Night City looked incredible on my RTX 5070 Ti, and what surprised me most was how smoothly it ran with that much detail in the headset. I already loved how the weapons felt last time I played, but dariulone’s latest updates have given me a reason to head back. V’s hands now stop against walls and tabl",
    "image": "https://i3.ytimg.com/vi/V19-fyHph2c/hqdefault.jpg",
-   "text": "This Is The Closest We've Come to a REAL Cyberpunk 2077 VR Game The latest Cyberpunk 2077 VR mod is the closest I’ve come to playing a proper Cyberpunk VR game. Night City looked incredible on my RTX 5070 Ti, and what surprised me most was how smoothly it ran with that much detail in the headset. I already loved how the weapons felt last time I played, but dariulone’s latest updates have given me a reason to head back. V’s hands now stop against walls and tables, and your fingers wrap around objects differently depending on what you grab. Pick up a bottle by the neck, then try picking up a plate by the rim. It’s a small detail until you see your own hand do it. Then there’s riding through Night City with both hands on the handlebars, leaning the bike into a corner, or reaching down to your belt for a handful of shotgun shells and feeding them in one at a time. Those are the moments that make Cyberpunk 2077 feel like it could have been built for VR. Download dariulone’s CyberpunkVR Port https://github.com/dariulone/cyberpunk-vr-port/releases/latest For a guided install, open MrSurviv0r’s VR HUB and select Cyberpunk 2077. You can also manage updates there. https://mrsurvivor-installers.com/ Would you start a fresh Cyberpunk playthrough just to experience Night City in VR? My PC Specs: GPU — MSI GeForce RTX 5070 Ti 16 GB Ventus 3X OC CPU — Intel Core i9-14900K RAM — 32 GB Corsair Vengeance DDR5-6000 Motherboard — MSI Z790 Gaming Plus WiFi Cooler — Corsair iCUE LINK TITAN 360 RX ",
+   "text": "Cyberpunk 2077 VR Is More Playable Than EVER! The latest Cyberpunk 2077 VR mod is the closest I’ve come to playing a proper Cyberpunk VR game. Night City looked incredible on my RTX 5070 Ti, and what surprised me most was how smoothly it ran with that much detail in the headset. I already loved how the weapons felt last time I played, but dariulone’s latest updates have given me a reason to head back. V’s hands now stop against walls and tables, and your fingers wrap around objects differently depending on what you grab. Pick up a bottle by the neck, then try picking up a plate by the rim. It’s a small detail until you see your own hand do it. Then there’s riding through Night City with both hands on the handlebars, leaning the bike into a corner, or reaching down to your belt for a handful of shotgun shells and feeding them in one at a time. Those are the moments that make Cyberpunk 2077 feel like it could have been built for VR. Download dariulone’s CyberpunkVR Port https://github.com/dariulone/cyberpunk-vr-port/releases/latest For a guided install, open MrSurviv0r’s VR HUB and select Cyberpunk 2077. You can also manage updates there. https://mrsurvivor-installers.com/ Would you start a fresh Cyberpunk playthrough just to experience Night City in VR? My PC Specs: GPU — MSI GeForce RTX 5070 Ti 16 GB Ventus 3X OC CPU — Intel Core i9-14900K RAM — 32 GB Corsair Vengeance DDR5-6000 Motherboard — MSI Z790 Gaming Plus WiFi Cooler — Corsair iCUE LINK TITAN 360 RX RGB Storage — 3.18",
    "repos": [
     "github:dariulone/cyberpunk-vr-port"
    ],
