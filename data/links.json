@@ -77,7 +77,7 @@
  },
  "github:360recomper/ufc3rex": {
   "discord": null,
-  "checked": "2026-11-16"
+  "checked": "2026-11-27"
  },
  "github:5c8/skate3recomp": {
   "discord": null,
@@ -145,7 +145,7 @@
  },
  "github:abilliontokens/bustinout-recomp": {
   "discord": null,
-  "checked": "2026-11-16"
+  "checked": "2026-11-27"
  },
  "github:abilliontokens/fuzionfrenzy-recomp": {
   "discord": null,
@@ -153,11 +153,11 @@
  },
  "github:abilliontokens/sims1-recomp": {
   "discord": null,
-  "checked": "2026-11-16"
+  "checked": "2026-11-27"
  },
  "github:abilliontokens/sims2-recomp": {
   "discord": null,
-  "checked": "2026-11-16"
+  "checked": "2026-11-27"
  },
  "github:abilliontokens/urbz-recomp": {
   "discord": null,
@@ -357,7 +357,7 @@
  },
  "github:akemin-dayo/opensyobonaction": {
   "discord": null,
-  "checked": "2026-11-16"
+  "checked": "2026-11-27"
  },
  "github:akimitsu76/lantern-recomp": {
   "discord": null,
@@ -605,11 +605,11 @@
  },
  "github:almost-drowned-rat/orta-recompiled-android": {
   "discord": null,
-  "checked": "2026-11-16"
+  "checked": "2026-11-27"
  },
  "github:almost-drowned-rat/thps2x-recompiled": {
   "discord": null,
-  "checked": "2026-11-16"
+  "checked": "2026-11-27"
  },
  "github:almost-drowned-rat/thps2x-recompiled-android": {
   "discord": null,
@@ -697,7 +697,7 @@
  },
  "github:andrei-drexler/ironwail": {
   "discord": null,
-  "checked": "2026-11-16"
+  "checked": "2026-11-27"
  },
  "github:andrettin/wyrmsun": {
   "discord": null,
@@ -821,7 +821,7 @@
  },
  "github:aphixe/silenthill-bookofmemories-pc": {
   "discord": null,
-  "checked": "2026-11-16"
+  "checked": "2026-11-27"
  },
  "github:apolinario-coder/mushroommakerrecomp": {
   "discord": null,
@@ -1141,7 +1141,7 @@
  },
  "github:aytp-lab/ueberkill---army-of-two-the-devil-s-cartel-pc-port": {
   "discord": null,
-  "checked": "2026-11-16"
+  "checked": "2026-11-27"
  },
  "github:azahar-emu/azahar": {
   "discord": "https://discord.gg/4ZjMpAp3M6",
@@ -1165,7 +1165,7 @@
  },
  "github:b4ttycre4se/spider-man-3-recomp": {
   "discord": null,
-  "checked": "2026-11-16"
+  "checked": "2026-11-27"
  },
  "github:badcompany94-rcmp/project-tandem": {
   "discord": null,
@@ -1273,7 +1273,7 @@
  },
  "github:bc160201983/uncharted-the-nathan-drake-collection-pc-port": {
   "discord": null,
-  "checked": "2026-11-16"
+  "checked": "2026-11-27"
  },
  "github:bdragoncore/pommy-recomp": {
   "discord": null,
@@ -1325,7 +1325,7 @@
  },
  "github:bertibertig/ssx3-recomp": {
   "discord": null,
-  "checked": "2026-11-16"
+  "checked": "2026-11-27"
  },
  "github:bertrandom/skyroads-pocket": {
   "discord": null,
@@ -1553,7 +1553,7 @@
  },
  "github:boodyandmustafa-create/moh-europeanassault-pc-port": {
   "discord": null,
-  "checked": "2026-11-16"
+  "checked": "2026-11-27"
  },
  "github:boomhower34/nascarthunder2004recomp": {
   "discord": null,
@@ -1573,7 +1573,7 @@
  },
  "github:bountyhunterkanden/secondhunt": {
   "discord": "https://discord.gg/WkvJ5ddjye",
-  "checked": "2026-11-16"
+  "checked": "2026-11-27"
  },
  "github:boykopovar/anyps5": {
   "discord": "https://discord.gg/x9naWVzC6A",
@@ -1665,7 +1665,7 @@
  },
  "github:btfighter/super-mario-world-remastered-plus": {
   "discord": null,
-  "checked": "2026-11-16"
+  "checked": "2026-11-27"
  },
  "github:btr-rj/redbaron_recomp": {
   "discord": null,
@@ -1673,7 +1673,7 @@
  },
  "github:btr-rj/roadrashtrilogy_recomp": {
   "discord": null,
-  "checked": "2026-11-16"
+  "checked": "2026-11-27"
  },
  "github:btr-rj/supermonacoduo-remix_recomp": {
   "discord": null,
@@ -1777,7 +1777,7 @@
  },
  "github:capridog/spaceranger": {
   "discord": null,
-  "checked": "2026-11-16"
+  "checked": "2026-11-27"
  },
  "github:capslock4284/dodonpachi-recomp": {
   "discord": null,
@@ -1801,7 +1801,7 @@
  },
  "github:carl0srmz/arwing2": {
   "discord": null,
-  "checked": "2026-11-16"
+  "checked": "2026-11-27"
  },
  "github:carlosexabyte/arceuszada": {
   "discord": null,
@@ -1875,9 +1875,13 @@
   "discord": null,
   "checked": "2026-11-23"
  },
+ "github:cdleveille/thug-pc-port": {
+  "discord": null,
+  "checked": "2026-11-27"
+ },
  "github:cdlewis/snowboardkids-recomp": {
   "discord": "https://discord.gg/PJzG4F8SpF",
-  "checked": "2026-11-16"
+  "checked": "2026-11-27"
  },
  "github:cdlewis/snowboardkids2-recomp": {
   "discord": "https://discord.gg/PJzG4F8SpF",
@@ -1965,7 +1969,7 @@
  },
  "github:cheviman/outrunners-port": {
   "discord": null,
-  "checked": "2026-11-16"
+  "checked": "2026-11-27"
  },
  "github:cheviman/segasonic-port": {
   "discord": null,
@@ -1981,7 +1985,7 @@
  },
  "github:cheviman/tmnt-port": {
   "discord": null,
-  "checked": "2026-11-16"
+  "checked": "2026-11-27"
  },
  "github:chihirobelmo/falconbms-alternative-launcher": {
   "discord": null,
@@ -2089,7 +2093,7 @@
  },
  "github:clickingmaster/ssrecomp": {
   "discord": null,
-  "checked": "2026-11-16"
+  "checked": "2026-11-27"
  },
  "github:clockwork-recompdev/clockwork": {
   "discord": null,
@@ -2181,11 +2185,11 @@
  },
  "github:cookingwithsimon/skate1recompiled": {
   "discord": null,
-  "checked": "2026-11-16"
+  "checked": "2026-11-27"
  },
  "github:cookingwithsimon/skate2recompiled": {
   "discord": null,
-  "checked": "2026-11-16"
+  "checked": "2026-11-27"
  },
  "github:coole42-pixel/psprecomp-msae": {
   "discord": null,
@@ -2765,7 +2769,7 @@
  },
  "github:dheid/micropolis": {
   "discord": null,
-  "checked": "2026-11-16"
+  "checked": "2026-11-27"
  },
  "github:dhewm/dhewm3": {
   "discord": null,
@@ -3033,11 +3037,11 @@
  },
  "github:drevil-titaniumhelix/silver-machine": {
   "discord": null,
-  "checked": "2026-11-16"
+  "checked": "2026-11-27"
  },
  "github:drevil-titaniumhelix/star-command-remake": {
   "discord": null,
-  "checked": "2026-11-16"
+  "checked": "2026-11-27"
  },
  "github:drevil-titaniumhelix/vsav-engine": {
   "discord": null,
@@ -3197,7 +3201,7 @@
  },
  "github:eandis/sdoj-recomp": {
   "discord": null,
-  "checked": "2026-11-16"
+  "checked": "2026-11-27"
  },
  "github:ebkr/r2modmanplus": {
   "discord": "https://discord.gg/jE2zWHY",
@@ -3209,7 +3213,7 @@
  },
  "github:ec-/quake3e": {
   "discord": "https://discord.com/invite/X3Exs4C",
-  "checked": "2026-11-16"
+  "checked": "2026-11-27"
  },
  "github:ecstatic-magician/persona_project_philemon": {
   "discord": null,
@@ -3405,7 +3409,7 @@
  },
  "github:elspeththepict/s1forever": {
   "discord": null,
-  "checked": "2026-11-16"
+  "checked": "2026-11-27"
  },
  "github:elthial/crescent-hawks-inception-sdl-port": {
   "discord": null,
@@ -3741,7 +3745,7 @@
  },
  "github:felipeprado0/spartanport": {
   "discord": "https://discord.gg/WYvr634563",
-  "checked": "2026-11-16"
+  "checked": "2026-11-27"
  },
  "github:fenyx4/ultimapatcher": {
   "discord": null,
@@ -3859,6 +3863,10 @@
   "discord": "https://discord.gg/X8YWP8w",
   "checked": "2026-11-21"
  },
+ "github:flyinrabit205/sth-recompiled": {
+  "discord": null,
+  "checked": "2026-11-27"
+ },
  "github:flyngmt/acgc-pc-port": {
   "discord": null,
   "checked": "2026-11-21"
@@ -3881,7 +3889,7 @@
  },
  "github:foxworkshop/shadowrecomp": {
   "discord": null,
-  "checked": "2026-11-16"
+  "checked": "2026-11-27"
  },
  "github:fractalengineer/medal-of-honor-psx-recomp": {
   "discord": "https://discord.gg/Ad9BwSzctP",
@@ -3897,7 +3905,7 @@
  },
  "github:fragglet/sdl-sopwith": {
   "discord": "https://discord.gg/S2P5wUUzNU",
-  "checked": "2026-11-16"
+  "checked": "2026-11-27"
  },
  "github:frankhun88453/cod3recomp": {
   "discord": null,
@@ -4005,7 +4013,7 @@
  },
  "github:fujiapi/fuji": {
   "discord": "https://discord.gg/9NJcbSyuae",
-  "checked": "2026-11-16"
+  "checked": "2026-11-27"
  },
  "github:fulgernet/repop": {
   "discord": null,
@@ -4073,7 +4081,7 @@
  },
  "github:galladite27/onscripter-en": {
   "discord": null,
-  "checked": "2026-11-16"
+  "checked": "2026-11-27"
  },
  "github:gamboozino/ng2recomp": {
   "discord": null,
@@ -4181,7 +4189,7 @@
  },
  "github:ghostducky13/speed-force-justice-league-heroes-windows-recompilation": {
   "discord": null,
-  "checked": "2026-11-16"
+  "checked": "2026-11-27"
  },
  "github:giancarloerra/degauss": {
   "discord": null,
@@ -4201,7 +4209,7 @@
  },
  "github:gibletto/mvc2-naomi-dc": {
   "discord": null,
-  "checked": "2026-11-16"
+  "checked": "2026-11-27"
  },
  "github:gibranfelix/oot-vr": {
   "discord": null,
@@ -4221,7 +4229,7 @@
  },
  "github:giovanh/unofficial-homestuck-collection": {
   "discord": "https://discord.gg/43QHASFC2X",
-  "checked": "2026-11-16"
+  "checked": "2026-11-27"
  },
  "github:girlyoulookthebest/smb2-pc": {
   "discord": null,
@@ -4853,7 +4861,7 @@
  },
  "github:hotwire114/jailbreak-recomp": {
   "discord": null,
-  "checked": "2026-11-16"
+  "checked": "2026-11-27"
  },
  "github:hoverbike51/star-ocean-integrity-and-faithlessness-ps4rt": {
   "discord": null,
@@ -4985,7 +4993,7 @@
  },
  "github:iirg4x/mp6-native-port": {
   "discord": null,
-  "checked": "2026-11-16"
+  "checked": "2026-11-27"
  },
  "github:ijezabella/silhouette-mirage-recomp": {
   "discord": null,
@@ -5001,7 +5009,7 @@
  },
  "github:ikemen-engine/ikemen-go": {
   "discord": null,
-  "checked": "2026-11-16"
+  "checked": "2026-11-27"
  },
  "github:ilfforever/yw4recomp": {
   "discord": null,
@@ -5313,7 +5321,7 @@
  },
  "github:jakobkhansen/silksongandroid": {
   "discord": null,
-  "checked": "2026-11-16"
+  "checked": "2026-11-27"
  },
  "github:jameriquiah/2ship2harkinian": {
   "discord": "https://discord.com/invite/sxrPyuh697",
@@ -5361,7 +5369,7 @@
  },
  "github:jbalcomb/remom": {
   "discord": "https://discord.gg/kSNA8bE6Wt",
-  "checked": "2026-11-16"
+  "checked": "2026-11-27"
  },
  "github:jbond2003/cod2-bro-xberecomp": {
   "discord": null,
@@ -5373,7 +5381,7 @@
  },
  "github:jcoker85/mc2recomp": {
   "discord": null,
-  "checked": "2026-11-16"
+  "checked": "2026-11-27"
  },
  "github:jcooray/shadow-of-the-tomb-raider-vr": {
   "discord": null,
@@ -5413,7 +5421,7 @@
  },
  "github:jeff-strutb/stuntracefx": {
   "discord": null,
-  "checked": "2026-11-16"
+  "checked": "2026-11-27"
  },
  "github:jeffmeador/flower_vr": {
   "discord": null,
@@ -5485,7 +5493,7 @@
  },
  "github:jhdev2006/super-mario-world-remastered-public": {
   "discord": null,
-  "checked": "2026-11-16"
+  "checked": "2026-11-27"
  },
  "github:jhguitarfreak/uqm-megamod": {
   "discord": null,
@@ -5873,7 +5881,7 @@
  },
  "github:k4zmu2a/spacecadetpinball": {
   "discord": null,
-  "checked": "2026-11-16"
+  "checked": "2026-11-27"
  },
  "github:kabukiflux/jamma_2player_xbox360": {
   "discord": null,
@@ -5940,8 +5948,8 @@
   "checked": "2026-11-22"
  },
  "github:kayliox/transformers-armada-recomp": {
-  "discord": null,
-  "checked": "2026-11-16"
+  "discord": "https://discord.gg/zgtZ7gBFmQ",
+  "checked": "2026-11-27"
  },
  "github:kconger/mister_tty2epaper": {
   "discord": null,
@@ -6075,6 +6083,10 @@
   "discord": null,
   "checked": "2026-11-17"
  },
+ "github:king-ej/crime-scene-cleaner-vr": {
+  "discord": null,
+  "checked": "2026-11-27"
+ },
  "github:king-ej/dementium-ii-hd-vr": {
   "discord": null,
   "checked": "2026-11-21"
@@ -6205,7 +6217,7 @@
  },
  "github:knossosnet/knossos.net": {
   "discord": null,
-  "checked": "2026-11-16"
+  "checked": "2026-11-27"
  },
  "github:kobayashi90/beach_recomp": {
   "discord": null,
@@ -6221,7 +6233,7 @@
  },
  "github:koenhendriks/ssx3-recomp": {
   "discord": null,
-  "checked": "2026-11-16"
+  "checked": "2026-11-27"
  },
  "github:konovalov-aleks/resl": {
   "discord": null,
@@ -6233,7 +6245,7 @@
  },
  "github:korvonordico/shadow-of-rome-recompiled": {
   "discord": null,
-  "checked": "2026-11-16"
+  "checked": "2026-11-27"
  },
  "github:kote2345/the-simpsons-hit-and-run-vr": {
   "discord": null,
@@ -6241,7 +6253,7 @@
  },
  "github:koyk/openra-tiberian-dawn-apolyton": {
   "discord": null,
-  "checked": "2026-11-16"
+  "checked": "2026-11-27"
  },
  "github:kraftmacandchee/mercenaries-recompiled": {
   "discord": null,
@@ -6325,7 +6337,7 @@
  },
  "github:kylofon/testdrive3-enhanced": {
   "discord": null,
-  "checked": "2026-11-16"
+  "checked": "2026-11-27"
  },
  "github:kytyps5/kytyps5": {
   "discord": "https://discord.gg/UNrkMqGaBg",
@@ -6357,7 +6369,7 @@
  },
  "github:lancommander/tonywasaproskater": {
   "discord": null,
-  "checked": "2026-11-16"
+  "checked": "2026-11-27"
  },
  "github:lasvola/godhand-recomp": {
   "discord": null,
@@ -6629,7 +6641,7 @@
  },
  "github:lostartefacts/trx": {
   "discord": null,
-  "checked": "2026-11-16"
+  "checked": "2026-11-27"
  },
  "github:lovemakerz/dungeon-keeper-2-vr-mod": {
   "discord": null,
@@ -6681,7 +6693,7 @@
  },
  "github:luisxl15/strikers-android-port": {
   "discord": null,
-  "checked": "2026-11-16"
+  "checked": "2026-11-27"
  },
  "github:lukdm/skeldal-android": {
   "discord": null,
@@ -6717,7 +6729,7 @@
  },
  "github:m-ht/sr": {
   "discord": null,
-  "checked": "2026-11-16"
+  "checked": "2026-11-27"
  },
  "github:m-x-d/heretic2r": {
   "discord": null,
@@ -6745,7 +6757,7 @@
  },
  "github:ma-pe-ma/lode-runner-2020": {
   "discord": null,
-  "checked": "2026-11-16"
+  "checked": "2026-11-27"
  },
  "github:mabec-games/conker-recomped-and-reloaded": {
   "discord": null,
@@ -6777,7 +6789,7 @@
  },
  "github:mabec-games/top-spin-4-launcher": {
   "discord": null,
-  "checked": "2026-11-16"
+  "checked": "2026-11-27"
  },
  "github:macgametest/nathan-drake-collection-macos": {
   "discord": null,
@@ -6817,7 +6829,7 @@
  },
  "github:mahmoud-mess/tekken6-recomp": {
   "discord": null,
-  "checked": "2026-11-16"
+  "checked": "2026-11-27"
  },
  "github:makinori/melonprimeds": {
   "discord": null,
@@ -6895,6 +6907,10 @@
   "discord": "https://discord.gg/T4faGveujK",
   "checked": "2026-11-22"
  },
+ "github:mark-mon/crimson-desert-vr": {
+  "discord": null,
+  "checked": "2026-11-27"
+ },
  "github:markos12900-beep/teardown-vr-mod": {
   "discord": null,
   "checked": "2026-11-26"
@@ -6957,7 +6973,7 @@
  },
  "github:mathewdouglas/tourline-prologue": {
   "discord": null,
-  "checked": "2026-11-16"
+  "checked": "2026-11-27"
  },
  "github:matiaszanolli/sega-vr-disasm": {
   "discord": null,
@@ -7005,7 +7021,7 @@
  },
  "github:matymeatboy/newsnaprecomp": {
   "discord": null,
-  "checked": "2026-11-16"
+  "checked": "2026-11-27"
  },
  "github:matymeatboy/opensoccermania": {
   "discord": null,
@@ -7029,7 +7045,7 @@
  },
  "github:mauriciosuporte/superbomberman5snesrecomp": {
   "discord": "https://discord.gg/xSbEfPNUmd",
-  "checked": "2026-11-16"
+  "checked": "2026-11-27"
  },
  "github:mauricristiano95-hub/f1_ce_ps3": {
   "discord": "https://discord.gg/Ctr4k6HQ9",
@@ -7161,7 +7177,7 @@
  },
  "github:mdomangue26/thebigs2": {
   "discord": null,
-  "checked": "2026-11-16"
+  "checked": "2026-11-27"
  },
  "github:meathax/inthehunt": {
   "discord": null,
@@ -7177,7 +7193,7 @@
  },
  "github:mechakotik/tails-adventure": {
   "discord": null,
-  "checked": "2026-11-16"
+  "checked": "2026-11-27"
  },
  "github:mee55237/openfpga-gametank": {
   "discord": null,
@@ -7186,6 +7202,10 @@
  "github:mee55237/openfpga-minicube64": {
   "discord": null,
   "checked": "2026-11-20"
+ },
+ "github:megacadedev/naughtybearrecomp": {
+  "discord": null,
+  "checked": "2026-11-27"
  },
  "github:megaglest/megaglest-source": {
   "discord": null,
@@ -7221,7 +7241,7 @@
  },
  "github:mercurialw0rld/thebeatlesrockband-pcport": {
   "discord": null,
-  "checked": "2026-11-16"
+  "checked": "2026-11-27"
  },
  "github:merrit/nyrna": {
   "discord": null,
@@ -7249,7 +7269,7 @@
  },
  "github:mgrz18/sdlpop-android": {
   "discord": null,
-  "checked": "2026-11-16"
+  "checked": "2026-11-27"
  },
  "github:mgzeroes/robotron64recompiled": {
   "discord": null,
@@ -8945,7 +8965,7 @@
  },
  "github:mkalkhoven-po/nfs-carbon-ce-recomp": {
   "discord": null,
-  "checked": "2026-11-16"
+  "checked": "2026-11-27"
  },
  "github:mkalkhoven-po/wolf3d-x64": {
   "discord": null,
@@ -8953,7 +8973,7 @@
  },
  "github:mlemandpurrs/ora-pink-dawn": {
   "discord": null,
-  "checked": "2026-11-16"
+  "checked": "2026-11-27"
  },
  "github:mlemandpurrs/ora-sovra": {
   "discord": null,
@@ -9013,7 +9033,7 @@
  },
  "github:mogeldev/scda-xberecomp-android": {
   "discord": null,
-  "checked": "2026-11-16"
+  "checked": "2026-11-27"
  },
  "github:mohamad-balouza/bioshock-vr": {
   "discord": null,
@@ -9137,7 +9157,7 @@
  },
  "github:mpolizel/scivrecomp": {
   "discord": null,
-  "checked": "2026-11-16"
+  "checked": "2026-11-27"
  },
  "github:mpolizel/sfiitrecomp": {
   "discord": null,
@@ -9153,7 +9173,7 @@
  },
  "github:mr-finster/stunts-hd": {
   "discord": null,
-  "checked": "2026-11-16"
+  "checked": "2026-11-27"
  },
  "github:mr-finster/vf1-recomp": {
   "discord": null,
@@ -9277,7 +9297,7 @@
  },
  "github:mstan/pokemonstadiumrecomp": {
   "discord": "https://discord.gg/Ad9BwSzctP",
-  "checked": "2026-11-16"
+  "checked": "2026-11-27"
  },
  "github:mstan/rubysapphirerecomp": {
   "discord": "https://discord.gg/Ad9BwSzctP",
@@ -9289,15 +9309,15 @@
  },
  "github:mstan/sonicthehedgehog2recomp": {
   "discord": "https://discord.gg/Ad9BwSzctP",
-  "checked": "2026-11-16"
+  "checked": "2026-11-27"
  },
  "github:mstan/supermarioadvance2recomp": {
   "discord": null,
-  "checked": "2026-11-16"
+  "checked": "2026-11-27"
  },
  "github:mstan/supermarioadvance4recomp": {
   "discord": null,
-  "checked": "2026-11-16"
+  "checked": "2026-11-27"
  },
  "github:mstan/supermariobrosnesrecomp": {
   "discord": "https://discord.gg/Ad9BwSzctP",
@@ -9305,7 +9325,7 @@
  },
  "github:mstan/supermariorpgrecomp": {
   "discord": null,
-  "checked": "2026-11-16"
+  "checked": "2026-11-27"
  },
  "github:mstan/supermarioworldrecomp": {
   "discord": "https://discord.gg/Ad9BwSzctP",
@@ -9317,7 +9337,7 @@
  },
  "github:mstan/tetrisgbrecomp": {
   "discord": "https://discord.gg/Ad9BwSzctP",
-  "checked": "2026-11-16"
+  "checked": "2026-11-27"
  },
  "github:mstan/tomba2recomp": {
   "discord": "https://discord.gg/Ad9BwSzctP",
@@ -9457,7 +9477,7 @@
  },
  "github:n64hub/super-mario-64-recomp": {
   "discord": null,
-  "checked": "2026-11-16"
+  "checked": "2026-11-27"
  },
  "github:n64hub/super-smash-bros-recomp": {
   "discord": null,
@@ -9677,7 +9697,7 @@
  },
  "github:nfroggy/openmadoola": {
   "discord": null,
-  "checked": "2026-11-16"
+  "checked": "2026-11-27"
  },
  "github:nhaar/waddle-forever": {
   "discord": "https://discord.gg/URHXm3cFv5",
@@ -9761,7 +9781,7 @@
  },
  "github:njh-1001/sexyparorecomp": {
   "discord": "https://discord.gg/Ad9BwSzctP",
-  "checked": "2026-11-16"
+  "checked": "2026-11-27"
  },
  "github:njh-1001/wipeout2k97xl": {
   "discord": null,
@@ -10045,7 +10065,7 @@
  },
  "github:ogdanimal/skiesofarcadialegends-recomp": {
   "discord": null,
-  "checked": "2026-11-16"
+  "checked": "2026-11-27"
  },
  "github:okabintaro/submersedvr": {
   "discord": null,
@@ -10085,7 +10105,7 @@
  },
  "github:omegakatana92/super-mario-land-3-wario-land-recomp-": {
   "discord": null,
-  "checked": "2026-11-16"
+  "checked": "2026-11-27"
  },
  "github:omegakatana92/the-king-of-fighters-2000-recomp": {
   "discord": null,
@@ -10345,7 +10365,7 @@
  },
  "github:opennox/opennox": {
   "discord": "https://discord.gg/HgDUeXhAyW",
-  "checked": "2026-11-16"
+  "checked": "2026-11-27"
  },
  "github:openop2/openop2": {
   "discord": "https://discord.gg/XdsJWKJwmw",
@@ -10381,7 +10401,7 @@
  },
  "github:openra/tiberiandawnhd": {
   "discord": null,
-  "checked": "2026-11-16"
+  "checked": "2026-11-27"
  },
  "github:openrac/openrac": {
   "discord": "https://discord.gg/Sfd2B54PDG",
@@ -10517,7 +10537,7 @@
  },
  "github:overkilllabs3/sos-ps5": {
   "discord": null,
-  "checked": "2026-11-16"
+  "checked": "2026-11-27"
  },
  "github:overkilllabs3/vice-city-stories-recomp": {
   "discord": null,
@@ -10533,6 +10553,10 @@
  },
  "github:ozordi/sanrecomp": {
   "discord": null,
+  "checked": "2026-11-27"
+ },
+ "github:ozymandias81/dnf2001-leakozyrepo": {
+  "discord": "https://discord.gg/eRWJPe2WTx",
   "checked": "2026-11-27"
  },
  "github:p2hookeddev/postal-2-reimplemented": {
@@ -10573,7 +10597,7 @@
  },
  "github:paril/q2repro": {
   "discord": null,
-  "checked": "2026-11-16"
+  "checked": "2026-11-27"
  },
  "github:parkerallan/doa3-recomp": {
   "discord": null,
@@ -10609,7 +10633,7 @@
  },
  "github:paullodec/techbot": {
   "discord": null,
-  "checked": "2026-11-16"
+  "checked": "2026-11-27"
  },
  "github:pauloubirajara/asuras-wrath-recomp": {
   "discord": null,
@@ -10633,7 +10657,7 @@
  },
  "github:peanutsofdoom/supermetroidplus": {
   "discord": null,
-  "checked": "2026-11-16"
+  "checked": "2026-11-27"
  },
  "github:pecos2k5/gothic3vr-releases": {
   "discord": null,
@@ -10645,7 +10669,7 @@
  },
  "github:penev92/ra2": {
   "discord": null,
-  "checked": "2026-11-16"
+  "checked": "2026-11-27"
  },
  "github:perfect-dark-pc-port/perfect_dark": {
   "discord": null,
@@ -10689,7 +10713,7 @@
  },
  "github:phys-winner/pc_decomp_homm5": {
   "discord": null,
-  "checked": "2026-11-16"
+  "checked": "2026-11-27"
  },
  "github:piciji/denise": {
   "discord": null,
@@ -10725,15 +10749,15 @@
  },
  "github:piscacho/persona-3-dancing-in-moonlight-pc": {
   "discord": null,
-  "checked": "2026-11-16"
+  "checked": "2026-11-27"
  },
  "github:piscacho/persona-4-dancing-all-night-pc": {
   "discord": null,
-  "checked": "2026-11-16"
+  "checked": "2026-11-27"
  },
  "github:piscacho/persona-5-dancing-in-starlight-pc": {
   "discord": null,
-  "checked": "2026-11-16"
+  "checked": "2026-11-27"
  },
  "github:pixelguys/cubyz": {
   "discord": "https://discord.gg/XtqCRRG",
@@ -10741,7 +10765,7 @@
  },
  "github:pixl27/projectrelink": {
   "discord": "https://discord.gg/RFNUtCQk8j",
-  "checked": "2026-11-16"
+  "checked": "2026-11-27"
  },
  "github:pk-c/awayvr": {
   "discord": null,
@@ -10889,7 +10913,7 @@
  },
  "github:podulator/goldeneye64recomp": {
   "discord": null,
-  "checked": "2026-11-16"
+  "checked": "2026-11-27"
  },
  "github:pokamilktea/virtuaracingdeluxeenhanced": {
   "discord": null,
@@ -10897,7 +10921,7 @@
  },
  "github:pokerogue-offline/pokerogue-offline": {
   "discord": null,
-  "checked": "2026-11-16"
+  "checked": "2026-11-27"
  },
  "github:portbrew/umario-u": {
   "discord": null,
@@ -11165,7 +11189,7 @@
  },
  "github:quietclubgames/relayer": {
   "discord": null,
-  "checked": "2026-11-16"
+  "checked": "2026-11-27"
  },
  "github:qurious-pixel/smas_launcher": {
   "discord": null,
@@ -11213,7 +11237,7 @@
  },
  "github:rac08241988/superryuworld1-recomp": {
   "discord": null,
-  "checked": "2026-11-16"
+  "checked": "2026-11-27"
  },
  "github:rac08241988/uniracers-recomp": {
   "discord": null,
@@ -11277,7 +11301,7 @@
  },
  "github:rages4calm/secret-of-the-stars-companion": {
   "discord": "https://discord.gg/Ad9BwSzctP",
-  "checked": "2026-11-16"
+  "checked": "2026-11-27"
  },
  "github:raicuparta/nomai-vr": {
   "discord": "https://discord.gg/MwAHbNBdqE",
@@ -11365,7 +11389,7 @@
  },
  "github:raunplugged/ura": {
   "discord": "https://discord.gg/KMWnrcB",
-  "checked": "2026-11-16"
+  "checked": "2026-11-27"
  },
  "github:ravencaio/tlou-remastered-pc": {
   "discord": "https://discord.gg/9mnjjezcNj",
@@ -11373,7 +11397,7 @@
  },
  "github:ravenfieldcommunity/ravenm": {
   "discord": "https://discord.gg/63zE4gY",
-  "checked": "2026-11-16"
+  "checked": "2026-11-27"
  },
  "github:raycarrot/raymancontrolpanel": {
   "discord": null,
@@ -11545,7 +11569,7 @@
  },
  "github:retro-ware/por-go": {
   "discord": null,
-  "checked": "2026-11-16"
+  "checked": "2026-11-27"
  },
  "github:retrodriven/commanderkeen-pocket": {
   "discord": null,
@@ -11841,7 +11865,7 @@
  },
  "github:roz1077/true-crime-new-york-city-recomp": {
   "discord": null,
-  "checked": "2026-11-16"
+  "checked": "2026-11-27"
  },
  "github:rsantos722/imsa-wcr-m2-recomp": {
   "discord": null,
@@ -11922,6 +11946,10 @@
  "github:sabishii-bit/gauntlet-dark-legacy-pc-port": {
   "discord": "https://discord.gg/vyZM7jwGg",
   "checked": "2026-11-17"
+ },
+ "github:sackchief/dqix-enhanced": {
+  "discord": "https://discord.gg/CczgRv36NK",
+  "checked": "2026-11-27"
  },
  "github:sacrappy/heylisten": {
   "discord": "https://discord.gg/34GV5hdC3Q",
@@ -12021,7 +12049,7 @@
  },
  "github:sanviler/lightmere": {
   "discord": null,
-  "checked": "2026-11-16"
+  "checked": "2026-11-27"
  },
  "github:sanviler/radiantfighter": {
   "discord": null,
@@ -12093,7 +12121,7 @@
  },
  "github:saulob/tmnt-turtles-in-time-reshelled-recompiled": {
   "discord": null,
-  "checked": "2026-11-16"
+  "checked": "2026-11-27"
  },
  "github:scarletnx/scarletnx": {
   "discord": "https://discord.gg/tRTRXXbyjp",
@@ -12145,11 +12173,11 @@
  },
  "github:sdlpal/sdlpal": {
   "discord": null,
-  "checked": "2026-11-16"
+  "checked": "2026-11-27"
  },
  "github:sdw-community/sheep-dog-n-wolf-rewooled": {
   "discord": null,
-  "checked": "2026-11-16"
+  "checked": "2026-11-27"
  },
  "github:second-impressions/caesar2-port": {
   "discord": null,
@@ -12245,7 +12273,7 @@
  },
  "github:sergiou87/open-supaplex": {
   "discord": null,
-  "checked": "2026-11-16"
+  "checked": "2026-11-27"
  },
  "github:sergiou87/triplane-turmoil": {
   "discord": null,
@@ -12405,7 +12433,7 @@
  },
  "github:sicklysilvermoon/tworld": {
   "discord": "https://discord.gg/Xd4dUY9",
-  "checked": "2026-11-16"
+  "checked": "2026-11-27"
  },
  "github:sicksartori/mc3port": {
   "discord": null,
@@ -12469,7 +12497,7 @@
  },
  "github:simonn/lixd": {
   "discord": null,
-  "checked": "2026-11-16"
+  "checked": "2026-11-27"
  },
  "github:simplysnake/grimdawn_mod": {
   "discord": null,
@@ -12489,7 +12517,7 @@
  },
  "github:sirdankz/undead-neighbor-eaters-droid": {
   "discord": null,
-  "checked": "2026-11-16"
+  "checked": "2026-11-27"
  },
  "github:sirhalo23/ridgeracer6-recompilation": {
   "discord": null,
@@ -12533,7 +12561,7 @@
  },
  "github:slex2jf/stritoraige": {
   "discord": null,
-  "checked": "2026-11-16"
+  "checked": "2026-11-27"
  },
  "github:slickamogus/silent-hill-decomp": {
   "discord": "https://discord.gg/JWuNzVsQbr",
@@ -12545,7 +12573,7 @@
  },
  "github:slippygetbackhere/strike-gunner-stg-recomp": {
   "discord": null,
-  "checked": "2026-11-16"
+  "checked": "2026-11-27"
  },
  "github:sloppinheimer/genma-onimusha-port": {
   "discord": null,
@@ -12613,7 +12641,7 @@
  },
  "github:solarshine-studios/supermario127": {
   "discord": null,
-  "checked": "2026-11-16"
+  "checked": "2026-11-27"
  },
  "github:solcloud/counter-strike": {
   "discord": null,
@@ -12961,7 +12989,7 @@
  },
  "github:ssbuarena/ssbu-arena": {
   "discord": null,
-  "checked": "2026-11-16"
+  "checked": "2026-11-27"
  },
  "github:ssf2-mods-official/ssf2modmanager": {
   "discord": null,
@@ -13006,6 +13034,10 @@
  "github:starman-tech/mousepods": {
   "discord": null,
   "checked": "2026-11-25"
+ },
+ "github:starship-avalon-projects/furcadiaframework": {
+  "discord": null,
+  "checked": "2026-11-27"
  },
  "github:startupandhold/3on3arcaderecomp": {
   "discord": "https://discord.gg/UNahh2kHP",
@@ -13101,7 +13133,7 @@
  },
  "github:sulphurs16/tlg-port": {
   "discord": "https://discord.gg/rSr5JhxxtZ",
-  "checked": "2026-11-16"
+  "checked": "2026-11-27"
  },
  "github:sunjaycy/goldeneye-recomp": {
   "discord": null,
@@ -13109,7 +13141,7 @@
  },
  "github:supercatelvis/untildawn_pc": {
   "discord": null,
-  "checked": "2026-11-16"
+  "checked": "2026-11-27"
  },
  "github:supermedo/bloodborne_pc": {
   "discord": "https://discord.gg/yTMG8c4Bqm",
@@ -13197,7 +13229,7 @@
  },
  "github:taisei-project/taisei": {
   "discord": "https://discord.gg/JEHCMzW",
-  "checked": "2026-11-16"
+  "checked": "2026-11-27"
  },
  "github:takasky85/classicmacapeiron": {
   "discord": null,
@@ -13241,7 +13273,7 @@
  },
  "github:tastyrepublic/spikeout-recomp": {
   "discord": null,
-  "checked": "2026-11-16"
+  "checked": "2026-11-27"
  },
  "github:taterclient/tclient": {
   "discord": "https://discord.gg/BgPSapKRkZ",
@@ -13265,7 +13297,7 @@
  },
  "github:tdrrmk2/uhexen2-tweaked": {
   "discord": null,
-  "checked": "2026-11-16"
+  "checked": "2026-11-27"
  },
  "github:team-beef-studios/beefraiderxr": {
   "discord": null,
@@ -13461,15 +13493,15 @@
  },
  "github:tekrantgaming/simpsons-wrestling-recompiled": {
   "discord": null,
-  "checked": "2026-11-16"
+  "checked": "2026-11-27"
  },
  "github:tekrantgaming/south-park-tenormans-revenge-recompiled": {
   "discord": null,
-  "checked": "2026-11-16"
+  "checked": "2026-11-27"
  },
  "github:tekrantgaming/south-park-tower-defense-recompiled": {
   "discord": null,
-  "checked": "2026-11-16"
+  "checked": "2026-11-27"
  },
  "github:tekrantgaming/trials-revolution-collection": {
   "discord": "https://discord.gg/8eakYSvBZS",
@@ -13559,6 +13591,10 @@
   "discord": "https://discord.gg/UnWK2Tw",
   "checked": "2026-11-25"
  },
+ "github:thebardockgames/precursor": {
+  "discord": null,
+  "checked": "2026-11-27"
+ },
  "github:theboy181/drmario64_recomp_plus": {
   "discord": null,
   "checked": "2026-11-21"
@@ -13577,7 +13613,7 @@
  },
  "github:thebradshaw/topgear-pc": {
   "discord": null,
-  "checked": "2026-11-16"
+  "checked": "2026-11-27"
  },
  "github:theclub654/projectcane": {
   "discord": "https://discord.gg/Nq2mCkgrS",
@@ -13621,7 +13657,7 @@
  },
  "github:thefixinhixon/ultracombo": {
   "discord": null,
-  "checked": "2026-11-16"
+  "checked": "2026-11-27"
  },
  "github:thefixinhixon/woohoo-flight-school": {
   "discord": null,
@@ -13633,7 +13669,7 @@
  },
  "github:theforceengine/theforceengine": {
   "discord": "https://discord.gg/hpsJnY9",
-  "checked": "2026-11-16"
+  "checked": "2026-11-27"
  },
  "github:thefreemike31/fear-vr": {
   "discord": "https://discord.gg/NtAnbK6z9B",
@@ -13761,7 +13797,7 @@
  },
  "github:thextech/thextech": {
   "discord": null,
-  "checked": "2026-11-16"
+  "checked": "2026-11-27"
  },
  "github:theypsilon/retroachievementsdb_mister": {
   "discord": null,
@@ -13789,7 +13825,7 @@
  },
  "github:thibautbus/top": {
   "discord": null,
-  "checked": "2026-11-16"
+  "checked": "2026-11-27"
  },
  "github:this-is-bennyk/fnf-benjine": {
   "discord": null,
@@ -14101,11 +14137,15 @@
  },
  "github:tx00100xt/serioussamclassic": {
   "discord": null,
-  "checked": "2026-11-16"
+  "checked": "2026-11-27"
  },
  "github:tx00100xt/serioussamclassic-vk": {
   "discord": null,
   "checked": "2026-11-21"
+ },
+ "github:txukie/joyride": {
+  "discord": null,
+  "checked": "2026-11-27"
  },
  "github:txukie/xboxrecomp-conker": {
   "discord": null,
@@ -14153,7 +14193,7 @@
  },
  "github:unbrokenht/tagforcerecomp-preview": {
   "discord": null,
-  "checked": "2026-11-16"
+  "checked": "2026-11-27"
  },
  "github:unchiga/yu-gi-oh-forbidden-memories-recompiled": {
   "discord": "https://discord.gg/7DbsjUtsEQ",
@@ -14241,7 +14281,7 @@
  },
  "github:vahokif/i26": {
   "discord": null,
-  "checked": "2026-11-16"
+  "checked": "2026-11-27"
  },
  "github:valentderah/totk-pc-recomp": {
   "discord": null,
@@ -14313,7 +14353,7 @@
  },
  "github:vibecodekun/shantaerecomp": {
   "discord": null,
-  "checked": "2026-11-16"
+  "checked": "2026-11-27"
  },
  "github:vibintoast/jetforcegemini-recomp": {
   "discord": null,
@@ -14386,6 +14426,10 @@
  "github:vistalargagames/wwf-no-mercy-quest-3-standalone-": {
   "discord": null,
   "checked": "2026-11-23"
+ },
+ "github:vita-recomps/ss-delta": {
+  "discord": null,
+  "checked": "2026-11-27"
  },
  "github:vita-recomps/utakata": {
   "discord": null,
@@ -14733,7 +14777,7 @@
  },
  "github:xenophobentx/takedawn": {
   "discord": null,
-  "checked": "2026-11-16"
+  "checked": "2026-11-27"
  },
  "github:xesf/k2boy": {
   "discord": null,
@@ -14999,6 +15043,10 @@
   "discord": "https://discord.gg/7sGEwV3sB",
   "checked": "2026-11-21"
  },
+ "github:zenkazex/nukkororecomp": {
+  "discord": null,
+  "checked": "2026-11-27"
+ },
  "github:zer0ducksgiven/forza-motorsport-2-regpu": {
   "discord": "https://discord.gg/pVEpmSk2G3",
   "checked": "2026-11-24"
@@ -15025,7 +15073,7 @@
  },
  "github:zexyen/hotel-luigi": {
   "discord": null,
-  "checked": "2026-11-16"
+  "checked": "2026-11-27"
  },
  "github:zexyen/witch-time": {
   "discord": null,
@@ -15037,7 +15085,7 @@
  },
  "github:zinexda/sonic-r-android": {
   "discord": null,
-  "checked": "2026-11-16"
+  "checked": "2026-11-27"
  },
  "github:zippingrocks/destroy-all-humans-2005-static-recompilation": {
   "discord": null,
@@ -15165,7 +15213,7 @@
  },
  "gitlab:octagram-labs-group/tcscc-recomp": {
   "discord": null,
-  "checked": "2026-11-16"
+  "checked": "2026-11-27"
  },
  "gitlab:onerag90/fe3h-recomp": {
   "discord": null,
