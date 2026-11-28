@@ -1,6 +1,168 @@
 {
  "articles": [
   {
+   "title": "Live Interview: Stefanos Poiitidis (skmp) – Dreamcast, MiSTer & DreamSTer",
+   "url": "https://www.youtube.com/watch?v=pU9GImgSbZA",
+   "date": "2026-11-28T16:53:02.000Z",
+   "source": "YouTube: Pixel Cherry Ninja",
+   "outlet": "YouTube: Pixel Cherry Ninja",
+   "summary": "Ways to Support the Channel (some affiliate links) EARLY ACCESS TO NEWS VIDEOS AND OTHER EXCLUSIVES https://www.youtube.com/channel/UCEozS0uaZibXKTQSu10XgSw/join https://www.patreon.com/PixelCherryNinja Buy a FightBox R10-Pro Arcade Stick with Trackball & Spinner USE CODE \"PixelCherryNinja\" for 10% OFF https://fightboxarcade.com/collections/best-sellers/products/fightbox-r10-pro-arcade-fight-stick",
+   "image": "https://i1.ytimg.com/vi/pU9GImgSbZA/hqdefault.jpg",
+   "text": "Live Interview: Stefanos Poiitidis (skmp) – Dreamcast, MiSTer & DreamSTer Ways to Support the Channel (some affiliate links) EARLY ACCESS TO NEWS VIDEOS AND OTHER EXCLUSIVES https://www.youtube.com/channel/UCEozS0uaZibXKTQSu10XgSw/join https://www.patreon.com/PixelCherryNinja Buy a FightBox R10-Pro Arcade Stick with Trackball & Spinner USE CODE \"PixelCherryNinja\" for 10% OFF https://fightboxarcade.com/collections/best-sellers/products/fightbox-r10-pro-arcade-fight-stick-with-trackball-spinner-retro-game-controller-for-pc-ps3-switch Buy a Octopus TR Fightstick https://www.trfightstick.com/?ref=PCN Click link then use code \"PCN\" for $25 Off Buy a Morph2K https://www.pixelfx.co/product-page/morph-2k-analog-video-scaler?ref=PCN Buy a Zaparoo product (10% off) https://shop.zaparoo.com/discount/PixelCherryNinja or just enter code \"PixelCherryNinja\" Join the Pixel Cherry Ninja Gaming Discord https://discord.gg/5W9pCy2nXa Live interview with Stefanos Kornilios Mitsis Poiitidis (skmp), the developer behind DreamSTer — the groundbreaking hybrid system that brought Sega Dreamcast to MiSTer FPGA. DreamSTer combines polly2-rtl (an FPGA implementation of the Dreamcast’s PowerVR2/CLX2 graphics chip) with the minicast software emulator running on the DE10-Nano’s ARM processor. What was long considered impossible is now playable, with ongoing improvements in performance, compatibility, and features (including recent r6/r6b releases). In this interview we cover: • How DreamSTer works and why i",
+   "repos": [
+    "github:skmp/DreamSTer"
+   ],
+   "firstSeen": "2026-11-28T16:59:43.721Z"
+  },
+  {
+   "title": "Playing Echoes of the End in VR May Destroy Your PC (UEVR Profile & Settings)",
+   "url": "https://www.youtube.com/watch?v=ft-XPvGRPAY",
+   "date": "2026-11-28T16:45:40.000Z",
+   "source": "YouTube: ReaperzVR",
+   "outlet": "YouTube: ReaperzVR",
+   "summary": "Echoes of the End - UEVR Profile & Settings My UEVR Profiles - https://www.patreon.com/ReaperzVR Profile - https://www.patreon.com/ReaperzVR/posts/169760283/ Steam Link - https://store.steampowered.com/app/2821610/Echoes_of_the_End_Enhanced_Edition/ Profile is standard third person profile which has been tweaked and optimized Motion Controls are not supported In-Game Settings (For me with my RTX 4",
+   "image": "https://i3.ytimg.com/vi/ft-XPvGRPAY/hqdefault.jpg",
+   "text": "Playing Echoes of the End in VR May Destroy Your PC (UEVR Profile & Settings) Echoes of the End - UEVR Profile & Settings My UEVR Profiles - https://www.patreon.com/ReaperzVR Profile - https://www.patreon.com/ReaperzVR/posts/169760283/ Steam Link - https://store.steampowered.com/app/2821610/Echoes_of_the_End_Enhanced_Edition/ Profile is standard third person profile which has been tweaked and optimized Motion Controls are not supported In-Game Settings (For me with my RTX 4090 at 45-60 FPS) Window Mode - Windowed Vertical Sync - Off Frame Rate - 120 (Closest to your VR headsets refresh rate) Motion Blur - 0 Upscaler - Anti Aliasing - DLSS DLSS Mode - Ultra Performance Graphics Mode - Low Global Illumination - Low Shadow Quality - Low Reflection - Low View Distance - Low Texture Quality - Medium Effects - Low Post Processing - Low VR Injector Settings VR Resolution = 1.2 (Reduce if you need more FPS) If my profile is not what you are after, or you are looking for motion control profiles (if available), you can find more profiles available below if available (Some of these profile are a fair bit outdated though and may not work) Community Profiles https://uevr-profiles.com/ Flat2VR Discord Profiles https://discord.gg/flat2vr/ HeadsetVR Profiles - https://www.patreon.com/c/HeadsetVR/home?vanity=HeadsetVR If the latest stable build doesn't work, try the latest nightly build UEVR Injector Latest Stable Build - https://github.com/praydog/UEVR/releases UEVR Injector Latest Nightly B",
+   "repos": [
+    "github:praydog/UEVR",
+    "github:praydog/UEVR-nightly"
+   ],
+   "firstSeen": "2026-11-28T16:59:43.721Z"
+  },
+  {
+   "title": "Retro Handhelds Weekly: Anbernic, MANGMI, AYANEO, and a Whole Lot of Black Friday",
+   "url": "https://retrohandhelds.gg/retro-handhelds-weekly-edition-127/",
+   "date": "2026-11-28T15:56:52.000Z",
+   "source": "Retro Handhelds",
+   "outlet": "Retro Handhelds",
+   "summary": "Anbernic reveals the RG 47G1, MANGMI details the Air X Pro, Lenovo surprises with Android, and Black Friday deals take over the weekend. The post Retro Handhelds Weekly: Anbernic, MANGMI, AYANEO, and a Whole Lot of Black Friday first appeared on Retro Handhelds .",
+   "image": null,
+   "text": "Retro Handhelds Weekly: Anbernic, MANGMI, AYANEO, and a Whole Lot of Black Friday Welcome to the latest edition of Retro Handhelds Weekly. This week, we saw a bunch of news in the world of hardware and software. Our writing team continues to be on an absolute tear, and there’s even a surprise or two sprinkled in! So sit back, grab a cup of coffee, and catch up on what’s happened this week in the world of Retro Handhelds. Table of Contents Hardware and Industry News Apps and Software Emulation Corner Custom Core Decomps/Ports/Recomps Game of the Month From the Writers On the YouTubes Looking for Deals? Sign Up For the Retro Handhelds Weekly Newsletter Black Friday and Cyber Monday Sales are LIVE! We've rounded up a bunch of our favorite deals so far in the link below. But don't forget to check out Handheld.Deals and follow on social media for even more deals and ways to save big this holiday season. Best Black Friday Deals on Handhelds and Gaming Gear in 2026 Hardware and Industry News Anbernic RG 47G1 Looks Like a Snapdragon Successor to the RG477V : While some of us were waking up early to get started baking the Thanksgiving Day turkey, Anbernic decided it was the perfect time to announce a new handheld. The Anbernic RG 47G1 has been formally introduced courtesy of a new introductory video over on YouTube. AYANEO Finally Announces ICE Blue KONKR Pocket Advance : It’s been more than six months since the KONKR Pocket Advance was first announced, with AYANEO announcing differen",
+   "repos": [
+    "github:Baggio94/SleepManager",
+    "github:azahar-emu/azahar",
+    "github:Ghael-V/Lemon-Project",
+    "github:beebono/DSperate",
+    "github:izzy2lost/xemu",
+    "github:igawa6/eden-duo",
+    "github:ARMSX2/ARMSX3",
+    "github:igawa6/peanuts-native",
+    "github:Keisho-Emu/Keisho",
+    "github:apommel/FlipBase",
+    "github:cbepx-me/Anbernic-H700-RG-xx-StockOS-Modification",
+    "github:igawa6/eden-duo-companions",
+    "github:jakobkhansen/SilksongAndroid",
+    "github:Matteo842/CrashBandicoot-Launcher",
+    "github:Dittobyte/Recompia",
+    "github:Hexveil404/PokeZ-ARecomp",
+    "github:jaredgei/wow-forever-android"
+   ],
+   "firstSeen": "2026-11-28T16:59:43.721Z"
+  },
+  {
+   "title": "Atmosfar in VR! Building your skyship with friends",
+   "url": "https://www.youtube.com/shorts/PYpgJ_YivQo",
+   "date": "2026-11-28T15:09:41.000Z",
+   "source": "YouTube: LunchAndVR",
+   "outlet": "YouTube: LunchAndVR",
+   "summary": "Playing Atmosfar in VR with UEVR _ Thanks for coming! Appreciate you dropping by here, you're a cool person. If you want to stay around, I do all things VR & gaming related. (lunch included) Lunch's Discounts/affiliates here: https://linktr.ee/lunchandvr #vr #virtualreality #ar #mr #uevr #vrmod",
+   "image": "https://i1.ytimg.com/vi/PYpgJ_YivQo/hqdefault.jpg",
+   "text": "Atmosfar in VR! Building your skyship with friends Playing Atmosfar in VR with UEVR _ Thanks for coming! Appreciate you dropping by here, you're a cool person. If you want to stay around, I do all things VR & gaming related. (lunch included) Lunch's Discounts/affiliates here: https://linktr.ee/lunchandvr #vr #virtualreality #ar #mr #uevr #vrmod",
+   "repos": [],
+   "firstSeen": "2026-11-28T16:59:43.721Z"
+  },
+  {
+   "title": "Atmosfar in VR!",
+   "url": "https://www.youtube.com/watch?v=mah-dHFkpho",
+   "date": "2026-11-28T15:06:45.000Z",
+   "source": "YouTube: LunchAndVR",
+   "outlet": "YouTube: LunchAndVR",
+   "summary": "Playing the early access game Atmosfar in VR with UEVR! Right now I'm playing it in 3DOF, but I can potentially make it full 6DOF. It's quite addictive, but the game is also pretty hard. Maybe it's easier in multiplayer. Note that the game is still performance heavy, so you will have to go low on graphics. Recommended Medium/Low Graphics, DLSS on Performance/Ultra Performance Early WIP Profile: ht",
+   "image": "https://i2.ytimg.com/vi/mah-dHFkpho/hqdefault.jpg",
+   "text": "Atmosfar in VR! Playing the early access game Atmosfar in VR with UEVR! Right now I'm playing it in 3DOF, but I can potentially make it full 6DOF. It's quite addictive, but the game is also pretty hard. Maybe it's easier in multiplayer. Note that the game is still performance heavy, so you will have to go low on graphics. Recommended Medium/Low Graphics, DLSS on Performance/Ultra Performance Early WIP Profile: https://drive.google.com/drive/folders/1Gkuji4uKq_4yBFUNUzsQJUzvoVid0cdh?usp=sharing You will need Joey's build of UEVR: UEVR Nightly: https://github.com/praydog/UEVR-nightly Joey Hodge's dll: https://github.com/joeyhodge/UEVR/releases _ If you are new to UEVR: http://uevr.io/ Quick guide on how to use UEVR: https://www.youtube.com/watch?v=sPTPRbmJ5YI For all the latest updates, find the Subnautica 2 UE Games channel in Flat2VR discord https://www.flat2vr.com _ Thanks for coming! Appreciate you dropping by here, you're a cool person. If you want to stay around, I do all things VR & gaming related. (lunch included) Lunch's Discounts/affiliates here: https://linktr.ee/lunchandvr #vr #virtualreality #ar #mr #questcreatorpartner #gaming",
+   "repos": [
+    "github:praydog/UEVR-nightly",
+    "github:joeyhodge/UEVR"
+   ],
+   "firstSeen": "2026-11-28T16:59:43.721Z"
+  },
+  {
+   "title": "Psychonauts VR Performance / New VR Mod / Quest 3 + RTX 4080 Super",
+   "url": "https://www.youtube.com/watch?v=8GU4LIvrlgM",
+   "date": "2026-11-28T14:00:34.000Z",
+   "source": "YouTube: NotAGameAddict",
+   "outlet": "YouTube: NotAGameAddict",
+   "summary": "00:00 - VR gameplay 07:15 - VR gameplay with FPS overlay Psychonauts vr mod made by Aero177-jpg - https://github.com/aero177-jpg/Psychonauts-VR-Port Psychonauts - https://store.steampowered.com/app/3830/Psychonauts/",
+   "image": "https://i1.ytimg.com/vi/8GU4LIvrlgM/hqdefault.jpg",
+   "text": "Psychonauts VR Performance / New VR Mod / Quest 3 + RTX 4080 Super 00:00 - VR gameplay 07:15 - VR gameplay with FPS overlay Psychonauts vr mod made by Aero177-jpg - https://github.com/aero177-jpg/Psychonauts-VR-Port Psychonauts - https://store.steampowered.com/app/3830/Psychonauts/",
+   "repos": [
+    "github:aero177-jpg/Psychonauts-VR-Port"
+   ],
+   "firstSeen": "2026-11-28T16:59:43.721Z"
+  },
+  {
+   "title": "Kirby's Epic Yarn Recomp Out NOW! A New Wii Recomp",
+   "url": "https://www.youtube.com/watch?v=1Uu0WpyTLFQ",
+   "date": "2026-11-28T14:00:30.000Z",
+   "source": "YouTube: Video Game Esoterica",
+   "outlet": "YouTube: Video Game Esoterica",
+   "summary": "SUPPORT THE CHANNEL : http://www.patreon.com/VideoGameEsoterica A Kirby's Epic Yarn PC port / Kirby's Epic Yarn Recomp is out now! More Nintendo PC ports! yay especially when it involves Kirby! Enough about the Twilight Princess PC port Dusklight and Courage Reborn (ok both are epic and I will talk more about Zelda PC port fun soon) let alone all the Switch 2 recomps and Switch recomps we are gett",
+   "image": "https://i2.ytimg.com/vi/1Uu0WpyTLFQ/hqdefault.jpg",
+   "text": "Kirby's Epic Yarn Recomp Out NOW! A New Wii Recomp SUPPORT THE CHANNEL : http://www.patreon.com/VideoGameEsoterica A Kirby's Epic Yarn PC port / Kirby's Epic Yarn Recomp is out now! More Nintendo PC ports! yay especially when it involves Kirby! Enough about the Twilight Princess PC port Dusklight and Courage Reborn (ok both are epic and I will talk more about Zelda PC port fun soon) let alone all the Switch 2 recomps and Switch recomps we are getting...gotta get some Wii recomps in the party! Check it out here: youll have to find it yourself - Love VGE Questions? Comments? Just leave them below and I will do my best to answer each and every one of them! http://www.patreon.com/VideoGameEsoterica VGE",
+   "repos": [],
+   "firstSeen": "2026-11-28T16:59:43.721Z"
+  },
+  {
+   "title": "Virtua Tennis 1 & 2 Get Native PC Recomps | NAOMI Classics Reborn!",
+   "url": "https://www.youtube.com/watch?v=5ElLzhvS1i0",
+   "date": "2026-11-28T13:30:08.000Z",
+   "source": "YouTube: Pixel Cherry Ninja",
+   "outlet": "YouTube: Pixel Cherry Ninja",
+   "summary": "Ways to Support the Channel (some affiliate links) EARLY ACCESS TO NEWS VIDEOS AND OTHER EXCLUSIVES https://www.youtube.com/channel/UCEozS0uaZibXKTQSu10XgSw/join https://www.patreon.com/PixelCherryNinja Buy a FightBox R10-Pro Arcade Stick with Trackball & Spinner USE CODE \"PixelCherryNinja\" for 10% OFF https://fightboxarcade.com/collections/best-sellers/products/fightbox-r10-pro-arcade-fight-stick",
+   "image": "https://i2.ytimg.com/vi/5ElLzhvS1i0/hqdefault.jpg",
+   "text": "Virtua Tennis 1 & 2 Get Native PC Recomps | NAOMI Classics Reborn! Ways to Support the Channel (some affiliate links) EARLY ACCESS TO NEWS VIDEOS AND OTHER EXCLUSIVES https://www.youtube.com/channel/UCEozS0uaZibXKTQSu10XgSw/join https://www.patreon.com/PixelCherryNinja Buy a FightBox R10-Pro Arcade Stick with Trackball & Spinner USE CODE \"PixelCherryNinja\" for 10% OFF https://fightboxarcade.com/collections/best-sellers/products/fightbox-r10-pro-arcade-fight-stick-with-trackball-spinner-retro-game-controller-for-pc-ps3-switch Buy a Octopus TR Fightstick https://www.trfightstick.com/?ref=PCN Click link then use code \"PCN\" for $25 Off Buy a Morph2K https://www.pixelfx.co/product-page/morph-2k-analog-video-scaler?ref=PCN Buy a Zaparoo product (10% off) https://shop.zaparoo.com/discount/PixelCherryNinja or just enter code \"PixelCherryNinja\" Join the Pixel Cherry Ninja Gaming Discord https://discord.gg/5W9pCy2nXa SEGA's Virtua Tennis and Virtua Tennis 2 are getting native PC static recompilations, bringing two legendary NAOMI arcade games to modern Windows PCs. Originally developed by Hitmaker, these arcade tennis classics became hugely popular thanks to their accessible gameplay, excellent presentation and addictive multiplayer action. It's great to see both games getting a new lease of life through recompilation. If you're a fan of SEGA arcade gaming or remember spending hours playing Virtua Tennis, these projects are well worth checking out. Grab em here https://github.com/Pocke",
+   "repos": [
+    "github:PocketLucho/Virtua-Tennis---Recompilation"
+   ],
+   "firstSeen": "2026-11-28T16:59:43.721Z"
+  },
+  {
+   "title": "GTA VI unofficial PC port goes ultrawide, reaches 180 FPS with Frame Generation",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdEY5bzVab2hzLWNvcG81WG1UcGRwQlQ3TGhySGpKVDZWaGdzYzVWTnVEZVpJVzhGc0Uxb2lyN1ZoY1RvNnJwc0NJd0ZsMTZ6aExhMmQxdkF5YXkyTk5jajd4eVRHMURkU3hRcnNEUThIVXN1RGhmcTZSeFZQNUswN200WkNKNC1KM1ZFRUw4REhkd0FVRlI1d1kxclVpSTdjTmlVcklGUkNCQQ?oc=5",
+   "date": "2026-11-28T12:50:38.000Z",
+   "source": "Google News",
+   "outlet": "VideoCardz.com",
+   "summary": "",
+   "image": null,
+   "text": "GTA VI unofficial PC port goes ultrawide, reaches 180 FPS with Frame Generation - VideoCardz.com GTA VI unofficial PC port goes ultrawide, reaches 180 FPS with Frame Generation VideoCardz.com",
+   "repos": [],
+   "firstSeen": "2026-11-28T16:59:43.721Z"
+  },
+  {
+   "title": "‘Somnium Space’ Aims to Become the Home of PC VR Mods with Social ‘Dreamport’ Launcher",
+   "url": "https://roadtovr.com/somnium-space-pc-vr-mod-launcher/",
+   "date": "2026-11-28T11:07:39.000Z",
+   "source": "Road to VR",
+   "outlet": "Road to VR",
+   "summary": "At Somnium's yearly Connect event today, the studio announced that social VR platform Somnium Space is getting an update soon which will make it possible to find and launch PC VR mods directly from within the app. The News Called ‘Dreamport', the PC VR mod launcher essentially allows you to search, download, and launch PC […] The post ‘Somnium Space' Aims to Become the Home of PC VR Mods with Soci",
+   "image": null,
+   "text": "‘Somnium Space’ Aims to Become the Home of PC VR Mods with Social ‘Dreamport’ Launcher At Somnium's yearly Connect event today, the studio announced that social VR platform Somnium Space is getting an update soon which will make it possible to find and launch PC VR mods directly from within the app. The News Called ‘Dreamport', the PC VR mod launcher essentially allows you to search, download, and launch PC VR mods built by the community all in one place. Granted, you'll need to own the underlying game file, but that's true with any legally obtained VR mod nowadays. To kick off Dreamport, which is set to launch on December 17th, Somnium Space has partnered with Flat2VR Studios, the studio behind a number of official flatscreen-to-VR ports. Flat2VR is initially bringing five paid game integrations to Dreamport, with plans for five more titles later in 2027. Those initial games will be: Roboquest VR, I Am Your Beast VR, FlatOut 4 VR, WRATH: Aeon of Ruin VR, and V-Racer Hoverbike . Both Roboquest VR and I Am Your Beast VR are set to arrive in December, while the remaining three are coming in Q1 2027. As for community-created mods, Dreamport is built around the company's Somnium Space SDK, which makes secure C# scripting available to creators. The company is releasing specific Dreamport tools too, so modders and developers can start bringing their VR mods to the platform. Courtesy Somnium For now, the studio has shown off a number of PC VR mods already integrated into Dreamport, ",
+   "repos": [],
+   "firstSeen": "2026-11-28T16:59:43.721Z"
+  },
+  {
+   "title": "Untitled Goose Game VR Performance / New VR Mod with First Person View / PCVR",
+   "url": "https://www.youtube.com/watch?v=I_AP1J01tM0",
+   "date": "2026-11-28T11:00:59.000Z",
+   "source": "YouTube: NotAGameAddict",
+   "outlet": "YouTube: NotAGameAddict",
+   "summary": "Gander VR mod was made by NilClass - https://gander.ernie.io/#what-it-is Untitled Goose Game - https://store.steampowered.com/app/837470/Untitled_Goose_Game/",
+   "image": "https://i2.ytimg.com/vi/I_AP1J01tM0/hqdefault.jpg",
+   "text": "Untitled Goose Game VR Performance / New VR Mod with First Person View / PCVR Gander VR mod was made by NilClass - https://gander.ernie.io/#what-it-is Untitled Goose Game - https://store.steampowered.com/app/837470/Untitled_Goose_Game/",
+   "repos": [],
+   "firstSeen": "2026-11-28T16:59:43.721Z"
+  },
+  {
    "title": "GIGABYTE’s Control Center Development Team Was Fired After AI Analysis Revealed The Software Was Causing Frame-Pacing Issues On NVIDIA GPUs",
    "url": "https://wccftech.com/gigabyte-control-center-development-team-fired-ai-analysis-frame-pacing-nvidia-gpus/",
    "date": "2026-11-28T06:22:02.000Z",
@@ -127,14 +289,14 @@
    "firstSeen": "2026-11-28T00:08:01.571Z"
   },
   {
-   "title": "XREAL Aura Review: PCVR, Standalone & More",
+   "title": "XREAL Aura Review: PCVR, DroidDeck, Steam & More",
    "url": "https://www.youtube.com/watch?v=Nme3tWF_usk",
    "date": "2026-11-27T17:18:35.000Z",
    "source": "YouTube: LunchAndVR",
    "outlet": "YouTube: LunchAndVR",
    "summary": "Hello there, this is a review on using the XREAL AURA to play PCVR, standalone & to work! Can lightweight XR glasses actually handle PCVR gaming, standalone use, and productivity? In this review of the XREAL Aura (OS is Android XR), I break down how these wired XR glasses perform across gaming, work, and everyday use. You can find the XREAL Aura here: https://us.shop.xreal.com/products/xreal-aura?",
    "image": "https://i3.ytimg.com/vi/Nme3tWF_usk/hqdefault.jpg",
-   "text": "XREAL Aura Review: PCVR, Standalone & More Hello there, this is a review on using the XREAL AURA to play PCVR, standalone & to work! Can lightweight XR glasses actually handle PCVR gaming, standalone use, and productivity? In this review of the XREAL Aura (OS is Android XR), I break down how these wired XR glasses perform across gaming, work, and everyday use. You can find the XREAL Aura here: https://us.shop.xreal.com/products/xreal-aura?utm_source=reddit&utm_medium=koc&utm_campaign=AURA_Launch&utm_content=Josh Droid Deck for Steam: https://github.com/Droid-Deck/DroidDeck Joycon2Android: https://github.com/JoeGeC/joycon2android Video Sources: The Android Show | XR Edition: XREAL Project Aura https://www.youtube.com/watch?v=qIQ7Qga61QI Your favorite apps. A whole new dimension. With XREAL AURA, powered by Android XR. https://www.youtube.com/watch?v=x-Hu3zL-IxY XREAL AURA: Wired XR Glasses Powered by Android XR to watch, work, and play https://www.youtube.com/watch?v=wDAvQqj3I9w 0:00 Intro 0:51 Specs 1:58 Standalone Use 4:36 Droid Deck Settings 5:57 Work Use 7:28 PCVR Use _ Thanks for coming! Appreciate you dropping by here, you're a cool person. If you want to stay around, I do all things VR & gaming related. (lunch included) Lunch's Discounts/affiliates here: https://linktr.ee/lunchandvr On this LunchAndVR YouTube Channel you'll always find the latest VR gameplay, PCVR mods, and honest virtual reality hardware reviews across the best headsets and XR glasses like the XREAL Au",
+   "text": "XREAL Aura Review: PCVR, DroidDeck, Steam & More Hello there, this is a review on using the XREAL AURA to play PCVR, standalone & to work! Can lightweight XR glasses actually handle PCVR gaming, standalone use, and productivity? In this review of the XREAL Aura (OS is Android XR), I break down how these wired XR glasses perform across gaming, work, and everyday use. You can find the XREAL Aura here: https://us.shop.xreal.com/products/xreal-aura?utm_source=reddit&utm_medium=koc&utm_campaign=AURA_Launch&utm_content=Josh Droid Deck for Steam: https://github.com/Droid-Deck/DroidDeck Joycon2Android: https://github.com/JoeGeC/joycon2android Video Sources: The Android Show | XR Edition: XREAL Project Aura https://www.youtube.com/watch?v=qIQ7Qga61QI Your favorite apps. A whole new dimension. With XREAL AURA, powered by Android XR. https://www.youtube.com/watch?v=x-Hu3zL-IxY XREAL AURA: Wired XR Glasses Powered by Android XR to watch, work, and play https://www.youtube.com/watch?v=wDAvQqj3I9w 0:00 Intro 0:51 Specs 1:58 Standalone Use 4:36 Droid Deck Settings 5:57 Work Use 7:28 PCVR Use _ Thanks for coming! Appreciate you dropping by here, you're a cool person. If you want to stay around, I do all things VR & gaming related. (lunch included) Lunch's Discounts/affiliates here: https://linktr.ee/lunchandvr On this LunchAndVR YouTube Channel you'll always find the latest VR gameplay, PCVR mods, and honest virtual reality hardware reviews across the best headsets and XR glasses like the XR",
    "repos": [
     "github:Droid-Deck/DroidDeck",
     "github:JoeGeC/joycon2android"
