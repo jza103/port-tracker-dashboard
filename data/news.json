@@ -1,6 +1,32 @@
 {
  "articles": [
   {
+   "title": "GIGABYTE’s Control Center Development Team Was Fired After AI Analysis Revealed The Software Was Causing Frame-Pacing Issues On NVIDIA GPUs",
+   "url": "https://wccftech.com/gigabyte-control-center-development-team-fired-ai-analysis-frame-pacing-nvidia-gpus/",
+   "date": "2026-11-28T06:22:02.000Z",
+   "source": "Wccftech",
+   "outlet": "Wccftech",
+   "summary": "The role of AI has branched out towards diagnosing software-related issues, with the latest case centering around GIGABYTE. According to the latest report, the company allegedly dismissed its entire Control Center development team following widespread complaints that its RGB lighting utility causes persistent frame-pacing stutters on NVIDIA graphics cards. According to a report originating from Br",
+   "image": "https://cdn.wccftech.com/wp-content/uploads/2026/11/GIGABYTE-control-center-causing-frame-pacing-issues-on-NVIDIA-GPUs-1456x819.jpg",
+   "text": "GIGABYTE’s Control Center Development Team Was Fired After AI Analysis Revealed The Software Was Causing Frame-Pacing Issues On NVIDIA GPUs The role of AI has branched out towards diagnosing software-related issues, with the latest case centering around GIGABYTE. According to the latest report, the company allegedly dismissed its entire Control Center development team following widespread complaints that its RGB lighting utility causes persistent frame-pacing stutters on NVIDIA graphics cards. According to a report originating from Brazil, the root cause of the performance degradation was uncovered by an independent researcher using AI-assisted reverse engineering. RGB polling causes GPU performance drops, emphasizing the need for these companies to pour more resources into optimizing their software If you’ve ever been a victim of [&hellip;] Read full article at https://wccftech.com/gigabyte-control-center-development-team-fired-ai-analysis-frame-pacing-nvidia-gpus/",
+   "repos": [],
+   "firstSeen": "2026-11-28T08:07:53.017Z"
+  },
+  {
+   "title": "PlayStation All Stars Battle Royale Recomp Out NOW! A New PS3 Recomp",
+   "url": "https://www.youtube.com/watch?v=D-_DR9gQv-E",
+   "date": "2026-11-28T02:00:04.000Z",
+   "source": "YouTube: Video Game Esoterica",
+   "outlet": "YouTube: Video Game Esoterica",
+   "summary": "SUPPORT THE CHANNEL : http://www.patreon.com/VideoGameEsoterica A new PS3 recomp is here! A PlayStation All Stars Battle Royale recomp...and its GOOD! Or a PlayStation All Stars recomp for the search of it all! It's very good for being so early! Plus more PS3 recomps cant hurt! Yes we have PS4 PC ports, PS2 recomps, Switch recomps, N64 Recomps...and more! But its been a wait until we got our first",
+   "image": "https://i1.ytimg.com/vi/D-_DR9gQv-E/hqdefault.jpg",
+   "text": "PlayStation All Stars Battle Royale Recomp Out NOW! A New PS3 Recomp SUPPORT THE CHANNEL : http://www.patreon.com/VideoGameEsoterica A new PS3 recomp is here! A PlayStation All Stars Battle Royale recomp...and its GOOD! Or a PlayStation All Stars recomp for the search of it all! It's very good for being so early! Plus more PS3 recomps cant hurt! Yes we have PS4 PC ports, PS2 recomps, Switch recomps, N64 Recomps...and more! But its been a wait until we got our first PS3 recomp...and we got that with the Resistance PS3 recomp! The PlayStation 3 recomp generation / PS3 PC port generation is kicking off now! PlayStation PC ports without PlayStation? SURE! Check it out here: https://github.com/samuelMadureira23/allstars-port Questions? Comments? Just leave them below and I will do my best to answer each and every one of them! http://www.patreon.com/VideoGameEsoterica VGE Discord: https://discord.gg/V6ghGVC6Ts",
+   "repos": [
+    "github:samuelMadureira23/allstars-port"
+   ],
+   "firstSeen": "2026-11-28T08:07:53.017Z"
+  },
+  {
    "title": "Prince of Persia The Lost Crown VR Mod - Native Stereo and Color Passthrough Mixed Reality Optional",
    "url": "https://www.youtube.com/watch?v=1PfAFK2WrDA",
    "date": "2026-11-27T23:40:14.000Z",
